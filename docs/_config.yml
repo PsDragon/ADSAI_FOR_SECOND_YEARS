@@ -1,2 +1,10 @@
 #theme: jekyll-theme-cayman
 remote_theme: rundocs/jekyll-rtd-theme
+
+script: |
+  alert("it");
+  alert("works!");
+
+scss: |
+  .wy-nav-content-wrap{background:#0c0c0c}
+  .wy-nav-content-wrap .wy-nav-content{max-width:none}

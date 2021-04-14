@@ -1,12 +1,5 @@
 
-title: RunDocs
 lang: en
-description: Extends the continuous integration documentation capabilities of GitHub pages for everyone!
-
 
 #theme: jekyll-theme-cayman
 remote_theme: rundocs/jekyll-rtd-theme
-
-scss: |
-  .wy-nav-content-wrap{background:#0c0c0c}
-  .wy-nav-content-wrap .wy-nav-content{max-width:none}

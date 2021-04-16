@@ -3,3 +3,6 @@ lang: en
 
 #theme: jekyll-theme-cayman
 remote_theme: rundocs/jekyll-rtd-theme
+
+scss: |
+  .wy-nav-content-wrap{background:#a45e24}

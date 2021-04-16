@@ -4,9 +4,12 @@ lang: en
 #theme: jekyll-theme-cayman
 remote_theme: rundocs/jekyll-rtd-theme
 
+readme_index:
+  with_frontmatter: true
+
 scss: |
   .wy-nav-content-wrap{background:#a45e24}
-  
+
 plugins:
   - jemoji
   - jekyll-avatar

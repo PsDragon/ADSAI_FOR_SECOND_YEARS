@@ -7,3 +7,5 @@ For each class you want to attent it contains the information you need to arrive
 Then arrive in class prepared in order to benefit most from it. Enjoy!
 
 The AAI&DM Team
+
+{% include list.liquid all=true %}

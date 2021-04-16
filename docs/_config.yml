@@ -6,9 +6,7 @@ remote_theme: rundocs/jekyll-rtd-theme
 
 scss: |
   .wy-nav-content-wrap{background:#a45e24}
-
-readme_index: with_frontmatter: true
-
+  
 plugins:
   - jemoji
   - jekyll-avatar

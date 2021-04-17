@@ -4,14 +4,19 @@ sort: 1
 
 # Development Environment
 
-Author:	Carlos Santos
-Learning Line:	Programming
-Course:	PR1: Introduction to Programming
-Week:	1
-Competencies:	Students will be able to effectively define and use variables, programming flow control.
-BoKS:	3bK2, The student understands the principles of data related software like Python, R, Scala and/or Java and knows how to write (basic) scripts.
-Learning Goals:	Variables and Data Types
-In-code Comments
+>**Author:**	Carlos Santos
+
+>**Learning Line:**	Programming
+
+>**Course:** PR1: Introduction to Programming
+
+>**Week:** 1
+
+>**Competencies:** Students will be able to effectively define and use variables, programming flow control.
+
+>**BoKS:**	3bK2, The student understands the principles of data related software like Python, R, Scala and/or Java and knows how to write (basic) scripts.
+
+>**Learning Goals:** Variables and Data Types In-code Comments
 
 ## Step 1: Setup The Development Environment
 

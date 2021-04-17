@@ -8,7 +8,7 @@ readme_index:
   with_frontmatter: true
 
 scss: |
-  .wy-nav-content-wrap{background:#a45e24}
+  .header{background:#a45e24}
 
 plugins:
   - jemoji

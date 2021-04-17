@@ -8,7 +8,7 @@ readme_index:
   with_frontmatter: true
 
 scss: |
-  .header{background:#a45e24}
+  .header{background:#e67e22}
 
 plugins:
   - jemoji

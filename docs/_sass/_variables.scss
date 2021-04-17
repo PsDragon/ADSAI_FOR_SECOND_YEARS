@@ -4,7 +4,7 @@ $head-font: "Roboto-Slab", sans-serif;
 $mono-font: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
 
 // theme color
-$theme-blue: #b93a29;
+$theme-blue: #2980b9;
 $theme-red: #e74c3c;
 $theme-green: #1abc9c;
 $theme-orange: #e67e22;
@@ -13,8 +13,8 @@ $theme-white: lighten($black, 99%);
 $theme-black: lighten($black, 15%);
 
 // theme link
-$theme-link: $red;
-$theme-link-hover: lighten($red, 10%);
+$theme-link: $blue;
+$theme-link-hover: lighten($blue, 10%);
 $theme-link-visited: lighten($purple, 10%);
 
 // theme code
@@ -30,5 +30,5 @@ $theme-mask-black: transparentize($theme-black, 0.9);
 // theme menu
 $theme-menu-width-sm: 85%;
 $theme-menu-width: 300px;
-$theme-menu-background: $theme-orange;
-$theme-menu-active-background: $theme-orange;
+$theme-menu-background: darken($theme-orange, 10%);
+$theme-menu-active-background: darken($theme-orange, 15%);

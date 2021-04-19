@@ -1,3 +1,7 @@
+---
+sort: 2
+---
+
 # Variables And Data Types
 >**Author:**	Carlos Santos
 >**Learning Line:**	Programming

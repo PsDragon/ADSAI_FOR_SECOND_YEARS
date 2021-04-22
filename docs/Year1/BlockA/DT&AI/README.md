@@ -1,4 +1,4 @@
-# Introduction To Programming
+# Introduction To DT & AI
 
 Goals : 
 

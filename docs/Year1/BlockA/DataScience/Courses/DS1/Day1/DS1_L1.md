@@ -1,8 +1,7 @@
 ﻿# Introduction To Data Science
-Hello, welcomd to Data Science 1. Bla bla blah.
+Hello, welcomd to Data Science 1. Bla bla blah. Are you interest in Regression? Oh boy, well then it's your lucky day: [click here!](https://github.com/BredaUniversity/AAI-DM/blob/9c941191576eaf85eba554ac5a77fe44bbf17668/docs/Year1/BlockA/DataScience/Wiki/RegressionExample.md) 
 
-## 0) Watch or attend the opening lecture
-https://youtu.be/dQw4w9WgXcQ
+## 0) Watch or attend the [opening lecture](https://youtu.be/dQw4w9WgXcQ)
 
 ## 1) Get R
 In order to run swirl, you must have R 3.1.0 or later installed on your computer. 
@@ -10,8 +9,8 @@ If you need to install R, you can do so here:
 - https://cran.rstudio.com/
 
 For help installing R, check out one of the following videos (courtesy of Roger Peng at Johns Hopkins Biostatistics):
-- Installing R on Windows: https://youtu.be/mfGFv-iB724
-- Installing R on Mac: https://youtu.be/Icawuhf0Yqo
+- Installing R on [Windows](https://youtu.be/mfGFv-iB724)
+- Installing R on [Mac](https://youtu.be/Icawuhf0Yqo)
 
 ## 2) Get R-Studio
 In addition to R, it’s highly recommended that you install RStudio, which will make your experience with R much more enjoyable.
@@ -23,7 +22,7 @@ Open RStudio (or just plain R if you don't have RStudio) and type the following 
 	> install.packages("swirl")
 ```
 
-![alt text](https://github.com/BredaUniversity/GitHub/AAI-DM/docs/Year1/BlockA/DataScience/Courses/DS1/Day1/assets/rstudio2.png "Logo Title Text 1")
+![R-Studio Interface:](https://github.com/BredaUniversity/AAI-DM/blob/9c941191576eaf85eba554ac5a77fe44bbf17668/docs/Year1/BlockA/DataScience/Courses/DS1/Day1/assets/rstudio2.png)
 
 
 Note that the > symbol at the beginning of the line is R's prompt for you type something into the console. We include it here so you know that this command is to be typed into the console and not elsewhere. The part you type begins after >.

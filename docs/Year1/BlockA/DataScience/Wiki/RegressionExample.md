@@ -38,7 +38,7 @@ Make sure you check Register Anaconda as system Python 3.7
 
 ### Covered in Materials:
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/BredaUniversity/AAI-DM/blob/3ea503dfafc050915304c5dee1be60bb31eb0018/docs/Year1/BlockA/DataScience/Courses/DS1/Day1/assets/LearningMaterial.png)
 
 
 -	Importance is determined by a usefulness score provided by the students
@@ -58,4 +58,4 @@ In some case it can be part of the reporting or worklog?
 
 ### Wild Ideas
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Very wild indeed:](https://github.com/BredaUniversity/AAI-DM/blob/3ea503dfafc050915304c5dee1be60bb31eb0018/docs/Year1/BlockA/DataScience/Courses/DS1/Day1/assets/LearningMaterialWildIdeas.png)

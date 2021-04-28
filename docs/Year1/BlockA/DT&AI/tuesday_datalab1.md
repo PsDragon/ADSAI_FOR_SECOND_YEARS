@@ -50,6 +50,6 @@ feedback.
 
 ***
 
-### __Literature/Resources__
+### __References__
 - Spielberg, S. (Director). (2002). Minority Report [Film]. Twentieth Century Fox.
 - Diaz, L. (2014, May). How to Take Notes of Videos. USC Kortschak Center for Learning and Creativity. http://kortschakcenter.usc.edu/wp-content/uploads/2014/05/Video-Note-taking.pdf

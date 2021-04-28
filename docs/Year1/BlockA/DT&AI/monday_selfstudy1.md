@@ -49,7 +49,7 @@ __2e__ Connect the Post It notes (Fig 1.) to the relevant quadrant in the philos
 \
 \
 \
-<img src="https://raw.githubusercontent.com/BredaUniversity/AAI-DM/main/docs/Year1/BlockA/DT%26AI/matrix.jpg?token=ANZYLNGDO4PNC2VNUQ5VX5DASKKU2" alt="Your image title" width="900"/>
+<img src="https://raw.githubusercontent.com/BredaUniversity/AAI-DM/main/docs/Year1/BlockA/DT%26AI/matrix.jpg?token=ANZYLNGDO4PNC2VNUQ5VX5DASKKU2" alt="Your image title" width="750"/>
 
 *Figure 2. Philosophy of AI matrix.*
 

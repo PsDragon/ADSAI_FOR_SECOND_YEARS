@@ -83,6 +83,10 @@ your choice.
 __4d__ Can you think of a scenario where an AI method that uses a symbolic approach would be more suited than a method
 that uses a non-symbolic approach? Explain your answer.
 
+'''note
+Want to build your own neural network, visit ([Tensorflow's PLayground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.12586&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false))
+'''
+
 ***
 
 ### __5. Intelligent Agents__ 

@@ -8,7 +8,7 @@ The course 'Introduction to Artificial Intelligence & Digital Transformation' in
 
 | Lecturer  | Education & Experience  | Working Days  | Contact  |
 | ------------ | ------------ | ------------ | ------------ |
-| <img src="https://github.com/BredaUniversity/AAI-DM/blob/main/docs/Year1/BlockA/DT%26AI/irene_profile.jpg" alt="Irene van Blerck" width="250"/> Irene van Blerck|BA. Liberal Arts & Sciences (University College Roosevelt, Middelburg) <br> MSc. Data Science; Business and Governance (Tilburg University, Tilburg) <br> <br> Machine Learning Researcher (Responsible AI Lab, Amsterdam University of Applied Sciences, Amsterdam) <br>Data Scientist (Municipality of Oosterhout, Oosterhout)| Tue, Wed, Thu, and Fri  |  blerck.i@buas.nl |
+| <img src="https://raw.githubusercontent.com/BredaUniversity/AAI-DM/blob/main/docs/Year1/BlockA/DT%26AI/irene_profile.jpg" alt="Irene van Blerck" width="250"/> Irene van Blerck|BA. Liberal Arts & Sciences (University College Roosevelt, Middelburg) <br> MSc. Data Science; Business and Governance (Tilburg University, Tilburg) <br> <br> Machine Learning Researcher (Responsible AI Lab, Amsterdam University of Applied Sciences, Amsterdam) <br>Data Scientist (Municipality of Oosterhout, Oosterhout)| Tue, Wed, Thu, and Fri  |  blerck.i@buas.nl |
 | Zhanna |   |   |   |
 
 \

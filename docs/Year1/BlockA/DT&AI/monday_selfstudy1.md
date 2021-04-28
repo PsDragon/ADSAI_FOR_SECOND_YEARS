@@ -116,6 +116,7 @@ environment, and characterize it in terms of the properties listed in Section 2.
 
 ***
 
-### __Literature/Resources__
+### __References__
 
 - Stuart, R., & Peter, N. Artificial Intelligence: A Modern Approach. 2020. 
+- Add videos etc.

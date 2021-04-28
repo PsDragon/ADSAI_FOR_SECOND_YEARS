@@ -8,7 +8,7 @@ The course 'Introduction to Artificial Intelligence & Digital Transformation' in
 
 | Lecturer  | Education & Experience  | Working Days  | Contact  |
 | ------------ | ------------ | ------------ | ------------ |
-| <img src="" alt="Irene van Blerck" width="400"/> |BA. Liberal Arts & Sciences (University College Roosevelt, Middelburg) <br> MSc. Data Science; Business and Governance (Tilburg University, Tilburg) <br> <br> Machine Learning Researcher (Responsible AI Lab, Amsterdam University of Applied Sciences, Amsterdam) <br>Data Scientist (Municipality of Oosterhout, Oosterhout)| Tue, Wed, Thu, and Fri  |  blerck.i@buas.nl |
+| <img src="https://github.com/BredaUniversity/AAI-DM/blob/main/docs/Year1/BlockA/DT%26AI/irene_profile.jpg" alt="Irene van Blerck" width="400"/> |BA. Liberal Arts & Sciences (University College Roosevelt, Middelburg) <br> MSc. Data Science; Business and Governance (Tilburg University, Tilburg) <br> <br> Machine Learning Researcher (Responsible AI Lab, Amsterdam University of Applied Sciences, Amsterdam) <br>Data Scientist (Municipality of Oosterhout, Oosterhout)| Tue, Wed, Thu, and Fri  |  blerck.i@buas.nl |
 | Zhanna |   |   |   |
 
 \
@@ -55,7 +55,7 @@ __Week 1__
 | Thursday | Self-study 3: Turing Test & Chatbots  |
 | Friday  | Workshop 2: Turing Test & Chatbots |
 
-###__Creative Brief__
+### __Creative Brief__
 
 Students are required to create a professional report of maximum 3000 words (excl. cover/table of content/list of 
 references, and appendices) on AI and Science Fiction using academic style of writing. For the report, students are 

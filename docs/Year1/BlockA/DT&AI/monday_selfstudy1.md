@@ -2,7 +2,7 @@
 sort: 2
 ---
 
-## __Self-study 1: The Foundations of Artificial Intelligence__
+## __Self-Study 1: The Foundations of Artificial Intelligence__
 
 ### __1. Introduction__
 \

@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-## __Introduction to Artificial Intelligence & Digital Transformation__
+# __Introduction to Artificial Intelligence & Digital Transformation__
 
 The course 'Introduction to Artificial Intelligence & Digital Transformation' introduces students to the foundational concepts of artificial intelligence, and digital transformation. In addition, it aims at fulfilling the needs of reading/writing, and critical/creative thinking skills of Artificial Intelligence & Data Management students. 
 
@@ -43,6 +43,8 @@ Knowledge & Understanding Objectives:
 Learning & Research Objectives: 
 
 - effectively read and summarize (academic) documentation 
+
+***
 
 ### __Schedule__
 

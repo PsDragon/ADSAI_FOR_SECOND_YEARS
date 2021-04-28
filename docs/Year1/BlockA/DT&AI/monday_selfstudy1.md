@@ -43,13 +43,13 @@ d. *No machine can demonstrate genuine understanding*
 __2e__ Connect the Post It notes (Fig 1.) to the relevant quadrant in the philosophy matrix (Fig 2.). For example, A = 1, 2, and  B = 3, 4, 5 etc.
 \
 \
-<img src="https://raw.githubusercontent.com/irenevanblerck/irenevanblerck.github.io/master/philosophy_matrix.jpg" alt="Your image title" width="400"/>
+<img src="https://raw.githubusercontent.com/BredaUniversity/AAI-DM/main/docs/Year1/BlockA/DT%26AI/post_it.jpg" alt="Your image title" width="400"/>
 
 *Figure 1. Post It notes with philosophy of AI terms.*
 \
 \
 \
-<img src="https://raw.githubusercontent.com/irenevanblerck/irenevanblerck.github.io/master/matrix.jpg" alt="Your image title" width="900"/>
+<img src="https://raw.githubusercontent.com/BredaUniversity/AAI-DM/main/docs/Year1/BlockA/DT%26AI/matrix.jpg" alt="Your image title" width="900"/>
 
 *Figure 2. Philosophy of AI matrix.*
 

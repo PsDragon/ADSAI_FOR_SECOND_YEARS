@@ -56,9 +56,9 @@ __Week 1__
 
 |  Day | Topic(s)   |
 | ------------ | ------------ |
-|  Monday | Self-study 1: The Foundations of Artificial Intelligence   |
+|  Monday | Self-Study 1: The Foundations of Artificial Intelligence   |
 |  Tuesday | DataLab 1 1: AI in Science (Fiction), Minority Report |
-| Wednesday | Self-study 2: Turing Test & Chatbots |
-| Thursday | Self-study 3: Turing Test & Chatbots  |
+| Wednesday | Self-Study 2: Turing Test & Chatbots |
+| Thursday | Self-Study 3: Turing Test & Chatbots  |
 | Friday  | DataLab 2: Turing Test & Chatbots |
 

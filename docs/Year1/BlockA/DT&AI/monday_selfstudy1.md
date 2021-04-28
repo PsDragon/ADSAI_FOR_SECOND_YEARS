@@ -111,7 +111,7 @@ is called Gary Kasparov.
   b) deterministic or stochastic, c) episodic or sequential, d) static, dynamic, or semidynamic, 
   e) discrete or continuous, f) single agent or multi-agent. Explain your answer. (rephrase)
 
-__5e__ Provide an example of an intelligent agent in a business setting, and give a PEAS description of the task 
+__5e__ Provide an example of an intelligent agent in a business setting, give a PEAS description of the task 
 environment, and characterize it in terms of the properties listed in Section 2.3.2 (p. 117) in AIMA.
 
 ***

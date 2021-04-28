@@ -21,8 +21,6 @@ Learning Outcomes:
 - recognize opportunities in applying AI to transform existing businesses
 - report on thoughts and findings 
 
-*More precise:*
-
 Knowledge & Understanding Objectives: 
 
 - demonstrate basic knowledge about the field’s landscape by giving examples of AI applications

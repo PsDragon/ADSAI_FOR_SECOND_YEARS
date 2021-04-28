@@ -2,7 +2,7 @@
 sort: 3
 ---
 
-## __Workshop 1__
+## __Workshop 1: AI in Science (Fiction), Minority Report__
 
 Today, we will start working on the final assignment of AI&DT: AI & Science (Fiction). A detailed description can be 
 found in the creative brief. 

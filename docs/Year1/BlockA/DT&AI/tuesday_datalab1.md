@@ -42,7 +42,7 @@ There will be three screenings, timeslots are listed below:
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Tip: if you take notes during the movie, it will be easier to identify all the relevant AI concepts. For note taking 
-strategies, visit <"http://kortschakcenter.usc.edu/wp-content/uploads/2014/05/Video-Note-taking.pdf">[2]</a>.
+strategies, visit <"http://kortschakcenter.usc.edu/wp-content/uploads/2014/05/Video-Note-taking.pdf/">[2]</a>.
 </div>   
 
 Before/after the movie you have time to work on the self-study material or assignment, and/or ask the lecturers for 

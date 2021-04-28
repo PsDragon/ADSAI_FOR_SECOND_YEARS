@@ -14,6 +14,8 @@ movies, books, video games etc.).
 
 [![Video 1.](intro_ai.jpg)](https://www.youtube.com/watch?v=SN2BZswEWUA "Click on link to open video!")
 
+***
+
 ### __2. Philosophy of Artificial Intelligence__ 
 \
 __2a__ Read the first two sub-chapters of the book Artificial Intelligence: A Modern Approach (AIMA) (p.29-62). 
@@ -53,6 +55,8 @@ __2e__ Connect the Post It notes (Fig 1.) to the relevant quadrant in the philos
 
 *Figure 2. Philosophy of AI matrix.*
 
+***
+
 ### __3 History of Artificial Intelligence__ 
 \
 __3a__ Watch the video on the History of AI by YouTube´s AI with Alex. 
@@ -60,6 +64,8 @@ __3a__ Watch the video on the History of AI by YouTube´s AI with Alex.
 [![Video 2.](history_ai.jpg)](https://www.youtube.com/watch?v=JjQGKSOTHa4 "Click on link to open video!")
 
 __3b__ Select, and describe one 'milestone' in the history of AI. Be creative!
+
+***
 
 ### __4. Symbolic AI vs. Non-symbolic AI__
 
@@ -76,6 +82,8 @@ your choice.
 
 __4d__ Can you think of a scenario where an AI method that uses a symbolic approach would be more suited than a method
 that uses a non-symbolic approach? Explain your answer.
+
+***
 
 ### __5. Intelligent Agents__ 
 \
@@ -103,6 +111,7 @@ __5e__ Provide an example of an intelligent agent in a business setting, and giv
 environment, and characterize it in terms of the properties listed in Section 2.3.2 (p. 117) in AIMA.
 
 ***
+
 ### __Literature/Resources__
 
 - Stuart, R., & Peter, N. Artificial Intelligence: A Modern Approach. 2020. 

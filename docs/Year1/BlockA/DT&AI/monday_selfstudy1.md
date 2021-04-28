@@ -101,3 +101,8 @@ is called Gary Kasparov.
 
 __5e__ Provide an example of an intelligent agent in a business setting, and give a PEAS description of the task 
 environment, and characterize it in terms of the properties listed in Section 2.3.2 (p. 117) in AIMA.
+
+***
+### __Literature/Resources__
+
+- Stuart, R., & Peter, N. Artificial Intelligence: A Modern Approach. 2020. 

@@ -11,8 +11,8 @@ found in the creative brief.
 
 ### __Creative Brief__
 
-Students are required to create a professional report of maximum 3000 words (excl. cover/table of content/list of 
-references, and appendices) on AI and Science Fiction using academic style of writing. For the report, students are 
+For the assignment you are going to create a professional report of maximum 3000 words (excl. cover/table of content/list of 
+references, and appendices) on AI and Science Fiction using academic style of writing. For the report, you are 
 expected to analyse Minority Report, which is a movie that uses AI as an integral part of the 
 plot. In the report, you will describe the plot, and the role played by AI; analyse the author(s)’ concept of AI and 
 conclude by discussing the feasibility of this concept. Additionally, the report needs to contain a novel case of how 

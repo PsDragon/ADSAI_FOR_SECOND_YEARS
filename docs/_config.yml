@@ -11,7 +11,15 @@ scss: |
   .header{background:#e67e22}
   .sidebar{background:#e67e22}
   .toctree{.caption{color:#0f1010}}
-  $theme-white: #e67e22;
+  :root {
+    @for $level from 1 through 12 {
+      @if $level % 4 == 0 {
+        --toc-#{$level}: #{darken($theme-orange, 4 * 8.8%)};
+      } @else {
+        --toc-#{$level}: #{darken($theme-orange, $level % 4 * 8.8%)};
+      }
+    }
+  }
 
 plugins:
   - jemoji

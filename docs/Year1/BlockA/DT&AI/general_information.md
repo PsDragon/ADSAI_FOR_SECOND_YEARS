@@ -6,7 +6,7 @@ sort: 1
 
 ## __Introduction to Artificial Intelligence & Digital Transformation__
 
-The course 'Introduction to Artificial Intelligence & Digital Transformation' introduces students to the foundational concepts of artificial intelligence, and digital transformation. In addition, it aims at fulfilling the needs of reading/writing, and critical/creative thinking skills of first year Artificial Intelligence & Data Management students. 
+The course 'Introduction to Artificial Intelligence & Digital Transformation' introduces students to the foundational concepts of artificial intelligence, and digital transformation. In addition, it aims at fulfilling the needs of reading/writing, and critical/creative thinking skills of first year Artificial Intelligence & Data Management students.
 
 ### __Contact__
 
@@ -26,29 +26,31 @@ Learning Outcomes:
 - identify, and analyze AI applications in fictional, and real life scenarios by examining and applying relevant concepts from AI literature and theory
 - demonstrate an understanding of how AI is applied in different sectors of the economy
 - recognize opportunities in applying AI to transform existing businesses
-- report on thoughts and findings 
+- report on thoughts and findings
 
-Knowledge & Understanding Objectives: 
+Knowledge & Understanding Objectives:
 
 - demonstrate basic knowledge about the field’s landscape by giving examples of AI applications
-- identify and compare the four approaches to defining AI systems 
-- list and describe closely related disciplines 
-- explain the basic structure, working and organisation of biological neurons, and relate it to a neural network 
-- identify and describe the major periods in the history of AI 
-- describe the working, and limitations of the Turing Test/Imitation Game 
-- list examples of both the benefits and risks associated with AI 
-- list the defining characteristics of an intelligent agent 
+- identify and compare the four approaches to defining AI systems
+- list and describe closely related disciplines
+- explain the basic structure, working and organisation of biological neurons, and relate it to a neural network
+- identify and describe the major periods in the history of AI
+- describe the working, and limitations of the Turing Test/Imitation Game
+- list examples of both the benefits and risks associated with AI
+- list the defining characteristics of an intelligent agent
 - provide examples of agents and their corresponding PEAS (Performance, Environment, Actuators, Sensors) descriptions
-- identify and describe the main properties of task environments 
+- identify and describe the main properties of task environments
 - understand and differentiate between the four (basic) kinds of agent program
 
-Learning & Research Objectives: 
+Learning & Research Objectives:
 
-- effectively read and summarize (academic) documentation 
+- effectively read and summarize (academic) documentation
 
 ***
 
 ### __Schedule__
+
+x
 
 The course has a study load of 36 hours per week. Two workshops of two hours are held each week in the DataLab. The rest of the time you will spend on independent/group study, either at home or in the DataLab.
 
@@ -61,4 +63,3 @@ __Week 1__
 | Wednesday | Self-Study 2: Turing Test & Chatbots |
 | Thursday | Self-Study 3: Turing Test & Chatbots  |
 | Friday  | DataLab 2: Turing Test & Chatbots |
-

@@ -1,10 +1,10 @@
 ---
 sort: 4
---
+---
 
 # __Introduction to Artificial Intelligence & Digital Transformation__
 \
-<img src="https://raw.githubusercontent.com/BredaUniversity/AAI-DM/main/docs/Year1/BlockA/DT%26AI/ai_banner.jpg?token=ANZYLNEPDBNYF3PK4PUDJCDASKKS6" alt="Your image title" width="400"/>
+<img src="https://raw.githubusercontent.com/BredaUniversity/AAI-DM/main/docs/Year1/BlockA/DT%26AI/ai_banner.jpg?token=ANZYLNFKDVMGCM2YNSEAM63AUT6MK6" alt="Your image title" width="600"/>
 
 ## __Exercises__
 

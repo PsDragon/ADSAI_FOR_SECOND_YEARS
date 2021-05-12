@@ -12,6 +12,7 @@ scss: |
   .sidebar{background:#e67e22}
   .toctree{.caption{color:#0f1010}}
 
+
 plugins:
   - jemoji
   - jekyll-avatar

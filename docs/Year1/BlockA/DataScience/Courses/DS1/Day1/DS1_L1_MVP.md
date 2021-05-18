@@ -86,19 +86,19 @@ Every workshop includes a small mock-assessment to prepare you for the actual as
 
 1. Questions: Defining objects as data
 
-a) Choose an object to define: e.g. in your direct vicinity or something you like or want to understand better.
-b) Describe the object formally in at least 100 words.
-c) Quantify the object into (at least 10) variables. 
-d) Form a data-driven research question based on your variables and the formal description of the object.
-e) Describe the background for your research question based on your research question, formal description, variables and other resources found online. References your sources using APA citation.
+a. Choose an object to define: e.g. in your direct vicinity or something you like or want to understand better.
+b. Describe the object formally in at least 100 words.
+c. Quantify the object into (at least 10) variables. 
+d. Form a data-driven research question based on your variables and the formal description of the object.
+e. Describe the background for your research question based on your research question, formal description, variables and other resources found online. References your sources using APA citation.
 
 2. Questions: Defining phenomena as data
 
-a) Choose an phenomena to define: e.g. in your direct vicinity or something you like or want to understand better. 
-b) Describe the phenomena formally in at least 100 words.
-c) Quantify the phenomena into (at least 10) variables. 
-d) Form a data-driven research question based on your variables and the formal description of the phenomena.
-e) Describe the background for your research question based on your research question, formal description, variables and other resources found online. References your sources using APA citation.
+a. Choose an phenomena to define: e.g. in your direct vicinity or something you like or want to understand better. 
+b. Describe the phenomena formally in at least 100 words.
+c. Quantify the phenomena into (at least 10) variables. 
+d. Form a data-driven research question based on your variables and the formal description of the phenomena.
+e. Describe the background for your research question based on your research question, formal description, variables and other resources found online. References your sources using APA citation.
 
 
 ## 8) Hand-in Documentation

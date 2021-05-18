@@ -6,7 +6,7 @@ Hello, welcome to Data Science 1. The first lecture/workshop/session will focus 
 
 Name  | Education & Experience  | Contact
 ---   | ----------------------  | ---
-<img src="assets/BramMediumCloseUp.jpeg" width="140" height="200" /> | Ongoing PhD., Neurophysiological Indicators of Learning in Games, Tilburg University​  <br> MSc., Cognitive Science & Artificial Intelligence, Tilburg University​ <br> Game Architecture and Design, Breda University of Apllied Science <br> <br> &Ranj - *Game Designer* <br> GGD Zuid-Holland-Zuid - *Floor manager* | heijligers.b@buas.nl
+<img src="https://github.com/BredaUniversity/AAI-DM/blob/main/docs/Year1/BlockA/DataScience/Courses/DS1/Day1/assets/BramMediumCloseUp.jpg" width="140" height="200" /> | Ongoing PhD., Neurophysiological Indicators of Learning in Games, Tilburg University​  <br> MSc., Cognitive Science & Artificial Intelligence, Tilburg University​ <br> Game Architecture and Design, Breda University of Apllied Science <br> <br> &Ranj - *Game Designer* <br> GGD Zuid-Holland-Zuid - *Floor manager* | heijligers.b@buas.nl
 <img src="https://github.com/BredaUniversity/AAI-DM/blob/main/docs/Year1/BlockA/Programming/assets/nitinFaceSmall.png" width="140" height="200" /> | PhD., Causal Inference, University of Groningen​  <br> MSc., Artificial Intelligence, Maastricht University​ <br> Electrical Engineering, MSRIT, India <br> <br> XRCE Europe - *Machine Learning Research* <br> Bosch Transmission Technologies Ltd. - *Senior Data Scientist* | bhushan.n@buas.nl
 
 
@@ -28,7 +28,8 @@ If you need to install RStudio, you can do so [here](https://www.rstudio.com/pr
 Tip: [change the layout](https://youtu.be/7LkAe4oAlP4) to a dark hue so you reduce the eye strain you experience over time.
 
 ## 3) Install swirl
-Swirl is an interactive package for R which allows us to create interactive lessons using a basic for of AI called a Reactive Machine. Swirl will ask you a question, you respond with some input based on which swirl will respond with some output. The program doesn't learn by itself so please ask your peers or [us](mailto: heijligers.b@buas.nl; bhushan.n@buas.nl) anything you do not understand (well enough) and report any problems or issues [here](https://youtu.be/kxctvrZMxaQ)
+Swirl is an interactive package for R which allows us to create interactive lessons using a basic for of AI called a Reactive Machine. Swirl will ask you a question, you respond with some input based on which swirl will respond with some output. The program doesn't learn by itself so please ask your peers or [us](mailto:heijligers.b@buas.nl;bhushan.n@buas.nl?subject=[Question%20Regarding%20ENTERTOPIC) anything you do not understand (well enough) and [report any problems or issues]((https://github.com/BredaUniversity/AAI-DM/blob/main/docs/Year1/BlockA/DataScience/Courses/DS1/Day1/issues/new))
+
 Open RStudio and type the following into the console:
 ```R
 	> install.packages("swirl")
@@ -46,46 +47,65 @@ This is the only step that you will repeat every time you want to run swirl. Fir
 	> swirl()
 ```
 
-## 5) Start your first interactive lesson
-The first time you start swirl, you'll be prompted to install a course. You can either install one of the recommended courses or visit the course repository for more options. There are even more courses available from the Swirl Course Network. 
+## 5) Install your first interactive lesson
+The first time you start swirl, you'll get an introduction to swirl by the software itself. 
 
-We’re going to install a course which is not part of the repository
-To install a course that is not part of our course repository, type '?InstallCourses' at the R prompt for a list of functions that will help you do so.
+After which you'll be prompted to install a course. You can either install one of the recommended courses or visit the course repository for more options. There are even more courses available from the Swirl Course Network. To install a course that is not part of our course repository, type '?InstallCourses' at the R prompt for a list of functions that will help you do so.
 
-[procedure to install in the DS1-course]
+Choose the following option: '5: Don't install anything for me. I'll do it myself.'
+```R
+	> 5
+```
 
-## 6) Do the workshop exercises
-[procedure to open in the DS1-course]
+For now we're just going to start the first suggested lesson: 'A (very) short introduction to R', by typing the following into the console:
+```R
+	> install_course("A_(very)_short_introduction_to_R")
+```
+After the course is installed you should see the following message:
+'| Course installed successfully!'
 
-**Content:**
-1. Tutorial: A introduction to swirl by the swirl software
-2. Tutorial: An introduction to R-studio by the course material
+You're now ready to start your first interactive lesson'
 
-Source: http://swirlstats.com/scn/A_(very)_short_introduction_to_R.html 
-
-**> MVP: let them do this one; if more time: chop in sections to deliver the information when they need it: JIT**
-
-3. Questions: Defining objects as data
-
-Source: Bram
-
-4. Questions: Defining phenomena as data
-
-Source: Bram
+## 6) An introduction to R
+Start swirl again and the corresponding course by typing the following commands:
+```R
+	> swirl()
+```
+Now start the 'A (very) short introduction to R' course, module 1 by typing:
+```R
+	> 1
+	> 1
+```
+Run through the course by completing all 3 modules. In case you have any questions please first ask your peers or ask [us](mailto:heijligers.b@buas.nl;bhushan.n@buas.nl?subject=[Question%20Regarding%20ENTERTOPIC) anything you do not understand (well enough) or when your peers aren't responding timely (note that we only reply during office hours) and [report any problems or issues]((https://github.com/BredaUniversity/AAI-DM/blob/main/docs/Year1/BlockA/DataScience/Courses/DS1/Day1/issues/new)).
 
 ## 7) Create the assesment building blocks
-5 Questions:
-- Choose an object or phenomena (form list: HYPERLINK) you want to investigate
-- Describe  the object formally
-- Quantify the object/phenomena into variables
-- Form a data-driven research question
-- Describe the background for your research question
+Create a word or pdf file where you answer the following questions.
+
+###1. Questions: Defining objects as data
+a) Choose an object to define: e.g. in your direct vicinity or something you like or want to understand better.
+b) Describe the object formally in at least 100 words.
+c) Quantify the object into (at least 10) variables. 
+d) Form a data-driven research question based on your variables and the formal description of the object.
+e) Describe the background for your research question based on your research question, formal description, variables and other resources found online. References your sources using APA citation.
+
+###2. Questions: Defining phenomena as data
+a) Choose an phenomena to define: e.g. in your direct vicinity or something you like or want to understand better. 
+b) Describe the phenomena formally in at least 100 words.
+c) Quantify the phenomena into (at least 10) variables. 
+d) Form a data-driven research question based on your variables and the formal description of the phenomena.
+e) Describe the background for your research question based on your research question, formal description, variables and other resources found online. References your sources using APA citation.
+
 
 ## 8) Commit Documentation
 [Instructions to commit documentation]
 
 ## References:
-- https://swirlstats.com/students.html
+- Learning Statistics with R, by D. Navarro (2018):  https://learningstatisticswithr.com/  
+- Discovering Statistics using R, A. Fields et al (2012): https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067  
 
 ## Resources
+- https://swirlstats.com/students.html
+- https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R/blob/master/documents/A%20(very)%20short%20introduction%20to%20R.pdf
 - https://swirlstats.com/help.html
+- http://swirlstats.com/scn/A_(very)_short_introduction_to_R.html
+

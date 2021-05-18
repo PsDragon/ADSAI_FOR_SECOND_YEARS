@@ -28,7 +28,7 @@ If you need to install RStudio, you can do so [here](https://www.rstudio.com/pr
 Tip: [change the layout](https://youtu.be/7LkAe4oAlP4) to a dark hue so you reduce the eye strain you experience over time.
 
 ## 3) Install swirl
-Swirl is an interactive package for R which allows us to create interactive lessons using a basic for of AI called a Reactive Machine. Swirl will ask you a question, you respond with some input based on which swirl will respond with some output. The program doesn't learn by itself so please ask your peers or [us](mailto:heijligers.b@buas.nl;bhushan.n@buas.nl?subject=[Question%20Regarding%20ENTERTOPIC) anything you do not understand (well enough) and [report any problems or issues]((https://github.com/BredaUniversity/AAI-DM/blob/main/docs/Year1/BlockA/DataScience/Courses/DS1/Day1/issues/new))
+Swirl is an interactive package for R which allows us to create interactive lessons using a basic for of AI called a Reactive Machine. Swirl will ask you a question, you respond with some input based on which swirl will respond with some output. The program doesn't learn by itself so please ask your peers or [us](mailto:heijligers.b@buas.nl;bhushan.n@buas.nl?subject=[Question%20Regarding%20ENTERTOPIC) anything you do not understand (well enough) and [report any problems or issues](https://github.com/BredaUniversity/AAI-DM/blob/main/docs/Year1/BlockA/DataScience/Courses/DS1/Day1/issues/new)
 
 Open RStudio and type the following into the console:
 ```R
@@ -57,7 +57,7 @@ Choose the following option: '5: Don't install anything for me. I'll do it mysel
 	> 5
 ```
 
-For now we're just going to start the first suggested lesson: 'A (very) short introduction to R', by typing the following into the console:
+For now we're just going to start by installing an introductory course for the R software called: 'A (very) short introduction to R', by typing the following into the console:
 ```R
 	> install_course("A_(very)_short_introduction_to_R")
 ```
@@ -76,19 +76,23 @@ Now start the 'A (very) short introduction to R' course, module 1 by typing:
 	> 1
 	> 1
 ```
-Run through the course by completing all 3 modules. In case you have any questions please first ask your peers or ask [us](mailto:heijligers.b@buas.nl;bhushan.n@buas.nl?subject=[Question%20Regarding%20ENTERTOPIC) anything you do not understand (well enough) or when your peers aren't responding timely (note that we only reply during office hours) and [report any problems or issues]((https://github.com/BredaUniversity/AAI-DM/blob/main/docs/Year1/BlockA/DataScience/Courses/DS1/Day1/issues/new)).
+Run through the course by completing all 3 modules. In case you have any questions please first ask your peers or ask [us](mailto:heijligers.b@buas.nl;bhushan.n@buas.nl?subject=[Question%20Regarding%20ENTERTOPIC) anything you do not understand (well enough) or when your peers aren't responding timely (note that we only reply during office hours) and [report any problems or issues](https://github.com/BredaUniversity/AAI-DM/blob/main/docs/Year1/BlockA/DataScience/Courses/DS1/Day1/issues/new).
 
-## 7) Create the assesment building blocks
-Create a word or pdf file where you answer the following questions.
+## 7) Mock-Assessment
+Every workshop includes a small mock-assessment to prepare you for the actual assessment deliverable you'll create in datalab.  
 
-###1. Questions: Defining objects as data
+0) Create a word or pdf file with your student number named 'DS_L1_MockAssessment_STUDENTNUMBER' ('STUDENTNUMBER' is the text you replace with your student number in case that wasn't clear) where you answer the following questions:
+
+1. Questions: Defining objects as data
+
 a) Choose an object to define: e.g. in your direct vicinity or something you like or want to understand better.
 b) Describe the object formally in at least 100 words.
 c) Quantify the object into (at least 10) variables. 
 d) Form a data-driven research question based on your variables and the formal description of the object.
 e) Describe the background for your research question based on your research question, formal description, variables and other resources found online. References your sources using APA citation.
 
-###2. Questions: Defining phenomena as data
+2. Questions: Defining phenomena as data
+
 a) Choose an phenomena to define: e.g. in your direct vicinity or something you like or want to understand better. 
 b) Describe the phenomena formally in at least 100 words.
 c) Quantify the phenomena into (at least 10) variables. 
@@ -96,8 +100,10 @@ d) Form a data-driven research question based on your variables and the formal d
 e) Describe the background for your research question based on your research question, formal description, variables and other resources found online. References your sources using APA citation.
 
 
-## 8) Commit Documentation
-[Instructions to commit documentation]
+## 8) Hand-in Documentation
+When you are finished with your mock-assignment you can upload your work on team in your respective hand-in slot: Microsoft Teams > Assignments > Data Science 1 > Lecture 1 > Assignemnt
+
+Note: Future R scripts and assignments will be handed in on Github but we'll take it easy for now.
 
 ## References:
 - Learning Statistics with R, by D. Navarro (2018):  https://learningstatisticswithr.com/  

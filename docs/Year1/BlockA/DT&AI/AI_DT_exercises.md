@@ -1,22 +1,22 @@
 ---
-sort: 4
+sort: 2
 ---
 
-# __Independent study material: Exercises (Calendar Week 1, Monday)__
+# __Independent study material: Exercises (Calendar week 1, Monday)__
 
 ## __Foundations of AI (1): Philosophy, and history of AI__
 
 ### 1. Introduction
 \
-Today, you will start your journey into the wonderful world of Artificial Intelligence :rainbow:. During the first self-study day, you will dive into the foundational concepts of AI by examining its history and philosophy. By the end of this day, having completed the relevant readings and activities listed in the independent study material, you should be well prepared for DataLab 1.   
+Today, you will start your journey into the wonderful world of Artificial Intelligence :rainbow: :computer: During the first self-study day, you will dive into the foundational concepts of AI by examining its history and philosophy. By the end of this day, having completed the relevant readings and activities listed in the independent study material, you should be well prepared for DataLab 1.    
 
-We advise you to start early with the independent study exercises, because we are going to cover quite a bit of material today!   
+We advise you to start early with the independent study exercises, because we are going to cover quite a bit of material today! For study resources, such as educational videos, see Independent study material: Content (Calendar week 1, Monday) page on GitHub. 
 
 If you have questions regarding the study material, you can send us an email or attend the Q&A session at the end of each self-study day. For details on availability see Course Syllabus.
 \
 \
 __1a__ Watch the TEDx talk 'Understanding Artificial Intelligence and Its Future' by
-Neil Nie.
+Neil Nie.  
 
 __1b__ Give three examples of AI applications. You can choose real-life examples,
 but also examples from popular culture (e.g. movies, books, video games etc.).

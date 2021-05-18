@@ -82,23 +82,23 @@ Run through the course by completing all 3 modules. In case you have any questio
 ## 7) Mock-Assessment
 Every workshop includes a small mock-assessment to prepare you for the actual assessment deliverable you'll create in datalab.  
 
-0) Create a word or pdf file with your student number named 'DS_L1_MockAssessment_STUDENTNUMBER' ('STUDENTNUMBER' is the text you replace with your student number in case that wasn't clear) where you answer the following questions:
+A) Create a word or pdf file with your student number named 'DS_L1_MockAssessment_STUDENTNUMBER' ('STUDENTNUMBER' is the text you replace with your student number in case that wasn't clear) where you answer the following questions:
 
-1. Questions: Defining objects as data
+B. Questions: Defining objects as data
 
-a. Choose an object to define: e.g. in your direct vicinity or something you like or want to understand better.
-b. Describe the object formally in at least 100 words.
-c. Quantify the object into (at least 10) variables. 
-d. Form a data-driven research question based on your variables and the formal description of the object.
-e. Describe the background for your research question based on your research question, formal description, variables and other resources found online. References your sources using APA citation.
+0. Choose an object to define: e.g. in your direct vicinity or something you like or want to understand better.
+1. Describe the object formally in at least 100 words.
+2. Quantify the object into (at least 10) variables. 
+3. Form a data-driven research question based on your variables and the formal description of the object.
+4. Describe the background for your research question based on your research question, formal description, variables and other resources found online. References your sources using APA citation.
 
-2. Questions: Defining phenomena as data
+C. Questions: Defining phenomena as data
 
-a. Choose an phenomena to define: e.g. in your direct vicinity or something you like or want to understand better. 
-b. Describe the phenomena formally in at least 100 words.
-c. Quantify the phenomena into (at least 10) variables. 
-d. Form a data-driven research question based on your variables and the formal description of the phenomena.
-e. Describe the background for your research question based on your research question, formal description, variables and other resources found online. References your sources using APA citation.
+0. Choose an phenomena to define: e.g. in your direct vicinity or something you like or want to understand better. 
+1. Describe the phenomena formally in at least 100 words.
+2. Quantify the phenomena into (at least 10) variables. 
+3. Form a data-driven research question based on your variables and the formal description of the phenomena.
+4. Describe the background for your research question based on your research question, formal description, variables and other resources found online. References your sources using APA citation.
 
 
 ## 8) Hand-in Documentation

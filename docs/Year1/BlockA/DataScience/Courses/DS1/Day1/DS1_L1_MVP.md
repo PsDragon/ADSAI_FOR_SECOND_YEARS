@@ -1,4 +1,5 @@
-﻿﻿# Introduction To Data Science
+﻿# Data Science 1: The World in Data & introduction to R
+
 Hello, welcome to Data Science 1. The first lecture/workshop/session will focus on how we can see and quantify our world into data. We are going to cover some basic concepts as well as installing & understanding some software to do statistics. 
 
 
@@ -28,7 +29,7 @@ If you need to install RStudio, you can do so [here](https://www.rstudio.com/pr
 Tip: [change the layout](https://youtu.be/7LkAe4oAlP4) to a dark hue so you reduce the eye strain you experience over time.
 
 ## 3) Install swirl
-Swirl is an interactive package for R which allows us to create interactive lessons using a basic for of AI called a Reactive Machine. Swirl will ask you a question, you respond with some input based on which swirl will respond with some output. The program doesn't learn by itself so please ask your peers or [us](mailto:heijligers.b@buas.nl;bhushan.n@buas.nl?subject=[Question%20Regarding%20ENTERTOPIC) anything you do not understand (well enough) and [report any problems or issues](https://github.com/BredaUniversity/AAI-DM/blob/main/docs/Year1/BlockA/DataScience/Courses/DS1/Day1/issues/new)
+Swirl is an interactive package for R which allows us to create interactive lessons using a basic for of AI called a Reactive Machine. Swirl will ask you a question, you respond with some input based on which swirl will respond with some output. The program doesn't learn by itself so please first ask your peers or (when they don't respond timely) [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the course, workshop and question you have or the problem you're experiencing.
 
 Open RStudio and type the following into the console:
 ```R
@@ -76,7 +77,7 @@ Now start the 'A (very) short introduction to R' course, module 1 by typing:
 	> 1
 	> 1
 ```
-Run through the course by completing all 3 modules. In case you have any questions please first ask your peers or ask [us](mailto:heijligers.b@buas.nl;bhushan.n@buas.nl?subject=[Question%20Regarding%20ENTERTOPIC) anything you do not understand (well enough) or when your peers aren't responding timely (note that we only reply during office hours) and [report any problems or issues](https://github.com/BredaUniversity/AAI-DM/blob/main/docs/Year1/BlockA/DataScience/Courses/DS1/Day1/issues/new).
+Run through the course by completing all 3 modules. In case you have any questions please first ask your peers or (when they don't respond timely) [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the course, workshop and question you have or the problem you're experiencing.
 
 ## 7) Mock-Assessment
 Every workshop includes a small mock-assessment to prepare you for the actual assessment deliverable you'll create in datalab.  

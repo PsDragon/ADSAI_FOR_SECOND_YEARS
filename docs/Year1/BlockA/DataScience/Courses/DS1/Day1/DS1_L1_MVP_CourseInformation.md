@@ -29,7 +29,7 @@ Each self-study day is dedicated to a specific lesson which generally consists o
 How each specific lesson is structured depends on the nature of the content and learning goals. Usually however, these components can be found as seperate Github pages, but these components can also be combined into 1,2 or 3 pages. 
 
 ## 2) Schedule
-<img src="HYPERLINK" />
+<img src="https://github.com/BredaUniversity/AAI-DM/blob/15cceaca8803d1a5a92a7deed372485e6bac76de/docs/Year1/BlockA/DataScience/Courses/DS1/Day1/assets/Schedule.png" />
 
 ## 3) More info?
 Look at the creative brief or [Question](https://github.com/BredaUniversity/AAI-DM/issues/new) (make sure to include the course, class and relevant keywords in the title)
@@ -54,8 +54,8 @@ You don't have to get or buy any books yourself but if you are eager to go beyon
 We start of with a comfortable introduction to some basic concepts and tools. The first class will focus on how we can see and quantify our world into data. In the workshop you will be introduced to R, an industry standard tool for statistical programming.
 
 Please follow the links below to continue the classs:
-1. [Lecture & mock-assessment](HYPERLINK): 2-3 hours
-2. [Workshop](HYPERLINK): 1 hour
+1. [Lecture & mock-assessment](https://github.com/BredaUniversity/AAI-DM/blob/15cceaca8803d1a5a92a7deed372485e6bac76de/docs/Year1/BlockA/DataScience/Courses/DS1/Day1/DS1_L1_MVP_LectureAndMockAssesment.md): 2-3 hours
+2. [Workshop](https://github.com/BredaUniversity/AAI-DM/blob/15cceaca8803d1a5a92a7deed372485e6bac76de/docs/Year1/BlockA/DataScience/Courses/DS1/Day1/DS1_L1_MVP_IntroToR.md): 1-2 hour
 
 
 

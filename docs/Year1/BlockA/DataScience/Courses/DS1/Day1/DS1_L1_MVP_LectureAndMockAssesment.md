@@ -32,7 +32,7 @@ When you are finished with your mock-assignment you can upload your work on team
 Note: Future R scripts and assignments will be handed in on Github but we'll take it easy for now.
 
 ## 3) Next steps: Introduction to R
-Now its time for [the workshop part](https://github.com/BredaUniversity/AAI-DM/blob/15cceaca8803d1a5a92a7deed372485e6bac76de/docs/Year1/BlockA/DataScience/Courses/DS1/Day1/DS1_L1_MVP_IntroToR.md) of this class to get acquinted with R.
+Now its time for [the workshop part](https://github.com/BredaUniversity/AAI-DM/blob/main/docs/Year1/BlockA/DataScience/Courses/DS1/Day1/DS1_L1_MVP_IntroToR.md) of this class to get acquinted with R.
 
 ## References:
 - Learning Statistics with R, by D. Navarro (2018):  https://learningstatisticswithr.com/  

@@ -8,13 +8,13 @@ sort: 1
 
 Name  | Education & Experience  | Contact
 ---   | ----------------------  | ---
-<img src="assets\nitinFaceSmall.png" width="140" height="200" /> | PhD., Causal Inference, University of Groningen​  <br> MSc., Artificial Intelligence, Maastricht University​ <br> Electrical Engineering, MSRIT, India <br> <br> XRCE Europe - *Machine Learning Research* <br> Bosch Transmission Technologies Ltd. - *Senior Data Scientist* | bhushan.n@buas.nl
-<img src="assets\abhi.png" width="140" height="200" />  | |  biswas.a@buas.nl
+<img src="./assets/nitinFaceSmall.png" width="140" height="200" />|PhD., Causal Inference, University of Groningen​  <br> MSc., Artificial Intelligence, Maastricht University​ <br> Electrical Engineering, MSRIT, India <br> <br> XRCE Europe - *Machine Learning Research* <br> Bosch Transmission Technologies Ltd. - *Senior Data Scientist*|bhushan.n@buas.nl
+<img src="/assets/abhi.png" width="140" height="200" /> | | biswas.a@buas.nl
 
 
 ## Learning objectives for today
-- [ ]  Set-up and become familiar with Python using Anaconda.
-- [ ]  Set-up and become familiar with Jupyter Notebook.
+- [ ] Set-up and become familiar with Python using Anaconda.
+- [ ] Set-up and become familiar with Jupyter Notebook.
 - [ ] Set-up and become familiar with Github.
 
 
@@ -56,7 +56,7 @@ The Jupyter Notebook is an open source web application that you can use to creat
 
 To launch Jupyter Notebook, please open the Anaconda Navigator application. You will observe that Jupyter notebook is indeed installed.
 
-<img src="assets\anacondaNavigator.PNG" />
+<img src="/assets/anacondaNavigator.PNG" />
 
 ## Github
 GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere [[3]](#3). Please watch the video below to become familiar with Github.
@@ -78,10 +78,10 @@ However note that the *Github Pages* webpage you develop as part of this assignm
 
 # References
 <a id="1">[1]</a>
-https://www.python.org/
+<https://www.python.org/>
 <br>
 <a id="2">[2]</a>
-https://www.anaconda.com/
+<https://www.anaconda.com/>
 <br>
 <a id="3">[3]</a>
-https://github.com/
+<https://github.com/>

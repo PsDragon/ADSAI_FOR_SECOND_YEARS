@@ -1,5 +1,5 @@
 ---
-sort: 1
+sort: 2
 ---
 
 ## Welcome to Programming 1: Introduction to Programming in Python

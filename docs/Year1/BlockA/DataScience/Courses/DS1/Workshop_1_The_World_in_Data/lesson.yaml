@@ -45,11 +45,11 @@
 - Class: text  
   Output: Instead of clicking, you can also type in the command window setwd("directoryname"). For example setwd("C:/documents/R/") . Make sure that the slashes are forward slashes and that you do not forget the apostrophes (for the reason of the apostrophes, see Module 3. R is case sensitive, so make sure you write capitals where necessary. Let's try that out!
   
-#- Class: cmd_question
-  #Output: Let's set up the working directory and create a folder for this course. Type > getwd(), copy the output and add the following text after the last letter before the apostrophes > /DS1. 
-  #CorrectAnswer: setwd(paste0(getwd(),"/DS1"))
-  #AnswerTests: omnitest(correctExpr=setwd(paste0(getwd(),"/DS1"))) 
-  #Hint: Copy an paste the following in your console if you're having problems > setwd(paste0(getwd(),"/DS1"))
+- Class: cmd_question
+  Output: Let's set up the working directory and create a folder for this course. Type > getwd(), copy the output and add the following text after the last letter before the apostrophes > /DS1. 
+  CorrectAnswer: setwd(paste0(getwd(),"/DS1"))
+  AnswerTests: omnitest(correctExpr=setwd(paste0(getwd(),"/DS1"))) 
+  Hint: Copy an paste the following in your console if you're having problems > setwd(paste0(getwd(),"/DS1"))
 
 - Class: text  
   Output: R can do many statistical and data analyses. They are organized in so-called packages or libraries. With the standard installation, most common packages are installed.  

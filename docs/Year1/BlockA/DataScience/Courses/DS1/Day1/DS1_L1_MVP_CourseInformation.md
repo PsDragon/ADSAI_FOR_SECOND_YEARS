@@ -11,11 +11,8 @@ Name  | Education & Experience  | Contact
 This module introduces students to the fundamental concepts and techniques for extracting useful knowledge from data representations thereof. These concepts are of three types. First, it will discuss data-analytic thinking, and introduce data science standards that are commonly used in the industry. Second, the module introduces students to concepts in statistics and probability theory that form a basis for modern data science. Lastly, the module will zoom in on data analysis, visualization and reporting.  
 
 ## 0) Learning Objectives
-ILO 4. Researching and Analysis: 
 1. The student demonstrates a full understanding of different data types, descriptive data, graphical representations of data, statistical inference, basic probability theory, correlation and simple linear regression. 
 2. The student can apply the CRISP-DM, sigma-notations and linear transformations. 
-
-ILO 5. Conceptualizing 
 3. The student can transform a business requirement into a data science problem and propose an effective solution. 
 4. The student is able to formulate an insightful data-driven research question, quantify appropriate real-world phenomena and objects into data and covert this data into meaningful graphical representations thereof. 
 
@@ -26,21 +23,21 @@ Each self-study day is dedicated to a specific lesson which generally consists o
 3. Workshop
 4. Mock-assessment
 
-How each specific lesson is structured depends on the nature of the content and learning goals. Usually however, these components can be found as seperate Github pages, but these components can also be combined into 1,2 or 3 pages. 
+How each specific lesson is structured depends on the nature of the content and learning goals. Usually however, these components can be found as seperate Github pages, but these components can also be combined into 1, 2 or 3 pages. 
 
 ## 2) Schedule
 <img src="https://github.com/BredaUniversity/AAI-DM/blob/15cceaca8803d1a5a92a7deed372485e6bac76de/docs/Year1/BlockA/DataScience/Courses/DS1/Day1/assets/Schedule.png" />
 
 ## 3) More info?
-Look at the creative brief or [Question](https://github.com/BredaUniversity/AAI-DM/issues/new) (make sure to include the course, class and relevant keywords in the title)
+Look at the creative brief or ask us a [Question](https://github.com/BredaUniversity/AAI-DM/issues/new) (make sure to include the course, class and relevant keywords in the title) about the course content.
 
 ## 4) Assessment
 The student creates a Conference Poster based on case studies and examples introduced online and in-class; the focus is on all stages of the data science process (formulating the problem; selecting the data and exploratory data analyses technique(s); interpretation of descriptive data; reporting and visualizing the data) from an elementary level with specific emphasis on data visualisation as a means for understanding the data . Propose next steps: an analysis to run on the data. 
 
-More information on the assessment can be found in the [creative brief](https://github.com/BredaUniversity/AAI-DM/blob/6c480b86e34e36a8f7399cfc853165259c8807d4/docs/Year1/BlockA/DataScience/Courses/DS1/CourseResources/2021-22A%20AAI&DM%20Project%20Brief.docx)(page 7 to 11) and in the [poster template](https://github.com/BredaUniversity/AAI-DM/blob/881590f3c6c3d682ef56357e4c04e237fa570e27/docs/Year1/BlockA/DataScience/Courses/DS1/Assessment/2021-22A%20DS1%20Project%20Brief.docx)
+More information on the assessment can be found in the [creative brief](https://github.com/BredaUniversity/AAI-DM/blob/881590f3c6c3d682ef56357e4c04e237fa570e27/docs/Year1/BlockA/DataScience/Courses/DS1/Assessment/2021-22A%20DS1%20Project%20Brief.docx) (page 7 to 11) and in the [poster template](https://github.com/BredaUniversity/AAI-DM/blob/881590f3c6c3d682ef56357e4c04e237fa570e27/docs/Year1/BlockA/DataScience/Courses/DS1/Assessment/DS1-AssesmentPoster_Template.pptx).
 
 ## 5) Course resources:
-You don't have to get or buy any books yourself but if you are eager to go beyond the scope of the course you can dive into the course resources yourself.
+You don't have to get or buy any books yourself (#SaveTheTrees) but if you are eager to go beyond the scope of the course you can dive into the course resources yourself:
 
 - [OnlineStatBook: Online Statistics Education: A Free Resource for Introductory Statistics](https://onlinestatbook.com/) 
 
@@ -57,6 +54,6 @@ Please follow the links below to continue the classs:
 1. [Lecture & mock-assessment](https://github.com/BredaUniversity/AAI-DM/blob/15cceaca8803d1a5a92a7deed372485e6bac76de/docs/Year1/BlockA/DataScience/Courses/DS1/Day1/DS1_L1_MVP_LectureAndMockAssesment.md): 2-3 hours
 2. [Workshop](https://github.com/BredaUniversity/AAI-DM/blob/15cceaca8803d1a5a92a7deed372485e6bac76de/docs/Year1/BlockA/DataScience/Courses/DS1/Day1/DS1_L1_MVP_IntroToR.md): 1-2 hour
 
-
+And remember: You only YOLO once.
 
 

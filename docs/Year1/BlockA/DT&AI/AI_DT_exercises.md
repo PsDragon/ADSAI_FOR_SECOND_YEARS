@@ -2,7 +2,7 @@
 sort: 2
 ---
 
-# __Independent study material: Exercises (Calendar week 1, Monday)__
+# __Independent study material: Exercises (Week 1, Monday)__
 
 ## __Foundations of AI (1): Philosophy, and history of AI__
 

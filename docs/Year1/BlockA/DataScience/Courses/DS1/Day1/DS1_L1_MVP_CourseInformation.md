@@ -1,11 +1,11 @@
-# Data Science 1, Course Overview
+﻿# Data Science 1, class 1: Overview
 
 # Your lecturers
 
 Name  | Education & Experience  | Contact
 ---   | ----------------------  | ---
 <img src="https://github.com/BredaUniversity/AAI-DM/blob/main/docs/Year1/BlockA/DataScience/Courses/DS1/Day1/assets/BramMediumCloseUp.jpg" width="140" height="200" /> | Ongoing PhD., Neurophysiological Indicators of Learning in Games, Tilburg University?  <br> MSc., Cognitive Science & Artificial Intelligence, Tilburg University? <br> Game Architecture and Design, Breda University of Apllied Science <br> <br> Neuro-cognitive game research <br> (Mixed-Reality) Educational Game design & Project management <br> Managing Covid-19 Contract Tracing Operations | heijligers.b@buas.nl
-<img src="https://github.com/BredaUniversity/AAI-DM/blob/main/docs/Year1/BlockA/Programming/assets/nitinFaceSmall.png" width="140" height="200" /> | PhD., Causal Inference, University of Groningen?  <br> MSc., Artificial Intelligence, Maastricht University? <br> Electrical Engineering, MSRIT, India <br> <br> XRCE Europe - *Machine Learning Research* <br> Bosch Transmission Technologies Ltd. - *Senior Data Scientist* | bhushan.n@buas.nl
+<img src="https://github.com/BredaUniversity/AAI-DM/blob/main/docs/Year1/BlockA/Programming/assets/nitinFaceSmall.png" width="140" height="200" /> | PhD., Causal Inference, University of Groningen​  <br> MSc., Artificial Intelligence, Maastricht University​ <br> Electrical Engineering, MSRIT, India <br> <br> XRCE Europe - *Machine Learning Research* <br> Bosch Transmission Technologies Ltd. - *Senior Data Scientist* | bhushan.n@buas.nl
 
 # Course Overview
 This module introduces students to the fundamental concepts and techniques for extracting useful knowledge from data representations thereof. These concepts are of three types. First, it will discuss data-analytic thinking, and introduce data science standards that are commonly used in the industry. Second, the module introduces students to concepts in statistics and probability theory that form a basis for modern data science. Lastly, the module will zoom in on data analysis, visualization and reporting.  
@@ -53,5 +53,7 @@ We start of with a comfortable introduction to some basic concepts and tools. Th
 Please follow the links below to continue the classs:
 1. [Lecture & mock-assessment](https://github.com/BredaUniversity/AAI-DM/blob/15cceaca8803d1a5a92a7deed372485e6bac76de/docs/Year1/BlockA/DataScience/Courses/DS1/Day1/DS1_L1_MVP_LectureAndMockAssesment.md): 2-3 hours
 2. [Workshop](https://github.com/BredaUniversity/AAI-DM/blob/15cceaca8803d1a5a92a7deed372485e6bac76de/docs/Year1/BlockA/DataScience/Courses/DS1/Day1/DS1_L1_MVP_IntroToR.md): 1-2 hour
+
+And remember: You only YOLO once.
 
 

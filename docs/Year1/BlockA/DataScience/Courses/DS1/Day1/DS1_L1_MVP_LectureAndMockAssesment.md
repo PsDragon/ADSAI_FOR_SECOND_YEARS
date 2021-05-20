@@ -1,4 +1,4 @@
-# Lecture 1 & Mock-Assessment - The World in Data 
+﻿# Data Science 1, Lesson 1: Lecture - The World in Data 
 
 This lecture/workshop/session will focus on how we can see and quantify our world into data. We are going to cover some basic concepts and apply those concepts to a mock-assessment.
 
@@ -37,6 +37,5 @@ Now its time for [the workshop part](https://github.com/BredaUniversity/AAI-DM/b
 ## References:
 - Learning Statistics with R, by D. Navarro (2018):  https://learningstatisticswithr.com/  
 - Discovering Statistics using R, A. Fields et al (2012): https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067  
-
 
 Course code: AAIDM1_DS1

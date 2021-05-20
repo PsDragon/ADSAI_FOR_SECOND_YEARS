@@ -4,7 +4,7 @@
 
 Name  | Education & Experience  | Contact
 ---   | ----------------------  | ---
-<img src="https://github.com/BredaUniversity/AAI-DM/blob/main/docs/Year1/BlockA/DataScience/Courses/DS1/Day1/assets/BramMediumCloseUp.jpg" width="140" height="200" /> | Ongoing PhD., Neurophysiological Indicators of Learning in Games, Tilburg University?  <br> MSc., Cognitive Science & Artificial Intelligence, Tilburg University? <br> Game Architecture and Design, Breda University of Apllied Science <br> <br> &Ranj - *Game Designer* <br> GGD Zuid-Holland-Zuid - *Floor manager* | heijligers.b@buas.nl
+<img src="https://github.com/BredaUniversity/AAI-DM/blob/main/docs/Year1/BlockA/DataScience/Courses/DS1/Day1/assets/BramMediumCloseUp.jpg" width="140" height="200" /> | Ongoing PhD., Neurophysiological Indicators of Learning in Games, Tilburg University?  <br> MSc., Cognitive Science & Artificial Intelligence, Tilburg University? <br> Game Architecture and Design, Breda University of Apllied Science <br> <br> Neuro-cognitive game research <br> (Mixed-Reality) Educational Game design & Project management <br> Managing Covid-19 Contract Tracing Operations | heijligers.b@buas.nl
 <img src="https://github.com/BredaUniversity/AAI-DM/blob/main/docs/Year1/BlockA/Programming/assets/nitinFaceSmall.png" width="140" height="200" /> | PhD., Causal Inference, University of Groningen?  <br> MSc., Artificial Intelligence, Maastricht University? <br> Electrical Engineering, MSRIT, India <br> <br> XRCE Europe - *Machine Learning Research* <br> Bosch Transmission Technologies Ltd. - *Senior Data Scientist* | bhushan.n@buas.nl
 
 # Course Overview

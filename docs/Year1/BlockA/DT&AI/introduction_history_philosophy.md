@@ -10,7 +10,7 @@ On this GitHub page, you will find all the resources required to complete the in
 
 ***
 
-## __Calendar week 1: Monday__
+## __Week 1: Monday__
 
 ### __Foundations of AI (1): Philosophy, and history of AI__
 

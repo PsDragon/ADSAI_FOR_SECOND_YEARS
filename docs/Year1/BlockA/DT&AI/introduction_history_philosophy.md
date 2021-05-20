@@ -4,7 +4,7 @@ sort: 3
 
 # __Independent study material: Content__
 \
-<img src="https://raw.githubusercontent.com/BredaUniversity/AAI-DM/main/docs/Year1/BlockA/DT%26AI/images/books.png?token=ANZYLNENPZIDGWGWMY5RBTDAUUI5M" alt="Books banner" width="600"/>
+<img src="./images/books.png" alt="Books banner" width="600"/>
 
 On this GitHub page, you will find all the resources required to complete the independent study material exercises. The resources are listed both per week, as well as per topic.
 
@@ -16,7 +16,7 @@ On this GitHub page, you will find all the resources required to complete the in
 
 ### 1. Introduction
 \
-[![Video 1.](https://raw.githubusercontent.com/BredaUniversity/AAI-DM/main/docs/Year1/BlockA/DT%26AI/images/intro_ai.jpg?token=ANZYLNEUDV6N3MI36M56VQLAUUGHW)](https://www.youtube.com/watch?v=SN2BZswEWUA "Click on link to open video!")
+[![Video 1.](./images/intro_ai.jpg)](https://www.youtube.com/watch?v=SN2BZswEWUA "Click on link to open video!")
 
 *Video 1. TEDx talk 'Understanding Artificial Intelligence and Its Future' by Neil Nie.*
 
@@ -24,7 +24,7 @@ On this GitHub page, you will find all the resources required to complete the in
 
 For this module you will reading parts of the book Artificial Intelligence: A Modern Approach by Russell and Norvig (2020)<sup>[1](#footnote_1)</sup>.
 
-<img src="https://raw.githubusercontent.com/BredaUniversity/AAI-DM/main/docs/Year1/BlockA/DT%26AI/images/ai_russell_norvig.jpg?token=ANZYLNABQEAL2ULDZBMWP73AUUPWA" alt="Book Russell and Norvig" width="250"/>
+<img src="./images/ai_russell_norvig.jpg" alt="Book Russell and Norvig" width="250"/>
 
 \
 *Figure 1. Artificial Intelligence: A Modern Approach (Russell and Norvig, 2020).*
@@ -37,7 +37,7 @@ Tip: incorporate some screen-free time in your schedule by reading a paper copy 
 
 ### 3. History of Artificial Intelligence
 \
-[![Video 2.](https://raw.githubusercontent.com/BredaUniversity/AAI-DM/main/docs/Year1/BlockA/DT%26AI/images/history_ai.jpg?token=ANZYLNCXUUIC2BT3RD6FBHDAUUQEM)](https://www.youtube.com/watch?v=JjQGKSOTHa4 "Click on link to open video!")
+[![Video 2.](./images/history_ai.jpg)](https://www.youtube.com/watch?v=JjQGKSOTHa4 "Click on link to open video!")
 
 *Video 2. History of AI by YouTube´s AI with Alex.*
 
@@ -45,7 +45,7 @@ Tip: incorporate some screen-free time in your schedule by reading a paper copy 
 
 ### 4. Preparation for DataLab 1
 \
-[![Video 4.](https://raw.githubusercontent.com/BredaUniversity/AAI-DM/main/docs/Year1/BlockA/DT%26AI/images/chatbot.jpg?token=ANZYLNA77RSA3SC7Z7GMJD3AVTVFE)](https://www.linkedin.com/learning/learning-digital-business-analysis/chatbots-and-virtual-agents?u=36359204 "Click on link to open video!")
+[![Video 4.](./images/chatbot.jpg)](https://www.linkedin.com/learning/learning-digital-business-analysis/chatbots-and-virtual-agents?u=36359204 "Click on link to open video!")
 
 *Video 3. Chatbots and virtual agents by Angela Wick.*
 

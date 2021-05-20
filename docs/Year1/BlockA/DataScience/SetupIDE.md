@@ -1,40 +1,42 @@
----
-sort: 1
----
+# Lecture 1 & Mock-Assessment - The World in Data 
 
-# Development Environment
+This lecture/workshop/session will focus on how we can see and quantify our world into data. We are going to cover some basic concepts and apply those concepts to a mock-assessment.
 
->**Author:**	Carlos Santos
+## 0) Watch or attend the [opening lecture](https://github.com/BredaUniversity/AAI-DM/blob/881590f3c6c3d682ef56357e4c04e237fa570e27/docs/Year1/BlockA/DataScience/Courses/DS1/Day1/DS1%20-%20Lecture%201;%20The%20world%20in%20data.pptx)
 
->**Learning Line:**	Programming
+## 1) Mock-Assessment
+Every workshop includes a small mock-assessment to prepare you for the actual assessment deliverable you'll create in datalab. In Datalab you and your peers will look at and assess one anothers work so make sure you are prepared.
 
->**Course:** PR1: Introduction to Programming
+A) Create a word or excel file with your student number named 'DS_L1_MockAssessment_STUDENTNUMBER' ('STUDENTNUMBER' is the text you replace with your student number in case that wasn't clear) where you answer the following questions:
 
->**Week:** 1
+B) Questions: Defining objects as data
 
->**Competencies:** Students will be able to effectively define and use variables, programming flow control.
+0. Choose an object to define: e.g. in your direct vicinity or something you like or want to understand better.
+1. Describe the object formally in at least 100 words.
+2. Quantify the object into (at least 10) variables. 
+3. Form a data-driven research question based on your variables and the formal description of the object.
+4. Describe the background for your research question based on your research question, formal description, variables and other resources found online. References your sources using APA citation.
 
->**BoKS:**	3bK2, The student understands the principles of data related software like Python, R, Scala and/or Java and knows how to write (basic) scripts.
+C) Questions: Defining phenomena as data
 
->**Learning Goals:** Variables and Data Types In-code Comments
+0. Choose an phenomena to define: e.g. in your direct vicinity or something you like or want to understand better. 
+1. Describe the phenomena formally in at least 100 words.
+2. Quantify the phenomena into (at least 10) variables. 
+3. Form a data-driven research question based on your variables and the formal description of the phenomena.
+4. Describe the background for your research question based on your research question, formal description, variables and other resources found online. References your sources using APA citation.
 
-## Step 1: Setup The Development Environment
 
-Open windows explorer, and create the following folder
+## 2) Hand-in Documentation
+When you are finished with your mock-assignment you can upload your work on team in your respective hand-in slot: Microsoft Teams > Assignments > Data Science 1 > Lecture 1 > Assignemnt
 
-C:\Tools
+Note: Future R scripts and assignments will be handed in on Github but we'll take it easy for now.
 
-## Step 2: Install Anaconda & Python 3.7
+## 3) Next steps: Introduction to R
+Now its time for [the workshop part](https://github.com/BredaUniversity/AAI-DM/blob/main/docs/Year1/BlockA/DataScience/Courses/DS1/Day1/DS1_L1_MVP_IntroToR.md) of this class to get acquinted with R.
 
-Go to anaconda website (https://www.anaconda.com)
+## References:
+- Learning Statistics with R, by D. Navarro (2018):  https://learningstatisticswithr.com/  
+- Discovering Statistics using R, A. Fields et al (2012): https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067  
 
-Download the Individual edition, Python 3.7, 64-Bit Graphical Installer 
 
-Install the Anaconda.
-
-Please select the Installation to All Users (admin privileges)
-Select the Installation folder to be “C:\Tools\Anaconda”
-Make sure you check Add Anaconda to PATH Environmental Variables (yes, there is some red text, but, you can proceed)
-Make sure you check Register Anaconda as system Python 3.7
-
-### Rest ToDo
+Course code: AAIDM1_DS1

@@ -10,7 +10,7 @@ sort: 2
 \
 Today, you will start your journey into the wonderful world of Artificial Intelligence :rainbow: :computer: During the first self-study day, you will dive into the foundational concepts of AI by examining its history and philosophy. By the end of this day, having completed the relevant readings and activities listed in the independent study material, you should be well prepared for DataLab 1.    
 
-We advise you to start early with the independent study exercises, because we are going to cover quite a bit of material today! For study resources, such as educational videos, see Independent study material: Content (Calendar week 1, Monday) page on GitHub. 
+We advise you to start early with the independent study exercises, because we are going to cover quite a bit of material today! For study resources, such as educational videos, see Independent study material: Content (Calendar week 1, Monday) page on GitHub.
 
 If you have questions regarding the study material, you can send us an email or attend the Q&A session at the end of each self-study day. For details on availability see Course Syllabus.
 \
@@ -51,13 +51,13 @@ d. *No machine can demonstrate genuine understanding*
 __2e__ Connect the Post It notes (Fig 1.) to the relevant quadrant in the philosophy matrix (Fig 2.). For example, A = 1, 2, and  B = 3, 4, 5 etc.
 \
 \
-<img src="https://raw.githubusercontent.com/BredaUniversity/AAI-DM/main/docs/Year1/BlockA/DT%26AI/images/post_it.jpg?token=ANZYLNFB2BCK3SBRX2N4IYTAUUCYQ" alt="Post-it" width="400"/>
+<img src="./images/post_it.jpg" alt="Post-it" width="400"/>
 
 *Figure 1. Post It notes with philosophy of AI terms.*
 \
 \
 \
-<img src="https://raw.githubusercontent.com/BredaUniversity/AAI-DM/main/docs/Year1/BlockA/DT%26AI/images/matrix.jpg?token=ANZYLNHRZAV42RLVXSEUCWTAUUCVE" alt="Matrix" width="750"/>
+<img src="./images/matrix.jpg" alt="Matrix" width="750"/>
 
 *Figure 2. Philosophy of AI matrix.*
 

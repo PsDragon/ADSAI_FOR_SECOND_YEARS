@@ -2,7 +2,7 @@
 sort: 2
 ---
 
-# __Independent study material 2__
+# __Independent study material 3__
 \
 \
 <img src="./images/books.png" alt="Books banner" width="600"/>

@@ -4,10 +4,12 @@ sort: 3
 
 # __DataLab 1__
 \
-\
 <img src="./images/datalab_banner.jpg" alt="Books banner" width="600"/>
 
-## 1. Introduction
+
+## __AI in Science Fiction (1): Minority Report screening__
+
+### 1. Introduction
 \
 In today's DataLab session, we will discuss the article Computation Machinery and Intelligence, and perform an experiment called the Turing Test. Furthermore, we will start working on the creative brief of AI&DT: AI & Science Fiction. A detailed description of the assignment can be found in the Project Brief. At the end of the day we will have a moment to reflect on DataLab 1.
 
@@ -16,9 +18,7 @@ feedback.
 
 ***
 
-# __AI in Science Fiction (1): Minority Report screening__
-
-## 2. Minority Report screening
+### 2. Minority Report screening
 \
 <img src="./images/minority_report.jpg" alt="Book Russell and Norvig" width="450"/> \
 *Figure 1. Minority Report (Spielberg, 2002)*
@@ -51,9 +51,9 @@ The deadline for the first draft of the creative brief is Thursday at 12:00.
 
 ***
 
-# __Turing Test & Chatbots (2): Discussion and experiment__
+## __Turing Test & Chatbots (2): Discussion and experiment__
 
-## 3. Discussion and experiment
+### 3. Discussion and experiment
 \
 The workshop consists of two parts: class discussing on the article, and the Turing Test. For each workshop there are 15 spots available. Timeslots:
 
@@ -65,13 +65,13 @@ When conducting the Turing Test, we will make use of the chatbots that were foun
 
 ***
 
-## 4. Day reflection
+### 4. Day reflection
 
 At the end of Datalab 1, from 16:00-17:00, we are going to reflect on the first two days of the program.
 
 ***
 
-## References
+## __References__
 
 Spielberg, S. (Director). (2002). Minority Report [Film]. Twentieth Century Fox.  
 Turing, A. M. (2009). Computing machinery and intelligence. In Parsing the Turing test (pp. 23-65). Springer, Dordrecht.

@@ -2,13 +2,15 @@
 sort: 1
 ---
 
-# __Foundations of AI (1): Philosophy, and history of AI__
+# __Independent study material 1__
 \
 \
 <img src="./images/books.png" alt="Books banner" width="600"/>
 
-## 1. Introduction
+## __Foundations of AI (1): Philosophy, and history of AI__
 
+### 1. Introduction
+\
 Today, you will start your journey into the wonderful world of Artificial Intelligence :rainbow: :computer: During the first self-study day, you will dive into the foundational concepts of AI by examining its history and philosophy. By the end of this day, having completed the relevant readings and activities listed in the independent study material, you should be well prepared for DataLab 1.    
 
 We advise you to start early with the independent study exercises, because we are going to cover quite a bit of material today!
@@ -26,8 +28,9 @@ __1b__ Give three examples of AI applications. You can choose real-life examples
 but also examples from popular culture (e.g. movies, books, video games etc.).
 
 ***
-## 2. Philosophy of Artificial Intelligence
 
+### 2. Philosophy of Artificial Intelligence
+\
 For this module you will reading parts of the book Artificial Intelligence: A Modern Approach by Russell and Norvig (2020)<sup>[1](#footnote_1)</sup>.
 
 <img src="./images/ai_russell_norvig.jpg" alt="Book Russell and Norvig" width="250"/>
@@ -81,7 +84,7 @@ __2f__ If you have not taken a coffee break yet, take one right now (with your f
 
 ***
 
-## 3. History of Artificial Intelligence
+### 3. History of Artificial Intelligence
 \
 __3a__ Watch the video on the History of AI by YouTube´s AI with Alex.
 
@@ -92,9 +95,9 @@ __3b__ Find, and describe one 'milestone' in the history of AI (maximum length o
 
 ***
 
-# __Turing Test & Chatbots (1): Article and chatbots__
+## __Turing Test & Chatbots (1): Article and chatbots__
 
-## 4. Preparation for DataLab 1
+### 4. Preparation for DataLab 1
 \
 During DataLab 1, you will be given the opportunity to watch Minority Report (bring your own popcorn!). In addition, we will discuss a scientific article by Alan Turing, and perform the Turing test with the chatbots you, and your fellow students found online.
 
@@ -135,12 +138,12 @@ __4c__ Explain what the Loebner Prize is (maximum length of 100 words).
 
 ***
 
-## Footnote(s)
+## __Footnote(s)__
 <a name="footnote_1">1</a>: Hereforth abbreviated as AIMA.
 
 ***
 
-## References
+## __References__
 Diaz, L. (2014, May). How to Take Notes of Videos. USC Kortschak Center for Learning and Creativity.  
 http://kortschakcenter.usc.edu/wp-content/uploads/2014/05/Video-Note-taking.pdf
 Keshav, S. (2007). How to read a paper. ACM SIGCOMM Computer Communication Review, 37(3), 83-84.

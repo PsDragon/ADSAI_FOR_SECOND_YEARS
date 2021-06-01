@@ -1,6 +1,25 @@
-# Block A - Phase X from CRISP DS model
+# Block A - Concepting (Business Understanding)
 
-TODO
-This is where intro text to Block A for AAI-DM goes in
+Each of the 8 weeks has a fixed structure : on Monday, Wednesday and Thursday you work individually on the development of basic skills, which are needed to execute the DataLab assignments. Kindly follow the table of content below, this will guide you through what is expected of you on a daily basis. 
 
-The AAI&DM Team
+Project Timeline :
+
+Week 1-2: [Digital Transformation & Artificial Intelligence](#week-1-:-digital-transformation-&-artificial-intelligence) 
+
+Week 3-5: Data Science 
+
+Week 6-8: Programming. 
+
+# Week 1 : Digital Transformation & Artificial Intelligence
+
+## Monday
+- [topic 1](https://www.buas.nl/en/games)
+- [topic 2](../../Study%20Content/Artificial%20Intelligence/TuringTestChatbots1.md#literature)
+  - [topic 2.1](#graphics)
+  - [topic 2.2](#ecs)
+
+## Tuesday
+- [topic 1](https://www.buas.nl/en/games)
+- [topic 2](#libraries--frameworks)
+  - [topic 2.1](#graphics)
+  - [topic 2.2](#ecs)

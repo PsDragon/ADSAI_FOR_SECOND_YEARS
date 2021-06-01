@@ -44,7 +44,7 @@ The first draft of the creative brief should include:
 
 Need help to write an outline for your essay, check out the YouTube video below:
 
-[![Video 1.](./images/outline.jpg)](youtube.com/watch?v=1t4E7pJbIpY "Click on link to open video!")
+[![Video 1.](./images/outline.jpg)](https://youtu.be/1t4E7pJbIpY "Click on link to open video!")
 *Video 1. Tips on writing an outline*
 
 Essay outline template: [Structure of a General Expository Essay](./documents/main_structure-of-a-general-expository-essay-santa-barbara-city-college.pdf) by Santa Barbara City College.

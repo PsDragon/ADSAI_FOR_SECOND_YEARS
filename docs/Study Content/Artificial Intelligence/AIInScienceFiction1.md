@@ -22,7 +22,7 @@ If you are unable to attend one of the movie screenings, [Minority Report]( http
 Tip: if you take notes during the movie, it will be easier to identify all the relevant AI topics.
 </div>
 
-<img src="./images/minority_report.jpg" alt="Book Russell and Norvig" width="450"/> \
+<img src="./images/minority_report.jpg" alt="Minority Report" width="450"/> \
 *Figure 1. Minority Report (Spielberg, 2002)*
 
 ***

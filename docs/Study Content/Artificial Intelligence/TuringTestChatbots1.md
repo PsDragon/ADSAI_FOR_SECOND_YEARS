@@ -30,6 +30,7 @@ __2a__ Read the following note taking guides:
 
 __2b__ Besides the Turing Test, Alan Turing is renowned for his work on:
 \
+\
 1.
 \
 2.

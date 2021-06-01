@@ -15,7 +15,7 @@ For the second half of the day, you are going to read the famous article Computi
 
 ### 2. Article (180 minutes)
 
-The rise of artificial intelligence forces us to rethink what robots mean to society and what their role is to be. They are far better at arrhythmic, but are they really as intelligent as us? What constitutes intelligence? And should we fear being replaced by these digital machines in the future? Alan Turing was the first to examine the relationship between human and digital machines. In the article Computing Machinery and Intelligence (1950), Turing lays the foundation for modern day AI. He introduces an behavioral test, the Turing Test, and discusses some objections raised in relation to this test. As a result of his contributions to the field, he also called one of the 'founding fathers of AI'.
+The rise of artificial intelligence forces us to rethink what robots mean to society and what their role is to be. They are far better at arithmetic, but are they really as intelligent as us? What constitutes intelligence? And should we fear being replaced by these digital machines in the future? Alan Turing was the first to examine the relationship between human and digital machines. In the article Computing Machinery and Intelligence (1950), Turing lays the foundation for modern day AI. He introduces an behavioral test, the Turing Test, and discusses some objections raised in relation to this test. As a result of his contributions to the field, he also called one of the 'founding fathers of AI'.
 
 __2a__ Read the following note taking guides:
 

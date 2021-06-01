@@ -5,7 +5,7 @@ sort: 2
 ## __Turing Test & Chatbots (1): Article__
 \
 \
-<img src="./images/books.png" alt="Books banner" width="600"/>
+<img src="./images/books_banner.png" alt="Books banner" width="600"/>
 
 ### 1. Introduction
 

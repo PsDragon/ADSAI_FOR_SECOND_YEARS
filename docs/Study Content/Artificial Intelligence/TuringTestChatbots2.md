@@ -1,5 +1,5 @@
 ---
-sort: 3
+sort: 4
 ---
 
 ## __Turing Test & Chatbots (2): Discussion & Turing Test__

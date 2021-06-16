@@ -5,7 +5,7 @@ sort: 1
 ## __Foundations of AI (1): Philosophy, and history of AI__
 \
 \
-<img src="./images/books.png" alt="Books banner" width="600"/>
+<img src="./images/books_banner.png" alt="Books banner" width="600"/>
 
 ### 1. Introduction
 
@@ -96,8 +96,8 @@ The early beginnings of AI, can be traced to the Ancient Greek period when philo
     Talos patrolled Minos’s kingdom by marching around the perimeter
     of the large island three times each day. As an animated metal machine in
     the form of a man, able to carry out complex human-like actions, Talos
-    can be spoken of as an imagined android robot, an automaton “constructed to move on its own.” Designed and built by Hephaestus to repel
-    invasions, Talos was “programmed” to spot strangers and pick up and
+    can be spoken of as an imagined android robot, an automaton “constructed to move on its own.”
+    Designed and built by Hephaestus to repel invasions, Talos was “programmed” to spot strangers and pick up and
     hurl boulders to sink any foreign vessels that approached Crete’s shores.
     Talos possessed another capability too, modeled on a human trait. In
     close combat, the mechanical giant could perform a ghastly perversion

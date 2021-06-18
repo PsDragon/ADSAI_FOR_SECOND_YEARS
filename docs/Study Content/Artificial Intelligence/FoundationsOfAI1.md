@@ -17,10 +17,9 @@ If you have questions regarding the study material, you can send us an email or 
 
 ### 2. What is artificial intelligence? (30 minutes)
 
-Artificial intelligence (AI) has seen a rapid rise in popularity. Research into the field of AI is rocketing, and an increasing number of compagnies are incorporating AI technologies into their daily business operations. But, what does AI constitute?
+Artificial intelligence (AI) has seen a rapid rise in popularity. Research into the field of AI is rocketing, and an increasing number of companies are incorporating AI technologies into their daily business operations. But, what does AI constitute?
 
-__1a__ Watch the TEDx talk 'Understanding Artificial Intelligence and Its Future' by
-Neil Nie.
+__1a__ Watch the TEDx talk 'Understanding Artificial Intelligence and Its Future' by Neil Nie.
 
 [![Video 1.](./images/intro_ai.jpg)](https://www.youtube.com/watch?v=SN2BZswEWUA "Click on link to open video!")
 *Video 1. TEDx talk 'Understanding Artificial Intelligence and Its Future' by Neil Nie.*
@@ -34,7 +33,7 @@ but also examples from popular culture (e.g. movies, books, video games etc.).
 
 ### 2. Philosophy of Artificial Intelligence (180 minutes)
 
-In this section, you will be made familiar with the various definitions of AI, and its related fields (e.g. cognitive science). The information required to sucessfully complete this section, can (to a greater extent) be found in the book Artificial Intelligence: A Modern Approach by Russell and Norvig (2020)<sup>[1](#footnote_1)</sup>. You will be using this specific book throughout the programme.
+In this section, you will be made familiar with the various definitions of AI, and its related fields (e.g. cognitive science). The information required to successfully complete this section, can (to a greater extent) be found in the book Artificial Intelligence: A Modern Approach by Russell and Norvig (2020)<sup>[1](#footnote_1)</sup>. You will be using this specific book throughout the programme.
 
 <img src="./images/ai_russell_norvig.jpg" alt="Book Russell and Norvig" width="250"/>
 
@@ -83,33 +82,13 @@ __2g__ After completing the readings and exercises of this section, would you pr
 
 The early beginnings of AI, can be traced to the Ancient Greek period when philosophers started to describe human thinking as a symbolic system. Additionally, one of the first notions of a 'robot' can be found in Greek mythology:
 
-    THE FIRST “ROBOT” to walk the earth—in ancient Greek mythology—
-    was a bronze giant called Talos.
-    Talos was an animated statue that guarded the island of Crete, one
-    of three wondrous gifts fashioned by Hephaestus, god of the forge and
-    patron of invention and technology. These marvels were commissioned
-    by Zeus, for his son, Minos, the legendary first king of Crete. The other
-    two gifts were a golden quiver of drone-like arrows that never missed
-    their mark and Laelaps, a golden hound that always caught its prey. The
-    bronze automaton Talos was charged with the task of defending Crete
-    against pirates.
-    Talos patrolled Minos’s kingdom by marching around the perimeter
-    of the large island three times each day. As an animated metal machine in
-    the form of a man, able to carry out complex human-like actions, Talos
-    can be spoken of as an imagined android robot, an automaton “constructed to move on its own.”
-    Designed and built by Hephaestus to repel invasions, Talos was “programmed” to spot strangers and pick up and
-    hurl boulders to sink any foreign vessels that approached Crete’s shores.
-    Talos possessed another capability too, modeled on a human trait. In
-    close combat, the mechanical giant could perform a ghastly perversion
-    of the universal gesture of human warmth, the embrace. With the ability
-    to heat his bronze body red-hot, Talos would hug victims to his chest
-    and roast them alive. (Mayor, 2018)
+> THE FIRST “ROBOT” to walk the earth—in ancient Greek mythology— was a bronze giant called Talos. Talos was an animated statue that guarded the island of Crete, one of three wondrous gifts fashioned by Hephaestus, god of the forge and patron of invention and technology. These marvels were commissioned by Zeus, for his son, Minos, the legendary first king of Crete. The other two gifts were a golden quiver of drone-like arrows that never missed their mark and Laelaps, a golden hound that always caught its prey. The bronze automaton Talos was charged with the task of defending Crete against pirates. Talos patrolled Minos’s kingdom by marching around the perimeter of the large island three times each day. As an animated metal machine in the form of a man, able to carry out complex human-like actions, Talos can be spoken of as an imagined android robot, an automaton “constructed to move on its own.” Designed and built by Hephaestus to repel invasions, Talos was “programmed” to spot strangers and pick up and hurl boulders to sink any foreign vessels that approached Crete’s shores. Talos possessed another capability too, modeled on a human trait. In close combat, the mechanical giant could perform a ghastly perversion of the universal gesture of human warmth, the embrace. With the ability to heat his bronze body red-hot, Talos would hug victims to his chest and roast them alive. (Mayor, 2018)
 
-Througout the centuries, scholars from various diciplines have made significant contributions to the field of AI. To name a few of them: al-Jazari, Leonardo Da Vinci, Ada Lovelace, Norbert Wiener, and Alan Turing.
+Throughout the centuries, scholars from various disciplines have made significant contributions to the field of AI. To name a few of them: al-Jazari, Leonardo Da Vinci, Ada Lovelace, Norbert Wiener, and Alan Turing.
 
 However, the field of 'artificial intelligence' was not formally founded until 1956. It was at a conference, held at Dartmouth College, New Hampshire, were John McCarthy first coined the term 'Artificial Intelligence', which he defined as '... the science and engineering of making intelligent machines, especially intelligent computer programs' (Morignat, n.d.).  
 
-After some setbacks in the 1970s and 1980s, also reffered to as the AI winters, the field of AI has seen rapid advancements due to, among others, the introduction of deep learning, big data and artificial general intelligence in the early 2000s.
+After some setbacks in the 1970s and 1980s, also referred to as the AI winters, the field of AI has seen rapid advancements due to, among others, the introduction of deep learning, big data and artificial general intelligence in the early 2000s.
 
 In this section, you will explore AI's history a bit further by reading Morignat's article 'The Ancient Quest for AI' and watching the YouTube video 'Background of AI: AI History' by AI with Alex.
 

@@ -55,5 +55,7 @@ The deadline for the first draft of the creative brief is Thursday at 00:00.
 
 ## __Literature__
 
-Buttram, C., MacMillan III, D., & Thompson, T. (2012, November). Source Credibility: How To Select The Best Sources. University of North Alabama Center for Writing Excellence. https://www.una.edu/writingcenter/docs/Writing-Resources/Source%20Credibility.pdf
+Buttram, C., MacMillan III, D., & Thompson, T. (2012, November).
+Source Credibility: How To Select The Best Sources. University of North Alabama Center for Writing Excellence. https://www.una.edu/writingcenter/docs/Writing-Resources/Source%20Credibility.pdf
+
 Spielberg, S. (Director). (2002). Minority Report [Film]. Twentieth Century Fox.  

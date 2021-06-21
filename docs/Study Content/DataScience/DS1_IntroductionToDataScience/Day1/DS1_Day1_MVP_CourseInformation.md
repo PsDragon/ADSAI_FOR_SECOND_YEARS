@@ -1,4 +1,4 @@
-﻿# Data Science 1, class 1: Overview
+﻿# Data Science 1, Day 1: Overview
 
 # Your lecturers
 
@@ -54,6 +54,5 @@ Please follow the links below to continue the classs:
 1. [Lecture & mock-assessment](https://github.com/BredaUniversity/AAI-DM/blob/15cceaca8803d1a5a92a7deed372485e6bac76de/docs/Year1/BlockA/DataScience/Courses/DS1/Day1/DS1_L1_MVP_LectureAndMockAssesment.md): 2-3 hours
 2. [Workshop](https://github.com/BredaUniversity/AAI-DM/blob/15cceaca8803d1a5a92a7deed372485e6bac76de/docs/Year1/BlockA/DataScience/Courses/DS1/Day1/DS1_L1_MVP_IntroToR.md): 1-2 hour
 
-And remember: You only YOLO once.
-
+Good luck and don't hesitate to ask your us any questions!'
 

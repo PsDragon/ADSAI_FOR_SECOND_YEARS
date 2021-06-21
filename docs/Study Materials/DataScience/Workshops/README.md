@@ -2,11 +2,13 @@
 sort: 1
 ---
 
-# Readme Data Sciencer Study Materials repository - Data Science Documentation
+# Readme Workshops - Data Science Documentation
 
 ## Folder Overview & Structure
 
 ## Usage 
+Supported file types:
+
 
 Message from Abhishek : Don't add any content in the ReadMe.md file
 

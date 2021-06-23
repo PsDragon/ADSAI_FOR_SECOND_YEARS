@@ -81,9 +81,7 @@ please watch the following video.
 
 <!-- blank line -->
 <figure class="video_container">
-<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tSebLz1hNpA?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
 </figure>
 <!-- blank line -->
 
@@ -104,9 +102,7 @@ please watch the following video.
 
 <!-- blank line -->
 <figure class="video_container">
-<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5yhn0MFLcu8?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
 </figure>
 <!-- blank line -->
 
@@ -173,9 +169,7 @@ Please watch the following brief video to review concepts learned.
 
 <!-- blank line -->
 <figure class="video_container">
-<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/beA8IsY3mQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
 </figure>
 <!-- blank line -->
 
@@ -188,9 +182,14 @@ types. However, we can also declare nested lists, a list containing atleast one
 other list as a variable. However, it is important to note that there are certain operations that you
 can perform on data structures that you cannot perform on data types.
 
-Please review the topic Data Structures in the official Python tutorial, which you can find here.
-![https://docs.python.org/3/tutorial/datastructures.html]
+Please review the topic Data Structures in the official Python tutorial, which you can find here [1].
+
 
 ## Assignments - Code Academy
 
-- [ ] Please complete the Learning Python 3 module in Code Academy 
+- [ ] Please complete the Learning Python 3 module in Code Academy
+
+# References
+<a id="1">[1]</a>
+<https://docs.python.org/3/tutorial/datastructures.html>
+<br>

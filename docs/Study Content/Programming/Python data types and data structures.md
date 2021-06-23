@@ -1,0 +1,196 @@
+---
+sort: 5
+---
+
+# Python data types
+
+We discovered earlier this week that an important characteristic of Python
+is that every variable exists in the Python interpreter in its own container which is referred
+to as a Python object. Further, variables in Python can store data of several types.
+
+The most commonly used data types in Python which we will explore today are:
+
+Variable type | Python data types
+------------  | -----------------
+Text          | ```str```
+Numeric       | ```int```,  ```float```,  ```complex```
+Sequence      | ```list```,  ```tuple```
+Map           | ```dict```
+Set           | ```set```
+Boolean       | ```bool```
+
+## Learning objectives
+- [ ] Understand basic data types in Python (num, string)
+- [ ] Understand collections in Python (lists, tuples, dict)
+- [ ] Understand common operations and methods on Python data types (e.g., list comprehension)
+
+
+## Getting and setting data types
+
+To get the data type of any Python variable, we use the ```type()``` function.
+
+```python
+x = 10
+datatypeofx = type(x)
+print(datatypeofx)
+```
+To set the data type of any Python variable, we do not need to use an explicit function.
+Python is commonly termed a **dynamically typed language**. What this implies is
+that the data type of the variable is not set during variable assignment, but rather
+determined when an operation is performed on the variable.
+
+For example, try to analyse the following code snippet.
+
+```python
+x = 'Hello World'
+y = ', how u doin?'
+z = x + y
+print(z)
+print('Data type of z: ', type(z))
+```
+
+Now, try this out:
+
+```python
+x = 4
+y = 5
+z = x + y
+print(z)
+print('Data type of z: ', type(z))
+```
+
+As you will notice, Python automatically detects the data types of ```x``` and ```y```,
+which further determines the data type of ```z```. Now, what do you expect to
+observe when you run the following code snippet?
+
+```python
+x = 4
+y = ', how u doin?'
+z = x + y
+print(z)
+print('Data type of z: ', type(z))
+```
+
+> Note: if you do want to explicitly set the data types of certain variables,
+> perhaps to ensure that they never change, you can use what are known as **constructor** functions.
+
+### Text in Python
+
+To learn more about Python strings and operations that can be performed on them,
+please watch the following video.
+
+<!-- blank line -->
+<figure class="video_container">
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tSebLz1hNpA?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+</figure>
+<!-- blank line -->
+
+### Numbers in Python
+
+Numbers can be represented in Python either as an ```int```,  ```float``` or  ```complex```.
+Further, several operations can be performed on them as shown in the table below.
+
+<figure>
+    <img src=".\assets\num_operations.PNG" />
+    <figcaption>Python operations on numeric data types</figcaption>
+</figure>
+<br>
+
+To learn more about Python data types, in particular numeric data types
+and the operations that can be performed on them,
+please watch the following video.
+
+<!-- blank line -->
+<figure class="video_container">
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5yhn0MFLcu8?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+</figure>
+<!-- blank line -->
+
+### Python sequences
+
+There are two basic sequence types: lists and tuples. A Python list is used to store multiple items in a single variable. A tuple is similar to a python list, but a key difference is that a list can be modified once created, but a tuple can't. In Pythonic terms, a list is mutable, whereas a tuple is inmutable.
+
+There are also slight differences in how they are declared and assigned.
+
+```python
+cities_list = ["Breda", "Tilburg", "Amsterdam", "Rotterdam", "Groningen"]
+print(cities_list)
+```
+
+
+```python
+cities_tuple = ("Breda", "Tilburg", "Amsterdam", "Rotterdam", "Groningen")
+print(cities_tuple)
+```
+
+Please experiment with the following list and tuple operations on your own lists.
+
+> Remember that Python is dynamically typed.
+
+<figure>
+    <img src=".\assets\python_list_operations.PNG" />
+    <figcaption>Python operations on lists and tuples</figcaption>
+</figure>
+<br>
+
+
+### Python Dictionaries
+
+A Python dictionary is a data type which is a collection of variables.
+A simple example of a dictionary data type is your phone contacts. It contains a
+a key which is your contacts' name, and values such as surname, phone number, address, birthday etc.
+Dictionaries in Python are also represented using ```key:value``` pairs.
+
+A pair of braces creates an empty dictionary: {}.
+Placing a comma-separated list of ```key:value``` pairs within the braces adds initial
+```key:value``` pairs to the dictionary; this is also the way dictionaries are written
+on output.
+
+For example, one can represent a contact list in Python using the following syntax.
+
+```python
+my_contacts = {"Jan": {"name": "Jan Peters Jones", "address": "2 Breda", "phone": "0678456732"},
+               "Marcella": {"name": "Marcella Huizinga", "address": "31 Groningen", "phone": "08 957834321"}
+              }
+```
+
+To retrieve the details for ```Jan```, we run the following code
+
+```python
+print(my_contacts['Jan'])
+```
+
+If we further only want to retrieve Jan's phone number, then we can further run
+```python
+print(my_contacts['Jan']['phone'])
+```
+
+Please watch the following brief video to review concepts learned.
+
+<!-- blank line -->
+<figure class="video_container">
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/beA8IsY3mQs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+</figure>
+<!-- blank line -->
+
+
+
+## Python Data structures
+There is no clear distinction between a data type and a data structure in Python.
+For example a list is a data structure that can contain variables of multiple data
+types. However, we can also declare nested lists, a list containing atleast one
+other list as a variable. However, it is important to note that there are certain operations that you
+can perform on data structures that you cannot perform on data types.
+
+Please review the topic Data Structures in the official Python tutorial, which you can find here.
+![https://docs.python.org/3/tutorial/datastructures.html]
+
+## Assignments - Code Academy
+
+- [ ] Please complete the Learning Python 3 module in Code Academy 

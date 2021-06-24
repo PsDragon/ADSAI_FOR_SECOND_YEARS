@@ -22,7 +22,7 @@ SUFFICIENT
 5. Produce a list of all the instances in ```toewijzingen``` that have an above average number of ... (LEVEL 2A).
 6. Produce a list of all the instances in table ```toewijzingen``` where the column  ```a_soz_ww``` is not empty (see table 1) (LEVEL 2B).
 
-| gwb_code_10   | regio (rename to match oosterhout dataset)                            | a_soz_ww   |
+| gwb_code_10   | regio (rename to match oosterhout dataset) | a_soz_ww   |
 |---------------|-----------------------------------|------------|
 | WK082600      | Wijk 00 Oosterhout-Centrum        | 80         |
 | WK082601      | Wijk 01 Slotjes                   | 110        |
@@ -37,8 +37,8 @@ SUFFICIENT
 | WK082610      | Wijk 10 Buitengebied Oosterhout   | 0          |
 | WK082611      | Wijk 11 Den Hout                  | 10         |
 | WK082612      | Wijk 12 Oosteind                  | 10         |
-| WK082613      | Wijk 13 Dorst                     | 50        |
-|               |                                   |            |
+| WK082613      | Wijk 13 Dorst                     | 50         |
+
 *Table 1: Key figures, districts and neighbourhoods (SN, 2020); [Unemployment benefits](https://www.cbs.nl/nl-nl/maatwerk/2020/29/kerncijfers-wijken-en-buurten-2020)*
 
 GOOD
@@ -51,7 +51,7 @@ EXCELLENT
 
 ***
 
-##__Codebook__
+## __Codebook__
 
 | Variable      | Data type    | Description                                          |
 |---------------|--------------|------------------------------------------------------|

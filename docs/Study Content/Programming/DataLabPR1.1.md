@@ -42,13 +42,11 @@ and location for a user supplied year of birth.**
 ## 2. Covid Flowchart: Should I stay or should I go?
 
 <figure>
-    <center>
     <img src=".\assets\DL1_Flowchart.PNG" />
-    <figcaption>Covid flowchart</figcaption>
-    </center>
+    <figcaption>Covid flowchart (Source: NHL Stenden)</figcaption>
 </figure>
 <br>
 
-**Using Jupyter notebooks, write a Python function which implements the logic presented in the flowchart**
+**Using Jupyter notebooks, write a Python function which implements the logic presented in the flowchart.**
 
 > Hint: Use the input() command to request the user to provide an input.

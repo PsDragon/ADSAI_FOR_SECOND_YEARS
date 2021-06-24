@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# Readme Data Sciencer Study Materials repository - Data Science Documentation
+# Readme Assets repository - Data Science Documentation
 
 ## Folder Overview & Structure
 

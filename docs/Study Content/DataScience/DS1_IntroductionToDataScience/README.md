@@ -2,14 +2,9 @@
 sort: 1
 ---
 
-# Readme Data Sciencer Study Materials repository - Data Science Documentation
-
-## Folder Overview & Structure
-
-## Usage 
+# Data Science Documentation
 
 Message from Abhishek : Don't add any content in the ReadMe.md file
-
 
 {% include list.liquid all=true %}
 

@@ -15,11 +15,11 @@ POOR
 INSUFFICIENT
 
 4. a) Select a table from the youth care data collection 2
-   b) Use CREATE (LEVEL 1A) to construct a new table for the youth care data collection 1 that contains three rows with the smallest values of a column located within the table selected for question 4a (LEVEL 1B), and name it ```data1```
+   b) Use CREATE (LEVEL 1A) to construct a new table for the youth care data collection 1 that contains three rows with the smallest values of a numerical column located within the table selected for question 4a (LEVEL 1B), and name it ```data1```
 
 SUFFICIENT
 
-5. Produce a list of all the instances in ```toewijzingen``` that have an above average number of ... (LEVEL 2A).
+5. Produce a list of the total number of ... in the table```data1``` (LEVEL 2A).
 6. Produce a list of all the instances in table ```toewijzingen``` where the column  ```a_soz_ww``` is not empty (see table 1) (LEVEL 2B).
 
 | gwb_code_10   | regio | a_soz_ww   |

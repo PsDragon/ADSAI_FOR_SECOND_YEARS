@@ -1,3 +1,7 @@
+---
+sort: 6
+---
+
 ## __Assignment__
 
 ### __Sub-section A__

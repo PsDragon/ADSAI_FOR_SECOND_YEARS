@@ -22,7 +22,7 @@ SUFFICIENT
 5. Produce a list of all the instances in ```toewijzingen``` that have an above average number of ... (LEVEL 2A).
 6. Produce a list of all the instances in table ```toewijzingen``` where the column  ```a_soz_ww``` is not empty (see table 1) (LEVEL 2B).
 
-| gwb_code_10   | regio (rename to match oosterhout dataset) | a_soz_ww   |
+| gwb_code_10   | regio | a_soz_ww   |
 |---------------|-----------------------------------|------------|
 | WK082600      | Wijk 00 Oosterhout-Centrum        | 80         |
 | WK082601      | Wijk 01 Slotjes                   | 110        |

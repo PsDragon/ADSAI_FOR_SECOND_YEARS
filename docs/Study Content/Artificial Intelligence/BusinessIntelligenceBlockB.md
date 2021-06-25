@@ -70,35 +70,35 @@ __Requirements:__
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #000000;; background-color: #FFAB91; border-color: #FFAB91;">
 LEVEL 1
 
-Elementary SQL queries & Modifying databases in SQL 1
+<br>Elementary SQL queries & Modifying databases in SQL 1
 
-A) Prepare, and run SQL queries that use DELETE, UPDATE, SELECT INTO, INSERT INTO SELECT, CREATE TABLE, and CREATE INDEX.
-B) Prepare, and run SQL queries that use SELECT, FROM, ORDER BY, WHERE, IN, BETWEEN, OR, AND, NOT, LIKE, EXISTS, and LIMIT.
+<br>A) Prepare, and run SQL queries that use DELETE, UPDATE, SELECT INTO, INSERT INTO SELECT, CREATE TABLE, and CREATE INDEX.
+<br>B) Prepare, and run SQL queries that use SELECT, FROM, ORDER BY, WHERE, IN, BETWEEN, OR, AND, NOT, LIKE, EXISTS, and LIMIT.
 </div>
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #000000;; background-color: #FFE082; border-color: #FFE082;">
 LEVEL 2
 
-Intermediate (relational) SQL queries 1 & Modifying databases in SQL 2
+<br>Intermediate (relational) SQL queries 1 & Modifying databases in SQL 2
 
-A) Prepare, and run SQL queries that use COUNT, SUM, MIN, MAX, AVG, GROUP BY, DISTICT, HAVING, DATE, and CASE.
-B) Prepare, and run SQL queries that use LEFT JOIN, INNER JOIN, OUTER JOIN, IS NULL, and IS NOT NULL.
+<br>A) Prepare, and run SQL queries that use COUNT, SUM, MIN, MAX, AVG, GROUP BY, DISTICT, HAVING, DATE, and CASE.
+<br>B) Prepare, and run SQL queries that use LEFT JOIN, INNER JOIN, OUTER JOIN, IS NULL, and IS NOT NULL.
 </div>
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #000000;; background-color: #E6EE9C; border-color: #E6EE9C;">
 LEVEL 3
 
-Modifying databases in SQL 3
+<br>Modifying databases in SQL 3
 
-A) Prepare, and run SQL queries that use PRIMARY KEY, FOREIGN KEY, and REFERENCES.
+<br>A) Prepare, and run SQL queries that use PRIMARY KEY, FOREIGN KEY, and REFERENCES.
 </div>
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #000000;; background-color: #C0CA33; border-color: #C0CA33;">
 LEVEL 4
 
-Intermediate (relational) SQL queries 2
+<br>Intermediate (relational) SQL queries 2
 
-A) Prepare, and run SQL subqueries.
+<br>A) Prepare, and run SQL subqueries.
 </div>
 
 To successfully complete this part of the assignment, you need to go through the following [procedure]().

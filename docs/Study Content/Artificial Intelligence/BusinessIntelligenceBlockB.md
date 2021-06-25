@@ -36,17 +36,17 @@ __Week 1__
 | Wednesday | Independent-Study 2: Intermediate (relational) SQL queries 1 <br> Modifying databases in SQL 2  |
 | Thursday | Independent-Study 3: Modifying databases in SQL 3 <br> Intermediate (relational) SQL queries 2   |
 | Friday  | DataLab 2: Youth Care Pilot: Databases & SQL (Assignment, Sub-section  A)  |
-\
+
 __Week 2__
 
 |  Day | Topic(s)   |
 | ------------ | ------------ |
 |  Monday | Independent-Study 1: Data preparation in Power BI <br> Clean, transform, and load data in Power BI  |
-|  Tuesday | DataLab 1: Youth Care Pilot: Data wrangling in Power BI |
+| Tuesday | DataLab 1: Youth Care Pilot: Data wrangling in Power BI |
 | Wednesday | Independent-Study 2: Model data in Power BI |
 | Thursday | Independent-Study 3: Data visualisation in Power BI |
 | Friday  | DataLab 2: Youth Care Pilot:  Basic visuals in Power BI <br> Formative feedback session I |
-\
+
 __Week 3__
 
 |  Day | Topic(s)   |
@@ -55,15 +55,13 @@ __Week 3__
 |  Tuesday | DataLab 1:  Youth Care Pilot: Data analysis & Advanced visuals in Power BI |
 | Wednesday | Independent-Study 2: Other topics |
 | Thursday | Independent-Study 3: Other topics  |
-| Friday  | DataLab 2: Other topics|
-
-
+| Friday  | DataLab 2: Other topics |
 
 ***
 
-##__Assignment__
+## __Assignment__
 
-###__Sub-section A__
+### __Sub-section A__
 
 For sub-section A of the assignment, you are going to import a selection of the youth care data, provided by the municipality of Oosterhout, into an PostgreSQL client. Additionally, you will prepare and run various SQL queries on the loaded data.
 \
@@ -72,7 +70,7 @@ __Requirements:__
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #000000;; background-color: #FFAB91; border-color: #FFAB91;">
 LEVEL 1
 
-*Elementary SQL queries & Modifying databases in SQL 1*
+<i/>Elementary SQL queries & Modifying databases in SQL 1</i>
 
 A) Prepare, and run SQL queries that use DELETE, UPDATE, SELECT INTO, INSERT INTO SELECT, CREATE TABLE, and CREATE INDEX.
 B) Prepare, and run SQL queries that use SELECT, FROM, ORDER BY, WHERE, IN, BETWEEN, OR, AND, NOT, LIKE, EXISTS, and LIMIT.
@@ -81,7 +79,7 @@ B) Prepare, and run SQL queries that use SELECT, FROM, ORDER BY, WHERE, IN, BETW
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #000000;; background-color: #FFE082; border-color: #FFE082;">
 LEVEL 2
 
-*Intermediate (relational) SQL queries 1 & Modifying databases in SQL 2*
+<i/>Intermediate (relational) SQL queries 1 & Modifying databases in SQL 2</i>
 
 A) Prepare, and run SQL queries that use COUNT, SUM, MIN, MAX, AVG, GROUP BY, DISTICT, HAVING, DATE, and CASE.
 B) Prepare, and run SQL queries that use LEFT JOIN, INNER JOIN, OUTER JOIN, IS NULL, and IS NOT NULL.
@@ -90,7 +88,7 @@ B) Prepare, and run SQL queries that use LEFT JOIN, INNER JOIN, OUTER JOIN, IS N
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #000000;; background-color: #E6EE9C; border-color: #E6EE9C;">
 LEVEL 3
 
-*Modifying databases in SQL 3*
+<i/>Modifying databases in SQL 3</i>
 
 A) Prepare, and run SQL queries that use PRIMARY KEY, FOREIGN KEY, and REFERENCES.
 </div>
@@ -98,14 +96,14 @@ A) Prepare, and run SQL queries that use PRIMARY KEY, FOREIGN KEY, and REFERENCE
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #000000;; background-color: #C0CA33; border-color: #C0CA33;">
 LEVEL 4
 
-*Intermediate (relational) SQL queries 2*
+<i/>Intermediate (relational) SQL queries 2</i>
 
 A) Prepare, and run SQL subqueries.
 </div>
 
 To successfully complete this part of the assignment, you need to go through the following [procedure]().
 
-###__Sub-section B__
+### __Sub-section B__
 
 For sub-section B of the assignment, you are going to import your youth care dataset, created in sub-section A of the assignment, into Power BI, and perform operations on the data to provide insightful visualizations.
 
@@ -122,4 +120,4 @@ __Requirements:__
 
 ***
 
-##__Resources__
+## __Resources__

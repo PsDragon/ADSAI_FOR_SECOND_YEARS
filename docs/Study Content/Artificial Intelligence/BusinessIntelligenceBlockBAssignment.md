@@ -1,5 +1,5 @@
 ---
-sort: 6
+sort: 7
 ---
 
 ## __Block B: Assignment__
@@ -7,6 +7,8 @@ sort: 6
 ### __Sub-section A__
 \
 __Procedure:__
+
+Each colour block corresponds to a specific criterion of ILO 1. To attain a certain skill-level, e.g. yellow (Level 2, 'Sufficient'), you need to answer all the questions in the corresponding colour block correctly.
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #000000;; background-color: #FF7043; border-color: ##FF7043;">
 1. Install the PostgreSQL database server

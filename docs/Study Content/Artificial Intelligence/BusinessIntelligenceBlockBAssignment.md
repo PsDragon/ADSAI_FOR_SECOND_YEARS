@@ -5,7 +5,11 @@ sort: 7
 ## __Block B: Assignment__
 
 ### __Sub-section A__
-\
+
+For this part of the assignment you will receive two data sources:
+1. PostgreSQL database with youth care data. Hereinafter, youth care data collection 1.
+2. A collection of youth care related csv./flat-files. Hereinafter, Youth care data collection 2.
+
 __Procedure:__
 
 Each colour block corresponds to a specific criterion of ILO 1. To attain a certain skill-level, e.g. yellow (Level 2, 'Sufficient'), you need to answer all the questions in the corresponding colour block correctly.

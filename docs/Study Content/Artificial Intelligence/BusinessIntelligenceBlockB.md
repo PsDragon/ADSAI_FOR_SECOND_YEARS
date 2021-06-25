@@ -70,7 +70,7 @@ __Requirements:__
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #000000;; background-color: #FFAB91; border-color: #FFAB91;">
 LEVEL 1
 
-<i/>Elementary SQL queries & Modifying databases in SQL 1</i>
+Elementary SQL queries & Modifying databases in SQL 1
 
 A) Prepare, and run SQL queries that use DELETE, UPDATE, SELECT INTO, INSERT INTO SELECT, CREATE TABLE, and CREATE INDEX.
 B) Prepare, and run SQL queries that use SELECT, FROM, ORDER BY, WHERE, IN, BETWEEN, OR, AND, NOT, LIKE, EXISTS, and LIMIT.
@@ -79,7 +79,7 @@ B) Prepare, and run SQL queries that use SELECT, FROM, ORDER BY, WHERE, IN, BETW
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #000000;; background-color: #FFE082; border-color: #FFE082;">
 LEVEL 2
 
-<i/>Intermediate (relational) SQL queries 1 & Modifying databases in SQL 2</i>
+Intermediate (relational) SQL queries 1 & Modifying databases in SQL 2
 
 A) Prepare, and run SQL queries that use COUNT, SUM, MIN, MAX, AVG, GROUP BY, DISTICT, HAVING, DATE, and CASE.
 B) Prepare, and run SQL queries that use LEFT JOIN, INNER JOIN, OUTER JOIN, IS NULL, and IS NOT NULL.
@@ -88,7 +88,7 @@ B) Prepare, and run SQL queries that use LEFT JOIN, INNER JOIN, OUTER JOIN, IS N
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #000000;; background-color: #E6EE9C; border-color: #E6EE9C;">
 LEVEL 3
 
-<i/>Modifying databases in SQL 3</i>
+Modifying databases in SQL 3
 
 A) Prepare, and run SQL queries that use PRIMARY KEY, FOREIGN KEY, and REFERENCES.
 </div>
@@ -96,7 +96,7 @@ A) Prepare, and run SQL queries that use PRIMARY KEY, FOREIGN KEY, and REFERENCE
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #000000;; background-color: #C0CA33; border-color: #C0CA33;">
 LEVEL 4
 
-<i/>Intermediate (relational) SQL queries 2</i>
+Intermediate (relational) SQL queries 2
 
 A) Prepare, and run SQL subqueries.
 </div>

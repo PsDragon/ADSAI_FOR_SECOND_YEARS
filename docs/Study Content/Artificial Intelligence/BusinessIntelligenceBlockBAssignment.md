@@ -2,25 +2,27 @@
 sort: 6
 ---
 
-## __Assignment__
+## __Block B: Assignment__
 
 ### __Sub-section A__
+\
+__Procedure:__
 
-POOR
-
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #000000;; background-color: #FF7043; border-color: ##FF7043;">
 1. Install the PostgreSQL database server
-2. Install a client that is compatible with PostgreSQL (e.g. DBeaver, pgAdmin etc.)
-3. Import the youth care data collection 1 into the PostgreSQL client
+<br>2. Install a client that is compatible with PostgreSQL (e.g. DBeaver, pgAdmin etc.)
+<br>3. Import the youth care data collection 1 into the PostgreSQL client
+</div>
 
-INSUFFICIENT
-
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #000000;; background-color: #FFAB91; border-color: #FFAB91;">
 4. a) Select a table from the youth care data collection 2
-   b) Use CREATE (LEVEL 1A) to construct a new table for the youth care data collection 1 that contains three rows with the smallest values of a numerical column located within the table selected for question 4a (LEVEL 1B), and name it ```data1```
+   <br>b) Use CREATE (LEVEL 1A) to construct a new table for the youth care data collection 1 that contains three rows with the smallest values of a numerical column located within the table selected for question 4a (LEVEL 1B), and name it <i/>data1</i>
+</div>
 
-SUFFICIENT
-
-5. Produce a list of the total number of ... in the table```data1``` (LEVEL 2A).
-6. Produce a list of all the instances in table ```toewijzingen``` where the column  ```a_soz_ww``` is not empty (see table 1) (LEVEL 2B).
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #000000;; background-color: #FFE082; border-color: #FFE082;">
+5. Produce a list of the total number of ... in the table <i/>data1</i> (LEVEL 2A).
+<br>6. Produce a list of all the instances in table <i/>toewijzingen</i> where the column  <i/>a_soz_ww</i> is not empty (see table 1) (LEVEL 2B).
+</div>
 
 | gwb_code_10   | regio | a_soz_ww   |
 |---------------|-----------------------------------|------------|
@@ -41,13 +43,13 @@ SUFFICIENT
 
 *Table 1: Key figures, districts and neighbourhoods (SN, 2020); [Unemployment benefits](https://www.cbs.nl/nl-nl/maatwerk/2020/29/kerncijfers-wijken-en-buurten-2020)*
 
-GOOD
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #000000;; background-color: #E6EE9C; border-color: #E6EE9C;">
+9. Create a correct relationship between the table <i/>toewijzingen</i> and a table from the youth care data collection 2 that includes geographic information, which can be linked to the clients (LEVEL 3A).
+</div>
 
-9. Create a correct relationship between the table ```toewijzingen``` and a table from the youth care data collections 2 that includes geographic information, which can be linked to the clients (LEVEL 3A).
-
-EXCELLENT
-
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #000000;; background-color: #C0CA33; border-color: #C0CA33;">
 10. Produce a list with the name (first and  surname), gender, neighborhood id, 'wachttijd' for those clients who have such a 'wachttijd', which is the shortest 'wachttijd' of any of the neighborhoods (LEVEL 4A).
+</div>
 
 ***
 

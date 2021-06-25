@@ -23,7 +23,7 @@ Each colour block corresponds to a specific criterion of ILO 1. To attain a cert
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #000000;; background-color: #FFE082; border-color: #FFE082;">
 5. Produce a list of the total number of ... in the table data1 (LEVEL 2A).
-<br>6. Produce a list of all the instances in table toewijzingen where the column a_soz_ww is not empty (see table 1) (LEVEL 2B).
+<br>6. Produce a list of all the instances in table toewijzingen where the column a_soz_ww is not empty (see table 1), and rename the table as toewijzingen_unemp (LEVEL 2B).
 </div>
 
 | gwb_code_10   | regio | a_soz_ww   |
@@ -46,7 +46,7 @@ Each colour block corresponds to a specific criterion of ILO 1. To attain a cert
 *Table 1: Key figures, districts and neighbourhoods (SN, 2020); [Unemployment benefits](https://www.cbs.nl/nl-nl/maatwerk/2020/29/kerncijfers-wijken-en-buurten-2020)*
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #000000;; background-color: #E6EE9C; border-color: #E6EE9C;">
-9. Create a correct relationship between the table toewijzingen and a table from the youth care data collection 2 that includes geographic information, which can be linked to the clients (LEVEL 3A).
+9. Create a correct relationship between the table toewijzingen_unemp and a table from the youth care data collection 2 that includes geographic information, which can be linked to the clients (LEVEL 3A).
 </div>
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #000000;; background-color: #C0CA33; border-color: #C0CA33;">

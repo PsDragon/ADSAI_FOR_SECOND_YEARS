@@ -73,6 +73,16 @@ for x in range(0, 10):
         print(x)
 ```
 
+Please watch this video to learn more about good commenting practices.
+
+<!-- blank line -->
+<figure class="video_container">
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kEuVvUc1Zec?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+</figure>
+<!-- blank line -->
+
 ### Objects
 An important characteristic of the Python language is that every number, string,
 data structure, function, class, module, and so on exists in the Python interpreter
@@ -140,9 +150,49 @@ for x in range(0, 10):
         print('Odd')
 ```
 
+To understand more about loops, please watch the following short video.
+
+<!-- blank line -->
+<figure class="video_container">
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LrOAl8vUFHY?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+</figure>
+<!-- blank line -->
+
+### Python functions
+
+A function is a programming technique used to combine a set of statements which perform specific operations on variables.
+Functions are an alternative method of cutting-and-pasting codes rather than duplicating lines of the same instruction or operation.
+
+Imagine you are asked to add two numbers ```4``` and ```5```.
+In python, you can perform this operation by simply typing..
+
+```python
+print(4 + 5)
+```
+
+Now imagine I ask you to print the sum of two numbers, but I change the numbers every hour.
+Duplicating the ```print(x + y)``` statement every hour can become quiet tiring, not to mention extemely boring.
+This is where functions come in handy.
+
+```python
+def SumTwoNumbers(x, y):
+    return(x + y)
+```
+
+
+
+<figure class="video_container">
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nrCAxXfRU28?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+</figure>
+<!-- blank line -->
+
 ## Assignments - Hacker Rank
 
-- [ ] Please go to <http://www.hackerrank.com> and create an account.
+- [ ] Please go to <http://www.hackerrank.com> and login with your Buas account.
 - [ ] Goto Practice -> Python
 - [ ] Select the first two subdomains
 <figure>

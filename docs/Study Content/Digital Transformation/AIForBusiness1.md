@@ -12,6 +12,8 @@ sort: 1
 ***
 
 ### 2. Introduction into application of AI in businesses
+\
+_2a_ Watch the TEDx talk "Artificial Intelligence and the Future of Business" by Hans-Christian Boos.
 
 ***
 

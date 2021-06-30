@@ -5,7 +5,7 @@ sort: 8
 ## __Youth Care Pilot: Research design, EDA, and codebook__
 \
 \
-<img src="./images/dataLab_banner.jpg" alt="Books banner" width="600"/>
+<img src="./images/datalab_banner.jpg" alt="Datalab banner" width="600"/>
 
 
 ### 1. Introduction
@@ -63,15 +63,13 @@ In the Child and Youth Act of 2015, local municipalities must ensure that their 
 - Offers timely suitable care made to measure. This includes improving the safety of children and youth and out of home placements in environments that are most similar to family environments, like foster care.
 - Contains effective and efficient cooperation regarding families (Hilverdink, Daamen and Vink, 2015).
 
-#### 3.3 Youth care pilot
+#### 3.3 Equalit: Youth care pilot
 
 Equalit is an ICT partnership of, and for local authorities located within the regions of Mid- and West-Brabant. Started in 2005 as a collaboration between the municipality of Oosterhout and Oisterwijk, it aims to provide high quality ICT support at low costs. Equalit provides services to a total of 13 participants, seven of them are currently involved in this intermunicipal youth care pilot:
 
-•	Oosterhout
-•	Alphen-Chaam, Baarle-Nassau and Gilze-Rijen (ABG-municipalities)
-•	Goirle, Hilvarenbeek and Oisterwijk (GHO-municipalities)
-
-
+- Oosterhout (lead municipality)
+- Alphen-Chaam, Baarle-Nassau and Gilze-Rijen (ABG-municipalities)
+- Goirle, Hilvarenbeek and Oisterwijk (GHO-municipalities)
 
 ***
 

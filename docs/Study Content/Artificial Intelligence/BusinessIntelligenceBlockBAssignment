@@ -1,8 +1,0 @@
-## __Assignment__
-
-### __Sub-section __Assignment__
-
-1. Install the PostgreSQL database server.
-2	Install an IDE/client that is compatible with PostgreSQL (e.g. DBeaver, pgAdmin etc.).
-3. Build a PostgreSQL database with the data from the Creative Brief.
-4. Perform SQL operations on the data in the PostgreSQL database.

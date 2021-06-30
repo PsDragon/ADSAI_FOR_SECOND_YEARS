@@ -8,7 +8,10 @@ sort: 1
 <img src="./images/books_banner.png" alt="Books banner" width="600">
 
 ### 1. Introduction
+Happy Monday, everybody! Today we will begin with Digital Transformation classes, where you will learn the business application of Artificial Intelligence. AI brings numerous benefits to the companies by  helping organizations to grow their revenue and work more efficiently. And this will be the focus of the week.
+By the end of  today, we expect you to complete all the readings, watch all the videos and answer all the questions listed. It will help you to prepare for the final assignment.  
 
+If you have questions regarding the study material, you can send us an email or attend the Q&A session at the end of each self-study day. During the Q&A session, we will extensively discuss the independent study material. For details on availability see Contact page.
 ***
 
 ### 2. Introduction into application of AI in businesses

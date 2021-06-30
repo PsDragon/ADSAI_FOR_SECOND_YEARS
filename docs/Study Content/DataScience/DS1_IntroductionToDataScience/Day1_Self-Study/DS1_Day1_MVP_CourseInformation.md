@@ -4,7 +4,7 @@
 
 Name  | Education & Experience  | Contact
 ---   | ----------------------  | ---
-<img src="docs/Study Content/DataScience/DS1_IntroductionToDataScience/Day1_Self-Study/Assets/BramMediumCloseUp.jpg" width="140" height="200" /> | **Ongoing** PhD., Non-Obtrusive Assessment of Games, Tilburg University  <br> MSc., Cognitive Science & Artificial Intelligence, Tilburg University <br> Game Architecture and Design, Breda University of Apllied Science <br> <br> Neuro-cognitive game research <br> (Mixed-Reality) Educational Game design & Project management <br> Managing Covid-19 Contract Tracing Operations | heijligers.b@buas.nl
+<img src="docs/Study Content/DataScience/DS1_IntroductionToDataScience/Day1_Self-Study/Assets/BramMediumShot.JPG" width="140" height="200" /> | **Ongoing** PhD., Non-Obtrusive Assessment of Team-Based Games *(Working title)*, Tilburg University  <br> MSc., Cognitive Science & Artificial Intelligence, Tilburg University <br> BSc. Game Architecture and Design, Breda University of Apllied Science <br> <br> Game design & research <br> Managing covid-19 contract tracing Operations <br> [More info](docs/Study Content/DataScience/DS1_IntroductionToDataScience/Assets/AboutLecturers/AboutBramHeijligers.md) | heijligers.b@buas.nl
 <img src="/docs/Study Content/Programming/assets/nitinFaceSmall.png" width="140" height="200" /> | PhD., Causal Inference, University of Groningen​  <br> MSc., Artificial Intelligence, Maastricht University​ <br> Electrical Engineering, MSRIT, India <br> <br> XRCE Europe - *Machine Learning Research* <br> Bosch Transmission Technologies Ltd. - *Senior Data Scientist* | bhushan.n@buas.nl
 
 # Course Overview
@@ -34,7 +34,7 @@ Look at the creative brief or ask us a [Question](https://github.com/BredaUniver
 ## 4) Assessment
 The student creates a Conference Poster based on case studies and examples introduced online and in-class; the focus is on all stages of the data science process (formulating the problem; selecting the data and exploratory data analyses technique(s); interpretation of descriptive data; reporting and visualizing the data) from an elementary level with specific emphasis on data visualisation as a means for understanding the data . Propose next steps: an analysis to run on the data.
 
-More information on the assessment can be found in the [creative brief](https://github.com/BredaUniversity/AAI-DM/blob/881590f3c6c3d682ef56357e4c04e237fa570e27/docs/Year1/BlockA/DataScience/Courses/DS1/Assessment/2021-22A%20DS1%20Project%20Brief.docx) (page 7 to 11) and in the [poster template](https://github.com/BredaUniversity/AAI-DM/blob/881590f3c6c3d682ef56357e4c04e237fa570e27/docs/Year1/BlockA/DataScience/Courses/DS1/Assessment/DS1-AssesmentPoster_Template.pptx).
+More information on the assessment can be found in the [creative brief](docs/Study Content/DataScience/DS1_IntroductionToDataScience/Assessment/2021-22 ADS&AI Project Brief Block A.docx) (page 7 to 11) and in the [poster template](docs/Study Content/DataScience/DS1_IntroductionToDataScience/Assessment/DS1-AssesmentPoster_Template.pptx).
 
 ## 5) Course resources:
 You don't have to get or buy any books yourself (#SaveTheTrees) but if you are eager to go beyond the scope of the course you can dive into the course resources yourself:
@@ -51,7 +51,8 @@ You don't have to get or buy any books yourself (#SaveTheTrees) but if you are e
 We start of with a comfortable introduction to some basic concepts and tools. The first class will focus on how we can see and quantify our world into data. In the workshop you will be introduced to R, an industry standard tool for statistical programming.
 
 Please follow the links below to continue the classs:
-1. [Lecture & mock-assessment](https://github.com/BredaUniversity/AAI-DM/blob/15cceaca8803d1a5a92a7deed372485e6bac76de/docs/Year1/BlockA/DataScience/Courses/DS1/Day1/DS1_L1_MVP_LectureAndMockAssesment.md): 2-3 hours
-2. [Workshop](https://github.com/BredaUniversity/AAI-DM/blob/15cceaca8803d1a5a92a7deed372485e6bac76de/docs/Year1/BlockA/DataScience/Courses/DS1/Day1/DS1_L1_MVP_IntroToR.md): 1-2 hour
+1. [Lecture & mock-assessment](docs/Study Content/DataScience/DS1_IntroductionToDataScience/Day1_Self-Study/DS1_Day1_MVP_LectureAndMockAssesment.md): 2-3 hours
+2. [Workshop](docs/Study Content/DataScience/DS1_IntroductionToDataScience/Day1_Self-Study/DS1_Day1_MVP_IntroToR.md): 1-2 hour
 
-Good luck and don't hesitate to ask your us any questions!'
+Good luck and don't hesitate to ask your us any questions!
+*By mail, in person or using our handy [Question Tool :D](https://github.com/BredaUniversity/AAI-DM/issues/new): '

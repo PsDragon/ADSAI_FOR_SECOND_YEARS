@@ -1,3 +1,7 @@
+---
+sort: 8
+---
+
 ## __Youth Care Pilot: Research design, EDA, and codebook__
 \
 \
@@ -6,9 +10,49 @@
 
 ### 1. Introduction
 
-In today's DataLab session, we will start working on the creative brief.  A detailed description of the assignment can be found in the Project Brief. At the end of the day, from 16:00 to 17:00, we will have a moment to reflect on DataLab 1.
+In today's DataLab session, we will start working on the creative brief. We are  A detailed description of the assignment can be found in the Project Brief. At the end of the day, from 16:00 to 17:00, we will have a moment to reflect on DataLab 1.
 
-### 2. Youth care policy
+***
+
+### 2. Workshop
+
+The workshop consists of two parts: A guest lecture, and a Q&A session by a data analyst of the municipality of Oosterhout. During the lecture you will be introduced to the youth care pilot  Time schedule:
+
+1. Workshop (10:00-11:00)
+2. Q&A session (11:00-15:00)
+
+
+***
+
+### 3. Creative Brief: Background information
+
+#### 3.1 What is a data analyst?
+
+A data analyst serves as a gatekeeper of the organization’s data collection, ensuring that the stakeholders can make informed decisions based on accurate, correct and complete data.
+
+<img src="./images/data_analyst.jpg" alt="Books banner" width="600"/>
+
+*Figure 1. What does a data analyst do?*
+
+The responsibilities of a data analyst are generally varied, challenging and fun. One day you might be pre-processing (e.g. transforming, cleaning etc.) data with SQL, another day you might participate in a stakeholder alignment session (e.g. establishing key performance indicators) or apply a simple ML model to a dataset.
+
+In order to successfully perform these tasks, a data analyst must have broad skillset (i.e. jack-of-all-trades), which includes but is not limited to:
+
+- Critical thinking
+- Presentation skills
+- Structured Query Language (SQL)
+- Python or R statistical programming
+- Data pipeline design
+- Data visualization
+- Machine learning
+
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Tip: if you want to get a better understanding of the daily tasks and responsibilities of a data analyst, look up videos and articles with titles such as 'Day in a life of ...' In addition, the article <a href="https://careerfoundry.com/en/blog/data-analytics/whats-it-like-to-actually-be-a-data-analyst/">'What's it like to actually be a data analyst'</a> consists of an interview with a data analyst.
+</div>
+
+***
+
+#### 3.2 Youth care policy
 
 With the introduction of the new Child and Youth Act in 2015, all Dutch municipalities were made responsible for the whole spectrum of care for people between the ages of 0 to 18 in need of help. As of today, 355 municipalities oversee a wide range of youth care services, ranging from preventive services to highly specialised, including both voluntary and compulsory, care.
 
@@ -19,54 +63,76 @@ In the Child and Youth Act of 2015, local municipalities must ensure that their 
 - Offers timely suitable care made to measure. This includes improving the safety of children and youth and out of home placements in environments that are most similar to family environments, like foster care.
 - Contains effective and efficient cooperation regarding families (Hilverdink, Daamen and Vink, 2015).
 
-### 3. Processes
+#### 3.3 Youth care pilot
 
-1.	Assess
+Equalit is an ICT partnership of, and for local authorities located within the regions of Mid- and West-Brabant. Started in 2005 as a collaboration between the municipality of Oosterhout and Oisterwijk, it aims to provide high quality ICT support at low costs. Equalit provides services to a total of 13 participants, seven of them are currently involved in this intermunicipal youth care pilot:
+
+•	Oosterhout
+•	Alphen-Chaam, Baarle-Nassau and Gilze-Rijen (ABG-municipalities)
+•	Goirle, Hilvarenbeek and Oisterwijk (GHO-municipalities)
+
+
+
+***
+
+#### 3.4 Processes
+
+The Dutch youth care system is complex . Jargon
+
+<img src="./images/youth_care_process.png" alt="Books banner" width="400"/>
+
+*Figure 2. Overview of the youth care process*
+
+
+__1.	Assess__
 
 During the assessment phase (1), it is determined whether the client has access to youth care. Access to youth care can be determined by various parties:
-·	The municipality or for example, a social district team (‘sociaal wijkteam’) commissioned by the municipality, assesses the client and records access to youth care in a so called ‘beschikking’ (i.e. order).
-·	A general practitioner, youth doctor or medical specialist refers a client to youth care.
-·	A judge, the Child Protection Board or the Public Prosecutor imposes youth care on the client.
-·	In addition to youth protection and youth probation, a certified institution can also determine regular youth care in consultation with the municipality. After consultation with the municipality, a certified institution determines what kind of youth support, which has been purchased by the municipality, will be used.
+- The municipality or e.g. a social district team ('sociaal wijkteam') commissioned by the municipality, assesses the client and records access to youth care in a so called 'beschikking' (i.e. order).
+- A general practitioner, youth doctor or medical specialist refers a client to youth care.
+- A judge, the Child Protection Board or the Public Prosecutor imposes youth care on the client.
+- In addition to youth protection and youth probation, a certified institution can also determine regular youth care in consultation with the municipality. After consultation with the municipality, a certified institution determines what kind of youth support, which has been purchased by the municipality, will be used.
 
-A.	Effort-oriented and output-oriented variant
-During the assessment, it is determined which kind of youth care a client needs, how much care (scope) and for how long (for which period). If the assessment is carried out by a party other than the municipality, the youth care provider then requests an ‘toewijzing’ from the municipality for the relevant youth care. Following the assessment, the municipality creates a ‘beschikking’ for the client. This sets out which youth care product the client needs (e.g. includes information on special needs, and time period). One ‘beschikking’ is the result of one assessment and can contain multiple products. Within the Youth Act it is also possible that a separate ‘beschikking’ is drawn up for each product for one client. These ‘beschikkingen’ may be valid simultaneously. It is also possible to give a youth care provider a budget for a predefined period. It is then up to the provider to determine which care should be used.
+*A. Effort-oriented and output-oriented variant*
+During the assessment, it is determined which kind of youth care a client needs, how much care (scope) and for how long (for which period). If the assessment is carried out by a party other than the municipality, the youth care provider then requests an 'toewijzing' from the municipality for the relevant youth care. Following the assessment, the municipality creates a 'beschikking' for the client. This sets out which youth care product the client needs (e.g. includes information on special needs, and time period). One 'beschikking' is the result of one assessment and can contain multiple products. Within the Youth Act it is also possible that a separate 'beschikking' is drawn up for each product for one client. These 'beschikkingen' may be valid simultaneously. It is also possible to give a youth care provider a budget for a predefined period. It is then up to the provider to determine which care should be used.
 
-B.	Task-oriented variant
-Within the task-oriented implementation variant, the youth care provider itself determines, on behalf of the municipality, whether the client has access to youth care. The municipality plays no role in the assessment and does not make a ‘beschikking’ at the level of the individual client.
+*B. Task-oriented variant*
+Within the task-oriented implementation variant, the youth care provider itself determines, on behalf of the municipality, whether the client has access to youth care. The municipality plays no role in the assessment and does not make a 'beschikking' at the level of the individual client.
 
-2.	Direct
+__2.	Direct__
 
-In phase 2, direct, the ‘beschikking’ is allocated (‘toewijzen’) or withdrawn (‘intrekken’). As in the first phase, there is a distinction between effort- and output-oriented, and the task-oriented variant.
+In phase 2, direct, the 'beschikking' is allocated ('toewijzen') or withdrawn ('intrekken'). As in the first phase, there is a distinction between effort- and output-oriented, and the task-oriented variant.
 
-A.	Effort-oriented and output-oriented variant
-1.	Allocate: The municipality allocates the products laid down in the ‘beschikking’ to one or more youth care providers. The provider is thus instructed to supply the assigned products for the client. The provider always sends a return message to indicate that the ‘toewijzing’ has been received. Sending this return message is important information that the municipality can also use in its contact with the client. If the provider is unable or unwilling to accept the ‘beschikking’, he will then contact the municipality outside the messaging system.
+*A. Effort-oriented and output-oriented variant*
+- Allocate: The municipality allocates the products laid down in the 'beschikking' to one or more youth care providers. The provider is thus instructed to supply the assigned products for the client. The provider always sends a return message to indicate that the 'toewijzing' has been received. Sending this return message is important information that the municipality can also use in its contact with the client. If the provider is unable or unwilling to accept the 'beschikking', he will then contact the municipality outside the messaging system.
+- Withdrawal: If the municipality finds that an assigned product no longer needs to be delivered, the 'toewijzing' for this product will be withdrawn. This terminates the assignment for the youth care provider. The municipality withdraws the allocation, for example if the client dies, moves to another municipality or receives a Personal Budget (PGB) for the product in question.
 
-2.	Withdrawal: If the municipality finds that an assigned product no longer needs to be delivered, the ‘toewijzing’ for this product will be withdrawn. This terminates the assignment for the youth care provider. The municipality withdraws the allocation, for example if the client dies, moves to another municipality or receives a Personal Budget (PGB) for the product in question.
-
-B.	Task-oriented variant
-Within a task-oriented variant, access to care and/or support is determined by the youth care provider; the municipality plays no role in the access (no ‘toewijzing’ by municipalities).
+*B. Task-oriented variant*
+Within a task-oriented variant, access to care and/or support is determined by the youth care provider; the municipality plays no role in the access (no 'toewijzing' by municipalities).
 
 The municipality assigns a task to the provider of care and/or support for a population or sub-population. This provider has the freedom to shape the interpretation of this task. The provider receives a pre-agreed budget for this.
 
-3.	Deliver
+__3.	Deliver__
 
 The information flows surrounding the delivery, phase 3, provide insight into the actual occurrence of youth care. With the start and stop messages it is possible for the municipality to follow a client and to steer towards the actual provision of care and support. Municipalities are free to the extent to which they wish to control at client level, however, the use of control messages is mandatory for effort- and output-oriented implementations. The municipality and youth care provider make agreements about the details of the start and end dates in the control messages.
 
-A.	Effort-oriented and output-oriented variant
-The control messages are used for the implementation of the effort-oriented and output-oriented variants (with the exception of the Certified Institutions). The youth care provider will inform the municipality when the delivery actually starts. The provider thus responds to the assignment issued by the municipality (‘toewijzing’). When the youth care is terminated, the provider also informs the municipality in a stop message. If the delivery is temporarily terminated, the provider must notify again when the delivery is resumed or when it is definitively terminated.
+*A. Effort-oriented and output-oriented variant*
+The control messages are used for the implementation of the effort-oriented and output-oriented variants (with the exception of the Certified Institutions). The youth care provider will inform the municipality when the delivery actually starts. The provider thus responds to the assignment issued by the municipality ('toewijzing'). When the youth care is terminated, the provider also informs the municipality in a stop message. If the delivery is temporarily terminated, the provider must notify again when the delivery is resumed or when it is definitively terminated.
 
-B.	Task-oriented variant
-In the task-oriented variant, access to youth care is provided via the provider, within predefined frameworks. In the context of coordination by the municipality, an agreement can be made between the municipality and the provider about the use of the information flows for start and stop youth care. In that case, the messages stand on their own and are not related to an ‘toewijzing’ and/or a declaration.
+*B. Task-oriented variant*
+In the task-oriented variant, access to youth care is provided via the provider, within predefined frameworks. In the context of coordination by the municipality, an agreement can be made between the municipality and the provider about the use of the information flows for start and stop youth care. In that case, the messages stand on their own and are not related to an 'toewijzing' and/or a declaration.
 
-Funding
+__Funding__
 
-A.	Effort-oriented and output-oriented variant
+*A. Effort-oriented and output-oriented variant*
 For the effort-oriented and output-oriented, the care or support provided is declared at client level.
 
-Each month, the provider declares the support provided for which the municipality has commissioned an assignment (‘toewijzing’).
+Each month, the provider declares the support provided for which the municipality has commissioned an assignment ('toewijzing').
 
-B.	Task-oriented variant
+*B. Task-oriented variant*
 Task-oriented variant does not involve declaration via the iJw message system.
 
-Information on the youth care processes, were found on https://informatiemodel.istandaarden.nl/iWmoJw30_Eb10/views/view_72094.html
+Detailed information on the youth care processes, cn be found on the website of the  'istandaarden' https://informatiemodel.istandaarden.nl/iWmoJw30_Eb10/views/view_72094.html
+
+***
+
+## __Literature__

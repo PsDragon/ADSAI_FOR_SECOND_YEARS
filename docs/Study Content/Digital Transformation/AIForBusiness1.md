@@ -19,6 +19,7 @@ Artificial Intelligence is broadly used in business applications across almost a
 __2a__ Watch the TEDx talk "Artificial Intelligence and the Future of Business" by Hans-Christian Boos.
 
 [![Video 1.] (./images/AI_and_Future_of_Business.png)](https://youtu.be/5NlmdoHzmrw)
+
 __2b__ Answer questions below:
 1. What accordingly Hans-Christian Boss makes AI powerful?
 2. What are the requirements for survival of business?

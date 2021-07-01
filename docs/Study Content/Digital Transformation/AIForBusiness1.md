@@ -27,10 +27,10 @@ __2c__ Read the article by [Erik Brynjolfsson and Andrew Mcaffe on The Business 
 
 __2d__ Watch following videos:
 1.  [Introducing Yandex.Rover delivery robot](https://www.youtube.com/watch?v=gGmXq_6AkGw "Click on link to open video!")
-2.  [Meet 'Iceman' and 'Wolverine' — the 2 coolest robots in Tesla's factory](https://www.youtube.com/watch?v=WYnOGAvQEgk"Click on link to open video!")
-3.  [Robotic Pets Are Helping Dementia Patients](https://www.youtube.com/watch?v=cFvGAL9tesM"Click on link to open video!")
-4. [7 MODERN AGRICULTURE ROBOTS THAT YOU NEED TO KNOW| UNIQUE ROBOTIC FARMING TECHNOLOGY](https://www.youtube.com/watch?v=jvbIvtwEDTY"Click on link to open video!")
-5. [Top 5 Most Advanced Army Robots | Tank Robots, Robot Dogs, Unmanned Vehicles | Military Robots](https://www.youtube.com/watch?v=uXGj1kZnFEg"Click on link to open video!")
+2.  [Meet 'Iceman' and 'Wolverine' — the 2 coolest robots in Tesla's factory](https://www.youtube.com/watch?v=WYnOGAvQEgk "Click on link to open video!")
+3.  [Robotic Pets Are Helping Dementia Patients](https://www.youtube.com/watch?v=cFvGAL9tesM "Click on link to open video!")
+4. [7 MODERN AGRICULTURE ROBOTS THAT YOU NEED TO KNOW| UNIQUE ROBOTIC FARMING TECHNOLOGY](https://www.youtube.com/watch?v=jvbIvtwEDTY "Click on link to open video!")
+5. [Top 5 Most Advanced Army Robots | Tank Robots, Robot Dogs, Unmanned Vehicles | Military Robots](https://www.youtube.com/watch?v=uXGj1kZnFEg "Click on link to open video!")
 __2e__ Read the introduction chapter of Artificial Intelligence in Practice: How 50 Successful Companies Used AI and Machine Learning to Solve Problems by Bernard Marr & Matt Ward (2019). After reading the chapter, answer the following questions:
 1. Why deep learning is thriving today?
 2. What are three key use cases for AI in business? Describe and explain.

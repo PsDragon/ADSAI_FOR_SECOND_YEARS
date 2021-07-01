@@ -15,9 +15,9 @@ sort: 1
 
 __2a__ Read the chapter 4 of APA 7th Edition (2020)
 
-__2b__ Read the hand-out on Rules and Conventions of Academic Writing
+__2b__ Read  [the hand-out on Rules and Conventions of Academic Writing](https://drhazelhall.files.wordpress.com/2013/01/2013_hall_rules-conventions_ac_writing.pdf)
 
-__2c__ Read the hand-out on Reducing Informality in Academic Writing
+__2c__ Read [the hand-out on Reducing Informality in Academic Writing](https://d101vc9winf8ln.cloudfront.net/documents/26773/original/Reducing_Informality_in_Academic_WritingATI.pdf?1565036151)
 
 __2e__ Download and read the hand-out on linking words
 

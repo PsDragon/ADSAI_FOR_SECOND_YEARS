@@ -12,12 +12,21 @@ sort: 1
 
 ***
 ### 2. Rules of writing
+
 __2a__ Read the chapter 4 of APA 7th Edition (2020)
+
 __2b__ Read the hand-out on Rules and Conventions of Academic Writing
+
 __2c__ Read the hand-out on Reducing Informality in Academic Writing
+
 __2e__ Download and read the hand-out on linking words
+
 __2f__ Conduct the quiz to check your knowledge and understanding of the material
 
 
 ***
-### 2. Rules of writing 
+### 3. Rules of writing
+
+__3a__ Read the chapter 5 of APA 7th Edition (2020)
+
+__3b__ Conduct the quiz to check your knowledge and understanding of the material

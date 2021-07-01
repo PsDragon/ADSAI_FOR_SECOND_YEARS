@@ -19,7 +19,7 @@ __2b__ Read  [the hand-out on Rules and Conventions of Academic Writing](https:/
 
 __2c__ Read [the hand-out on Reducing Informality in Academic Writing](https://d101vc9winf8ln.cloudfront.net/documents/26773/original/Reducing_Informality_in_Academic_WritingATI.pdf?1565036151)
 
-__2e__ Download and read the hand-out on linking words
+__2e__ Download and read [the hand-out on linking words](https://www.smart-words.org/linking-words/linking-words.pdf). The hand-out will help you with writing your final report. 
 
 __2f__ Conduct the quiz to check your knowledge and understanding of the material
 

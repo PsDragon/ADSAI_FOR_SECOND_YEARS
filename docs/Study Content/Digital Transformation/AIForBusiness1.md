@@ -25,6 +25,7 @@ __2b__ Answer questions below:
 1. What accordingly Hans-Christian Boss makes AI powerful?
 2. What are the requirements for survival of business?
 3. What are the 3 types of AI?
+
 __2c__ Read the article by [Erik Brynjolfsson and Andrew Mcaffe on The Business of Artificial Intelligence](https://starlab-alliance.com/wp-content/uploads/2017/09/The-Business-of-Artificial-Intelligence.pdf)
 
 __2d__ Watch following videos:

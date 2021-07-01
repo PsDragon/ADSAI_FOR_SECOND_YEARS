@@ -16,6 +16,7 @@ If you have questions regarding the study material, you can send us an email or 
 
 ### 2. Introduction into application of AI in businesses
 Artificial Intelligence is broadly used in business applications across almost all sectors and industries. AI can fulfil the tasks with far higher precision and speed than humans, transforming businesses in all kind of ways. So what is the future of businesses?  
+
 __2a__ Watch the TEDx talk "Artificial Intelligence and the Future of Business" by Hans-Christian Boos.
 
 [![Video 1.] (./images/AI_and_Future_of_Business.png)](https://youtu.be/5NlmdoHzmrw)

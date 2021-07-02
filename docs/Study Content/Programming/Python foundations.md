@@ -181,7 +181,7 @@ def SumTwoNumbers(x, y):
     return(x + y)
 ```
 
-
+Please watch this brief video to review Python functions.
 
 <figure class="video_container">
 <center>
@@ -189,6 +189,16 @@ def SumTwoNumbers(x, y):
 </center>
 </figure>
 <!-- blank line -->
+
+Function in Python accept variables known as function parameters. In our above example, ```SumTwoNumbers(x, y)```, ```x``` and ```y``` are example of function parameters. An unique feature of Python is that such function parameters can also have default values. To know how this works in practise, please watch the following video.
+
+<figure class="video_container">
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sKW-zdYZNX4?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+</figure>
+<!-- blank line -->
+
 
 ## Assignments - Hacker Rank
 

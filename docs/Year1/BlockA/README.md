@@ -8,7 +8,7 @@ Week 1-2: [Digital Transformation & Artificial Intelligence](#week-1--digital-tr
 
 Week 3-5: [Data Science](#week-3--data-science)
 
-Week 6-8: Programming
+Week 6-8: [Programming](#week-6--Programming-in-Python)
 
 # Week 1 : Digital Transformation & Artificial Intelligence
 

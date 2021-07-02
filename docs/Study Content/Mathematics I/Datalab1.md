@@ -34,8 +34,8 @@ The Jupyter notebooks or .py scripts are to be uploaded to Github no later than 
 
 ## References
 <a id="1">[1]</a>
-https://numpy.org/doc/stable/reference/routines.linalg.html
+<https://numpy.org/doc/stable/reference/routines.linalg.html>
 <br>
 <a id="2">[2]</a>
-https://numpy.org/doc/stable/reference/generated/numpy.linalg.solve.html
+<https://numpy.org/doc/stable/reference/generated/numpy.linalg.solve.html>
 <br>

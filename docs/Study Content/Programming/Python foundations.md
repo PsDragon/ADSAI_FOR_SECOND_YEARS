@@ -10,9 +10,7 @@ A fun fact is that Python was developed quite close to Breda! In 1990, Dutch sof
 
 <!-- blank line -->
 <figure class="video_container">
-<center>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7kn7NtlV6g0?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
 </figure>
 <!-- blank line -->
 
@@ -77,9 +75,7 @@ Please watch this video to learn more about good commenting practices.
 
 <!-- blank line -->
 <figure class="video_container">
-<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kEuVvUc1Zec?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
 </figure>
 <!-- blank line -->
 
@@ -133,10 +129,8 @@ while(x < 10):
 #### if-else conditional statement
 
 <figure>
-    <center>
     <img src=".\assets\ifelse.PNG" />
     <figcaption>if-else program flow (Source: Wikipedia)</figcaption>
-    </center>
 </figure>
 <br>
 
@@ -154,9 +148,7 @@ To understand more about loops, please watch the following short video.
 
 <!-- blank line -->
 <figure class="video_container">
-<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LrOAl8vUFHY?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
 </figure>
 <!-- blank line -->
 
@@ -181,14 +173,20 @@ def SumTwoNumbers(x, y):
     return(x + y)
 ```
 
-
+Please watch this brief video to review Python functions.
 
 <figure class="video_container">
-<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nrCAxXfRU28?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
 </figure>
 <!-- blank line -->
+
+Function in Python accept variables known as function parameters. In our above example, ```SumTwoNumbers(x, y)```, ```x``` and ```y``` are example of function parameters. An unique feature of Python is that such function parameters can also have default values. To know how this works in practise, please watch the following video.
+
+<figure class="video_container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sKW-zdYZNX4?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
+
 
 ## Assignments - Hacker Rank
 

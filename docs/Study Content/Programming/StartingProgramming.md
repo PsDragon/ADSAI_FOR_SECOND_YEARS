@@ -9,10 +9,8 @@ an architect without learning how to draw. You will develop a concept design,
 but have no means of implementing and sharing it.
 
 <figure>
-    <center>
     <img src=".\assets\Data_Science_VD.png" />
     <figcaption>Drew Conways's Data Science venn diagram</figcaption>
-    </center>
 </figure>
 <br>
 While the modules in Data Science and AI will develop your mathematics and statistics knowledge,
@@ -29,9 +27,7 @@ A computer program or algorithm is a setp by step set of instructions which are 
 
 <!-- blank line -->
 <figure class="video_container">
-<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6hfOvs8pY1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
 </figure>
 <!-- blank line -->
 
@@ -40,19 +36,15 @@ One of the key skills you will gain if you succesfully complete this module is c
 
 <!-- blank line -->
 <figure class="video_container">
-<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uCNliFuKG8I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
 </figure>
 <!-- blank line -->
 
 As you may have noticed in the video, a flowchart consists of certain elements.
 
 <figure>
-    <center>
     <img src=".\assets\flowchart.PNG" />
     <figcaption>Elements of a flowchart</figcaption>
-    </center>
 </figure>
 <br>
 Process start and end nodes (times when the project starts or ends), project development stages (activities to be carried out), decision nodes (times when a decision needs to be made) and connectors (arrows indicating the project time flow). In the industry, Microsoft Visio is typically used to draw flowcharts, for this module you are free to use any software you prefer (e.g., PowerPoint).

@@ -13,7 +13,7 @@ Week 6-8: [Programming](#week-6--Programming-in-Python)
 # Week 1 : Digital Transformation & Artificial Intelligence
 
 ## Monday
-- [topic 1](https://www.buas.nl/en/games)
+- [Foundations of AI (1): Philosophy, and history of AI](../../Study%20Content/Artificial%20Intelligence/FoundationsOfAI1.html)
 - [topic 2](../../Study%20Content/Artificial%20Intelligence/TuringTestChatbots1.html#literature)
   - [topic 2.1](#graphics)
   - [topic 2.2](#ecs)

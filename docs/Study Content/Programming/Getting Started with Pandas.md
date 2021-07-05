@@ -46,9 +46,9 @@ Please watch the following video to learn more about dataframes in ```pandas```.
 <!-- blank line -->
 
 
-## Assignments - Code Academy [7 hrs]
+## Blended Learning - Code Academy [7 hrs]
 
-- [ ] Please complete the Learn Data Analysis with Pandas module in Code Academy [2].
+- [ ] Please complete the ```Learn Data Analysis with Pandas``` module in Code Academy [2].
 
 
 # References

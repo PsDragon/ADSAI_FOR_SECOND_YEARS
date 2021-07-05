@@ -61,7 +61,7 @@ __Week 3__
 
 ## __Assignment__
 
-### __Part 1__
+### __Part 1: Pre-processing__
 
 By now you should have mastered the basics of SQL and data architecture & pipeline design (Datalab 2, Week 1). The knowledge you acquired so far will enable you to complete this section of the assignment. Here, you will have to import a selection of youth care data, provided by the client, into an PostgreSQL client:
 
@@ -162,7 +162,7 @@ The code and answers to the questions below, should be uploaded to your personal
 
 ***
 
-### __Part 2__
+### __Part 2: Analysis & Visualization__
 
 For part 2 of the assignment, you are going to import the youth care dataset, you created in part 1 of the assignment, into Power BI, and perform operations on the data to provide insightful visualizations.
 
@@ -196,10 +196,16 @@ __Requirements:__
 
 ## __Literature__
 
+Batra, R. (2018). SQL Primer: An Accelerated Introduction to SQL Basics. (Freely accessible through BUAS’s MetaSearch!)
+
+Database data Warehousing Guide. (2017, June 07). Retrieved June 30, 2021, from https://docs.oracle.com/database/121/DWHSG/toc.htm
+
 Kesselman, Y., Osborne, P., Neely, M., & Bencic, T. (2021, April 2). Power BI security white paper - Power BI. Retrieved June 30, 2021, from https://docs.microsoft.com/en-us/power-bi/guidance/whitepaper-powerbi-security
+
+Master a skill - design databases with postgresql. (n.d.). Retrieved June 30, 2021, from https://www.codecademy.com/learn/paths/design-databases-with-postgresql
 
 Optimization guide for Power BI - Power BI. (2021, April 2). Retrieved June 30, 2021, from https://docs.microsoft.com/en-gb/power-bi/guidance/power-bi-optimization
 
 Visualization types in Power BI - Power BI. (2021, March 18). Retrieved June 30, 2021, from https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-types-for-reports-and-q-and-a#feedback
 
-Stull, E. (2018). UX Fundamentals for Non-UX Professionals: User Experience Principles for Managers, Writers, Designers, and Developers. Berkeley, CA: Apress. (Freely accessible through BUAS' MetaLibrary!)
+Stull, E. (2018). UX Fundamentals for Non-UX Professionals: User Experience Principles for Managers, Writers, Designers, and Developers. Berkeley, CA: Apress. (Freely accessible through BUAS' MetaSearch!)

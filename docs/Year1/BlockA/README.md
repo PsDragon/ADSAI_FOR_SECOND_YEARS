@@ -14,15 +14,11 @@ Week 6-8: [Programming](#week-6--Programming-in-Python)
 
 ## Monday
 - [Foundations of AI (1): Philosophy, and history of AI](../../Study%20Content/Artificial%20Intelligence/FoundationsOfAI1.html)
-- [topic 2](../../Study%20Content/Artificial%20Intelligence/TuringTestChatbots1.html#literature)
-  - [topic 2.1](#graphics)
-  - [topic 2.2](#ecs)
+- [Turing Test & Chatbots (1): Article](../../Study%20Content/Artificial%20Intelligence/TuringTestChatbots1.html)
 
 ## Tuesday
-- [topic 1](https://www.buas.nl/en/games)
-- [topic 2](#libraries--frameworks)
-  - [topic 2.1](#graphics)
-  - [topic 2.2](#ecs)
+- [AI in Science Fiction (1): Minority Report & Outline](../../Study%20Content/Artificial%20Intelligence/AIInScienceFiction1.html)
+- [Turing Test & Chatbots (2): Discussion & Turing Test](../../Study%20Content/Artificial%20Intelligence/TuringTestChatbots2.html)
 
 ## Wednesday
 - [topic 1](https://www.buas.nl/en/games)
@@ -31,21 +27,16 @@ Week 6-8: [Programming](#week-6--Programming-in-Python)
   - [topic 2.2](#ecs)
 
 ## Thursday
-- [topic 1](https://www.buas.nl/en/games)
-- [topic 2](#libraries--frameworks)
-  - [topic 2.1](#graphics)
-  - [topic 2.2](#ecs)
+- [Foundations of AI (2): Symbolic/non-symbolic AI & Intelligent agents](../../Study%20Content/Artificial%20Intelligence/FoundationsOfAI2.html)
 
 ## Friday
-- [topic 1](https://www.buas.nl/en/games)
-- [topic 2](#libraries--frameworks)
-  - [topic 2.1](#graphics)
-  - [topic 2.2](#ecs)
+- [AI in Science Fiction (2): Report](../../Study%20Content/Artificial%20Intelligence/AIInScienceFiction2.html)
+
 
 # Week 2 : Digital Transformation & Artificial Intelligence
 
 ## Monday
-- [topic 1](https://www.buas.nl/en/games)
+- [AI for Business (1): Introduction into application of AI in businesses & Risks and benefits of AI](../../Study%20Content/Digital%20Transformation/AIForBusiness1.html)
 - [topic 2](../../Study%20Content/Artificial%20Intelligence/TuringTestChatbots1.html#literature)
   - [topic 2.1](#graphics)
   - [topic 2.2](#ecs)

@@ -115,4 +115,4 @@ Week 6-8: [Programming](#week-6--Programming-in-Python)
 - [Python: Pandas](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/Programming/Getting%20Started%20with%20Pandas.html)
 
 ## Friday
-- [Data Lab 2](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/Programming/DataLabPR1.2.htmls)
+- [Data Lab 2](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/Programming/DataLabPR1.2.html)

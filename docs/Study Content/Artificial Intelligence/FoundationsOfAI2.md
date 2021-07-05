@@ -19,7 +19,8 @@ When you take a closer look at the field of AI, you can see that it is divided i
 
 __2a__ Watch the video on symbolic AI by the YouTube channel CrashCourse.
 
-[![Video 1.](./images/symbolic_ai.jpg)](https://www.youtube.com/watch?v=WHCo4m2VOws "Click on link to open video!")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WHCo4m2VOws?controls=0&amp;start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 *Video 1. Symbolic AI by CrashCourse*
 
 __2b__ Define the term 'expert system'.
@@ -52,11 +53,12 @@ In this section, we are going to explore the concept of the intelligent agent, w
 
 *Figure 2. Roomba's death by toilet paper...*
 
-__3a__ Read chapter 3 of AIMA (p.96-140).
+__3a__ Read chapter 2 of AIMA (p.55-80).
 
 __3b__ Watch the video on Deep Blue by IBM.
 
-[![Video 2.](./images/deep_blue.jpg)](https://www.youtube.com/watch?v=KFSVZlkHHmM "Click on link to open video!")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KFSVZlkHHmM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 *Video 2. Deep Blue*
 
 __5c__ IBM's Deep Blue uses a a) symbolic or b) non-symbolic approach to AI? Select one of the options, and explain your choice.
@@ -73,6 +75,15 @@ __5d__ Two intelligent agents are playing chess with a clock. One of them is cal
 Explain your answer.
 
 __5e__ Provide an example of an intelligent agent, and give a PEAS description of the task environment, and characterize it in terms of the properties listed in Section 2.3.2 (p. 117) in AIMA.
+
+__5f__ Compare and contrast the following agent types:
+
+- Simple reflex
+- Model-based reflex
+- Goal-based reflex
+- Utility-based  
+
+Explain your answer.
 
 ***
 

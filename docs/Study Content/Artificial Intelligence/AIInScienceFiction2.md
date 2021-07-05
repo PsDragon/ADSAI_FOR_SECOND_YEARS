@@ -16,7 +16,7 @@ If you have any questions, do not hesitate to ask them. The teaching staff will 
 
 ***
 
-#### 2. Reflection (16:00-17:00)
+### 2. Reflection (16:00-17:00)
 
 __2a__ Choose, and provide an answer to at least of the following questions:
 

@@ -41,14 +41,14 @@ Year of Birth  |  Vaccine registration  |  Vaccine  | Location
 **Using Jupyter notebooks, write a Python function which prints out the vaccine registration date, vaccine
 and location for a user supplied year of birth. Use Python dictionaries or a Pandas dataframe to store data.**
 
-## 2. Covid Flowchart: Should I stay or should I go?
+## 2. Titanic data investigation using Pandas.
 
-<figure>
-    <img src=".\assets\DL1_Flowchart.PNG" />
-    <figcaption>Covid flowchart (Source: NHL Stenden)</figcaption>
-</figure>
-<br>
+In this exercise, you will use Python ```pandas``` to investigate the Titanic
+dataset to answer the following questions:
 
-**Using Jupyter notebooks, write a Python function which implements the logic presented in the flowchart.**
+1. Which class had a higher chance of surviving the disaster?
+2. Which gender has a higher change of surviving the disaster?
+3. Group the data into age groups (young, adult, old) and find which age group
+had the highest chance of surviving?
 
-> Hint: Use the input() command to request the user to provide an input.
+> Hint: Use https://www.kaggle.com/c/titanic/data to download and understand the dataset.

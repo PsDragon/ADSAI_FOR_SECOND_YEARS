@@ -61,7 +61,7 @@ __Week 3__
 
 ## __Assignment__
 
-### __Part 1__
+### __Part 1: Pre-processing__
 
 By now you should have mastered the basics of SQL and data architecture & pipeline design (Datalab 2, Week 1). The knowledge you acquired so far will enable you to complete this section of the assignment. Here, you will have to import a selection of youth care data, provided by the client, into an PostgreSQL client:
 
@@ -162,7 +162,7 @@ The code and answers to the questions below, should be uploaded to your personal
 
 ***
 
-### __Part 2__
+### __Part 2: Analysis & Visualization__
 
 For part 2 of the assignment, you are going to import the youth care dataset, you created in part 1 of the assignment, into Power BI, and perform operations on the data to provide insightful visualizations.
 

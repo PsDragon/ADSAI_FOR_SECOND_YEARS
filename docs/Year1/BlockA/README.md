@@ -68,6 +68,38 @@ Week 6-8: [Programming](#week-6--Programming-in-Python)
 # Week 3 : Data Science
 
 ## Monday
+- [Course Information](/docs/Study Content/DataScience/DS1_IntroductionToDataScience/Day1_Self-Study/DS1_Day1_MVP_CourseInformation)
+- [Intro to R](/docs/Study Content/DataScience/DS1_IntroductionToDataScience/Day1_Self-Study/DS1_Day1_MVP_IntroToR)
+  - [Lecture and Mock-Assessment](/docs/Study Content/DataScience/DS1_IntroductionToDataScience/Day1_Self-Study/DS1_Day1_MVP_LectureAndMockAssesment)
+
+
+## Tuesday
+- [topic 1](https://www.buas.nl/en/games)
+- [topic 2](#libraries--frameworks)
+  - [topic 2.1](#graphics)
+  - [topic 2.2](#ecs)
+
+## Wednesday
+- [topic 1](https://www.buas.nl/en/games)
+- [topic 2](../../Study%20Content/Artificial%20Intelligence/TuringTestChatbots1.html#literature)
+  - [topic 2.1](#graphics)
+  - [topic 2.2](#ecs)
+
+## Thursday
+- [topic 1](https://www.buas.nl/en/games)
+- [topic 2](#libraries--frameworks)
+  - [topic 2.1](#graphics)
+  - [topic 2.2](#ecs)
+
+## Friday
+- [topic 1](https://www.buas.nl/en/games)
+- [topic 2](#libraries--frameworks)
+  - [topic 2.1](#graphics)
+  - [topic 2.2](#ecs)
+
+# Week 4 : Data Science
+
+## Monday
 - [topic 1](https://www.buas.nl/en/games)
 - [topic 2](../../Study%20Content/Artificial%20Intelligence/TuringTestChatbots1.html#literature)
   - [topic 2.1](#graphics)
@@ -96,6 +128,40 @@ Week 6-8: [Programming](#week-6--Programming-in-Python)
 - [topic 2](#libraries--frameworks)
   - [topic 2.1](#graphics)
   - [topic 2.2](#ecs)
+
+
+# Week 5 : Data Science
+
+## Monday
+- [topic 1](https://www.buas.nl/en/games)
+- [topic 2](../../Study%20Content/Artificial%20Intelligence/TuringTestChatbots1.html#literature)
+  - [topic 2.1](#graphics)
+  - [topic 2.2](#ecs)
+
+## Tuesday
+- [topic 1](https://www.buas.nl/en/games)
+- [topic 2](#libraries--frameworks)
+  - [topic 2.1](#graphics)
+  - [topic 2.2](#ecs)
+
+## Wednesday
+- [topic 1](https://www.buas.nl/en/games)
+- [topic 2](../../Study%20Content/Artificial%20Intelligence/TuringTestChatbots1.html#literature)
+  - [topic 2.1](#graphics)
+  - [topic 2.2](#ecs)
+
+## Thursday
+- [topic 1](https://www.buas.nl/en/games)
+- [topic 2](#libraries--frameworks)
+  - [topic 2.1](#graphics)
+  - [topic 2.2](#ecs)
+
+## Friday
+- [topic 1](https://www.buas.nl/en/games)
+- [topic 2](#libraries--frameworks)
+  - [topic 2.1](#graphics)
+  - [topic 2.2](#ecs)
+
 
 # Week 6 : Programming in Python
 

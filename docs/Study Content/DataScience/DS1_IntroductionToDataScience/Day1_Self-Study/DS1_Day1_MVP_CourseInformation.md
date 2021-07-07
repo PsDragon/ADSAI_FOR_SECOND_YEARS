@@ -51,8 +51,8 @@ You don't have to get or buy any books yourself (#SaveTheTrees) but if you are e
 We start of with a comfortable introduction to some basic concepts and tools. The first class will focus on how we can see and quantify our world into data. In the workshop you will be introduced to R, an industry standard tool for statistical programming.
 
 Please follow the links below to continue the classs:
-1. [Lecture & mock-assessment]/docs/Study Content/DataScience/DS1_IntroductionToDataScience/Day1_Self-Study/DS1_Day1_MVP_LectureAndMockAssesment.md): 2-3 hours
-2. [Workshop](/docs/Study Content/DataScience/DS1_IntroductionToDataScience/Day1_Self-Study/DS1_Day1_MVP_IntroToR.md): 1-2 hour
+1. [Lecture & mock-assessment](/docs/Study Content/DataScience/DS1_IntroductionToDataScience/Day1_Self-Study/DS1_Day1_MVP_LectureAndMockAssesment): 2-3 hours
+2. [Workshop](/docs/Study Content/DataScience/DS1_IntroductionToDataScience/Day1_Self-Study/DS1_Day1_MVP_IntroToR): 1-2 hour
 
 Good luck and don't hesitate to ask your us any questions!
 *By mail, in person or using our handy [Question Tool :D](https://github.com/BredaUniversity/AAI-DM/issues/new): '

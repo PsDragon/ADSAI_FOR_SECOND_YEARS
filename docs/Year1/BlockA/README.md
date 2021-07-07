@@ -68,99 +68,94 @@ Week 6-8: [Programming](#week-6--Programming-in-Python)
 # Week 3 : Data Science
 
 ## Monday
-- [Course Information](/docs/Study Content/DataScience/DS1_IntroductionToDataScience/Day1_Self-Study/DS1_Day1_MVP_CourseInformation)
+- [Course introduction & information](/docs/Study Content/DataScience/DS1_IntroductionToDataScience/Day1_Self-Study/DS1_Day1_MVP_CourseInformation)
 - [Intro to R](/docs/Study Content/DataScience/DS1_IntroductionToDataScience/Day1_Self-Study/DS1_Day1_MVP_IntroToR)
-  - [Lecture and Mock-Assessment](/docs/Study Content/DataScience/DS1_IntroductionToDataScience/Day1_Self-Study/DS1_Day1_MVP_LectureAndMockAssesment)
-
+- [Lecture and Mock-Assessment](/docs/Study Content/DataScience/DS1_IntroductionToDataScience/Day1_Self-Study/DS1_Day1_MVP_LectureAndMockAssesment)
 
 ## Tuesday
-- [topic 1](https://www.buas.nl/en/games)
-- [topic 2](#libraries--frameworks)
-  - [topic 2.1](#graphics)
-  - [topic 2.2](#ecs)
+- [Datalab 00 Overview: SGD Indicators](https://www.buas.nl/en/games)
+- [SDG Indicators](https://www.buas.nl/en/games)
+- [SDG Problem Statement](#libraries--frameworks)
+- [Introduction Setup](#graphics)
 
 ## Wednesday
-- [topic 1](https://www.buas.nl/en/games)
-- [topic 2](../../Study%20Content/Artificial%20Intelligence/TuringTestChatbots1.html#literature)
-  - [topic 2.1](#graphics)
-  - [topic 2.2](#ecs)
+- [Variables - Overview](https://www.buas.nl/en/games)
+- [Lecture](https://www.buas.nl/en/games)
+- [Workshop](https://www.buas.nl/en/games)
+- [Mock-Assessment](https://www.buas.nl/en/games)
 
 ## Thursday
-- [topic 1](https://www.buas.nl/en/games)
-- [topic 2](#libraries--frameworks)
-  - [topic 2.1](#graphics)
-  - [topic 2.2](#ecs)
+- [Descriptive Analyses - Overview](https://www.buas.nl/en/games)
+- [Lecture](https://www.buas.nl/en/games)
+- [Workshop](https://www.buas.nl/en/games)
+- [Mock-Assessment](https://www.buas.nl/en/games)
 
 ## Friday
-- [topic 1](https://www.buas.nl/en/games)
-- [topic 2](#libraries--frameworks)
-  - [topic 2.1](#graphics)
-  - [topic 2.2](#ecs)
+- [Datalab 01 Overview: Exploratory Data Analyses (EDA) Methodology](https://www.buas.nl/en/games)
+- [Exploratory Data Analysis fundamentals](#ecs)
+- [Exploratory Data Analysis in R](#ecs)
+
 
 # Week 4 : Data Science
 
 ## Monday
-- [topic 1](https://www.buas.nl/en/games)
-- [topic 2](../../Study%20Content/Artificial%20Intelligence/TuringTestChatbots1.html#literature)
-  - [topic 2.1](#graphics)
-  - [topic 2.2](#ecs)
+- [Introduction to Probability - Overview](https://www.buas.nl/en/games)
+- [Lecture](https://www.buas.nl/en/games)
+- [Workshop](https://www.buas.nl/en/games)
+- [Mock-Assessment](https://www.buas.nl/en/games)
 
 ## Tuesday
-- [topic 1](https://www.buas.nl/en/games)
-- [topic 2](#libraries--frameworks)
-  - [topic 2.1](#graphics)
-  - [topic 2.2](#ecs)
+- [Datalab 02 Overview: Findings](https://www.buas.nl/en/games)
+- [Creating informative descriptive visualisation](https://www.buas.nl/en/games)
+- [Reporting your visualisations & EDA](#libraries--frameworks)
 
 ## Wednesday
-- [topic 1](https://www.buas.nl/en/games)
-- [topic 2](../../Study%20Content/Artificial%20Intelligence/TuringTestChatbots1.html#literature)
-  - [topic 2.1](#graphics)
-  - [topic 2.2](#ecs)
+- [Introduction to Statistical Inference - Overview](https://www.buas.nl/en/games)
+- [Lecture](https://www.buas.nl/en/games)
+- [Workshop](https://www.buas.nl/en/games)
+- [Mock-Assessment](https://www.buas.nl/en/games)
 
 ## Thursday
-- [topic 1](https://www.buas.nl/en/games)
-- [topic 2](#libraries--frameworks)
-  - [topic 2.1](#graphics)
-  - [topic 2.2](#ecs)
+- [Analysing Relationships between Variables - Overview](https://www.buas.nl/en/games)
+- [Lecture](https://www.buas.nl/en/games)
+- [Workshop](https://www.buas.nl/en/games)
+- [Mock-Assessment](https://www.buas.nl/en/games)
 
 ## Friday
-- [topic 1](https://www.buas.nl/en/games)
-- [topic 2](#libraries--frameworks)
-  - [topic 2.1](#graphics)
-  - [topic 2.2](#ecs)
+- [Datalab 03 Overview: Discussion](https://www.buas.nl/en/games)
+- [Interpretation](https://www.buas.nl/en/games)
+- [Future Research](#libraries--frameworks)
+- [Data-driven Decisions](https://www.buas.nl/en/games)
 
 
 # Week 5 : Data Science
 
 ## Monday
-- [topic 1](https://www.buas.nl/en/games)
-- [topic 2](../../Study%20Content/Artificial%20Intelligence/TuringTestChatbots1.html#literature)
-  - [topic 2.1](#graphics)
-  - [topic 2.2](#ecs)
+- [Reporting & visualisation - Overview](https://www.buas.nl/en/games)
+- [Lecture](https://www.buas.nl/en/games)
+- [Workshop](https://www.buas.nl/en/games)
+- [Mock-Assessment](https://www.buas.nl/en/games)
 
 ## Tuesday
-- [topic 1](https://www.buas.nl/en/games)
-- [topic 2](#libraries--frameworks)
-  - [topic 2.1](#graphics)
-  - [topic 2.2](#ecs)
+- [Datalab 04 Overview: Conclusion](https://www.buas.nl/en/games)
+- [Conclusion](https://www.buas.nl/en/games)
+- [Referencing](#graphics)
 
 ## Wednesday
-- [topic 1](https://www.buas.nl/en/games)
-- [topic 2](../../Study%20Content/Artificial%20Intelligence/TuringTestChatbots1.html#literature)
-  - [topic 2.1](#graphics)
-  - [topic 2.2](#ecs)
+- [Introduction to regression & machine learning - Overview](https://www.buas.nl/en/games)
+- [Lecture](https://www.buas.nl/en/games)
+- [Workshop](https://www.buas.nl/en/games)
+- [Mock-Assessment](https://www.buas.nl/en/games)
 
 ## Thursday
-- [topic 1](https://www.buas.nl/en/games)
-- [topic 2](#libraries--frameworks)
-  - [topic 2.1](#graphics)
-  - [topic 2.2](#ecs)
+- [Block A recap - Overview](https://www.buas.nl/en/games)
+- [Lecture](https://www.buas.nl/en/games)
+- [Working on Poster](https://www.buas.nl/en/games)
+- [Hand-in of the Poster](https://www.buas.nl/en/games)
 
 ## Friday
-- [topic 1](https://www.buas.nl/en/games)
-- [topic 2](#libraries--frameworks)
-  - [topic 2.1](#graphics)
-  - [topic 2.2](#ecs)
+- [Datalab 05 Overview: Poster Presentation Day](https://www.buas.nl/en/games)
+- [Presentation Schedule and more Information](https://www.buas.nl/en/games)
 
 
 # Week 6 : Programming in Python

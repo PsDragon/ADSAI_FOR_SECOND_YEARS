@@ -34,7 +34,7 @@ Look at the creative brief or ask us a [Question](https://github.com/BredaUniver
 ## 4) Assessment
 The student creates a Conference Poster based on case studies and examples introduced online and in-class; the focus is on all stages of the data science process (formulating the problem; selecting the data and exploratory data analyses technique(s); interpretation of descriptive data; reporting and visualizing the data) from an elementary level with specific emphasis on data visualisation as a means for understanding the data . Propose next steps: an analysis to run on the data.
 
-More information on the assessment can be found in the [creative brief](/docs/Study%Content/DataScience/DS1_IntroductionToDataScience/Assessment/2021-22 ADS&AI Project Brief Block A.pdf) (page 7 to 11) and in the [poster template](/docs/Study%Content/DataScience/DS1_IntroductionToDataScience/Assessment/DS1-AssesmentPoster_Template.pptx).
+More information on the assessment can be found in the [creative brief](/docs/Study%Content/DataScience/DS1_IntroductionToDataScience/Assessment/2021-22%ADS&AI%Project%Brief%Block%A.pdf) (page 7 to 11) and in the [poster template](/docs/Study%Content/DataScience/DS1_IntroductionToDataScience/Assessment/DS1-AssesmentPoster_Template.pptx).
 
 ## 5) Course resources:
 You don't have to get or buy any books yourself (#SaveTheTrees) but if you are eager to go beyond the scope of the course you can dive into the course resources yourself:

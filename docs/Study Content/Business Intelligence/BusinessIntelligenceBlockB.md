@@ -2,7 +2,7 @@
 sort: 7
 ---
 
-# __Business Intelligence__
+# __Introduction to Business Intelligence__
 
 ## __Assignment__
 
@@ -60,8 +60,6 @@ __Procedure:__
 
 Each colour block corresponds to a specific criterion of ILO 3.1. To attain a certain skill-level, e.g. yellow (Level 2, 'Sufficient'), you need to answer all the questions in the corresponding colour block correctly.
 
-The code and answers to the questions below, should be uploaded to your personal GitHub page.
-
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #000000;; background-color: #FF7043; border-color: ##FF7043;">
 1. Install the PostgreSQL database server.
 <br>2. Install a client that is compatible with PostgreSQL (e.g. DBeaver, pgAdmin etc.).
@@ -105,6 +103,15 @@ The code and answers to the questions below, should be uploaded to your personal
 10. Produce a list with the name (first and  surname), gender, neighborhood id, 'wachttijd' for those clients who have such a 'wachttijd', which is the shortest 'wachttijd' of any of the neighborhoods.
 </div>
 
+__Deliverable(s):__
+
+- The code and answers to the questions above, should be uploaded to your personal GitHub page in either a Jupyter Notebook or Markdown file.
+- A modified PostgreSQL database.
+
+The Jupyter notebook or Markdown file is to be uploaded to Github no later than 5pm on last DataLab day. Confer with a lecturer beforehand if you are handing in something other than a Jupyter Notebook.
+
+For more information on writing Markdown files, visit GitHub's [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) guide.
+
 ***
 
 ### __Part 2: Analysis & Visualization__
@@ -126,6 +133,17 @@ __Requirements:__
 - Record or perform a live demo of the dashboard (to stakeholders). The demo should not take longer than 5 minutes.
 - Provide a pleasant User experience (UX) for the dashboard: layout, buttons etc. See book by Stull (2018) in Literature.
 - Optimize (a part of) the data pipeline (i.e. dashboard) in terms of performance and security. See Microsoft’s (e.g. Kesselman et al.) optimizing performance and security in Literature.
+
+__Deliverable(s):__
+
+- A Power BI dashboard in .pbix-format.
+- A recorded or live demo of the Power BI dashboard.
+
+For information on how to record your demo, see Windows 10s [screen recorder tool](https://betanews.com/2020/01/20/windows-10-screen-record-xbox-game-bar/) guide.
+
+The Power BI dashboard in .pbix-format is to be uploaded to Microsoft Teams (under 'Assignments') no later than 5pm on last DataLab day.
+
+The recorded demo of the Power BI dashboard is to be uploaded Microsoft Teams (under 'Assignments')no later than 5pm on last DataLab day. Confer with a lecturer beforehand if you want to demo your dashboard in front of a live audience.
 
 ***
 

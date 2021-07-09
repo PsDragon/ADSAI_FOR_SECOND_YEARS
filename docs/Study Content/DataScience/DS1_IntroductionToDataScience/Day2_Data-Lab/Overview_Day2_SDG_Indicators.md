@@ -1,4 +1,4 @@
-﻿﻿# Data Science X, Datalab Day Y: Overview
+﻿﻿# Data Science 1, Datalab Day 2: Overview SDG Indicators
 
 We start of with an short introduction to formulating a problem statement based on a given domain. Subsequently, we will focus on putting our new knowledge into practice by XXXXXXXXXXXXXX. To create a the YYYYYYYYYYY component for your data-lab project, we will ZZZZZZZZZZZZZ.
 

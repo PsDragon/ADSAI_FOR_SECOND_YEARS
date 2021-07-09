@@ -5,7 +5,7 @@ This data-lab day will focus on SGD Indicators. We are going to cover forming an
 In case you have any questions please first ask your peers or (when they don't respond timely) [ask us in person or notify us digitally of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the course, workshop and question you have or the problem you're experiencing. Good luck!
 
 ## 0) STEP 0
-A DESCRIPTION OF ACTIONS TO TAKE
+A DESCRIPTION OF ACTIONS TO TAKE    
 
 ## 1) ANOTHER STEP
 WITH ANOTHER DESCRIPTION

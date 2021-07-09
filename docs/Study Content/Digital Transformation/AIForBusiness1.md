@@ -71,3 +71,5 @@ __3e__ Provide an risk, benefit, and accompanying AI sub-field per organization 
 ***
 
 ## __Literature__
+
+Stuart, R., & Peter, N. Artificial Intelligence: A Modern Approach. 2021. Global Edition.

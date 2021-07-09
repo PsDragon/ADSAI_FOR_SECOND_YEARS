@@ -30,8 +30,8 @@ __2c__ Are artificial neural networks similar to the human brain?  Support your 
 __2d__ A artificial neural network uses a a) symbolic or b) non-symbolic approach to AI? Select one of the options, and explain your choice.
 
 In the last couple of years, there has been a reappraisal of symbolic AI because, among others, it is less susceptible to the so called 'Problem of opacity'. Minsky defines the problem as follows: '... the knowledge embodied inside a network's numerical coefficients is not accessible outside that net.' (1991). In other words, it is difficult to know why these non-symbolic models do what they do or how they work.
-\
-<img src="./images/symbolic_nonsymbolic_AI.png" alt="Symbolic and Non-symbolic AI" width="600"/>
+
+<img src="./images/symbolic_nonsymbolic_ai.png" alt="Symbolic and Non-symbolic AI" width="600"/>
 
 *Figure 1. Symbolic and non-symbolic representation of an apple*
 

@@ -90,4 +90,4 @@ Explain your answer.
 ## __Literature__
 Minsky, M. L. (1991). Logical versus analogical or symbolic versus connectionist or neat versus scruffy. AI magazine, 12(2), 34-34.
 
-Stuart, R., & Peter, N. Artificial Intelligence: A Modern Approach. 2020.
+Stuart, R., & Peter, N. Artificial Intelligence: A Modern Approach. 2021. Global Edition.

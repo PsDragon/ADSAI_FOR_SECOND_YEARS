@@ -13,9 +13,9 @@ Today, you will start your journey into the wonderful world of Artificial Intell
 
 We advise you to start early with the independent study exercises, because we are going to cover quite a bit of material today!
 
-If you have questions regarding the study material, you can send us an email or attend the Q&A session at the end of each self-study day. During the Q&A session, we will extensively discuss the independent study material. For details on availability see Contact page.
+If you have questions regarding the study material, you can send us an email or attend the Q&A session at the end of each self-study day. During the Q&A session, we will extensively discuss the independent study material. For details on availability see Project Brief.
 
-### 2. What is artificial intelligence? (30 minutes)
+### 2. What is artificial intelligence?
 
 Artificial intelligence (AI) has seen a rapid rise in popularity. Research into the field of AI is rocketing, and an increasing number of companies are incorporating AI technologies into their daily business operations. But, what does AI constitute?
 
@@ -32,7 +32,7 @@ but also examples from popular culture (e.g. movies, books, video games etc.).
 
 ***
 
-### 2. Philosophy of Artificial Intelligence (180 minutes)
+### 2. Philosophy of Artificial Intelligence
 
 In this section, you will be made familiar with the various definitions of AI, and its related fields (e.g. cognitive science). The information required to successfully complete this section, can (to a greater extent) be found in the book Artificial Intelligence: A Modern Approach by Russell and Norvig (2020)<sup>[1](#footnote_1)</sup>. You will be using this specific book throughout the programme.
 
@@ -79,7 +79,7 @@ __2g__ After completing the readings and exercises of this section, would you pr
 
 ***
 
-### 3. History of Artificial Intelligence (30 minutes)
+### 3. History of Artificial Intelligence
 
 The early beginnings of AI, can be traced to the Ancient Greek period when philosophers started to describe human thinking as a symbolic system. Additionally, one of the first notions of a 'robot' can be found in Greek mythology:
 

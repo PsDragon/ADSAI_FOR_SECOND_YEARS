@@ -13,7 +13,7 @@ For the second half of the day, you are going to read the famous article Computi
 
 ***
 
-### 2. Article (180 minutes)
+### 2. Article 
 
 The rise of artificial intelligence forces us to rethink what robots mean to society and what their role is to be. They are far better at arithmetic, but are they really as intelligent as us? What constitutes intelligence? And should we fear being replaced by these digital machines in the future? Alan Turing was the first to examine the relationship between human and digital machines.
 

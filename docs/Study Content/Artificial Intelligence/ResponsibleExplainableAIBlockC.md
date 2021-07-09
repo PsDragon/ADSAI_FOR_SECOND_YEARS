@@ -11,7 +11,7 @@ For this part of the Project Brief, you are going to identify, and describe the 
 <img src="./images/grad_cam.jpg" alt="SQL meme" width="600"/> \
 *Figure 1. Example of feature attribution with Grad-CAM.*
 
-__Requirements__:
+__Requirements:__
 
 - Identify, and describe instances of bias in the dataset. See content on the different types of bias presented in the works of Mehrabi et al. (2019), Suresh and Guttag (2019), Khan et al. (2021).  
 - Identify, and describe the limitations in terms of transparency and interpretability of the AI algorithm. See article by Tsimenidis (2020), and Google's Responsible AI post on interpretability.
@@ -19,7 +19,7 @@ __Requirements__:
 - Apply at least one explainable AI method that adresses the algorithm's limitations in terms of transparancy and interpretability, and subsequently evaluate its impact. See workshop examples, the article by Linardatos et al. (2021), and the book by Molnar (2020).
 - Apply multiple responsible and explainable AI methods that adresses limitations in terms of bias, transparancy and interpretability, and subsequently contrast their impact on the classification task. See previously mentioned literature.
 
-__Deliverable(s)__
+__Deliverable(s):__
 
 - A Jupyter Notebook that contains relevant code and explanations.
 
@@ -45,7 +45,7 @@ Mohamed, S., Png, M. T., & Isaac, W. (2020). Decolonial AI: Decolonial theory as
 
 Molnar, C. (2020). Interpretable machine learning. https://christophm.github.io/interpretable-ml-book/.
 
-Responsible AI practices | Interpretability. (n.d.). Retrieved July 09, 2021, from https://ai.google/responsibilities/responsible-ai-practices/?category=interpretability
+Responsible AI practices: Interpretability. (n.d.). Retrieved July 09, 2021, from https://ai.google/responsibilities/responsible-ai-practices/?category=interpretability
 
 Suresh, H., & Guttag, J. V. (2019). A framework for understanding unintended consequences of machine learning. arXiv preprint arXiv:1901.10002.
 

@@ -10,17 +10,18 @@ sort: 8
 
 ### 1. Introduction
 
-In today's DataLab session, we will start working on the creative brief. We are  A detailed description of the assignment can be found in the Project Brief. At the end of the day, from 16:00 to 17:00, we will have a moment to reflect on DataLab 1.
+In today's DataLab session, we will start working on the creative brief. First, we have a guest lecture on the youth care data scheduled. Later, we will examine the client's data by exploring the codebook, and conducting an EDA. A detailed description of the assignment can be found in the Project Brief. At the end of the day, from 16:00 to 17:00, we will have a moment to reflect on DataLab 1.
 
 ***
 
 ### 2. Workshop
 
-The workshop consists of two parts: A guest lecture, and a Q&A session by a data analyst of the municipality of Oosterhout. During the lecture you will be introduced to the youth care pilot  Time schedule:
+The workshop consists of two parts: A guest lecture, and a Q&A session by a data analyst of the municipality of Oosterhout. During the lecture you will be introduced to the youth care pilot. Time schedule:
 
 1. Workshop (10:00-11:00)
 2. Q&A session (11:00-15:00)
 
+Before/after the workshop you have time to work on the independent study material or creative brief, and/or ask the lecturers for feedback.
 
 ***
 
@@ -73,7 +74,25 @@ Equalit is an ICT partnership of, and for local authorities located within the r
 
 ***
 
-#### 3.4 Processes
+#### 3.4 Research Question
+
+With the intermunicipal youth care pilot, Oosterhout and the other participating municipalities, aim to decrease the administrative load and costs associated with youth care.
+
+Consequently, the main research question can be constructed as follows:
+
+How can we make youth care more financially and administratively manageable?
+
+More specifically, they want to answer the following sub-questions:
+
+1.	Identify the ‘zorgpaden’, and predict the odds of ‘opschalen’ within these ‘zorgpaden’.
+2.	Explain the difference between youth care suppliers in terms of ‘indicatietijd’ and ‘zorgduur’.
+3.	Identify the characteristics that influence the amount of youth care provided on a neighbourhood-level.
+
+At the beginning of the project, you will be asked to pick one of these sub-questions. During the project you will work on finding an appropriate answer to your chosen sub-question by applying various BI and ML techniques.
+
+***
+
+#### 3.5 Processes
 
 The Dutch youth care system is complex . Jargon
 

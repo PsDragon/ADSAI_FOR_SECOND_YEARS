@@ -1,5 +1,5 @@
 ---
-sort: 7
+sort: 1
 ---
 
 # __Introduction to Business Intelligence__

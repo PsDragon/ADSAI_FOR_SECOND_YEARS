@@ -18,6 +18,6 @@ In the next self-study/data-lab day we are going to XXXXXXXXXX. After which we w
 1. [Content](LINK): DESCRIPTION OF WHAT THIS IS, WHY IT IS RELEVANT AND FOR WHO
 
 ## References:
-- REFS 
+- REFS
 
 Course code: AAIDM1_DSX

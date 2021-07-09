@@ -68,9 +68,9 @@ Week 6-8: [Programming](#week-6--Programming-in-Python)
 # Week 3 : Data Science
 
 ## Monday
-- [Course introduction & information](/docs/Study Content/DataScience/DS1_IntroductionToDataScience/Day1_Self-Study/DS1_Day1_MVP_CourseInformation)
-- [Intro to R](/docs/Study Content/DataScience/DS1_IntroductionToDataScience/Day1_Self-Study/DS1_Day1_MVP_IntroToR)
-- [Lecture and Mock-Assessment](/docs/Study Content/DataScience/DS1_IntroductionToDataScience/Day1_Self-Study/DS1_Day1_MVP_LectureAndMockAssesment)
+- [Course introduction & information](docs/Study Content/DataScience/DS1_IntroductionToDataScience/Day1_Self-Study/DS1_Day1_MVP_CourseInformation.md)
+- [Intro to R](docs/Study Content/DataScience/DS1_IntroductionToDataScience/Day1_Self-Study/DS1_Day1_MVP_IntroToR.md)
+- [Lecture and Mock-Assessment](docs/Study Content/DataScience/DS1_IntroductionToDataScience/Day1_Self-Study/DS1_Day1_MVP_LectureAndMockAssesment.md)
 
 ## Tuesday
 - [Datalab 00 Overview: SGD Indicators](https://www.buas.nl/en/games)

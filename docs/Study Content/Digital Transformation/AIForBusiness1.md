@@ -52,7 +52,8 @@ __3b__ Find three newspaper articles on a risk associated with a sub-field of AI
 
 __3c__ Watch the TEDx talk 'The era of blind faith in big data must end' by Cathy O'Neill.
 
-[![Video 1.](./images/cathy_oneill.png)](https://www.youtube.com/watch?v=_2u_eHHzRto "Click on link to open video!")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_2u_eHHzRto?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 *Video 1. TEDx talk 'The era of blind faith in big data must end' by Cathy O'Neill*
 
 __3d__ In the video she makes the following statement: 'Algorithms are opinions embedded in code'. What do you think she means with this statement, and what are the possible implications that could arise from it? Explain your answer.

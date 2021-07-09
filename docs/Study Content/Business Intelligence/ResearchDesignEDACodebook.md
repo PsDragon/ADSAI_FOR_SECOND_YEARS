@@ -31,7 +31,7 @@ Before/after the workshop you have time to work on the independent study materia
 
 A data analyst serves as a gatekeeper of the organization’s data collection, ensuring that the stakeholders can make informed decisions based on accurate, correct and complete data.
 
-<img src="./images/data_analyst.jpg" alt="Books banner" width="600"/>
+<img src="./images/data_analyst.jpg" alt="Data analyst" width="600"/>
 
 *Figure 1. What does a data analyst do?*
 

@@ -21,10 +21,7 @@ Week 6-8: [Programming in Python](#week-6--programming-in-python)
 - [Turing Test & Chatbots (2): Discussion & Turing Test](../../Study%20Content/Artificial%20Intelligence/TuringTestChatbots2.html)
 
 ## Wednesday
-- [topic 1](https://www.buas.nl/en/games)
-- [topic 2](../../Study%20Content/Artificial%20Intelligence/TuringTestChatbots1.html#literature)
-  - [topic 2.1](#graphics)
-  - [topic 2.2](#ecs)
+- [Scientific writing (1): The structure of a paragraph and rules of writing; Bias-free language ](../../Study%20Content/Digital%20Transformation/AIForBusiness1.html)
 
 ## Thursday
 - [Foundations of AI (2): Symbolic/non-symbolic AI & Intelligent agents](../../Study%20Content/Artificial%20Intelligence/FoundationsOfAI2.html)
@@ -37,9 +34,7 @@ Week 6-8: [Programming in Python](#week-6--programming-in-python)
 
 ## Monday
 - [AI for Business (1): Introduction into application of AI in businesses & Risks and benefits of AI](../../Study%20Content/Digital%20Transformation/AIForBusiness1.html)
-- [topic 2](../../Study%20Content/Artificial%20Intelligence/TuringTestChatbots1.html#literature)
-  - [topic 2.1](#graphics)
-  - [topic 2.2](#ecs)
+
 
 ## Tuesday
 - [topic 1](https://www.buas.nl/en/games)
@@ -48,16 +43,11 @@ Week 6-8: [Programming in Python](#week-6--programming-in-python)
   - [topic 2.2](#ecs)
 
 ## Wednesday
-- [topic 1](https://www.buas.nl/en/games)
-- [topic 2](../../Study%20Content/Artificial%20Intelligence/TuringTestChatbots1.html#literature)
-  - [topic 2.1](#graphics)
-  - [topic 2.2](#ecs)
+- [Scientific writing (2): Citation. Mechanics of style of effective writing](../../Study%20Content/Digital%20Transformation/Scientific%20writing%202.html)
 
 ## Thursday
-- [topic 1](https://www.buas.nl/en/games)
-- [topic 2](#libraries--frameworks)
-  - [topic 2.1](#graphics)
-  - [topic 2.2](#ecs)
+- [AI for Business (2): Application of AI by businesses](../../Study%20Content/Digital%20Transformation/AIForBusiness2.html)
+
 
 ## Friday
 - [topic 1](https://www.buas.nl/en/games)

@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-## __Scientific writing (2): Citation & Mechanics of style of effective writing.
+## __Scientific writing (2): Citation & Mechanics of style of effective writing.__
 \
 <img src="./images/books_banner.png" alt="Books banner" width="600">
 
@@ -10,8 +10,7 @@ sort: 1
 Today you will continue developing scientific writing skills. The topics of today are Citation & Mechanics of style of effective writing.
 By the end of  today, we expect you to complete all the readings and finish the exercises. It will help you to prepare for the final assignment.  
 
-If you have questions regarding the study material, you can send us an email or attend the Q&A session at the end of each self-study day. During the Q&A session, we will extensively discuss the independent study material. For details on availability see Contact page.
-
+If you have questions regarding the study material, you can send us an email or attend the Q&A session at the end of each self-study day. During the Q&A session, we will extensively discuss the independent study material. For details on availability see Project Brief.
 
 
 ***
@@ -167,4 +166,5 @@ __3a__	Read the chapter 6 of APA 7th Edition (2020)
 
 
 ***
+
 ## __Literature__

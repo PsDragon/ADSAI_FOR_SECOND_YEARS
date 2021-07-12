@@ -33,7 +33,7 @@ Open RStudio and type the following into the console:
 ```
 
 <figure>
-    <img src="docs\assets\images\DS1\rstudio2.png" />
+    <img src=".\assets\rstudio2.PNG" />
     <figcaption>R-Studio Interface:</figcaption>
 </figure>
 <br>

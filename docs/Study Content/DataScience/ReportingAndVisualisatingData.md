@@ -2,7 +2,7 @@
 sort: 13
 ---
 
-# Data Science X, Self-Study Day Y: Overview
+# Reporting and Visualising Data
 
 We start of with a comfortable introduction to TOPICS by lecture. Subsequently, we will focus on putting our new knowledge into practice by XXXXXXXXXXXXXX. In the workshop you will be introduced to YYYYYYYYYYY.
 

@@ -2,7 +2,7 @@
 sort: 2
 ---
 
-# Data Science 1 Course information
+# Course information: Data Science 1 
 
 # Your lecturers
 

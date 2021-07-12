@@ -1,4 +1,7 @@
-﻿﻿# Exploratory Data Analysis
+---
+sort: 6
+---
+# Exploratory Data Analysis
 
 We start of with a comfortable introduction to TOPICS & GOALS by lecture. Subsequently, we will focus on putting our new knowledge into practice by XXXXXXXXXXXXXX. To create a the YYYYYYYYYYY component for your data-lab project, we will ZZZZZZZZZZZZZ.
 
@@ -11,7 +14,7 @@ Good luck!
 
 In case you have any questions please first ask your peers or (when they don't respond timely) [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the course, workshop and question you have or the problem you're experiencing.
 
-# Data Science X, Self-Study Day Y: Overview
+## text
 
 We start of with a comfortable introduction to TOPICS by lecture. Subsequently, we will focus on putting our new knowledge into practice by XXXXXXXXXXXXXX. In the workshop you will be introduced to YYYYYYYYYYY.
 
@@ -26,7 +29,7 @@ Good luck!
 In case you have any questions please first ask your peers or (when they don't respond timely) [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the course, workshop and question you have or the problem you're experiencing.
 
 
-# Data Science X, Self-Study Day Y: Lecture - Z
+## Data Science X, Self-Study Day Y: Lecture - Z
 
 This lecture/workshop/session will focus on XXXXXXX. We are going to cover YYYYYYYYYYYYYYY and apply those concepts to a mock-assessment.
 
@@ -50,7 +53,7 @@ Now its time for [the workshop part](LINK TO WORKSHOP)!
 
 Course code: AAIDM1_DSX
 
-# Data Science X, Self-Study Day Y: Workshop - TOPIC
+## Data Science X, Self-Study Day Y: Workshop - TOPIC
 
 This lessons is about XXXXXXXXXXXXXXXX. After which you should be able to YYYYYYYYYYYY.
 
@@ -75,7 +78,7 @@ swirl::install_course("Exploratory Data Analysis")
 Course code: AAIDM1_DSX
 
 
-# Data Science X, Self-Study Day X: Mock-Assesment - TOPIC
+## Data Science X, Self-Study Day X: Mock-Assesment - TOPIC
 
 This Mock-assessment is about XXXXXXXXXXX
 

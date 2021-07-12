@@ -9,11 +9,11 @@ sort: 2
 
 ### 1. Introduction
 
-For the second half of the day, you are going to read the famous article Computing Machinery and Intelligence by Alan Turing (1950). This is the first, and definitely not the last, peer-reviewed article are going to read for the programme. As a data professional it is important to stay up to date with new developments in the field. One way of doing so, is by reading these peer-reviewed scientific articles.
+For the second half of the day, you are going to read the famous article Computing Machinery and Intelligence by Alan Turing (1950). This is the first, and definitely not the last, peer-reviewed article are going to read for the programme. As a data professional it is important to stay up to date with new developments in the field. Furthermore, it is good to be familiar with the seminal works of AI. One way of doing so, is by reading these peer-reviewed scientific articles.
 
 ***
 
-### 2. Article (180 minutes)
+### 2. Article 
 
 The rise of artificial intelligence forces us to rethink what robots mean to society and what their role is to be. They are far better at arithmetic, but are they really as intelligent as us? What constitutes intelligence? And should we fear being replaced by these digital machines in the future? Alan Turing was the first to examine the relationship between human and digital machines.
 

@@ -16,9 +16,7 @@ An easy way to install Python on your computer is using **Anaconda** [[2](#2)]. 
 
 <!-- blank line -->
 <figure class="video_container">
-<center>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/C4OPn58BLaU?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
 </figure>
 <!-- blank line -->
 
@@ -29,10 +27,8 @@ To launch Jupyter Notebook, please open the Anaconda Navigator application. You 
 
 
 <figure>
-    <center>
-    <img src=".\assets\anacondaNavigator.PNG" />
+      <img src=".\assets\anacondaNavigator.PNG" />
     <figcaption>Anaconda Navigator</figcaption>
-    </center>
 </figure>
 
 
@@ -42,9 +38,7 @@ GitHub is a code hosting platform for version control and collaboration. It lets
 
 <!-- blank line -->
 <figure class="video_container">
-<center>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sz6zfrQpCQg?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
 </figure>
 <!-- blank line -->
 

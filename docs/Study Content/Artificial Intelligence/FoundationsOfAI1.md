@@ -13,15 +13,16 @@ Today, you will start your journey into the wonderful world of Artificial Intell
 
 We advise you to start early with the independent study exercises, because we are going to cover quite a bit of material today!
 
-If you have questions regarding the study material, you can send us an email or attend the Q&A session at the end of each self-study day. During the Q&A session, we will extensively discuss the independent study material. For details on availability see Contact page.
+If you have questions regarding the study material, you can send us an email or attend the Q&A session at the end of each self-study day. During the Q&A session, we will extensively discuss the independent study material. For details on availability see Project Brief.
 
-### 2. What is artificial intelligence? (30 minutes)
+### 2. What is artificial intelligence?
 
 Artificial intelligence (AI) has seen a rapid rise in popularity. Research into the field of AI is rocketing, and an increasing number of companies are incorporating AI technologies into their daily business operations. But, what does AI constitute?
 
 __1a__ Watch the TEDx talk 'Understanding Artificial Intelligence and Its Future' by Neil Nie.
 
-[![Video 1.](./images/intro_ai.jpg)](https://www.youtube.com/watch?v=SN2BZswEWUA "Click on link to open video!")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SN2BZswEWUA?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 *Video 1. TEDx talk 'Understanding Artificial Intelligence and Its Future' by Neil Nie.*
 
 __1b__ How would you define 'artificial intelligence'?
@@ -31,21 +32,21 @@ but also examples from popular culture (e.g. movies, books, video games etc.).
 
 ***
 
-### 2. Philosophy of Artificial Intelligence (180 minutes)
+### 2. Philosophy of Artificial Intelligence
 
 In this section, you will be made familiar with the various definitions of AI, and its related fields (e.g. cognitive science). The information required to successfully complete this section, can (to a greater extent) be found in the book Artificial Intelligence: A Modern Approach by Russell and Norvig (2020)<sup>[1](#footnote_1)</sup>. You will be using this specific book throughout the programme.
 
 <img src="./images/ai_russell_norvig.jpg" alt="Book Russell and Norvig" width="250"/>
 
-*Figure 1. Artificial Intelligence: A Modern Approach (Russell and Norvig, 2020).*
+*Figure 1. Artificial Intelligence: A Modern Approach (Russell and Norvig, 2021).*
 
-You can purchase the book or borrow it from BUAS' library. The library currently has 3 copies available.
+You can purchase the book or borrow it from BUAS' library. The library currently has ... copies available.
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Tip: incorporate some screen-free time in your schedule by reading a paper copy of a book/article etc. instead of a digital one. Your eyes will thank me later.
 </div>
 
-__2a__ Read the first two sub-chapters of the book Artificial Intelligence: A Modern Approach by Russell and Norvig (2020) (p.29-62).
+__2a__ Read the first two sub-chapters of the book Artificial Intelligence: A Modern Approach by Russell and Norvig (2021) (p.19-35).
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Tip: if you cannot find the answer to a question in the provided literature, try to look for an answer online.
@@ -78,7 +79,7 @@ __2g__ After completing the readings and exercises of this section, would you pr
 
 ***
 
-### 3. History of Artificial Intelligence (30 minutes)
+### 3. History of Artificial Intelligence
 
 The early beginnings of AI, can be traced to the Ancient Greek period when philosophers started to describe human thinking as a symbolic system. Additionally, one of the first notions of a 'robot' can be found in Greek mythology:
 
@@ -94,7 +95,8 @@ In this section, you will explore AI's history a bit further by reading Morignat
 
 __3a__ Watch the video on the History of AI by YouTube´s AI with Alex.
 
-[![Video 2.](./images/history_ai.jpg)](https://www.youtube.com/watch?v=JjQGKSOTHa4 "Click on link to open video!")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JjQGKSOTHa4?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 *Video 2. History of AI by YouTube´s AI with Alex.*
 
 __3b__ Read the article ['The Ancient Quest for AI'](http://intelligentstory.com/the-quest-for-ai.html), by Valerie Morignat.
@@ -113,4 +115,4 @@ Mayor, A. (2020). Gods and robots: Myths, machines, and ancient dreams of techno
 
 Morignat, V. (n.d.). The quest for AI. Retrieved June 16, 2021, from http://intelligentstory.com/the-quest-for-ai.html
 
-Stuart, R., & Peter, N. Artificial Intelligence: A Modern Approach. 2020.
+Stuart, R., & Peter, N. Artificial Intelligence: A Modern Approach. 2021. Global Edition.

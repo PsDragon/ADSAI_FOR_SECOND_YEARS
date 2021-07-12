@@ -17,6 +17,8 @@ Today's independent study material focusses on the concept of symbolic/non-symbo
 
 ### 2. Symbolic AI vs. non-symbolic AI
 \
+
+
 __2a__ Watch the video on symbolic AI by the YouTube channel CrashCourse.
 
 [![Video 1.](./images/symbolic_ai.jpg)](https://www.youtube.com/watch?v=WHCo4m2VOws "Click on link to open video!")

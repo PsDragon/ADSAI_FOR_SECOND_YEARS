@@ -1,5 +1,5 @@
 ---
-sort: 15
+sort: 14
 ---
 # Intro into Regression and Machine Learning
 

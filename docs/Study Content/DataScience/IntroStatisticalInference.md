@@ -1,5 +1,5 @@
 ---
-sort: 10
+sort: 9
 ---
 
 # Intro to Statistical Learning

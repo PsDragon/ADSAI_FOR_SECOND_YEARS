@@ -1,8 +1,8 @@
 ---
-sort: 2
+sort: 1
 ---
 
-# Course information: Data Science 1 
+# Course information: Data Science 1
 
 # Your lecturers
 

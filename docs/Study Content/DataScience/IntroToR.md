@@ -31,8 +31,18 @@ Open RStudio and type the following into the console:
 ```R
 	> install.packages("swirl")
 ```
+<figure>
+    <img src=".\assets\images\DS1\rstudio2.png" />
+    <figcaption>R-Studio Interface</figcaption>
+</figure>
+<br>
 
-![R-Studio Interface:](/docs/assets/images/DS1/rstudio2.png)
+<figure>
+    <img src="/docs/assets/images/DS1/rstudio2.png" />
+    <figcaption>R-Studio Interface: (Source: NHL Stenden)</figcaption>
+</figure>
+<br>
+
 
 Note that the '>' symbol at the beginning of the line is R's prompt for you type something into the console. We include it here so you know that this command is to be typed into the console and not elsewhere. The part you type begins after '>'.
 

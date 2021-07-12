@@ -187,7 +187,7 @@ Please review the topic Data Structures in the official Python tutorial, which y
 
 ## Assignments - Code Academy
 
-- [ ] Please complete the Learning Python 3 module in Code Academy
+- [ ] Please continue with the ```Learning Python 3``` module in Code Academy which you can find [here](https://www.codecademy.com/learn/learn-python-3) and ensure that you send in a certificate of completion by the **end of week 8**.
 
 # References
 <a id="1">[1]</a>

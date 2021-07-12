@@ -177,3 +177,45 @@ Week 6-8: [Programming](#week-6--Programming-in-Python)
 
 ## Friday
 - [Data Lab 2](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/Programming/DataLabPR1.2.html)
+
+# Week 7 : Programming in Python
+
+## Monday
+- [Introduction to Python NumPy](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/Programming/Python%20Numpy.html)
+- [Image Processing in Python](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/Programming/Python%20Image%20Processing.html)
+
+## Tuesday
+- [Data Lab: Image Steganography](https://www.buas.nl/en/game)
+
+## Wednesday
+- [Advanced Numpy: Broadcasting](https://www.buas.nl/en/game)
+- [Advanced Numpy: Vectorising](https://www.buas.nl/en/game)
+
+
+## Thursday
+- [Python: Matplotlib](https://www.buas.nl/en/game)
+- [Python: Scikit-learn](https://www.buas.nl/en/game)
+
+## Friday
+- [Data Lab: Image Steganography](https://www.buas.nl/en/game)
+
+# Week 8 : Programming in Python
+
+## Monday
+- [PEP 8 – Coding standards for Python ](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/Programming/Python%20Numpy.html)
+- [Reproducible data analysis in Python](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/Programming/Python%20Image%20Processing.html)
+
+## Tuesday
+- [Data Lab: Image Steganography](https://www.buas.nl/en/game)
+
+## Wednesday
+- [Python Application development - Flask](https://www.buas.nl/en/game)
+- [Python Application development - Qt](https://www.buas.nl/en/game)
+
+
+## Thursday
+- [Python: Recap of key concepts](https://www.buas.nl/en/game)
+- [Python:Extended Q & A](https://www.buas.nl/en/game)
+
+## Friday
+- [Data Lab: Image Steganography](https://www.buas.nl/en/game)

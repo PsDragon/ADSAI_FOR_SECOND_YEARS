@@ -1,7 +1,7 @@
 ---
 sort: 5
 ---
-# Data Science 1, Data-lab Day 00: Creative Brief Component - Poster Introduction
+# Datalab 00: SDG indicators
 
 This data-lab day will focus on SGD Indicators. We are going to cover forming an introduction from our problem statement and apply learned concepts to create an introduction for your conference poster.
 

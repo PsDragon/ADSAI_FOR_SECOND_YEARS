@@ -2,9 +2,8 @@
 sort: 1
 ---
 
-# Data Science Documentation
+# Data Science 1 Documentation
 
-[Intro to R](www.google.com)
 
 Message from Abhishek : Don't add any content in the ReadMe.md file
 

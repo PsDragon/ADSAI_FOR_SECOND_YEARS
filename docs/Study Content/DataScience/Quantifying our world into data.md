@@ -2,7 +2,7 @@
 sort: 3
 ---
 
-# Data Science 1, Lesson 1: Lecture - The World in Data
+# Quantifying our World into Data
 
 This lecture/workshop/session will focus on how we can see and quantify our world into data. We are going to cover some basic concepts and apply those concepts to a mock-assessment.
 

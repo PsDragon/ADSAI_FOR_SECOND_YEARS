@@ -1,7 +1,7 @@
 ---
 sort: 4
 ---
-﻿# Data Science 1, lesson 1: Workshop - Introduction to R
+﻿# Intro to R
 
 This lessons is about installing & understanding the R and R-studio software suite to do statistical analysis.
 

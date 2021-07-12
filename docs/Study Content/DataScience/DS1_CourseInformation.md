@@ -2,7 +2,7 @@
 sort: 2
 ---
 
-# Data Science 1, Day 1: Overview
+# Data Science 1 Course information
 
 # Your lecturers
 

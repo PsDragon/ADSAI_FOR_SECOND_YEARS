@@ -2,7 +2,7 @@
 sort: 8
 ---
 
-# Data Science X, Data-lab Day Y: Creative Brief Component - Z
+# Datalab 01: Exploratory Data Analysis
 
 This data-lab day will focus on XXXXXXX. We are going to cover YYYYYYYYYYYYYYY and apply those concepts to create a solution to a component of our data-lab project.
 

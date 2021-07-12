@@ -2,7 +2,7 @@
 sort: 17
 ---
 
-# Data Science X, Self-Study Day Y: Workshop - TOPIC
+# Conference Poster Hand-in
 
 This lessons is about XXXXXXXXXXXXXXXX. After which you should be able to YYYYYYYYYYYY.
 

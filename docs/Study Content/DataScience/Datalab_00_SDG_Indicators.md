@@ -1,5 +1,5 @@
 ---
-sort: 4
+sort: 3
 ---
 # Datalab 00: SDG indicators
 
@@ -67,6 +67,10 @@ WITH ANOTHER DESCRIPTION
 ## 2) Next steps: XXXXXXXXXXX
 In the next self-study/data-lab day we are going to XXXXXXXXXX. After which we will creater component YYYYYYYYY for our data-lab project.
 
+## 4) Assessment
+The student creates a Conference Poster based on case studies and examples introduced online and in-class; the focus is on all stages of the data science process (formulating the problem; selecting the data and exploratory data analyses technique(s); interpretation of descriptive data; reporting and visualizing the data) from an elementary level with specific emphasis on data visualisation as a means for understanding the data . Propose next steps: an analysis to run on the data.
+
+More information on the assessment can be found in the [creative brief](/docs/Study%Content/DataScience/DS1_IntroductionToDataScience/Assessment/2021-22%ADS&AI%Project%Brief%Block%A.pdf) (page 7 to 11) and in the [poster template](/docs/Study%Content/DataScience/DS1_IntroductionToDataScience/Assessment/DS1-AssesmentPoster_Template.pptx).
 
 ## Further reading & other relevant information:
 1. [Content](LINK): DESCRIPTION OF WHAT THIS IS, WHY IT IS RELEVANT AND FOR WHO

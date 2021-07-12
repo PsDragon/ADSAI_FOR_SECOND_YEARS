@@ -1,13 +1,17 @@
 ---
-sort: 3
+sort: 2
 ---
 # Intro to R
 
-This lessons is about installing & understanding the R and R-studio software suite to do statistical analysis.
+This lessons is about installing & understanding the R and R-studio software suite. R-studio is an industry standard tool for doing statistical analysis, it's free and it has a wide range of libraries just for statistical analysis. It's [becoming more popular](http://r4stats.com/articles/popularity/) and when looking at the amount of package developed of time we can see that the growth curve follows a rapid parabolic arc (quadratic fit with R-squared=.995).
+
+<img src="/docs/assets/images/DS1/PackagesOnCranOverTime.png" />
+
+Within the data-science descipline there is some debate on whether Python or R are better; but apart from preference it's really a matter of what you want to do:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1gdKC5O0Pwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 0) Get R
-In order to run swirl, you must have R 3.1.0 or later installed on your computer.
-If you need to install R, you can do so [here](https://cran.rstudio.com/)
+So, we'll be using R for exploring the basics of data science. Specifically, we will use a package called Swirl will be using In order to run Swirl, you must have R 3.1.0 or later installed on your computer.[So install R, you can do so by clicking here](https://cran.rstudio.com/)
 
 For help installing R, check out one of the following videos (courtesy of Roger Peng at Johns Hopkins University):
 - Installing R on [Windows](https://youtu.be/mfGFv-iB724)

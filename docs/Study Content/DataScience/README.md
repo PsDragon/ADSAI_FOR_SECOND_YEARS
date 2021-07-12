@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# Data Science 1 Documentation
+# Data Science Documentation
 
 
 Message from Abhishek : Don't add any content in the ReadMe.md file

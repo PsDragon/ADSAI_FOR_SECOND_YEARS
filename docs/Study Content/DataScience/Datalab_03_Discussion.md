@@ -1,7 +1,7 @@
 ---
 sort: 6
 ---
-# Exploratory Data Analysis
+# Datalab 03: Discussion
 
 We start of with a comfortable introduction to TOPICS & GOALS by lecture. Subsequently, we will focus on putting our new knowledge into practice by XXXXXXXXXXXXXX. To create a the YYYYYYYYYYY component for your data-lab project, we will ZZZZZZZZZZZZZ.
 

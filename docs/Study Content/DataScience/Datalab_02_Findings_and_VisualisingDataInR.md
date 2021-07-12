@@ -1,7 +1,7 @@
 ---
-sort: 9
+sort: 8
 ---
-# Datalab 02: Visualising Data in R
+# Datalab 02: Findings & Data Visualisations
 
 This data-lab day will focus on XXXXXXX. We are going to cover YYYYYYYYYYYYYYY and apply those concepts to create a solution to a component of our data-lab project.
 

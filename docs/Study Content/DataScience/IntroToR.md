@@ -31,13 +31,10 @@ Open RStudio and type the following into the console:
 ```R
 	> install.packages("swirl")
 ```
-R-Studio Interface:
-<img src="https://github.com/BredaUniversityGames/AAI-DM/blob/15080271fb11de729f8528493858fe7a8457793d/docs/assets/images/DS1/rstudio2.png"/>
-
 
 <figure>
-    <img src=".\assets\num_operations.PNG" />
-    <figcaption>Python operations on numeric data types</figcaption>
+    <img src="docs\assets\images\DS1\rstudio2.png" />
+    <figcaption>R-Studio Interface:</figcaption>
 </figure>
 <br>
 

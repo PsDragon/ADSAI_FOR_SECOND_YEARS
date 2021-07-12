@@ -25,7 +25,6 @@ __2c__ Read [the hand-out on Reducing Informality in Academic Writing](https://d
 
 __2e__ Download and read [the hand-out on linking words](https://www.smart-words.org/linking-words/linking-words.pdf). The hand-out will help you with writing your final report.
 
-__2f__ Conduct the quiz to check your knowledge and understanding of the material. Make sure to use the same name when completing quizzes for this module.
 
 
 ***
@@ -33,7 +32,7 @@ __2f__ Conduct the quiz to check your knowledge and understanding of the materia
 
 __3a__ Read the chapter 5 of APA 7th Edition (2020)
 
-__3b__ Conduct the quiz to check your knowledge and understanding of the material. Make sure to use the same name when completing quizzes for this module.
+
 ***
 
 ## __Literature__

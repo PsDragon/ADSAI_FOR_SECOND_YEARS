@@ -163,9 +163,7 @@ __2c__ Download the APA Format Template for your Assignment
 ***
 ### 3. Citation
 
-__3a__	Read the the chapter 6 of APA 7th Edition (2020)
-
-__3b__	Conduct the quiz to check your knowledge and understanding of the material
+__3a__	Read the chapter 6 of APA 7th Edition (2020)
 
 
 ***

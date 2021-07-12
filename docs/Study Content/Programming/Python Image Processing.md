@@ -2,7 +2,7 @@
 sort: 9
 ---
 
-# Getting Started with Image Processing in Python
+# Representing digital images
 
 The analog images we see on paper are represented and stored in the computer as digital abstractions of what we see with our eyes in the real world. Before we begin to learn how to process images with Python, it is important to first learn how we abstract images.
 
@@ -47,7 +47,13 @@ The idea of image compression is important to us for two reasons: first, compres
 
 > lookup google for lossy and lossless image compression and read about image steganography.
 
+Please watch this brief video to review concepts learned about images, pixels and the RGB colour model.
 
+<!-- blank line -->
+<figure class="video_container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15aqFQQVBWU?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
 
 
 # References

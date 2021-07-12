@@ -2,7 +2,7 @@
 sort: 6
 ---
 
-## __AI in Science Fiction (2): Report__
+## __AI in Science Fiction (2): Q&A session on the report__
 \
 <img src="./images/datalab_banner.jpg" alt="Books banner" width="600"/>
 

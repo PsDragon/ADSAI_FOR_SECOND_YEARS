@@ -1,5 +1,5 @@
 ---
-sort: 5
+sort: 4
 ---
 # Datalab 00: SDG indicators
 

@@ -3,9 +3,9 @@ sort: 2
 ---
 # Intro to R
 
-This lessons is about installing & understanding the R and R-studio software suite. R-studio is an industry standard tool for doing statistical analysis, it's free and it has a wide range of libraries just for statistical analysis. It's [becoming more popular](http://r4stats.com/articles/popularity/) and when looking at the amount of package developed of time we can see that the growth curve follows a rapid parabolic arc (quadratic fit with R-squared=.995).
+This lessons is about installing & understanding the R and R-studio software suite. R-studio is an industry standard tool for doing statistical analysis, it's free and it has a wide range of libraries just for statistical analysis. It's [becoming more popular](http://r4stats.com/articles/popularity/) and when looking at the amount of package developed of time we can see that the growth curve is amazing: it follows a rapid parabolic arc (quadratic fit with R-squared=.995).
 
-<img src="/docs/assets/images/DS1/PackagesOnCranOverTime.png" />
+[Amount of package developed of time](/docs/assets/images/DS1/PackagesOnCranOverTime.png)
 
 Within the data-science descipline there is some debate on whether Python or R are better; but apart from preference
 it's really a matter of what you want to do:
@@ -32,8 +32,7 @@ Open RStudio and type the following into the console:
 	> install.packages("swirl")
 ```
 
-![R-Studio Interface:](https://github.com/BredaUniversity/AAI-DM/blob/9c941191576eaf85eba554ac5a77fe44bbf17668/docs/Year1/BlockA/DataScience/Courses/DS1/Day1/assets/rstudio2.png)
-
+[R-Studio Interface:](/docs/assets/images/DS1/rstudio2.png)
 
 Note that the '>' symbol at the beginning of the line is R's prompt for you type something into the console. We include it here so you know that this command is to be typed into the console and not elsewhere. The part you type begins after '>'.
 
@@ -79,7 +78,7 @@ Run through the course by completing all 3 modules. In case you have any questio
 That's all for lesson 1. See you in Datalab!
 
 ## Resources
-- https://swirlstats.com/students.html
-- https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R/blob/master/documents/A%20(very)%20short%20introduction%20to%20R.pdf
-- https://swirlstats.com/help.html
+- [https://swirlstats.com/students.html](https://swirlstats.com/students.html)
+- [A Very Short Introduction to R](http://swirlstats.com/scn/A_(very)_short_introduction_to_R.html) and the accompanying [Github repository] (https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R/blob/master/documents/A%20(very)%20short%20introduction%20to%20R.pdf)
+- [Swirl](https://swirlstats.com/help.html)
 - http://swirlstats.com/scn/A_(very)_short_introduction_to_R.html

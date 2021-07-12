@@ -2,7 +2,7 @@
 sort: 6
 ---
 
-# Pandas
+# Getting Started with Python Pandas
 
 ```pandas``` is a Python package providing data frames - fast, flexible, and expressive data structure designed to make working with tabular data both easy and intuitive. It is one of the key pieces in the Python data science toolkit!
 
@@ -21,7 +21,9 @@ Please watch the following video to learn more about ```pandas```.
 </figure>
 <!-- blank line -->
 
-
+## Learning objectives
+- [ ] Understand what a ```pandas``` dataframe entails
+- [ ] Load, edit, and save common file formats using Python Pandas.
 
 ## Installing Pandas
 
@@ -30,7 +32,7 @@ The simplest way to install not only pandas, but Python and the most popular pac
 ## Dataframes
 
 A pandas dataframe is a data structure that can be best understood as a list of lists.
-A data frame is a matrix of data, containing rows and columns.
+A data frame is a matrix of data, containing rows and columns,and ideally the first row contains the header - the name of each column.
 
 <figure>
     <img src=".\assets\pddataframe.PNG" />

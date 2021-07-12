@@ -1,0 +1,62 @@
+---
+sort: 8
+---
+
+# Getting Started with Python NumPy
+
+```Numpy``` is a Python library for numerical computing. In addition to ```pandas```, it is one of the key pieces in the Python data science toolkit! NumPy can be used to perform a wide variety of mathematical operations on arrays and matrices. Since data science often involves performing operations on arrays and matrices*, NumPy is an integral component in a large majority of data science projects in Python.
+
+Please watch the following video to learn more about ```Numpy```.
+
+<!-- blank line -->
+<figure class="video_container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IfA8k2mjFEs?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
+
+## NumPy arrays
+
+An array is a data structure that defines the NumPy library[1]. Similar to a list, a NumPy array contains variables that can be indexed in various ways. However, unlike a list, the elements are all of the same type, referred to as the array dtype. To create a NumPy array, we first create a list (using ```[]```) and then convert the list into a NumPy array as shown below.
+
+```Python
+import numpy as np
+#initialize a numpy array
+a = np.array([1, 2, 3, 4, 5, 6])
+```
+
+Similar to Python lists, we can access elements of a NumPy array using indexes.
+To print the first element of ```a```, we use the following array indexing which will return 1.
+
+```Python
+import numpy as np
+#initialize a numpy array
+a = np.array([1, 2, 3, 4, 5, 6])
+print(a[0])
+```
+
+To initialize a matrix (or a multidimensional ndarray), we can use nested lists (using ```[[..],[..]]```).
+
+
+```Python
+import numpy as np
+#initialize a multidimensional numpy array
+a = np.array([[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12]])
+print(a.shape)
+```
+
+To read more about NumPy arrays, please refer to the official documentation which you can find [here](https://numpy.org/doc/stable/user/absolute_beginners.html).
+
+
+## Code Academy - Introduction To Numpy (4 hours)
+
+- [ ] Please complete the ```INTRODUCTION TO NUMPY``` module in Code Academy which you can find [here](https://www.codecademy.com/learn/intro-statistics-numpy/modules/dspath-intro-numpy).
+
+
+# References
+[1]: <https://numpy.org/doc/stable/user/absolute_beginners.html>
+<a id="1">1</a>
+<https://numpy.org/doc/stable/user/absolute_beginners.html>
+<br>
+<a id="2">2</a>
+<https://www.codecademy.com/learn/intro-statistics-numpy/modules/dspath-intro-numpy>
+<br>

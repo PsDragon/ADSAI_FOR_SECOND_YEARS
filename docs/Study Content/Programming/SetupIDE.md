@@ -23,6 +23,14 @@ An easy way to install Python on your computer is using **Anaconda** [[2](#2)]. 
 ## Jupyter notebooks
 The Jupyter Notebook is an open source web application that you can use to create and share documents (or notebooks) that can contain  interactive code, documentation, visualizations, and text. By default, when you install Anaconda, jupyter notebook is also installed.
 
+Please watch the following video to learn more about Jupyter.
+
+<!-- blank line -->
+<figure class="video_container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EtXILdEdNdw?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
+
 To launch Jupyter Notebook, please open the Anaconda Navigator application. You will observe that Jupyter notebook is indeed installed.
 
 

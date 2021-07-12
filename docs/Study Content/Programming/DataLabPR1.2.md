@@ -52,3 +52,11 @@ dataset to answer the following questions:
 had the highest chance of surviving?
 
 > Hint: Use https://www.kaggle.com/c/titanic/data to download and understand the dataset.
+
+## Bonus assignment:
+If you finish early, please watch the following video:
+<!-- blank line -->
+<figure class="video_container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5rNu16O3YNE?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->

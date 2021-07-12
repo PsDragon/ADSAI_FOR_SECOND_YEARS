@@ -214,7 +214,7 @@ Week 6-8: [Programming in Python](#week-6--programming-in-python)
 
 
 ## Thursday
-- [Python: Recap of key concepts](https://www.buas.nl/en/game)
+- [Python: Self study](https://www.buas.nl/en/game)
 - [Python:Extended Q & A](https://www.buas.nl/en/game)
 
 ## Friday

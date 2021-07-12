@@ -1,4 +1,8 @@
-﻿# Data Science 1, Lesson 1: Lecture - The World in Data 
+---
+sort: 3
+---
+
+# Data Science 1, Lesson 1: Lecture - The World in Data
 
 This lecture/workshop/session will focus on how we can see and quantify our world into data. We are going to cover some basic concepts and apply those concepts to a mock-assessment.
 
@@ -13,15 +17,15 @@ B) Questions: Defining objects as data
 
 0. Choose an object to define: e.g. in your direct vicinity or something you like or want to understand better.
 1. Describe the object formally in at least 100 words.
-2. Quantify the object into (at least 10) variables. 
+2. Quantify the object into (at least 10) variables.
 3. Form a data-driven research question based on your variables and the formal description of the object.
 4. Describe the background for your research question based on your research question, formal description, variables and other resources found online. References your sources using APA citation.
 
 C) Questions: Defining phenomena as data
 
-0. Choose an phenomena to define: e.g. in your direct vicinity or something you like or want to understand better. 
+0. Choose an phenomena to define: e.g. in your direct vicinity or something you like or want to understand better.
 1. Describe the phenomena formally in at least 100 words.
-2. Quantify the phenomena into (at least 10) variables. 
+2. Quantify the phenomena into (at least 10) variables.
 3. Form a data-driven research question based on your variables and the formal description of the phenomena.
 4. Describe the background for your research question based on your research question, formal description, variables and other resources found online. References your sources using APA citation.
 

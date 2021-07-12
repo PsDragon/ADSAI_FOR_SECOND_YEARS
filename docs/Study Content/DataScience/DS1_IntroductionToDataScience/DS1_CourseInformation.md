@@ -1,4 +1,8 @@
-﻿# Data Science 1, Day 1: Overview
+---
+sort: 2
+---
+
+# Data Science 1, Day 1: Overview
 
 # Your lecturers
 

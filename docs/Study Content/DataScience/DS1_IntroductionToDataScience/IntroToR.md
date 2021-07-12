@@ -1,9 +1,12 @@
+---
+sort: 4
+---
 ﻿# Data Science 1, lesson 1: Workshop - Introduction to R
 
-This lessons is about installing & understanding the R and R-studio software suite to do statistical analysis. 
+This lessons is about installing & understanding the R and R-studio software suite to do statistical analysis.
 
 ## 0) Get R
-In order to run swirl, you must have R 3.1.0 or later installed on your computer. 
+In order to run swirl, you must have R 3.1.0 or later installed on your computer.
 If you need to install R, you can do so [here](https://cran.rstudio.com/)
 
 For help installing R, check out one of the following videos (courtesy of Roger Peng at Johns Hopkins University):
@@ -37,7 +40,7 @@ This is the only step that you will repeat every time you want to run swirl. Fir
 ```
 
 ## 4) Install your first interactive lesson
-The first time you start swirl, you'll get an introduction to swirl by the software itself. 
+The first time you start swirl, you'll get an introduction to swirl by the software itself.
 
 After which you'll be prompted to install a course. You can either install one of the recommended courses or visit the course repository for more options. There are even more courses available from the Swirl Course Network. To install a course that is not part of our course repository, type '?InstallCourses' at the R prompt for a list of functions that will help you do so.
 
@@ -75,4 +78,3 @@ That's all for lesson 1. See you in Datalab!
 - https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R/blob/master/documents/A%20(very)%20short%20introduction%20to%20R.pdf
 - https://swirlstats.com/help.html
 - http://swirlstats.com/scn/A_(very)_short_introduction_to_R.html
-

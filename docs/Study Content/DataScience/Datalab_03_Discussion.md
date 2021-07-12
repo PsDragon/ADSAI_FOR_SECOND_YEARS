@@ -1,6 +1,7 @@
 ---
-sort: 6
+sort: 11
 ---
+
 # Datalab 03: Discussion
 
 We start of with a comfortable introduction to TOPICS & GOALS by lecture. Subsequently, we will focus on putting our new knowledge into practice by XXXXXXXXXXXXXX. To create a the YYYYYYYYYYY component for your data-lab project, we will ZZZZZZZZZZZZZ.
@@ -9,6 +10,9 @@ Please follow the links below to continue the classs:
 1. [Presentation](LINK): X hours
 2. [Creative brief component](LINK): Y hours
 
+
+- [Future Research](#libraries--frameworks)
+- [Data-driven Decisions](https://www.buas.nl/en/games)
 
 Good luck!
 

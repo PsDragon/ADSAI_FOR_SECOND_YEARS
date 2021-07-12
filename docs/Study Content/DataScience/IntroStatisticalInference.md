@@ -2,7 +2,7 @@
 sort: 9
 ---
 
-# Intro to Statistical Learning
+# Intro to Statistical Inference
 
 We start of with a comfortable introduction to TOPICS by lecture. Subsequently, we will focus on putting our new knowledge into practice by XXXXXXXXXXXXXX. In the workshop you will be introduced to YYYYYYYYYYY.
 

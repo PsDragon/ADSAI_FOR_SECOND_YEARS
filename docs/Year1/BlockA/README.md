@@ -58,94 +58,57 @@ Week 6-8: [Programming in Python](#week-6--programming-in-python)
 # Week 3 : Data Science
 
 ## Monday
-- [Course introduction & information](docs/Study Content/DataScience/DS1_IntroductionToDataScience/Day1_Self-Study/DS1_Day1_MVP_CourseInformation.md)
-- [Intro to R](docs/Study Content/DataScience/DS1_IntroductionToDataScience/Day1_Self-Study/DS1_Day1_MVP_IntroToR.md)
-- [Lecture and Mock-Assessment](docs/Study Content/DataScience/DS1_IntroductionToDataScience/Day1_Self-Study/DS1_Day1_MVP_LectureAndMockAssesment.md)
+- [Quantifying our world into data](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/Quantifying%20our%20world%20into%20data.html)
+- [Intro to R](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/IntroToR.html)
 
 ## Tuesday
-- [Datalab 00 Overview: SGD Indicators](https://www.buas.nl/en/games)
-- [SDG Indicators](https://www.buas.nl/en/games)
-- [SDG Problem Statement](#libraries--frameworks)
-- [Introduction Setup](#graphics)
+- [Datalab 00 Overview: SGD Indicators](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/Datalab_00_SDG_Indicators.html)
 
 ## Wednesday
-- [Variables - Overview](https://www.buas.nl/en/games)
-- [Lecture](https://www.buas.nl/en/games)
-- [Workshop](https://www.buas.nl/en/games)
-- [Mock-Assessment](https://www.buas.nl/en/games)
+- [Intro to variables](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/IntroToVariables.html)
 
 ## Thursday
-- [Descriptive Analyses - Overview](https://www.buas.nl/en/games)
-- [Lecture](https://www.buas.nl/en/games)
-- [Workshop](https://www.buas.nl/en/games)
-- [Mock-Assessment](https://www.buas.nl/en/games)
+- [Descriptive Analyses](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/DescriptiveAnalyses.html)
 
 ## Friday
-- [Datalab 01 Overview: Exploratory Data Analyses (EDA) Methodology](https://www.buas.nl/en/games)
-- [Exploratory Data Analysis fundamentals](#ecs)
-- [Exploratory Data Analysis in R](#ecs)
-
+- [Datalab 01: Exploratory Data Analysis (EDA)](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/Datalab_01_ExploratoryDataAnalysis.html)
 
 # Week 4 : Data Science
 
 ## Monday
-- [Introduction to Probability - Overview](https://www.buas.nl/en/games)
-- [Lecture](https://www.buas.nl/en/games)
-- [Workshop](https://www.buas.nl/en/games)
-- [Mock-Assessment](https://www.buas.nl/en/games)
+- [Introduction to Probability](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/IntroductionToProbability.html)
 
 ## Tuesday
-- [Datalab 02 Overview: Findings](https://www.buas.nl/en/games)
-- [Creating informative descriptive visualisation](https://www.buas.nl/en/games)
-- [Reporting your visualisations & EDA](#libraries--frameworks)
+- [Datalab 02: Findings](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/Datalab_02_Findings_and_VisualisingDataInR.html)
 
 ## Wednesday
-- [Introduction to Statistical Inference - Overview](https://www.buas.nl/en/games)
-- [Lecture](https://www.buas.nl/en/games)
-- [Workshop](https://www.buas.nl/en/games)
-- [Mock-Assessment](https://www.buas.nl/en/games)
+- [Introduction to Statistical Inference](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/IntroStatisticalInference.html)
 
 ## Thursday
-- [Analysing Relationships between Variables - Overview](https://www.buas.nl/en/games)
-- [Lecture](https://www.buas.nl/en/games)
-- [Workshop](https://www.buas.nl/en/games)
-- [Mock-Assessment](https://www.buas.nl/en/games)
+- [Analysing Relationships between Variables](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/AnalysingRelationships.html)
 
 ## Friday
-- [Datalab 03 Overview: Discussion](https://www.buas.nl/en/games)
-- [Interpretation](https://www.buas.nl/en/games)
-- [Future Research](#libraries--frameworks)
-- [Data-driven Decisions](https://www.buas.nl/en/games)
+- [Datalab 03 Discussion](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/Datalab_03_Discussion.html)
+
 
 
 # Week 5 : Data Science
 
 ## Monday
-- [Reporting & visualisation - Overview](https://www.buas.nl/en/games)
-- [Lecture](https://www.buas.nl/en/games)
-- [Workshop](https://www.buas.nl/en/games)
-- [Mock-Assessment](https://www.buas.nl/en/games)
+- [Reporting & visualisation - Overview](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/ReportingAndVisualisatingData.html)
 
 ## Tuesday
-- [Datalab 04 Overview: Conclusion](https://www.buas.nl/en/games)
-- [Conclusion](https://www.buas.nl/en/games)
-- [Referencing](#graphics)
+- [Datalab 04 Overview: Conclusion & References](https://www.buas.nl/en/games)
 
 ## Wednesday
-- [Introduction to regression & machine learning - Overview](https://www.buas.nl/en/games)
-- [Lecture](https://www.buas.nl/en/games)
-- [Workshop](https://www.buas.nl/en/games)
-- [Mock-Assessment](https://www.buas.nl/en/games)
+- [Introduction to regression & machine learning](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/IntroIntoRegressionAndMachineLearning.html)
 
 ## Thursday
-- [Block A recap - Overview](https://www.buas.nl/en/games)
-- [Lecture](https://www.buas.nl/en/games)
-- [Working on Poster](https://www.buas.nl/en/games)
-- [Hand-in of the Poster](https://www.buas.nl/en/games)
+- [Block A recap](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/BlockA_Recap.html)
+- [Conference Poster Hand-in](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/ConferencePoster_Hand-in_Instructions.html)
 
 ## Friday
-- [Datalab 05 Overview: Poster Presentation Day](https://www.buas.nl/en/games)
-- [Presentation Schedule and more Information](https://www.buas.nl/en/games)
+- [Datalab 05 Overview: Poster Presentation Day](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/Datalab_05_PosterPresentationDay.html)
 
 
 # Week 6 : Programming in Python

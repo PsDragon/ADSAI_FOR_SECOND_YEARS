@@ -7,7 +7,8 @@ This lessons is about installing & understanding the R and R-studio software sui
 
 <img src="/docs/assets/images/DS1/PackagesOnCranOverTime.png" />
 
-Within the data-science descipline there is some debate on whether Python or R are better; but apart from preference it's really a matter of what you want to do:
+Within the data-science descipline there is some debate on whether Python or R are better; but apart from preference
+it's really a matter of what you want to do:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1gdKC5O0Pwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 0) Get R

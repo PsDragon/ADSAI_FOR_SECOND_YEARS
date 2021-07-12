@@ -5,7 +5,7 @@ sort: 2
 
 This lessons is about installing & understanding the R and R-studio software suite. R-studio is an industry standard tool for doing statistical analysis, it's free and it has a wide range of libraries just for statistical analysis. It's [becoming more popular](http://r4stats.com/articles/popularity/) and when looking at the amount of package developed of time we can see that the growth curve is amazing: it follows a rapid parabolic arc (quadratic fit with R-squared=.995).
 
-![Amount of packages developed of time](/docs/assets/images/DS1/PackagesOnCranOverTime.png)
+![Amount of packages developed of time](https://github.com/BredaUniversityGames/AAI-DM/blob/15080271fb11de729f8528493858fe7a8457793d/docs/assets/images/DS1/PackagesOnCranOverTime.png)
 
 Within the data-science descipline there is some debate on whether Python or R are better; but apart from preference
 it's really a matter of what you want to do:
@@ -32,15 +32,8 @@ Open RStudio and type the following into the console:
 	> install.packages("swirl")
 ```
 R-Studio Interface:
-<img src="./docs/assets/images/DS1/rstudio2.png" width="899" height="552" />
+<img src="https://github.com/BredaUniversityGames/AAI-DM/blob/15080271fb11de729f8528493858fe7a8457793d/docs/assets/images/DS1/rstudio2.png" width="899" height="552" />
 
-bla bla bla
-met .
-
-<img src=".docs\assets\images\DS1\rstudio2.png" width="899" height="552"/>
-
-zonder height en witdh		
-<img src="./docs/assets/images/DS1/rstudio2.png" /> 
 
 Note that the '>' symbol at the beginning of the line is R's prompt for you type something into the console. We include it here so you know that this command is to be typed into the console and not elsewhere. The part you type begins after '>'.
 

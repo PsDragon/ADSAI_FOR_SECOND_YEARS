@@ -42,15 +42,7 @@ The first draft of the creative brief should include:
 1. AI topic (e.g. technology, method, practice etc.)
 2. Outline of your essay
 
-Need help to write an outline for your essay, check out the YouTube video below:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1t4E7pJbIpY?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-*Video 1. Tips on writing an outline*
-
-Essay outline template: [Structure of a General Expository Essay](./documents/main_structure-of-a-general-expository-essay-santa-barbara-city-college.pdf) by Santa Barbara City College.
-
-The deadline for the first draft of the creative brief is Thursday at 00:00.
+The deadline for the first draft of the creative brief is 14th of September (Tuesday) at 5pm.
 
 ***
 

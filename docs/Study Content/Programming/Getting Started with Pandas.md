@@ -50,13 +50,13 @@ Please watch the following video to learn more about dataframes in ```pandas```.
 
 ## Blended Learning - Code Academy [7 hrs]
 
-- [ ] Please complete the ```Learn Data Analysis with Pandas``` module in Code Academy [2].
+- [ ] Please complete the ```Learn Data Analysis with Pandas``` module in Code Academy which can be found [here](https://www.codecademy.com/learn/data-processing-pandas).
 
 
 # References
 <a id="1">[1]</a>
-https://pandas.pydata.org/docs/getting_started/install.html
+<https://pandas.pydata.org/docs/getting_started/install.html>
 <br>
-<a id="1">[1]</a>
-https://www.codecademy.com/learn/data-processing-pandas
+<a id="1">[2]</a>
+<https://www.codecademy.com/learn/data-processing-pandas>
 <br>

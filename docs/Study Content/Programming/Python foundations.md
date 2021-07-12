@@ -188,15 +188,6 @@ Function in Python accept variables known as function parameters. In our above e
 <!-- blank line -->
 
 
-## Assignments - Hacker Rank
+## Code Academy - Introduction To Python (24 hours)
 
-- [ ] Please go to <http://www.hackerrank.com> and login with your Buas account.
-- [ ] Goto Practice -> Python
-- [ ] Select the first two subdomains
-<figure>
-    <img src=".\assets\hackerRank.PNG" />
-    <figcaption></figcaption>
-</figure>
-- [ ] Solve all challenges
-
-> Hint: use the tutorials tab if you find yourself stuck
+- [ ] Please complete the ```Learn Python 3``` module in Code Academy which you can find [here](https://www.codecademy.com/learn/learn-python-3) by the **end of week 8**.

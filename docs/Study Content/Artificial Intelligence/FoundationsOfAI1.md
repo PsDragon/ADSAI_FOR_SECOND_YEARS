@@ -111,8 +111,8 @@ __3c__ Find, and describe one 'milestone' in the history of AI. Be creative, so 
 ***
 
 ## __Literature__
-Mayor, A. (2020). Gods and robots: Myths, machines, and ancient dreams of technology.
+Mayor, A. (2020). *Gods and robots: Myths, machines, and ancient dreams of technology*
 
-Morignat, V. (n.d.). The quest for AI. Retrieved June 16, 2021, from http://intelligentstory.com/the-quest-for-ai.html
+Morignat, V. (n.d.). *The quest for AI.* Retrieved June 16, 2021, from http://intelligentstory.com/the-quest-for-ai.html
 
-Stuart, R., & Peter, N. Artificial Intelligence: A Modern Approach. 2021. Global Edition.
+Stuart, R., & Peter, N. *Artificial Intelligence: A Modern Approach.* 2021. Global Edition.

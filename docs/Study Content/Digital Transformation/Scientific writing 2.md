@@ -160,11 +160,13 @@ __2c__ Download the APA Format Template for your Assignment
 
 
 ***
-### 3. Citation
+### 3. Mechanics of style
 
-__3a__	Read the chapter 6 of APA 7th Edition (2020)
+__3a__	Read the chapter 6 of APA 7th Edition (2020). The chapter 6 provides with the information about mechanics  of  style that include  punctuation, capitalization, abbreviations, numbers, and statistics in text.
 
 
 ***
 
 ## __Literature__
+
+American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.) 

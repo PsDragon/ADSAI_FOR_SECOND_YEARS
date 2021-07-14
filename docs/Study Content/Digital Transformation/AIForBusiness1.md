@@ -75,5 +75,7 @@ __3e__ Provide an risk, benefit, and accompanying AI sub-field per organization 
 
 ## __Literature__
 Brynjolfsson, E., & Mcafee A. (2017, June). *How AI Fits into Your Data Science Team.* (https://starlab-alliance.com/wp-content/uploads/2017/09/The-Business-of-Artificial-Intelligence.pdf)
+
 Maar, B., Ward M. (2019). *Artificial Intelligence in Practice. How 50 successful companies used artificial intelligence to solve problems.* Wiley
+
 Stuart, R., & Peter, N. *Artificial Intelligence: A Modern Approach*. 2021. Global Edition.

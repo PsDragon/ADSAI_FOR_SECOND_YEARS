@@ -12,7 +12,9 @@ Enable you to:
 3. write a research question
 4. write an introduction
 
-Today we'll learn how to create the following components of any DS project. If you exceed the estimated duration for a given componenent and feel like you are squeezed for time, feel free to ask us for help:
+Today we'll learn how to create the following components of any DS project. If you exceed the estimated duration for a given componenent and feel like you are squeezed for time, feel free to ask us for help!
+
+Table of contents:
 1. Problem Statement: 3 hours
 2. Research Question: 1 hours
 3. Introduction: 2 hours

@@ -32,7 +32,7 @@ Open RStudio and type the following into the console:
 ```R
 	> install.packages("swirl")
 ```
-![Rstudio Interface](https://github.com/BredaUniversityGames/AAI-DM/blob/15080271fb11de729f8528493858fe7a8457793d/docs/assets/images/DS1/PackagesOnCranOverTime.png)
+![Rstudio Interface](https://github.com/BredaUniversityGames/AAI-DM/blob/15080271fb11de729f8528493858fe7a8457793d/docs/assets/images/DS1/rstudio2.png)
 
 <figure>
     <img src=".\assets\rstudio2.PNG" />

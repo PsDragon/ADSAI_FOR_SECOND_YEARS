@@ -53,26 +53,11 @@ Install the following course and do the modules 1, 4 and 7.
 
  In case you have any questions first ask your peers before you [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) regarding the studie content. Make sure to include the name of the year, block and github page in the title when you report the issue or question.
 
-
-
-# Next Steps
-1. Complete module 1
-2. LINK TO MOCK-ASSESSMENT IF APPLICABLE
-
-## Further reading & other relevant information:
-1. [Content](LINK): DESCRIPTION OF WHAT THIS IS, WHY IT IS RELEVANT AND FOR WHO
-
-## References:
-- REFS
-
-Course code: AAIDM1_DSX
-
-
 # Data Science X, Self-Study Day X: Mock-Assesment - TOPIC
 
 This mock-assessment is about applying the concepts we learned today to the real-world. Today we're interested in your day, what did you have for lunch or breakfast for example? Sounds straightforward right?
 
-Create an R script with the following
+Create an R-script following these instructions:
 
 1. Create a variable called 'lunch' with a string describing an item you had for lunch: food only
 2. Delete the variable
@@ -81,14 +66,14 @@ Create an R script with the following
 5. Create a matrix containing the food and drinks you had today
 6. Add the times when you ate or drank something
 
+When you are finished with your mock-assignment you can upload your R-script on [github classrooms](HYPERLINK)
+
 In case you have any questions left [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the year, block and question you have or the problem you're experiencing in the title.
 
-## 0) STEP/QUESTION/EXCERCISE 0
-BLA BLA BLA
-
-## 1) NEXT STEP/QUESTION/EXCERCISE?
-BLA BLA BLA
-
-## References:
-- YYYYYYYYYYYYY
-Course code: AAIDM1_DSX
+## Resources
+- [https://swirlstats.com/students.html](https://swirlstats.com/students.html)
+- [A Very Short Introduction to R](http://swirlstats.com/scn/A_(very)_short_introduction_to_R.html) and the accompanying [Github repository] (https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R/blob/master/documents/A%20(very)%20short%20introduction%20to%20R.pdf)
+- [Swirl](https://swirlstats.com/help.html)
+- http://swirlstats.com/scn/A_(very)_short_introduction_to_R.html
+- Learning Statistics with R, by D. Navarro (2018):  https://learningstatisticswithr.com/  
+- Discovering Statistics using R, A. Fields et al (2012): https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067  

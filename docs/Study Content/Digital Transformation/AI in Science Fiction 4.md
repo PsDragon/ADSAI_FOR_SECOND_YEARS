@@ -2,7 +2,7 @@
 sort: 4
 ---
 
-## __Turing Test & Chatbots (2): Discussion & Turing Test__
+## __Quiz on Scientific writing. Q&A session on the report __
 \
 <img src="./images/datalab_banner.jpg" alt="Books banner" width="600"/>
 

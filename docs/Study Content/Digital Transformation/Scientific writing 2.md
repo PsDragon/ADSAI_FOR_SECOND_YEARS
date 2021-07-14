@@ -156,7 +156,7 @@ ___●	Catch the Error and Correct the Mistake #9___
 
  ●	Explanation: Number and abbreviation rules.
 
-__2c__ Download the APA Format Template for your Assignment
+__2c__ Download the APA Format Template for your Assignment.  <a href="./documents/APA Format Template.doc">How To Select The Best Sources</a> by Buttram et al. (November 2012).
 
 
 ***
@@ -169,4 +169,4 @@ __3a__	Read the chapter 6 of APA 7th Edition (2020). The chapter 6 provides with
 
 ## __Literature__
 
-American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.) 
+American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.)

@@ -97,6 +97,8 @@ Now, its time for writing the research questions!
 
 **Step 2.** Decide what information the reader needs to know and write the introduction in the [poster template](docs\assets\Assessment\DS1-AssesmentPoster_Template.pptx).
 
+**Step 3.** Save your poster and notes to your [Github repository](HYPERLINK)
+
 # 4) In-Class discussion
 At 16:00 we'll all get together to discuss our progress and reflect back on today activities.
 

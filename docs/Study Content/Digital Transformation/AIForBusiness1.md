@@ -8,14 +8,15 @@ sort: 1
 <img src="./images/books_banner.png" alt="Books banner" width="600">
 
 ### 1. Introduction
+
 Happy Monday, everybody! Today we will begin with Digital Transformation classes, where you will learn the business application of Artificial Intelligence. AI brings numerous benefits to the companies by  helping organizations to grow their revenue and work more efficiently. And this will be the focus of the week.
 By the end of  today, we expect you to complete all the readings, watch all the videos and answer all the questions listed. It will help you to prepare for the final assignment.  
 
-If you have questions regarding the study material, you can send us an email or attend the Q&A session at the end of each self-study day. During the Q&A session, we will extensively discuss the independent study material. For details on availability see Contact page.
+If you have questions regarding the study material, you can send us an email or attend the Q&A session at the end of each self-study day. During the Q&A session, we will extensively discuss the independent study material. For details on availability see Project Brief.
 ***
 
 ### 2. Introduction into application of AI in businesses
-\
+
 Artificial Intelligence is broadly used in business applications across almost all sectors and industries. AI can fulfil the tasks with far higher precision and speed than humans, transforming businesses in all kind of ways. So what is the future of businesses?  
 
 __2a__ Watch the TEDx talk "Artificial Intelligence and the Future of Business" by Hans-Christian Boos.
@@ -33,7 +34,8 @@ __2b__ Answer questions below:
 
 __2c__ Read the article by [Erik Brynjolfsson and Andrew Mcaffe on The Business of Artificial Intelligence](https://starlab-alliance.com/wp-content/uploads/2017/09/The-Business-of-Artificial-Intelligence.pdf)
 
-__2d__ Watch following videos:
+__2d__ Watch following videos. The videos provide concrete examples of AI applications by different companies and industries:
+
 1.  [Introducing Yandex.Rover delivery robot](https://www.youtube.com/watch?v=gGmXq_6AkGw "Click on link to open video!")
 2.  [Meet 'Iceman' and 'Wolverine' — the 2 coolest robots in Tesla's factory](https://www.youtube.com/watch?v=WYnOGAvQEgk "Click on link to open video!")
 3.  [Robotic Pets Are Helping Dementia Patients](https://www.youtube.com/watch?v=cFvGAL9tesM "Click on link to open video!")
@@ -72,5 +74,6 @@ __3e__ Provide an risk, benefit, and accompanying AI sub-field per organization 
 ***
 
 ## __Literature__
-
-Stuart, R., & Peter, N. Artificial Intelligence: A Modern Approach. 2021. Global Edition.
+Brynjolfsson, E., & Mcafee A. (2017, June). *How AI Fits into Your Data Science Team.* (https://starlab-alliance.com/wp-content/uploads/2017/09/The-Business-of-Artificial-Intelligence.pdf)
+Maar, B., Ward M. (2019). *Artificial Intelligence in Practice. How 50 successful companies used artificial intelligence to solve problems.* Wiley
+Stuart, R., & Peter, N. *Artificial Intelligence: A Modern Approach*. 2021. Global Edition.

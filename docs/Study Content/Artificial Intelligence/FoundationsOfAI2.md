@@ -9,7 +9,12 @@ sort: 5
 
 ### 1. Introduction
 
-Today's independent study material focusses on the concept of symbolic/non-symbolic AI, and intelligent agents. You will approximately spend 4 hours on the material. We advise you to work on your first draft of the creative brief for the remainder of the day.
+Today's independent study material focusses on the concept of symbolic/non-symbolic AI, and intelligent agents. You will approximately spend 4 hours on the material.
+During the DataLab 3 you will be asked to present the first part of the creative brief, therefore its is strictly advised to work on your first draft for the remainder of the day.
+Requirements for the presentation:
+- Analysis of an AI topic within the movie Minority Report;
+- The feasibility of the AI topic and the explanation of how this AI topic or a similar AI topic is being implemented within a specific business setting.
+You will be given ONLY 7 minutes to present your first draft.
 
 ***
 
@@ -88,6 +93,6 @@ Explain your answer.
 ***
 
 ## __Literature__
-Minsky, M. L. (1991). Logical versus analogical or symbolic versus connectionist or neat versus scruffy. AI magazine, 12(2), 34-34.
+Minsky, M. L. (1991). *Logical versus analogical or symbolic versus connectionist or neat versus scruffy.* AI magazine, 12(2), 34-34.
 
-Stuart, R., & Peter, N. Artificial Intelligence: A Modern Approach. 2021. Global Edition.
+Stuart, R., & Peter, N. *Artificial Intelligence: A Modern Approach.* 2021. Global Edition.

@@ -8,8 +8,7 @@ sort: 2
 <img src="./images/books_banner.png" alt="Books banner" width="600">
 
 ### 1. Introduction
-
-xxxx
+During today's self-study day you will be busy with reading various business cases about AI applications by different companies. The content of today, will give you some inspiration for your final assignment.
 If you have questions regarding the study material, you can send us an email or attend the Q&A session at the end of each self-study day. During the Q&A session, we will extensively discuss the independent study material. For details on availability see Project Brief.
 ### 2. Application of AI by businesses
 
@@ -30,3 +29,4 @@ __2d__ Read the Part 6 of Artificial Intelligence in Practice: How 50 Successful
 ***
 
 ## __Literature__
+Maar, B., Ward M. (2019). *Artificial Intelligence in Practice. How 50 successful companies used artificial intelligence to solve problems.* Wiley

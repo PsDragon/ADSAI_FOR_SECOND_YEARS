@@ -15,7 +15,7 @@ Enable you to understand, manipulate and create:
 Please follow the links below to continue the classs:
 1. Intoduction to concepts: 1 hour
 2. Workshop: 6 hours
-3. Mock-Assessment: 1 hours
+3. Mock-assessment: 1 hours
 
 
 Good luck!
@@ -72,7 +72,6 @@ In case you have any questions left [ask us or notify us of any issues you're ha
 
 ## Resources
 - [https://swirlstats.com/students.html](https://swirlstats.com/students.html)
-- [A Very Short Introduction to R](http://swirlstats.com/scn/A_(very)_short_introduction_to_R.html) and the accompanying [Github repository] (https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R/blob/master/documents/A%20(very)%20short%20introduction%20to%20R.pdf)
 - [Swirl](https://swirlstats.com/help.html)
 - http://swirlstats.com/scn/A_(very)_short_introduction_to_R.html
 - Learning Statistics with R, by D. Navarro (2018):  https://learningstatisticswithr.com/  

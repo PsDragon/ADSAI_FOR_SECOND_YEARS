@@ -23,7 +23,7 @@ Today we'll learn how to create the following components of any DS project. If y
 
 Good luck!
 
-In case you have any questions first ask your peers before you [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) regarding the studie content. Make sure to include the name of the year, block and github page when you report the issue or question.
+In case you have any questions first ask your peers before you [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) regarding the studie content. Make sure to include the name of the year, block and github page in the title when you report the issue or question.
 
 # 1) Forming a Problem Statement
 

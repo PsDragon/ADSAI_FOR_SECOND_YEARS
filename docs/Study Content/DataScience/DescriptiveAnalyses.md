@@ -1,15 +1,21 @@
 ---
-sort: 12
+sort: 6
 ---
 
-# Descriptive Analysis
+# Descriptive Analyses & Visualisations
 
 We start of with a comfortable introduction to TOPICS by lecture. Subsequently, we will focus on putting our new knowledge into practice by XXXXXXXXXXXXXX. In the workshop you will be introduced to YYYYYYYYYYY.
 
+## 0) Learning Objectives
+Fundamental of Exploratory Data Analysis, specifically you will learn to understand and apply:
+1. Data Cleaning
+2. Descriptive statistics: Measures of central tendancy and spread
+3. Descriptive visualisations
+
 Please follow the links below to continue the classs:
-1. [Lecture](LINK): X hours
-2. [Workshop](LINK): Y hours
-3. [Mock-Assessment](LINK): Z hours
+1. Introduction: 1 hours
+2. Workshop: Y hours
+3. Mock-Assesment: Z hours
 
 
 Good luck!
@@ -17,75 +23,55 @@ Good luck!
 In case you have any questions please first ask your peers or (when they don't respond timely) [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the course, workshop and question you have or the problem you're experiencing.
 
 
-# Data Science X, Self-Study Day Y: Lecture - Z
+## 1) Introduction
 
 This lecture/workshop/session will focus on XXXXXXX. We are going to cover YYYYYYYYYYYYYYY and apply those concepts to a mock-assessment.
 
-In case you have any questions please first ask your peers or (when they don't respond timely) [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the course, workshop and question you have or the problem you're experiencing.
+### Measures of Central tendancy
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kn83BA7cRNM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## 0) Watch or attend the [opening lecture](LINK TO LECTURE MATERIAL HERE)
-A DESCRIPTION OF LECTURE
+### Measures of Spread
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R4yfNi_8Kqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## 1) MORE LECTURE MATERIAL TO CONSUMER IF RELEVANT
-[NAME OF TOPIC](LINK TO LECTURE MATERIAL HERE)
+### Visualisating data
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hEWY6kkBdpo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## 2) Next steps: XXXXXXXXXXX
-Now its time for [the workshop part](LINK TO WORKSHOP)!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMkllhBI91Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-## Further reading & other relevant information:
-1. [Content](LINK): DESCRIPTION OF WHAT THIS IS, WHY IT IS RELEVANT AND FOR WHO
-
-## References:
-- REFS
-
-Course code: AAIDM1_DSX
-
-# Data Science X, Self-Study Day Y: Workshop - TOPIC
+## 2) Workshop
 
 This lessons is about XXXXXXXXXXXXXXXX. After which you should be able to YYYYYYYYYYYY.
 
 In case you have any questions please first ask your peers or (when they don't respond timely) [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the course, workshop and question you have or the problem you're experiencing.
 
-## 0) Step 1
+### Step 1
 Download the R swirl course [Getting and Cleaning Data](https://swirlstats.com/scn/getclean.html) by running the following code in the R-studio console:
 ```R
 swirl::install_course("Getting and Cleaning Data")
 ```
 
-Do module 1
+Complete module 1.
 
-## 0) Step 0
+### Step 2
+Download the R swirl course [Data Analysis](https://github.com/swirldev/swirl_courses/tree/master/Data_Analysis) lessons directly from the Swirl Git repo and install the lessons manually. Then complete all 3 modules: Central Tendancy, Data Visualisation and Dispersion.
+
+### Step 3
 Download the R swirl course [Exploratory Data Analysis](https://swirlstats.com/scn/getclean.html) by running the following code in the R-studio console:
 ```R
 swirl::install_course("Exploratory Data Analysis")
 ```
 
-# Next Steps
-1. Complete module 1 to 10
-2. LINK TO MOCK-ASSESSMENT IF APPLICABLE
-
-## Further reading & other relevant information:
-1. [Content](LINK): DESCRIPTION OF WHAT THIS IS, WHY IT IS RELEVANT AND FOR WHO
-
-## References:
-- REFS
-
-Course code: AAIDM1_DSX
+Complete module 1 to 5
 
 
-# Data Science X, Self-Study Day X: Mock-Assesment - TOPIC
+That was it for today, tomorrow we'll continue until module 10 and then we'll perform an exploratory data analysis on the data for our project statement.
 
-This Mock-assessment is about XXXXXXXXXXX
 
-In case you have any questions please first ask your peers or (when they don't respond timely) [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the course, workshop and question you have or the problem you're experiencing.
+In case you have any questions left [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the year, block and question you have or the problem you're experiencing in the title.
 
-## 0) STEP/QUESTION/EXCERCISE 0
-BLA BLA BLA
-
-## 1) NEXT STEP/QUESTION/EXCERCISE?
-BLA BLA BLA
-
-## References:
-- YYYYYYYYYYYYY
-Course code: AAIDM1_DSX
+## Resources
+- [https://swirlstats.com/students.html](https://swirlstats.com/students.html)
+- [Swirl](https://swirlstats.com/help.html)
+- http://swirlstats.com/scn/A_(very)_short_introduction_to_R.html
+- Learning Statistics with R, by D. Navarro (2018):  https://learningstatisticswithr.com/  
+- Discovering Statistics using R, A. Fields et al (2012): https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067  

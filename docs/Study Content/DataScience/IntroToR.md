@@ -13,7 +13,7 @@ it's really a matter of what you want to do:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1gdKC5O0Pwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 0) Get R
-So, we'll be using R for exploring the basics of data science. Specifically, we will use a package called Swirl will be using In order to run Swirl, you must have R 3.1.0 or later installed on your computer.[So install R, you can do so by clicking here](https://cran.rstudio.com/)
+So, we'll be using R for exploring the basics of data science this block. Specifically, we will use a package called Swirl will be using In order to run Swirl, you must have R 3.1.0 or later installed on your computer.[So install R, you can do so by clicking here](https://cran.rstudio.com/)
 
 For help installing R, check out one of the following videos (courtesy of Roger Peng at Johns Hopkins University):
 - Installing R on [Windows](https://youtu.be/mfGFv-iB724)
@@ -26,7 +26,8 @@ If you need to install RStudio, you can do so [here](https://www.rstudio.com/pr
 Tip: [change the layout](https://youtu.be/7LkAe4oAlP4) to a dark hue so you reduce the eye strain you experience over time.
 
 ## 2) Install swirl
-Swirl is an interactive package for R which allows us to create interactive lessons using a basic for of AI called a Reactive Machine. Swirl will ask you a question, you respond with some input based on which swirl will respond with some output. The program doesn't learn by itself so please first ask your peers or (when they don't respond timely) [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the course, workshop and question you have or the problem you're experiencing.
+Swirl is an interactive package for R which allows us to create interactive lessons using a basic for of AI called a Reactive Machine. Swirl will ask you a question, you respond with some input based on which swirl will respond with some output.
+The program doesn't learn by itself so please first ask your peers or (when they don't respond timely) [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the course, workshop and question you have or the problem you're experiencing.
 
 Open RStudio and type the following into the console:
 ```R

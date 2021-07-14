@@ -41,14 +41,15 @@ The first draft of the creative brief should include:
 
 1. Analysis of an AI topic within the movie Minority Report;
 2. The feasibility of the AI topic and the explanation of how this AI topic or a similar AI topic is being implemented within a specific business setting.
+3. Outline of the report
 
-The presentation of the first draft of the creative brief will take a place during the DataLab 3 on the 14th of September (Tuesday). 
+The presentation of the first draft of the creative brief will take a place during the DataLab 3 on the 14th of September (Tuesday).
 
 ***
 
 ## __Literature__
 
 Buttram, C., MacMillan III, D., & Thompson, T. (2012, November).
-Source Credibility: How To Select The Best Sources. University of North Alabama Center for Writing Excellence. https://www.una.edu/writingcenter/docs/Writing-Resources/Source%20Credibility.pdf
+*Source Credibility: How To Select The Best Sources.* University of North Alabama Center for Writing Excellence. https://www.una.edu/writingcenter/docs/Writing-Resources/Source%20Credibility.pdf
 
-Spielberg, S. (Director). (2002). Minority Report [Film]. Twentieth Century Fox.  
+Spielberg, S. (Director). (2002). *Minority Report [Film].* Twentieth Century Fox.  

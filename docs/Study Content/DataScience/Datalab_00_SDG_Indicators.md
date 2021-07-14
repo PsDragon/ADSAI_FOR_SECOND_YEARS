@@ -8,7 +8,13 @@ Data Science X, Datalab Day Y:
 
 We start of with an short introduction to formulating a problem statement based on the given domain(s) of your SDG indicator(s). Subsequently, we will focus on putting our new knowledge into practice by forming a research question. Then we will use both To create a the introduction component for your data-lab project: the conference Poster.
 
-Today we'll undertake the following activities. If you exceed the estimated duration and feel like you are squeezed for time, feel free to ask us for help:
+## 0) Learning Objectives
+1. Enable you to research your domain
+2. Enable you to write a problem statement
+3. Enable you to wirte a research question
+4. Enable you to write an introduction
+
+Today we'll learn how to create the following components of any DS project. If you exceed the estimated duration and feel like you are squeezed for time, feel free to ask us for help:
 1. Problem Statement: 3 hours
 2. Research Question: 1 hours
 3. Introduction: 2 hours
@@ -19,7 +25,7 @@ Good luck!
 
 In case you have any questions first ask your peers before you [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) regarding the studie content. Make sure to include the name of the year, block and github page when you report the issue or question.
 
-# 0) Forming a Problem Statement
+# 1) Forming a Problem Statement
 
 We start with focussing on how to create value with our data science solution. That starts with learning about how to form a problem statement. Next we are going to apply the techniques below to fill in our Part of that is exploring the domain(s) we are working in because the context in which . We are going to cover YYYYYYYYYYYYYYY and see how we can apply those concepts to create a solution to a component of our data-lab project.
 

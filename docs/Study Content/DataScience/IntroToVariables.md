@@ -2,57 +2,58 @@
 sort: 5
 ---
 
-# Intro to Variables
+# Intro to Variables and Dataframes
 
-We start of with a comfortable introduction to TOPICS by lecture. Subsequently, we will focus on putting our new knowledge into practice by XXXXXXXXXXXXXX. In the workshop you will be introduced to YYYYYYYYYYY.
+We start of with a brief recap of what we learned in the [Intro to R](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/IntroToR.html). After that we are going to learn about and work with different types of variables and data frames to TOPICS by lecture. Subsequently, we will focus on putting our new knowledge into practice by creating your own toy data-frame.
+
+## 0) Learning Objectives:
+Enable you to understand, manipulate and create:
+1. variables
+2. vectors
+3. dataframes
 
 Please follow the links below to continue the classs:
-1. [Lecture](LINK): X hours
-2. [Workshop](LINK): Y hours
-3. [Mock-Assessment](LINK): Z hours
+1. Intoduction to concepts: 1 hour
+2. Workshop: 6 hours
+3. Mock-Assessment: 1 hours
 
 
 Good luck!
 
 In case you have any questions please first ask your peers or (when they don't respond timely) [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the course, workshop and question you have or the problem you're experiencing.
 
+## 1) Introduction
+### 1.1 Variables
+The video covers the fundamental concepts of variables from a mathemathical perspective.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tHYis-DP0oU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The next video zooms into the descpline of data & computer science; more specifically: how variables work in R.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZxV-kf0yBss" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-# Data Science X, Self-Study Day Y: Lecture - Z
+### 1.2 vectors
+Whereas a variable stores a single value, a vector stores multiple values of the same kind in one dimension.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w5dOALbZ9HE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-This lecture/workshop/session will focus on XXXXXXX. We are going to cover YYYYYYYYYYYYYYY and apply those concepts to a mock-assessment.
+### 1.2 Matrices
+Whereas a vector stores multiple values in a single dimension, matrices store multiple values in *two* dimensions. So it's essential a table, it's exciting stuff.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7KL17QZNqg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-In case you have any questions please first ask your peers or (when they don't respond timely) [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the course, workshop and question you have or the problem you're experiencing.
+### 1.4 Dataframes
+And finally there's the dataframe which can store different types of data in two dimensions.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9f2g7RN5N0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## 0) Watch or attend the [opening lecture](LINK TO LECTURE MATERIAL HERE)
-A DESCRIPTION OF LECTURE
+## 2) Workshop - Variables, Vectors and Dataframes
 
-## 1) MORE LECTURE MATERIAL TO CONSUMER IF RELEVANT
-[NAME OF TOPIC](LINK TO LECTURE MATERIAL HERE)
+Install the following course and do the modules 1, 4 and 7.
 
-## 2) Next steps: XXXXXXXXXXX
-Now its time for [the workshop part](LINK TO WORKSHOP)!
-
-
-## Further reading & other relevant information:
-1. [Content](LINK): DESCRIPTION OF WHAT THIS IS, WHY IT IS RELEVANT AND FOR WHO
-
-## References:
-- REFS
-
-Course code: AAIDM1_DSX
-
-# Data Science X, Self-Study Day Y: Workshop - Variables
-
-This lessons is about Variables. After which you should be able to understand different types of variables; and how you get and clean.
-
-In case you have any questions please first ask your peers or (when they don't respond timely) [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the course, workshop and question you have or the problem you're experiencing.
-
-## 0) Step 0
-Download the R swirl course [Getting and Cleaning Data](https://swirlstats.com/scn/getclean.html) by running the following code in the R-studio console:
 ```R
-swirl::install_course("Getting and Cleaning Data")
+  > swirl::install_course("R Programming")
 ```
+
+ In case you have any questions first ask your peers before you [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) regarding the studie content. Make sure to include the name of the year, block and github page in the title when you report the issue or question.
+
+
 
 # Next Steps
 1. Complete module 1
@@ -69,9 +70,18 @@ Course code: AAIDM1_DSX
 
 # Data Science X, Self-Study Day X: Mock-Assesment - TOPIC
 
-This Mock-assessment is about XXXXXXXXXXX
+This mock-assessment is about applying the concepts we learned today to the real-world. Today we're interested in your day, what did you have for lunch or breakfast for example? Sounds straightforward right?
 
-In case you have any questions please first ask your peers or (when they don't respond timely) [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the course, workshop and question you have or the problem you're experiencing.
+Create an R script with the following
+
+1. Create a variable called 'lunch' with a string describing an item you had for lunch: food only
+2. Delete the variable
+3. Create a vector named 'drinks' listing all you drinks you ate today
+4. Create a vector named 'foods' listing all you food you ate today
+5. Create a matrix containing the food and drinks you had today
+6. Add the times when you ate or drank something
+
+In case you have any questions left [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the year, block and question you have or the problem you're experiencing in the title.
 
 ## 0) STEP/QUESTION/EXCERCISE 0
 BLA BLA BLA

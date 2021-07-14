@@ -47,6 +47,14 @@ This lessons is about XXXXXXXXXXXXXXXX. After which you should be able to YYYYYY
 
 In case you have any questions please first ask your peers or (when they don't respond timely) [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the course, workshop and question you have or the problem you're experiencing.
 
+## 0) Step 1
+Download the R swirl course [Getting and Cleaning Data](https://swirlstats.com/scn/getclean.html) by running the following code in the R-studio console:
+```R
+swirl::install_course("Getting and Cleaning Data")
+```
+
+Do module 1
+
 ## 0) Step 0
 Download the R swirl course [Exploratory Data Analysis](https://swirlstats.com/scn/getclean.html) by running the following code in the R-studio console:
 ```R

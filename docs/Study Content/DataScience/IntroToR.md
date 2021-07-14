@@ -78,7 +78,7 @@ Now start the 'A (very) short introduction to R' course, module 1 by typing:
 	> 1
 	> 1
 ```
-Run through the course by completing all 3 modules. In case you have any questions please first ask your peers or (when they don't respond timely) [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the course, workshop and question you have or the problem you're experiencing.
+Run through the course by completing all 3 modules. In case you have any questions first ask your peers before you [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) regarding the studie content. Make sure to include the name of the year, block and github page in the title when you report the issue or question.
 
 # 6) The end
 That's all for lesson 1. See you in Datalab!

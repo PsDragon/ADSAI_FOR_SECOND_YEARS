@@ -18,7 +18,7 @@ Each 6-8 hour self-study day is dedicated to a specific lesson which generally c
 How each specific lesson is structured depends on the nature of the content and learning goals. Usually however, these components can be found as seperate Github pages, but these components can also be combined into 1, 2 or 3 pages. Today for example, we will have a combined Lecture & mock-assessment of about 2-3 hours and a Workshop of 1-2 hours.
 
 ## 3) More info?
-Look at the creative brief for more info about the content or ask us a [Question](https://github.com/BredaUniversity/AAI-DM/issues/new) (make sure to include the course, class and relevant keywords in the title) about the course content.
+Look at the creative brief for more info about the content or ask us a [Question](https://github.com/BredaUniversity/AAI-DM/issues/new) (make sure to include the year, block and github page in the title) about the course content.
 
 ## 4) Watch or attend the [opening lecture](https://github.com/BredaUniversity/AAI-DM/blob/881590f3c6c3d682ef56357e4c04e237fa570e27/docs/Year1/BlockA/DataScience/Courses/DS1/Day1/DS1%20-%20Lecture%201;%20The%20world%20in%20data.pptx)
 

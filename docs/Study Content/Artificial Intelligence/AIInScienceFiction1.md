@@ -39,10 +39,10 @@ Tip: for more information on the credibility of sources, see <a href="./document
 
 The first draft of the creative brief should include:
 
-1. AI topic (e.g. technology, method, practice etc.)
-2. Outline of your essay
+1. Analysis of an AI topic within the movie Minority Report;
+2. The feasibility of the AI topic and the explanation of how this AI topic or a similar AI topic is being implemented within a specific business setting.
 
-The deadline for the first draft of the creative brief is 14th of September (Tuesday) at 5pm.
+The presentation of the first draft of the creative brief will take a place during the DataLab 3 on the 14th of September (Tuesday). 
 
 ***
 

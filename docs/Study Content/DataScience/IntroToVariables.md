@@ -13,7 +13,7 @@ Enable you to understand, manipulate and create:
 3. Matrices
 4. dataframes
 
-Please follow the links below to continue the classs:
+Table of contents:
 1. Intoduction to concepts: 1 hour
 2. Workshop: 6 hours
 3. Mock-assessment: 1 hours

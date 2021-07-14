@@ -2,7 +2,7 @@
 sort: 4
 ---
 
-## __Quiz on Scientific writing. Q&A session on the report __
+## __AI in Science Fiction (4): Quiz on Scientific writing. Q&A session on the report__
 \
 <img src="./images/datalab_banner.jpg" alt="Books banner" width="600"/>
 

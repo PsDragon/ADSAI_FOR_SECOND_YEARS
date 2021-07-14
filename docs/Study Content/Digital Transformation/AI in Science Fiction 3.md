@@ -2,7 +2,7 @@
 sort: 4
 ---
 
-## __ Quizzes on Scientific writing. Presentations on the first draft of the report __
+## __AI in Science Fiction (3): Quizzes on Scientific writing. Presentations on the first draft of the report__
 \
 <img src="./images/datalab_banner.jpg" alt="Books banner" width="600"/>
 

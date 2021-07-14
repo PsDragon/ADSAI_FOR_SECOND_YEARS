@@ -9,7 +9,10 @@ sort: 2
 
 ### 1. Introduction
 During today's self-study day you will be busy with reading various business cases about AI applications by different companies. The content of today, will give you some inspiration for your final assignment.
+
 If you have questions regarding the study material, you can send us an email or attend the Q&A session at the end of each self-study day. During the Q&A session, we will extensively discuss the independent study material. For details on availability see Project Brief.
+***
+
 ### 2. Application of AI by businesses
 
 __2a__ Read the Part 2 of Artificial Intelligence in Practice: How 50 Successful Companies Used AI and Machine Learning to Solve Problems by Bernard Marr & Matt Ward (2019). After reading the chapter, answer the following questions:

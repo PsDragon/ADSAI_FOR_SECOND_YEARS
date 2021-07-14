@@ -8,7 +8,9 @@ sort: 4
 
 ### 1. Introduction
 
-In today's DataLab session, you will complete 2 Kahoot quizzes for the Bronze challenge. At the beginning of DataLab 3 you will complete 2 Kahoot quizzes. The first quiz is focused on Rules of writing and the Bias-free language. Furthermore, you will present the first draft of your assignment and continue working on the creative brief of AI&DT: AI & Science Fiction. At the end of the day, from 16:00 to 17:00, we will have a moment to reflect on DataLab 3 and ask questions during the Q&A.
+In today's DataLab session, you will complete 2 Kahoot quizzes for the Bronze challenge. At the beginning of DataLab 3 you will complete 2 Kahoot quizzes. The first quiz is focused on Rules of writing and the Bias-free language. Furthermore, you will present the first draft of your assignment and continue working on the creative brief of AI&DT: AI & Science Fiction.
+
+At the end of the day, from 16:00 to 17:00, we will have a moment to reflect on DataLab 3 and ask questions during the Q&A.
 
 
 ***
@@ -34,6 +36,7 @@ Prior to the DataLab 3, you will receive the information from your lecturer rega
 #### 3. Reflection and Q&A (16:00-17:00)
 
 __3a__ Ask lecturers about the assignment
+
 __3b__ Choose, and provide an answer to at least of the following questions:
 
 1. What surprised you today, and why?

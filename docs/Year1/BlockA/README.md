@@ -37,10 +37,8 @@ Week 6-8: [Programming in Python](#week-6--programming-in-python)
 
 
 ## Tuesday
-- [topic 1](https://www.buas.nl/en/games)
-- [topic 2](#libraries--frameworks)
-  - [topic 2.1](#graphics)
-  - [topic 2.2](#ecs)
+- [AI in Science Fiction (3): Quizzes on Scientific writing. Presentations on the first draft of the report](../../Study%20Content/Digital%20Transformation/AI%20in%20Science%20Fiction%20(3).html)
+
 
 ## Wednesday
 - [Scientific writing (2): Citation. Mechanics of style of effective writing](../../Study%20Content/Digital%20Transformation/Scientific%20writing%202.html)
@@ -50,10 +48,8 @@ Week 6-8: [Programming in Python](#week-6--programming-in-python)
 
 
 ## Friday
-- [topic 1](https://www.buas.nl/en/games)
-- [topic 2](#libraries--frameworks)
-  - [topic 2.1](#graphics)
-  - [topic 2.2](#ecs)
+- [AI in Science Fiction (4): Quiz on Scientific writing. Q&A session on the report. ](../../Study%20Content/Digital%20Transformation/AI%20in%20Science%20Fiction%20(4).html)
+
 
 # Week 3 : Data Science
 

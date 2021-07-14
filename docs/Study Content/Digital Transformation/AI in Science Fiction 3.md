@@ -53,5 +53,3 @@ Tip: the exercise is format-free, meaning you can answer in any way or form you 
 </div>
 
 ***
-
-## __Literature__

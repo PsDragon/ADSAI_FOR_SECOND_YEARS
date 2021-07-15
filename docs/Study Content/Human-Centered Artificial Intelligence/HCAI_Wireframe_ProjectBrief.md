@@ -2,4 +2,4 @@
 sort: 20
 ---
 
-# DS2: Machine Learning Analysis - Project Brief
+# HCAI 1: Wireframe - Project Brief

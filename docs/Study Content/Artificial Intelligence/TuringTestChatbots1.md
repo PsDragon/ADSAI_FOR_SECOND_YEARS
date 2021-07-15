@@ -13,7 +13,7 @@ For the second half of the day, you are going to read the famous article Computi
 
 ***
 
-### 2. Article 
+### 2. Article
 
 The rise of artificial intelligence forces us to rethink what robots mean to society and what their role is to be. They are far better at arithmetic, but are they really as intelligent as us? What constitutes intelligence? And should we fear being replaced by these digital machines in the future? Alan Turing was the first to examine the relationship between human and digital machines.
 
@@ -51,9 +51,9 @@ Tip: if you are having difficulties reading the mathematical equations or unders
 ***
 
 ### __Literature__
-Diaz, L. (2014, May). How to Take Notes of Videos. USC Kortschak Center for Learning and Creativity.
+Diaz, L. (2014, May). *How to Take Notes of Videos. USC Kortschak Center for Learning and Creativity.*
 http://kortschakcenter.usc.edu/wp-content/uploads/2014/05/Video-Note-taking.pdf
 
-Keshav, S. (2007). How to read a paper. ACM SIGCOMM Computer Communication Review, 37(3), 83-84.
+Keshav, S. (2007). *How to read a paper.* ACM SIGCOMM Computer Communication Review, 37(3), 83-84.
 
-Turing, A. M. (2009). Computing machinery and intelligence. In Parsing the Turing test (pp. 23-65). Springer, Dordrecht.
+Turing, A. M. (2009). *Computing machinery and intelligence. In Parsing the Turing test* (pp. 23-65). Springer, Dordrecht.

@@ -121,7 +121,7 @@ __Books/articles/webpages etc.:__
 ***
 
 ## __Codebook__
-|Number|Variable           |Description               |
+|Number|Variable           |Description              |
 |------|-------------------|-------------------------|
 |1     |ClientKey          |Client ID                |
 |2     |ClientVoornamen    |Client first name        |

@@ -3,9 +3,9 @@ sort: 7
 ---
 
 # __Ethics & Law__
-While AI is bringing various benefits to different companies and businesses, it also presents unique ethical challenges related to data and AI. Doing AI ethics right is not just a moral responsibility: it's obligatory of every business. Therefore, it’s crucial to have ethical and legal knowledge when working in the field of AI and data science. That is the core focus of this module - to acquire knowledge in ethics and responsible AI.
+While data is bringing various benefits to different companies and businesses, it also presents unique ethical and legal challenges. Doing ethics right is not just a moral responsibility: it's obligatory of every business. Therefore, it’s crucial to have ethical and legal knowledge when working in the field of data science. That is the core focus of this module - to acquire knowledge in ethics and law.
 
-Throughout the duration of the module, you will be reading the recommended literature related to AI and Data Science. The knowledge will be used during in-class debates (within the Data Lab Days) as well as to complete the final assignment.
+Throughout the duration of the module, you will be reading the recommended literature related Data Science. The knowledge will be used during in-class debates (within the Data Lab Days) as well as to complete the final assignment.
 
 ## __Assignment__
 
@@ -17,9 +17,15 @@ __Requirements:__
 
 - The checklist needs to be based on the literature provided during the module, therefore it's important to provide sources and cite them according to APA standards;
 
-- Ethical aspects that are important for this project should be explained;
+- Ethical and legal aspects that are important for this project should be explained;
 
-- Ethical aspects that are not important for the project should be explained;
+- Ethical and legal aspects that are not important for the project should be explained;
+
+-  Facts, reasons, examples, explanations, and evidence are provided;
+
+- Argumentation is based on important facts, details, examples, and explanations from multiple authoritative sources;
+
+-  The  students need to come up with improvements of the approach based on argumentation;
 
 - The checklist needs to be filled in.  
 
@@ -31,19 +37,7 @@ __Debates__
 
 Throughout the block B you are required to participate in  debates during dedicated Data Lab days. At the beginning  of  Block B, you will receive the class division for debates and your roles during  debates.
 
-Topics for debates:
-- Ethical Decision-Making;
-- Can AI Systems Be Ethical?
-- Ensuring Responsible AI in Practice
 
-**Each student is required to:**
-- Attend and participate in all  debates;
-- Provide facts, reasons, examples, explanations, and evidence during  debates;
-- Develop the topic of debates with important facts, details, examples, and explanations from multiple authoritative sources;
-- Differentiate facts from opinions and structure ideas and arguments in a sustained and logical fashion during debates;
-- Maintain a respectful and reasonable tone during debates;
-- Smoothly transition between arguments during debates;
-- Address the opposition’s, moderators, and listeners' concerns, expectations, and counterclaims during debates.
 
 ***
 

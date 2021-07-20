@@ -9,7 +9,11 @@ sort: 1
 
 ### 1. Introduction
 
-For the second half of the day, you will dive into the foundational concepts of database design, and Structured Query Language (SQL). You will start with the Design Databases With PostgreSQL course in Codeacademy, and work your way through some additional SQL exercises.
+For the second half of the day, you will dive into the foundational concepts of database design, and Structured Query Language (SQL). You will start with the Design Databases With PostgreSQL course in Codeacademy, and work your way through some additional SQL exercises, which focus on Data Definition Language (DDL) and Data Manipulation Language (DML) specific clauses.
+
+<img src="./images/sql_types_1.png" alt="Books banner" width="450"/>
+
+*Figure 1. Types of SQL.*
 
 ***
 
@@ -42,7 +46,7 @@ __2c__ Install a PostgreSQL compatible client:
 - [DBeaver](https://dbeaver.io/download/)
 - etc.
 
-### 3. Manipulate databases
+### 3. Manipulating a database
 
 __3a__ Complete the ```What is a Database?``` module in Codeacademy, which you can find [here](https://www.codecademy.com/paths/design-databases-with-postgresql/tracks/what-is-a-database/modules/welcome-to-design-databases-with-postgresql/informationals/welcome-to-design-databases-with-postgresql).
 

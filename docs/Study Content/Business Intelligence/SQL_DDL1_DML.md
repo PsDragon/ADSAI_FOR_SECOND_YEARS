@@ -27,7 +27,9 @@ __1b__ List three advantages/disadvantages of a using a relational database.
 
 __1c__ The start-up HomeRobot is looking for a lightweight relational database management system (RDBMS) that they can embed in their Internet-of-Things (IoT) application. They have asked you, as a seasoned data engineer/analyst, for advise; which RDBMS would you recommend to them? Explain your answer.
 
-### 2. Install PostgreSQL database server & client
+***
+
+### 3. Install PostgreSQL database server & client
 
 For this section of the Project Brief, you are going to install the PostgreSQL database server, and a so-called database client (e.g. PgAdmin).
 
@@ -46,7 +48,9 @@ __2c__ Install a PostgreSQL compatible client:
 - [DBeaver](https://dbeaver.io/download/)
 - etc.
 
-### 3. Manipulating a database
+***
+
+### 4. Manipulating a database
 
 __3a__ Complete the ```What is a Database?``` module in Codeacademy, which you can find [here](https://www.codecademy.com/paths/design-databases-with-postgresql/tracks/what-is-a-database/modules/welcome-to-design-databases-with-postgresql/informationals/welcome-to-design-databases-with-postgresql).
 
@@ -106,7 +110,7 @@ __3e__ After placing a UNIQUE constraint on one of the variables (named 'unique_
 
 ***
 
-### 3. Additional resources
+### 5. Additional resources
 
 Do you have time left, and have the desire to become a data wrangling SQL wizard, explore the following additional resources:
 

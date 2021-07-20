@@ -10,11 +10,15 @@ sort: 5
 ### 1. Introduction
 
 Today's independent study material focusses on the concept of symbolic/non-symbolic AI, and intelligent agents. You will approximately spend 4 hours on the material.
+
 During the DataLab 3 you will be asked to present the first part of the creative brief, therefore its is strictly advised to work on your first draft for the remainder of the day.
-Requirements for the presentation:
+
+__Requirements for the presentation:__
+
 - Analysis of an AI topic within the movie Minority Report;
 - The feasibility of the AI topic and the explanation of how this AI topic or a similar AI topic is being implemented within a specific business setting;
 - Outline of the report.
+
 You will be given ONLY 7 minutes to present your first draft.
 
 ***

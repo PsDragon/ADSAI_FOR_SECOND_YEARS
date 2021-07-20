@@ -17,9 +17,9 @@ For the second half of the day, you will dive into the foundational concepts of 
 
 A database is an organized collection of structured information, or data, typically stored in a computer system, such as your laptop. It is usually controlled by a database management system, also known as DBMS. Together, the data and the DBMS, along with the applications that are associated with them (e.g. PostgreSQL client), are referred to as a database system, often shortened to just database. In this section, you will explore the different types of databases, and their corresponding strengths and weaknesses.
 
-__1a__ a) what is a relational database, and b) how does it differ from a so-called NoSQL database? Explain your answer
+__1a__ a) What is a relational database, and b) how does it differ from a so-called NoSQL database? Explain your answer
 
-__1b__ List 3 advantages/disadvantages of a using a relational database.
+__1b__ List three advantages/disadvantages of a using a relational database.
 
 __1c__ The start-up HomeRobot is looking for a lightweight relational database management system (RDBMS) that they can embed in their Internet-of-Things (IoT) application. They have asked you, as a seasoned data engineer/analyst, for advise; which RDBMS would you recommend to them? Explain your answer.
 
@@ -121,6 +121,7 @@ __Books/articles/webpages etc.:__
 ***
 
 ## __Codebook__
+
 |Number|Variable           |Description              |
 |------|-------------------|-------------------------|
 |1     |ClientKey          |Client ID                |

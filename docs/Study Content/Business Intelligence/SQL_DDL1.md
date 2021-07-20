@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-## __SQL: Data Definition Language (DDL) clauses 1__
+## __SQL: Data Definition Language (DDL) clauses 1 & Data Manipulation Language (DML) clauses__
 \
 \
 <img src="./images/books_banner.png" alt="Books banner" width="600"/>

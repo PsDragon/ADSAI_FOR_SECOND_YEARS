@@ -15,17 +15,19 @@ For the second half of the day, you will dive into the foundational concepts of 
 
 *Figure 1. Types of SQL.*
 
+__1__ Complete the ```What is a Database?``` module in Codeacademy, which you can find [here](https://www.codecademy.com/paths/design-databases-with-postgresql/tracks/what-is-a-database/modules/welcome-to-design-databases-with-postgresql/informationals/welcome-to-design-databases-with-postgresql).
+
 ***
 
 ### 2. What is a database?
 
 A database is an organized collection of structured information, or data, typically stored in a computer system, such as your laptop. It is usually controlled by a database management system, also known as DBMS. Together, the data and the DBMS, along with the applications that are associated with them (e.g. PostgreSQL client), are referred to as a database system, often shortened to just database. In this section, you will explore the different types of databases, and their corresponding strengths and weaknesses.
 
-__1a__ a) What is a relational database, and b) how does it differ from a so-called NoSQL database? Explain your answer
+__2a__ a) What is a relational database, and b) how does it differ from a so-called NoSQL database? Explain your answer
 
-__1b__ List three advantages/disadvantages of a using a relational database.
+__2b__ List three advantages/disadvantages of a using a relational database.
 
-__1c__ The start-up HomeRobot is looking for a lightweight relational database management system (RDBMS) that they can embed in their Internet-of-Things (IoT) application. They have asked you, as a seasoned data engineer/analyst, for advise; which RDBMS would you recommend to them? Explain your answer.
+__2c__ The start-up HomeRobot is looking for a lightweight relational database management system (RDBMS) that they can embed in their Internet-of-Things (IoT) application. They have asked you, as a seasoned data engineer/analyst, for advise; which RDBMS would you recommend to them? Explain your answer.
 
 ***
 
@@ -33,16 +35,16 @@ __1c__ The start-up HomeRobot is looking for a lightweight relational database m
 
 For this section of the Project Brief, you are going to install the PostgreSQL database server, and a so-called database client (e.g. PgAdmin).
 
-__2a__ Watch the video Introduction to PostgreSQL by Adam Wilbert on LinkedIn Learning, and read the article [What is PostgreSQL?](https://www.postgresqltutorial.com/what-is-postgresql/).
+__3a__ Watch the video Introduction to PostgreSQL by Adam Wilbert on LinkedIn Learning, and read the article [What is PostgreSQL?](https://www.postgresqltutorial.com/what-is-postgresql/).
 
 [![Video 1.](./images/postgresql_linkedinlearning.png)](https://www.linkedin.com/learning/postgresql-essential-training/what-is-postgresql?u=36359204 "Click on link to open video!")
 *Video 1. Introduction to PostgreSQL by Adam Wilbert.*
 
-__2b__ Install the PostgreSQL database server:
+__3b__ Install the PostgreSQL database server:
 
 - [Install PostgreSQL on Windows](https://www.postgresqltutorial.com/install-postgresql/).
 
-__2c__ Install a PostgreSQL compatible client:
+__3c__ Install a PostgreSQL compatible client:
 
 - [PgAdmin](https://www.pgadmin.org/download/)
 - [DBeaver](https://dbeaver.io/download/)
@@ -52,11 +54,9 @@ __2c__ Install a PostgreSQL compatible client:
 
 ### 4. Manipulating a database
 
-__3a__ Complete the ```What is a Database?``` module in Codeacademy, which you can find [here](https://www.codecademy.com/paths/design-databases-with-postgresql/tracks/what-is-a-database/modules/welcome-to-design-databases-with-postgresql/informationals/welcome-to-design-databases-with-postgresql).
+__4a__ What happens if you try to create a table with an existing name? Write your answer down.
 
-__3b__ What happens if you try to create a table with an existing name? Write your answer down.
-
-__3c__ Correct the mistakes in the following SQL statements:
+__4b__ Correct the mistakes in the following SQL statements:
 
 Example 1:
 
@@ -81,7 +81,7 @@ DELETE ClientKey FROM youth
 WHERE youth = 11;
 ```
 
-__3c__ The data analyst of the municipality of Oosterhout has created a new table that contains the demographic and geographic data of five youth care clients (See Table1, and Codebook). Clearly, something went wrong :weary:. Can you identify, and subsequently fix the problem with applying appropriate SQL clauses?
+__4c__ The data analyst of the municipality of Oosterhout has created a new table that contains the demographic and geographic data of five youth care clients (See Table1, and Codebook). Clearly, something went wrong :weary:. Can you identify, and subsequently fix the problem with applying appropriate SQL clauses?
 
 The table can downloaded as a csv.-formatted file, [here](../../Study%20Content/Business%20Intelligence/data/SQL_DDL1_exercise1.csv).
 
@@ -104,9 +104,9 @@ Tip: Want to import and/or export the table into the PostgreSQL client, see the 
 
 *Table 1. Table with demographic and geographic information from the youth care database*
 
-__3d__ What are constraints? List three of them, and explain why it would be beneficial to apply such as constraint?
+__4d__ What are constraints? List three of them, and explain why it would be beneficial to apply such as constraint?
 
-__3e__ After placing a UNIQUE constraint on one of the variables (named 'unique_constraint') in the table above, the data analyst of the municipality of Oosterhout, receives the following error message in his PostgreSQL client: ERROR: could not create unique index "unique_constraint". Can you explain the error? What could have possibly gone wrong? Multiple answers possible.
+__4e__ After placing a UNIQUE constraint on one of the variables (named 'unique_constraint') in the table above, the data analyst of the municipality of Oosterhout, receives the following error message in his PostgreSQL client: ERROR: could not create unique index "unique_constraint". Can you explain the error? What could have possibly gone wrong? Multiple answers possible.
 
 ***
 
@@ -124,7 +124,6 @@ __Instructional videos:__
 __Books/articles/webpages etc.:__
 - Batra, R. (2018). SQL primer: An accelerated introduction to SQL basics. (Freely available through BUAS' MetaSearch).
 - W3schools: [SQL Tutorial](https://www.w3schools.com/sql/default.asp).
-
 
 ***
 
@@ -145,9 +144,8 @@ __Books/articles/webpages etc.:__
 |11    |BuurtCode          |Neighborhood ID          |
 |12    |BuurtNaam          |Neighborhood name        |
 
-
 ***
 
 ## __Literature__
 
-Batra, R. (2018). SQL primer: An accelerated introduction to SQL basics.
+Batra, R. (2018). SQL primer: An accelerated introduction to SQL basics. (Freely available through BUAS' MetaSearch).

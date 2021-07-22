@@ -112,7 +112,7 @@ __3b__  How does the COUNT() function differ from the SUM() function? Write your
 
 By deploying SQL join statements you can get information from columns in more than one table. These operations are specified by placing the names of those tables that you want to join in the same FROM clause of a SELECT statement.
 
-<img src="./images/sql_joins.png" alt="Books banner" width="600"/>
+<img src="./images/sql_joins.PNG" alt="Books banner" width="600"/>
 
 *Figure 2. SQL joins & Set theory.*
 

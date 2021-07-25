@@ -124,11 +124,9 @@ __4a__ There is no difference between a JOIN and INNER JOIN statement. True or f
 
 __4b__ List at least two requirements for a PRIMARY KEY. Write your answer down (Hint: take a look at Table 1!).
 
-__4c__ The municipality of Oosterhout asks you, as the new data analyst, to build a relational database with the data from Table 1. How would you solve this task? Elaborate on your approach.
+__4c__ What happens if the tables you perform a UNION operator on have duplicate rows? Explain your answer.
 
-__4d__ What happens if the tables you perform a UNION operator on have duplicate rows? Explain your answer.
-
-__4e__ What is the main difference between the join operators (e.g. INNER JOIN, LEFT JOIN etc.) and the UNION operator? Write your answer down.
+__4d__ What is the main difference between the join operators (e.g. INNER JOIN, LEFT JOIN etc.) and the UNION operator? Write your answer down.
 
 ***
 

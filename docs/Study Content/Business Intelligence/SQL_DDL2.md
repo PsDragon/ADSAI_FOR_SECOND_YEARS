@@ -54,7 +54,7 @@ __2c__ Since there is a client who has multiple 'toewijzingen', there are repeat
 
 ### 3. What are database relationships?
 
-Relationships are the cornerstone of relational databases. Data analyst/engineers can query the database and get results that combine data from different tables into a single table. In the Design databases with PostgreSQL course on Codeacademy, you are made familiar with the three types of database relationships; One-to-one, Many-to-one, and Many-to-many.
+Relationships are the cornerstone of relational databases. Data analyst/engineers can query the database and get results that combine data from different tables into a single table. In the Design databases with PostgreSQL course on Codeacademy, you are made familiar with the three types of database relationships; One-to-one, many-to-one, and many-to-many.
 
 __3a__ The municipality of Oosterhout asks you to provide an brief presentation on relational databases to policymakers from the social domain. As part of your preparation your come up with three examples of for each database relationship type (See Table 2). Write your examples down.
 

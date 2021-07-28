@@ -23,14 +23,13 @@ Note: After completing Microsoft's data analyst associate tutorial, you should b
 
 ### 2. Introduction to Power BI
 
-__2a__ Watch the YouTube video 'What is Power BI' by Guy in a Cube.
+__2a__ Watch the YouTube video 'What is Power BI?' by Guy in a Cube.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vqz2d7pTOV8?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 >Businesses need data analysis more than ever. In this learning path, you will learn about the life and journey of a data analyst, the skills, tasks, and processes they go through in order to tell a story with data so trusted business decisions can be made. You will learn how the suite of Power BI tools and services are used by a data analyst to tell a compelling story through reports and dashboards, and the need for true BI in the enterprise (Microsoft Certified: Data Analyst Associate, Get started with Microsoft data analytics).
 
-
-__2b__ Complete the module ```Get started with Microsoft data analytics``` of the Microsoft Certified: Data Analyst Associate tutorial, which you can find [here](https://www.linkedin.com/learning/implementing-a-data-warehouse-sql-server-2019/store-information-in-a-data-warehouse?resume=false&u=36359204).
+__2b__ Complete the modules ```Get started with Microsoft data analytics``` and ```Get started building with Power BI``` of the Microsoft Certified: Data Analyst Associate tutorial, which you can find [here](https://docs.microsoft.com/en-us/learn/paths/data-analytics-microsoft/).
 
 __2c__ List at least one business intelligence dashboarding tool, and compare and contrast it with Power BI, taking in regards elements such as 'spatial data', 'cost', 'security' etc. Write your answer down in a maximum of 150 words.
 
@@ -38,7 +37,13 @@ __2c__ List at least one business intelligence dashboarding tool, and compare an
 
 ### 3. Prepare data for analysis in Power BI
 
-__3a__ Complete the module ```Prepare data for analysis``` of the Microsoft Certified: Data Analyst Associate tutorial, which you can find [here](https://www.linkedin.com/learning/implementing-a-data-warehouse-sql-server-2019/store-information-in-a-data-warehouse?resume=false&u=36359204).
+__3a__ Complete the modules ```Get data in Power BI``` and ```Clean, transform, and load data in Power BI``` of the Microsoft Certified: Data Analyst Associate tutorial, which you can find [here](https://docs.microsoft.com/en-us/learn/paths/prepare-data-power-bi/).
+
+There is a big difference between absorbing information and putting what you have learned into practice. Without doing the latter, the training you have received will go to waste. Therefore, you are going to apply your newly acquired Power BI knowledge on a famous Microsoft dataset/database called AdventureWorks.
+
+__3b__ Clone the following GitHub repository: [DA-100: Analyzing Data with Power BI](https://github.com/MicrosoftLearning/DA-100-Analyzing-Data-with-Power-BI).
+
+__3c__ Complete ```Module 2 - Get Data in Power BI``` lab exercise, which you can find [here](https://microsoftlearning.github.io/DA-100-Analyzing-Data-with-Power-BI/Instructions/Labs/01-prepare-data-with-power-query-in-power-bi-desktop.html).
 
 ### 4. Creating your own layout in Power BI
 

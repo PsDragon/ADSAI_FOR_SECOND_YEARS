@@ -1,5 +1,5 @@
 ---
-sort: 1
+sort: 2
 ---
 
 ## __SQL: Data Definition Language (DDL) clauses 1 & Data Manipulation Language (DML) clauses__

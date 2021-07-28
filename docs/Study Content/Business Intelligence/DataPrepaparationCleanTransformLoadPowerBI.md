@@ -45,6 +45,10 @@ __3b__ Clone the following GitHub repository: [DA-100: Analyzing Data with Power
 
 __3c__ Complete ```Module 2 - Get Data in Power BI``` lab exercise, which you can find [here](https://microsoftlearning.github.io/DA-100-Analyzing-Data-with-Power-BI/Instructions/Labs/01-prepare-data-with-power-query-in-power-bi-desktop.html).
 
+__3d__ Complete ```Module 3 - Clean, Transform, and Load Data in Power BI``` lab exercise, which you can find [here](https://microsoftlearning.github.io/DA-100-Analyzing-Data-with-Power-BI/Instructions/Labs/02-load-data-with-power-query-in-power-bi-desktop.html).
+
+***
+
 ### 4. Creating your own layout in Power BI
 
 __4a__ Explore the website of the municipality of Oosterhout, and take a closer look at their corporate design (e.g. colours, logo etc.).

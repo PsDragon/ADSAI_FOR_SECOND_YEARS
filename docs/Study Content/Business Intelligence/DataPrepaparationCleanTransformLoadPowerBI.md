@@ -2,7 +2,7 @@
 sort: 6
 ---
 
-## __Data preparation in Power BI & Clean, transform, and load data in Power BI__
+## __Getting started with Power BI & Prepare data for analysis with Power BI__
 \
 \
 <img src="./images/books_banner.png" alt="Books banner" width="600"/>

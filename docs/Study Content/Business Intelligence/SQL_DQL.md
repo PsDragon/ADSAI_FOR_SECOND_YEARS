@@ -1,5 +1,5 @@
 ---
-sort: 3
+sort: 4
 ---
 
 ## __SQL: Data Query Language (DQL) clauses__

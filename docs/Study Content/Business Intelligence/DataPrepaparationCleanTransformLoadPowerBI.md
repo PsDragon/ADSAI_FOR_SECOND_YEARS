@@ -11,7 +11,7 @@ sort: 6
 
 During this independent study day you will be introduced to one of the most popular business intelligence tools, Microsoft's Power BI. For the majority of Week 3, you will be following Microsoft's data analyst associate tutorial. This tutorial will teach you all the basic skills needed to build insightful and visually pleasing dashboards.
 
-<img src="./images/certification_microsoft.png" alt="Books banner" width="150"/>
+<img src="./images/certification_microsoft.png" alt="Books banner" width="250"/>
 
 *Figure 1. Microsoft Certified: Data Analyst Associate.*
 
@@ -62,7 +62,7 @@ __4c__ Create a document that contains a selection of meta information of the la
 
 As a data analyst it is important to identify the needs of your client (i.e. CRISP phase 1: Business Understanding – What does the business need?). What are useful KPI's? What does the term 'toewijzing' mean? Or when is somebody eligible to receive youth care within the municipality of Oosterhout? When you are able to answer these kind of questions, you will be much better equipped to deliver an insightful dashboard report.
 
-<img src="./images/CRISP-DM.png" alt="Layout" width="900"/>
+<img src="./images/CRISP-DM.png" alt="Layout" width="450"/>
 
 *Figure 2. CRISP-DM cycle.*
 

@@ -27,6 +27,9 @@ __2a__ Watch the YouTube video 'What is Power BI' by Guy in a Cube.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vqz2d7pTOV8?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+>Businesses need data analysis more than ever. In this learning path, you will learn about the life and journey of a data analyst, the skills, tasks, and processes they go through in order to tell a story with data so trusted business decisions can be made. You will learn how the suite of Power BI tools and services are used by a data analyst to tell a compelling story through reports and dashboards, and the need for true BI in the enterprise (Microsoft Certified: Data Analyst Associate, Get started with Microsoft data analytics).
+
+
 __2b__ Complete the module ```Get started with Microsoft data analytics``` of the Microsoft Certified: Data Analyst Associate tutorial, which you can find [here](https://www.linkedin.com/learning/implementing-a-data-warehouse-sql-server-2019/store-information-in-a-data-warehouse?resume=false&u=36359204).
 
 __2c__ List at least one business intelligence dashboarding tool, and compare and contrast it with Power BI, taking in regards elements such as 'spatial data', 'cost', 'security' etc. Write your answer down in a maximum of 150 words.

@@ -2,7 +2,7 @@
 sort: 2
 ---
 
-## __Youth Care Pilot: Research design, EDA, and codebook__
+## __DataLab 1: Research design, EDA, and codebook__
 \
 \
 <img src="./images/datalab_banner.jpg" alt="Datalab banner" width="600"/>
@@ -148,7 +148,7 @@ Each month, the provider declares the support provided for which the municipalit
 *B. Task-oriented variant*
 Task-oriented variant does not involve declaration via the iJw message system.
 
-Detailed information on the youth care processes, cn be found on the website of the  'istandaarden' https://informatiemodel.istandaarden.nl/iWmoJw30_Eb10/views/view_72094.html
+Detailed information on the youth care processes (in Dutch), a be found on the website of the [istandaarden](https://informatiemodel.istandaarden.nl/iWmoJw30_Eb10/views/view_72094.html).
 
 ***
 

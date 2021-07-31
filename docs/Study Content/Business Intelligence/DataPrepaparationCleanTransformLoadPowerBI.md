@@ -41,7 +41,7 @@ __2c__ List at least one business intelligence dashboarding tool, and compare an
 
 __3a__ Complete the modules ```Get data in Power BI``` and ```Clean, transform, and load data in Power BI``` of the Microsoft Certified: Data Analyst Associate tutorial, which you can find [here](https://docs.microsoft.com/en-us/learn/paths/prepare-data-power-bi/).
 
-There is a big difference between absorbing information and putting what you have learned into practice. Without doing the latter, the training you have received will go to waste. Therefore, you are going to apply your newly acquired Power BI knowledge on a famous Microsoft dataset/database called AdventureWorks. Each of the lab exercises (do not confuse them with the Datalab sessions!) take approximately 45 minutes to complete. 
+There is a big difference between absorbing information and putting what you have learned into practice. Without doing the latter, the training you have received will go to waste. Therefore, you are going to apply your newly acquired Power BI knowledge on a famous Microsoft dataset/database called AdventureWorks. Each of the lab exercises (do not confuse them with the Datalab sessions!) take approximately 45 minutes to complete.
 
 __3b__ Clone the following GitHub repository: [DA-100: Analyzing Data with Power BI](https://github.com/MicrosoftLearning/DA-100-Analyzing-Data-with-Power-BI).
 
@@ -49,25 +49,7 @@ __3c__ Complete ```Module 2 - Get Data in Power BI``` and ```Module 3 - Clean, T
 
 ***
 
-### 4. Creating your own layout in Power BI
-
-__4a__ Explore the website of the municipality of Oosterhout, and take a closer look at their corporate design (e.g. colours, logo etc.).
-
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: When you press the f12 key on a website, your browser opens the Developers Console. In most browsers, this will contain several tools that allows you to: identify the elements and their styles, see loaded resources, check memory consumption and rendering etc.
-</div>
-
-<img src="./images/f12_layout.png" alt="Layout" width="900"/>
-
-*Figure 2. Example of what happens when you press F12 on a website in a browser.*
-
-__4b__ Design a layout for the client's youth care Power BI dashboard, see the article [Creating Power BI layouts](https://thesqlgirl.com/2018/09/10/creating-powerbi-layouts/).
-
-__4c__ Create a document that contains a selection of meta information of the layout you created for exercise 4b (e.g. font, colour etc.).  
-
-***
-
-### 5. Additional resources
+### 4. Additional resources
 
 As a data analyst it is important to identify the needs of your client (i.e. CRISP phase 1: Business Understanding – What does the business need?). What are useful KPIs? What does the term 'toewijzing' mean? Or when is somebody eligible to receive youth care within the municipality of Oosterhout? When you are able to answer these kind of questions, you will be much better equipped to deliver an insightful dashboard report.
 

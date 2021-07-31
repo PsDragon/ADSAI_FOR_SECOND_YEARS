@@ -41,7 +41,7 @@ __2c__ List at least one business intelligence dashboarding tool, and compare an
 
 __3a__ Complete the modules ```Get data in Power BI``` and ```Clean, transform, and load data in Power BI``` of the Microsoft Certified: Data Analyst Associate tutorial, which you can find [here](https://docs.microsoft.com/en-us/learn/paths/prepare-data-power-bi/).
 
-There is a big difference between absorbing information and putting what you have learned into practice. Without doing the latter, the training you have received will go to waste. Therefore, you are going to apply your newly acquired Power BI knowledge on a famous Microsoft dataset/database called AdventureWorks.
+There is a big difference between absorbing information and putting what you have learned into practice. Without doing the latter, the training you have received will go to waste. Therefore, you are going to apply your newly acquired Power BI knowledge on a famous Microsoft dataset/database called AdventureWorks. Each of the lab exercises (do not confuse them with the Datalab sessions!) take approximately 45 minutes to complete. 
 
 __3b__ Clone the following GitHub repository: [DA-100: Analyzing Data with Power BI](https://github.com/MicrosoftLearning/DA-100-Analyzing-Data-with-Power-BI).
 

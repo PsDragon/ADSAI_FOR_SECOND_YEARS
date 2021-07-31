@@ -9,7 +9,7 @@ sort: 6
 
 ### 1. Introduction
 
-During this independent study day you will be introduced to one of the most popular business intelligence tools, Microsoft's Power BI. For the majority of Week 3, you will be following Microsoft's data analyst associate tutorial. This tutorial will teach you all the basic skills needed to build insightful and visually pleasing dashboards.
+During this independent study day you will be introduced to one of the most popular business intelligence tools, Microsoft's Power BI. For the majority of Week 3, you will be following Microsoft's data analyst associate tutorial. This tutorial will teach you all the basic skills needed to build insightful and visually pleasing dashboards:
 
 <img src="./images/certification_microsoft.png" alt="Books banner" width="250"/>
 
@@ -37,15 +37,15 @@ __2c__ List at least one business intelligence dashboarding tool, and compare an
 
 ### 3. Prepare data for analysis in Power BI
 
+> You will explore Power Query as you learn to extract data from different data sources and choose a storage mode and connectivity type. You will learn to profile, clean, and load data into Power BI in preparation for modeling your data (Microsoft Certified: Data Analyst Associate, Prepare data for analysis).
+
 __3a__ Complete the modules ```Get data in Power BI``` and ```Clean, transform, and load data in Power BI``` of the Microsoft Certified: Data Analyst Associate tutorial, which you can find [here](https://docs.microsoft.com/en-us/learn/paths/prepare-data-power-bi/).
 
 There is a big difference between absorbing information and putting what you have learned into practice. Without doing the latter, the training you have received will go to waste. Therefore, you are going to apply your newly acquired Power BI knowledge on a famous Microsoft dataset/database called AdventureWorks.
 
 __3b__ Clone the following GitHub repository: [DA-100: Analyzing Data with Power BI](https://github.com/MicrosoftLearning/DA-100-Analyzing-Data-with-Power-BI).
 
-__3c__ Complete ```Module 2 - Get Data in Power BI``` lab exercise, which you can find [here](https://microsoftlearning.github.io/DA-100-Analyzing-Data-with-Power-BI/Instructions/Labs/01-prepare-data-with-power-query-in-power-bi-desktop.html).
-
-__3d__ Complete ```Module 3 - Clean, Transform, and Load Data in Power BI``` lab exercise, which you can find [here](https://microsoftlearning.github.io/DA-100-Analyzing-Data-with-Power-BI/Instructions/Labs/02-load-data-with-power-query-in-power-bi-desktop.html).
+__3c__ Complete ```Module 2 - Get Data in Power BI``` and ```Module 3 - Clean, Transform, and Load Data in Power BI``` lab exercise, which you can find [here](https://microsoftlearning.github.io/DA-100-Analyzing-Data-with-Power-BI/).
 
 ***
 
@@ -75,7 +75,7 @@ As a data analyst it is important to identify the needs of your client (i.e. CRI
 
 *Figure 2. CRISP-DM cycle.*
 
-Do you have time left, and want to create a dashboard that can truly help the municipality of Oosterhout to improve their youth care policy, explore the following additional resources:
+Do you have time left, and want to create a dashboard that can help the municipality of Oosterhout to improve their youth care policy, explore the following additional resources:
 
 - Hilverdink, P., Daamen, W., & Vink, C. (2015). [Children and youth support and care in the Netherlands.](http://aaof.eseng.nl/dwd/youth_support_care.pdf) Utrecht: Netherlands Youth Institute.
 - Gervink, C. M. (2018). [The contemporary state of youth care: Impact of the decentralization on youth care employees: How decentralization of youth care influenced how youth care employees carry out their work and how they cope with the changes in their working conditions](https://essay.utwente.nl/74908/1/Gervink_MA_BMS.pdf). (Master's thesis, University of Twente).

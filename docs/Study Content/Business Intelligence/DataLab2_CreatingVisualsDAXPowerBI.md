@@ -2,7 +2,7 @@
 sort: 10
 ---
 
-## __DataLab 2: Creating visuals & DAX functions in Power BI__
+## __DataLab 2: Basic visuals & DAX in Power BI__
 \
 \
 <img src="./images/datalab_banner.jpg" alt="Books banner" width="600"/>

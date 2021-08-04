@@ -2,7 +2,7 @@
 sort: 8
 ---
 
-## __Model data in Power BI__
+## __Data modeling in Power BI__
 \
 \
 <img src="./images/books_banner.png" alt="Books banner" width="600"/>
@@ -15,7 +15,7 @@ In the second independent study day of Week 3 you will be made familiar with var
 
 ***
 
-### 2. Data modeling in Power BI
+### 2. Creating a data model & Writing DAX function in Power BI
 
 > Success with Power BI begins with a great data model. In this module, you will learn how to design a data model that is intuitive, high-performing, and simple to maintain. You will learn about using DAX language to create measures. Those measures will help you create a wide variety of analytic solutions. Additionally, you’ll learn how to improve performance with your Power Query data retrieval tasks.
 

@@ -2,7 +2,7 @@
 sort: 9
 ---
 
-## __Visualize data in Power BI__
+## __Visualizing data in Power BI__
 \
 \
 <img src="./images/books_banner.png" alt="Books banner" width="600"/>

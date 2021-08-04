@@ -31,11 +31,9 @@ It can be difficult to choose a suitable chart to represent (a subset of) your d
 Tip: Thursday's independent study day material focused on creating visualizations. Want a refresher of the different visuals that are available in Power BI? Read Microsoft's <a href="( https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-types-for-reports-and-q-and-a">Visualization types in Power BI</a> article.
 </div>
 
+__3a__ Load your dashboard .pbix file in Power BI.
 
-
-__3a__ Apply the knowledge you have gained, through completing the Microsoft tutorial modules and lab exercises, on the youth care dataset.
-
-
+__3b__ Apply the knowledge you have gained, through completing the Microsoft tutorial modules and lab exercises, on the youth care dataset.
 
 ***
 

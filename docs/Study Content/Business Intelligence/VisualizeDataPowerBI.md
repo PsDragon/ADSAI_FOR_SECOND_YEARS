@@ -21,7 +21,7 @@ When you are finished with this section, you should be well prepared to create a
 
 <img src="./images/power_bi.jpg" alt="Power BI dashboard" width="650"/>
 
-*Figure 1. Power BI dashboard example**
+*Figure 1. Power BI dashboard example.*
 
 __2a__ Complete the module ```Work with Power BI visuals```, ```Create a data-driven story with Power BI reports```, ```Create dashboards in Power BI``` and ```Create paginated reports ``` of the Microsoft Certified: Data Analyst Associate tutorial, which you can find [here](https://docs.microsoft.com/en-us/learn/paths/visualize-data-power-bi/).
 

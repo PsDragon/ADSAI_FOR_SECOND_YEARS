@@ -34,7 +34,7 @@ but also examples from popular culture (e.g. movies, books, video games etc.).
 
 ### 2. Philosophy of Artificial Intelligence
 
-In this section, you will be made familiar with the various definitions of AI, and its related fields (e.g. cognitive science). The information required to successfully complete this section, can (to a greater extent) be found in the book Artificial Intelligence: A Modern Approach by Russell and Norvig (2020)<sup>[1](#footnote_1)</sup>. You will be using this specific book throughout the programme.
+In this section, you will be made familiar with the various definitions of AI, and its related fields (e.g. cognitive science). The information required to successfully complete this section, can (to a greater extent) be found in the book Artificial Intelligence: A Modern Approach by Russell and Norvig (2021)<sup>[1](#footnote_1)</sup>. You will be using this specific book throughout the programme.
 
 <img src="./images/ai_russell_norvig.jpg" alt="Book Russell and Norvig" width="250"/>
 
@@ -61,8 +61,11 @@ __2d__ What is the 'Chinese room experiment'? Describe its procedure.
 __2e__ What is the 'Chinese room experiment' supposed to show? Select the correct statement, and elaborate on your choice:
 
 a) Computers are not yet able to simulate the human ability to understand
+\
 b) Understanding involves more than the ability to formally reproduce appropriate outputs
+\
 c) It is only possible for systems to demonstrate understanding
+\
 d) No machine can demonstrate genuine understanding
 
 __2f__ Connect the Post It notes (Fig 1.) to the relevant quadrant in the philosophy matrix (Fig 2.). For example, A = 1, 2, and  B = 3, 4, 5 etc.
@@ -72,7 +75,8 @@ __2f__ Connect the Post It notes (Fig 1.) to the relevant quadrant in the philos
 *Figure 1. Post It notes with philosophy of AI terms.*
 \
 \
-<img src="./images/matrix.jpg" alt="Matrix" width="750"/>
+<img src="./images/AI_matrix_v2.png" alt="Matrix" width="600"/>
+
 *Figure 2. Philosophy of AI matrix.*
 
 __2g__ After completing the readings and exercises of this section, would you provide the same answer to exercise 1b? Explain your answer.

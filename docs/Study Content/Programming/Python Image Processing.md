@@ -35,7 +35,7 @@ In sum, using the RGB model, we can represent any colour using a list of three p
 
 > lookup google for a standard RGB colour table, what's unique about the colours black, gray, and white in the RGB model?
 
-**Taken together, an image is a two-dimensional array of pixels and each pixel is a coloured (square) box, where the color is specified by a 24-bit RGB array.***
+**Taken together, an image is a two-dimensional array of pixels and each pixel is a coloured (square) box, where the color and its intensity is specified by a 24-bit RGB array.***
 
 ## Bitmap images
 Bitmap, or BMP file formats store images as we have conceptualised above. BMP files store graphics images as large arrays- encoded numbers that specify the color of each pixel in the image. Since computer files are one-dimensional structures, the pixel colors are stored one row at a time. That is, the first row of pixels (those with y-coordinate 0) are stored first, followed by the second row (those with y-coordinate 1), and so on. 24-bit BMP images have a relatively simple file format, can be viewed and loaded across a wide variety of operating systems, and have high quality. However, BMP images are not compressed, resulting in very large file sizes for any useful image resolutions.

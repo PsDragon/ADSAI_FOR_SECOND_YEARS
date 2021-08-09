@@ -9,8 +9,8 @@ The analog images we see on paper are represented and stored in the computer as 
 ## Learning Objectives
 - [ ] Understand digital representation of images using pixels.
 - [ ] Understand the RGB Model used to obtain such digital representations.
-- [ ] Understand how to read images using Python.
-- [ ] Understand how to modify images using NumPy.
+- [ ] Understand how to represent images in Python.
+- [ ] Understand how to read, modify and write images using standard Python libraries.
 
 
 ## What is a pixel?
@@ -55,6 +55,15 @@ Please watch this brief video to review concepts learned about images, pixels an
 </figure>
 <!-- blank line -->
 
+## Representing digital images in Python
+
+Now that we have understood how digital images are represented, let's turn our attention to how we can use Python to represent and manipulate such digital images.
+
+We now know that digital images are represented as rectangular arrays of individually-coded square pixels, and that the intensity or color of each pixel can be represented as an RGB triplet e.g., (34, 255, 67). In Python, images are stored in a similar manner using data structures provided by Python. In particular, images are stored as three-dimensional NumPy arrays.
+
+The rectangular shape of the array corresponds to the shape (num rows, num columns) of the image. The “depth” of the array for an skimage image is three, with one layer for each of the three channels R, G and B.
+
+When we think of a pixel in an image, we think of its (x, y) coordinates (in a left-hand coordinate system) like (113, 45) and its color, specified as a RGB triple like (245, 134, 29). In an skimage image, the same pixel would be specified with (y, x) coordinates (45, 113) and RGB color (245, 134, 29).
 
 # References
 [1]: <https://numpy.org/doc/stable/user/absolute_beginners.html>

@@ -69,7 +69,7 @@ To read an image in Python using ```skimage```, please run the following code by
 
 ```python
 #load the skimage package
-import skimage 
+import skimage
 
 # read image
 image = skimage.io.imread(fname="<imagename.format>")

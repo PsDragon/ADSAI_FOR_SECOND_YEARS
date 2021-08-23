@@ -137,13 +137,10 @@ Week 6-8: [Programming in Python](#week-6--programming-in-python)
 - [Data Lab: Image Steganography](https://www.buas.nl/en/game)
 
 ## Wednesday
-- [Advanced Numpy: Broadcasting](https://www.buas.nl/en/game)
-- [Advanced Numpy: Vectorising](https://www.buas.nl/en/game)
-
+- [Advanced Numpy: Broadcasting & Vectorizing](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/Programming/AdvancedNumpy.html)
 
 ## Thursday
-- [Python: Matplotlib](https://www.buas.nl/en/game)
-- [Python: Scikit-learn](https://www.buas.nl/en/game)
+- [Python:Data visualization](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/Programming/Data%20visualization%20in%20Python.html)
 
 ## Friday
 - [Data Lab: Image Steganography](https://www.buas.nl/en/game)

@@ -149,18 +149,17 @@ Week 6-8: [Programming in Python](#week-6--programming-in-python)
 
 ## Monday
 - [PEP 8-Coding standards for Python ](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/Programming/Python%20Numpy.html)
-- [Reproducible data analysis in Python](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/Programming/Python%20Image%20Processing.html)
+
 
 ## Tuesday
 - [Data Lab: Image Steganography](https://www.buas.nl/en/game)
 
 ## Wednesday
-- [Python Application development - Flask](https://www.buas.nl/en/game)
-- [Python Application development - Qt](https://www.buas.nl/en/game)
+- [Python (web) Application development](https://www.buas.nl/en/game)
 
 
 ## Thursday
-- [Python: Self study](https://www.buas.nl/en/game)
+- [Python: Recap of key concepts](https://www.buas.nl/en/game)
 - [Python:Extended Q & A](https://www.buas.nl/en/game)
 
 ## Friday

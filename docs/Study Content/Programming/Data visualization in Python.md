@@ -17,3 +17,11 @@ Please watch the following video to understand why a picture is worth a thousand
 ## Blended Learning Code Academy - Introduction To Data visualization in Python (6 hours)
 
 - [ ] Please complete the ```Learn Data Visualization``` module in Code Academy which you can find [here](https://www.codecademy.com/learn/data-visualization-python).
+
+- [ ] Please watch the following video and use the concepts learned to improve your visualization for the poster - Our world in data (SDGs).
+
+<!-- blank line -->
+<figure class="video_container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8EMW7io4rSI?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->

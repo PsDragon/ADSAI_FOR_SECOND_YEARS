@@ -148,14 +148,14 @@ Week 6-8: [Programming in Python](#week-6--programming-in-python)
 # Week 8 : Programming in Python
 
 ## Monday
-- [PEP 8-Coding standards for Python ](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/Programming/Python%20Numpy.html)
+- [PEP 8-Coding standards for Python ](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/Programming/Python%20PEP8.html)
 
 
 ## Tuesday
 - [Data Lab: Image Steganography](https://www.buas.nl/en/game)
 
 ## Wednesday
-- [Python (web) Application development](https://www.buas.nl/en/game)
+- [Python (web) Application development](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/Programming/Python%20web%20application.html)
 
 
 ## Thursday

@@ -109,6 +109,27 @@ __3c__ Find, and describe one 'milestone' in the history of AI. Be creative, so 
 
 ***
 
+#### 4. Reflection and Q&A (16:00-17:00)
+
+__4a__ Ask question(s) related to the independent study material.
+
+__4b__ Choose, and provide an answer to at least of the following questions:
+
+1. What surprised you today, and why?
+2. What’s the most important thing you learned today? Why do you think so?
+3. What do you want to learn more about, and why?
+4. When were you the most creative, and why do you think that is?
+5. What made you curious today? How does learning feel different when you’re curious?
+6. When were you at your best today, and why?
+7. (Assuming we were studying the same thing and you could decide and have access to anything), where would you start tomorrow? Why?
+8. What can/should you do with what you know?
+
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Tip: the exercise is format-free, meaning you can answer in any way or form you see suited. Make a drawing, write a piece of text, create a video, etc.
+</div>
+
+***
+
 ## __Footnote(s)__
 <a name="footnote_1">1</a>: Hereforth abbreviated as AIMA.
 

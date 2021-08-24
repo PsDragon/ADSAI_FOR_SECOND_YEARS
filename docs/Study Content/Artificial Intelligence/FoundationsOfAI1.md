@@ -109,7 +109,7 @@ __3c__ Find, and describe one 'milestone' in the history of AI. Be creative, so 
 
 ***
 
-#### 4. Reflection and Q&A (16:00-17:00)
+### 4. Reflection and Q&A (16:00-17:00)
 
 __4a__ Ask question(s) related to the independent study material.
 

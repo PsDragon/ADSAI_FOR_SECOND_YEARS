@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# Artificial Intelligence Documentation
+# Artificial Intelligence
 
 Message from Abhishek : Don't add any content in the ReadMe.md file
 

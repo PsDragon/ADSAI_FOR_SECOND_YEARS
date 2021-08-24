@@ -2,6 +2,6 @@
 sort: 1
 ---
 
-# Programming Documentation
+# Programming
 
 {% include list.liquid all=true %}

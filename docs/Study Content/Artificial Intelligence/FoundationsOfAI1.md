@@ -40,7 +40,7 @@ In this section, you will be made familiar with the various definitions of AI, a
 
 *Figure 1. Artificial Intelligence: A Modern Approach (Russell and Norvig, 2021).*
 
-You can purchase the book or borrow it from BUAS' library. The library currently has ... copies available.
+You can purchase the book or borrow it from BUAS' library. The library currently has three copies available.
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Tip: incorporate some screen-free time in your schedule by reading a paper copy of a book/article etc. instead of a digital one. Your eyes will thank me later.

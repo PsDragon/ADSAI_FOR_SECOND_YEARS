@@ -21,11 +21,11 @@ The rise of artificial intelligence forces us to rethink what robots mean to soc
 
 *Figure 1. Portrait of Alan Turing made up by binary numbers.*
 
-In the article Computing Machinery and Intelligence (1950), Turing lays the foundation for modern day AI. He introduces an behavioral test, the Turing Test, and discusses some objections raised in relation to this test. As a result of his contributions to the field, he also called one of the 'founding fathers of AI'.
+In the article Computing Machinery and Intelligence (1950), Turing lays the foundation for modern day AI. He introduces an behavioural test, the Turing Test, and discusses some objections raised in relation to this test. As a result of his contributions to the field, he also called one of the 'founding fathers of AI'.
 
 __2a__ Read the following note taking guides:
 
-- [How to take notes of videos](http://kortschakcenter.usc.edu/wp-content/uploads/2014/05/Video-Note-taking.pdf)
+- [How to take notes of videos](http://kortschakcenter.usc.edu/wp-content/uploads/2014/05/Video-Note-taking.pdf) //: CHANGE!!!
 - [How to read a paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
 
 __2b__ Besides the Turing Test, Alan Turing is renowned for his work on:

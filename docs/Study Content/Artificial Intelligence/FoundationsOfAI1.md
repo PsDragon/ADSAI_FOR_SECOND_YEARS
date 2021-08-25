@@ -91,7 +91,7 @@ The early beginnings of AI, can be traced to the Ancient Greek period when philo
 
 Throughout the centuries, scholars from various disciplines have made significant contributions to the field of AI. To name a few of them: al-Jazari, Leonardo Da Vinci, Ada Lovelace, Norbert Wiener, and Alan Turing.
 
-However, the field of 'artificial intelligence' was not formally founded until 1956. It was at a conference, held at Dartmouth College, New Hampshire, were John McCarthy first coined the term 'Artificial Intelligence', which he defined as '... the science and engineering of making intelligent machines, especially intelligent computer programs' (Morignat, n.d.).  
+However, the field of 'artificial intelligence' was not formally founded until 1956. It was at a conference, held at Dartmouth College, New Hampshire, were John McCarthy first coined the term 'artificial intelligence', which he defined as '... the science and engineering of making intelligent machines, especially intelligent computer programs' (Morignat, n.d.).  
 
 After some setbacks in the 1970s and 1980s, also referred to as the AI winters, the field of AI has seen rapid advancements due to, among others, the introduction of deep learning, big data and artificial general intelligence in the early 2000s.
 

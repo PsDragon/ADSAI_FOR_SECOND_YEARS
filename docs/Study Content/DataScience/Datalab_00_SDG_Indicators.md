@@ -3,7 +3,7 @@ sort: 3
 ---
 # Datalab 00: SDG indicators
 
-We start of with an short introduction to formulating a problem statement based on the given domain(s) of your SDG indicator(s). Subsequently, we will focus on putting our new knowledge into practice by forming a research question. Then we will use both to create a the introduction component for your data-lab project: the conference Poster.
+We start with a short introduction to formulating a problem statement based on the given domain(s) of your SDG indicator(s). Subsequently, we will focus on putting our new knowledge into practice by forming a research question. Then we will use both to create an introduction component for your data-lab project: the conference Poster.
 
 ## 0) Learning Objectives
 Enable you to:
@@ -12,38 +12,38 @@ Enable you to:
 3. write a research question
 4. write an introduction
 
-Today we'll learn how to create the following components of any DS project. If you exceed the estimated duration for a given componenent and feel like you are squeezed for time, feel free to ask us for help!
+Today we'll learn how to create the following components of any DS project. If you exceed the estimated duration for a given component and feel like you are squeezed for time, feel free to ask us for help!
 
 Table of contents:
 1. Problem Statement: 3 hours
-2. Research Question: 1 hours
+2. Research Question: 1 hour
 3. Introduction: 2 hours
 4. Daily Reflection: From 16:00 to 17:00
 
 
 Good luck!
 
-In case you have any questions first ask your peers, before you [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) regarding the studie content. Make sure to include the name of the year, block and github page in the title when you report the issue or question.
+In case you have any questions first ask your peers, before you [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) regarding the studie content. Make sure to include the name of the year, block and GitHub page in the title when you report the issue or question.
 
 ## 1) Forming a Problem Statement
 
-We start with focussing on how to create value with our data science solution. That starts with learning about how to form a problem statement. Next we are going to apply the techniques below to fill in our problem statement. Part of that is exploring the domain(s) we are working in because a problem cannot exist without its context.
+We start by focussing on how to create value with our data science solution. That starts with learning about how to form a problem statement. Next, we are going to apply the techniques below to fill in our problem statement. Part of that is exploring the domain(s) we are working in because a problem cannot exist without its context.
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="640" height="360" src="https://www.linkedin.com/learning/embed/academic-research-foundations-quantitative/how-to-develop-a-problem-statement?autoplay=false&claim=AQH5FYD0hTHdiQAAAXqgmQ5ntPnwJlpS7Ufhzf_Q-EQsMQziDC5JjUYX4zirz200A6Q9ylW8qTrQyT6LWXk7pCMSsGBn5GiV0EEhrryy3J0GocSMjCMtqCZMwk90Bv7uazbpvfszKz4F8x9e_3LC5OByOjvAGsahbOila-yZxus8dIzuwmNB8cXBeROpZtd2pPe9IWRGnpotF7H45dMu5uoiklGbc04WOzDIqomN_vaJ3-jpxA9nWj9IR6vQdmsjFNkWy8gUyzUzMZd9zQobR5EWn0jzdDtrssPxHmYiWtzXWnr7BVh2M8YVf2vQu7VphwfgKkQ26UYoPoa5slJan7QxH7cx2s6e_BNNRAaEScfKP5UINkp19F4j0nsqbazd-Nt3Qq05-Jbe5SFhlKkZu996-_Z0RtYp4YyDwC6luTKydeVGpcGbcff3OO1u8zJL3TPNctq1YSEMRBWWd9rW50nODrWun1lON41XxsnBrubR77ohjP4hlwbsgTPngOG0AKn9DCnEPmGK1u9gJCWtQbwpnTuVo4WxibgoIE34Cm9FbhVF-YSFR8KwhLWq32L9XSXPZqniRp4acyK-2gXEL0hwhD6Eb_7-YABMZq1QXcE9oRNmq5SrVu0ZGizpq0jhsLpyiayi2bmH_mLghZoqvlQ_DMJU00pBSZ2DwtFSd3oZgUE4o8UVrCHHZdswLXCkX_Hdy0cOrV2tu9pp60cvVGS--nRIoI1ohisfdArxLI3Rew&lipi=urn%3Ali%3Apage%3Ad_learning_content%3BZqULw1KqRv6QHrTtZsKGUQ%3D%3D&licu" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true" frameborder="0" style="position:absolute;width:100%;height:100%;left:0"></iframe></div><p><strong><a href="https://www.linkedin.com/learning/academic-research-foundations-quantitative/how-to-develop-a-problem-statement?trk=embed_lil">How to develop a problem statement</a></strong> from <strong><a href="https://www.linkedin.com/learning/academic-research-foundations-quantitative?trk=embed_lil">Academic Research Foundations: Quantitative</a></strong> by <strong><a href="https://www.linkedin.com/learning/instructors/rolin-moe?trk=embed_lil">Rolin Moe</a></strong></p>
 
-Now that we have acquired the basics of forming a problem statement it's important to use it methodologically. Listing the different ways in which you can approach
+Now that we have acquired the basics of forming a problem statement, it's important to use it methodologically. Listing the different ways in which you can approach
 
-### Excercise 1: Write down the different ways in which you can get started writing your problem statement.
+### Excercise 1: Write down the different ways you can get started writing your problem statement.
 
 
 ### Excercise 2: Form a draft of your problem Statement
 **Step 1.** Download and inspect the [conference poster template](docs\assets\Assessment\DS1-AssesmentPoster_Template.pptx)
 
 **Step 2.**
-Do research into the domain; the SDG Indicators. I would recommend watching all videos before diving into the online documentation, but feel free to skip one of the first two introductions if you prefer reading; don't skip the technical one.
+Research the domain, the SDG Indicators. Before diving in the online documentation, I would recommend watching all videos below. Feel free to skip one of the first two introductions if you prefer reading; don't skip the technical one.
 
 ### Watch the SDG Introduction
-An easy introduction onto the topic. If you cringe too much on TED talks, feel free skip to the next video: it's your research process after all.
+An easy introduction onto the topic. If you cringe too much on TED talks, feel free to skip to the next video: it's your research process, after all.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o08ykAqLOxk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### SDG introduction to data scientists
@@ -52,11 +52,11 @@ Data scientiest on a conference in canada are introduced to SDG's.
 After 12 minutes in he starts to talk about national collaboration and development examples which you can skip. It may be interesting later though as you make recommendations in your conference poster.
 
 ### A more technical introduction
-Specifically watch untill the 5th minute; the part about using it for a business is not vital but may inspire your problem statement.
+Specifically, watch until the 5th minute; the part about using it for a business is not vital but may inspire your problem statement.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qfOgdj4Okdw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Full documentation
-Now that we have gotten a good impression of the SDG indicators and what they are for I would recommend you choose one of the 17 goals and start narrowing down to an SDG indicator you want investigate. You can [view the full documentation of the project here](https://sdg-tracker.org/).
+Now that we have gotten a good impression of the SDG indicators and what they are for.  I recommend you choose one of the 17 goals and start narrowing down to an SDG indicator you want investigate. You can [view the full documentation of the project here](https://sdg-tracker.org/).
 
 <figure>
     <img src=".\assets\SDG Indicators.png" />
@@ -66,7 +66,7 @@ Now that we have gotten a good impression of the SDG indicators and what they ar
 
 **Step 3.** Choose your SDG Indicator (e.g. Extreme Poverty) to study.
 
-If you need help choosing your topic watch one to these video's to narrow:
+If you need help choosing your topic, watch one to these video's to narrow:
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="640" height="360" src="https://www.linkedin.com/learning/embed/academic-research-foundations-quantitative/narrow-your-idea-to-a-research-topic?autoplay=false&claim=AQH_Q4eBMAx1-QAAAXqguSxIifZ6bboqpRfLWZl285Ayj6cnb9UXMV9pvByJHvVCRDYoc4KKcybyQOkf5Yzmr9tY4iNeQnT4UmKBE9GhcnK7POZ6PguBQSRdlwIDR_PKekQToTTaGrUaURuJRjDeB2Wc9qQyToS2l5614NP55nXwtnRUZ0A7kGEdDTz2Vv9EZyM6Wz42Zpt9DHjvI28lA4g4ccNTLIHsD9DNwqjtK3FD3eub__6szgxOIC1ie63HXZpdmcCIr4GcN_pVCk5kE7X6KpMmPXbKmfBmtKrUZK0wuuNQtY7tM9fRrAyPRusJHCQA7WplmhHUaw955NX7b1rPw9GxY-d_VHZJi4mXGt8PDzxYbklU8kplcH92IFYmxenwKmsXaLM-40-h99iwez0Taqik_FqO_kLAyYktrr6t4dEKRdd3qVSE9F5a5XfC0f454lT5KYTgUdlKUuTJwb1YYlF4uUjyuYK4v54DC6sWlnkXqRdcGaV8mErbvnNbBSd_7iVtyuhVmsERtDWQ2LkYdLKICHs759zuHEX_CkIhptdTgi1NHB4Mlb7PuP8NSqRSi2HNRn3fI2Bw7_lFcyonwk-3oYIcdwZJjIuQ1v0uCwzIxU40rcon6va2RFs7q0ABu03Uw0QpoxoAnDLQ8FfZwxWfTTuGwuz-x8qs5ogjKOvxUITjLJbk7kXyeXDQC8WtSQZ3XLc3vu2wZ1Cj5NnPKBFDdJir6belp_qSGabf2w&lipi=urn%3Ali%3Apage%3Ad_learning_content%3BIWvh%2FfDWRryjgGFBMdYdlg%3D%3D&licu" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true" frameborder="0" style="position:absolute;width:100%;height:100%;left:0"></iframe></div><p><strong><a href="https://www.linkedin.com/learning/academic-research-foundations-quantitative/narrow-your-idea-to-a-research-topic?trk=embed_lil">Narrow your idea to a research topic</a></strong> from <strong><a href="https://www.linkedin.com/learning/academic-research-foundations-quantitative?trk=embed_lil">Academic Research Foundations: Quantitative</a></strong> by <strong><a href="https://www.linkedin.com/learning/instructors/rolin-moe?trk=embed_lil">Rolin Moe</a></strong></p>
 
 Or broaden your search:
@@ -79,7 +79,7 @@ Watch this if you feel like you need more information on how to form a problem s
 Note that we're not going to do big data engineering just yet :p, this block we are just conceptualizing. However, later you may want to recommend a data processing pipeline and dashboard to monitor some real-world later in the project depending on what your problem statement will be.
 
 # 2) Forming a Research question
-Now, its time for writing the research questions!
+Now, it's time for writing the research questions!
 
 **Step 1.** Please watch the following videos to collect the knowledge you'll need to apply:
 
@@ -87,12 +87,12 @@ Now, its time for writing the research questions!
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="640" height="360" src="https://www.linkedin.com/learning/embed/academic-research-foundations-quantitative/how-to-write-a-research-question?autoplay=false&claim=AQEVfN-9_xXKHgAAAXqgxbLc633aPlZLt-gZWTSSSFWQFDT9XOKHCac8znMTGawdZroczJEop3zvZSeWEAk1wg_KS_womeZOhSARpI9LdCXzI0gWUYpYOjJ9Pxt3oL_XGjMFFxLIYh7-nvts8vU3b_VLmGVNXRuWoy1Vlw2YLZC1OT2WmBRKgoSOUvSvGEfKi2f7vEeG2G97AYRBhiaiMDo8BOCiXBL6j2LMS2E5Lp-GwqoM7F5kXo97ZEIfnJQE8frDsfUgw3HV11lO5V_1oUZ_BNDnxm4rXJpckhafh7xEH7ZhDHWext_7k_SOR5_ldUMGimMw7jM1sQQd3UjlJgVVgrw81Z_EkXbpQJ0MANsqE-8UabqYS9p8I47Z_ii-Oy3H8Xf5xKWiJPY7ElDc86HqG-8P8MkfNfL3KHgEVWNB3Z4-jSlZx0YwErfyaLUu7JbBPlNil2MFzAyjKXkNedctn44K4llcCyBMMyNY3ThtvpzfGByDz1VvsnWE3amB3WF2HFLBkJRuuplO5i5m9JrFLBEo-2V7d0ponOT8ks6NbQl2nyucqb4Va-pw_H-ulO7xzXL9eS4agyKuFBAyJlXW95hogpy1Xbkv5VKQDPxKtsjkAtOK5yPnnZWIwIiygHhL25xU9lo5Jioesn-jtmHsQe50Y94FbG45NEWEwgcKbu7vgkt6p4YX7k46qS-cWXKhar482jBTzORo0YcyzHY4afhZ1M267SbHE2Y-PIDszA&lipi=urn%3Ali%3Apage%3Ad_learning_content%3BbKBJjKygQ9eeXomVJ01cJg%3D%3D&licu" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true" frameborder="0" style="position:absolute;width:100%;height:100%;left:0"></iframe></div><p><strong><a href="https://www.linkedin.com/learning/academic-research-foundations-quantitative/how-to-write-a-research-question?trk=embed_lil">How to write a research question</a></strong> from <strong><a href="https://www.linkedin.com/learning/academic-research-foundations-quantitative?trk=embed_lil">Academic Research Foundations: Quantitative</a></strong> by <strong><a href="https://www.linkedin.com/learning/instructors/rolin-moe?trk=embed_lil">Rolin Moe</a></strong></p>
 
-**Step 2.** Form your research question and write it down in the [poster template](docs\assets\Assessment\DS1-AssesmentPoster_Template.pptx). Note down the type of research question your asking. Make sure it is concise, specific and simple!
+**Step 2.** Form your research question and write it down in the [poster template](docs\assets\Assessment\DS1-AssesmentPoster_Template.pptx). Note down the type of research question you're asking. Make sure it is concise, specific and simple!
 
 
 
 # 3) Writing an introduction
-**Step 1.** Watch the following video and note down which elements may be found in the introduction. You already define two fundamental elements: 1) **the problem** you're going to adress and 2) you have your research question: **your purpose** is to find an answer to it.
+**Step 1.** Watch the following video and note down which elements may be found in the introduction. You already define two fundamental elements: 1) **the problem** you're going to address and 2) you have your research question: **your purpose** is to find an answer to it.
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="640" height="360" src="https://www.linkedin.com/learning/embed/writing-a-business-report/writing-the-introduction?autoplay=false&claim=AQFKy-O8L5-H9QAAAXqg00zMi-6SEwsTPOIoVX8DozLvu5McOKIUsRH4szvoE-wuLOD5HfIF5IG2WTlQsi-gdWOhNRmFRY8VUAo6UE4ezvztxN1PcEKYVL_Gdz-SObadoy1rGZWY5PZ8hmWn4SwV9rVKKdd7TjDVC3q4y25E9UW4KKbeYIH9-qK0G_NiB_klNHiEM0bLZz1oGYC7Bb4aD859C5FyxlSV4eLrInep8nM9c61jySfBNJZu3eiFCQXQ-0kLNfXbRme8oucAdtfkqKvBuybsWaQEbClLuASw5tsBEO1Z8USGNH8lqHNcth_OsNTcZBH4jiXS5ZVdcR5ArxV_PYagqjdoHuPSj_pQjS8GlaUA16apR_86qwZX4mBKV9Md9dqP8JegLu8UClIvC92O-S-V5RKIGwa1p09Qk-I54qKsTK-wdv_hA9BvR6oYN2B1nWQEZWG16N2VMS3qfGJzpm3gNm51gq_CFiqctMjJnXz5khKT9BvauHihqCDgdWH6rACHdHWSqkTHm4_7rTVeRWHiiM3xFhiDOrhWZ3qN-5-4fAFmA6P-mZugIXNJmQFRSJoeaT_3N7U7P4njcfKVQVqPU9ZEe-tsaBxdpmuACcGzylbmCoeSagr37WhrrmR6oSmJOgSV3SW3rtcTtyuKHYi3Mz8xqSgKWe-XfPnKpKqzGkn3ZyXbSZWT92Uc2n0uUjhctwUkHEwi_760IRVpse6P_lcD-5CzeusHIjS9SQ&lipi=urn%3Ali%3Apage%3Ad_learning_content%3BHxusxfEjRCGjiH%2BeEDazGw%3D%3D&licu" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true" frameborder="0" style="position:absolute;width:100%;height:100%;left:0"></iframe></div><p><strong><a href="https://www.linkedin.com/learning/writing-a-business-report/writing-the-introduction?trk=embed_lil">Writing the introduction</a></strong> from <strong><a href="https://www.linkedin.com/learning/writing-a-business-report?trk=embed_lil">Writing a Business Report</a></strong> by <strong><a href="https://www.linkedin.com/learning/instructors/judy-steiner-williams?trk=embed_lil">Judy Steiner-Williams</a></strong></p>
 
 **Step 2.** Decide what information the reader needs to know and write the introduction in the [poster template](docs\assets\Assessment\DS1-AssesmentPoster_Template.pptx).
@@ -100,7 +100,7 @@ Now, its time for writing the research questions!
 **Step 3.** Save your poster and notes to your [Github repository](HYPERLINK)
 
 # 4) In-Class discussion
-At 16:00 we'll all get together to discuss our progress and reflect back on today activities.
+At 16:00, we'll all get together to discuss our progress and reflect on today activities.
 
 
 ## Further reading & other relevant information:

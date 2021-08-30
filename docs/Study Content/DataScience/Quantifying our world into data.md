@@ -45,7 +45,7 @@ C) Questions: Defining phenomena as data
 
 
 ## 5) Hand-in Documentation
-Finished? Upload your mock assignment on [github classrooms](HYPERLINK)
+Finished? Upload your mock assignment on [GitHub classrooms](HYPERLINK)
 
 ## Next step: Introduction to R
 Now it's time for the [the workshop part](https://adsai.buas.nl/Study%20Content/DataScience/IntroToR.html) of this class to get acquainted with R.

@@ -21,8 +21,7 @@ Table of contents:
 
 Good luck!
 
-In case you have any questions,
- please first ask your peers or (when they don't respond timely) [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the course, workshop and question you have or the problem you're experiencing.
+In case you have any questions, please first ask your peers or [ask us or notify us in case you are experiencing any issues](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the year, course and github page.
 
 ## 1) Introduction
 ### 1.1 Variables

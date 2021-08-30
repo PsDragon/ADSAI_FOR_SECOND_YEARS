@@ -20,7 +20,7 @@ Table of contents:
 In case you have any questions please first ask your peers or [ask us here](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the year, block, GitHub page and the question you have or the problem you're experiencing in the title.
 
 ## 1) Workshop part: Exploratory Data Analyses
-Start where you left off yesterday with the Exploratory Data Analysis and finish modules 6 to 10.
+Start where you left off yesterday with the Exploratory Data Analysis and finish modules 6 to 7.
 
 If you don't have the swirl course, then you download the R swirl course [Exploratory Data Analysis](https://swirlstats.com/scn/getclean.html) by running the following code in the R-studio console:
 ```R
@@ -30,7 +30,7 @@ swirl::install_course("Exploratory Data Analysis")
 ## 2) Project Brief part: Exploratory Data Analysis
 Now that we have performed all EDA techniques we could need to address your problem statement, we can continue working on the project brief.
 
-Download the dply, tidyr and ggplot2 [Cheatsheets](https://www.rstudio.com/resources/cheatsheets/). They're extremely useful when you're working in R, not just for data cleaning so be sure to use them in the future. 
+Download the dply, tidyr and ggplot2 [Cheatsheets](https://www.rstudio.com/resources/cheatsheets/). They're extremely useful when you're working in R, not just for data cleaning so be sure to use them in the future.
 
 **Step 1.** Open your conference poster ([template](docs\assets\Assessment\DS1-AssesmentPoster_Template.pptx)) and inspect the EDA Methodology section.
 

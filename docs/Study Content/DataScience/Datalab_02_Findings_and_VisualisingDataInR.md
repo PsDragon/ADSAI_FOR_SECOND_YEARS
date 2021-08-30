@@ -10,8 +10,14 @@ In case you have any questions please first ask your peers or (when they don't r
 ## 0) STEP 0
 A DESCRIPTION OF ACTIONS TO TAKE
 
-## 1) ANOTHER STEP
-WITH ANOTHER DESCRIPTION
+## 1) Workshop part: Exploratory Data Analyses
+Start where you left off yesterday with the Exploratory Data Analysis and finish modules 8 to 10.
+
+If you don't have the swirl course, then you download the R swirl course [Exploratory Data Analysis](https://swirlstats.com/scn/getclean.html) by running the following code in the R-studio console:
+```R
+swirl::install_course("Exploratory Data Analysis")
+```
+
 
 ## 2) Next steps: XXXXXXXXXXX
 In the next self-study/data-lab day we are going to XXXXXXXXXX. After which we will creater component YYYYYYYYY for our data-lab project.

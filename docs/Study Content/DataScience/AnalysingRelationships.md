@@ -6,6 +6,14 @@ sort: 11
 
 We start of with a comfortable introduction to TOPICS by lecture. Subsequently, we will focus on putting our new knowledge into practice by XXXXXXXXXXXXXX. In the workshop you will be introduced to YYYYYYYYYYY.
 
+Learning objectives:
+Build upon the basic understanding of data representations by learning to create data visualisations which are:
+- Informative: of the data (distribution)
+- Meaninful: relevant to the data-drive research question
+- Unbiased: towards your own expectations
+- Visually Clear & Appealing
+- Have appropriate legends and additional labels and comments where needed
+
 Please follow the links below to continue the classs:
 1. [Lecture](LINK): X hours
 2. [Workshop](LINK): Y hours
@@ -14,14 +22,6 @@ Please follow the links below to continue the classs:
 
 Good luck!
 
-In case you have any questions please first ask your peers or (when they don't respond timely) [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the course, workshop and question you have or the problem you're experiencing.
-
-
-# Data Science X, Self-Study Day Y: Lecture - Z
-
-This lecture/workshop/session will focus on XXXXXXX. We are going to cover YYYYYYYYYYYYYYY and apply those concepts to a mock-assessment.
-
-In case you have any questions please first ask your peers or (when they don't respond timely) [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the course, workshop and question you have or the problem you're experiencing.
 
 ## 0) Watch or attend the [opening lecture](LINK TO LECTURE MATERIAL HERE)
 A DESCRIPTION OF LECTURE
@@ -32,48 +32,14 @@ A DESCRIPTION OF LECTURE
 ## 2) Next steps: XXXXXXXXXXX
 Now its time for [the workshop part](LINK TO WORKSHOP)!
 
-
-## Further reading & other relevant information:
-1. [Content](LINK): DESCRIPTION OF WHAT THIS IS, WHY IT IS RELEVANT AND FOR WHO
-
-## References:
-- REFS
-
-Course code: AAIDM1
-
-# Data Science X, Self-Study Day Y: Workshop - TOPIC
-
-This lessons is about XXXXXXXXXXXXXXXX. After which you should be able to YYYYYYYYYYYY.
-
+## Questions
 In case you have any questions please first ask your peers or (when they don't respond timely) [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the course, workshop and question you have or the problem you're experiencing.
 
-## 0) Step 0
-[EXCERCISES OR LINK TO ONLINE RESOURCE PROVIDING WORKSHOP](HYPERLINK)
+## Resources
+- [https://swirlstats.com/students.html](https://swirlstats.com/students.html)
+- [Swirl](https://swirlstats.com/help.html)
+- http://swirlstats.com/scn/A_(very)_short_introduction_to_R.html
+- Learning Statistics with R, by D. Navarro (2018):  https://learningstatisticswithr.com/  
+- Discovering Statistics using R, A. Fields et al. (2012): https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067  
 
-# Next Steps
-1. ZZZZZZZZZZZZ
-2. LINK TO MOCK-ASSESSMENT IF APPLICABLE
-
-## Further reading & other relevant information:
-1. [Content](LINK): DESCRIPTION OF WHAT THIS IS, WHY IT IS RELEVANT AND FOR WHO
-
-## References:
-- REFS
-
-Course code: AAIDM1_DSX
-
-# Data Science X, Self-Study Day X: Mock-Assesment - TOPIC
-
-This Mock-assessment is about XXXXXXXXXXX
-
-In case you have any questions please first ask your peers or (when they don't respond timely) [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the course, workshop and question you have or the problem you're experiencing.
-
-## 0) STEP/QUESTION/EXCERCISE 0
-BLA BLA BLA
-
-## 1) NEXT STEP/QUESTION/EXCERCISE?
-BLA BLA BLA
-
-## References:
-- YYYYYYYYYYYYY
-Course code: AAIDM1_DSX
+Course code: ADSAI_DS1

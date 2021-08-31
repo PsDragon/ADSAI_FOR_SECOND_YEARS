@@ -4,7 +4,7 @@ sort: 5
 
 # Intro to Variables and Dataframes
 
-We start with a brief recap of what we learned in the [Intro to R](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/IntroToR.html). After that, we are going to learn about and work with different types of variables, vectors, matrices and data frames. Subsequently, we will focus on putting our new knowledge into practice by creating your own toy data frame.
+We start with a brief recap of what we learned in the [Intro to R](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/IntroToR.html). After that, we are going to learn about and work with different types of variables, vectors, matrices and data frames. Subsequently, we will focus on putting our new knowledge into practice by creating our own toy data frame.
 
 ## 0) Learning Objectives:
 Enable you to understand, manipulate and create:

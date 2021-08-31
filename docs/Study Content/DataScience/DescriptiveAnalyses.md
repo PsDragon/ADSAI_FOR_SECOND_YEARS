@@ -85,4 +85,3 @@ If you have any questions or issues, [ask us here](https://github.com/BredaUnive
 - Learning Statistics with R, by D. Navarro (2018):  https://learningstatisticswithr.com/  
 - Discovering Statistics using R, A. Fields et al (2012): https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067  
 - Freina L and Ott M (2015) A literature review on immersive virtual reality in education: state of the art and perspectives. In: The International Scientific Conference eLearning and Software for Education, volume 1. pp. 10–1007.
-[In case you're interested in multi-modal learning and understanding I would reccomend this video](https://www.youtube.com/watch?v=GEmuEWjHr5c&ab_channel=Veritasium)

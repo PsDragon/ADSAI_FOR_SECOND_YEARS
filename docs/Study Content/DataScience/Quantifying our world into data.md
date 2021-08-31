@@ -21,6 +21,7 @@ How each specific lesson is structured depends on the nature of the content and 
 Look at the creative brief for more info about the content or ask us a [Question](https://github.com/BredaUniversity/AAI-DM/issues/new) (make sure to include the year, block and GitHub page in the title) about the course content.
 
 ## 3) Watch or attend the [opening lecture](https://github.com/BredaUniversity/AAI-DM/blob/881590f3c6c3d682ef56357e4c04e237fa570e27/docs/Year1/BlockA/DataScience/Courses/DS1/Day1/DS1%20-%20Lecture%201;%20The%20world%20in%20data.pptx)
+on Monday the 20th of September in
 
 ## 4) Mock-Assessment
 Every workshop includes a small mock assessment to prepare you for the actual assessment deliverable you'll create in Datalab. In Datalab, you and your peers will look at and assess one another's work to check if you have understood or mastered the learning objectives.
@@ -49,6 +50,9 @@ Finished? Upload your mock assignment on [GitHub classrooms](HYPERLINK)
 
 ## Next step: Introduction to R
 Now it's time for the [the workshop part](https://adsai.buas.nl/Study%20Content/DataScience/IntroToR.html) of this class to get acquainted with R.
+
+## Questions or issues?
+In case you have any questions please first ask your peers or [ask us here](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the year, block, GitHub page and the question you have or the problem you're experiencing in the title.
 
 ## References:
 - Learning Statistics with R, by D. Navarro (2018):  https://learningstatisticswithr.com/  

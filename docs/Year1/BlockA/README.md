@@ -36,7 +36,7 @@ Week 6-8: [Programming in Python](#week-6--programming-in-python)
 
 
 ## Tuesday
-- [AI in Science Fiction (3): Quizzes on Scientific writing. Presentations on the first draft of the report](../../Study%20Content/Digital%20Transformation/AI%20in%20Science%20Fiction%20(3).html)
+- [AI in Science Fiction (3): Quizzes on Scientific writing. Presentations on the first draft of the report](../../Study%20Content/Digital%20Transformation/AI%20in%20Science%20Fiction%203.html)
 
 
 ## Wednesday

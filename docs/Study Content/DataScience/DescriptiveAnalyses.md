@@ -72,10 +72,15 @@ swirl::install_course("Exploratory Data Analysis")
 ```
 Complete module 1 to 5
 
-## 3) The End
+# 3)  In-Class discussion
+At 16:00, there's a online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
+
+
+## 4) The End
 That was it for today, [tomorrow](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/Datalab_01_ExploratoryDataAnalysis.html) we'll continue until module 10. Then we'll perform an exploratory data analysis on our own data based on the problem statement and research question we made in the previous [datalab](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/Datalab_00_SDG_Indicators.html).
 
 
+## Questions or issues?
 If you have any questions or issues, [ask us here](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the year, block, GitHub page and the question you have or the problem you're experiencing in the title.
 
 ## Resources

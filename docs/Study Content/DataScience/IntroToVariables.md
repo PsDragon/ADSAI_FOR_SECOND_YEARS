@@ -71,6 +71,12 @@ Create an R-script following these instructions:
 
 Finished with your mock-assignment? You can upload your R-script on [github classrooms](HYPERLINK)
 
+# 4)  In-Class discussion
+At 16:00, there's a online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
+
+Tomorrow we are going to cover descriptive analysis: what can we tell about the data by just looking at the data distribution and summary statistics?
+
+## Questions?
 If you have any questions or issues, [ask us here](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the year, block, GitHub page and the question you have or the problem you're experiencing in the title.
 
 ## Resources

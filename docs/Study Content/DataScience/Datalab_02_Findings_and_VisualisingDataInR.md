@@ -30,14 +30,18 @@ swirl::install_course("Exploratory Data Analysis")
 Finished? Then you can unleash your skills on your project!
 
 ## 1) Creating the findings section
-Create appropriate graphical representation and tables of your data which is:
+Create appropriate graphical representations and tables of your data to fill the poster, which is:
 - Informative: of the data (distribution)
-- Meaninful: relevant to the data-drive research question
+- Meaninful: relevant to the data-driven research question
 - Unbiased: towards your own expectations
 - Visually Clear & Appealing
 - Have appropriate legends and additional labels and comments where needed
 
 
+# 2) In-Class discussion
+At 16:00, there's a online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
+
+Tomorrow, we're going to cover statistical inferences!
 
 ## Questions
 In case you have any questions please first ask your peers or (when they don't respond timely) [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the course, workshop and question you have or the problem you're experiencing.

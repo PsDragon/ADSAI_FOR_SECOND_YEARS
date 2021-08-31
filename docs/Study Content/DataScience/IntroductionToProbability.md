@@ -74,8 +74,10 @@ swirl::install_course("Statistical_Inference")
 ```
 Complete module 1 to 7. Makes sure to open the powerpoint presenations the course asks you to open, it's useful to have different explanations of the same thing. It helps you learn: neuron that wire together, fire together. In essence consuming multiple examples helps you connect concepts in you brain making it easier to recall.
 
+# 2)  In-Class discussion
+At 16:00, there's a online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
 
-
+Tomorrow, we're going to create some cool data visualisations for the findings section of our conference poster!
 
 ## Questions
 In case you have any questions please first ask your peers or (when they don't respond timely) [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the course, workshop and question you have or the problem you're experiencing.

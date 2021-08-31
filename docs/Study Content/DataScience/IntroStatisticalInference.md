@@ -53,6 +53,9 @@ swirl::install_course("Statistical_Inference")
 ```
 Complete module 8-11. Makes sure to open the powerpoint presenations the course asks you to open, it's useful to have different explanations of the same thing. It helps you learn: neuron that wire together, fire together. In essence consuming multiple examples helps you connect concepts in you brain making it easier to recall.
 
+# 2)  In-Class discussion
+At 16:00, there's a online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
+
 That's it for today, tomorrow we're going to learn how we can analyse different relationships between variables.
 
 ## Resources

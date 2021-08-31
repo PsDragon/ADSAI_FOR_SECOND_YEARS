@@ -82,21 +82,21 @@ __REVISED__
 
 ●	Explanation: Use an ampersand (&) when citing parenthetically and put a comma between author(s) and year of publication.
 
-  ___●	Catch the Error and Correct the Mistake #3___
+___●	Catch the Error and Correct the Mistake #3___
 
-  Duffy & Petronius (2012, p. 23) found that none of the subjects showed improvement.
+Duffy & Petronius (2012, p. 23) found that none of the subjects showed improvement.
 
-  __REVISED__
+__REVISED__
 
 ●	Duffy and Petronius (2012) found that none of the subjects showed improvement.
 
 ●	Explanation: Use “and” -- not ampersand -- when citing authors outside of parentheses. No page number needed since there was no direct quote.
 
-    ___●	Catch the Error and Correct the Mistake #4___
+___●	Catch the Error and Correct the Mistake #4___
 
-  Duberman, McGuire and Lang (2019) determined that violent video games create aggression in adolescents.
+Duberman, McGuire and Lang (2019) determined that violent video games create aggression in adolescents.
 
-  __REVISED__
+__REVISED__
 
 ●	Duberman et al. (2019) determined that violent video games create aggression in adolescents.
 
@@ -114,7 +114,7 @@ __REVISED__
 
   ●	Explanation: Since a direct quote was used, a page number must be provided after the quote.
 
-    ___●	Catch the Error and Correct the Mistake #6___
+___●	Catch the Error and Correct the Mistake #6___
 
   When contacted, Mr. Smith had no useful explanation except that “mistakes were made” (phone call, 2015).
 

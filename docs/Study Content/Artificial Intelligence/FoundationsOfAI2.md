@@ -25,11 +25,13 @@ __2a__ Watch the video on symbolic AI by the YouTube channel CrashCourse.
 
 *Video 1. Symbolic AI by CrashCourse*
 
-__2b__ Define the term 'expert system'.
+__2b__ Define the term 'inference'.
 
-__2c__ Are artificial neural networks similar to the human brain?  Support your answer with arguments.
+__2c__ Define the term 'expert system'.
 
-__2d__ A artificial neural network uses a a) symbolic or b) non-symbolic approach to AI? Select one of the options, and explain your choice.
+__2d__ Are artificial neural networks similar to the human brain?  Support your answer with arguments.
+
+__2e__ A artificial neural network uses a a) symbolic or b) non-symbolic approach to AI? Select one of the options, and explain your choice.
 
 In the last couple of years, there has been a reappraisal of symbolic AI because, among others, it is less susceptible to the so called 'Problem of opacity'. Minsky defines the problem as follows: '... the knowledge embodied inside a network's numerical coefficients is not accessible outside that net.' (1991). In other words, it is difficult to know why these non-symbolic models do what they do or how they work.
 

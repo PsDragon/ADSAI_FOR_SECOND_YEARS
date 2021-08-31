@@ -18,7 +18,6 @@ Week 6-8: [Programming in Python](#week-6--programming-in-python)
 
 ## Tuesday
 - [AI in Science Fiction (1): Minority Report & Outline](../../Study%20Content/Artificial%20Intelligence/AIInScienceFiction1.html)
-- [Turing Test & Chatbots (2): Discussion & Turing Test](../../Study%20Content/Artificial%20Intelligence/TuringTestChatbots2.html)
 
 ## Wednesday
 - [Scientific writing (1): The structure of a paragraph and rules of writing; Bias-free language ](../../Study%20Content/Digital%20Transformation/AIForBusiness1.html)
@@ -27,7 +26,7 @@ Week 6-8: [Programming in Python](#week-6--programming-in-python)
 - [Foundations of AI (2): Symbolic/non-symbolic AI & Intelligent agents](../../Study%20Content/Artificial%20Intelligence/FoundationsOfAI2.html)
 
 ## Friday
-- [AI in Science Fiction (2): Report](../../Study%20Content/Artificial%20Intelligence/AIInScienceFiction2.html)
+- [Turing Test & Chatbots (2): Discussion & Turing Test](../../Study%20Content/Artificial%20Intelligence/TuringTestChatbots2.html)
 
 
 # Week 2 : Digital Transformation & Artificial Intelligence

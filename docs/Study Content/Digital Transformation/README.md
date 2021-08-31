@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# Digital Transformation Documentation
+# Digital Transformation
 
 Message from Abhishek : Don't add any content in the ReadMe.md file
 

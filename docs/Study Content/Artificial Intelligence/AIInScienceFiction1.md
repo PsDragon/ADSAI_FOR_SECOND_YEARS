@@ -8,13 +8,10 @@ sort: 3
 
 ### 1. Introduction
 
-During the day, you will be given the opportunity to watch Minority Report in the DataLab. There will be three screenings, timeslots are listed below:
+During the day, you will be given the opportunity to watch Minority Report in the DataLab. There will be two screenings, timeslots are listed below:
 
 - 9:00 - 11:00
 - 11:15 - 13:15
-- 14:00 - 16:00
-
-Double-check if your workshop and movie screening session do not overlap!
 
 If you are unable to attend one of the movie screenings, [Minority Report]( https://www.youtube.com/watch?v=msjM96zhles) is also available via YouTube (paid).
 
@@ -29,7 +26,7 @@ Tip: if you take notes during the movie, it will be easier to identify all the r
 
 ### 2. Minority Report & Outline
 
-After you have watched Minority Report, ask yourself 'What AI technologies, methods, and/or practices etc. were depicted in the movie?'. When you have successfully identified an AI topic, search the internet for information that can be used as evidence to support your argument. [Google](https://www.google.com/) is often a good starting point. Other useful sources: [Papers with code](https://paperswithcode.com/), and [The Guardian](https://www.theguardian.com/international). Do not restrict yourself to one single source, try to look for multiple sources to back your arguments with.
+After you have watched Minority Report, ask yourself 'What AI technologies, methods, and/or practices etc. were depicted in the movie?'. When you have successfully identified an AI topic, search the internet for information that can be used as evidence to support your argument. [Google](https://www.google.com/) is often a good starting point. Other useful sources: [Papers with Code](https://paperswithcode.com/), [Nature](https://www.nature.com/), [Connected Papers](https://www.connectedpapers.com/), and [The Guardian](https://www.theguardian.com/international). Do not restrict yourself to one single source, try to look for multiple sources to back your arguments with.
 
 Furthermore, try to evaluate the feasibility of the AI topic by critically assessing its possible application(s) within a business setting. As with the AI topic, support your arguments with information found in credible sources.
 
@@ -37,13 +34,12 @@ Furthermore, try to evaluate the feasibility of the AI topic by critically asses
 Tip: for more information on the credibility of sources, see <a href="./documents/source_credibility.pdf">How To Select The Best Sources</a> by Buttram et al. (November 2012).
 </div>   
 
-The first draft of the creative brief should include:
+As part of the creative brief you are required to present a first draft, in the form of an outline, where you touch upon the following topics:
 
 1. Analysis of an AI topic within the movie Minority Report;
 2. The feasibility of the AI topic and the explanation of how this AI topic or a similar AI topic is being implemented within a specific business setting.
-3. Outline of the report
 
-The presentation of the first draft of the creative brief will take a place during the DataLab 3 on the 14th of September (Tuesday).
+You will need to present your first draft (i.e. outline) on the 14th of September, during DataLab 3 (Week 2, Tuesday). Each of you will be given ONLY 7 minutes to present your work.
 
 ***
 

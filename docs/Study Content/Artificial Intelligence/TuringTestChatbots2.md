@@ -8,7 +8,7 @@ sort: 4
 
 ### 1. Introduction
 
-In today's DataLab session, we will discuss the article Computation Machinery and Intelligence, and perform an experiment called the Turing Test. Furthermore, we will start working on the creative brief of AI&DT: AI & Science Fiction. A detailed description of the assignment can be found in the Project Brief. At the end of the day, from 16:00 to 17:00, we will have a moment to reflect on DataLab 1.
+In today's DataLab session, we will discuss the article Computation Machinery and Intelligence, and perform an experiment called the Turing Test.
 
 Before/after the workshop you have time to work on the independent study material or creative brief, and/or ask the lecturers for feedback.
 
@@ -16,16 +16,15 @@ Before/after the workshop you have time to work on the independent study materia
 
 ### 2. Workshop
 
-The workshop consists of two parts: class discussing on the article, and the Turing Test. For each workshop there are 15 spots available. Timeslots:
-
-- Group 1: 10:45 - 13:15
-- Group 2: 13:30 - 16:00
+The workshop consists of two parts: class discussing on the article, and the Turing Test (timeslot: 13:30 - 16:00).
 
 When conducting the Turing Test, we will make use of the chatbots that were found online by you, and/or your fellow students.
 
 #### 2.1 Discussion
 
 Article: [Computing Machinery and Intelligence](https://watermark.silverchair.com/lix-236-433.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAqswggKnBgkqhkiG9w0BBwagggKYMIIClAIBADCCAo0GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMi0QU_r8XoVEcFqlmAgEQgIICXtQav8ZfX7wn3sMEOkUNL9dH5VzCvRC2RZmIy7W49sgHTbO69F9san7JvQmPOl81YMQ-3j26uRFGCiboiq7Ab4a4OSL5wtXnXaax9cWDFfrpTRJxWrVNnm8Yno9xXQyrZzJ7RYv1O7VIp4yIGTZvmE7sJuZ2etOCHfwY96_aMFjWAZH7TrUpPKvdY6E-lpyVeXcub5qrchiQHtXedsNatJJd3Y7eVlVwQfbgbLk3UcnQjWaWiDfHempRRjJUW-VGld4bpCBxAvFh5UVXzQm9B24ZFMljiGWJcvav9Qt70Vsu6VcYvx6rKfiKYSKHdpov6GNcCspnsOaVOVmkq66ZAElW5WMD4cZrmkfjTy435CLWORdIOlSJYX2jx7yHi-mV3Jifq0-ij-rRlnttSyodRch07QiU2G0GRKuN9fO9F7EOJtrvOurLEXwJcxaNL3Q4_3V82ffAmvtto5rzFLm0yuWjTG25kT-Hzzq6t4Z17g44vhddVWLZodCytpX8zQpiMnIpPIWCscluaLDDHhoCkY-dQGAzCqLDmC7yM1EuNHo1e99_6K5c8rZf7Yj_Suhzkn_WiTHO09mWW4V1dBHYiDpquaxPg0ENWywf3k7zMa68nqDrn4Aa4vkHHmftIRWkUDft8jjiyGx35bYma10yge1JJNzmSykqjwpTuKRKyhx-aQcYLcKVei5VjSEC4qrEn93N3KQ0FqWBb8YVhtxFhE7Suro5dyr5E9pz3T-OPHBxfImev3B_nZntI6YFihOorG7WuQlAh60yXOcCBHucubn9LuqCTTlEP9RsbnJgig.) (Turing, 1950).
+
+Reading guide: [How to read a paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf).
 
 Chatbot: [ELIZA](https://web.njit.edu/~ronkowit/eliza.html
 ) (Weizenbaum, 1966).
@@ -96,27 +95,10 @@ In-class experiment, instructions by lecturer.
 
 ***
 
-#### 3. Reflection (16:00-17:00)
-
-__3a__ Choose, and provide an answer to at least of the following questions:
-
-1. What surprised you today, and why?
-2. What’s the most important thing you learned today? Why do you think so?
-3. What do you want to learn more about, and why?
-4. When were you the most creative, and why do you think that is?
-5. What made you curious today? How does learning feel different when you’re curious?
-6. When were you at your best today, and why?
-7. (Assuming we were studying the same thing and you could decide and have access to anything), where would you start tomorrow? Why?
-8. What can/should you do with what you know?
-
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: the exercise is format-free, meaning you can answer in any way or form you see suited. Make a drawing, write a piece of text, create a video, etc.
-</div>
-
-***
-
 ## __Literature__
 
 Gilchrist, K. (2017, May 9). Chatbots expected to cut business costs by $8 billion by 2022. CNBC. Retrieved June 16, 2021, from https://www.cnbc.com/2017/05/09/chatbots-expected-to-cut-business-costs-by-8-billion-by-2022.html
+
+Keshav, S. (2007). *How to read a paper.* ACM SIGCOMM Computer Communication Review, 37(3), 83-84.
 
 Turing, A. M. (2009). Computing machinery and intelligence. In Parsing the Turing test (pp. 23-65). Springer, Dordrecht.

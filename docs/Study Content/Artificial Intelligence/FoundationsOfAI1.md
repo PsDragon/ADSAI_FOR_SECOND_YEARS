@@ -13,7 +13,7 @@ Today, you will start your journey into the wonderful world of Artificial Intell
 
 We advise you to start early with the independent study exercises, because we are going to cover quite a bit of material today!
 
-If you have questions regarding the study material, you can send us an email or attend the Q&A session at the end of each self-study day. During the Q&A session, we will extensively discuss the independent study material. For details on availability see Project Brief.
+If you have questions regarding the study material, you can send us an email or attend the Q&A session at the end of each independent study day. During the Q&A session, we will extensively discuss the independent study material. For details on availability see Project Brief.
 
 ### 2. What is artificial intelligence?
 
@@ -34,13 +34,13 @@ but also examples from popular culture (e.g. movies, books, video games etc.).
 
 ### 2. Philosophy of Artificial Intelligence
 
-In this section, you will be made familiar with the various definitions of AI, and its related fields (e.g. cognitive science). The information required to successfully complete this section, can (to a greater extent) be found in the book Artificial Intelligence: A Modern Approach by Russell and Norvig (2020)<sup>[1](#footnote_1)</sup>. You will be using this specific book throughout the programme.
+In this section, you will be made familiar with the various definitions of AI, and its related fields (e.g. cognitive science). The information required to successfully complete this section, can (to a greater extent) be found in the book Artificial Intelligence: A Modern Approach by Russell and Norvig (2021)<sup>[1](#footnote_1)</sup>. You will be using this specific book throughout the programme.
 
 <img src="./images/ai_russell_norvig.jpg" alt="Book Russell and Norvig" width="250"/>
 
 *Figure 1. Artificial Intelligence: A Modern Approach (Russell and Norvig, 2021).*
 
-You can purchase the book or borrow it from BUAS' library. The library currently has ... copies available.
+You can purchase the book or borrow it from BUAS' library. The library currently has three copies available.
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Tip: incorporate some screen-free time in your schedule by reading a paper copy of a book/article etc. instead of a digital one. Your eyes will thank me later.
@@ -61,8 +61,11 @@ __2d__ What is the 'Chinese room experiment'? Describe its procedure.
 __2e__ What is the 'Chinese room experiment' supposed to show? Select the correct statement, and elaborate on your choice:
 
 a) Computers are not yet able to simulate the human ability to understand
+\
 b) Understanding involves more than the ability to formally reproduce appropriate outputs
+\
 c) It is only possible for systems to demonstrate understanding
+\
 d) No machine can demonstrate genuine understanding
 
 __2f__ Connect the Post It notes (Fig 1.) to the relevant quadrant in the philosophy matrix (Fig 2.). For example, A = 1, 2, and  B = 3, 4, 5 etc.
@@ -72,7 +75,8 @@ __2f__ Connect the Post It notes (Fig 1.) to the relevant quadrant in the philos
 *Figure 1. Post It notes with philosophy of AI terms.*
 \
 \
-<img src="./images/matrix.jpg" alt="Matrix" width="750"/>
+<img src="./images/AI_matrix_v2.png" alt="Matrix" width="600"/>
+
 *Figure 2. Philosophy of AI matrix.*
 
 __2g__ After completing the readings and exercises of this section, would you provide the same answer to exercise 1b? Explain your answer.
@@ -87,7 +91,7 @@ The early beginnings of AI, can be traced to the Ancient Greek period when philo
 
 Throughout the centuries, scholars from various disciplines have made significant contributions to the field of AI. To name a few of them: al-Jazari, Leonardo Da Vinci, Ada Lovelace, Norbert Wiener, and Alan Turing.
 
-However, the field of 'artificial intelligence' was not formally founded until 1956. It was at a conference, held at Dartmouth College, New Hampshire, were John McCarthy first coined the term 'Artificial Intelligence', which he defined as '... the science and engineering of making intelligent machines, especially intelligent computer programs' (Morignat, n.d.).  
+However, the field of 'artificial intelligence' was not formally founded until 1956. It was at a conference, held at Dartmouth College, New Hampshire, were John McCarthy first coined the term 'artificial intelligence', which he defined as '... the science and engineering of making intelligent machines, especially intelligent computer programs' (Morignat, n.d.).  
 
 After some setbacks in the 1970s and 1980s, also referred to as the AI winters, the field of AI has seen rapid advancements due to, among others, the introduction of deep learning, big data and artificial general intelligence in the early 2000s.
 

@@ -1,2 +1,2 @@
-# AAI-DM
-All activities for AAI&amp;DM course in AGM
+# ADS-AI
+All activities for ADS&amp;AI course in AGM

@@ -18,7 +18,6 @@ Week 6-8: [Programming in Python](#week-6--programming-in-python)
 
 ## Tuesday
 - [AI in Science Fiction (1): Minority Report & Outline](../../Study%20Content/Artificial%20Intelligence/AIInScienceFiction1.html)
-- [Turing Test & Chatbots (2): Discussion & Turing Test](../../Study%20Content/Artificial%20Intelligence/TuringTestChatbots2.html)
 
 ## Wednesday
 - [Scientific writing (1): The structure of a paragraph and rules of writing; Bias-free language ](../../Study%20Content/Digital%20Transformation/AIForBusiness1.html)
@@ -27,7 +26,7 @@ Week 6-8: [Programming in Python](#week-6--programming-in-python)
 - [Foundations of AI (2): Symbolic/non-symbolic AI & Intelligent agents](../../Study%20Content/Artificial%20Intelligence/FoundationsOfAI2.html)
 
 ## Friday
-- [AI in Science Fiction (2): Report](../../Study%20Content/Artificial%20Intelligence/AIInScienceFiction2.html)
+- [Turing Test & Chatbots (2): Discussion & Turing Test](../../Study%20Content/Artificial%20Intelligence/TuringTestChatbots2.html)
 
 
 # Week 2 : Digital Transformation & Artificial Intelligence
@@ -137,13 +136,10 @@ Week 6-8: [Programming in Python](#week-6--programming-in-python)
 - [Data Lab: Image Steganography](https://www.buas.nl/en/game)
 
 ## Wednesday
-- [Advanced Numpy: Broadcasting](https://www.buas.nl/en/game)
-- [Advanced Numpy: Vectorising](https://www.buas.nl/en/game)
-
+- [Advanced Numpy: Broadcasting & Vectorizing](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/Programming/AdvancedNumpy.html)
 
 ## Thursday
-- [Python: Matplotlib](https://www.buas.nl/en/game)
-- [Python: Scikit-learn](https://www.buas.nl/en/game)
+- [Python:Data visualization](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/Programming/Data%20visualization%20in%20Python.html)
 
 ## Friday
 - [Data Lab: Image Steganography](https://www.buas.nl/en/game)
@@ -151,19 +147,18 @@ Week 6-8: [Programming in Python](#week-6--programming-in-python)
 # Week 8 : Programming in Python
 
 ## Monday
-- [PEP 8-Coding standards for Python ](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/Programming/Python%20Numpy.html)
-- [Reproducible data analysis in Python](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/Programming/Python%20Image%20Processing.html)
+- [PEP 8-Coding standards for Python ](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/Programming/Python%20PEP8.html)
+
 
 ## Tuesday
 - [Data Lab: Image Steganography](https://www.buas.nl/en/game)
 
 ## Wednesday
-- [Python Application development - Flask](https://www.buas.nl/en/game)
-- [Python Application development - Qt](https://www.buas.nl/en/game)
+- [Python (web) Application development](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/Programming/Python%20web%20application.html)
 
 
 ## Thursday
-- [Python: Self study](https://www.buas.nl/en/game)
+- [Python: Recap of key concepts](https://www.buas.nl/en/game)
 - [Python:Extended Q & A](https://www.buas.nl/en/game)
 
 ## Friday

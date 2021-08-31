@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# Business Intelligence Documentation
+# Business Intelligence
 
 Message from Abhishek : Don't add any content in the ReadMe.md file
 

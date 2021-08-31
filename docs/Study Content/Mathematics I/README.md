@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# Mathematics I Documentation
+# Mathematics I
 
 Message from Abhishek : Don't add any content in the ReadMe.md file
 

@@ -29,9 +29,12 @@ A DESCRIPTION OF LECTURE
 ## 1) MORE LECTURE MATERIAL TO CONSUMER IF RELEVANT
 [NAME OF TOPIC](LINK TO LECTURE MATERIAL HERE)
 
-## 2) Next steps: XXXXXXXXXXX
-Now its time for [the workshop part](LINK TO WORKSHOP)!
-
+### Step 1: Workshop
+Download the R swirl course [Statistical_Inference](https://github.com/swirldev/swirl_courses) by running the following code in the R-studio console:
+```R
+swirl::install_course("Statistical_Inference")
+```
+Complete module 8-14.
 
 ## Further reading & other relevant information:
 1. [Content](LINK): DESCRIPTION OF WHAT THIS IS, WHY IT IS RELEVANT AND FOR WHO

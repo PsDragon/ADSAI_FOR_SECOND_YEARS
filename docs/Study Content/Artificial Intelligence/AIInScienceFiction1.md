@@ -39,7 +39,7 @@ As part of the creative brief you are required to present a first draft, in the 
 1. Analysis of an AI topic within the movie Minority Report;
 2. The feasibility of the AI topic and the explanation of how this AI topic or a similar AI topic is being implemented within a specific business setting.
 
-You will need to present your first draft (i.e. outline) on the 14th of September, during DataLab 3 (Week 2, Tuesday). Each of you will be given ONLY 7 minutes to present your work.
+You will need to present your first draft (i.e. outline) on the 14th of September, during DataLab 3 (Week 2, Tuesday). Each of you will be given ONLY 5 minutes to present your work.
 
 ***
 

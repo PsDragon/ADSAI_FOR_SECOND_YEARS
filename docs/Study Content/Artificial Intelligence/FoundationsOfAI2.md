@@ -11,15 +11,7 @@ sort: 5
 
 Today's independent study material focusses on the concept of symbolic/non-symbolic AI, and intelligent agents. You will approximately spend 4 hours on the material.
 
-During the DataLab 3 you will be asked to present the first part of the creative brief, therefore its is strictly advised to work on your first draft for the remainder of the day.
-
-__Requirements for the presentation:__
-
-- Analysis of an AI topic within the movie Minority Report;
-- The feasibility of the AI topic and the explanation of how this AI topic or a similar AI topic is being implemented within a specific business setting;
-- Outline of the report.
-
-You will be given ONLY 7 minutes to present your first draft.
+During the DataLab 3 you will be asked to present the first part of the creative brief, therefore its is strictly advised to work on your first draft (i.e. outline) for the remainder of the day.
 
 ***
 
@@ -90,10 +82,31 @@ __5f__ Compare and contrast the following agent types:
 
 - Simple reflex
 - Model-based reflex
-- Goal-based reflex
+- Goal-based
 - Utility-based  
 
 Explain your answer.
+
+***
+
+### 6. Reflection and Q&A (16:00-17:00)
+
+__6a__ Ask question(s) related to the independent study material.
+
+__6b__ Choose, and provide an answer to at least of the following questions:
+
+1. What surprised you today, and why?
+2. What is the most important thing you learned today? Why do you think so?
+3. What do you want to learn more about, and why?
+4. When were you the most creative, and why do you think that is?
+5. What made you curious today? How does learning feel different when you are curious?
+6. When were you at your best today, and why?
+7. (Assuming we were studying the same thing and you could decide and have access to anything), where would you start tomorrow? Why?
+8. What can/should you do with what you know?
+
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Tip: the exercise is format-free, meaning you can answer in any way or form you see suited. Make a drawing, write a piece of text, create a video, etc.
+</div>
 
 ***
 

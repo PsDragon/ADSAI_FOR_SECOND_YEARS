@@ -41,7 +41,7 @@ Fill in the blanks.
 Alert: whoever has the quirkiest fact on Alan Turing will receive a Mars bar at the end of the workshop in DataLab 2.
 </div>
 
-__2c__ Select, and subsequently read or watch at least one of the following sources:
+__2c__ Select, and subsequently read or watch at least one of the following sources gradatie:
 
 - Article: [Computing Machinery and Intelligence](https://academic.oup.com/mind/article/LIX/236/433/986238) (Turing, 1950)
 
@@ -61,9 +61,28 @@ Tip: if you are having difficulties reading the mathematical equations or unders
 
 ***
 
+### 3. Reflection and Q&A (16:00-17:00)
+
+__3a__ Ask question(s) related to the independent study material.
+
+__3b__ Choose, and provide an answer to at least of the following questions:
+
+1. What surprised you today, and why?
+2. What is the most important thing you learned today? Why do you think so?
+3. What do you want to learn more about, and why?
+4. When were you the most creative, and why do you think that is?
+5. What made you curious today? How does learning feel different when you are curious?
+6. When were you at your best today, and why?
+7. (Assuming we were studying the same thing and you could decide and have access to anything), where would you start tomorrow? Why?
+8. What can/should you do with what you know?
+
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Tip: the exercise is format-free, meaning you can answer in any way or form you see suited. Make a drawing, write a piece of text, create a video, etc.
+</div>
+
+***
+
 ### __Literature__
-Diaz, L. (2014, May). *How to Take Notes of Videos. USC Kortschak Center for Learning and Creativity.*
-http://kortschakcenter.usc.edu/wp-content/uploads/2014/05/Video-Note-taking.pdf
 
 Keshav, S. (2007). *How to read a paper.* ACM SIGCOMM Computer Communication Review, 37(3), 83-84.
 

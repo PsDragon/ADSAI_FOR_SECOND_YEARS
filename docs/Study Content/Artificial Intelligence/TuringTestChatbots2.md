@@ -8,7 +8,7 @@ sort: 4
 
 ### 1. Introduction
 
-In today's DataLab session, we will discuss the article Computation Machinery and Intelligence, and perform an experiment called the Turing Test. Furthermore, we will start working on the creative brief of AI&DT: AI & Science Fiction. A detailed description of the assignment can be found in the Project Brief. At the end of the day, from 16:00 to 17:00, we will have a moment to reflect on DataLab 1.
+In today's DataLab session, we will discuss the article Computation Machinery and Intelligence, and perform an experiment called the Turing Test.
 
 Before/after the workshop you have time to work on the independent study material or creative brief, and/or ask the lecturers for feedback.
 
@@ -16,10 +16,7 @@ Before/after the workshop you have time to work on the independent study materia
 
 ### 2. Workshop
 
-The workshop consists of two parts: class discussing on the article, and the Turing Test. For each workshop there are 15 spots available. Timeslots:
-
-- Group 1: 10:45 - 13:15
-- Group 2: 13:30 - 16:00
+The workshop consists of two parts: class discussing on the article, and the Turing Test (Timeslot: 13:30 - 16:00)
 
 When conducting the Turing Test, we will make use of the chatbots that were found online by you, and/or your fellow students.
 
@@ -93,25 +90,6 @@ Tip: try to come up with a set of possible weak points of the Turing Test
 *Figure 1. Turing Test, and the existential crisis...*
 
 In-class experiment, instructions by lecturer.  
-
-***
-
-#### 3. Reflection (16:00-17:00)
-
-__3a__ Choose, and provide an answer to at least of the following questions:
-
-1. What surprised you today, and why?
-2. What’s the most important thing you learned today? Why do you think so?
-3. What do you want to learn more about, and why?
-4. When were you the most creative, and why do you think that is?
-5. What made you curious today? How does learning feel different when you’re curious?
-6. When were you at your best today, and why?
-7. (Assuming we were studying the same thing and you could decide and have access to anything), where would you start tomorrow? Why?
-8. What can/should you do with what you know?
-
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: the exercise is format-free, meaning you can answer in any way or form you see suited. Make a drawing, write a piece of text, create a video, etc.
-</div>
 
 ***
 

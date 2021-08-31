@@ -41,11 +41,13 @@ Fill in the blanks.
 Alert: whoever has the quirkiest fact on Alan Turing will receive a Mars bar at the end of the workshop in DataLab 2.
 </div>
 
-__2c__ Select, and subsequently read or watch at least one of the following sources gradatie:
-
-- Article: [Computing Machinery and Intelligence](https://academic.oup.com/mind/article/LIX/236/433/986238) (Turing, 1950)
+__2c__ Read Wikipedia's summary of Computing Machinery and Intelligence by Alan Turing (1950) (required):
 
 - Summary: [Computing Machinery and Intelligence](https://academic.oup.com/mind/article/LIX/236/433/986238) (Wikipedia)
+
+Did you enjoy the summary, and want to take a deeper dive into Turing's Computing Machinery and Intelligence, check out the video by [Lex Fridman](https://lexfridman.com/) and/or read the original article (optional):
+
+- Article: [Computing Machinery and Intelligence](https://academic.oup.com/mind/article/LIX/236/433/986238) (Turing, 1950)
 
 - Video: 'Turing Test: Can Machines Think?' by Lex Fridman (See video below!)
 

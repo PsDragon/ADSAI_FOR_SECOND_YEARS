@@ -16,7 +16,7 @@ Before/after the workshop you have time to work on the independent study materia
 
 ### 2. Workshop
 
-The workshop consists of two parts: class discussing on the article, and the Turing Test (Timeslot: 13:30 - 16:00)
+The workshop consists of two parts: class discussing on the article, and the Turing Test (timeslot: 13:30 - 16:00). 
 
 When conducting the Turing Test, we will make use of the chatbots that were found online by you, and/or your fellow students.
 

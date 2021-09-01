@@ -50,3 +50,17 @@ Please watch the following video to understanding Broadcasting as explained by o
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tKcLaGdvabM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 <!-- blank line -->
+
+## Vectorising
+
+Loops in Python are often the cause behind code that takes forever to run. This is because when you execute a loop in Python, it goes line-by-line through the code at each iteration, and performs several checks every single time for example like determining the type of variable (remember that Python is dynamically typed), resolving it's scope, checking for any exceptions etc.
+
+So loops can indeed your code. How about if we can restrict our lists to have only one data type, avoding the check that needs to take place every iteration? That should definitely speed up the process! Vectorising in NumPy does something similar. NumPy allows arrays to only have a single data type and ensures that your code executes much faster compared to traditional python loops.
+
+## Assignment
+
+- [] Write a Python function that multiplies two lists of unequal sizes using loops.
+- [] Rewrite the function using NumPy using broadcasting and vectorising.
+- [] Time the two functions and comment on the improvements you observe in speed.
+
+>> Use Python's time module to time (or profile) your code.

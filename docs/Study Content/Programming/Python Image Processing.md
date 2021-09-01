@@ -6,7 +6,7 @@ sort: 9
 
 The analog images we see on paper are represented and stored in the computer as digital abstractions of what we see with our eyes in the real world. Before we begin to learn how to process images with Python, it is important to first learn how we abstract images.
 
-## Learning Objectives
+## Today's learning objectives
 - [ ] Understand digital representation of images using pixels.
 - [ ] Understand the RGB Model used to obtain such digital representations.
 - [ ] Understand how to represent images in Python.

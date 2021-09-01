@@ -6,6 +6,9 @@ sort: 11
 
 ```Matplotlib``` is **THE** Python library for creating visualisation. In addition to ```Matplotlib```, ```seaborn``` is also widely used to create impressive visuals. In today's self study day, you will familiarise yourself with these two packages and further, get some hands-on practice with them, which will come in handy when you work on your creative brief.
 
+# Today's learning objectives
+- [ ] Learn ```scikit-learn```, a widely used data visualisation library in Python and apply it to create simple graphs.
+
 Please watch the following video to understand why a picture is worth a thousand words!
 
 <!-- blank line -->

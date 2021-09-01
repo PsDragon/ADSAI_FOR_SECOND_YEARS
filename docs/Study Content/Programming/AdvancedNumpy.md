@@ -6,6 +6,10 @@ sort: 10
 
 We have earlier been introduced to  ```Numpy```, a Python library for numerical computing. In today's self study day, we are going to dive into two advanced Numpy concepts, namely broadcasting and vectorizing. Note that both concepts will be integral to your creative brief.
 
+## Today's learning objectives
+- [ ] Understand NumPy broadcasting.
+- [ ] Understand NumPy vectorising.
+
 ## Broadcasting
 
 The term broadcasting describes how NumPy treats arrays with different shapes during arithmetic operations. For example, in order to add two arrays, the two arrays would have to have the same shape. In general, the smaller array is “broadcast” across the larger array so that they have compatible shapes.
@@ -46,5 +50,3 @@ Please watch the following video to understanding Broadcasting as explained by o
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tKcLaGdvabM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 <!-- blank line -->
-
-## Vectorising

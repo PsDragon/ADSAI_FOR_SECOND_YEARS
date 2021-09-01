@@ -6,7 +6,12 @@ sort: 8
 
 ```Numpy``` is a Python library for numerical computing. In addition to ```pandas```, it is one of the key pieces in the Python data science toolkit! NumPy can be used to perform a wide variety of mathematical operations on arrays and matrices. Since data science often involves performing operations on arrays and matrices*, NumPy is an integral component in a large majority of data science projects in Python.
 
-Please watch the following video to learn more about ```Numpy```.
+## Today's learning objectives
+- [ ] Understand how to learn and use NumPy.
+- [ ] Understand the dimensions of a NumPy array.
+- [ ] Perform basic operations using NumPy.
+
+Please watch the following video to learn more about ```Numpy``` and understand how it is related to ```pandas```.
 
 <!-- blank line -->
 <figure class="video_container">
@@ -47,7 +52,7 @@ print(a.shape)
 To read more about NumPy arrays, please refer to the official documentation which you can find [here](https://numpy.org/doc/stable/user/absolute_beginners.html).
 
 
-## Code Academy - Introduction To Numpy (4 hours)
+## Blended Learning - Code Academy - Introduction To Numpy (4 hours)
 
 - [ ] Please complete the ```INTRODUCTION TO NUMPY``` module in Code Academy which you can find [here](https://www.codecademy.com/learn/intro-statistics-numpy/modules/dspath-intro-numpy).
 

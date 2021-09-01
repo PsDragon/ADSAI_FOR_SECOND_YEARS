@@ -21,7 +21,7 @@ Please watch the following video to learn more about ```pandas```.
 </figure>
 <!-- blank line -->
 
-## Learning objectives
+## Today's learning objectives
 - [ ] Understand what a ```pandas``` dataframe entails
 - [ ] Load, edit, and save common file formats using Python Pandas.
 
@@ -48,7 +48,7 @@ Please watch the following video to learn more about dataframes in ```pandas```.
 <!-- blank line -->
 
 
-## Blended Learning - Code Academy [7 hrs]
+## Blended Learning - Code Academy - Pandas [7 hrs]
 
 - [ ] Please complete the ```Learn Data Analysis with Pandas``` module in Code Academy which can be found [here](https://www.codecademy.com/learn/data-processing-pandas).
 

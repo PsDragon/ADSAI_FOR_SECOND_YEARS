@@ -6,7 +6,7 @@ sort: 7
 
 This data-lab day will focus on Exploratory Data Analysis(EDA). First, we will cover the last modules of the aptly named swirl course: Exploratory Data Analysis. After which, we will work on the project brief, specifically the EDA methodology section, and apply descriptive analyses to generate descriptive statistics and visualisations to populate the EDA Methodology section of our [conference poster](docs\assets\Assessment\DS1-AssesmentPoster_Template.pptx) of our data-lab project.
 
-## 0) Learning Objectives
+## Learning Objectives
 Enable you to:
 1. generate descriptive statistics
 2. generate descriptive visualisations
@@ -19,7 +19,7 @@ Table of contents:
 
 In case you have any questions please first ask your peers or [ask us here](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the year, block, GitHub page and the question you have or the problem you're experiencing in the title.
 
-## 1) Workshop part: Exploratory Data Analyses
+## 0) Workshop part: Exploratory Data Analyses
 Start where you left off yesterday with the Exploratory Data Analysis and finish modules 6 to 7.
 
 If you don't have the swirl course, then you download the R swirl course [Exploratory Data Analysis](https://swirlstats.com/scn/getclean.html) by running the following code in the R-studio console:
@@ -27,22 +27,22 @@ If you don't have the swirl course, then you download the R swirl course [Explor
 swirl::install_course("Exploratory Data Analysis")
 ```
 
-## 2) Project Brief part: Exploratory Data Analysis
+## 1) Project Brief part: Exploratory Data Analysis
 Now that we have performed all EDA techniques we could need to address your problem statement, we can continue working on the project brief.
 
 Download the dply, tidyr and ggplot2 [Cheatsheets](https://www.rstudio.com/resources/cheatsheets/). They're extremely useful when you're working in R, not just for data cleaning so be sure to use them in the future.
 
-**Step 1.** Open your conference poster ([template](docs\assets\Assessment\DS1-AssesmentPoster_Template.pptx)) and inspect the EDA Methodology section.
+**Step 1.** Open your conference poster ([template](docs\assets\Assessment\DS1-AssesmentPoster_Template.pptx)) and inspect the EDA Methodology section. Save the poster to your "DataScience1_ConferencePoster" GitHub repository and replace the template text with your name (e.g. AssessmentPoster_BramHeijligers.pptx).
 
 **Step 2.** Get your notes from the last datalab and read the Introduction you wrote for the poster. Then, go to the [SDG website](https://sdg-tracker.org/) and make **a selection of the variables** you think are interesting in the context of the problem statement.
 
 
-**Step 3.** Download the **relevant** [SDG data](https://unstats.un.org/sdgs/indicators/database/) and create a dataset which **only contains the variables you selected** (apart from identifier data such as the year or geographic area). Then, save the dataset as a CSV file to your [github repository](HYPERLINK).
+**Step 3.** Download the **relevant** [SDG data](https://unstats.un.org/sdgs/indicators/database/) and create a dataset which **only contains the variables you selected** (apart from identifier data such as the year or geographic area). Then, save the dataset as a CSV file to your "DataScience1_ConferencePoster" repository.
 
 Now open the poster and write the Data Selection Section.
 
 
-**Step 4.** Generate descriptive statistics for each variable using the 'summary()' function and save all the results in a table. Then export the table as a 1,366 x 768 pixels .jpeg file and save it to your GitHub repository.
+**Step 4.** Open R-studio and create a script. Generate descriptive statistics for each variable using the 'summary()' function and save all the results in a table. Then export the table as a 1,366 x 768 pixels .jpeg file and save it to your GitHub repository.
 
 Now, open the poster and write the Data Cleaning Sections.
 
@@ -52,13 +52,18 @@ Now, open the poster and write the Data Cleaning Sections.
 2. Histogram
 3. Boxplot
 
-Now open the poster and write the Data Selection and Data Visualisation Sections.
+Now open the poster and write the Data Selection and Data Visualisation Sections. Save your script on GitHub in the "DataScience1_ConferencePoster" repository and name it "SDGIndicatorDataAnalysis_[YourNameHere]".
 
-**Step. 6.** Read and potentially iterate on your poster, then save your poster to your GitHub repository!
+**Step. 6.** Read and potentially iterate on your poster, then save your poster to your GitHub "DataScience1_ConferencePoster" repository!
 
-## 3) The end
+
+## 2)  In-Class discussion
+At 16:00, there's a online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
+
 Next week we're going to cover some Probability fundamental concepts.
 
+## Questions
+In case you have any questions please first ask your peers or (when they don't respond timely) [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the course, workshop and question you have or the problem you're experiencing.
 
 ## Resources:
 - https://unstats.un.org/sdgs/indicators/database/

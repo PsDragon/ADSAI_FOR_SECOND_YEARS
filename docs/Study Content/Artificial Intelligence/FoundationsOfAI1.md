@@ -9,11 +9,11 @@ sort: 1
 
 ### 1. Introduction
 
-Today, you will start your journey into the wonderful world of Artificial Intelligence :rainbow: :computer: During the first self-study day, you will dive into the foundational concepts of AI by examining its history and philosophy. By the end of this day, having completed the relevant readings and activities listed in the independent study material, you should be well prepared for DataLab 1.
+Today, you will start your journey into the wonderful world of Artificial Intelligence :rainbow: :computer: During the first independent study day, you will dive into the foundational concepts of AI by examining its history and philosophy. By the end of this day, having completed the relevant readings and activities listed in the study material, you should be well prepared for DataLab 1/2.
 
 We advise you to start early with the independent study exercises, because we are going to cover quite a bit of material today!
 
-If you have questions regarding the study material, you can send us an email or attend the Q&A session at the end of each independent study day. During the Q&A session, we will extensively discuss the independent study material. For details on availability see Project Brief.
+If you have questions regarding the study material, you can send us an email or attend the Q&A session at the end of each independent study day. During the Q&A session, we will extensively discuss the  material. For details on availability see Project Brief.
 
 ### 2. What is artificial intelligence?
 
@@ -32,7 +32,7 @@ but also examples from popular culture (e.g. movies, books, video games etc.).
 
 ***
 
-### 2. Philosophy of Artificial Intelligence
+### 2. Philosophy of artificial intelligence
 
 In this section, you will be made familiar with the various definitions of AI, and its related fields (e.g. cognitive science). The information required to successfully complete this section, can (to a greater extent) be found in the book Artificial Intelligence: A Modern Approach by Russell and Norvig (2021)<sup>[1](#footnote_1)</sup>. You will be using this specific book throughout the programme.
 
@@ -43,13 +43,13 @@ In this section, you will be made familiar with the various definitions of AI, a
 You can purchase the book or borrow it from BUAS' library. The library currently has three copies available.
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: incorporate some screen-free time in your schedule by reading a paper copy of a book/article etc. instead of a digital one. Your eyes will thank me later.
+Tip: Incorporate some screen-free time in your schedule by reading a paper copy of a book/article etc. instead of a digital one. Your eyes will thank me later.
 </div>
 
 __2a__ Read the first two sub-chapters of the book Artificial Intelligence: A Modern Approach by Russell and Norvig (2021) (p.19-35).
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: if you cannot find the answer to a question in the provided literature, try to look for an answer online.
+Tip: If you cannot find the answer to a question in the provided literature, try to look for an answer online.
 </div>
 
 __2b__ Define the following terms: 'Weak AI', and 'Strong AI'.
@@ -105,16 +105,18 @@ __3a__ Watch the video on the History of AI by YouTube´s AI with Alex.
 
 __3b__ Read the article ['The Ancient Quest for AI'](http://intelligentstory.com/the-quest-for-ai.html), by Valerie Morignat.
 
-__3c__ Find, and describe one 'milestone' in the history of AI. Be creative, so no 'milestones' by Alan Turing! No worries, we are going to extensively discuss his accomplishments during the workshop in DataLab 1 :smiley:
+__3c__ Find, and describe one 'milestone' in the history of AI. Be creative, so no 'milestones' by Alan Turing! No worries, we are going to extensively discuss his accomplishments during the workshop in DataLab 2 :smiley:
 
 ***
 
 ## __Footnote(s)__
+
 <a name="footnote_1">1</a>: Hereforth abbreviated as AIMA.
 
 ***
 
 ## __Literature__
+
 Mayor, A. (2020). *Gods and robots: Myths, machines, and ancient dreams of technology*
 
 Morignat, V. (n.d.). *The quest for AI.* Retrieved June 16, 2021, from http://intelligentstory.com/the-quest-for-ai.html

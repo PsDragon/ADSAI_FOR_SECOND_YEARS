@@ -11,25 +11,25 @@ sort: 5
 
 Today's independent study material focusses on the concept of symbolic/non-symbolic AI, and intelligent agents. You will approximately spend 4 hours on the material.
 
-During the DataLab 3 you will be asked to present the first part of the creative brief, therefore its is strictly advised to work on your first draft (i.e. outline) for the remainder of the day.
+During the DataLab 3 you will be asked to present your first draft (i.e. outline), therefore its is strictly advised to work on it for the remainder of the day.
 
 ***
 
 ### 2. Symbolic AI vs. non-symbolic AI
 
-When you take a closer look at the field of AI, you can see that it is divided into two camps - symbolic and non-symbolic AI. Symbolic AI, also referred to as 'Good Old Fashioned AI', states that '... all intelligent behavior can be captured by a system that reasons logically from a set of facts and rules describing the domain' (Russel and Norvig, 2020). Non-symbolic or connectionist AI, are probabilistic reasoning systems that do not require a symbolic representation. By feeding the system raw information, it can analyze and construct its own implicit knowledge, which in turn can be used to solve a data task.
+When you take a closer look at the field of AI, you can see that it is divided into two camps - symbolic and non-symbolic AI. Symbolic AI, also referred to as 'Good Old Fashioned AI', states that '... all intelligent behavior can be captured by a system that reasons logically from a set of facts and rules describing the domain' (Russel and Norvig, 2020). Non-symbolic or connectionist AI, are probabilistic reasoning systems that do not require a symbolic representation. By feeding the system raw information, it can analyse and construct its own implicit knowledge, which in turn can be used to solve a data task.
 
 __2a__ Watch the video on symbolic AI by the YouTube channel CrashCourse.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WHCo4m2VOws?controls=0&amp;start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Video 1. Symbolic AI by CrashCourse*
+*Video 1. Symbolic AI by CrashCourse.*
 
-__2b__ Define the term 'expert system'.
+__2b__ Define the terms 'inference', and 'expert system' (Be concise!).
 
-__2c__ Are artificial neural networks similar to the human brain?  Support your answer with arguments.
+__2c__ Are artificial neural networks (ANNs) similar to the human brain? Support your answer with arguments.
 
-__2d__ A artificial neural network uses a a) symbolic or b) non-symbolic approach to AI? Select one of the options, and explain your choice.
+__2d__ A ANN uses a a) symbolic or b) non-symbolic approach to AI? Select one of the options, and explain your choice.
 
 In the last couple of years, there has been a reappraisal of symbolic AI because, among others, it is less susceptible to the so called 'Problem of opacity'. Minsky defines the problem as follows: '... the knowledge embodied inside a network's numerical coefficients is not accessible outside that net.' (1991). In other words, it is difficult to know why these non-symbolic models do what they do or how they work.
 
@@ -49,7 +49,7 @@ Tip: Visit <a href="https://playground.tensorflow.org/#activation=tanh&batchSize
 
 ### 3. Intelligent agents
 
-In this section, we are going to explore the concept of the intelligent agent, which can be defined as anything that perceives its environment through sensors and acting upon that environment through actuators. An example of such an 'intelligent' agent is iRobot's Roomba, which is a household vacuuming robot that is able to detect and avoid obstacles. Besides being praised for their innovative design, they are notoriously famous for committing suicide in the must stupid ways.
+In this section, you are going to explore the concept of the intelligent agent, which can be defined as anything that perceives its environment through sensors and acting upon that environment through actuators. An example of such an 'intelligent' agent is iRobot's Roomba, which is a household vacuuming robot that is able to detect and avoid obstacles. Besides being praised for their innovative design, they are notoriously famous for committing suicide in the must stupid ways.
 
 <img src="./images/roomba.jpg" alt="Symbolic and Non-symbolic AI" width="450"/>
 
@@ -63,9 +63,9 @@ __3b__ Watch the video on Deep Blue by IBM.
 
 *Video 2. Deep Blue*
 
-__5c__ IBM's Deep Blue uses a a) symbolic or b) non-symbolic approach to AI? Select one of the options, and explain your choice.
+__3c__ IBM's Deep Blue uses a a) symbolic or b) non-symbolic approach to AI? Select one of the options, and explain your choice.
 
-__5d__ Two intelligent agents are playing chess with a clock. One of them is called 'Deep Blue', while the other is called Gary Kasparov. Roughly specify the task environment for Deep Blue (this means you will have to specifying each letter in PEAS), and determine each of the following properties of this task environment:
+__3d__ Two intelligent agents are playing chess with a clock. One of them is called 'Deep Blue', while the other is called Gary Kasparov. Roughly specify the task environment for Deep Blue (this means you will have to specifying each letter in PEAS), and determine each of the following properties of this task environment:
 
 1. a) Fully observable or b) partially observable
 2. a) Deterministic or b) stochastic
@@ -76,9 +76,9 @@ __5d__ Two intelligent agents are playing chess with a clock. One of them is cal
 
 Explain your answer.
 
-__5e__ Provide an example of an intelligent agent, and give a PEAS description of the task environment, and characterize it in terms of the properties listed in Section 2.3.2 (p. 117) in AIMA.
+__3e__ Provide an example of an intelligent agent, and give a PEAS description of the task environment, and characterize it in terms of the properties listed in Section 2.3.2 (p. 117) in AIMA.
 
-__5f__ Compare and contrast the following agent types:
+__3f__ Compare and contrast the following agent types:
 
 - Simple reflex
 - Model-based reflex
@@ -89,11 +89,11 @@ Explain your answer.
 
 ***
 
-### 6. Reflection and Q&A (16:00-17:00)
+### 4. Reflection and Q&A (16:00-17:00)
 
-__6a__ Ask question(s) related to the independent study material.
+__4a__ Ask question(s) related to the independent study material.
 
-__6b__ Choose, and provide an answer to at least of the following questions:
+__4b__ Choose, and provide an answer to at least of the following questions:
 
 1. What surprised you today, and why?
 2. What is the most important thing you learned today? Why do you think so?
@@ -105,7 +105,7 @@ __6b__ Choose, and provide an answer to at least of the following questions:
 8. What can/should you do with what you know?
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: the exercise is format-free, meaning you can answer in any way or form you see suited. Make a drawing, write a piece of text, create a video, etc.
+Tip: The exercise is format-free, meaning you can answer in any way or form you see suited. Make a drawing, write a piece of text, create a video, etc.
 </div>
 
 ***

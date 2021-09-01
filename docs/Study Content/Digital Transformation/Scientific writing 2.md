@@ -82,21 +82,21 @@ __REVISED__
 
 ●	Explanation: Use an ampersand (&) when citing parenthetically and put a comma between author(s) and year of publication.
 
-  ___●	Catch the Error and Correct the Mistake #3___
+___●	Catch the Error and Correct the Mistake #3___
 
-  Duffy & Petronius (2012, p. 23) found that none of the subjects showed improvement.
+Duffy & Petronius (2012, p. 23) found that none of the subjects showed improvement.
 
-  __REVISED__
+__REVISED__
 
 ●	Duffy and Petronius (2012) found that none of the subjects showed improvement.
 
 ●	Explanation: Use “and” -- not ampersand -- when citing authors outside of parentheses. No page number needed since there was no direct quote.
 
-  ___●	Catch the Error and Correct the Mistake #4___
+___●	Catch the Error and Correct the Mistake #4___
 
-  Duberman, McGuire and Lang (2019) determined that violent video games create aggression in adolescents.
+Duberman, McGuire and Lang (2019) determined that violent video games create aggression in adolescents.
 
-  __REVISED__
+__REVISED__
 
 ●	Duberman et al. (2019) determined that violent video games create aggression in adolescents.
 
@@ -104,7 +104,7 @@ __REVISED__
 
 ●	Parenthetical citation would be: (Duberman et al., 2019).
 
-___●	Catch the Error and Correct the Mistake #5___
+  ___●	Catch the Error and Correct the Mistake #5___
 
   Parker (2018) found that there was “no significant difference between the treatment group and the control group.”
 
@@ -114,7 +114,7 @@ ___●	Catch the Error and Correct the Mistake #5___
 
   ●	Explanation: Since a direct quote was used, a page number must be provided after the quote.
 
-  ___●	Catch the Error and Correct the Mistake #6___
+___●	Catch the Error and Correct the Mistake #6___
 
   When contacted, Mr. Smith had no useful explanation except that “mistakes were made” (phone call, 2015).
 
@@ -156,7 +156,7 @@ ___●	Catch the Error and Correct the Mistake #9___
 
  ●	Explanation: Number and abbreviation rules.
 
-__2c__ Download the APA Format Template for your Assignment.  <a href="./documents/APA Format Template.doc">
+__2c__ Download the APA Format Template for your Assignment.  <a href="./documents/APA Format Template.doc">How To Select The Best Sources</a> by Buttram et al. (November 2012).
 
 
 ***

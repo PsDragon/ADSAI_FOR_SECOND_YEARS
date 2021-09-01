@@ -19,7 +19,7 @@ Map           | ```dict```
 Set           | ```set```
 Boolean       | ```bool```
 
-## Learning objectives
+## Today's learning objectives
 - [ ] Understand basic data types in Python (num, string)
 - [ ] Understand collections in Python (lists, tuples, dict)
 - [ ] Understand common operations and methods on Python data types (e.g., list comprehension)

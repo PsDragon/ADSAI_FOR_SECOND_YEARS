@@ -72,10 +72,15 @@ swirl::install_course("Exploratory Data Analysis")
 ```
 Complete module 1 to 5
 
-## 3) The End
+# 3)  In-Class discussion
+At 16:00, there's a online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
+
+
+## 4) The End
 That was it for today, [tomorrow](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/Datalab_01_ExploratoryDataAnalysis.html) we'll continue until module 10. Then we'll perform an exploratory data analysis on our own data based on the problem statement and research question we made in the previous [datalab](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/Datalab_00_SDG_Indicators.html).
 
 
+## Questions or issues?
 If you have any questions or issues, [ask us here](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the year, block, GitHub page and the question you have or the problem you're experiencing in the title.
 
 ## Resources
@@ -85,4 +90,3 @@ If you have any questions or issues, [ask us here](https://github.com/BredaUnive
 - Learning Statistics with R, by D. Navarro (2018):  https://learningstatisticswithr.com/  
 - Discovering Statistics using R, A. Fields et al (2012): https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067  
 - Freina L and Ott M (2015) A literature review on immersive virtual reality in education: state of the art and perspectives. In: The International Scientific Conference eLearning and Software for Education, volume 1. pp. 10–1007.
-[In case you're interested in multi-modal learning and understanding I would reccomend this video](https://www.youtube.com/watch?v=GEmuEWjHr5c&ab_channel=Veritasium)

@@ -3,40 +3,30 @@ sort: 16
 ---
 
 # Block A Recap
+Today, we recap everything we learned in Block A about data science in R. Especially descriptive statistics and hypothesis testing. To achieve this, we're going to do this using a mini-course on Codecademy.
 
-We start of with a comfortable introduction to TOPICS by lecture. Subsequently, we will focus on putting our new knowledge into practice by XXXXXXXXXXXXXX. In the workshop you will be introduced to YYYYYYYYYYY.
+If you still need to work on your poster, feel free to do this instead. Remember that **the deadline for handing in the conference poster is today at 17:00!**
 
-Please follow the links below to continue the classs:
-1. [Lecture](LINK): X hours
-2. [Workshop](LINK): Y hours
-3. [Mock-Assessment](LINK): Z hours
+Please follow the links below to continue the class:
+1. Workshop: 6 hours
 
 
 Good luck!
 
-In case you have any questions please first ask your peers or (when they don't respond timely) [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the course, workshop and question you have or the problem you're experiencing.
 
-
-# Data Science X, Self-Study Day Y: Lecture - Z
-
-This lecture/workshop/session will focus on XXXXXXX. We are going to cover YYYYYYYYYYYYYYY and apply those concepts to a mock-assessment.
-
-In case you have any questions please first ask your peers or (when they don't respond timely) [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the course, workshop and question you have or the problem you're experiencing.
 
 ## 0) Watch or attend the [opening lecture](LINK TO LECTURE MATERIAL HERE)
-A DESCRIPTION OF LECTURE
+[Go to codecademy](https://www.codecademy.com/learn/learn-statistics-with-r) and log in with your BUAS credential. The course will reinforce the core data science learning objectives for this block.
 
-## 1) MORE LECTURE MATERIAL TO CONSUMER IF RELEVANT
-[NAME OF TOPIC](LINK TO LECTURE MATERIAL HERE)
-
-## 2) Next steps: XXXXXXXXXXX
-Now its time for [the workshop part](LINK TO WORKSHOP)!
+## Questions or issues?
+In case you have any questions, please first ask your peers or (when they don't respond timely) [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the course, workshop and question you have or the problem you're experiencing.
 
 
-## Further reading & other relevant information:
-1. [Content](LINK): DESCRIPTION OF WHAT THIS IS, WHY IT IS RELEVANT AND FOR WHO
+## Resources
+- [https://swirlstats.com/students.html](https://swirlstats.com/students.html)
+- [Swirl](https://swirlstats.com/help.html)
+- http://swirlstats.com/scn/A_(very)_short_introduction_to_R.html
+- Learning Statistics with R, by D. Navarro (2018):  https://learningstatisticswithr.com/  
+- Discovering Statistics using R, A. Fields et al. (2012): https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067  
 
-## References:
-- REFS
-
-Course code: AAIDM1_DSX
+Course code: ADSAI_DS1

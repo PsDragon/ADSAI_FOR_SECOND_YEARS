@@ -24,7 +24,7 @@ A few reasons why Python is a popular programming language for AI and Data Scien
 
 Finally, Python is **FREE**!<br> It doesn't cost anything to download or use Python, or to include it in your application. Python can also be freely modified and re-distributed because while the language is copyrighted it's available under an open-source license [[1]](#1).
 
-## Learning objectives
+## Today's learning objectives
 - [ ] Understand variable assignment in Python
 - [ ] Understand conditional statements and loops
 - [ ] Write your own Python function
@@ -188,6 +188,6 @@ Function in Python accept variables known as function parameters. In our above e
 <!-- blank line -->
 
 
-## Code Academy - Introduction To Python (24 hours)
+## Blended Learning - Code Academy - Introduction To Python (24 hours)
 
 - [ ] Please complete the ```Learn Python 3``` module in Code Academy which you can find [here](https://www.codecademy.com/learn/learn-python-3) by the **end of week 8**.

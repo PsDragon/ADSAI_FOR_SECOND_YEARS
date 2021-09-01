@@ -16,15 +16,13 @@ Before/after the workshop you have time to work on the independent study materia
 
 ### 2. Workshop
 
-The workshop consists of two parts: class discussing on the article, and the Turing Test (timeslot: 13:30 - 16:00).
-
-When conducting the Turing Test, we will make use of the chatbots that were found online by you, and/or your fellow students.
+The workshop consists of two parts: class discussing on the article, and the Turing Test (timeslot: 13:30 - 16:00). When conducting the Turing Test, we will make use of the chatbots that were found online by you, and/or your fellow students.
 
 #### 2.1 Discussion
 
-Article: [Computing Machinery and Intelligence](https://watermark.silverchair.com/lix-236-433.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAqswggKnBgkqhkiG9w0BBwagggKYMIIClAIBADCCAo0GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMi0QU_r8XoVEcFqlmAgEQgIICXtQav8ZfX7wn3sMEOkUNL9dH5VzCvRC2RZmIy7W49sgHTbO69F9san7JvQmPOl81YMQ-3j26uRFGCiboiq7Ab4a4OSL5wtXnXaax9cWDFfrpTRJxWrVNnm8Yno9xXQyrZzJ7RYv1O7VIp4yIGTZvmE7sJuZ2etOCHfwY96_aMFjWAZH7TrUpPKvdY6E-lpyVeXcub5qrchiQHtXedsNatJJd3Y7eVlVwQfbgbLk3UcnQjWaWiDfHempRRjJUW-VGld4bpCBxAvFh5UVXzQm9B24ZFMljiGWJcvav9Qt70Vsu6VcYvx6rKfiKYSKHdpov6GNcCspnsOaVOVmkq66ZAElW5WMD4cZrmkfjTy435CLWORdIOlSJYX2jx7yHi-mV3Jifq0-ij-rRlnttSyodRch07QiU2G0GRKuN9fO9F7EOJtrvOurLEXwJcxaNL3Q4_3V82ffAmvtto5rzFLm0yuWjTG25kT-Hzzq6t4Z17g44vhddVWLZodCytpX8zQpiMnIpPIWCscluaLDDHhoCkY-dQGAzCqLDmC7yM1EuNHo1e99_6K5c8rZf7Yj_Suhzkn_WiTHO09mWW4V1dBHYiDpquaxPg0ENWywf3k7zMa68nqDrn4Aa4vkHHmftIRWkUDft8jjiyGx35bYma10yge1JJNzmSykqjwpTuKRKyhx-aQcYLcKVei5VjSEC4qrEn93N3KQ0FqWBb8YVhtxFhE7Suro5dyr5E9pz3T-OPHBxfImev3B_nZntI6YFihOorG7WuQlAh60yXOcCBHucubn9LuqCTTlEP9RsbnJgig.) (Turing, 1950).
+Article: [Computing Machinery and Intelligence](https://academic.oup.com/mind/article/LIX/236/433/986238) (Turing, 1950).
 
-Reading guide: [How to read a paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf).
+Reading guide: [How to read a paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf) (Kezhav, 2007).
 
 Chatbot: [ELIZA](https://web.njit.edu/~ronkowit/eliza.html
 ) (Weizenbaum, 1966).
@@ -33,7 +31,7 @@ In-class exercises, instructions by lecturer.
 
 #### 2.2 What are chatbots?
 
-Chatbots, also referred to as conversational agents, are software applications that mimic human behavior (i.e. written or spoken speech) with the means to stimulate an interaction with a real person. If you have ever used an customer service live chat, you probably have interacted with such an conversational agent. It is estimated that by 2022, 75% to 90% of customer service inquiries are processed by bots operating on conversational AI technology (CNBC, May 9, 2017). It is fair to say, chatbots are here to stay.
+Chatbots, also referred to as conversational agents, are software applications that mimic human behaviour (i.e. written or spoken speech) with the means to stimulate an interaction with a real person. If you have ever used an customer service live chat, you probably have interacted with such an conversational agent. It is estimated that by 2022, 75% to 90% of customer service inquiries are processed by bots operating on conversational AI technology (CNBC, May 9, 2017). It is fair to say, chatbots are here to stay.
 
 __2.2a__ Watch video on chatbots and virtual agents by Angela Wick.
 
@@ -82,7 +80,7 @@ __2.3b__ Devise a strategy to fool the 'judges'/interrogators. Incorporate the f
 - Questions (e.g. 'I have very controversial views on politics, on democracy in particular. Do you think I’m a bad person for preferring a benevolent dictatorship?')
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: try to come up with a set of possible weak points of the Turing Test
+Tip: Try to come up with a set of possible weak points of the Turing Test
 </div>
 
 #### 2.4 Turing Test

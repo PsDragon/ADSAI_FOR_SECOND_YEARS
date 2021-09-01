@@ -4,7 +4,7 @@ sort: 5
 
 # Intro to Variables and Dataframes
 
-We start with a brief recap of what we learned in the [Intro to R](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/IntroToR.html). After that, we are going to learn about and work with different types of variables, vectors, matrices and data frames. Subsequently, we will focus on putting our new knowledge into practice by creating your own toy data frame.
+We start with a brief recap of what we learned in the [Intro to R](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/IntroToR.html). After that, we are going to learn about and work with different types of variables, vectors, matrices and data frames. Subsequently, we will focus on putting our new knowledge into practice by creating our own toy data frame.
 
 ## 0) Learning Objectives:
 Enable you to understand, manipulate and create:
@@ -71,6 +71,12 @@ Create an R-script following these instructions:
 
 Finished with your mock-assignment? You can upload your R-script on [github classrooms](HYPERLINK)
 
+# 4)  In-Class discussion
+At 16:00, there's a online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
+
+Tomorrow we are going to cover descriptive analysis: what can we tell about the data by just looking at the data distribution and summary statistics?
+
+## Questions?
 If you have any questions or issues, [ask us here](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the year, block, GitHub page and the question you have or the problem you're experiencing in the title.
 
 ## Resources

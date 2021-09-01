@@ -102,6 +102,11 @@ Now, it's time for writing the research questions!
 # 4) In-Class discussion
 At 16:00, we'll all get together to discuss our progress and reflect on today activities.
 
+Tomorrow, we're going to cover variables and dataframe in R.
+
+## Questions
+In case you have any questions please first ask your peers or (when they don't respond timely) [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the course, workshop and question you have or the problem you're experiencing.
+
 
 ## Further reading & other relevant information:
 1. [A slow in-depth dive from a UK statistics institute: Royal Statistical Society](https://youtu.be/M5_IICMdxbM): If you want more information, repetition or a deeper understanding of the SDG indicators; at multiple levels.

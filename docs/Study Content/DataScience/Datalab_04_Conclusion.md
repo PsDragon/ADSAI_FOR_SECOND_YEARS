@@ -1,35 +1,74 @@
 ---
-sort: 17
+sort: 14
 ---
 
-# Datalab 05: Poster Presentation Day
+# Datalab 04: Conclusion and Referencing
 
-Today we're doing the poster presentations. You can come in at 13:00 when the poster presentations start.
+We've now learned everything we needed to know in order to finish our first data science project. All that's left is writing the conclusion and referencing any sources you may have used, like the webpage of the SDG indicators where you got your data. Once you're finished you can use the remainder of your time to brush up on your conference poster or revisit part of the analysis like a data visualisation or interpretation.
+
+## Learning Objectives
+1. Write a conclusion;
+2. Reference your sources;
+3. Understand the CRISP-DM.
+
+Please follow the links below to continue the class:
+1. Conclusion: 2 hours
+2. Referencing: 1 hours
+3. CRISP-DM: -
+
+Feel free to ask for personal feedback during Datalab: from 9:00 to 16:00, in person or online.
+
+Good luck!
+
+## 0) ) Write the Conclusion
+Now, let's write the conclusion of your poster. You have gone through all the steps. You know what to do next and why that's what you need to do. That essentially involves:
+Communicating:
+- A summary of the problem and research question: the problem makes a case for the research question;
+- What the data implies based on your Exploratory Data Analysis;
+- How to proceed or what to consider.
 
 
-## 13:00 - 16:00 Poster representations
-The lecturers will walk around and inquire you about the posters. The course instructors (Nitin & Bram) will grade you based on the content of your poster.
-
-Some of the other lecturers will be present, these will not know what your project is about. So be prepared to take them through it and answer their questions. In essense this just translates to knowing what you are talking about with respect to the scope of your research project, so don't worry about this too much.
-
-If they ask something you don't know just say: "That's interesting, maybe we could look into that in future analyses."
-Sometimes the things they say are simply too big in scope or adressing a different research question: they're asking what they find intesteting. Then you can say something like:
-
-"Good point, however, that is outside of the scope of this study I'm afraid."
-
-or
-
-"Interesting thought, the purpose of this study is not however to [prosal from conversational partner] but to [your research question]".
+## 1) Referencing
+You already learned how to refer to sources using APA citation in Digital Transformation. If you need a refresher, look at [Scientific Writing 2](https://adsai.buas.nl/Study%20Content/Digital%20Transformation/Scientific%20writing%202.html). They're some good APA referencing tools available. [Google Scholar]() is a good one. The [Scribbr Citation Tool](https://www.scribbr.com/apa-citation-generator/) also seems to be good. There are other tools available as well. We're going to cite any sources used for our data science project in the conference poster.
 
 
-Expectation management is an important skill for most jobs, and ours all the more due to the complexity of the challenges we're working with: you can't always properly estimate when you will be ready or wheter it will work. So it's important to keep expectations realistic when you are presenting your poster to your stakeholders. Later in the program we will go into these project and team related skills, for now it's just meant to help your present.
+## 2) Iterating using the CRISP-DM
 
-## Announcing Grades
-**When and where will we announce grades?**
+The CRoss Industry Standard Process for Data Mining (CRISP-DM) is a process model with six phases that naturally describes the data science life cycle. It’s like a set of guardrails to help you plan, organize, and implement your data science (or machine learning) project.
 
+1. Business understanding – What does the business need?
+2. Data understanding – What data do we have/need? Is it clean?
+3. Data preparation – How do we organise the data for modelling?
+4. Modeling – What modelling techniques should we apply?
+5. Evaluation – Which model best meets the business objectives?
+6. Deployment – How do stakeholders access the results?
 
-## Questions
-In case you have any questions please first ask your peers or (when they don't respond timely) [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the course, workshop and question you have or the problem you're experiencing.
+\
+<img src="./assets/CRISP-DM.png"/>
 
+In our project, we only go to step 4, asking ourselves: What modelling technique should we apply? We don't actually model our data, evaluate our model or deploy our data science solution. We'll do these steps in the different projects throughout the year.
+
+Watch the following video:
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="640" height="360" src="https://www.linkedin.com/learning/embed/data-science-for-java-developers/crisp-dm-the-data-science-cycle?autoplay=false&claim=AQE7aNB0gsHrKgAAAXuehqfAMTIXw27ZETDk3v0n1ILbxgFR2EOcIxEpRz03FiIL4XLyHalA4ZJ36lGceHRjW7TPal_znC2dUvH76UCG363f60c2K1FwsVYdBHs4rUkiErgU-pMlHhQ0L56Z9ENgLmirSzdAQyPY2ATPF_aay-IyNh8KN5t_3Au1y7_O6oTQxehIxhQ6-4yLlqq78IOXzWSSLlcTPd8vkAqcnNI8X3hsu70GTIdR-m-mna9WUgzv0nmDdFbh7rBBB3hUTBflJpMrN5PhUR1W4uc6MlCcBXSzobvxegnf8YRGg_KK-Vv4K9hi-YF0AfzxFcjRk1NsvXRFxS0rksHa02VLxvI-lWPE7rs7xPua3Wz63qjj1NlTFhQ8M87N2DY3OajUN0AEbbk6R2Hn1iVg1R7spxMNiOcwWm5g0hH7LtYvM_rIoZmsxoUlYRSKyJGd4HktJXvjPx0Cyp0jJWv-VafYsLDpvHQ37ZhRVR0sN4A44XWQMRcZ84Y3Ub8vXv-v0zz7lgsf-Y2-yGPETdfEusC7lzCoxMcToFqvenZX7asL8D6CS4lxDPxcHzbMZZ5wuqXIDT5MK7hKAY5IuK9HCgf02YMKXDRkzc_5Ru5xDuX8OXliQXxhTi8q01T8NfuVC_QMluI2EnA2nuNYU0MT5qxPIo8HrWf1QtGcHucLJoJRlGN5RCMUUFpCue-7qNZcOs5YXqoTlhDL3nk2Db1EUb-fW153sudFh_ZKnoQ&lipi=urn%3Ali%3Apage%3Ad_learning_content%3BtSYxLf9mSWO8dG4Yt8KSVQ%3D%3D&licu" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true" frameborder="0" style="position:absolute;width:100%;height:100%;left:0"></iframe></div><p><strong><a href="https://www.linkedin.com/learning/data-science-for-java-developers/crisp-dm-the-data-science-cycle?trk=embed_lil">CRISP-DM: The data science cycle</a></strong> from <strong><a href="https://www.linkedin.com/learning/data-science-for-java-developers?trk=embed_lil">Data Science for Java Developers</a></strong> by <strong><a href="https://www.linkedin.com/learning/instructors/shaun-wassell?trk=embed_lil">Shaun Wassell</a></strong></p>
+
+Run through your analysis script, run it and re-evaluate it. Look at your conference poster and visualisations to see if there's anything that needs to be updated.
+
+Done? Maybe you can help your peers by proofreading their work? They may return the favour, and you both get a better learning experience :P
+
+## 3) In-Class discussion
+At 16:00, there's a online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
+
+Tomorrow, we will introduce you to linear regresion and machine learning!
+
+## Questions or issues?
+In case you have any questions, please first ask your peers or (when they don't respond timely) [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the course, workshop and question you have or the problem you're experiencing.
+
+## Resources
+- [https://swirlstats.com/students.html](https://swirlstats.com/students.html)
+- [Swirl](https://swirlstats.com/help.html)
+- http://swirlstats.com/scn/A_(very)_short_introduction_to_R.html
+- Learning Statistics with R, by D. Navarro (2018):  https://learningstatisticswithr.com/  
+- Discovering Statistics using R, A. Fields et al. (2012): https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067  
+- CRISP-DM. (2021, August 24). Data Science Process Alliance. https://www.datascience-pm.com/crisp-dm-2/
 
 Course code: ADSAI_DS1

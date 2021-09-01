@@ -109,37 +109,37 @@ Week 6-8: [Programming in Python](#week-6--programming-in-python)
 # Week 6 : Programming in Python
 
 ## Monday
-- [Programming: A Primer](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/Programming/StartingProgramming.html)
-- [Setting up your development environment](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/Programming/SetupIDE.html)
-- [Python foundation](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/Programming/Python%20foundations.html)
+- [Programming: A Primer](https://adsai.buas.nl/Study%20Content/Programming/StartingProgramming.html)
+- [Setting up your development environment](https://adsai.buas.nl/Study%20Content/Programming/SetupIDE.html)
+- [Python foundation](https://adsai.buas.nl/Study%20Content/Programming/Python%20foundations.html)
 
 ## Tuesday
-- [Data Lab: Python foundation](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/Programming/DataLabPR1.1.html)
+- [Data Lab: Python foundation](https://adsai.buas.nl/Study%20Content/Programming/DataLabPR1.1.html)
 
 ## Wednesday
-- [Python data types & data structures](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/Programming/Python%20data%20types%20and%20data%20structures.html)
+- [Python data types & data structures](https://adsai.buas.nl/Study%20Content/Programming/Python%20data%20types%20and%20data%20structures.html)
 
 
 ## Thursday
-- [Python: Pandas](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/Programming/Getting%20Started%20with%20Pandas.html)
+- [Python: Pandas](https://adsai.buas.nl/Study%20Content/Programming/Getting%20Started%20with%20Pandas.html)
 
 ## Friday
-- [Data Lab: Python data structures & Pandas](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/Programming/DataLabPR1.2.html)
+- [Data Lab: Python data structures & Pandas](https://adsai.buas.nl/Study%20Content/Programming/DataLabPR1.2.html)
 
 # Week 7 : Programming in Python
 
 ## Monday
-- [Introduction to Python NumPy](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/Programming/Python%20Numpy.html)
-- [Image Processing in Python](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/Programming/Python%20Image%20Processing.html)
+- [Introduction to Python NumPy](https://adsai.buas.nl/Study%20Content/Programming/Python%20Numpy.html)
+- [Image Processing in Python](https://adsai.buas.nl/Study%20Content/Programming/Python%20Image%20Processing.html)
 
 ## Tuesday
 - [Data Lab: Image Steganography](https://www.buas.nl/en/game)
 
 ## Wednesday
-- [Advanced Numpy: Broadcasting & Vectorizing](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/Programming/AdvancedNumpy.html)
+- [Advanced Numpy: Broadcasting & Vectorizing](https://adsai.buas.nl/Study%20Content/Programming/AdvancedNumpy.html)
 
 ## Thursday
-- [Python:Data visualization](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/Programming/Data%20visualization%20in%20Python.html)
+- [Python:Data visualization](https://adsai.buas.nl/Study%20Content/Programming/Data%20visualization%20in%20Python.html)
 
 ## Friday
 - [Data Lab: Image Steganography](https://www.buas.nl/en/game)
@@ -147,19 +147,18 @@ Week 6-8: [Programming in Python](#week-6--programming-in-python)
 # Week 8 : Programming in Python
 
 ## Monday
-- [PEP 8-Coding standards for Python ](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/Programming/Python%20PEP8.html)
+- [PEP 8-Coding standards for Python ]https://adsai.buas.nl/Study%20Content/Programming/Python%20PEP8.html)
 
 
 ## Tuesday
 - [Data Lab: Image Steganography](https://www.buas.nl/en/game)
 
 ## Wednesday
-- [Python (web) Application development](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/Programming/Python%20web%20application.html)
+- [Python (web) Application development](https://adsai.buas.nl/Study%20Content/Programming/Python%20web%20application.html)
 
 
 ## Thursday
 - [Python: Recap of key concepts](https://www.buas.nl/en/game)
-- [Python:Extended Q & A](https://www.buas.nl/en/game)
 
 ## Friday
 - [Data Lab: Image Steganography](https://www.buas.nl/en/game)

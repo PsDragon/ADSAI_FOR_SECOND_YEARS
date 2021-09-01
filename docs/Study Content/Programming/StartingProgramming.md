@@ -16,7 +16,7 @@ but have no means of implementing and sharing it.
 While the modules in Data Science and AI will develop your mathematics and statistics knowledge,
 this module will focus on developing your **hacking i.e. programming** skills.
 
-## Learning objectives
+## Today's learning objectives
 - [ ] Understand what is an algorithm
 - [ ] Understand what flowcharts and psuedocodes
 - [ ] Develop computation thinking
@@ -50,7 +50,7 @@ As you may have noticed in the video, a flowchart consists of certain elements.
 Process start and end nodes (times when the project starts or ends), project development stages (activities to be carried out), decision nodes (times when a decision needs to be made) and connectors (arrows indicating the project time flow). In the industry, Microsoft Visio is typically used to draw flowcharts, for this module you are free to use any software you prefer (e.g., PowerPoint).
 
 ## Assignment
-**PR1.1** <br>
+
 a) What's an algorithm?
 - [ ] A science
 - [ ] A step by step set of instruction for solving a specific problem
@@ -68,6 +68,6 @@ c) Can a connector in a flowchart have arrows on both ends?
 - [ ] No
 
 
-**PR1.2** In the DataLab session for Data Science, you followed a sequence of steps in order to develop your creative brief, the Poster-Our World in Data. Represent the steps you took using a flowchart.
+**2** In the DataLab session for Data Science, you followed a sequence of steps in order to develop your creative brief, the Poster-Our World in Data. Represent the steps you took using a flowchart.
 
-**PR1.3** Develop an algorithm to find the largest of 3 numbers a, b, c. Use psuedocode and a flowchart to design your algorithm.
+**3** Develop an algorithm to find the largest of 3 numbers a, b, c. Use psuedocode and a flowchart to design your algorithm.

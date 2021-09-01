@@ -63,9 +63,9 @@ __3b__ Watch the video on Deep Blue by IBM.
 
 *Video 2. Deep Blue*
 
-__5c__ IBM's Deep Blue uses a a) symbolic or b) non-symbolic approach to AI? Select one of the options, and explain your choice.
+__3c__ IBM's Deep Blue uses a a) symbolic or b) non-symbolic approach to AI? Select one of the options, and explain your choice.
 
-__5d__ Two intelligent agents are playing chess with a clock. One of them is called 'Deep Blue', while the other is called Gary Kasparov. Roughly specify the task environment for Deep Blue (this means you will have to specifying each letter in PEAS), and determine each of the following properties of this task environment:
+__3d__ Two intelligent agents are playing chess with a clock. One of them is called 'Deep Blue', while the other is called Gary Kasparov. Roughly specify the task environment for Deep Blue (this means you will have to specifying each letter in PEAS), and determine each of the following properties of this task environment:
 
 1. a) Fully observable or b) partially observable
 2. a) Deterministic or b) stochastic
@@ -76,9 +76,9 @@ __5d__ Two intelligent agents are playing chess with a clock. One of them is cal
 
 Explain your answer.
 
-__5e__ Provide an example of an intelligent agent, and give a PEAS description of the task environment, and characterize it in terms of the properties listed in Section 2.3.2 (p. 117) in AIMA.
+__3e__ Provide an example of an intelligent agent, and give a PEAS description of the task environment, and characterize it in terms of the properties listed in Section 2.3.2 (p. 117) in AIMA.
 
-__5f__ Compare and contrast the following agent types:
+__3f__ Compare and contrast the following agent types:
 
 - Simple reflex
 - Model-based reflex
@@ -89,11 +89,11 @@ Explain your answer.
 
 ***
 
-### 6. Reflection and Q&A (16:00-17:00)
+### 4. Reflection and Q&A (16:00-17:00)
 
-__6a__ Ask question(s) related to the independent study material.
+__4a__ Ask question(s) related to the independent study material.
 
-__6b__ Choose, and provide an answer to at least of the following questions:
+__4b__ Choose, and provide an answer to at least of the following questions:
 
 1. What surprised you today, and why?
 2. What is the most important thing you learned today? Why do you think so?

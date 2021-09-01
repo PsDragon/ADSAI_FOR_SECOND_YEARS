@@ -147,7 +147,7 @@ Week 6-8: [Programming in Python](#week-6--programming-in-python)
 # Week 8 : Programming in Python
 
 ## Monday
-- [PEP 8-Coding standards for Python ]https://adsai.buas.nl/Study%20Content/Programming/Python%20PEP8.html)
+- [PEP 8-Coding standards for Python ](https://adsai.buas.nl/Study%20Content/Programming/Python%20PEP8.html)
 
 
 ## Tuesday

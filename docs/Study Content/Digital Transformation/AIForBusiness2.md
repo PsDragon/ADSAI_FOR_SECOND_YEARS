@@ -28,8 +28,8 @@ __2c__ Read the Part 4 of Artificial Intelligence in Practice: How 50 Successful
 2.  Which technologies are being used by companies and for which purposes?
 
 __2d__ Read the Part 6 of Artificial Intelligence in Practice: How 50 Successful Companies Used AI and Machine Learning to Solve Problems by Bernard Marr & Matt Ward (2019).
-
-***
+1.  What problems AI can help to solve?
+2.  Which technologies are being used by companies and for which purposes?***
 
 ## __Literature__
 Maar, B., Ward M. (2019). *Artificial Intelligence in Practice. How 50 successful companies used artificial intelligence to solve problems.* Wiley

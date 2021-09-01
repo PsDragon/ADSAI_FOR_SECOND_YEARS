@@ -3,20 +3,24 @@ sort: 16
 ---
 
 # Block A Recap
-Today we recap on everything we learned in Block A about data science in R. Especially descritive statistics and hypothesis testing. We're going to do this using a mini-course of Codecademy.
+Today, we recap everything we learned in Block A about data science in R. Especially descriptive statistics and hypothesis testing. To achieve this, we're going to do this using a mini-course on Codecademy.
 
-Please follow the links below to continue the classs:
+If you still need to work on your poster, feel free to do this instead. Remember that **the deadline for handing in the conference poster is today at 17:00!**
+
+Please follow the links below to continue the class:
 1. Workshop: 6 hours
 
 
 Good luck!
 
 
+
 ## 0) Watch or attend the [opening lecture](LINK TO LECTURE MATERIAL HERE)
 [Go to codecademy](https://www.codecademy.com/learn/learn-statistics-with-r) and log in with your BUAS credential. The course will reinforce the core data science learning objectives for this block.
 
-## Questions
-In case you have any questions please first ask your peers or (when they don't respond timely) [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the course, workshop and question you have or the problem you're experiencing.
+## Questions or issues?
+In case you have any questions, please first ask your peers or (when they don't respond timely) [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the course, workshop and question you have or the problem you're experiencing.
+
 
 ## Resources
 - [https://swirlstats.com/students.html](https://swirlstats.com/students.html)

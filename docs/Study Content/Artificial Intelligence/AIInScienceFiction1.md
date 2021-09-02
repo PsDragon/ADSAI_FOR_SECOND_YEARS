@@ -43,6 +43,12 @@ You will need to present your first draft (i.e. outline) on the 14th of Septembe
 
 ***
 
+### 3. Digital infrastructure
+
+Lastly, in the DataLab session you will be made familiar with ADSAI's digital infrastructure (e.g. GitHub Classroom).
+
+***
+
 ## __Literature__
 
 Buttram, C., MacMillan III, D., & Thompson, T. (2012, November).

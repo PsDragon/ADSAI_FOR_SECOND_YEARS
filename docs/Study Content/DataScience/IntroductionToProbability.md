@@ -24,8 +24,6 @@ Table of contents:
 
 Good luck!
 
-If you have any questions, please first ask your peers or [ask us or notify us if you are experiencing any issues](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the year, course and GitHub page.
-
 
 
 ## 0) Watch the following videos
@@ -75,8 +73,9 @@ At 16:00, there's an online meeting you're encouraged to take part in to ask que
 
 Tomorrow, we will create some cool data visualisations for the findings section of our conference poster!
 
-## Questions
-In case you have any questions, please first ask your peers or (when they don't respond timely) [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the course, workshop and question you have or the problem you're experiencing.
+
+## Questions or issues?
+In case you have any questions please first ask your peers or send us a message on teams instead!
 
 ## Resources
 - [https://swirlstats.com/students.html](https://swirlstats.com/students.html)

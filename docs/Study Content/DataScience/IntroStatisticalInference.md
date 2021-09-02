@@ -23,9 +23,6 @@ Table of contents:
 
 Good luck!
 
-## Questions or issues?
-If you have any questions, please first ask your peers or [ask us here](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the year, block, GitHub page and the question you have or the problem you're experiencing in the title.
-
 
 ## 0) Introduciton to statistical inference
 When collecting data to make observations about the world, it usually just isn't possible to collect ALL THE DATA. So instead of asking every single person about student loan debt for instance, we take a sample of the population, and then use the shape of our samples to make inferences about the true underlying distribution of our data. It turns out we can learn a lot about how something occurs, even if we don't know the underlying process that causes it. So today, we'll also introduce the normal (or bell) curve and talk about how we can learn some really useful things from a sample's shape - like if an exam was particularly difficult, how often old faithful erupt, or if two types of runners participate in marathons!
@@ -69,11 +66,13 @@ At 16:00, there's an online meeting you're encouraged to take part in to ask que
 
 That's it for today! Tomorrow we're going to learn how we can analyse different relationships between variables.
 
+
+## Questions or issues?
+In case you have any questions please first ask your peers or send us a message on teams instead!
+
 ## Resources
 - [https://swirlstats.com/students.html](https://swirlstats.com/students.html)
 - [Swirl](https://swirlstats.com/help.html)
 - http://swirlstats.com/scn/A_(very)_short_introduction_to_R.html
 - Learning Statistics with R, by D. Navarro (2018):  https://learningstatisticswithr.com/  
 - Discovering Statistics using R, A. Fields et al. (2012): https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067  
-
-Course code: ADSAI_DS1

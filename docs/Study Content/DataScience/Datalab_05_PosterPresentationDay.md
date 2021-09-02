@@ -30,8 +30,9 @@ or
 Expectation management is an important skill for most jobs, and ours all the more due to the complexity of the challenges we're working with: you can't always properly estimate when you will be ready or wheter it will work. So it's important to keep expectations realistic when you are presenting your poster to your stakeholders. Later in the program we will go into these project and team related skills, for now it's just meant to help your present.
 
 
-## Questions
-In case you have any questions please first ask your peers or (when they don't respond timely) [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the course, workshop and question you have or the problem you're experiencing.
+
+## Questions or issues?
+In case you have any questions please first ask your peers or send us a message on teams instead!
 
 
 Course code: ADSAI_DS1

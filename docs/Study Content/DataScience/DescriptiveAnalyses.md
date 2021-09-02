@@ -21,7 +21,6 @@ We don't have a mock assessment today because we will practice on our own data i
 
 Good luck!
 
-If you have any questions or issues, consult your peers or [ask us here](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the year, block, GitHub page and the question you have or the problem you're experiencing in the title.
 
 
 ## 1) Introduction
@@ -80,8 +79,9 @@ At 16:00, there's a online meeting you're encouraged to take part in to ask ques
 That was it for today, [tomorrow](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/Datalab_01_ExploratoryDataAnalysis.html) we'll continue until module 10. Then we'll perform an exploratory data analysis on our own data based on the problem statement and research question we made in the previous [datalab](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/Datalab_00_SDG_Indicators.html).
 
 
+
 ## Questions or issues?
-If you have any questions or issues, [ask us here](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the year, block, GitHub page and the question you have or the problem you're experiencing in the title.
+In case you have any questions please first ask your peers or send us a message on teams instead!
 
 ## Resources
 - [https://swirlstats.com/students.html](https://swirlstats.com/students.html)

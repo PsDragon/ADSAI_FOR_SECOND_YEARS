@@ -17,7 +17,7 @@ Table of contents:
 2. Exploratory Data Analysis on SDG Indicators dataset: 3 hours
 3. Day reflection: 16:00 - 17:00
 
-In case you have any questions please first ask your peers or [ask us here](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the year, block, GitHub page and the question you have or the problem you're experiencing in the title.
+
 
 ## 0) Workshop part: Exploratory Data Analyses
 Start where you left off yesterday with the Exploratory Data Analysis and finish modules 6 to 7.
@@ -62,8 +62,9 @@ At 16:00, there's a online meeting you're encouraged to take part in to ask ques
 
 Next week we're going to cover some Probability fundamental concepts.
 
-## Questions
-In case you have any questions please first ask your peers or (when they don't respond timely) [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the course, workshop and question you have or the problem you're experiencing.
+
+## Questions or issues?
+In case you have any questions please first ask your peers or send us a message on teams instead!
 
 ## Resources:
 - https://unstats.un.org/sdgs/indicators/database/

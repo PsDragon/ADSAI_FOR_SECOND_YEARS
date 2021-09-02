@@ -18,8 +18,9 @@ Good luck!
 ## 0) Watch or attend the [opening lecture](LINK TO LECTURE MATERIAL HERE)
 [Go to codecademy](https://www.codecademy.com/learn/learn-statistics-with-r) and log in with your BUAS credential. The course will reinforce the core data science learning objectives for this block.
 
+
 ## Questions or issues?
-In case you have any questions, please first ask your peers or (when they don't respond timely) [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the course, workshop and question you have or the problem you're experiencing.
+In case you have any questions please first ask your peers or send us a message on teams instead!
 
 
 ## Resources
@@ -28,5 +29,3 @@ In case you have any questions, please first ask your peers or (when they don't 
 - http://swirlstats.com/scn/A_(very)_short_introduction_to_R.html
 - Learning Statistics with R, by D. Navarro (2018):  https://learningstatisticswithr.com/  
 - Discovering Statistics using R, A. Fields et al. (2012): https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067  
-
-Course code: ADSAI_DS1

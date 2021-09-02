@@ -87,6 +87,10 @@ At 16:00, there's a online meeting you're encouraged to take part in to ask ques
 
 That's all for lesson 1. Tomorrow we're going to look at the project we'll be working on the coming 3 weeks. See you in Datalab!
 
+
+## Questions or issues?
+In case you have any questions please first ask your peers or send us a message on teams instead!
+
 ## Resources
 - [https://swirlstats.com/students.html](https://swirlstats.com/students.html)
 - [A Very Short Introduction to R](http://swirlstats.com/scn/A_(very)_short_introduction_to_R.html) and the accompanying [Github repository] (https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R/blob/master/documents/A%20(very)%20short%20introduction%20to%20R.pdf)

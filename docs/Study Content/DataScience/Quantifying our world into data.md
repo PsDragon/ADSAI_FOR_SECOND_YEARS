@@ -49,13 +49,11 @@ C) Questions: Defining phenomena as data
 Finished? Upload your mock assignment on [GitHub classrooms](HYPERLINK)
 
 ## Next step: Introduction to R
-Now it's time for the [the workshop part](https://adsai.buas.nl/Study%20Content/DataScience/IntroToR.html) of this class to get acquainted with R.
+Now it's time for the [the workshop part](https://adsai.buas.nl/Study%20Content/DataScience/IntroToR.html) of this class to get acquainted with R. Click the link in the previous sentence or next page to continue.
 
 ## Questions or issues?
-In case you have any questions please first ask your peers or [ask us here](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the year, block, GitHub page and the question you have or the problem you're experiencing in the title.
+In case you have any questions please first ask your peers or send us a message on teams instead!
 
 ## References:
 - Learning Statistics with R, by D. Navarro (2018):  https://learningstatisticswithr.com/  
 - Discovering Statistics using R, A. Fields et al. (2012): https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067  
-
-Course code: AAIDM1_DS1

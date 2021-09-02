@@ -21,7 +21,9 @@ Table of contents:
 
 Good luck!
 
-In case you have any questions, please first ask your peers or [ask us or notify us in case you are experiencing any issues](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the year, course and github page.
+
+## Questions or issues?
+In case you have any questions please first ask your peers or send us a message on teams instead!
 
 ## 1) Introduction
 ### 1.1 Variables
@@ -76,8 +78,9 @@ At 16:00, there's a online meeting you're encouraged to take part in to ask ques
 
 Tomorrow we are going to cover descriptive analysis: what can we tell about the data by just looking at the data distribution and summary statistics?
 
-## Questions?
-If you have any questions or issues, [ask us here](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the year, block, GitHub page and the question you have or the problem you're experiencing in the title.
+
+## Questions or issues?
+In case you have any questions please first ask your peers or send us a message on teams instead!
 
 ## Resources
 - [https://swirlstats.com/students.html](https://swirlstats.com/students.html)

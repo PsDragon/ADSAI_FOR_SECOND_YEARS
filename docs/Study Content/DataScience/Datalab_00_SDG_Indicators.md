@@ -23,7 +23,7 @@ Table of contents:
 
 Good luck!
 
-In case you have any questions first ask your peers, before you [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) regarding the studie content. Make sure to include the name of the year, block and GitHub page in the title when you report the issue or question.
+
 
 ## 1) Forming a Problem Statement
 
@@ -104,8 +104,9 @@ At 16:00, we'll all get together to discuss our progress and reflect on today ac
 
 Tomorrow, we're going to cover variables and dataframe in R.
 
-## Questions
-In case you have any questions please first ask your peers or (when they don't respond timely) [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the course, workshop and question you have or the problem you're experiencing.
+
+## Questions or issues?
+In case you have any questions please first ask your peers or send us a message on teams instead!
 
 
 ## Further reading & other relevant information:

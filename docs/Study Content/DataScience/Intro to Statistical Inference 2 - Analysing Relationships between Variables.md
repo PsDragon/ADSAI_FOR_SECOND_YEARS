@@ -40,7 +40,7 @@ The purpose of your data science project is not to do a correlational analysis i
  Create an R Script called AnalysingRelationshipsBetweenVariables_[YourNameHere] and save it to the GitHUb Classroom folder of the same name in your repository.
 
  Now, look at the following table. It displays the age and glucose level of a given subject.
- 
+
 | Subject | Age (X) | Glucose Level (Y) |
 | ------- | -------- | ------------------- |
 | 1 | 43 | 99 |

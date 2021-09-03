@@ -1,8 +1,8 @@
 ---
 sort: 15
 ---
-# Block B: A primer
-Today is a sneak peek into the next block: an introduction to machine learning, testing your statistical analyses and what consitutes a good or bad prediction. So, today we'll explore some theoretical concepts which won't be part of the conference poster for this block. Finally, we'll have a short mock-exam to play around with some concepts we learn today.
+# Machine Learning and Test Statistics: A primer
+Today is a sneak peek into the next block: an introduction to machine learning, testing the validity of your statistical analyses and what consitutes a good or bad prediction. So, today we'll explore some theoretical concepts which won't be part of the conference poster for this block. Finally, we'll have a short mock-exam to play around with some concepts we learn today.
 
 
 Learning objectives:
@@ -23,7 +23,7 @@ Good luck!
 ## 0) Test Statistics
 Test statistics allow you to see how relieable your analysis actually is: are the result significatn; or likely to be true?
 
-Confidence intervals allow us to quantify our uncertainty by defining a range of values for our predictions and assigning a likelihood that something falls within that range. And confidence intervals come up a lot like when you get delivery windows for packages, during elections when pollsters cite margin of errors, and we use them instinctively in everyday decisions. But confidence intervals also demonstrate the tradeoff of accuracy for precision - the greater our confidence, usually the less useful our range becomes.    
+Confidence intervals allow us to quantify our uncertainty by defining a range of values for our predictions and assigning a likelihood that something falls within that range. And confidence intervals come up a lot like when you get delivery windows for packages, during elections when pollsters cite margin of errors, and we use them instinctively in everyday decisions. But confidence intervals also demonstrate the tradeoff of accuracy for precision - the greater our confidence, usually the less useful our range becomes.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yDEvXB6ApWc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Today we're going to begin our three-part unit on p-values. This episode discusses Null Hypothesis Significance Testing (or NHST), a framework for comparing two sets of information. In NHST, we assume that there is no difference between the two things we are observing and use our p-value as a predetermined cutoff for if something seems sufficiently rare or not to allow us to reject that these two observations are the same. This p-value tells us if something is statistically significant, but as you'll see that doesn't necessarily mean the information is significant or meaningful to you.
@@ -64,5 +64,5 @@ In case you have any questions please first ask your peers or send us a message 
 - [https://swirlstats.com/students.html](https://swirlstats.com/students.html)
 - [Swirl](https://swirlstats.com/help.html)
 - http://swirlstats.com/scn/A_(very)_short_introduction_to_R.html
-- Learning Statistics with R, by D. Navarro (2018):  https://learningstatisticswithr.com/  
-- Discovering Statistics using R, A. Fields et al. (2012): https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067  
+- Learning Statistics with R, by D. Navarro (2018):  https://learningstatisticswithr.com/
+- Discovering Statistics using R, A. Fields et al. (2012): https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067

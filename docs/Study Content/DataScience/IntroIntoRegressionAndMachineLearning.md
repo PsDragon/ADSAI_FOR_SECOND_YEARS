@@ -2,19 +2,19 @@
 sort: 15
 ---
 # Block B: A primer
-Today is a sneak peek into the next block: an introduction to machine learning and all kinds of regression and classification fun. So, today we'll explore linear regression models and machine learning models. First, there are video and text explanations followed by some exercises and a short mock-exam.
+Today is a sneak peek into the next block: an introduction to machine learning, testing your statistical analyses and what consitutes a good or bad prediction. So, today we'll explore some theoretical concepts which won't be part of the conference poster for this block. Finally, we'll have a short mock-exam to play around with some concepts we learn today.
 
 
 Learning objectives:
 - Test Statistics: confidence intervals, p-values and ;
 - Machine learning primer
-- What happens when predictions fail;
-- What happens when predictions succeed.
+- Good and bad predictions.
 
 Table of contents:
-1. Test Statistics: 2 hours
-2. Machine learning: 1 hours
-3. Mock Assessment: 1 hour
+1. Test Statistics: 1 hour
+2. Good and bad predictions: 1 hour
+3. Machine learning: 1 hours
+4. Mock Assessment: 1 hour
 
 
 Good luck!
@@ -35,6 +35,12 @@ We introduced p-values as a way to set a predetermined cutoff when testing if so
 We're going to finish up our discussion of p-values by looking at how they can get it wrong, and what we can do to minimise those errors. Finally, we'll discuss Type 1 (when we think we've detected an effect, but there actually isn't one) and Type 2 (when there was an effect we didn't see) errors and introduce statistical power - which tells us the chance of detecting an effect if there is one.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WWagtGT1zH4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## 1) Good and bad predictions
+We’re going to talk about why many predictions fail - specifically we’ll take a look at the 2008 financial crisis, the 2016 U.S. presidential election, and earthquake prediction in general. From inaccurate or just too little data to biased models and polling errors, knowing when and why we make inaccurate predictions can help us make better ones in the future. And even knowing what we can’t predict can help us make better decisions too.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5l60dMUhY5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+We're going to take a look at some of the times we've used statistics to gaze into our crystal ball, and actually got it right! We'll talk about how stores know what we want to buy (which can sometimes be a good thing), how baseball was changed forever when Paul DePodesta created a record-winning Oakland A's baseball team, and how statistics keeps us safe with the incredible strides we've made in weather forecasting.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uJFdLKkuYc4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## 2) Intro to machine learning
@@ -50,8 +56,7 @@ Next up, we will discuss how machine learning can be used to group and label inf
  Create an R Script called IntroIntoRegressionAndMachineLearning_[YourNameHere] and save it to the GitHUb Classroom folder of the same name in your repository:
 
 Now we're going to try to develop some analyses we can apply on our SDG Indicator dataset: preferably the data you use for your own project.
-1. Formulate and justify a linear regression analysis in less than 150 words.
-2. Propose a machine learning analysis in less than 150 words.
+1. Formulate and justify a machine learning analysis in less than 150 words.
 
 Bonus points if you actually run the analysis in R and deliver working code.
 

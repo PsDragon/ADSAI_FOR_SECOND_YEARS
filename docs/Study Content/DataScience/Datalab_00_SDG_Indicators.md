@@ -3,14 +3,14 @@ sort: 3
 ---
 # Datalab 00: SDG indicators
 
-We start with a short introduction to formulating a problem statement based on the given domain(s) of your SDG indicator(s). Subsequently, we will focus on putting our new knowledge into practice by forming a research question. Then we will use both to create an introduction component for your data-lab project: the conference Poster.
+We start with a short introduction to formulating a problem statement based on the given domain(s) of your SDG indicator(s). Subsequently, we will focus on putting our new knowledge into practice by forming a research question. Then, we will use both to create an introduction component for your data-lab project: the conference poster.
 
 ## 0) Learning Objectives
 Enable you to:
-1. research your domain
-2. write a problem statement
-3. write a research question
-4. write an introduction
+1. research your domain;
+2. write a problem statement;
+3. write a research question;
+4. write an introduction.
 
 Today we'll learn how to create the following components of any data science project. If you exceed the estimated duration for a given component and feel like you are squeezed for time, feel free to ask us for help!
 
@@ -33,7 +33,10 @@ We start by focussing on how to create value with our data science solution. Tha
 
 Now that we have acquired the basics of forming a problem statement, it's important to use it methodologically. Listing the different ways in which you can approach
 
+Create file to make notes in for yourself: a Word, .txt or google documents file; whatever you prefer to write in.
+
 ### Excercise 1: Write down the different ways you can get started writing your problem statement.
+Hint: the answers are in the video above.
 
 
 ### Excercise 2: Form a draft of your problem Statement

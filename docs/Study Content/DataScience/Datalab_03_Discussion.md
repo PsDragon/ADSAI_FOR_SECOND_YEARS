@@ -14,27 +14,30 @@ Learning objectives:
 Table of contents:
 1. Project: 8 hours
 
+
+Now, it's time to put all the knowledge we gained into practice by writing the discussion section of our Conference Poster!
+
+***Open your conference poster and inspect the Discussion section. Next, open R-studio and open your script.***
+
 Good luck!
 
 
-## 0)
-Now, it's time to put all the knowledge we gained into practice by writing the discussion section of our Conference Poster!
-
-Open your conference poster and inspect the Discussion section. Next, open R-studio and open your script.
-
-
-## 1) Considerations in interpreting the data
+## 0) Considerations in interpreting the data
 We start with considering the distribution of the data, the summary statistics and data visualisations. What do they tell us about themselves? How do they relate to the research question?
 1. Give an unbiased report of the possible considerations (e.g. Missing data, distribution, collection concerns, domain problems etc.) in interpreting the findings of the EDA.
 2. Check if the provided considerations need to be supplemented with domain knowledge.
 
 
-## 2) Recommendations for future analyses & data-driven decisions:
+## 1) Recommendations for future analyses & data-driven decisions:
 Now that we have interpreted the data distribution and summary statistics, it's time to consider how we could use our data to answer our research question.
 1. Which analysis do you propose to run on the data? Form an unbiased judgement on the considerations. You can suggest multiple analyses as well if you can supplement your recommendation.
 
 
-## 3) In-Class discussion
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Tip: If you are done early, look if you can iterate on your poster. If you want to learn some extra fancy data visualisations skills: do module 8, 9 and potentially 10 as well of the Exploratory Data Analysis course in Swirl.
+</div>
+
+## 2) In-Class discussion
 At 16:00, there's a online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
 
 Next week, we will start diving into report and data visualisation practices.

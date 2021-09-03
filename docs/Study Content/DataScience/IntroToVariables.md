@@ -50,7 +50,7 @@ And finally, there's the data frame which is similar to the matrix but can store
 
 ## 2) Workshop - Variables, Vectors and Dataframes
 
-Install the following course and do modules 1, 4 and 7.
+Install the following course and do modules 1, 4, 6 and 7.
 
 ```R
   > swirl::install_course("R Programming")

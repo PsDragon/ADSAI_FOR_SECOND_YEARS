@@ -36,6 +36,9 @@ Create appropriate graphical representations and tables of your data to fill the
 - Visually Clear & Appealing
 - Have appropriate legends and additional labels and comments where needed
 
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Tip: If you are done early and you want to learn some extra fancy data visualisations skills: do module 8, 9 and potentially 10 as well of the Exploratory Data Analysis course in Swirl.
+</div>
 
 # 2) In-Class discussion
 At 16:00, there's a online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.

@@ -4,13 +4,13 @@ sort: 7
 
 # Datalab 01: Exploratory Data Analysis
 
-This data-lab day will focus on Exploratory Data Analysis(EDA). First, we will cover the last modules of the aptly named swirl course: Exploratory Data Analysis. After which, we will work on the project brief, specifically the EDA methodology section, and apply descriptive analyses to generate descriptive statistics and visualisations to populate the EDA Methodology section of our [conference poster](docs\assets\Assessment\DS1-AssesmentPoster_Template.pptx) of our data-lab project.
+This data-lab day will focus on Exploratory Data Analysis(EDA). First, we will cover 5 modules of the aptly named swirl course: Exploratory Data Analysis. After which, we will work on the project brief, specifically the EDA methodology section, and apply descriptive analyses to generate descriptive statistics and visualisations to populate the EDA Methodology section of our [conference poster](docs\assets\Assessment\DS1-AssesmentPoster_Template.pptx) of our data-lab project.
 
 ## Learning Objectives
 Enable you to:
-1. generate descriptive statistics
-2. generate descriptive visualisations
-3. write a basic EDA methodology
+1. generate descriptive statistics;
+2. generate descriptive visualisations;
+3. write a basic EDA methodology.
 
 Table of contents:
 1. Workshop on Exploratory Data analysis: 4 hours
@@ -29,7 +29,7 @@ Complete module 1 to 5
 ## 1) Project Brief part: Exploratory Data Analysis
 Now that we have performed all EDA techniques we could need to address your problem statement, we can continue working on the project brief.
 
-Download the dply, tidyr and ggplot2 [Cheatsheets](https://www.rstudio.com/resources/cheatsheets/). They're extremely useful when you're working in R, not just for data cleaning so be sure to use them in the future.
+Download the dply, tidyr [Cheatsheets](https://www.rstudio.com/resources/cheatsheets/). They're extremely useful when you're working in R, not just for data cleaning so be sure to use them in the future.
 
 **Step 1.** Open your conference poster ([template](docs\assets\Assessment\DS1-AssesmentPoster_Template.pptx)) and inspect the EDA Methodology section. Save the poster to your "DataScience1_ConferencePoster" GitHub repository and replace the template text with your name (e.g. AssessmentPoster_BramHeijligers.pptx).
 

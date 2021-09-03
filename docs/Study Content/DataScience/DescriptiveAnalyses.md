@@ -8,9 +8,9 @@ We start with an introduction to descriptive statistics and visualising descript
 
 ## 0) Learning Objectives
 Fundamentals of Exploratory Data Analysis, specifically you will learn to understand and apply:
-1. Data Cleaning
-2. Descriptive statistics: Measures of central tendency and spread
-3. Descriptive visualisations: Measures of central tendency and spread
+1. Data Cleaning: getting your data in the right shape to analyse.
+2. Descriptive statistics: Measures of central tendency and spread.
+3. Descriptive visualisations: Measures of central tendency and spread.
 
 Table of contents:
 1. Introduction: 1 hours
@@ -64,12 +64,6 @@ Complete module 1: Manipulating Data with dplyr.
 ### Step 2
 Download the R swirl course [Data Analysis](https://github.com/swirldev/swirl_courses/tree/master/Data_Analysis) lessons directly from the Swirl Git repo and install the lessons manually. Then complete all 3 modules: Central Tendency, Data Visualisation and Dispersion.
 
-### Step 3
-Download the R swirl course [Exploratory Data Analysis](https://swirlstats.com/scn/getclean.html) by running the following code in the R-studio console:
-```R
-swirl::install_course("Exploratory Data Analysis")
-```
-Complete module 1 to 5
 
 # 3)  In-Class discussion
 At 16:00, there's a online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.

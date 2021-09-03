@@ -18,15 +18,16 @@ Each 6-8 hour self-study day is dedicated to a specific lesson which generally c
 How each specific lesson is structured depends on the nature of the content and learning goals. Usually, these components can be found as separate Github pages, but these components can also be combined into 1, 2 or 3 pages. Today, for example, we will have a combined lecture & mock assessment of about 2-3 hours, after which we will have an introductory workshop of 1-2 hours.
 
 ## 2) More info?
-Look at the creative brief for more info about the content or ask us a [Question](https://github.com/BredaUniversity/AAI-DM/issues/new) (make sure to include the year, block and GitHub page in the title) about the course content.
+Look at the creative brief for more info about the content or ask Bram or Nitin a question in teams or by mail.
 
-## 3) Watch or attend the [opening lecture](https://github.com/BredaUniversity/AAI-DM/blob/881590f3c6c3d682ef56357e4c04e237fa570e27/docs/Year1/BlockA/DataScience/Courses/DS1/Day1/DS1%20-%20Lecture%201;%20The%20world%20in%20data.pptx)
-on Monday the 20th of September in
+## 3) Watch or attend the [opening lecture](https://img.freepik.com/vrije-vector/binnenkort-onder-constructie-geel-ontwerp_1017-26685.jpg?size=338&ext=jpg)
+Time: Monday the 20th of September at 10:00 o'clock int the morning.
+Place: In the Horizon Building in our regular classroom: 0.015.
 
 ## 4) Mock-Assessment
-Every workshop includes a small mock assessment to prepare you for the actual assessment deliverable you'll create in Datalab. In Datalab, you and your peers will look at and assess one another's work to check if you have understood or mastered the learning objectives.
+Every workshop includes a small mock assessment to prepare you for the actual assessment deliverable you'll create in Datalab. In Datalab, you and your peers will look at and assess one another's work to check if you have understood or mastered the learning objectives. Don't get frustrated if you cannot satisfyingly answer some questions or are struggeling: we're just practicing a bit and using community learning to reinforce the learning experience during Data Lab.
 
-A) Create a word or excel file with your student number named 'DS_L1_MockAssessment_STUDENTNUMBER' ('STUDENTNUMBER' is the text you replace with your student number in case that wasn't clear) where you answer the following questions:
+A) Create a word or excel file named 'MockAssessment_QuantifyingTheWorldInData',  where you answer the following questions:
 
 B) Questions: Defining objects as data
 

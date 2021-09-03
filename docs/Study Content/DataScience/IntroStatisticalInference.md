@@ -2,7 +2,7 @@
 sort: 10
 ---
 
-# Intro to Statistical Inference
+# Intro to Statistical Inference 1: Distributions and variance.
 This page introduces you to statistical inference. First, we start with some video explaining to grasp some basic concepts. Then, in the workshop, we will put our new knowledge into practice by doing 5 modules of a swirl course. Finally, in the Mock Assessment we'll do our first correlational analysis by hand!
 
 Learning objectives:

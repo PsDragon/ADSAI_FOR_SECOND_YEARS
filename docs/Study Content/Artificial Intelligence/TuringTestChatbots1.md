@@ -43,7 +43,7 @@ Alert: Whoever has the quirkiest fact on Alan Turing will receive a candy bar at
 
 __2c__ Read Wikipedia's summary of Computing Machinery and Intelligence by Alan Turing (1950) (required):
 
-- Summary: [Computing Machinery and Intelligence](https://academic.oup.com/mind/article/LIX/236/433/986238) (Wikipedia)
+- Summary: [Computing Machinery and Intelligence](https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence#:~:text=Computing%20Machinery%20and%20Intelligence%20From%20Wikipedia%2C%20the%20free,as%20the%20Turing%20test%20to%20the%20general%20public.) (Wikipedia)
 
 Did you enjoy the summary, and want to take a deeper dive into Turing's Computing Machinery and Intelligence, check out the video by [Lex Fridman](https://lexfridman.com/) and/or read the original article (optional):
 

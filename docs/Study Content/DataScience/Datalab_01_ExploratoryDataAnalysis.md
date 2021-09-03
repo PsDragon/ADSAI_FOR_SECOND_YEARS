@@ -18,14 +18,13 @@ Table of contents:
 3. Day reflection: 16:00 - 17:00
 
 
-
-## 0) Workshop part: Exploratory Data Analyses
-Start where you left off yesterday with the Exploratory Data Analysis and finish modules 6 to 7.
-
-If you don't have the swirl course, then you download the R swirl course [Exploratory Data Analysis](https://swirlstats.com/scn/getclean.html) by running the following code in the R-studio console:
+### 0) Workshop part: Exploratory Data Analyses
+Download the R swirl course [Exploratory Data Analysis](https://swirlstats.com/scn/getclean.html) by running the following code in the R-studio console:
 ```R
 swirl::install_course("Exploratory Data Analysis")
 ```
+Complete module 1 to 5
+
 
 ## 1) Project Brief part: Exploratory Data Analysis
 Now that we have performed all EDA techniques we could need to address your problem statement, we can continue working on the project brief.

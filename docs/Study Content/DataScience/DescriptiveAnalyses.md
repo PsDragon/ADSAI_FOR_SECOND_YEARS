@@ -59,7 +59,7 @@ Download the R swirl course [Getting and Cleaning Data](https://swirlstats.com/s
 ```R
 swirl::install_course("Getting and Cleaning Data")
 ```
-Complete module 1.
+Complete module 1: Manipulating Data with dplyr.
 
 ### Step 2
 Download the R swirl course [Data Analysis](https://github.com/swirldev/swirl_courses/tree/master/Data_Analysis) lessons directly from the Swirl Git repo and install the lessons manually. Then complete all 3 modules: Central Tendency, Data Visualisation and Dispersion.

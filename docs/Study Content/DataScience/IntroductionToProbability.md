@@ -3,7 +3,7 @@ sort: 8
 ---
 
 # Introduction to Probability
-This page introduces you to probability theory. We start with some video explaining to grasp some basic concepts. Then, in the workshop, we will put our new knowledge into practice by doing 7 modules of a swirl course. This time, there is no mock assessment because we have to cover 7 modules, but we will apply our knowledge in Datalab instead.
+This page introduces you to probability theory. We start with some video explaining to grasp some basic concepts. Then, in the workshop, we will put our new knowledge into practice by doing 5 modules of a swirl course. This time, there is no mock assessment because we have to cover 5 modules, but we will apply our knowledge in Datalab instead.
 
 
 ## 0) Learning Objectives:
@@ -12,11 +12,8 @@ Enable you to understand and/or apply:
 2. Multiplication rules;
 3. Conditional probability;
 4. Law of Large Numbers;
-5. Binomial Distributions;
-6. Geometric probabilities;
-7. Randomness;
-8. Variance;
-9. Expected values.
+5. Randomness;
+6. Expected values.
 
 Table of contents:
 1. Introduction to concepts: 1 hour
@@ -37,19 +34,6 @@ This film will to introduce you to bayesian statistics and demonstrate how this 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oZCskBpHWyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
-
-Here, Adriene Hill will to discuss the Binomial Distribution and a special case of this distribution known as a Bernoulli Distribution. The formulas that define these distributions provide us with shortcuts for calculating the probabilities of all kinds of events that happen in everyday life. They can can also be used to help us look at how probabilities are connected! For instance, knowing the chance of getting a flat tire today is useful, but knowing the likelihood of getting one this, or in the next five years, may be more useful.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WR0nMTr6uOo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-
-In general, Geometric probabilities allow us to guess how long we'll have to wait for something to happen. Today, we'll discuss how they can be used to figure out how many Bertie Bott's Every Flavour Beans you could eat before getting the dreaded vomit flavored bean, and how they can help us make decisions when there is a little uncertainty - like getting a Pikachu in a pack of Pokémon Cards! Finally, we'll finish off this unit on probability by taking a closer look at the Birthday Paradox (or birthday problem), which asks the question: how many people do you think need to be in a room for there to likely be a shared birthday? (It's likely much fewer than you would expect!)
-
-
-
-
 There are a many events in life that we just can’t predict, but just because something is random doesn’t mean we don’t know or can’t learn anything about it. This instructor will going to talk about how we can extract information from seemingly random events starting with the expected value or mean of a distribution and walking through the first four “moments”  - the mean, variance, skewness, and kurtosis.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jL9en6NvQfk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -66,7 +50,7 @@ Download the R swirl course [Statistical_Inference](https://github.com/swirldev/
 ```R
 swirl::install_course("Statistical_Inference")
 ```
-Complete modules 1 to 7. Makes sure to open the PowerPoint presentations the course asks you to open; it's helpful to have different explanations of the same thing. In addition, it helps you learn: neurons that wire together, fire together. In essence, consuming multiple examples enables you to connect concepts in your brain, making it easier to recall.
+Complete modules 1 to 5. Makes sure to open the PowerPoint presentations the course asks you to open; it's helpful to have different explanations of the same thing. In addition, it helps you learn: neurons that wire together, fire together. In essence, consuming multiple examples enables you to connect concepts in your brain, making it easier to recall.
 
 # 2)  In-Class discussion
 At 16:00, there's an online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.

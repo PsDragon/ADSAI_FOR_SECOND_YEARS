@@ -20,17 +20,16 @@ Table of contents:
 Good luck!
 
 ## 0) Workshop part: Exploratory Data Analyses
-Start where you left off yesterday with the Exploratory Data Analysis and finish modules 8 to 10.
+Start where you left off yesterday with the Exploratory Data Analysis and finish modules 6 and 7.
 
 If you don't have the swirl course, then you download the R swirl course [Exploratory Data Analysis](https://swirlstats.com/scn/getclean.html) by running the following code in the R-studio console:
 ```R
 swirl::install_course("Exploratory Data Analysis")
 ```
 
-Finished? Then you can unleash your skills on your project!
 
 ## 1) Creating the findings section
-Create appropriate graphical representations and tables of your data to fill the poster, which is:
+Create appropriate graphical representations and tables of your data to fill the poster, which are:
 - Informative: of the data (distribution)
 - Meaningful: relevant to the data-driven research question
 - Unbiased: towards your own expectations

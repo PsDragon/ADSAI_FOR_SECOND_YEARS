@@ -14,15 +14,14 @@ We've now learned everything we needed to know in order to finish our first data
 Please follow the links below to continue the class:
 1. Conclusion: 2 hours
 2. Referencing: 1 hours
-3. CRISP-DM: -
+3. CRISP-DM: 1 hour; potentially more depending on your project
 
 Feel free to ask for personal feedback during Datalab: from 9:00 to 16:00, in person or online.
 
 Good luck!
 
 ## 0) ) Write the Conclusion
-Now, let's write the conclusion of your poster. You have gone through all the steps. You know what to do next and why that's what you need to do. That essentially involves:
-Communicating:
+Now, let's write the conclusion of your poster. You have gone through all the steps. You know what to do next and why that's what you need to do. That essentially involves communicating:
 - A summary of the problem and research question: the problem makes a case for the research question;
 - What the data implies based on your Exploratory Data Analysis;
 - How to proceed or what to consider.

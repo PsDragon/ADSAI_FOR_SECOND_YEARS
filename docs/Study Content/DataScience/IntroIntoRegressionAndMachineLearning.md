@@ -6,9 +6,9 @@ Today is a sneak peek into the next block: an introduction to machine learning, 
 
 
 Learning objectives:
-- Test Statistics: confidence intervals, p-values and ;
-- Machine learning primer
-- Good and bad predictions.
+- Test Statistics: confidence intervals and p-values;
+- Machine learning primer;
+- Making good and bad predictions.
 
 Table of contents:
 1. Test Statistics: 1 hour
@@ -29,11 +29,6 @@ Confidence intervals allow us to quantify our uncertainty by defining a range of
 Today we're going to begin our three-part unit on p-values. This episode discusses Null Hypothesis Significance Testing (or NHST), a framework for comparing two sets of information. In NHST, we assume that there is no difference between the two things we are observing and use our p-value as a predetermined cutoff for if something seems sufficiently rare or not to allow us to reject that these two observations are the same. This p-value tells us if something is statistically significant, but as you'll see that doesn't necessarily mean the information is significant or meaningful to you.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bf3egy7TQ2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-We introduced p-values as a way to set a predetermined cutoff when testing if something seems unusual enough to reject our null hypothesis - that they are the same. But today, we're going to discuss some problems with the logic of p-values. Specifically, how they are commonly misinterpreted, how p-values don't give us exactly what we want to know, and how that cutoff is arbitrary - and arguably not stringent enough in some scenarios.  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PPD8lER8ju4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-We're going to finish up our discussion of p-values by looking at how they can get it wrong, and what we can do to minimise those errors. Finally, we'll discuss Type 1 (when we think we've detected an effect, but there actually isn't one) and Type 2 (when there was an effect we didn't see) errors and introduce statistical power - which tells us the chance of detecting an effect if there is one.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WWagtGT1zH4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 1) Good and bad predictions
 We’re going to talk about why many predictions fail - specifically we’ll take a look at the 2008 financial crisis, the 2016 U.S. presidential election, and earthquake prediction in general. From inaccurate or just too little data to biased models and polling errors, knowing when and why we make inaccurate predictions can help us make better ones in the future. And even knowing what we can’t predict can help us make better decisions too.

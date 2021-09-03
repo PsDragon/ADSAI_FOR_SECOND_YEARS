@@ -49,6 +49,10 @@ Did you enjoy the summary, and want to take a deeper dive into Turing's Computin
 
 - Article: [Computing Machinery and Intelligence](https://academic.oup.com/mind/article/LIX/236/433/986238) (Turing, 1950)
 
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Note: As you might have noticed, Computing Machinery and Intelligence (Turing, 1950) does not look like your typical peer-reviewed data science or artificial intelligence article. It is missing headings such as 'Introduction', 'Experiments', and/or 'Conclusion'. A good example of a traditional artificial intelligence (i.e. computer vision) article can be found <a href="./documents/YOLO_paper.pdf">here</a>.
+</div>
+
 - Video: 'Turing Test: Can Machines Think?' by Lex Fridman (See video below!)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MGW_Qcqr9eQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

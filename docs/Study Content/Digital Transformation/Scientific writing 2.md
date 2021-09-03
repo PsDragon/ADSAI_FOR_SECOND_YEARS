@@ -156,7 +156,7 @@ ___●	Catch the Error and Correct the Mistake #9___
 
  ●	Explanation: Number and abbreviation rules.
 
-__2c__ Download the APA Format Template for your Assignment.  <a href="./documents/APA Format Template.doc">.
+__2c__ Please go to Microsoft Word and use APA template for your assignment 
 
 
 ***

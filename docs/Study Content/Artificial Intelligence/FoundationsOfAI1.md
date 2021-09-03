@@ -13,7 +13,7 @@ Today, you will start your journey into the wonderful world of Artificial Intell
 
 We advise you to start early with the independent study exercises, because we are going to cover quite a bit of material today!
 
-If you have questions regarding the study material, you can send us an email or attend the Q&A session at the end of each independent study day. During the Q&A session, we will extensively discuss the  material. For details on availability see Project Brief.
+If you have questions regarding the study material, you can send us an email or attend the Q&A session at the end of each independent study day. During the Q&A session, we will extensively discuss the  material. Make sure to hand-in your homework exercises! For the time being, you can send me your work via email (blerck.i@buas.nl, deadline 15:45). For details on availability see Project Brief.
 
 ### 2. What is artificial intelligence?
 

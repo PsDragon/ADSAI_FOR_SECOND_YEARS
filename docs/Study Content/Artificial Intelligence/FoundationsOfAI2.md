@@ -29,7 +29,7 @@ __2b__ Define the terms 'inference', and 'expert system' (Be concise!).
 
 __2c__ Are artificial neural networks (ANNs) similar to the human brain? Support your answer with arguments.
 
-__2d__ A ANN uses a a) symbolic or b) non-symbolic approach to AI? Select one of the options, and explain your choice.
+__2d__ An ANN uses a a) symbolic or b) non-symbolic approach to AI? Select one of the options, and explain your choice.
 
 In the last couple of years, there has been a reappraisal of symbolic AI because, among others, it is less susceptible to the so called 'Problem of opacity'. Minsky defines the problem as follows: '... the knowledge embodied inside a network's numerical coefficients is not accessible outside that net.' (1991). In other words, it is difficult to know why these non-symbolic models do what they do or how they work.
 

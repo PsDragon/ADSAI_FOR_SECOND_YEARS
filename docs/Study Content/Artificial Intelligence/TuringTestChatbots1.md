@@ -62,7 +62,7 @@ Note: As you might have noticed, Computing Machinery and Intelligence (Turing, 1
 You will need to finish the material on Alan Turing by Friday the 10th of September. Make sure to plan wisely! During the DataLab 2, we will discuss Turing's article (and how to read these texts), and perform the Turing Test.    
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: if you are having difficulties reading the mathematical equations or understanding the main concept of a text, try to look for additional information online. YouTube, StackOverfow, Quora, and Medium are examples of webpages that can help you in analyzing (scientific) articles.
+Tip: If you are having difficulties reading the mathematical equations or understanding the main concept of a text, try to look for additional information online. YouTube, StackOverfow, Quora, and Medium are examples of webpages that can help you in analyzing (scientific) articles.
 </div>
 
 ***

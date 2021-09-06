@@ -68,16 +68,16 @@ c) It is only possible for systems to demonstrate understanding
 \
 d) No machine can demonstrate genuine understanding
 
-__2f__ Connect the Post It notes (Fig 1.) to the relevant quadrant in the philosophy matrix (Fig 2.). For example, A = 1, 2, and  B = 3, 4, 5 etc.
+__2f__ Connect the Post It notes (Fig 2.) to the relevant quadrant in the philosophy matrix (Fig 3.). For example, A = 1, 2, and  B = 3, 4, 5 etc.
 
 <img src="./images/post_it.jpg" alt="Post-it" width="400"/>
 
-*Figure 1. Post It notes with philosophy of AI terms.*
+*Figure 2. Post It notes with philosophy of AI terms.*
 \
 \
 <img src="./images/AI_matrix_v2.png" alt="Matrix" width="600"/>
 
-*Figure 2. Philosophy of AI matrix.*
+*Figure 3. Philosophy of AI matrix.*
 
 __2g__ After completing the readings and exercises of this section, would you provide the same answer to exercise 1b? Explain your answer.
 

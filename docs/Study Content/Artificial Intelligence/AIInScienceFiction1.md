@@ -39,6 +39,15 @@ As part of the creative brief you are required to present a first draft, in the 
 1. Analysis of an AI topic within the movie Minority Report;
 2. The feasibility of the AI topic and the explanation of how this AI topic or a similar AI topic is being implemented within a specific business setting.
 
+Need help to write an outline for your report, check out the YouTube video below:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1t4E7pJbIpY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*Video 1. Tips on writing an outline.*
+
+Essay outline template: [Structure of a General Expository Essay](./documents/main_structure-of-a-general-expository-essay-santa-barbara-city-college.pdf) by Santa Barbara City College.
+
+
 You will need to present your first draft (i.e. outline) on the 14th of September, during DataLab 3 (Week 2, Tuesday). Each of you will be given ONLY 5 minutes to present your work.
 
 ***

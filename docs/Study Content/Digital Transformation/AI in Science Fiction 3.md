@@ -12,7 +12,6 @@ In today's DataLab session, you will complete 2 Kahoot quizzes for the Bronze ch
 
 At the end of the day, from 16:00 to 17:00, we will have a moment to reflect on DataLab 3 and ask questions during the Q&A.
 
-
 ***
 
 ### 2. Presentation of the first draft

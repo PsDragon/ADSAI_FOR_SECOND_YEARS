@@ -13,6 +13,9 @@ Happy Monday, everybody! Today we will begin with Digital Transformation classes
 By the end of  today, we expect you to complete all the readings, watch all the videos and answer all the questions listed. It will help you to prepare for the final assignment.  
 
 If you have questions regarding the study material, you can send us an email or attend the Q&A session at the end of each self-study day. During the Q&A session, we will extensively discuss the independent study material. For details on availability see Project Brief.
+
+__Make sure to upload all the answers to the questions listed below to your GitHub account.__
+
 ***
 
 ### 2. Introduction into application of AI in businesses

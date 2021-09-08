@@ -16,10 +16,10 @@ At the end of the day, from 16:00 to 17:00, we will have a moment to reflect on 
 
 ### 2. Presentation of the first draft
 
-During the DataLab 3 you are asked to present the first draft of your assignment: AI & Science Fiction. You will be given 5 minutes to present the following:
+During the DataLab 3 you are asked to present the first draft of your assignment: AI & Science Fiction. You will be given 5 minutes to present the outline of your report that contains the following:
 - Analysis of an AI topic within the movie Minority Report;
-- The feasibility of the AI topic and the explanation of how this AI topic or a similar AI topic is being implemented within a specific business setting;
-- Outline of the report.
+- The feasibility of the AI topic and the explanation of how this AI topic or a similar AI topic is being implemented within a specific business setting.
+
 After the presentation, you will receive questions and feedback from your tutors and classmates.
 
 Presentations will be held in two sessions. Each session is available for approximately 8 students. During your session you will be presenting and giving feedback to your peers, while another session in your schedule is  for working on the creative brief.

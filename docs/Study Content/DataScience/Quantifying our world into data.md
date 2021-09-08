@@ -21,8 +21,8 @@ How each specific lesson is structured depends on the nature of the content and 
 Look at the creative brief for more info about the content or ask Bram or Nitin a question in teams or by mail.
 
 ## 3) Watch or attend the [opening lecture](https://img.freepik.com/vrije-vector/binnenkort-onder-constructie-geel-ontwerp_1017-26685.jpg?size=338&ext=jpg)
-Time: Monday the 20th of September at 10:00 o'clock int the morning.
-Place: In the Horizon Building in our regular classroom: 0.015.
+Time: Monday the 20th of September at 9:00 o'clock int the morning.
+Place: Online on Microsoft Team: it should be in your agenda. If not, [click here](https://teams.microsoft.com/l/meetup-join/19%3a17PMQMfR4ntX_bdV9TDCQMIh5dTyPJibns2Pp1g76Os1%40thread.tacv2/1631095566063?context=%7b%22Tid%22%3a%220a33589b-0036-4fe8-a829-3ed0926af886%22%2c%22Oid%22%3a%225cef929d-ecf9-4fca-bf12-bc5ee065fc99%22%7d)
 
 ## 4) Mock-Assessment
 Every workshop includes a small mock assessment to prepare you for the actual assessment deliverable you'll create in Datalab. In Datalab, you and your peers will look at and assess one another's work to check if you have understood or mastered the learning objectives. Don't get frustrated if you cannot satisfyingly answer some questions or are struggeling: we're just practicing a bit and using community learning to reinforce the learning experience during Data Lab.

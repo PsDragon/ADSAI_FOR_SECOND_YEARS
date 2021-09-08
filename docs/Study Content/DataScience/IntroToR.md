@@ -7,8 +7,12 @@ This lesson is about installing & understanding the R programming language and R
 
 It's [becoming more popular](http://r4stats.com/articles/popularity/), and when looking at the amount of package developed over time we can see that the growth curve is amazing: it follows a rapid parabolic arc (quadratic fit with R-squared=.995).
 
-![Amount of packages developed of time](https://github.com/BredaUniversityGames/AAI-DM/blob/15080271fb11de729f8528493858fe7a8457793d/docs/assets/images/DS1/PackagesOnCranOverTime.png)
-![test](https://i0.wp.com/r4stats.com/wp-content/uploads/2015/05/fig_9_cran.png?w=650)
+
+<figure>
+    <img src=".\assets\PackagesOnCranOverTime.png" />
+    <figcaption>Amount of packages developed of time</figcaption>
+</figure>
+<br>
 
 Within the data-science descipline there is some debate on whether Python or R are better; but apart from personal preference, it's really a matter of what you want to do:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1gdKC5O0Pwc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -34,10 +38,10 @@ Open RStudio and type the following into the console:
 ```R
 	> install.packages("swirl")
 ```
-![Rstudio Interface](https://github.com/BredaUniversityGames/AAI-DM/blob/15080271fb11de729f8528493858fe7a8457793d/docs/assets/images/DS1/rstudio2.png)
+
 
 <figure>
-    <img src=".\assets\rstudio2.PNG" />
+    <img src=".\assets\rstudio2.png" />
     <figcaption>R-Studio Interface</figcaption>
 </figure>
 <br>

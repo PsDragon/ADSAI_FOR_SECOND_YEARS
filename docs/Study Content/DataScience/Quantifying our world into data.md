@@ -25,7 +25,21 @@ Time: Monday the 20th of September at 9:00 o'clock int the morning.
 Place: Online on Microsoft Team: it should be in your agenda. If not, [click here](https://teams.microsoft.com/l/meetup-join/19%3a17PMQMfR4ntX_bdV9TDCQMIh5dTyPJibns2Pp1g76Os1%40thread.tacv2/1631095566063?context=%7b%22Tid%22%3a%220a33589b-0036-4fe8-a829-3ed0926af886%22%2c%22Oid%22%3a%225cef929d-ecf9-4fca-bf12-bc5ee065fc99%22%7d)
 
 ## 4) Mock-Assessment
-Every workshop includes a small mock assessment to prepare you for the actual assessment deliverable you'll create in Datalab. In Datalab, you and your peers will look at and assess one another's work to check if you have understood or mastered the learning objectives. Don't get frustrated if you cannot satisfyingly answer some questions or are struggeling: we're just practicing a bit and using community learning to reinforce the learning experience during Data Lab.
+**Mock-Assessments** test your knowledge and skills but **are not graded in any way.** Instead they are small excercises which; simmilar to real assessments, test your capacity to use you knowledge:
+- Apply: use your knowledge in new situations
+- Analyze: draw connections among ideas
+- Evaluate: Justify a stand or decision
+- Create: Produce new or original work (although this is mostly done in projects though; because of workload considerations)
+
+<figure>
+    <img src=".\assets\BloomsTaxonomy.png" />
+    <figcaption>It's based on Bloom's Taxonomy, so be aware that these are usefull steps to solidify your learning and we'll integrate it whenever it fits: time and effort wise.</figcaption>
+</figure>
+<br>
+
+Anyway, now we got that clear:
+
+Every workshop includes a small mock assessment to prepare you for the actual assessment deliverable you'll create in Datalab. In Datalab, you and your peers will look at and assess one another's mock-assessment to check if you have understood or mastered the learning objectives. Don't get frustrated if you cannot satisfyingly answer some questions or are struggeling: we're just practicing, reinforcing our knowledge retention and using community learning to reinforce the learning experience during Data Lab.
 
 A) Create a word or excel file named 'MockAssessment_QuantifyingTheWorldInData',  where you answer the following questions:
 
@@ -45,9 +59,7 @@ C) Questions: Defining phenomena as data
 3. Form a data-driven research question based on your variables and the formal description of the phenomena.
 4. Describe the background for your research question based on your research question, formal description, variables and other resources found online. References your sources using APA citation.
 
-
-## 5) Hand-in Documentation
-Finished? Upload your mock assignment on [GitHub classrooms](HYPERLINK)
+Save the file, we'll discuss it during datalab tomorrow.
 
 ## Next step: Introduction to R
 Now it's time for the [the workshop part](https://adsai.buas.nl/Study%20Content/DataScience/IntroToR.html) of this class to get acquainted with R. Click the link in the previous sentence or next page to continue.

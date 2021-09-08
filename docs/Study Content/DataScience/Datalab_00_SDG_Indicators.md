@@ -23,11 +23,14 @@ Table of contents:
 
 Good luck!
 
-
+## 0) Mock-Assessment review: Quantifying our World into Data
+Now, let's all find a partner (as in a classmate, not a date) and get our mock-assessments out (assuming you made them) and discuss them. Specifically, analyse and evaluate one another work by:
+- Simply telling one another about what you identified and deconstructed as an object and phenomena and try to justify the decisions you made.
+- Listening to one another critically and giving feedback as your partner goes along explaining.
 
 ## 1) Forming a Problem Statement
 
-We start by focussing on how to create value with our data science solution. That starts with learning about how to form a problem statement. Next, we are going to apply the techniques below to fill in our problem statement. Part of that is exploring the domain(s) we are working in because a problem cannot exist without its context.
+We start our project by focussing on how to create value with our data science solution, that's what data science is about after all. That starts with learning about how to form a problem statement. Next, we are going to apply the techniques below to fill in our problem statement. Part of that is exploring the domain(s) we are working in because a problem cannot exist without its context.
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="640" height="360" src="https://www.linkedin.com/learning/embed/academic-research-foundations-quantitative/how-to-develop-a-problem-statement?autoplay=false&claim=AQH5FYD0hTHdiQAAAXqgmQ5ntPnwJlpS7Ufhzf_Q-EQsMQziDC5JjUYX4zirz200A6Q9ylW8qTrQyT6LWXk7pCMSsGBn5GiV0EEhrryy3J0GocSMjCMtqCZMwk90Bv7uazbpvfszKz4F8x9e_3LC5OByOjvAGsahbOila-yZxus8dIzuwmNB8cXBeROpZtd2pPe9IWRGnpotF7H45dMu5uoiklGbc04WOzDIqomN_vaJ3-jpxA9nWj9IR6vQdmsjFNkWy8gUyzUzMZd9zQobR5EWn0jzdDtrssPxHmYiWtzXWnr7BVh2M8YVf2vQu7VphwfgKkQ26UYoPoa5slJan7QxH7cx2s6e_BNNRAaEScfKP5UINkp19F4j0nsqbazd-Nt3Qq05-Jbe5SFhlKkZu996-_Z0RtYp4YyDwC6luTKydeVGpcGbcff3OO1u8zJL3TPNctq1YSEMRBWWd9rW50nODrWun1lON41XxsnBrubR77ohjP4hlwbsgTPngOG0AKn9DCnEPmGK1u9gJCWtQbwpnTuVo4WxibgoIE34Cm9FbhVF-YSFR8KwhLWq32L9XSXPZqniRp4acyK-2gXEL0hwhD6Eb_7-YABMZq1QXcE9oRNmq5SrVu0ZGizpq0jhsLpyiayi2bmH_mLghZoqvlQ_DMJU00pBSZ2DwtFSd3oZgUE4o8UVrCHHZdswLXCkX_Hdy0cOrV2tu9pp60cvVGS--nRIoI1ohisfdArxLI3Rew&lipi=urn%3Ali%3Apage%3Ad_learning_content%3BZqULw1KqRv6QHrTtZsKGUQ%3D%3D&licu" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true" frameborder="0" style="position:absolute;width:100%;height:100%;left:0"></iframe></div><p><strong><a href="https://www.linkedin.com/learning/academic-research-foundations-quantitative/how-to-develop-a-problem-statement?trk=embed_lil">How to develop a problem statement</a></strong> from <strong><a href="https://www.linkedin.com/learning/academic-research-foundations-quantitative?trk=embed_lil">Academic Research Foundations: Quantitative</a></strong> by <strong><a href="https://www.linkedin.com/learning/instructors/rolin-moe?trk=embed_lil">Rolin Moe</a></strong></p>
 

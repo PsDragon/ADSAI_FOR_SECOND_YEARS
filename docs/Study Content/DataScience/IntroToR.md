@@ -84,7 +84,7 @@ Now start the 'A (very) short introduction to R' course, module 1 by typing:
 	> 1
 	> 1
 ```
-Run through the course by completing all 3 modules, which should take about 1 to 2 hours. In case you have any questions, first ask your peers before you [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) regarding the study content. Make sure to include the name of the year, block and GitHub page in the title when you report the issue or question.
+Run through the course by completing all 3 modules, which should take about 1 to 2 hours. 
 
 # 6) In-Class discussion
 At 16:00, there's a online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.

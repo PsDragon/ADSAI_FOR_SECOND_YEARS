@@ -43,7 +43,7 @@ Hint: the answers are in the video above.
 
 
 ### Excercise 2: Form a draft of your problem Statement
-**Step 1.** Download and inspect the [conference poster template](docs\assets\Assessment\DS1-AssesmentPoster_Template_StudentVersion.pptx)
+**Step 1.** Download and inspect the [conference poster template](docs\assets\Assessment\DS1-AssesmentPoster_Template_StudentVersion.pptx). Save it to your GitHub repository and name it aptly: e.g. "SDGIndicatorConferencePoster".
 
 **Step 2.**
 Research the domain, the SDG Indicators. Before diving in the online documentation, I would recommend watching all videos below. Feel free to skip one of the first two introductions if you prefer reading; don't skip the technical one.
@@ -103,7 +103,7 @@ Now, it's time for writing the research questions!
 
 **Step 2.** Decide what information the reader needs to know and write the introduction in the [poster template](docs\assets\Assessment\DS1-AssesmentPoster_Template.pptx).
 
-**Step 3.** Save your poster and notes to your [Github repository](HYPERLINK)
+**Step 3.** Save your poster and notes to your Github repository.
 
 # 4) In-Class discussion
 At 16:00, we'll all get together to discuss our progress and reflect on today activities.

@@ -40,8 +40,12 @@ Whereas a variable stores a single value, a vector stores multiple values of the
 
 ### 1.2 Matrices
 Matrices store multiple (usually  numeric) values of the same type in *two* dimensions arranged into a fixed number of rows and columns. So every row, or observation or element, contains a value (if it's blank) for every collum.
+
+The singular form of matrices is matrix
 ![Enter the (data in the) matrix](https://media.makeameme.org/created/what-if-i-aac0fffe8b.jpg)
-So it's essentially a table with values of the same type. It's exciting stuff.
+
+So it's essentially a matrix is a table with values of the same type. It's exciting stuff.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O7KL17QZNqg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 1.4 Dataframes
@@ -60,7 +64,7 @@ Install the following course and do modules 1, 4, 6 and 7.
 
 ## 3) Mock-Assessment
 
-This mock assessment is about applying the concepts we learned today to a real-world situation. Today we're interested in your day, what did you have for lunch and breakfast for example? Sounds straightforward, right? So let's get started!
+This mock assessment is about applying the concepts we learned today to a real-world situation. Today we're interested in your day, what did you have for lunch and breakfast for example? You can also come up with some food or drink items instead; if for example you didn't eat anything yet. Sounds straightforward, right? So let's get started!
 
 Create an R-script following these instructions:
 
@@ -71,7 +75,8 @@ Create an R-script following these instructions:
 5. Create a matrix containing the food and drinks you had today
 6. Create a data frame from the matrix and add the times; as numerical values, when you ate or drank something
 
-Finished with your mock-assignment? You can upload your R-script on [github classrooms](HYPERLINK)
+Save your mock-assessment to your github page. In datalab you and your classmates are going to look at one anothers scripts and run it.
+
 
 # 4)  In-Class discussion
 At 16:00, there's a online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
@@ -80,11 +85,11 @@ Tomorrow we are going to cover descriptive analysis: what can we tell about the 
 
 
 ## Questions or issues?
-In case you have any questions please first ask your peers or send us a message on teams instead!
+In case you have any questions please first ask your peers or send us a message on teams instead! We're available on working days from 9:00 tot 17:00.
 
 ## Resources
 - [https://swirlstats.com/students.html](https://swirlstats.com/students.html)
 - [Swirl](https://swirlstats.com/help.html)
-- http://swirlstats.com/scn/A_(very)_short_introduction_to_R.html
-- Learning Statistics with R, by D. Navarro (2018):  https://learningstatisticswithr.com/  
-- Discovering Statistics using R, A. Fields et al. (2012): https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067  
+- [A (Very) Short Introduction to R](http://swirlstats.com/scn/A_(very)_short_introduction_to_R.html)
+- [Learning Statistics with R, by D. Navarro (2018)](https://learningstatisticswithr.com/)
+- [Discovering Statistics using R, A. Fields et al. (2012)](https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067)

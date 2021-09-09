@@ -23,20 +23,14 @@ Please follow the links below to continue the class:
 
 Good luck!
 
-## 0) Sigma notations
-A brief introduction, or refresher, to Sigma notations. Something which will be used frequently.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5jwXThH6fg4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-***Excercieses***
-Do some practical excercises on [Khan Academy](https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-3/a/review-summation-notation). Don't continue with the rest of course, just finish the excercises on the linked page.
-
-## 1) Correlations
+## 0) Correlations
 In this video, we will talk about data relationships and what we can learn from them. We'll focus on correlation, a coefficient that measures how two variables "move" together. We'll also introduce some good statistical terms you've probably heard of, like regression coefficient, correlation coefficient (r), and r^2. But first, we'll need to introduce a helpful way to represent continuous bivariate data - the scatter plot. The scatter plot has been called "the most useful invention in the history of statistical graphics", but that doesn't necessarily mean it can tell us everything. For example, just because two data sets move together doesn't necessarily mean one CAUSES the other. This gives us one of the essential tenets of statistics: correlation does not imply causation.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GtV-VYdNt_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The purpose of your data science project is not to do a correlational analysis in R yourself: the goal is to suggest an analysis based on your research question and data. But, if you want to go more in-depth into correlation and play around in R, I suggest doing [these excercises](https://www.r-bloggers.com/2017/04/correlation-and-correlogram-exercises/).
 
-## 2) Mock assessment
+## 1) Mock assessment
  Create an R Script called AnalysingRelationshipsBetweenVariables_[YourNameHere] and save it to the GitHUb Classroom folder of the same name in your repository.
 
  Now, look at the following table. It displays the age and glucose level of a given subject.

@@ -59,14 +59,14 @@ C) Questions: Defining phenomena as data
 3. Form a data-driven research question based on your variables and the formal description of the phenomena.
 4. Describe the background for your research question based on your research question, formal description, variables and other resources found online. References your sources using APA citation.
 
-Save the file, we'll discuss it during datalab tomorrow.
+Save the file to GitHub, we'll discuss it during datalab tomorrow.
 
 ## Next step: Introduction to R
 Now it's time for the [the workshop part](https://adsai.buas.nl/Study%20Content/DataScience/IntroToR.html) of this class to get acquainted with R. Click the link in the previous sentence or next page to continue.
 
 ## Questions or issues?
-In case you have any questions please first ask your peers or send us a message on teams instead!
+In case you have any questions please first ask your peers or send us a message on teams instead! We're available on working days from 9:00 tot 17:00.
 
 ## References:
-- Learning Statistics with R, by D. Navarro (2018):  https://learningstatisticswithr.com/  
-- Discovering Statistics using R, A. Fields et al. (2012): https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067  
+- [Learning Statistics with R, by D. Navarro (2018)](https://learningstatisticswithr.com/)
+- [Discovering Statistics using R, A. Fields et al. (2012)](https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067)

@@ -84,7 +84,7 @@ Now start the 'A (very) short introduction to R' course, module 1 by typing:
 	> 1
 	> 1
 ```
-Run through the course by completing all 3 modules, which should take about 1 to 2 hours. 
+Run through the course by completing all 3 modules, which should take about 1 to 2 hours.
 
 # 6) In-Class discussion
 At 16:00, there's a online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
@@ -93,7 +93,7 @@ That's all for lesson 1. Tomorrow we're going to look at the project we'll be wo
 
 
 ## Questions or issues?
-In case you have any questions please first ask your peers or send us a message on teams instead!
+In case you have any questions please first ask your peers or send us a message on teams instead! We're available on working days from 9:00 tot 17:00.
 
 ## Resources
 - [https://swirlstats.com/students.html](https://swirlstats.com/students.html)

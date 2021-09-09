@@ -14,9 +14,8 @@ Fundamentals of Exploratory Data Analysis, specifically you will learn to unders
 
 Table of contents:
 1. Introduction: 1 hours
-2. Workshop: 7 hours
-
-We don't have a mock assessment today because we will practice on our own data in datalab tomorrow.
+2. Workshop: 6 hours
+3. Mock-Assignment: 0.5 hours
 
 
 Good luck!
@@ -31,33 +30,13 @@ First, we're going to explore how we can describe and interpret our raw data wit
 These essentially describe the center of the dataset:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kn83BA7cRNM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-A) Quick exercise:
-Now calculate the mean using (R as) a calculator. Open R-studio and run the folling code:
-```R
-sample(1:100, 10, replace = TRUE)
-```
-
-Now we generated **10 obserations** which have a random **value from 1 to 100**.
-
-The mean is the **sum of all the values** divided by the **amount of observations(N)**.
-
-Or in other words:
-```
-The sum of all values/the amount of observations
-```
-
-### Sigma notations
+# Sigma notations
 A brief introduction, or refresher, to Sigma notations. Something which will be used frequently.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5jwXThH6fg4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-***Excercieses***
+***Some short Excercises***
 Do some practical excercises on [Khan Academy](https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-3/a/review-summation-notation). Don't continue with the rest of course, just finish the excercises on the linked page.
 
-B) Now translate the following function to a signma notation:
-```R
-sample(1:100, 10, replace = TRUE)
-```
-Hint: "sample" goes on the place where the formula normally goes.
 
 ### Measures of Spread (or Variability)
 Which describe the dispersion with the dataset:
@@ -99,11 +78,36 @@ For help use:
 ```
 If you get stuck, first ask your peers and then us. We're availabe 9:00 tot 17:00 as usual.
 
-# 3)  In-Class discussion
+## 3) Mock-Assignment
+
+A) Quick exercise:
+Now calculate the mean using (R as) a calculator. Open R-studio and run the folling code:
+```R
+sample(1:100, 10, replace = TRUE)
+```
+
+Now we generated **10 obserations** which have a random **value from 1 to 100**.
+
+The mean is the **sum of all the values** divided by the **amount of observations(N)**.
+
+Or in other words:
+```
+The sum of all values/the amount of observations
+```
+
+B) Now translate the following function to a signma notation:
+```R
+sample(1:100, 10, replace = TRUE)
+```
+Hint: "sample" goes on the place where the formula normally goes.
+
+##
+
+## 4)  In-Class discussion
 At 16:00, there's a online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
 
 
-## 4) The End
+## The End
 That was it for today, tomorrow we'll continue until module 10. Then we'll perform an exploratory data analysis on our own data based on the problem statement and research question we made in the previous datalab (Datalab_00_SDG_Indicators).
 
 

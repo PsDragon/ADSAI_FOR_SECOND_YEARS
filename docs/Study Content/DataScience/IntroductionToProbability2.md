@@ -3,7 +3,7 @@ sort: 10
 ---
 
 # Intro to Probability 2
-This page continues to build your foundational knowledge of probability theory. Yesterday, we were introduced the foundational concepts and today we will continue to put our new knowledge into practice by doing 4 more modules of a swirl course. Finally, in the Mock Assessment we'll do our first correlational analysis by hand!
+This page continues to build your foundational knowledge of probability theory. Yesterday, we introduced the foundational concepts, and today we will continue to put our new knowledge into practice by doing 4 more modules of a swirl course. Finally, in the Mock Assessment, we'll do our first correlational analysis by hand!
 
 Learning objectives:
 Build upon the basic understanding of data representations by learning to create data visualisations which are:
@@ -33,8 +33,8 @@ Complete modules 5 to 8. Makes sure to examine the PowerPoint presentations the 
 The variance, unlike the mean, is a measure of variability. Meaning, it captures the amount of [spread within a variable or data set](https://youtu.be/R4yfNi_8Kqw). Measures of variability are often reported alongside measures of central tendency. Meaning, the variance is typically taken with the mean or the median, as this helps form a greater picture of what the data set looks like. Below are the formulas for the variance:
 
 <figure>
-    <img src=".\assets\VarianceFormulas.png" />
-    <figcaption>R-Studio Interface</figcaption>
+    <img src=".\assets\VarianceFormulas.jpg" />
+    <figcaption>Variance Formulas</figcaption>
 </figure>
 <br>
 
@@ -46,7 +46,7 @@ The variance, unlike the mean, is a measure of variability. Meaning, it captures
 | \sigma | 8 |
 
 
-2. Find the **sample variance* for age of the following data:
+2. Find the **sample variance* for age(i) of the following data:
 
 | Subject | Age (i) |
 | ------- | -------- |
@@ -58,9 +58,10 @@ The variance, unlike the mean, is a measure of variability. Meaning, it captures
 | 6 | 59 |
 | 7 | 28 |
 
-Hint: What is the mean? Where do we plug it in? And what do we do then with that sigma notiation; or sum notation, we learned last week?
+Hint: What is it mean? Where do we plug it in? And what do we do then with that sigma notation, or sum notation, we learned last week?
 
 3. Calculate the **sample variance** of the data set given the following information:
+
 | Mean | SD | Sample Size |
 | ------- | -------- | -------- |
 | 715 | 55 | 1500 |
@@ -70,11 +71,11 @@ Hint: What is the mean? Where do we plug it in? And what do we do then with that
 # 3)  In-Class discussion
 At 16:00, there's an online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
 
-That's it for today! Tomorrow we're going to discuss our mock assessment with our classmates and learn how we can analyse different relationships between variables.
+That's it for today! Tomorrow we're going to discuss our mock assessment with our classmates and learn how to analyse different relationships between variables.
 
 
 ## Questions or issues?
-In case you have any questions please first ask your peers or send us a message on teams instead!
+In case you have any questions, please first ask your peers or send us a message on teams instead!
 
 ## Resources
 - [Swirl](https://swirlstats.com/help.html)

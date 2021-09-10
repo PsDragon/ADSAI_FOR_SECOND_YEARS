@@ -3,7 +3,7 @@ sort: 9
 ---
 # Datalab 02: Findings & Data Visualisations
 
-This data-lab day will focus on making beautiful plots with the famous ggplot2 package. Then we're going to use our new skills to create some, hopefully, cool graphs and visualisations for our data-lab project.
+This data-lab day will focus on making clear and helpful data visualisations! First, we'll learn some rules on how to plot data and what makes a good graph. Then we're going to use our new skills to create some good graphs and visualisations for our data-lab project!
 
 Learning objectives:
 Build upon the basic understanding of data representations by learning to create data visualisations which are:
@@ -37,21 +37,20 @@ Create appropriate graphical representations and tables of your data to fill the
 - Have appropriate legends and additional labels and comments where needed
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: If you are done early and you want to learn some extra fancy data visualisations skills: do module 8, 9 and potentially 10 as well of the Exploratory Data Analysis course in Swirl.
+Tip: If you are done early, and want to learn some extra fancy data visualisations skills: do modules 8, 9 and potentially 10 as well of the Exploratory Data Analysis course in Swirl. But, let me emphasize this clearly: it’s an extra and by no means a requirement for this course.
 </div>
 
 # 2) In-Class discussion
-At 16:00, there's a online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
+At 16:00, there's an online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
 
 Tomorrow, we're going to cover statistical inferences!
 
 
 ## Questions or issues?
-In case you have any questions please first ask your peers or send us a message on teams instead!
+In case you have any questions, please first ask your peers or send us a message on teams instead!
 
 ## Resources
 - [https://swirlstats.com/students.html](https://swirlstats.com/students.html)
 - [Swirl](https://swirlstats.com/help.html)
-- http://swirlstats.com/scn/A_(very)_short_introduction_to_R.html
-- Learning Statistics with R, by D. Navarro (2018):  https://learningstatisticswithr.com/  
-- Discovering Statistics using R, A. Fields et al. (2012): https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067  
+- [Learning Statistics with R, by D. Navarro (2018)](https://learningstatisticswithr.com/)  
+- [Discovering Statistics using R, A. Fields et al. (2012)](https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067)  

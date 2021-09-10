@@ -98,4 +98,3 @@ In case you have any questions, please first ask your peers or send us a message
 - [https://swirlstats.com/students.html](https://swirlstats.com/students.html)
 - [A Very Short Introduction to R](http://swirlstats.com/scn/A_(very)_short_introduction_to_R.html) and the accompanying [Github repository] (https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R/blob/master/documents/A%20(very)%20short%20introduction%20to%20R.pdf)
 - [Swirl](https://swirlstats.com/help.html)
-- http://swirlstats.com/scn/A_(very)_short_introduction_to_R.html

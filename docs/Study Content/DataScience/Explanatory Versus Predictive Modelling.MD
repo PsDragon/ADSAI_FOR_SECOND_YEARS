@@ -1,7 +1,7 @@
 ---
 sort: 15
 ---
-# Machine Learning and Test Statistics: A primer
+# Explanatory versus Predictive Modelling Approach
 Today is a sneak peek into the next block: an introduction to machine learning, testing the validity of your statistical analyses and what consitutes a good or bad prediction. So, today we'll explore some theoretical concepts which won't be part of the conference poster for this block. Finally, we'll have a short mock-exam to play around with some concepts we learn today.
 
 

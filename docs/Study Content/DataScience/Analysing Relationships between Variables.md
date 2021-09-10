@@ -7,17 +7,17 @@ sort: 11
 We start by a brief refresher to sigma notations and by revisiting correlation and applying it. Then, we're going to take a deep dive into measures of association by doing the Codecademy course into hypothesis testing in R. There's no mock assessment since we'll need our time for the course. Still, we'll apply our new knowledge tomorrow in class!
 
 Learning objectives:
-- Sigma Notations;
 - Correlations;
 - Regression analyses;
 
 
 
 Please follow the links below to continue the class:
-1. Sigma Notations: .5 hour
-2. Correlations: .5 hours
-3. Mock-Assessment: 1 hour
-1. Regression: 2 hours
+1. Correlations: .5 hours
+2. Mock-Assessment 1: 1 hour
+3. Regression: 2 hours
+2. Mock-Assessment 2: 1 hour
+
 
 
 
@@ -28,9 +28,9 @@ Good luck!
 In this video, we will talk about data relationships and what we can learn from them. We'll focus on correlation, a coefficient that measures how two variables "move" together. We'll also introduce some good statistical terms you've probably heard of, like regression coefficient, correlation coefficient (r), and r^2. But first, we'll need to introduce a helpful way to represent continuous bivariate data - the scatter plot. The scatter plot has been called "the most useful invention in the history of statistical graphics", but that doesn't necessarily mean it can tell us everything. For example, just because two data sets move together doesn't necessarily mean one CAUSES the other. This gives us one of the essential tenets of statistics: correlation does not imply causation.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GtV-VYdNt_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The purpose of your data science project is not to do a correlational analysis in R yourself: the goal is to suggest an analysis based on your research question and data. But, if you want to go more in-depth into correlation and play around in R, I suggest doing [these excercises](https://www.r-bloggers.com/2017/04/correlation-and-correlogram-exercises/).
+The purpose of your data science project is not to do a correlational analysis in R yourself: the goal is to suggest an analysis based on your research question and data. But, if you want to go more in-depth into correlation and play around in R, I suggest doing [these excercises](https://www.r-bloggers.com/2017/04/correlation-and-correlogram-exercises/). Next year, we're going to advance our knowledge of statistics and go into hypothesis testing; for now you should just know what it means if variables are correlated.
 
-## 1) Mock assessment
+## 1) Mock assessment 1
  Create an R Script called AnalysingRelationshipsBetweenVariables_[YourNameHere] and save it to the GitHUb Classroom folder of the same name in your repository.
 
  Now, look at the following table. It displays the age and glucose level of a given subject.
@@ -57,12 +57,11 @@ swirl::install_course("Regression_Models")
 ```
 Complete module 1.
 
-## 3) Mock Assessment
+## 3) Mock Assessment 2
  Create an R Script called IntroIntoRegressionAndMachineLearning_[YourNameHere] and save it to the GitHUb Classroom folder of the same name in your repository:
 
 Now we're going to try to develop some analyses we can apply on our SDG Indicator dataset: preferably the data you use for your own project.
 1. Formulate and justify a linear regression analysis in less than 150 words.
-2. Propose a machine learning analysis in less than 150 words.
 
 Bonus points if you actually run the analysis in R and deliver working code.
 
@@ -78,8 +77,6 @@ Tomorrow we're going to cover writing a discussion section for our conference po
 In case you have any questions please first ask your peers or send us a message on teams instead!
 
 ## Resources
-- [https://swirlstats.com/students.html](https://swirlstats.com/students.html)
 - [Swirl](https://swirlstats.com/help.html)
-- http://swirlstats.com/scn/A_(very)_short_introduction_to_R.html
-- Learning Statistics with R, by D. Navarro (2018):  https://learningstatisticswithr.com/  
-- Discovering Statistics using R, A. Fields et al. (2012): https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067  
+- [Learning Statistics with R, by D. Navarro (2018)](https://learningstatisticswithr.com/)
+- [Discovering Statistics using R, A. Fields et al. (2012)](https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067)

@@ -30,11 +30,11 @@ First, we will explore how we can describe and interpret our raw data without an
 These essentially describe the center of the dataset:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kn83BA7cRNM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# Sigma notations
+### Sigma notations
 A brief introduction, or refresher, to Sigma notations. Something which will be used frequently.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5jwXThH6fg4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-***Some short Exercises***
+###Some short Exercises
 Do some practical exercises on [Khan Academy](https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-3/a/review-summation-notation). Don't continue with the rest of course, just finish the exercises on the linked page.
 
 
@@ -122,5 +122,5 @@ In case you have any questions, please first ask your peers or send us a message
 - [Swirl](https://swirlstats.com/help.html)
 - [A (Very) Short Introduction to R](http://swirlstats.com/scn/A_(very)_short_introduction_to_R.html)
 - [Learning Statistics with R, by D. Navarro (2018)](https://learningstatisticswithr.com/)
-- [Discovering Statistics using R, A. Fields et al. (2012)](https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067)
+- [Discovering Statistics using R, A. Fields et al. (2012)](https://eds.b.ebscohost.com/eds/detail/detail?vid=2&sid=785a4ba4-77c1-4205-be1c-f6cd920efb78%40pdc-v-sessmgr02&bdata=JnNpdGU9ZWRzLWxpdmU%3d#AN=bus.KOHA.OAI.BUAS.28091&db=cat08862a)
 - Freina L and Ott M (2015) A literature review on immersive virtual reality in education: state of the art and perspectives. In: The International Scientific Conference eLearning and Software for Education, volume 1. pp. 10–1007.

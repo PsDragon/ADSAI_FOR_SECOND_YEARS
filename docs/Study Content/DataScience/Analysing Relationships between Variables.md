@@ -2,7 +2,7 @@
 sort: 11
 ---
 
-# Intro to Statistical Inference 2: Analysing Relationships between Variables
+# Analysing Relationships between Variables
 
 We start by a brief refresher to sigma notations and by revisiting correlation and applying it. Then, we're going to take a deep dive into measures of association by doing the Codecademy course into hypothesis testing in R. There's no mock assessment since we'll need our time for the course. Still, we'll apply our new knowledge tomorrow in class!
 
@@ -79,4 +79,4 @@ In case you have any questions please first ask your peers or send us a message 
 ## Resources
 - [Swirl](https://swirlstats.com/help.html)
 - [Learning Statistics with R, by D. Navarro (2018)](https://learningstatisticswithr.com/)
-- [Discovering Statistics using R, A. Fields et al. (2012)](https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067)
+- [Discovering Statistics using R, A. Fields et al. (2012)](https://eds.b.ebscohost.com/eds/detail/detail?vid=2&sid=785a4ba4-77c1-4205-be1c-f6cd920efb78%40pdc-v-sessmgr02&bdata=JnNpdGU9ZWRzLWxpdmU%3d#AN=bus.KOHA.OAI.BUAS.28091&db=cat08862a)

@@ -3,9 +3,9 @@ sort: 2
 ---
 # Intro to R
 
-This lesson is about installing & understanding the R programming language and R-studio software suite. R is a programming language based on Python (another programming language) to do statistical programming. The R-studio application is a suite to run and easily operate R. R-studio is an industry-standard tool for doing statistical analysis, it's free and has a wide range of libraries just for statistical analysis.
+This lesson is about installing & understanding the R programming language and R-studio software suite. R is a programming language based on Python (another programming language) to do statistical programming. The R-studio application is a suite to run and easily operate R. R-studio is an industry-standard tool for doing statistical analysis; it's free and has a wide range of libraries just for statistical analysis.
 
-It's [becoming more popular](http://r4stats.com/articles/popularity/), and when looking at the amount of package developed over time we can see that the growth curve is amazing: it follows a rapid parabolic arc (quadratic fit with R-squared=.995).
+It's [becoming more popular](http://r4stats.com/articles/popularity/), and when looking at the amount of package developed over time, we can see that the growth curve is impressive: it follows a rapid parabolic arc (quadratic fit with R-squared=.995; next year you'll learn more about statistics though and you can come back here and you'll know what that really means).
 
 
 <figure>
@@ -31,8 +31,7 @@ In addition to R, you have to install RStudio, which will make your experience w
 Tip: [change the layout](https://youtu.be/7LkAe4oAlP4) to a dark hue so you reduce the eye strain you experience over time.
 
 ## 2) Install swirl
-Swirl is an interactive package for R, which allows us to create interactive lessons. Swirl uses a basic form of Symbolic AI called a Reactive Machine: the program is logic-based so it perceives the world and reacts to it in a pre-determined way. Essentially, Swirl will ask you a question, you respond with some typed input based on which swirl will respond with some output: text, numbers, operations or visualisations.
-Therefore, the program does not learn by itself, so please first ask your peers or [ask us or notify us of any issues you are having](https://github.com/BredaUniversity/AAI-DM/issues/new) and make sure to include the name of the course, workshop and question you have or the problem you are experiencing.
+Swirl is an interactive package for R, which allows us to create interactive lessons. Swirl uses a basic form of Symbolic AI called a Reactive Machine: the program is logic-based to perceive the world and react to it in a pre-determined way. Essentially, Swirl will ask you a question, you respond with some typed input based on which Swirl will respond with some output: text, numbers, operations or visualisations. Therefore, the program does not learn by itself, so please first ask your peers or ask us if you are experiencing problems or questions.
 
 Open RStudio and type the following into the console:
 ```R
@@ -48,7 +47,7 @@ Open RStudio and type the following into the console:
 
 Note that the '>' symbol at the beginning of the line is R's prompt for you type something into the console. We include it here, so you know that this command must be typed into the console and not elsewhere. The part you type begins after '>'.
 
-## 3) Start swirl
+## 3) Start Swirl
 This is the only step that you will repeat every time you want to run Swirl. First, you will load the package using the 'library()' function. Then you will call the function that starts the magic! Type the following, pressing Enter after each line:
 ```R
 	> library("swirl")
@@ -56,7 +55,7 @@ This is the only step that you will repeat every time you want to run Swirl. Fir
 ```
 
 ## 4) Install your first interactive lesson
-The first time you start swirl, you'll get an introduction to swirl by the software itself.
+The first time you start Swirl, you'll get an introduction to swirl by the software itself.
 
 After which, you'll be prompted to install a course. You can either install one of the recommended courses or visit the course repository for more options. There are even more courses available from the Swirl Course Network. To install a course that is not part of our course repository, type '?InstallCourses' at the R prompt for a list of functions that will help you do so.
 
@@ -69,13 +68,13 @@ For now, we're just going to start by installing an introductory course for the 
 ```R
 	> install_course("A_(very)_short_introduction_to_R")
 ```
-After the course is installed you should see the following message:
+After the course is installed, you should see the following message:
 '| Course installed successfully!'
 
 You're now ready to start your first interactive lesson!
 
 ## 5) An introduction to R
-Start swirl again and the corresponding course by typing the following commands:
+Start Swirl again and the corresponding course by typing the following commands:
 ```R
 	> swirl()
 ```
@@ -84,19 +83,18 @@ Now start the 'A (very) short introduction to R' course, module 1 by typing:
 	> 1
 	> 1
 ```
-Run through the course by completing all 3 modules, which should take about 1 to 2 hours. In case you have any questions, first ask your peers before you [ask us or notify us of any issues you're having](https://github.com/BredaUniversity/AAI-DM/issues/new) regarding the study content. Make sure to include the name of the year, block and GitHub page in the title when you report the issue or question.
+Run through the course by completing all 3 modules, which should take about 1 to 2 hours.
 
 # 6) In-Class discussion
-At 16:00, there's a online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
+At 16:00, there's an online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
 
-That's all for lesson 1. Tomorrow we're going to look at the project we'll be working on the coming 3 weeks. See you in Datalab!
+That's all for lesson 1. Tomorrow we're going to look at the project we'll be working in the coming 3 weeks. See you in Datalab!
 
 
 ## Questions or issues?
-In case you have any questions please first ask your peers or send us a message on teams instead!
+In case you have any questions, please first ask your peers or send us a message on teams instead! We're available on working days from 9:00 till 17:00.
 
 ## Resources
 - [https://swirlstats.com/students.html](https://swirlstats.com/students.html)
-- [A Very Short Introduction to R](http://swirlstats.com/scn/A_(very)_short_introduction_to_R.html) and the accompanying [Github repository] (https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R/blob/master/documents/A%20(very)%20short%20introduction%20to%20R.pdf)
+- [A Very Short Introduction to R](http://swirlstats.com/scn/A_(very)_short_introduction_to_R.html) and the accompanying [Github repository](https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R/blob/master/documents/A%20(very)%20short%20introduction%20to%20R.pdf)
 - [Swirl](https://swirlstats.com/help.html)
-- http://swirlstats.com/scn/A_(very)_short_introduction_to_R.html

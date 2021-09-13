@@ -24,7 +24,7 @@ After the presentation, you will receive questions and feedback from your tutors
 
 Presentations will be held in two sessions. Each session is available for approximately 8 students. During your session you will be presenting and giving feedback to your peers, while another session in your schedule is for working on the creative brief.
 
-- Session 1: 10:30 - 12:00 (session 1 students are presenting, session 2 students are working on the creative brief)
-- Session 2: 13:00 - 14:30 (session 2 students are presenting, session 1 students are working on the creative brief)
+- Session 1: 11:00 - 12:30 (session 1 students are presenting, session 2 students are working on the creative brief)
+- Session 2: 13:30 - 15:00 (session 2 students are presenting, session 1 students are working on the creative brief)
 
 Prior to the DataLab 3, you will receive the information from your lecturer regarding your timeslot for the presentation.

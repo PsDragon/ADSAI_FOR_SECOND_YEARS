@@ -53,7 +53,7 @@ __2e__ Read the introduction chapter of Artificial Intelligence in Practice: How
 \
 __3a__ Read sub-chapters 1.4 and 1.5 of AIMA (p.81-92).
 
-__3b__ Find three newspaper articles on a risk associated with a sub-field of AI (i.e. computer vision, natural language processing, and robotics). Summarize the articles with a maximum of 200 words.
+__3b__ Find three newspaper articles on a risk associated with a sub-field of AI (e.g. computer vision, natural language processing, robotics etc.). Summarize the articles with a maximum of 200 words.
 
 __3c__ Watch the TEDx talk 'The era of blind faith in big data must end' by Cathy O'Neill.
 
@@ -63,7 +63,7 @@ __3c__ Watch the TEDx talk 'The era of blind faith in big data must end' by Cath
 
 __3d__ In the video she makes the following statement: 'Algorithms are opinions embedded in code'. What do you think she means with this statement, and what are the possible implications that could arise from it? Explain your answer.
 
-__3e__ Provide an risk, benefit, and accompanying AI sub-field per organization listed in the table:
+__3e__ Provide a risk, benefit, and accompanying AI sub-field per organization listed in the table:
 
 | A. Organization | B. AI sub-field | C. Benefit | D. Risk |
 | ----------- | ----------- | ----------- | ----------- |

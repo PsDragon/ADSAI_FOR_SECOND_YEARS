@@ -4,34 +4,38 @@ sort: 14
 
 # Datalab 04: Conclusion and Referencing
 
-We've now learned everything we needed to know in order to finish our first data science project. All that's left is writing the conclusion and referencing any sources you may have used, like the webpage of the SDG indicators where you got your data. Once you're finished you can use the remainder of your time to brush up on your conference poster or revisit part of the analysis like a data visualisation or interpretation.
+We've now learned everything we needed to know in order to finish our first data science project. All that's left is writing the conclusion and referencing any sources you may have used, like the webpage of the SDG indicators where you got your data. Once you're finished, you can use the remainder of your time to brush up on your conference poster or revisit part of the analysis like data visualisation or interpretation.
 
 ## Learning Objectives
-1. Write a conclusion;
-2. Reference your sources;
-3. Understand the CRISP-DM.
+1. write a conclusion;
+2. reference your sources;
+3. understand the CRISP-DM.
 
 Please follow the links below to continue the class:
-1. Conclusion: 2 hours
-2. Referencing: 1 hours
-3. CRISP-DM: 1 hour; potentially more depending on your project
+1. Mock Assessment Recap: 0.5 hours
+2. Conclusion: 2 hours
+3. Referencing: 1 hour
+4. CRISP-DM: 1 hour; potentially more depending on your project
 
 Feel free to ask for personal feedback during Datalab: from 9:00 to 16:00, in person or online.
 
 Good luck!
 
-## 0) ) Write the Conclusion
+## 0) Mock Assessment Recap
+Now, let's all find a partner and open your pre-mock assessment poster and our post-mock asessement poster respectively. Show them to your partner and explain the improvements you made, why you made them and how you made them. You analyse and evaluate one another's work: specifically the choices, the execution and the story they tell with their data visualisations.
+
+## 1) Write the Conclusion
 Now, let's write the conclusion of your poster. You have gone through all the steps. You know what to do next and why that's what you need to do. That essentially involves communicating:
 - A summary of the problem and research question: the problem makes a case for the research question;
 - What the data implies based on your Exploratory Data Analysis;
 - How to proceed or what to consider.
 
 
-## 1) Referencing
+## 2) Referencing
 You already learned how to refer to sources using APA citation in Digital Transformation. If you need a refresher, look at [Scientific Writing 2](https://adsai.buas.nl/Study%20Content/Digital%20Transformation/Scientific%20writing%202.html). They're some good APA referencing tools available. [Google Scholar]() is a good one. The [Scribbr Citation Tool](https://www.scribbr.com/apa-citation-generator/) also seems to be good. There are other tools available as well. We're going to cite any sources used for our data science project in the conference poster.
 
 
-## 2) Iterating using the CRISP-DM
+## 3) Iterating using the CRISP-DM
 
 The CRoss Industry Standard Process for Data Mining (CRISP-DM) is a process model with six phases that naturally describes the data science life cycle. It’s like a set of guardrails to help you plan, organize, and implement your data science (or machine learning) project.
 
@@ -52,21 +56,20 @@ Watch the following video:
 
 Run through your analysis script, run it and re-evaluate it. Look at your conference poster and visualisations to see if there's anything that needs to be updated.
 
-Done? Maybe you can help your peers by proofreading their work? They may return the favour, and you both get a better learning experience :P
+Done? Maybe you can help your peers by proofreading their work? They may return the favour, and you both get a better learning experience!
 
-## 3) In-Class discussion
-At 16:00, there's a online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
+## 4) In-Class discussion
+At 16:00, there's an online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
 
-Tomorrow, we will introduce you to linear regresion and machine learning!
+Tomorrow, we will introduce you to the differences between explanatory and predictive modelling!
 
 
 ## Questions or issues?
-In case you have any questions please first ask your peers or send us a message on teams instead!
+If you have any questions, please first ask your peers or send us a message on teams instead!
 
 ## Resources
 - [https://swirlstats.com/students.html](https://swirlstats.com/students.html)
 - [Swirl](https://swirlstats.com/help.html)
 - http://swirlstats.com/scn/A_(very)_short_introduction_to_R.html
-- Learning Statistics with R, by D. Navarro (2018):  https://learningstatisticswithr.com/  
-- Discovering Statistics using R, A. Fields et al. (2012): https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067  
-- CRISP-DM. (2021, August 24). Data Science Process Alliance. https://www.datascience-pm.com/crisp-dm-2/
+- [Learning Statistics with R, by D. Navarro (2018)](https://learningstatisticswithr.com/)
+- [Discovering Statistics using R, A. Fields et al. (2012)](https://eds.b.ebscohost.com/eds/detail/detail?vid=2&sid=785a4ba4-77c1-4205-be1c-f6cd920efb78%40pdc-v-sessmgr02&bdata=JnNpdGU9ZWRzLWxpdmU%3d#AN=bus.KOHA.OAI.BUAS.28091&db=cat08862a)

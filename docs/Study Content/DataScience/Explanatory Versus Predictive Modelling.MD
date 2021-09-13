@@ -37,27 +37,16 @@ We're going to take a look at some of the times we've used statistics to gaze in
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uJFdLKkuYc4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## 2) Intro to machine learning
-We've talked a lot about modelling data and making inferences about it. Today we're going to look towards the future at how machine learning is being used to build models to predict future outcomes. We'll discuss three popular types of supervised machine learning models: Logistic Regression, Linear discriminant Analysis (or LDA) and K Nearest Neighbors (or KNN).
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jmLid2x9eKg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Next up, we will discuss how machine learning can be used to group and label information even if those labels don't exist. Finally, we'll explore two types of clustering used in Unsupervised Machine Learning: k-means and Hierarchical clustering, and show how they can be used in many ways - from book suggestions and medical interventions to giving people better deals on pizza!
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IUn8k5zSI6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 
 ## 3) Mock Assessment
- Create an R Script called IntroIntoRegressionAndMachineLearning_[YourNameHere] and save it to the GitHUb Classroom folder of the same name in your repository:
+ Create an R Script called BLA and save it to the GitHUb Classroom folder of the same name in your repository:
 
-Now we're going to try to develop some analyses we can apply on our SDG Indicator dataset: preferably the data you use for your own project.
-1. Formulate and justify a machine learning analysis in less than 150 words.
-
-Bonus points if you actually run the analysis in R and deliver working code.
 
 
 
 ## Questions or issues?
-In case you have any questions please first ask your peers or send us a message on teams instead!
+In case you have any questions, please first ask your peers or send us a message on teams instead!
 
 ## Resources
 - [https://swirlstats.com/students.html](https://swirlstats.com/students.html)

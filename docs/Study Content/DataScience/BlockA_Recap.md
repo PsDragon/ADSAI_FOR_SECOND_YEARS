@@ -3,9 +3,9 @@ sort: 16
 ---
 
 # Block A Recap
-Today, we recap everything we learned in Block A about data science in R. Especially descriptive statistics and hypothesis testing. To achieve this, we're going to do this using a mini-course on Codecademy.
+Today, we recap everything we learned in Block A about data science in R, primarily descriptive statistics. To achieve this, we're going to do this using a mini-course on Codecademy.
 
-If you still need to work on your poster, feel free to do this instead. Remember that **the deadline for handing in the conference poster is today at 17:00!**
+If you still need to work on your poster, feel free to do this instead. Remember that **the deadline for handing in the conference poster is Friday of week 8 at 17:00!** If you feel like you don't need to recap or need some time off, today is a good day for that. You should take some time to recharge if you feel like it :)
 
 Please follow the links below to continue the class:
 1. Workshop: 6 hours
@@ -15,17 +15,14 @@ Good luck!
 
 
 
-## 0) Watch or attend the [opening lecture](LINK TO LECTURE MATERIAL HERE)
+## 0) Workshop
 [Go to codecademy](https://www.codecademy.com/learn/learn-statistics-with-r) and log in with your BUAS credential. The course will reinforce the core data science learning objectives for this block.
-
+**The course on hypothesis testing is not part of our year 1 curriculum** so I wouldn't do that one just yet. We'll go into that in year 2.
 
 ## Questions or issues?
-In case you have any questions please first ask your peers or send us a message on teams instead!
+In case you have any questions, please first ask your peers or send us a message on teams instead!
 
 
 ## Resources
-- [https://swirlstats.com/students.html](https://swirlstats.com/students.html)
-- [Swirl](https://swirlstats.com/help.html)
-- http://swirlstats.com/scn/A_(very)_short_introduction_to_R.html
-- Learning Statistics with R, by D. Navarro (2018):  https://learningstatisticswithr.com/  
-- Discovering Statistics using R, A. Fields et al. (2012): https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067  
+- [Learning Statistics with R, by D. Navarro (2018)](https://learningstatisticswithr.com/)
+- [Discovering Statistics using R, A. Fields et al. (2012)](https://eds.b.ebscohost.com/eds/detail/detail?vid=2&sid=785a4ba4-77c1-4205-be1c-f6cd920efb78%40pdc-v-sessmgr02&bdata=JnNpdGU9ZWRzLWxpdmU%3d#db=cat08862a&AN=bus.KOHA.OAI.BUAS.28091)

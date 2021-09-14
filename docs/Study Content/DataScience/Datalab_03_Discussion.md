@@ -19,7 +19,7 @@ Good luck!
 
 
 ## 0) Mock Assessment recap
-Now, let's all find a partner and get our mock-assessments out and discuss them. Specifically, analyse and evaluate one another answers to the questions. If you both have the same answers, you're done. If not, then try to see who is right by explaining it to one another. If you both don't have an answer on a particular question; ask Bram or Nitin.
+Now, let's all find a partner and get our mock-assessments out and discuss them. Specifically, analyse and evaluate one another's answers to the questions. If you both have the same answers, you're done. If not, then try to see who is right by explaining it to one another. If you both don't have an answer on a particular question; ask Bram or Nitin.
 
 ## 1) Considerations in interpreting the data
 Now, it's time to put all the knowledge we gained into practice by writing the discussion section of our Conference Poster!

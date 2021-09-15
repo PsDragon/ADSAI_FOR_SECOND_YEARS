@@ -1,5 +1,5 @@
 ---
-sort: 3
+sort: 12
 ---
 
 # Datalab 04: Perceptron and Gradient Descent

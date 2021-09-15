@@ -24,8 +24,8 @@ Good luck!
 
 
 ## 1) Introduction
-text
-[Some people think of Perceptor every time they hear the word Perceptron, however, they are indeed distinct.](https://tfwiki.net/mediawiki/images2/thumb/f/f4/G1_Perceptor_reissueart.jpg/300px-G1_Perceptor_reissueart.jpg)
+Some people think of Perceptor every time they hear the word Perceptron, however, they are indeed distinct.
+![Some people think of Perceptor every time they hear the word Perceptron, however, they are indeed distinct.](https://tfwiki.net/mediawiki/images2/thumb/f/f4/G1_Perceptor_reissueart.jpg/300px-G1_Perceptor_reissueart.jpg)
 
 ## 2) Workshop Perceptron
 Now, we're introduced to TOPIC it's time ground down these fundamental by doing a workshop. Open the [Basics of Machine Learning course](https://www.codecademy.com/learn/machine-learning) on Codecademy and complete the module: **Perceptron**.

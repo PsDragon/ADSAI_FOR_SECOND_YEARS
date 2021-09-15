@@ -3,7 +3,7 @@ sort: 2
 ---
 # Intro to R
 
-This lesson is about installing & understanding the R programming language and R-studio software suite. R is a programming language based on Python (another programming language) to do statistical programming. The R-studio application is a suite to run and easily operate R. R-studio is an industry-standard tool for doing statistical analysis; it's free and has a wide range of libraries just for statistical analysis.
+This lesson is about installing & understanding the R programming language and R-studio software suite. R is a programming language build by statisticians to do statistical programming. The R-studio application is a suite to run and easily operate R. R-studio is an industry-standard tool for doing statistical analysis; it's free and has a wide range of libraries just for statistical analysis.
 
 It's [becoming more popular](http://r4stats.com/articles/popularity/), and when looking at the amount of package developed over time, we can see that the growth curve is impressive: it follows a rapid parabolic arc (quadratic fit with R-squared=.995; next year you'll learn more about statistics though and you can come back here and you'll know what that really means).
 

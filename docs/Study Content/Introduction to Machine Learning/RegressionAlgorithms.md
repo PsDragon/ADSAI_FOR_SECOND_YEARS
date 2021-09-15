@@ -5,7 +5,7 @@ sort: 2
 # Regression Algorithms
 
 We start with ...
-There is no mock-assessment today since we're going to cover quite some ground today. Instead we will have a mock-assessment tomorrow in Datalab: suprise it's the one provided by Codecademy itself!
+
 
 ## 0) Learning Objectives:
 Text:

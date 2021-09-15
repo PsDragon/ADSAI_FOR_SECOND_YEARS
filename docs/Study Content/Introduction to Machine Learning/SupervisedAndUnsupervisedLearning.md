@@ -13,7 +13,6 @@ Text:
 Table of contents:
 1. Introduction to concepts: X hours
 2. Workshop: Y hours
-3. Mock-assessment: Z hours
 
 
 
@@ -38,17 +37,7 @@ Next, we're going to discuss how machine learning can be used to group and label
 Now, we're introduced to the two flavours of machine learning it's time ground down these fundamental by doing a workshop. Open the [Basics of Machine Learning course](https://www.codecademy.com/learn/machine-learning) on Codecademy and complete the first module: **Introduction to Machine Learning**.
 
 
-## 3) Mock Assessment
-
-Create an .txt file called "IntroMachineLearningMockAssessment" and follow these instructions:
-
-We're going to try to develop an analysis we can apply on our SDG Indicator dataset from last block: preferably the data you use for your own project.
-1. Formulate and justify a machine learning analysis in less than 150 words.
-
-Save your mock assessment to your GitHub repository. In Datalab you and your classmates are going to look at one another's scripts and run it.
-
-
-# 4)  In-Class discussion
+# 3)  In-Class discussion
 At 16:00, there's a online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
 
 Tomorrow we will cover regression algorithms!

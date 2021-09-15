@@ -13,7 +13,6 @@ Text:
 Table of contents:
 1. Introduction to concepts: X hours
 2. Workshop: Y hours
-3. Mock-assessment: Z hours
 
 
 ## Questions or issues?
@@ -30,16 +29,7 @@ text
 Now, we're introduced to TOPIC it's time ground down these fundamental by doing a workshop. Open the [Basics of Machine Learning course](https://www.codecademy.com/learn/machine-learning) on Codecademy and complete the module: **Clustering: K-Means**
 
 
-## 3) Mock Assessment
-
-Create an R-script called "TOPICMockAssessment" and follow these instructions:
-
-
-
-Save your mock assessment to your GitHub repository. In Datalab you and your classmates are going to look at one another's scripts and run it.
-
-
-# 4)  In-Class discussion
+# 3)  In-Class discussion
 At 16:00, there's a online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
 
 Tomorrow we will cover TOPIC!

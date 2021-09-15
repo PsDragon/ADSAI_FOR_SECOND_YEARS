@@ -10,8 +10,6 @@ Build upon the basic understanding of data representations by learning to create
 1. Expected values.
 2. Variance;
 3. Common distributions;
-4. Asymptotic Distributions;
-
 
 
 Table of contents:

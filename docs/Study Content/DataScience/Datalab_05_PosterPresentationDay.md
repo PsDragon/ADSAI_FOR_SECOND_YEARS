@@ -32,7 +32,10 @@ or
 Expectation management is an essential skill for most jobs, and ours all the more due to the complexity of the challenges we're working with: you can't always properly estimate when you will be ready or whether it will work. So it's important to keep expectations realistic when you are presenting your poster to your stakeholders. Later in the program, we will go into these project and team-related skills; for now, it's just meant to help your present.
 
 
+## The end
+That was all for Data Science 1! Hopefully you enjoyed the course and feel like you are well on your way to become a Data Scientist!
 
+If you have any feedback or suggestions, please mail Bram on: heijligers.b@buas.nl
 
 ## Questions or issues?
 In case you have any questions, please first ask your peers or send us a message on teams instead!

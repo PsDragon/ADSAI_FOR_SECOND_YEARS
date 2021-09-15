@@ -63,7 +63,7 @@ Now open the poster and write the Data Selection and Data Visualisation Sections
 
 
 ## 2)  In-Class discussion
-At 16:00, there's an online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
+At 16:00, we'll all get together in Datalab to discuss our progress and reflect on today activities.
 
 Next week we're going to cover some fundamental concepts of probability theory. It's much more fun than it sounds, I promise.
 

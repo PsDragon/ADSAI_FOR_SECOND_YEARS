@@ -41,7 +41,7 @@ Tip: If you are done early, and want to learn some extra fancy data visualisatio
 </div>
 
 # 2) In-Class discussion
-At 16:00, there's an online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
+At 16:00, we'll all get together in Datalab to discuss our progress and reflect on today activities.
 
 Tomorrow, we're going to continue with probability theory.
 

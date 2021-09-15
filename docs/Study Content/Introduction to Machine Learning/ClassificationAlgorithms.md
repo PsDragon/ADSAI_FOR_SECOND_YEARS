@@ -2,7 +2,7 @@
 sort: 4
 ---
 
-# Regression Algorithms
+# Classifications Algorithms
 
 We start with ...
 
@@ -27,7 +27,7 @@ Good luck!
 text
 
 ## 2) Workshop
-Now, we're introduced to TOPIC it's time ground down these fundamental by doing a workshop. Open the [Basics of Machine Learning course](https://www.codecademy.com/learn/machine-learning) on Codecademy and complete the first module: **Introduction to Machine Learning**.
+Now, we're introduced to TOPIC it's time ground down these fundamental by doing a workshop. Open the [Basics of Machine Learning course](https://www.codecademy.com/learn/machine-learning) on Codecademy and complete the modules: **Classification Vs Regression** and **Classification: K-Nearest Neighbors**.
 
 
 ## 3) Mock Assessment

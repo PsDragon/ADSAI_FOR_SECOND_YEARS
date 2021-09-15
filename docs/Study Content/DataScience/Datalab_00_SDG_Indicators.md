@@ -114,7 +114,7 @@ Now, it's time for writing the research questions!
 **Step 3.** Save your poster and notes to your Github repository.
 
 # 4) In-Class discussion
-At 16:00, we'll all get together to discuss our progress and reflect on today activities.
+At 16:00, we'll all get together in Datalab to discuss our progress and reflect on today activities.
 
 Tomorrow, we're going to cover variables and data frame in R.
 

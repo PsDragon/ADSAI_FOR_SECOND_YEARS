@@ -40,7 +40,7 @@ Now, we're introduced to the two flavours of machine learning it's time ground d
 
 ## 3) Mock Assessment
 
-Create an R-script called "IntroMachineLearningMockAssessment" and follow these instructions:
+Create an .txt file called "IntroMachineLearningMockAssessment" and follow these instructions:
 
 We're going to try to develop an analysis we can apply on our SDG Indicator dataset from last block: preferably the data you use for your own project.
 1. Formulate and justify a machine learning analysis in less than 150 words.

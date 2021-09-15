@@ -59,7 +59,7 @@ Run through your analysis script, run it and re-evaluate it. Look at your confer
 Done? Maybe you can help your peers by proofreading their work? They may return the favour, and you both get a better learning experience!
 
 ## 4) In-Class discussion
-At 16:00, there's an online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
+At 16:00, we'll all get together in Datalab to discuss our progress and reflect on today activities.
 
 Tomorrow, we will introduce you to the differences between explanatory and predictive modelling!
 

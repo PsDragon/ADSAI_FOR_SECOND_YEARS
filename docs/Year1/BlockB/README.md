@@ -78,7 +78,7 @@ Week 6-8: Programming
 - [Data modeling in Power BI](../../Study%20Content/Business%20Intelligence/ModelDataPowerBI.html)
 
 ## Thursday
-- [Visualize data in Power BI](../../Study%20Content/Business%20Intelligence/VisualizeDataPowerBI.html)
+- [Data visualization in Power BI](../../Study%20Content/Business%20Intelligence/VisualizeDataPowerBI.html)
 
 ## Friday
 - [DataLab 2: Basic visuals & DAX in Power BI](../../Study%20Content/Business%20Intelligence/DataLab2_CreatingVisualsDAXPowerBI.html)

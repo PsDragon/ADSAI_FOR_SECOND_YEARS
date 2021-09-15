@@ -24,7 +24,7 @@ Good luck!
 
 
 ## 1) Introduction
-text
+Some people think of Perceptor every time they hear the word Perceptron, however, they are indeed distinct.
 ![Some people think of Perceptor every time they hear the word Perceptron, however, they are indeed distinct.](https://tfwiki.net/mediawiki/images2/thumb/f/f4/G1_Perceptor_reissueart.jpg/300px-G1_Perceptor_reissueart.jpg)
 
 ## 2) Workshop Perceptron

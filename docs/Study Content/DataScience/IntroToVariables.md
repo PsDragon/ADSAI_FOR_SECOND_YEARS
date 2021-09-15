@@ -66,7 +66,7 @@ Install the following course and do modules 1, 4, 6 and 7.
 
 This mock assessment is about applying the concepts we learned today to a real-world situation. Today we're interested in your day, what did you have for lunch and breakfast for example? You can also come up with some food or drink items instead if, for example, you didn't eat anything yet. Sounds straightforward, right? So let's get started!
 
-Create an R-script following these instructions:
+Create an R-script called "VariablesMockAssessment" and follow these instructions:
 
 1. Create a variable called 'lunch' with a string describing an item you had for lunch: food only
 2. Delete the variable

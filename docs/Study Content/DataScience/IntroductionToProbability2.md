@@ -27,7 +27,7 @@ Download the R swirl course [Statistical_Inference](https://github.com/swirldev/
 ```R
 swirl::install_course("Statistical_Inference")
 ```
-Complete modules 5 to 8. Makes sure to examine the PowerPoint presentations the course asks you to open; it's useful to have different explanations of the same thing. It helps you learn: neurons that wire together, fire together. In essence, consuming multiple examples enables you to connect concepts in your brain, making it easier to recall that information.
+Complete modules 5 to 7. Makes sure to examine the PowerPoint presentations the course asks you to open; it's useful to have different explanations of the same thing. It helps you learn: neurons that wire together, fire together. In essence, consuming multiple examples enables you to connect concepts in your brain, making it easier to recall that information.
 
 ## 1) Mock Assessment
 The variance, unlike the mean, is a measure of variability. Meaning, it captures the amount of [spread within a variable or data set](https://youtu.be/R4yfNi_8Kqw). Measures of variability are often reported alongside measures of central tendency. Meaning, the variance is typically taken with the mean or the median, as this helps form a greater picture of what the data set looks like. Below are the formulas for the variance:

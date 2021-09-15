@@ -2,7 +2,7 @@
 sort: 3
 ---
 
-# Regression Algorithms
+# Datalab 00: Regression Algorithms
 
 We start with ...
 

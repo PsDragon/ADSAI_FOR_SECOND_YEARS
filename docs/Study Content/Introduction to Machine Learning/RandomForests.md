@@ -3,8 +3,12 @@ sort: 7
 ---
 
 # Random Forests
+Today, we will teach completely in the spirit of decision trees: the decison is up to you! We present you with two different paths: you can either:
+- learn about another form of decision trees: Random Forests
+OR
+- work on content you haven't finished yet like a previous workshop or your something for creative brief.
 
-We start with ...
+We'll get back to decision trees in year 2, so you won't miss out; don't worry! 
 
 ## 0) Learning Objectives:
 Text:

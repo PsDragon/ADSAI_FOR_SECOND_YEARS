@@ -1,46 +1,38 @@
 # Block B - Pre-production (XXX)
 
-Each of the 8 weeks has a fixed structure : on Monday, Wednesday and Thursday you work individually on the development of basic skills, which are needed to execute the DataLab assignments. Kindly follow the table of content below, this will guide you through what is expected of you on a daily basis. 
+Each of the 8 weeks has a fixed structure : on Monday, Wednesday and Thursday you work individually on the development of basic skills, which are needed to execute the DataLab assignments. Kindly follow the table of content below, this will guide you through what is expected of you on a daily basis.
 
 Project Timeline :
 
-Week 1-2: [Digital Transformation & Artificial Intelligence](#week-1--digital-transformation--artificial-intelligence) 
+Week 1: [Introduction to Business Intelligence (SQL)](#week-1--digital-transformation--artificial-intelligence)
 
-Week 3-5: [Data Science](#week-3--data-science) 
+Week 2: []()
 
-Week 6-8: Programming 
+Week 3: [Introduction to Business Intelligence (Power BI)](#week-3--data-science)
 
-# Week 1 : Digital Transformation & Artificial Intelligence
+Week 6-8: Programming
+
+## Requirements:
+
+- [Introduction to Business Intelligence](../../Study%20Content/Business%20Intelligence/BusinessIntelligenceBlockBVersion2.html)
+
+# Week 1 : Introduction to Business Intelligence (SQL)
 
 ## Monday
-- [topic 1](https://www.buas.nl/en/games)
-- [topic 2](../../Study%20Content/Artificial%20Intelligence/TuringTestChatbots1.html#literature)
-  - [topic 2.1](#graphics)
-  - [topic 2.2](#ecs)
+- [Introduction to BI: Data architecture & Pipeline design](../../Study%20Content/Business%20Intelligence/DataArchitecturePipelineDesign.html)
+- [SQL: Data Definition Language (DDL) clauses 1 & Data Manipulation Language (DML) clauses](../../Study%20Content/Business%20Intelligence/SQL_DDL1_DML.html)
 
 ## Tuesday
-- [topic 1](https://www.buas.nl/en/games)
-- [topic 2](#libraries--frameworks)
-  - [topic 2.1](#graphics)
-  - [topic 2.2](#ecs)
+- [DataLab 1: Research design, EDA, and codebook](../../Study%20Content/Business%20Intelligence/DataLab1_SQL_ResearchDesignEDACodebook.html)
 
 ## Wednesday
-- [topic 1](https://www.buas.nl/en/games)
-- [topic 2](../../Study%20Content/Artificial%20Intelligence/TuringTestChatbots1.html#literature)
-  - [topic 2.1](#graphics)
-  - [topic 2.2](#ecs)
+- [SQL: Data Query Language (DQL) clauses](../../Study%20Content/Business%20Intelligence/SQL_DQL.html)
 
 ## Thursday
-- [topic 1](https://www.buas.nl/en/games)
-- [topic 2](#libraries--frameworks)
-  - [topic 2.1](#graphics)
-  - [topic 2.2](#ecs)
+- [SQL: Data Definition Language (DDL) clauses 2](../../Study%20Content/Business%20Intelligence/SQL_DDL2.html)
 
 ## Friday
-- [topic 1](https://www.buas.nl/en/games)
-- [topic 2](#libraries--frameworks)
-  - [topic 2.1](#graphics)
-  - [topic 2.2](#ecs)
+-  [DataLab 2: Database & SQL assignment](../../Study%20Content/Business%20Intelligence/BusinessIntelligenceBlockBVersion2.html)
 
 # Week 2 : Digital Transformation & Artificial Intelligence
 
@@ -74,34 +66,29 @@ Week 6-8: Programming
   - [topic 2.1](#graphics)
   - [topic 2.2](#ecs)
 
-# Week 3 : Data Science
+# Week 3 : Introduction to Business Intelligence (Power BI)
 
 ## Monday
-- [topic 1](https://www.buas.nl/en/games)
-- [topic 2](../../Study%20Content/Artificial%20Intelligence/TuringTestChatbots1.html#literature)
-  - [topic 2.1](#graphics)
-  - [topic 2.2](#ecs)
+- [Getting started with Power BI & Prepare data for analysis with Power BI](../../Study%20Content/Business%20Intelligence/DataPrepaparationCleanTransformLoadPowerBI.html)
 
 ## Tuesday
-- [topic 1](https://www.buas.nl/en/games)
-- [topic 2](#libraries--frameworks)
-  - [topic 2.1](#graphics)
-  - [topic 2.2](#ecs)
+- [DataLab 1: Data wrangling & UX design in Power BI](../../Study%20Content/Business%20Intelligence/DataLab1_DataWranglingUXDesignPowerBI.html)
 
 ## Wednesday
-- [topic 1](https://www.buas.nl/en/games)
-- [topic 2](../../Study%20Content/Artificial%20Intelligence/TuringTestChatbots1.html#literature)
-  - [topic 2.1](#graphics)
-  - [topic 2.2](#ecs)
+- [Data modeling in Power BI](../../Study%20Content/Business%20Intelligence/ModelDataPowerBI.html)
 
 ## Thursday
-- [topic 1](https://www.buas.nl/en/games)
-- [topic 2](#libraries--frameworks)
-  - [topic 2.1](#graphics)
-  - [topic 2.2](#ecs)
+- [Visualize data in Power BI](../../Study%20Content/Business%20Intelligence/VisualizeDataPowerBI.html)
 
 ## Friday
-- [topic 1](https://www.buas.nl/en/games)
-- [topic 2](#libraries--frameworks)
-  - [topic 2.1](#graphics)
-  - [topic 2.2](#ecs)
+- [DataLab 2: Basic visuals & DAX in Power BI](../../Study%20Content/Business%20Intelligence/DataLab2_CreatingVisualsDAXPowerBI.html)
+
+# Week 4 : Introduction to Business Intelligence (Power BI) & ...
+
+## Monday
+- [Data analysis & Managing workspaces/datasets in Power BI
+](../../Study%20Content/Business%20Intelligence/DataAnalysisManagingWorkspacesDatasetsPowerBI.html)
+
+## Tuesday
+- [DataLab 1: Advanced visuals & Analyzing data in Power BI
+](../../Study%20Content/Business%20Intelligence/DataLab3_AnalyzingDataPowerBI.html)

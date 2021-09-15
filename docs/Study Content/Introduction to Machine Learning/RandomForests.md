@@ -26,7 +26,7 @@ Good luck!
 ## 1) Introduction
 text
 
-[A depecition of a random forest](https://static.wikia.nocookie.net/lotr/images/0/01/Huorns1.JPG/revision/latest?cb=20160318123950)
+![A depecition of a random forest](https://static.wikia.nocookie.net/lotr/images/0/01/Huorns1.JPG/revision/latest?cb=20160318123950)
 
 ## 2) Workshop
 Now, we're introduced to TOPIC it's time ground down these fundamental by doing a workshop. Open the [Basics of Machine Learning course](https://www.codecademy.com/learn/machine-learning) on Codecademy and complete the module: **Decision Trees**, specifically:

@@ -37,7 +37,7 @@ Now, we refreshed our knowledge on regression, it's time to deepen our understan
 # 3)  In-Class discussion
 At 16:00, there's a online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
 
-Tomorrow we will do a mock-assessment with the famous Yelp data and !
+Tomorrow we will do a mock-assessment with the famous Yelp data and we start working on our analyses for the Oosterhout Dataset!
 
 ## Questions or issues?
 If you have any questions, please first ask your peers or send us a message on teams instead! We're available on working days from 9:00 tot 17:00.

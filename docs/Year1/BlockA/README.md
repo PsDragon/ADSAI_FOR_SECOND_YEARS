@@ -71,13 +71,13 @@ Week 6-8: [Programming in Python](#week-6--programming-in-python)
 # Week 4 : Data Science
 
 ## Monday
-- [Introduction to Probability](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/IntroductionToProbability.html)
+- [Introduction to Probability 1](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/IntroductionToProbability.html)
 
 ## Tuesday
 - [Datalab 02: Findings](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/Datalab_02_Findings_and_VisualisingDataInR.html)
 
 ## Wednesday
-- [Introduction to Statistical Inference](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/IntroStatisticalInference.html)
+- [Introduction to Probability 2](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/IntroStatisticalInference.html)
 
 ## Thursday
 - [Analysing Relationships between Variables](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/AnalysingRelationships.html)
@@ -96,7 +96,7 @@ Week 6-8: [Programming in Python](#week-6--programming-in-python)
 - [Datalab 04 Overview: Conclusion & References](https://www.buas.nl/en/games)
 
 ## Wednesday
-- [Introduction to regression & machine learning](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/IntroIntoRegressionAndMachineLearning.html)
+- [Explanatory Vs Predictive Modelling](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/IntroIntoRegressionAndMachineLearning.html)
 
 ## Thursday
 - [Block A recap](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/BlockA_Recap.html)

@@ -19,6 +19,9 @@ Good luck!
 [Go to codecademy](https://www.codecademy.com/learn/learn-statistics-with-r) and log in with your BUAS credential. The course will reinforce the core data science learning objectives for this block.
 **The course on hypothesis testing is not part of our year 1 curriculum** so I wouldn't do that one just yet. We'll go into that in year 2.
 
+## The end!
+Tomorrow we will have some time to work on the conference poster and then at 13:00 you'll have the poster demonstration. This is a formative assessment on your conference poster meaning that you are given a chance to collect feedback and reflect: you are not assessed for a grade, that takes place in week 9.
+
 ## Questions or issues?
 In case you have any questions, please first ask your peers or send us a message on teams instead!
 

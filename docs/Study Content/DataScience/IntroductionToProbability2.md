@@ -38,12 +38,14 @@ The variance, unlike the mean, is a measure of variability. Meaning, it captures
 </figure>
 <br>
 
+Take a piece of paper and calculate the following by hand:
+
 1. Given the following information, find the **population variance**.
 
 | Measure | Value |
 | ------- | -------- |
-| \mu	| 100 |
-| \sigma | 8 |
+| $\mu$	| 100 |
+| $\sigma$ | 8 |
 
 
 2. Find the **sample variance* for age(i) of the following data:
@@ -66,7 +68,7 @@ Hint: What is it mean? Where do we plug it in? And what do we do then with that 
 | ------- | -------- | -------- |
 | 715 | 55 | 1500 |
 
-
+Photograph your calculations, name them "VarianceMockAssessment1" (if you have more photos, continue the count: e.g. 2,3,4) and upload them to your github repo.
 
 # 3)  In-Class discussion
 At 16:00, there's an online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.

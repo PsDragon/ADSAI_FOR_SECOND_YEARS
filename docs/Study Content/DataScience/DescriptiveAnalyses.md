@@ -81,6 +81,7 @@ For help use:
 If you get stuck, first ask your peers and then us. We're available from 9:00 to 17:00 as usual.
 
 ## 3) Mock-Assignment
+Create an R script called "MeanMockAssessment" for this excercise.
 
 A) Quick exercise:
 Now calculate the mean using (R as) a calculator. Open R-studio and run the following code:
@@ -103,7 +104,7 @@ sample(1:100, 10, replace = TRUE)
 ```
 Hint: the "sample()" function goes on the place where the formula goes typically.
 
-##
+Save your script to your GitHub repository.
 
 ## 4)  In-Class discussion
 At 16:00, there's a online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.

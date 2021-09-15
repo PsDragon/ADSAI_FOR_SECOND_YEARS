@@ -75,7 +75,7 @@ Create an R-script following these instructions:
 5. Create a matrix containing the food and drinks you had today
 6. Create a data frame from the matrix and add the times; as numerical values, when you ate or drank something
 
-Save your mock assessment to your GitHub page. In Datalab you and your classmates are going to look at one another's scripts and run it.
+Save your mock assessment to your GitHub repository. In Datalab you and your classmates are going to look at one another's scripts and run it.
 
 
 # 4)  In-Class discussion

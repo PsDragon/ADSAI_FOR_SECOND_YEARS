@@ -48,12 +48,16 @@ If you don't feel like it, continue to the mock assignment, otherwise, anyway, h
 
 
 ## 2) Mock Assessment
+Create an R file called "DataVisualisationMockAssessment". Here you should note down any improvement you make as a comment. You can also copy and paste the bits of codes you changed if you find that helpful.
+
 Look at the data visualisations you made for the conference poster. Do you see anything you'd like to change? Anything that could help you tell a better story using the data? You can also change the poster layout if it helps you to tell a better story.
+
+Upload your script to your GitHub repository.
 
 ## 3) In-Class discussion
 At 16:00, there's an online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
 
-Next week, we will start diving into report and data visualisation practices.
+Tomorrow, we will work on our conclusion section.
 
 
 ## Questions or issues?
@@ -64,4 +68,4 @@ In case you have any questions, please first ask your peers or send us a message
 - [https://swirlstats.com/students.html](https://swirlstats.com/students.html)
 - [Swirl](https://swirlstats.com/help.html)
 - [Learning Statistics with R, by D. Navarro (2018)](https://learningstatisticswithr.com/)
-- [Discovering Statistics using R, A. Fields et al. (2012)](https://eds.b.ebscohost.com/eds/detail/detail?vid=2&sid=785a4ba4-77c1-4205-be1c-f6cd920efb78%40pdc-v-sessmgr02&bdata=JnNpdGU9ZWRzLWxpdmU%3d#db=cat08862a&AN=bus.KOHA.OAI.BUAS.28091) 
+- [Discovering Statistics using R, A. Fields et al. (2012)](https://eds.b.ebscohost.com/eds/detail/detail?vid=2&sid=785a4ba4-77c1-4205-be1c-f6cd920efb78%40pdc-v-sessmgr02&bdata=JnNpdGU9ZWRzLWxpdmU%3d#db=cat08862a&AN=bus.KOHA.OAI.BUAS.28091)

@@ -4,7 +4,7 @@ sort: 17
 
 # Datalab 05: Poster Presentation Day
 
-Today we're doing a mock assessment of the poster presentations. So you can put some finishing touches on your poster today. Or, if you are finished, you can come in at 13:00 when the poster presentations start. At 12:00 today, the lecturers will get the latest version of your poster and print it, after which we'll hang them in our Data Lab room (H.0.015). Then at 13:00, we start the presentations, and you're expected to present your own poster.
+Today we're doing a formative assessment of the poster presentations. So you can put some finishing touches on your poster today. Or, if you are finished, you can come in at 13:00 when the poster presentations start. At 12:00 today, the lecturers will get the latest version of your poster and print it, after which we'll hang them in our Data Lab room **(Hn0.015).** Then at 13:00, we start the presentations, and you're expected to present your own poster.
 
 ## 9:00 - 12:00 Finishing touches on your poster
 You can still ask for feedback or help with any issues you're experiencing now! :)

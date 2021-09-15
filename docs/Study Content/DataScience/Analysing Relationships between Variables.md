@@ -31,7 +31,7 @@ In this video, we will talk about data relationships and what we can learn from 
 The purpose of your data science project is not to do a correlational analysis in R yourself: the goal is to suggest an analysis based on your research question and data. But, if you want to go more in-depth into correlation and play around in R, I suggest doing [these excercises](https://www.r-bloggers.com/2017/04/correlation-and-correlogram-exercises/). Next year, we're going to advance our knowledge of statistics and go into hypothesis testing; for now you should just know what it means if variables are correlated.
 
 ## 1) Mock assessment 1
- Create an R Script called AnalysingRelationshipsBetweenVariables_[YourNameHere] and save it to the GitHUb Classroom folder of the same name in your repository.
+ Create an R Script called "CorrelationMockAssessment" and save it to your repository.
 
  Now, look at the following table. It displays the age and glucose level of a given subject.
 
@@ -46,6 +46,7 @@ The purpose of your data science project is not to do a correlational analysis i
 
  1. Use [this artcile](https://www.statology.org/correlation-coefficient-by-hand/) article to calculate the Pearson Correlation Coefficient between Age X and Glucose Level Y by hand, or in R using [operators only](https://www.datamentor.io/r-programming/operator/). If you do it by hand, upload a foto of your written calculations to GitHUb instead of a script.
 
+Save the file to your GitHub repository when you're done.
 
 ## 2) Intro to Regression
 Today we're going to introduce one of the most flexible statistical tools - the General Linear Model (or GLM). GLMs allow us to create many different models to help describe the world - you see them a lot in science, economics, and politics. For example, today we're going to build a hypothetical model to look at the relationship between likes and comments on a trending YouTube video using the Regression Model. We'll be introducing other popular models over the next few episodes.
@@ -58,13 +59,12 @@ swirl::install_course("Regression_Models")
 Complete module 1.
 
 ## 3) Mock Assessment 2
- Create an R Script called IntroIntoRegressionAndMachineLearning_[YourNameHere] and save it to the GitHUb Classroom folder of the same name in your repository:
+ Create an R Script called "LinearRegressionMockAssessment" and save it to the GitHUb Classroom folder of the same name in your repository:
 
 Now we're going to try to develop some analyses we can apply on our SDG Indicator dataset: preferably the data you use for your own project.
-1. Formulate and justify a linear regression analysis in less than 150 words.
+1. Formulate and justify a linear regression analysis in less than 150 words. So, we're only asking you for a comment regarding this one.
 
 Bonus points if you actually run the analysis in R and deliver working code.
-
 
 
 # 4)  In-Class discussion

@@ -43,7 +43,7 @@ Tip: If you are done early, look if you can iterate on your poster. If you want 
 ## 3) In-Class discussion
 At 16:00, there's an online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
 
-Next week, we will start diving into report and data visualisation practices.
+Next week, we will start diving into reporting and data visualisation practices.
 
 
 ## Questions or issues?

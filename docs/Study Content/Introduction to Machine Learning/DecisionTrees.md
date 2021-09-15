@@ -32,7 +32,7 @@ Now, we're introduced to TOPIC it's time ground down these fundamental by doing 
 - Project: Find the Flag
 
 
-# 3)  In-Class discussion
+# 3)  Daily Q&A
 At 16:00, there's a online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
 
 Tomorrow we will cover TOPIC!

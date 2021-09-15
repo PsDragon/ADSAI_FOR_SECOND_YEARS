@@ -16,6 +16,8 @@ Table of contents:
 1. Workshop: 3 hours
 3. Mock Assessment: 2 hours
 
+## Questions or issues?
+If you have any questions, please first ask your peers or ask us in the daily Q&A at 16:00!
 
 Good luck!
 
@@ -68,14 +70,11 @@ Hint: What is it mean? Where do we plug it in? And what do we do then with that 
 
 Photograph your calculations, name them "VarianceMockAssessment1" (if you have more photos, continue the count: e.g. 2,3,4) and upload them to your github repo.
 
-# 3)  In-Class discussion
+# 3) Daily Q&A
 At 16:00, there's an online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
 
 That's it for today! Tomorrow we're going to discuss our mock assessment with our classmates and learn how to analyse different relationships between variables.
 
-
-## Questions or issues?
-In case you have any questions, please first ask your peers or send us a message on teams instead!
 
 ## Resources
 - [Swirl](https://swirlstats.com/help.html)

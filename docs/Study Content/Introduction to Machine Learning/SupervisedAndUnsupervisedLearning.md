@@ -2,13 +2,17 @@
 sort: 1
 ---
 
-# Supervised and Unsupervised Learning
+# Supervised and Unsupervised Learning + Model Evaluation
 
 We start with ...
 
 ## 0) Learning Objectives:
 Text:
-1. ...
+1. Supervised learning
+2. Unsupervised learning
+3. Model Evaluation
+4. Train-Test Split of dataset
+5. Bias-Variance Trade-off
 
 Table of contents:
 1. Introduction to concepts: X hours
@@ -37,7 +41,7 @@ Next, we're going to discuss how machine learning can be used to group and label
 Now, we're introduced to the two flavours of machine learning it's time ground down these fundamental by doing a workshop. Open the [Basics of Machine Learning course](https://www.codecademy.com/learn/machine-learning) on Codecademy and complete the first module: **Introduction to Machine Learning**.
 
 
-# 3)  In-Class discussion
+# 3)  Daily Q&A
 At 16:00, there's a online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
 
 Tomorrow we will cover regression algorithms!

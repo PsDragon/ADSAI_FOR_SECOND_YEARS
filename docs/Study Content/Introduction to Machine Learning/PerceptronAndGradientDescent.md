@@ -36,7 +36,7 @@ At 16:00, there's a online meeting you're encouraged to take part in to ask ques
 
 Tomorrow we will cover TOPIC!
 
-## Questions or issues?
+## Daily Q&A
 If you have any questions, please first ask your peers or send us a message on teams instead! We're available on working days from 9:00 tot 17:00.
 
 ## Resources

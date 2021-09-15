@@ -106,7 +106,7 @@ Hint: the "sample()" function goes on the place where the formula goes typically
 
 Save your script to your GitHub repository.
 
-## 4)  In-Class discussion
+## 4) Daily Q&A
 At 16:00, there's a online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
 
 

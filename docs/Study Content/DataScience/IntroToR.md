@@ -85,7 +85,7 @@ Now start the 'A (very) short introduction to R' course, module 1 by typing:
 ```
 Run through the course by completing all 3 modules, which should take about 1 to 2 hours.
 
-# 6) In-Class discussion
+# 6) Daily Q&A
 At 16:00, there's an online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
 
 That's all for lesson 1. Tomorrow we're going to look at the project we'll be working in the coming 3 weeks. See you in Datalab!

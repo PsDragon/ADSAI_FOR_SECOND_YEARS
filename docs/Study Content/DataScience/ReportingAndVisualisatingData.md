@@ -15,6 +15,8 @@ Please follow the links below to continue the class:
 1. Lecture: 1.5 hours
 3. Mock-Assessment: 6.5 (on your own discretion)
 
+## Questions or issues?
+If you have any questions, please first ask your peers or ask us in the daily Q&A at 16:00!
 
 Good luck!
 
@@ -54,14 +56,10 @@ Look at the data visualisations you made for the conference poster. Do you see a
 
 Upload your script to your GitHub repository.
 
-## 3) In-Class discussion
+## 3) Daily Q&A
 At 16:00, there's an online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
 
 Tomorrow, we will work on our conclusion section.
-
-
-## Questions or issues?
-In case you have any questions, please first ask your peers or send us a message on teams instead!
 
 
 ## Resources

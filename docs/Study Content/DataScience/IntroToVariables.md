@@ -78,7 +78,7 @@ Create an R-script called "VariablesMockAssessment" and follow these instruction
 Save your mock assessment to your GitHub repository. In Datalab you and your classmates are going to look at one another's scripts and run it.
 
 
-# 4)  In-Class discussion
+# 4) Daily Q&A
 At 16:00, there's a online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
 
 Tomorrow we will cover descriptive analysis: what can we tell about the data by just looking at the data distribution and summary statistics?

@@ -17,6 +17,8 @@ Table of contents:
 2. Predictive analyses: 0.5 hours
 4. Good and bad predictions: 0.5 hours
 
+## Questions or issues?
+If you have any questions, please first ask your peers or ask us in the daily Q&A at 16:00!
 
 Good luck!
 
@@ -62,11 +64,10 @@ We’re going to talk about why many predictions fail - specifically we’ll tak
 We're going to take a look at some of the times we've used statistics to gaze into our crystal ball, and actually got it right! We'll talk about how stores know what we want to buy (which can sometimes be a good thing), how baseball was changed forever when Paul DePodesta created a record-winning Oakland A's baseball team, and how statistics keeps us safe with the incredible strides we've made in weather forecasting.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uJFdLKkuYc4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## That's it!
-Tomorrow we will recap block A, specifically descriptive analyses because they're so fundamental.
+# 2) Daily Q&A
+At 16:00, there's a online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
 
-## Questions or issues?
-If you have any questions, please first ask your peers or send us a message on teams instead!
+Tomorrow we will recap block A, specifically descriptive analyses because they're so fundamental.
 
 ## Resources
 - [Learning Statistics with R, by D. Navarro (2018)](https://learningstatisticswithr.com/)

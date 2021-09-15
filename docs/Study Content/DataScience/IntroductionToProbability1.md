@@ -19,6 +19,9 @@ Table of contents:
 1. Introduction to concepts: 2 hour
 2. Workshop: 5 hours
 
+## Questions or issues?
+If you have any questions, please first ask your peers or ask us in the daily Q&A at 16:00!
+
 Good luck!
 
 
@@ -65,14 +68,11 @@ swirl::install_course("Statistical_Inference")
 ```
 Complete modules 1 to 4. Makes sure to open the PowerPoint presentations the course asks you to open; it's helpful to have different explanations of the same thing. In addition, it helps you learn: neurons that wire together, fire together. In essence, consuming multiple examples enables you to connect concepts in your brain, making it easier to recall.
 
-# 2)  In-Class discussion
+# 2) Daily Q&A
 At 16:00, there's an online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
 
 Tomorrow, we will create some cool data visualisations for the findings section of our conference poster!
 
-
-## Questions or issues?
-If you have any questions, please first ask your peers or send us a message on teams instead!
 
 ## Resources
 - [https://swirlstats.com/students.html](https://swirlstats.com/students.html)

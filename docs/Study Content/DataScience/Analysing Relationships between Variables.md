@@ -19,6 +19,8 @@ Please follow the links below to continue the class:
 2. Mock-Assessment 2: 1 hour
 
 
+## Questions or issues?
+If you have any questions, please first ask your peers or ask us in the daily Q&A at 16:00!
 
 
 Good luck!
@@ -67,14 +69,11 @@ Now we're going to try to develop some analyses we can apply on our SDG Indicato
 Bonus points if you actually run the analysis in R and deliver working code.
 
 
-# 4)  In-Class discussion
+# 4) Daily Q&A
 At 16:00, there's an online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
 
 Tomorrow we're going to cover writing a discussion section for our conference poster!
 
-
-## Questions or issues?
-In case you have any questions please first ask your peers or send us a message on teams instead!
 
 ## Resources
 - [Swirl](https://swirlstats.com/help.html)

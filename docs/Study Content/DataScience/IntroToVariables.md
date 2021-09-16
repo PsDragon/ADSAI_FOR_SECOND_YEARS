@@ -18,12 +18,11 @@ Table of contents:
 2. Workshop: 6 hours
 3. Mock-assessment: 1 hour
 
+## Questions or issues?
+If you have any questions or issues regading the course material, please first ask your peers or ask us in the daily Q&A at 16:00!
 
 Good luck!
 
-
-## Questions or issues?
-If you have any questions, please first ask your peers or send us a message on teams instead!
 
 ## 1) Introduction
 ### 1.1 Variables
@@ -83,9 +82,6 @@ At 16:00, there's a online meeting you're encouraged to take part in to ask ques
 
 Tomorrow we will cover descriptive analysis: what can we tell about the data by just looking at the data distribution and summary statistics?
 
-
-## Questions or issues?
-In case you have any questions please first ask your peers or send us a message on teams instead! We're available on working days from 9:00 tot 17:00.
 
 ## Resources
 - [https://swirlstats.com/students.html](https://swirlstats.com/students.html)

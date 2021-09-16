@@ -18,7 +18,7 @@ Table of contents:
 3. Mock-Assignment: 0.5 hours
 
 ## Questions or issues?
-If you have any questions or issues regading the course material, please first ask your peers or ask us in the daily Q&A at 16:00!
+If you have any questions or issues regarding the course material, please first ask your peers or ask us in the daily Q&A at 16:00!
 
 Good luck!
 

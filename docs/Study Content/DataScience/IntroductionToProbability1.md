@@ -3,24 +3,24 @@ sort: 8
 ---
 
 # Introduction to Probability 1
-This page introduces you to probability theory. First, we start with some video explaining to grasp some basic concepts. Then, in the workshop, we will put our new knowledge into practice by doing 4 modules of a swirl course. There is no mock assessment this time because this introduction to probability continues on Wednesday, so we'll have one then. Instead, though, we will apply our knowledge in tomorrow's Datalab.
+This page introduces you to the fundamentals of probability theory. First, we start with some video explaining to grasp some basic concepts. Then, in the workshop, we will put our new knowledge into practice by doing 4 modules of a swirl course. There is no mock assessment this time because this introduction to probability continues on Wednesday, so we'll have one then. Instead, though, we will apply our knowledge in tomorrow's Datalab.
 
 
 ## 0) Learning Objectives:
 Enable you to understand and/or apply:
-0. Data Distributions:
-1. Addition rule;
-2. Multiplication rules;
-3. Conditional probability;
-4. Law of Large Numbers;
-5. Randomness;
+0. data Distributions:
+1. addition rule;
+2. multiplication rules;
+3. conditional probability;
+4. law of Large Numbers;
+5. randomness;
 
 Table of contents:
 1. Introduction to concepts: 2 hour
 2. Workshop: 5 hours
 
 ## Questions or issues?
-If you have any questions or issues regading the course material, please first ask your peers or ask us in the daily Q&A at 16:00! 
+If you have any questions or issues regarding the course material, please first ask your peers or ask us in the daily Q&A at 16:00!
 
 Good luck!
 
@@ -39,7 +39,7 @@ Today is the day we finally talk about the normal distribution! The normal distr
 
 
 ### Probabilities and Randomness
-Today we're going to begin our journey into probabilities. We'll talk about how the addition (OR) rule, the multiplication (AND) rule, and conditional probabilities help us figure out the likelihood of sequences of events happening - from optimising your chances of having a great night out with friends to spotting a famous person!
+Now, we're going to begin our journey into probabilities. We'll talk about how the addition (OR) rule, the multiplication (AND) rule, and conditional probabilities help us figure out the likelihood of sequences of events happening - from optimising your chances of having a great night out with friends to spotting a famous person!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OyddY7DlV58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -66,7 +66,7 @@ Download the R swirl course [Statistical_Inference](https://github.com/swirldev/
 ```R
 swirl::install_course("Statistical_Inference")
 ```
-Complete modules 1 to 4. Makes sure to open the PowerPoint presentations the course asks you to open; it's helpful to have different explanations of the same thing. In addition, it helps you learn: neurons that wire together, fire together. In essence, consuming multiple examples enables you to connect concepts in your brain, making it easier to recall.
+Complete modules 1 to 4. Makes sure to open the Power Point presentations the course asks you to open; it's helpful to have different explanations of the same thing. In addition, it helps you learn: neurons that wire together, fire together. In essence, consuming multiple examples enables you to connect concepts in your brain, making it easier to recall.
 
 # 2) Daily Q&A
 At 16:00, there's an online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
@@ -75,7 +75,7 @@ Tomorrow, we will create some cool data visualisations for the findings section 
 
 
 ## Resources
-- [https://swirlstats.com/students.html](https://swirlstats.com/students.html)
+- [Swirl Student Page](https://swirlstats.com/students.html)
 - [Swirl](https://swirlstats.com/help.html)
 - [Learning Statistics with R, by D. Navarro (2018)](https://learningstatisticswithr.com/)
 - [Discovering Statistics using R, A. Fields et al. (2012)](https://eds.b.ebscohost.com/eds/detail/detail?vid=2&sid=785a4ba4-77c1-4205-be1c-f6cd920efb78%40pdc-v-sessmgr02&bdata=JnNpdGU9ZWRzLWxpdmU%3d#AN=bus.KOHA.OAI.BUAS.28091&db=cat08862a)

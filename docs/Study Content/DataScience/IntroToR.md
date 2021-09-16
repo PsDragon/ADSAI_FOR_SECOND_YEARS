@@ -92,7 +92,7 @@ That's all for lesson 1. Tomorrow we're going to look at the project we'll be wo
 
 
 ## Questions or issues?
-If you have any questions or issues regading the course material, please first ask your peers or ask us in the daily Q&A at 16:00!
+If you have any questions or issues regarding the course material, please first ask your peers or ask us in the daily Q&A at 16:00!
 
 ## Resources
 - [Swirl Students Site](https://swirlstats.com/students.html)

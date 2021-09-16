@@ -38,7 +38,7 @@ We start our project by focusing on creating value with our data science solutio
 
 Now that we have acquired the basics of forming a problem statement, it's essential to use it methodologically. Listing the different ways in which you can approach
 
-Create a file to make notes for yourself: a Word, .txt, a limestone tablet, or google documents file; whatever you prefer to write in.
+Create a file to make notes for yourself: a Word file, .txt file, a limestone tablet, or google documents file; whatever you prefer to write in.
 
 ### Excercise 1: Write down the different ways you can get started writing your problem statement.
 Hint: the answers are in the video above.

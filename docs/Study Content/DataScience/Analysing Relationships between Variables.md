@@ -8,7 +8,7 @@ We start by a brief refresher to sigma notations and by revisiting correlation a
 
 Learning objectives:
 - Correlations;
-- Regression analyses;
+- Regression analyses.
 
 
 
@@ -20,7 +20,7 @@ Please follow the links below to continue the class:
 
 
 ## Questions or issues?
-If you have any questions or issues regading the course material, please first ask your peers or ask us in the daily Q&A at 16:00!
+If you have any questions or issues regarding the course material, please first ask your peers or ask us in the daily Q&A at 16:00!
 
 
 Good luck!

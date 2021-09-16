@@ -68,7 +68,7 @@ Tomorrow, we will introduce you to the differences between explanatory and predi
 If you have any questions, please first ask your peers or send us a message on teams instead!
 
 ## Resources
-- [https://swirlstats.com/students.html](https://swirlstats.com/students.html)
+- [Swirl Student Page](https://swirlstats.com/students.html)
 - [Swirl](https://swirlstats.com/help.html)
 - [Learning Statistics with R, by D. Navarro (2018)](https://learningstatisticswithr.com/)
 - [Discovering Statistics using R, A. Fields et al. (2012)](https://eds.b.ebscohost.com/eds/detail/detail?vid=2&sid=785a4ba4-77c1-4205-be1c-f6cd920efb78%40pdc-v-sessmgr02&bdata=JnNpdGU9ZWRzLWxpdmU%3d#AN=bus.KOHA.OAI.BUAS.28091&db=cat08862a)

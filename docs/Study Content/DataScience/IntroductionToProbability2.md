@@ -3,13 +3,13 @@ sort: 10
 ---
 
 # Intro to Probability 2
-This page continues to build your foundational knowledge of probability theory. Yesterday, we introduced the foundational concepts, and today we will continue to put our new knowledge into practice by doing 4 more modules of a swirl course. Finally, in the Mock Assessment, we'll do our first correlational analysis by hand!
+This page continues to build your foundational knowledge of probability theory. Yesterday, we introduced the foundational concepts, and today we will continue to put our new knowledge into practice by doing 4 more modules of a swirl course. Finally, in the mock assessment, we'll do our first correlational analysis by hand!
 
 Learning objectives:
 Build upon the basic understanding of data representations by learning to create data visualisations which are:
-1. Expected values.
-2. Variance;
-3. Common distributions;
+1. expected values;
+2. variance;
+3. common distributions.
 
 
 Table of contents:
@@ -17,7 +17,7 @@ Table of contents:
 3. Mock Assessment: 2 hours
 
 ## Questions or issues?
-If you have any questions or issues regading the course material, please first ask your peers or ask us in the daily Q&A at 16:00! 
+If you have any questions or issues regarding the course material, please first ask your peers or ask us in the daily Q&A at 16:00!
 
 Good luck!
 
@@ -44,8 +44,8 @@ Take a piece of paper and calculate the following by hand:
 
 | Measure | Value |
 | ------- | -------- |
-| $\mu$	| 100 |
-| $\sigma$ | 8 |
+| $\mu $	| 100 |
+| $\sigma $ | 8 |
 
 
 2. Find the **sample variance* for age(i) of the following data:
@@ -60,7 +60,7 @@ Take a piece of paper and calculate the following by hand:
 | 6 | 59 |
 | 7 | 28 |
 
-Hint: What is it mean? Where do we plug it in? And what do we do then with that sigma notation, or sum notation, we learned last week?
+Hint: What is the mean? Where do we plug it in? And what do we do then with that sigma notation, or sum notation, we learned last week?
 
 3. Calculate the **sample variance** of the data set given the following information:
 

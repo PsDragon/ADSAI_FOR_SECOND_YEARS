@@ -7,19 +7,19 @@ sort: 12
 This data-lab day will focus on describing and understanding the data on a deeper level: interpreting the data distribution and the summary statics in the context of our research question. Then we will propose an analysis to answer that research question.
 
 Learning objectives:
-- Understanding and interpreting real-world descriptive Datalab;
-- Judge which analysis is best suited to address a research challenge.
+- understanding and interpreting real-world descriptive Datalab;
+- judge which analysis is best suited to address a research challenge.
 
 
 Table of contents:
-1. Mock Assessement Recap: 1 hour
+1. Mock Assessment Recap: 1 hour
 2. Project: 7 hours (but probably much shorter; 8 hours is the allocated time)
 
 Good luck!
 
 
 ## 0) Mock Assessment recap
-Now, let's all find a partner and get our mock-assessments out and discuss them. Specifically, analyse and evaluate one another's answers to the questions. If you both have the same answers, you're done. If not, then try to see who is right by explaining it to one another. If you both don't have an answer on a particular question; ask Bram or Nitin.
+Now, let's all find a partner and get our mock-assessments out and discuss them. Specifically, analyse and evaluate one another's answers to the questions. If you both have the same answers, you're done. If not, then try to see who is right by explaining it to one another. If you both don't have an answer on a particular question; ask your instructor(s) in Datalab.
 
 ## 1) Considerations in interpreting the data
 Now, it's time to put all the knowledge we gained into practice by writing the discussion section of our Conference Poster!
@@ -51,7 +51,7 @@ If you have any questions, please first ask your peers or send us a message on t
 
 
 ## Resources
-- [https://swirlstats.com/students.html](https://swirlstats.com/students.html)
+- [Swirl Student Page](https://swirlstats.com/students.html)
 - [Swirl](https://swirlstats.com/help.html)
 - [Learning Statistics with R, by D. Navarro (2018)](https://learningstatisticswithr.com/)
 - [Discovering Statistics using R, A. Fields et al. (2012)](https://eds.b.ebscohost.com/eds/detail/detail?vid=2&sid=785a4ba4-77c1-4205-be1c-f6cd920efb78%40pdc-v-sessmgr02&bdata=JnNpdGU9ZWRzLWxpdmU%3d#db=cat08862a&AN=bus.KOHA.OAI.BUAS.28091)

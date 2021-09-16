@@ -8,15 +8,15 @@ We start by looking back at our goal for the poster presentation: answering our 
 
 ## Learning Objectives
 Enable you to:
-1. Make compellingly data reports;
-2. Make compellingly data visualisations;
+1. make compellingly data reports;
+2. make compellingly data visualisations.
 
 Please follow the links below to continue the class:
 1. Lecture: 1.5 hours
 3. Mock-Assessment: 6.5 (on your own discretion)
 
 ## Questions or issues?
-If you have any questions or issues regading the course material, please first ask your peers or ask us in the daily Q&A at 16:00! 
+If you have any questions or issues regarding the course material, please first ask your peers or ask us in the daily Q&A at 16:00!
 
 Good luck!
 
@@ -63,7 +63,7 @@ Tomorrow, we will work on our conclusion section.
 
 
 ## Resources
-- [https://swirlstats.com/students.html](https://swirlstats.com/students.html)
+- [Student Swirl Page](https://swirlstats.com/students.html)
 - [Swirl](https://swirlstats.com/help.html)
 - [Learning Statistics with R, by D. Navarro (2018)](https://learningstatisticswithr.com/)
 - [Discovering Statistics using R, A. Fields et al. (2012)](https://eds.b.ebscohost.com/eds/detail/detail?vid=2&sid=785a4ba4-77c1-4205-be1c-f6cd920efb78%40pdc-v-sessmgr02&bdata=JnNpdGU9ZWRzLWxpdmU%3d#db=cat08862a&AN=bus.KOHA.OAI.BUAS.28091)

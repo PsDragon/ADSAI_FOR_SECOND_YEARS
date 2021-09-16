@@ -27,6 +27,11 @@ Good luck!
 Some people think of Perceptor every time they hear the word Perceptron, however, they are indeed distinct.
 ![Some people think of Perceptor every time they hear the word Perceptron, however, they are indeed distinct.](https://tfwiki.net/mediawiki/images2/thumb/f/f4/G1_Perceptor_reissueart.jpg/300px-G1_Perceptor_reissueart.jpg)
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qVRBYAdLAo?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*Video 1. Supervised learning: The perceptron by Crash Course.*
+
 ## 2) Workshop Perceptron
 Now, we're introduced to TOPIC it's time ground down these fundamental by doing a workshop. Open the [Basics of Machine Learning course](https://www.codecademy.com/learn/machine-learning) on Codecademy and complete the module: **Perceptron**.
 

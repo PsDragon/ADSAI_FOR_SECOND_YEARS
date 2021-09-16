@@ -26,7 +26,7 @@ Good luck!
 
 ## 1) Introduction
 ### 1.1 Variables
-Let's start with the most basic container for information: The variable. Essentially it's just a container that contains a value that can change depending on a given condition. The following video covers the fundamental concepts of variables from a mathematical perspective.
+Let's start with the most basic container for information: the variable. Essentially it's just a container that contains a value that can change depending on a given condition. The following video covers the fundamental concepts of variables from a mathematical perspective.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tHYis-DP0oU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The next video zooms into variables in the context of data & computer science; more specifically: how variables work in R.
@@ -41,6 +41,7 @@ Whereas a variable stores a single value, a vector stores multiple values of the
 Matrices store multiple (usually  numeric) values of the same type in *two* dimensions arranged into a fixed number of rows and columns. So every row, or observation or element, contains a value (if it's blank) for every collum.
 
 The singular form of matrices is 'matrix'.
+
 ![Enter the (data in the) matrix](https://media.makeameme.org/created/what-if-i-aac0fffe8b.jpg)
 
 So it's essentially a matrix is a table with values of the same type. It's exciting stuff.
@@ -67,12 +68,12 @@ This mock assessment is about applying the concepts we learned today to a real-w
 
 Create an R-script called "VariablesMockAssessment" and follow these instructions:
 
-1. Create a variable called 'lunch' with a string describing an item you had for lunch: food only
-2. Delete the variable
-3. Create a vector named 'drinks' containing all your drinks you ate today: as strings
+1. Create a variable called 'lunch' with a string describing an item you had for lunch: food only.
+2. Delete the variable.
+3. Create a vector named 'drinks' containing all your drinks you ate today: as strings.
 4. Create a vector named 'foods' listing all the food you ate today; as strings.
-5. Create a matrix containing the food and drinks you had today
-6. Create a data frame from the matrix and add the times; as numerical values, when you ate or drank something
+5. Create a matrix containing the food and drinks you had today.
+6. Create a data frame from the matrix and add the times; as numerical values, when you ate or drank something.
 
 Save your mock assessment to your GitHub repository. In Datalab you and your classmates are going to look at one another's scripts and run it.
 
@@ -84,7 +85,7 @@ Tomorrow we will cover descriptive analysis: what can we tell about the data by 
 
 
 ## Resources
-- [https://swirlstats.com/students.html](https://swirlstats.com/students.html)
+- [Swirl Student Page](https://swirlstats.com/students.html)
 - [Swirl](https://swirlstats.com/help.html)
 - [A (Very) Short Introduction to R](http://swirlstats.com/scn/A_(very)_short_introduction_to_R.html)
 - [Learning Statistics with R, by D. Navarro (2018)](https://learningstatisticswithr.com/)

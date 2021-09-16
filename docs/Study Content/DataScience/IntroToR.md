@@ -10,7 +10,7 @@ It's [becoming more popular](http://r4stats.com/articles/popularity/), and when 
 
 <figure>
     <img src=".\assets\PackagesOnCranOverTime.png" />
-    <figcaption>Amount of packages developed of time</figcaption>
+    <figcaption>Above: the amount of packages developed of time.</figcaption>
 </figure>
 <br>
 
@@ -45,7 +45,7 @@ Open RStudio and type the following into the console:
 </figure>
 <br>
 
-Note that the '>' symbol at the beginning of the line is R's prompt for you type something into the console. We include it here, so you know that this command must be typed into the console and not elsewhere. The part you type begins after '>'.
+Note that the '>' symbol at the beginning of the line is R's prompt (= a request for action) for you type something into the console. We include it here, so you know that this command must be typed into the console and not elsewhere. The part you type begins after '>'.
 
 ## 3) Start Swirl
 This is the only step that you will repeat every time you want to run Swirl. First, you will load the package using the 'library()' function. Then you will call the function that starts the magic! Type the following, pressing Enter after each line:
@@ -92,9 +92,9 @@ That's all for lesson 1. Tomorrow we're going to look at the project we'll be wo
 
 
 ## Questions or issues?
-If you have any questions or issues regading the course material, please first ask your peers or ask us in the daily Q&A at 16:00! 
+If you have any questions or issues regading the course material, please first ask your peers or ask us in the daily Q&A at 16:00!
 
 ## Resources
-- [https://swirlstats.com/students.html](https://swirlstats.com/students.html)
+- [Swirl Students Site](https://swirlstats.com/students.html)
 - [A Very Short Introduction to R](http://swirlstats.com/scn/A_(very)_short_introduction_to_R.html) and the accompanying [Github repository](https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R/blob/master/documents/A%20(very)%20short%20introduction%20to%20R.pdf)
 - [Swirl](https://swirlstats.com/help.html)

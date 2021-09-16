@@ -12,17 +12,24 @@ We start off with a comfortable introduction to some basic concepts and tools. T
 
 ## 1) General lesson structure
 Each 6-8 hour self-study day is dedicated to a specific lesson which generally consists of the following components:
-2. Lecture
-3. Workshop
-4. Mock-assessment
+2. lecture;
+3. workshop;
+4. mock-assessment.
+
+
 How each specific lesson is structured depends on the nature of the content and learning goals. Usually, these components can be found as separate Github pages, but these components can also be combined into 1, 2 or 3 pages. Today, for example, we will have a combined lecture & mock assessment of about 2-3 hours, after which we will have an introductory workshop of 1-2 hours.
 
 ## 2) More info?
 Look at the creative brief for more info about the content or ask us during the Q&A at 16:00 today!
 
+#### Don't know a specific word?
+Just google it, you're here to learn and master the vocabulary after all!
+
 ## 3) Watch or attend the [opening lecture](https://img.freepik.com/vrije-vector/binnenkort-onder-constructie-geel-ontwerp_1017-26685.jpg?size=338&ext=jpg)
-Time: Monday the 20th of September at 9:00 o'clock in the morning.
-Place: Online on Microsoft Team: it should be on your Teams Calendar. If not, [click here](https://teams.microsoft.com/l/meetup-join/19%3a17PMQMfR4ntX_bdV9TDCQMIh5dTyPJibns2Pp1g76Os1%40thread.tacv2/1631095566063?context=%7b%22Tid%22%3a%220a33589b-0036-4fe8-a829-3ed0926af886%22%2c%22Oid%22%3a%225cef929d-ecf9-4fca-bf12-bc5ee065fc99%22%7d).
+####Time:
+Monday the 20th of September at 9:00 o'clock in the morning.
+####Place:
+Online on Microsoft Team: it should be on your Teams Calendar. If not, [click here](https://teams.microsoft.com/l/meetup-join/19%3a17PMQMfR4ntX_bdV9TDCQMIh5dTyPJibns2Pp1g76Os1%40thread.tacv2/1631095566063?context=%7b%22Tid%22%3a%220a33589b-0036-4fe8-a829-3ed0926af886%22%2c%22Oid%22%3a%225cef929d-ecf9-4fca-bf12-bc5ee065fc99%22%7d).
 
 ## 4) Mock-Assessment
 **Mock-Assessments** test your knowledge and skills but **are not graded in any way.** Instead, they are small exercises which; similar to real assessments, test your capacity to use your knowledge:
@@ -45,19 +52,19 @@ A) Create a word file named 'MockAssessment_QuantifyingTheWorldInData',  where y
 
 B) Questions: Defining objects as data
 
-0. Choose an object to define: e.g. in your direct vicinity or something you like or want to understand better.
-1. Describe the object formally in at least 100 words.
+0. Choose an object to define: e.g. near you or something you like or want to understand better.
+1. Describe the object in at least 100 words.
 2. Quantify the object into (at least 10) variables.
-3. Form a data-driven research question based on your variables and the formal description of the object.
+3. Form a data-driven research question based on your variables and the description of the object.
 4. Describe the background for your research question based on your research question, formal description, variables and other resources found online. References your sources using APA citation.
 
 C) Questions: Defining phenomena as data
 
-0. Choose a phenomenon to define: e.g. in your direct vicinity or something you like or want to understand better.
-1. Describe the phenomenon formally in at least 100 words.
+0. Choose a phenomenon to define: e.g. near you or something you like or want to understand better.
+1. Describe the phenomenon in at least 100 words.
 2. Quantify the phenomenon into (at least 10) variables.
-3. Form a data-driven research question based on your variables and the formal description of the phenomena.
-4. Describe the background for your research question based on your research question, formal description, variables and other resources found online. Refer your sources using APA citation.
+3. Form a data-driven research question based on your variables and the description of the phenomena.
+4. Describe the background for your research question based on your research question, description, variables and other resources found online. Refer your sources using APA citation.
 
 Save the file to GitHub; we'll discuss it during Datalab tomorrow.
 
@@ -65,7 +72,7 @@ Save the file to GitHub; we'll discuss it during Datalab tomorrow.
 Now it's time for the [the workshop part](https://adsai.buas.nl/Study%20Content/DataScience/IntroToR.html) of this class to get acquainted with R. Click the link in the previous sentence or next page to continue.
 
 ## Questions or issues?
-If you have any questions or issues regading the course material, please first ask your peers or ask us in the daily Q&A at 16:00! 
+If you have any questions or issues regading the course material, please first ask your peers or ask us in the daily Q&A at 16:00!
 
 ## References:
 - [Learning Statistics with R, by D. Navarro (2018)](https://learningstatisticswithr.com/)

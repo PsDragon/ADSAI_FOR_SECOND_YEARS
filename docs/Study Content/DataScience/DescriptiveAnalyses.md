@@ -26,7 +26,7 @@ Good luck!
 
 ## 1) Introduction
 First, we will explore how we can describe and interpret our raw data without analysing any causal relationships. In other words, we're going to look at what we can tell about the data by itself.
-"Descriptive statistics are brief descriptive coefficients that summarise a given data set, which can be either a representation of the entire or a sample of a population. Descriptive statistics can be divided into measures of central tendency and measures of variability (or spread)." ([investopedia, Retrieved 14-07-2021](https://www.investopedia.com/terms/d/descriptive_statistics.asp))
+"Descriptive statistics are brief descriptive [coefficients](https://youtu.be/V3HejxzKIR8) that summarise a given data set, which can be either a representation of the entire or a sample of a population. Descriptive statistics can be divided into measures of central tendency and measures of variability (or spread)." ([investopedia, Retrieved 14-07-2021](https://www.investopedia.com/terms/d/descriptive_statistics.asp))
 
 ### Measures of Central tendency
 These essentially describe the center of the dataset:
@@ -36,7 +36,9 @@ These essentially describe the center of the dataset:
 A brief introduction, or refresher, to Sigma notations. Something which will be used frequently.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5jwXThH6fg4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 ###Some short Exercises
+
 Do some practical exercises on [Khan Academy](https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-3/a/review-summation-notation). Don't continue with the rest of course, just finish the exercises on the linked page.
 
 
@@ -52,7 +54,7 @@ Better yet is multi-modal perception of information; or data. Essentially, this 
 
 ![Renee Decartes enjoying his chill life in Amsterdam](http://static1.squarespace.com/static/51b10198e4b00987e7d6891b/51b10199e4b00987e7d68923/5259a2c6e4b0107b3307992d/1508313165899/CkcQMCeWsAAkjdf.jpg?format=1500w)
 
-We (mostly) have Renee Descartes with his cartesian coordinate system to thank for graphical representations of data as we know today: enabling us to use algebra to describe geometry. Or in other words: translate numbers using math into a shape to represent the information contained in the data.
+We (mostly) have Renee Descartes with his [cartesian coordinate system](https://en.wikipedia.org/wiki/Cartesian_coordinate_system) to thank for graphical representations of data as we know today: enabling us to use algebra to describe geometry. Or in other words: translate numbers using math into a shape to represent the information contained in the data.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hEWY6kkBdpo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -117,9 +119,8 @@ That was it for today; tomorrow, we'll continue until module 10. Then we'll perf
 
 
 ## Resources
-- [https://swirlstats.com/students.html](https://swirlstats.com/students.html)
+- [Swirl Student Page](https://swirlstats.com/students.html)
 - [Swirl](https://swirlstats.com/help.html)
-- [A (Very) Short Introduction to R](http://swirlstats.com/scn/A_(very)_short_introduction_to_R.html)
 - [Learning Statistics with R, by D. Navarro (2018)](https://learningstatisticswithr.com/)
 - [Discovering Statistics using R, A. Fields et al. (2012)](https://eds.b.ebscohost.com/eds/detail/detail?vid=2&sid=785a4ba4-77c1-4205-be1c-f6cd920efb78%40pdc-v-sessmgr02&bdata=JnNpdGU9ZWRzLWxpdmU%3d#AN=bus.KOHA.OAI.BUAS.28091&db=cat08862a)
 - Freina L and Ott M (2015) A literature review on immersive virtual reality in education: state of the art and perspectives. In: The International Scientific Conference eLearning and Software for Education, volume 1. pp. 10–1007.

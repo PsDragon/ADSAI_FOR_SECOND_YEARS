@@ -92,7 +92,7 @@ That's all for lesson 1. Tomorrow we're going to look at the project we'll be wo
 
 
 ## Questions or issues?
-In case you have any questions, please first ask your peers or send us a message on teams instead! We're available on working days from 9:00 till 17:00.
+If you have any questions or issues regading the course material, please first ask your peers or ask us in the daily Q&A at 16:00! 
 
 ## Resources
 - [https://swirlstats.com/students.html](https://swirlstats.com/students.html)

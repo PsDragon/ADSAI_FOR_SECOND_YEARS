@@ -17,6 +17,8 @@ Table of contents:
 2. Workshop: 6 hours
 3. Mock-Assignment: 0.5 hours
 
+## Questions or issues?
+If you have any questions or issues regading the course material, please first ask your peers or ask us in the daily Q&A at 16:00!
 
 Good luck!
 
@@ -113,10 +115,6 @@ At 16:00, there's a online meeting you're encouraged to take part in to ask ques
 ## The End
 That was it for today; tomorrow, we'll continue until module 10. Then we'll perform an exploratory data analysis on our own data based on the problem statement and research question we made in the previous data lab (Datalab_00_SDG_Indicators).
 
-
-
-## Questions or issues?
-In case you have any questions, please first ask your peers or send us a message on teams instead! We're available on working days from 9:00 tot 17:00.
 
 ## Resources
 - [https://swirlstats.com/students.html](https://swirlstats.com/students.html)

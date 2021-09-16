@@ -18,7 +18,7 @@ Each 6-8 hour self-study day is dedicated to a specific lesson which generally c
 How each specific lesson is structured depends on the nature of the content and learning goals. Usually, these components can be found as separate Github pages, but these components can also be combined into 1, 2 or 3 pages. Today, for example, we will have a combined lecture & mock assessment of about 2-3 hours, after which we will have an introductory workshop of 1-2 hours.
 
 ## 2) More info?
-Look at the creative brief for more info about the content or ask Bram or Nitin a question in teams or by mail.
+Look at the creative brief for more info about the content or ask us during the Q&A at 16:00 today!
 
 ## 3) Watch or attend the [opening lecture](https://img.freepik.com/vrije-vector/binnenkort-onder-constructie-geel-ontwerp_1017-26685.jpg?size=338&ext=jpg)
 Time: Monday the 20th of September at 9:00 o'clock in the morning.
@@ -65,7 +65,7 @@ Save the file to GitHub; we'll discuss it during Datalab tomorrow.
 Now it's time for the [the workshop part](https://adsai.buas.nl/Study%20Content/DataScience/IntroToR.html) of this class to get acquainted with R. Click the link in the previous sentence or next page to continue.
 
 ## Questions or issues?
-If you have any questions, please first ask your peers or send us a message on teams instead! We're available on working days from 9:00 till 17:00.
+If you have any questions or issues regading the course material, please first ask your peers or ask us in the daily Q&A at 16:00! 
 
 ## References:
 - [Learning Statistics with R, by D. Navarro (2018)](https://learningstatisticswithr.com/)

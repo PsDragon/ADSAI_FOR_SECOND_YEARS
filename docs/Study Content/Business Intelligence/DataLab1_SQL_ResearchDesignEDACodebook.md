@@ -10,7 +10,7 @@ sort: 2
 
 ### 1. Introduction
 
-In today's DataLab session, we will start working on the creative brief. First, we have a guest lecture on the youth care data scheduled. Later, we will examine the client's data by exploring the codebook, and conducting an EDA. A detailed description of the assignment can be found in the Project Brief. At the end of the day, from 16:00 to 17:00, we will have a moment to reflect on DataLab 1.
+In today's DataLab session, we will start working on the Creative Brief. First, we have a guest lecture on the youth care data scheduled. Later, we will examine the client's data by exploring the codebook, and conducting an EDA. A detailed description of the assignment can be found in the Project Brief.
 
 ***
 
@@ -18,14 +18,14 @@ In today's DataLab session, we will start working on the creative brief. First, 
 
 The workshop consists of two parts: A guest lecture, and a Q&A session by a data analyst of the municipality of Oosterhout. During the lecture you will be introduced to the youth care pilot. Time schedule:
 
-1. Workshop (10:00-11:00)
-2. Q&A session (11:00-15:00)
+1. Workshop (9:00-10:00)
+2. Q&A session (10:00-10:30)
 
 Before/after the workshop you have time to work on the independent study material or creative brief, and/or ask the lecturers for feedback.
 
 ***
 
-### 3. Creative Brief: Background information
+### 3. Project Brief: Background information
 
 #### 3.1 What is a data analyst?
 
@@ -48,7 +48,7 @@ In order to successfully perform these tasks, a data analyst must have broad ski
 - Machine learning
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: if you want to get a better understanding of the daily tasks and responsibilities of a data analyst, look up videos and articles with titles such as 'Day in a life of ...' In addition, the article <a href="https://careerfoundry.com/en/blog/data-analytics/whats-it-like-to-actually-be-a-data-analyst/">'What's it like to actually be a data analyst'</a> consists of an interview with a data analyst.
+Tip: If you want to get a better understanding of the daily tasks and responsibilities of a data analyst, look up videos and articles with titles such as 'Day in a life of ...' In addition, the article <a href="https://careerfoundry.com/en/blog/data-analytics/whats-it-like-to-actually-be-a-data-analyst/">'What's it like to actually be a data analyst'</a> consists of an interview with a data analyst.
 </div>
 
 ***
@@ -58,11 +58,20 @@ Tip: if you want to get a better understanding of the daily tasks and responsibi
 With the introduction of the new Child and Youth Act in 2015, all Dutch municipalities were made responsible for the whole spectrum of care for people between the ages of 0 to 18 in need of help. As of today, 355 municipalities oversee a wide range of youth care services, ranging from preventive services to highly specialised, including both voluntary and compulsory, care.
 
 In the Child and Youth Act of 2015, local municipalities must ensure that their youth policy:
+
 - Activates, restores and strengthen the own capacities of children, youth, parents and their social environment to solve problems.
 - Improves the parenting capacities of parents and their social environment, so that they are able to bear responsibility for the upbringing of children and youth. Municipalities should strengthen the pedagogical climate in families, areas, neighbourhoods, schools, playgrounds and child day care. And their policies should aim to improve the safety of children and youth.
 - Includes prevention, early detection and early support.
 - Offers timely suitable care made to measure. This includes improving the safety of children and youth and out of home placements in environments that are most similar to family environments, like foster care.
 - Contains effective and efficient cooperation regarding families (Hilverdink, Daamen and Vink, 2015).
+
+However, as time passed by it became clear that the new Child and Youth Act was unable to successfully address the system's financial and administrative weaknesses. While  municipalities struggled to cope with their newly acquired responsibilities, youth care workers took to the streets to vent their discontent.
+
+<img src="./images/youthcare_protest.jfif" alt="Youth care workers protest" width="600"/>
+
+*Figure 2. Youth care workers protest, September 2018.*
+
+Robin van der Helm, an alderman responsible for the youth care system in the municipality of Oosterhout, stated the following on the costs associated with youth care: 'Year in, year out, his municipality fails to meet the budgetary agreements. The costs are around 15 million, while Oosterhout receives 11 million from the national government'(Schapendonk and Vink, 2021).
 
 #### 3.3 Equalit: Youth care pilot
 
@@ -94,12 +103,15 @@ At the beginning of the project, you will be asked to pick one of these sub-ques
 
 #### 3.5 Processes
 
-The Dutch youth care system is complex . Jargon
+The Dutch youth care system is complex. The processes, and stakeholders driving the Dutch youth care system are, for example, often interdependent. A simplified explanation of the youth care process an be found in Figure 3.
 
-<img src="./images/youth_care_process.png" alt="Books banner" width="400"/>
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Tip: If your first language is not Dutch, I would advice you to team up with a native speaker for the first phase of CRISP (i.e. Business understanding).
+</div>
 
-*Figure 2. Overview of the youth care process*
+<img src="./images/youthcare_process.png" alt="Youth care process" width="500"/>
 
+*Figure 3. Overview of the youth care process*
 
 __1.	Assess__
 
@@ -148,8 +160,12 @@ Each month, the provider declares the support provided for which the municipalit
 *B. Task-oriented variant*
 Task-oriented variant does not involve declaration via the iJw message system.
 
-Detailed information on the youth care processes (in Dutch), a be found on the website of the [istandaarden](https://informatiemodel.istandaarden.nl/iWmoJw30_Eb10/views/view_72094.html).
+Detailed information on the youth care processes (in Dutch), can be found on the website of the [istandaarden](https://informatiemodel.istandaarden.nl/iWmoJw30_Eb10/views/view_72094.html).
 
 ***
 
 ## __Literature__
+
+Hilverdink, P., Daamen, W., & Vink, C. (2015). Children and youth support and care in the Netherlands. Utrecht: Netherlands Youth Institute.
+
+Schapendonk, N., & Vink, J. (2021, July 3). Breda blij, Oosterhout gematigd over extra miljoenen voor jeugdzorg. BNDeStem. https://www.bndestem.nl/breda/breda-blij-oosterhout-gematigd-over-extra-miljoenen-voor-jeugdzorg~a165d1e6/

@@ -44,29 +44,30 @@ Take a piece of paper and calculate the following by hand:
 
 | Measure | Value |
 | ------- | -------- |
-| σ2 = population variance	| 100 |
-| μ = population mean | 8 |
+| σ2 = population variance	| 50 |
+| μ = population mean | 4 |
 
 
 2. Find the **sample variance** for age(i) of the following data:
 
 | Subject | Age (i) |
 | ------- | -------- |
-| 1 | 43 |
-| 2 | 21 |
-| 3 | 25 |
-| 4 | 42 |
-| 5 | 57 |
-| 6 | 59 |
-| 7 | 28 |
+| 1 | 29 |
+| 2 | 30 |
+| 3 | 31 |
+| 4 | 45 |
+| 5 | 28 |
+| 6 | 26 |
+| 7 | 25 |
 
 Hint: What is the mean? Where do we plug it in? And what do we do then with that sigma notation, or sum notation, we learned last week?
 
 3. Calculate the **sample variance** of the data set given the following information:
 
-| Mean | SD | Sample Size |
-| ------- | -------- | -------- |
-| 715 | 55 | 1500 |
+Data set | Mean | SD | Sample Size |
+| ------- | -------- | -------- | -------- |
+A | 715 | 55 | 1500 |
+B | 634 | 42 | 2300
 
 Photograph your calculations, name them "VarianceMockAssessment1" (if you have more photos, continue the count: e.g. 2,3,4) and upload them to your github repo.
 

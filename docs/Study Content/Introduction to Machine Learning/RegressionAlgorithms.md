@@ -32,7 +32,7 @@ Now, we already covered the basics of regression last block, but if you feel you
 Regression analyses, whether they are linear, multiple or logistic, are a very powerful statistical tool! In fact, if you can answer a question or predict an outcome by simply using an easy regression model, it's probably the way to go: there's no need to overly complicate you analyses.
 
 <figure>
-    <img src=".\assets\RegressionToTheMeme.jpg" />
+    <img src=".\images\RegressionToTheMeme.jpg" />
     <figcaption>Above: the amount of packages developed of time.</figcaption>
 </figure>
 <br>

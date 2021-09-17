@@ -27,15 +27,16 @@ Now, we're introduced to multiple linear regression; it's time to apply these fu
 ### Document your code
 Write your argumentation down in a in-line comments; and for every line of code: write an in-line comment explaining what the line of code does exactly. The picture below is a good demonstration of documented code.
 <figure>
-    <img src=".\assets\InLineComment.jpg" />
+    <img src=".\images\InLineComment.jpg" />
     <figcaption>How to document your code.</figcaption>
 </figure>
 <br>
 
-1. Create a python script in Jupyter Notebook called MultipleRegressionOosterhout and save it to your GitHub repository.
-2. Open your research design and formulate a multiple regression analysis based on your research question. Start by listing the variables which you think could predict the outcome you're interested in.
-3. Create your fully fitted model under the python code you just wrote.
-4. Test, re-fit and validate your model. Create a new model in-line for every re-fit. Keep track of any predictor variables you exclude from the full model when re-fitting. Motivate why you are excluding; or including new variables using in-line comments.
+
+1. Create a python script in Jupyter Notebook called MultipleRegressionOosterhout. Load in the youthcare dataset you created in Business Intelligence. Then save your file to your GitHub repository.
+2. Open your research design and formulate a multiple regression analysis based on your research question (or when not answerable using multiple regression: related to your research question). Start by listing the variables which you think could predict the outcome variable you're interested in and motivate why you think they might predict your outcome variable
+3. Create your fully fitted model (so the model containing all variables you wrote down in step 2) under the python code you just wrote.
+4. Test, re-fit and validate your model. Create a new model on a new line for every re-fit. Keep track of any predictor variables you exclude from the full model when re-fitting. Motivate why you are excluding; or including new variables using in-line comments.
 5. Continue till 16:00, or stop when you feel you can no longer improve the model.
 
 ## 2) In-Class discussion

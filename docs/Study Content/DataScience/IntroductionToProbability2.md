@@ -71,7 +71,7 @@ Hint: What is the mean? Where do we plug it in? And what do we do then with that
 Photograph your calculations, name them "VarianceMockAssessment1" (if you have more photos, continue the count: e.g. 2,3,4) and upload them to your github repo.
 
 # 3) Daily Q&A
-At 16:00, there's an online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
+At 16:00, there's an online meeting on our Microsoft Team Channel  you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
 
 That's it for today! Tomorrow we're going to discuss our mock assessment with our classmates and learn how to analyse different relationships between variables.
 

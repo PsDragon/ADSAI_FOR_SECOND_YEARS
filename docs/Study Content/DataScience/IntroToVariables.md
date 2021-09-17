@@ -79,7 +79,7 @@ Save your mock assessment to your GitHub repository. In Datalab you and your cla
 
 
 # 4) Daily Q&A
-At 16:00, there's a online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
+At 16:00, there's a online meeting on our Microsoft Team Channel  you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
 
 Tomorrow we will cover descriptive analysis: what can we tell about the data by just looking at the data distribution and summary statistics?
 

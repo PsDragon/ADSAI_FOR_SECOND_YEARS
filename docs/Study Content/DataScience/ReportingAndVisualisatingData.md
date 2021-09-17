@@ -57,7 +57,7 @@ Look at the data visualisations you made for the conference poster. Do you see a
 Upload your script to your GitHub repository.
 
 ## 3) Daily Q&A
-At 16:00, there's an online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
+At 16:00, there's an online meeting on our Microsoft Team Channel  you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
 
 Tomorrow, we will work on our conclusion section.
 

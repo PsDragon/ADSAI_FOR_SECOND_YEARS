@@ -69,7 +69,7 @@ swirl::install_course("Statistical_Inference")
 Complete modules 1 to 4. Makes sure to open the Power Point presentations the course asks you to open; it's helpful to have different explanations of the same thing. In addition, it helps you learn: neurons that wire together, fire together. In essence, consuming multiple examples enables you to connect concepts in your brain, making it easier to recall.
 
 # 2) Daily Q&A
-At 16:00, there's an online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
+At 16:00, there's an online meeting on our Microsoft Team Channel  you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
 
 Tomorrow, we will create some cool data visualisations for the findings section of our conference poster!
 

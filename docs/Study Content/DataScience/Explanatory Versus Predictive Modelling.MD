@@ -68,7 +68,7 @@ We're going to take a look at some of the times we've used statistics to gaze in
 Use your extra time to start working on your poster!
 
 ## Daily Q&A
-At 16:00, there's a online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
+At 16:00, there's a online meeting on our Microsoft Team Channel  you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
 
 Tomorrow we will recap block A, specifically descriptive analyses because they're so fundamental.
 

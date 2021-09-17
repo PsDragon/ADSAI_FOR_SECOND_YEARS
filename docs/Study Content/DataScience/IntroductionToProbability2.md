@@ -44,8 +44,8 @@ Take a piece of paper and calculate the following by hand:
 
 | Measure | Value |
 | ------- | -------- |
-| σ2 = population variance	| 50 |
-| μ = population mean | 4 |
+| σ2	| 50 |
+| μ | 4 |
 
 
 2. Find the **sample variance** for age(i) of the following data:
@@ -62,7 +62,7 @@ Take a piece of paper and calculate the following by hand:
 
 Hint: What is the mean? Where do we plug it in? And what do we do then with that sigma notation, or sum notation, we learned last week?
 
-3. Calculate the **sample variance** of the data set given the following information:
+3. Calculate the **sample variance** of the data sets given the following information:
 
 Data set | Mean | SD | Sample Size |
 | ------- | -------- | -------- | -------- |

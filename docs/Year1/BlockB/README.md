@@ -83,7 +83,7 @@ Week 6-8: Programming
 ## Friday
 - [DataLab 2: Basic visuals & DAX in Power BI](../../Study%20Content/Business%20Intelligence/DataLab2_CreatingVisualsDAXPowerBI.html)
 
-# Week 4 : Introduction to Business Intelligence (Power BI) & ...
+# Week 4 : Introduction to Business Intelligence (Power BI) & Machine Learning
 
 ## Monday
 - [Data analysis & Managing workspaces/datasets in Power BI
@@ -92,3 +92,80 @@ Week 6-8: Programming
 ## Tuesday
 - [DataLab 1: Advanced visuals & Analyzing data in Power BI
 ](../../Study%20Content/Business%20Intelligence/DataLab3_AnalyzingDataPowerBI.html)
+
+## Wednesday
+[Supervised and Unsupervised Learning](https://adsai.buas.nl/Study%20Content/Introduction%20to%20Machine%20Learning/SupervisedAndUnsupervisedLearningModelEvaluation.html)
+
+## Thursday
+[Regression Algorithms](https://adsai.buas.nl/Study%20Content/Introduction%20to%20Machine%20Learning/RegressionAlgorithms.html)
+
+## Friday
+[Datalab 00: Regression Algorithms](https://adsai.buas.nl/Study%20Content/Introduction%20to%20Machine%20Learning/Datalab00_RegressionAnalyses.html)
+
+# Week 5 : WeekTitle
+
+## Monday
+
+
+## Tuesday
+
+
+## Wednesday
+
+
+## Thursday
+[Classifications Algorithms](https://adsai.buas.nl/Study%20Content/Introduction%20to%20Machine%20Learning/ClassificationAlgorithms.html)
+
+## Friday
+[Datalab 01: Classification Algorithms](https://adsai.buas.nl/Study%20Content/Introduction%20to%20Machine%20Learning/Datalab01_ClassificationAnalyses.html)
+
+# Week 6 : WeekTitle
+
+## Monday
+
+
+## Tuesday
+
+
+## Wednesday
+[Tree-Based Algorithms: Decision Trees](https://adsai.buas.nl/Study%20Content/Introduction%20to%20Machine%20Learning/DecisionTrees.html)
+
+## Thursday
+[Tree-Based Algorithms: Random Forests](https://adsai.buas.nl/Study%20Content/Introduction%20to%20Machine%20Learning/RandomForests.html)
+
+## Friday
+[Datalab 02: Tree-Based Analyses](https://adsai.buas.nl/Study%20Content/Introduction%20to%20Machine%20Learning/Datalab02_TreeBasedAnalyses.html)
+
+# Week 7 : WeekTitle
+
+## Monday
+
+
+## Tuesday
+
+
+## Wednesday
+
+
+## Thursday
+[Clustering: K-Means](https://adsai.buas.nl/Study%20Content/Introduction%20to%20Machine%20Learning/ClusteringK-Means.html)
+
+## Friday
+[Datalab 03: Clustering Analyses](https://adsai.buas.nl/Study%20Content/Introduction%20to%20Machine%20Learning/Datalab03_ClusteringAnalyses.html)
+
+
+# Week 8 : WeekTitle
+
+## Monday
+[Perceptron and Gradient Descent](https://adsai.buas.nl/Study%20Content/Introduction%20to%20Machine%20Learning/Perceptron.html)
+
+## Tuesday
+[Datalab 04: Perceptron and Gradient Descent]{https://adsai.buas.nl/Study%20Content/Introduction%20to%20Machine%20Learning/Datalab04_PerceptronAndGradientDescent.html}
+
+## Wednesday
+
+
+## Thursday
+
+
+## Friday

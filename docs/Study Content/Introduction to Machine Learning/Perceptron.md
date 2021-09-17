@@ -2,7 +2,7 @@
 sort: 11
 ---
 
-# Perceptron
+# Perceptron algorithm & Gradient descent 
 
 We start with ...
 

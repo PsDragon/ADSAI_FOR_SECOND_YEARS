@@ -2,7 +2,7 @@
 sort: 8
 ---
 
-# Classification Algorithms
+# Datalab 02: Tree-Based Analyses
 
 We start with ...
 

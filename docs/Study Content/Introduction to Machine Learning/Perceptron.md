@@ -2,7 +2,7 @@
 sort: 11
 ---
 
-# Perceptron algorithm & Gradient descent 
+# Perceptron algorithm & Gradient descent
 
 We start with ...
 
@@ -17,7 +17,8 @@ Table of contents:
 
 
 ## Questions or issues?
-If you have any questions, please first ask your peers or send us a message on teams instead!
+If you have any questions or issues regarding the course material, please first ask your peers or ask us in the daily Q&A at 16:00!
+
 
 
 Good luck!
@@ -41,8 +42,6 @@ At 16:00, there's a online meeting you're encouraged to take part in to ask ques
 
 Tomorrow we will cover TOPIC!
 
-## Daily Q&A
-If you have any questions, please first ask your peers or send us a message on teams instead! We're available on working days from 9:00 tot 17:00.
 
 ## Resources
 - [Codecademy](https://www.codecademy.com/learn/machine-learning)

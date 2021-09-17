@@ -8,7 +8,7 @@ Today, we will teach completely in the spirit of decision trees: the decison is 
 OR
 - work on content you haven't finished yet like a previous workshop or your something for creative brief.
 
-We'll get back to decision trees in year 2, so you won't miss out; don't worry! 
+We'll get back to decision trees in year 2, so you won't miss out; don't worry!
 
 ## 0) Learning Objectives:
 Text:
@@ -20,7 +20,8 @@ Table of contents:
 
 
 ## Questions or issues?
-If you have any questions, please first ask your peers or send us a message on teams instead!
+If you have any questions or issues regarding the course material, please first ask your peers or ask us in the daily Q&A at 16:00!
+
 
 
 Good luck!
@@ -43,9 +44,6 @@ Now, we're introduced to TOPIC it's time ground down these fundamental by doing 
 At 16:00, there's a online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
 
 Tomorrow we will cover TOPIC!
-
-## Questions or issues?
-If you have any questions, please first ask your peers or send us a message on teams instead! We're available on working days from 9:00 tot 17:00.
 
 ## Resources
 - [Codecademy](https://www.codecademy.com/learn/machine-learning)

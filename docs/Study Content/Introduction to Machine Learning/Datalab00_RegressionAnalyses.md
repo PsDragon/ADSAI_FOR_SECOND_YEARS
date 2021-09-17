@@ -25,10 +25,10 @@ Now, we're introduced to multiple linear regression; it's time to apply these fu
 
 ## 1) Oosterhout Dataset: Multiple Regression
 ### Document your code
-Write your argumentation down in a in-line comments; and for every line of code: write an in-line comment explaining what the line of code does exactly. The picture below is a good demonstration of documented code.
+Write your argumentation down in a in-line comments; and for every line of code: write an in-line comment explaining what the line of code does exactly. Figure 1. below is a good demonstration of documented code.
 <figure>
     <img src=".\images\InLineComment.jpg" />
-    <figcaption>How to document your code.</figcaption>
+    <figcaption>Figure 1.</figcaption>
 </figure>
 <br>
 

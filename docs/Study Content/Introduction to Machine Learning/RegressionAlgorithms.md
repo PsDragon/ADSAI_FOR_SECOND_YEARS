@@ -33,7 +33,7 @@ Regression analyses, whether they are linear, multiple or logistic, are a very p
 
 <figure>
     <img src=".\images\RegressionToTheMeme.jpg" />
-    <figcaption>Above: the amount of packages developed of time.</figcaption>
+    <figcaption>Regression to the Meme</figcaption>
 </figure>
 <br>
 

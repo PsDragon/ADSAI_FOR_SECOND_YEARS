@@ -6,7 +6,7 @@ sort: 8
 This page introduces you to the fundamentals of probability theory. First, we start with some video explaining to grasp some basic concepts. Then, in the workshop, we will put our new knowledge into practice by doing 4 modules of a swirl course. There is no mock assessment this time because this introduction to probability continues on Wednesday, so we'll have one then. Instead, though, we will apply our knowledge in tomorrow's Datalab.
 
 
-## 0) Learning Objectives:
+## Learning Objectives:
 Enable you to understand and/or apply:
 0. data Distributions:
 1. addition rule;
@@ -19,7 +19,7 @@ Table of contents:
 1. Introduction to concepts: 2 hour
 2. Workshop: 5 hours
 
-## Questions or issues?
+### Questions or issues?
 If you have any questions or issues regarding the course material, please first ask your peers or ask us in the daily Q&A at 16:00!
 
 Good luck!

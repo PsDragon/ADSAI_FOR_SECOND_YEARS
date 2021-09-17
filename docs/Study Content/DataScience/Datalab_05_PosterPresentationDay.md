@@ -15,7 +15,9 @@ The lecturers will print the poster. We can do it for free. You can eat lunch; w
 ## 13:00 - 16:00 Poster representations
 The lecturers will walk around and inquire about the posters. Then, the course instructors (Nitin & Bram) will give you feedback based on the content of your poster.
 
-Some of the other lecturers will be present, and these will not know what your project is about. So be prepared to take them through it and answer their questions. In essence this translates to knowing what you are talking about with respect to the scope of your research project, so don't worry about this too much. It will, however, give you some valuable feedback on how to improve on your poster before you are officially assessed in week 9.
+If the lecturers aren't reviewing your poster, walk around and look at the posters of you classmates. Give one another feedback: this enables you to learn for eachothers achievements and mistakes!
+
+Some of the other lecturers may be present, and these will not know what your project is about. So be prepared to take them through it and answer their questions. In essence this translates to knowing what you are talking about with respect to the scope of your research project, so don't worry about this too much. It will, however, give you some valuable feedback on how to improve on your poster before you are officially assessed in week 9.
 
 
 ## Some tips

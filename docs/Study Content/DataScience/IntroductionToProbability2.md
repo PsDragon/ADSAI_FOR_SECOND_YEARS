@@ -44,11 +44,11 @@ Take a piece of paper and calculate the following by hand:
 
 | Measure | Value |
 | ------- | -------- |
-| $\mu $	| 100 |
-| $\sigma $ | 8 |
+| σ2 = population variance	| 100 |
+| μ = population mean | 8 |
 
 
-2. Find the **sample variance* for age(i) of the following data:
+2. Find the **sample variance** for age(i) of the following data:
 
 | Subject | Age (i) |
 | ------- | -------- |

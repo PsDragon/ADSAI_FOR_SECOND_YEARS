@@ -4,16 +4,16 @@ sort: 2
 
 # Regression Algorithms
 
-We start with ...
-
+We start with a refresher on regression algorithms from last block. We will then continue with the workshop which covers simple linear regression and multiple linear regression. The workshop will consists of some interactive lessons, two short quizzes and a mini-project about honey production.
 
 ## 0) Learning Objectives:
 Text:
-1. ...
+1. Understand and apply simple linear regression
+2. Understand and apply multiple linear regression
 
 Table of contents:
-1. Introduction to concepts: X hours
-2. Workshop: Y hours
+1. Regression refresher: 0.5 hours
+2. Workshop: 7 hours
 
 
 

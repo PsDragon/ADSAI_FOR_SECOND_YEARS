@@ -2,21 +2,19 @@
 sort: 1
 ---
 
-# Supervised and Unsupervised Learning + Model Evaluation
+# Supervised and Unsupervised Learning
 
-We start with ...
+We start our dive into machine learning with a general introduction. What types of machine learning are there and where can they be applied? Then, we continue with a workshop on machine learning from codecademy which will further introduce you to machine learning and highlight the differences between supervised and Unsupervised learning. You'll then be introduced to a python package we'll be using for conducting (or running) machine learning analyses this block.
 
 ## 0) Learning Objectives:
 Text:
 1. Supervised learning
 2. Unsupervised learning
-3. Model Evaluation
-4. Train-Test Split of dataset
-5. Bias-Variance Trade-off
+3. Scikit-Learn Cheatsheet
 
 Table of contents:
-1. Introduction to machine learning: 0.5 hours
-2. Workshop on Supervised Vs Unsupervised Learning: 3.5 hours
+1. Introduction to machine learning: 1 hour
+2. Workshop on Supervised Vs Unsupervised Learning: 4 hours
 
 
 

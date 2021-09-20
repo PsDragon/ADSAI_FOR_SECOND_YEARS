@@ -61,7 +61,7 @@ B) Questions: Defining objects as data
 1. Describe the object in at least 100 words.
 2. Quantify the object into (at least 10) variables.
 3. Form a data-driven research question based on your variables and the description of the object.
-4. Describe the background for your research question based on your research question, formal description, variables and other resources found online. References your sources using APA citation.
+
 
 C) Questions: Defining phenomena as data
 
@@ -69,7 +69,7 @@ C) Questions: Defining phenomena as data
 1. Describe the phenomenon in at least 100 words.
 2. Quantify the phenomenon into (at least 10) variables.
 3. Form a data-driven research question based on your variables and the description of the phenomena.
-4. Describe the background for your research question based on your research question, description, variables and other resources found online. Refer your sources using APA citation.
+
 
 Save the file to GitHub; we'll discuss it during Datalab tomorrow.
 

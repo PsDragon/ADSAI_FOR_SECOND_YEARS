@@ -25,11 +25,12 @@ Look at the creative brief for more info about the content or ask us during the 
 #### Don't know a specific word?
 Just google it, you're here to learn and master the vocabulary after all!
 
-## 3) Watch or attend the [opening lecture](https://img.freepik.com/vrije-vector/binnenkort-onder-constructie-geel-ontwerp_1017-26685.jpg?size=338&ext=jpg)
-####Time:
+## 3) Watch or attend the opening lecture
+###Time:
 Monday the 20th of September at 9:00 o'clock in the morning.
-####Place:
+###Place:
 Online on Microsoft Team: it should be on your Teams Calendar. If not, [click here](https://teams.microsoft.com/l/meetup-join/19%3a17PMQMfR4ntX_bdV9TDCQMIh5dTyPJibns2Pp1g76Os1%40thread.tacv2/1631095566063?context=%7b%22Tid%22%3a%220a33589b-0036-4fe8-a829-3ed0926af886%22%2c%22Oid%22%3a%225cef929d-ecf9-4fca-bf12-bc5ee065fc99%22%7d).
+If you miss it, it'll be available [here](https://img.freepik.com/vrije-vector/binnenkort-onder-constructie-geel-ontwerp_1017-26685.jpg?size=338&ext=jpg) the same day sometime after 10:00.
 
 ## 4) Mock-Assessment
 **Mock-Assessments** test your knowledge and skills but **are not graded in any way.** Instead, they are small exercises which; similar to real assessments, test your capacity to use your knowledge:

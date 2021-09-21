@@ -8,7 +8,7 @@ This page introduces you to the fundamentals of probability theory. First, we st
 
 ## Learning Objectives:
 Enable you to understand and/or apply:
-0. data Distributions:
+0. data distributions:
 1. addition rule;
 2. multiplication rules;
 3. conditional probability;

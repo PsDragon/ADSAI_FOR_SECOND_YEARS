@@ -45,7 +45,7 @@ Hint: the answers are in the video above.
 
 
 ### Excercise 2: Form a draft of your problem Statement
-**Step 1.** Download and inspect the [conference poster template](https://github.com/BredaUniversityADSAI/ADS-AI/blob/ea5c8a2b9f040ff12d5d7b2646e3e34928466d5b/docs/Study%20Content/DataScience/assets/DS1-AssesmentPoster_Template_StudentVersion.pptx). Save it to your GitHub repository and name it aptly: e.g. "SDGIndicatorConferencePoster".
+**Step 1.** Download and inspect the [conference poster template](https://github.com/BredaUniversityADSAI/ADS-AI/blob/ea5c8a2b9f040ff12d5d7b2646e3e34928466d5b/docs/Study%20Content/DataScience/assets/DS1-AssesmentPoster_Template_StudentVersion.pptx). Save it to your GitHub repository and name it aptly:  "SDGIndicatorConferencePoster".
 
 **Step 2.**
 Research the domain, the SDG Indicators. Before diving in the online documentation, I would recommend watching all videos below. Feel free to skip one of the first two introductions if you prefer reading; don't skip the technical one.

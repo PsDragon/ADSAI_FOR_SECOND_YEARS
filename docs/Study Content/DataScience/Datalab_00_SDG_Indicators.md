@@ -116,7 +116,7 @@ Now, it's time for writing the research questions!
 # 4) In-Class discussion
 At 16:00, we'll all get together in Datalab to discuss our progress and reflect on today activities.
 
-Tomorrow, we're going to cover variables and data frame in R.
+Tomorrow, we're going to cover variables and data frames in R.
 
 
 ## Questions or issues?

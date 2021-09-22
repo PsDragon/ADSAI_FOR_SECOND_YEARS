@@ -3,15 +3,15 @@ sort: 9
 ---
 # Datalab 02: Findings & Data Visualisations
 
-This data-lab day will focus on making clear and helpful data visualisations! First, we'll learn some rules on how to plot data and what makes a good graph. Then we're going to use our new skills to create some good graphs and visualisations for our data-lab project!
+This data-lab day will focus on making clear and helpful data visualisations! First, we'll learn some rules on how to plot data and what makes a good graph. Then, we're going to use our new skills to create some good graphs and visualisations for our data-lab project!
 
 Learning objectives:
 Build upon the basic understanding of data representations by learning to create data visualisations which are:
-- Informative: of the data (distribution)
-- Meaninful: relevant to the data-drive research question
-- Unbiased: towards your own expectations
-- Visually Clear & Appealing
-- Have appropriate legends and additional labels and comments where needed
+- Informative: of the data (distribution).
+- Meaningful: relevant to the data-drive research question.
+- Unbiased: towards your own expectations.
+- Visually Clear & Appealing.
+- Have appropriate legends and additional labels and comments where needed.
 
 Table of contents:
 1. Workshop: 3 hours
@@ -30,27 +30,27 @@ swirl::install_course("Exploratory Data Analysis")
 
 ## 1) Creating the findings section
 Create appropriate graphical representations and tables of your data to fill the poster, which are:
-- Informative: of the data (distribution)
-- Meaningful: relevant to the data-driven research question
-- Unbiased: towards your own expectations
-- Visually Clear & Appealing
-- Have appropriate legends and additional labels and comments where needed
+- Informative: of the data (distribution).
+- Meaningful: relevant to the data-driven research question.
+- Unbiased: towards your own expectations.
+- Visually Clear & Appealing.
+- Have appropriate legends and additional labels and comments where needed.
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Tip: If you are done early, and want to learn some extra fancy data visualisations skills: do modules 8, 9 and potentially 10 as well of the Exploratory Data Analysis course in Swirl. But, let me emphasize this clearly: it’s an extra and by no means a requirement for this course.
 </div>
 
 # 2) In-Class discussion
-At 16:00, there's an online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
+At 16:00, we'll all get together in Datalab to discuss our progress and reflect on today activities.
 
-Tomorrow, we're going to cover statistical inferences!
+Tomorrow, we're going to continue with probability theory.
 
 
 ## Questions or issues?
 In case you have any questions, please first ask your peers or send us a message on teams instead!
 
 ## Resources
-- [https://swirlstats.com/students.html](https://swirlstats.com/students.html)
+- [Swirl Student Page](https://swirlstats.com/students.html)
 - [Swirl](https://swirlstats.com/help.html)
 - [Learning Statistics with R, by D. Navarro (2018)](https://learningstatisticswithr.com/)  
 - [Discovering Statistics using R, A. Fields et al. (2012)](https://uk.sagepub.com/en-gb/eur/discovering-statistics-using-r/book236067)  

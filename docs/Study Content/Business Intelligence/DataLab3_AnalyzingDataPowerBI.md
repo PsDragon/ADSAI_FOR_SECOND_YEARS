@@ -2,7 +2,7 @@
 sort: 12
 ---
 
-## __DataLab 3: Advanced visuals & Analyzing data in Power BI__
+## __DataLab 1: Advanced visuals & Analyzing data in Power BI__
 \
 \
 <img src="./images/datalab_banner.jpg" alt="Books banner" width="600"/>

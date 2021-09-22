@@ -38,14 +38,14 @@ We start our project by focusing on creating value with our data science solutio
 
 Now that we have acquired the basics of forming a problem statement, it's essential to use it methodologically. Listing the different ways in which you can approach
 
-Create a file to make notes for yourself: a Word, .txt, a limestone tablet, or google documents file; whatever you prefer to write in.
+Create a file to make notes for yourself: a Word file, .txt file, a limestone tablet, or google documents file; whatever you prefer to write in.
 
 ### Excercise 1: Write down the different ways you can get started writing your problem statement.
 Hint: the answers are in the video above.
 
 
 ### Excercise 2: Form a draft of your problem Statement
-**Step 1.** Download and inspect the [conference poster template](C:\Users\bramh\Documents\GitHub\AAI-DM\docs\Study Content\DataScience\assets\DS1-AssesmentPoster_Template_StudentVersion.pptx). Save it to your GitHub repository and name it aptly: e.g. "SDGIndicatorConferencePoster".
+**Step 1.** Download and inspect the [conference poster template](https://github.com/BredaUniversityADSAI/ADS-AI/blob/ea5c8a2b9f040ff12d5d7b2646e3e34928466d5b/docs/Study%20Content/DataScience/assets/DS1-AssesmentPoster_Template_StudentVersion.pptx). Save it to your GitHub repository and name it aptly:  "SDGIndicatorConferencePoster".
 
 **Step 2.**
 Research the domain, the SDG Indicators. Before diving in the online documentation, I would recommend watching all videos below. Feel free to skip one of the first two introductions if you prefer reading; don't skip the technical one.
@@ -114,9 +114,9 @@ Now, it's time for writing the research questions!
 **Step 3.** Save your poster and notes to your Github repository.
 
 # 4) In-Class discussion
-At 16:00, we'll all get together to discuss our progress and reflect on today activities.
+At 16:00, we'll all get together in Datalab to discuss our progress and reflect on today activities.
 
-Tomorrow, we're going to cover variables and data frame in R.
+Tomorrow, we're going to cover variables and data frames in R.
 
 
 ## Questions or issues?

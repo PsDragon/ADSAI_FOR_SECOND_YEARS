@@ -51,7 +51,7 @@ __2e__ Read the introduction chapter of Artificial Intelligence in Practice: How
 
 ### 3. Risks and benefits of AI
 \
-__3a__ Read sub-chapters 1.4 and 1.5 of AIMA (p.81-92).
+__3a__ Read sub-chapters 1.4 and 1.5 of AIMA (p.45-52).
 
 __3b__ Find three newspaper articles on a risk associated with a sub-field of AI (e.g. computer vision, natural language processing, robotics etc.). Summarize the articles with a maximum of 200 words.
 

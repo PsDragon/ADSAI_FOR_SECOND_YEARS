@@ -53,57 +53,56 @@ Week 6-8: [Programming in Python](#week-6--programming-in-python)
 # Week 3 : Data Science
 
 ## Monday
-- [Quantifying our world into data](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/Quantifying%20our%20world%20into%20data.html)
-- [Intro to R](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/IntroToR.html)
+- [Quantifying our world into data](https://adsai.buas.nl/Study%20Content/DataScience/Quantifying%20our%20world%20into%20data.html)
+- [Intro to R](https://adsai.buas.nl/Study%20Content/DataScience/IntroToR.html)
 
 ## Tuesday
-- [Datalab 00 Overview: SGD Indicators](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/Datalab_00_SDG_Indicators.html)
+- [Datalab 00 Overview: SGD Indicators](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_00_SDG_Indicators.html)
 
 ## Wednesday
-- [Intro to variables](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/IntroToVariables.html)
+- [Intro to variables](https://adsai.buas.nl/Study%20Content/DataScience/IntroToVariables.html)
 
 ## Thursday
-- [Descriptive Analyses](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/DescriptiveAnalyses.html)
+- [Descriptive Analyses](https://adsai.buas.nl/Study%20Content/DataScience/DescriptiveAnalyses.html)
 
 ## Friday
-- [Datalab 01: Exploratory Data Analysis (EDA)](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/Datalab_01_ExploratoryDataAnalysis.html)
+- [Datalab 01: Exploratory Data Analysis (EDA)](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_01_ExploratoryDataAnalysis.html)
 
 # Week 4 : Data Science
 
 ## Monday
-- [Introduction to Probability](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/IntroductionToProbability.html)
+- [Introduction to Probability 1](https://adsai.buas.nl/Study%20Content/DataScience/IntroductionToProbability1.html)
 
 ## Tuesday
-- [Datalab 02: Findings](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/Datalab_02_Findings_and_VisualisingDataInR.html)
+- [Datalab 02: Findings](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_02_Findings_and_VisualisingDataInR.html)
 
 ## Wednesday
-- [Introduction to Statistical Inference](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/IntroStatisticalInference.html)
+- [Introduction to Probability 2](https://adsai.buas.nl/Study%20Content/DataScience/IntroductionToProbability2.html)
 
 ## Thursday
-- [Analysing Relationships between Variables](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/AnalysingRelationships.html)
+- [Analysing Relationships between Variables](https://adsai.buas.nl/Study%20Content/DataScience/Analysing%20Relationships%20between%20Variables.html)
 
 ## Friday
-- [Datalab 03 Discussion](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/Datalab_03_Discussion.html)
+- [Datalab 03 Discussion](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_03_Discussion.html)
 
 
 
 # Week 5 : Data Science
 
 ## Monday
-- [Reporting & visualisation - Overview](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/ReportingAndVisualisatingData.html)
+- [Reporting & visualisation - Overview](https://adsai.buas.nl/Study%20Content/DataScience/ReportingAndVisualisatingData.html)
 
 ## Tuesday
-- [Datalab 04 Overview: Conclusion & References](https://www.buas.nl/en/games)
+- [Datalab 04 Overview: Conclusion & References](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_04_Conclusion.html)
 
 ## Wednesday
-- [Introduction to regression & machine learning](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/IntroIntoRegressionAndMachineLearning.html)
+- [Explanatory Vs Predictive Modelling](https://adsai.buas.nl/Study%20Content/DataScience/Explanatory%20Versus%20Predictive%20Modelling.html)
 
 ## Thursday
-- [Block A recap](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/BlockA_Recap.html)
-- [Conference Poster Hand-in](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/ConferencePoster_Hand-in_Instructions.html)
+- [Block A recap](https://adsai.buas.nl/Study%20Content/DataScience/BlockA_Recap.html)
 
 ## Friday
-- [Datalab 05 Overview: Poster Presentation Day](https://vigilant-giggle-149c38cd.pages.github.io/Study%20Content/DataScience/Datalab_05_PosterPresentationDay.html)
+- [Datalab 05 Overview: Poster Presentation Day](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_05_PosterPresentationDay.html)
 
 
 # Week 6 : Programming in Python

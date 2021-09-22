@@ -3,14 +3,14 @@ sort: 2
 ---
 # Intro to R
 
-This lesson is about installing & understanding the R programming language and R-studio software suite. R is a programming language based on Python (another programming language) to do statistical programming. The R-studio application is a suite to run and easily operate R. R-studio is an industry-standard tool for doing statistical analysis; it's free and has a wide range of libraries just for statistical analysis.
+This lesson is about installing & understanding the R programming language and R-studio software suite. R is a programming language build by statisticians to do statistical programming. The R-studio application is a suite to run and easily operate R. R-studio is an industry-standard tool for doing statistical analysis; it's free and has a wide range of libraries just for statistical analysis.
 
 It's [becoming more popular](http://r4stats.com/articles/popularity/), and when looking at the amount of package developed over time, we can see that the growth curve is impressive: it follows a rapid parabolic arc (quadratic fit with R-squared=.995; next year you'll learn more about statistics though and you can come back here and you'll know what that really means).
 
 
 <figure>
     <img src=".\assets\PackagesOnCranOverTime.png" />
-    <figcaption>Amount of packages developed of time</figcaption>
+    <figcaption>Above: the amount of packages developed of time.</figcaption>
 </figure>
 <br>
 
@@ -45,7 +45,7 @@ Open RStudio and type the following into the console:
 </figure>
 <br>
 
-Note that the '>' symbol at the beginning of the line is R's prompt for you type something into the console. We include it here, so you know that this command must be typed into the console and not elsewhere. The part you type begins after '>'.
+Note that the '>' symbol at the beginning of the line is R's prompt (= a request for action) for you type something into the console. We include it here, so you know that this command must be typed into the console and not elsewhere. The part you type begins after '>'.
 
 ## 3) Start Swirl
 This is the only step that you will repeat every time you want to run Swirl. First, you will load the package using the 'library()' function. Then you will call the function that starts the magic! Type the following, pressing Enter after each line:
@@ -85,16 +85,16 @@ Now start the 'A (very) short introduction to R' course, module 1 by typing:
 ```
 Run through the course by completing all 3 modules, which should take about 1 to 2 hours.
 
-# 6) In-Class discussion
-At 16:00, there's an online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
+# 6) Daily Q&A
+At 16:00, there's an online meeting on our Microsoft Team Channel you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
 
 That's all for lesson 1. Tomorrow we're going to look at the project we'll be working in the coming 3 weeks. See you in Datalab!
 
 
 ## Questions or issues?
-In case you have any questions, please first ask your peers or send us a message on teams instead! We're available on working days from 9:00 till 17:00.
+If you have any questions or issues regarding the course material, please first ask your peers or ask us in the daily Q&A at 16:00!
 
 ## Resources
-- [https://swirlstats.com/students.html](https://swirlstats.com/students.html)
+- [Swirl Students Site](https://swirlstats.com/students.html)
 - [A Very Short Introduction to R](http://swirlstats.com/scn/A_(very)_short_introduction_to_R.html) and the accompanying [Github repository](https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R/blob/master/documents/A%20(very)%20short%20introduction%20to%20R.pdf)
 - [Swirl](https://swirlstats.com/help.html)

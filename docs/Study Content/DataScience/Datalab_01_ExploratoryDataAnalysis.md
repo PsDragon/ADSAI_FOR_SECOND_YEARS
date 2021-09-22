@@ -4,7 +4,7 @@ sort: 7
 
 # Datalab 01: Exploratory Data Analysis
 
-This data-lab day will focus on Exploratory Data Analysis(EDA). First, we will cover 5 modules of the aptly named swirl course: Exploratory Data Analysis. After which, we will work on the project brief, specifically the EDA methodology section, and apply descriptive analyses to generate descriptive statistics and visualisations to populate the EDA Methodology section of the conference poster of our data-lab project.
+This data-lab day will focus on Exploratory Data Analysis (EDA). First, we will cover 5 modules of the aptly named swirl course: Exploratory Data Analysis. After which, we will work on the project brief, specifically the EDA methodology section, and apply descriptive analyses to generate descriptive statistics and visualisations to populate (= fill) the EDA Methodology section of the conference poster of our data-lab project.
 
 ## Learning Objectives
 Enable you to:
@@ -19,9 +19,9 @@ Table of contents:
 3. Day reflection: 16:00 - 17:00
 
 ## 0) Mock-Assessment review: Variables and Descriptive data
-Now, let's all find a partner (as in a classmate, not in a romantic sense) and get our mock-assessments out (assuming you made them) and discuss them. Specifically, analyse and evaluate one another work by:
-- Simply showing one another how you created your variables, vectors and data frame for the Intro to Variables Mock-Assessment. Or what you did and did not manage; we're in a safe space to learn, and not succeeding is part of that :).
-- Showing one another your calculations and solutions for parts A and B of the Descriptive Analyses Mock-Assessment.
+Now, let's all find a partner (as in a classmate, not in a romantic sense) and get our mock-assessments out (assuming you made them :p) and discuss them. Specifically, analyse and evaluate one another work by:
+- Simply showing one another how you created your variables, vectors and data frame for the Intro to Variables mock assessment. Or what you did and did not manage; we're in a safe space to learn, and not succeeding is part of that :).
+- Showing one another your calculations and solutions for parts A and B of the Descriptive Analyses mock assessment.
 
 ### 1) Workshop part: Exploratory Data Analyses
 Download the R swirl course [Exploratory Data Analysis](https://swirlstats.com/scn/eda.html) by running the following code in the R-studio console:
@@ -63,15 +63,15 @@ Now open the poster and write the Data Selection and Data Visualisation Sections
 
 
 ## 2)  In-Class discussion
-At 16:00, there's an online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
+At 16:00, we'll all get together in Datalab to discuss our progress and reflect on today activities.
 
-Next week we're going to cover some fundamental concepts of probability theory. It's much more fun than it sounds, I promise.
+Next week we're going to cover some fundamental concepts of probability theory. It's much more fun than it sounds, I promise. :p
 
 
 ## Questions or issues?
 In case you have any questions, please first ask your peers or send us a message on teams instead! We're available on working days from 9:00 tot 17:00.
 
 ## Resources:
-- https://unstats.un.org/sdgs/indicators/database/
-- https://sdg-tracker.org/
+- [SDG database](https://unstats.un.org/sdgs/indicators/database/)
+- [SDG website](https://sdg-tracker.org/)
 - [Cheatsheets](https://www.rstudio.com/resources/cheatsheets/) - Specifically the dply, tidyr and ggplot2 spreadsheats.

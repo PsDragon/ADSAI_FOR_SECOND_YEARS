@@ -16,8 +16,7 @@ __Make sure to upload all the answers to the questions listed below to your GitH
 ***
 ### 2. Citation
 
-__2a__ Read carefully the Publication Manual of the American Psychological Association (APA
-Publication Manual, Manual, 2020).
+__2a__ Read carefully the Publication Manual of the APA style guide 7.
 
 __2b__ Complete an exercise on APA style to check your knowledge and understanding.
 
@@ -142,6 +141,7 @@ ___●	Catch the Error and Correct the Mistake #8___
   __REVISED__
 
   ●	Hashimoto, T. (2010, March 13). Seeing red in November. Newsweek, 199, 23.
+    Hashimoto, Thomas. (March 13, 2010, p. 23). Seeing Red in November. Newsweek, vol. 199.
 
   ●	Explanation: Only initial for first name. Year comes first, then comma, then month and day, all in parentheses. Title of magazine is italicized, followed by comma, volume number italicized, then page number(s). Hanging indent.
 

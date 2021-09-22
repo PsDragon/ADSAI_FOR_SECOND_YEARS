@@ -15,7 +15,7 @@ Enable you to understand, manipulate and create:
 
 Table of contents:
 1. Introduction to concepts: 1 hour
-2. Workshop: 6 hours
+2. Workshop: 5 hours
 3. Mock-assessment: 1 hour
 
 ## Questions or issues?
@@ -38,7 +38,7 @@ Whereas a variable stores a single value, a vector stores multiple values of the
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w5dOALbZ9HE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 1.2 Matrices
-Matrices store multiple (usually  numeric) values of the same type in *two* dimensions arranged into a fixed number of rows and columns. So every row, or observation or element, contains a value (if it's blank) for every collum.
+Matrices store multiple (usually  numeric) values of the same type in *two* dimensions arranged into a fixed number of rows and columns. So every row, or observation or element, contains a value for every collum.
 
 The singular form of matrices is 'matrix'.
 

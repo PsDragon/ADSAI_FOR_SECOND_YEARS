@@ -9,8 +9,8 @@ We start with ...
 ## 0) Learning Objectives:
 Text:
 1. ...
-2. Implement, visualize, and evaluate a learning curve (optional)
-3. Apply one-hot encoding to a dataset (optional)
+2. Implement, visualize, and evaluate a learning curve of a model trained on the youth care dataset (optional)
+3. Apply one-hot encoding to the youth care dataset (optional)
 
 Table of contents:
 1. ...: Y hours

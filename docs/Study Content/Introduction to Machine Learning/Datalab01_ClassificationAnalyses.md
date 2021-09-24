@@ -103,6 +103,8 @@ Data decoding techniques are not limited to outcome variables, the features, i.e
 
 > Creating a good model is more about feature engineering than it is about choosing the right model; well, assuming your go-to model is a good one like Random Forest. Feature engineering means improving, acquiring, and even synthesizing features that are strong predictors of your model's target variable. Synthesizing features means deriving new features from existing features or injecting features from other data sources. For example, we could synthesize the name of an apartment's New York City neighborhood from it's latitude and longitude. It doesn't matter how sophisticated our model is if we don't give it something useful to chew on. If there is no relationship to discover, because the features are not predictive, no machine learning model is going to give accurate predictions (Terr and Howard, 2018-2019).
 
+Finally, there are even algorithms (e.g. perceptron) that only accept binary and/or continuous features as input. Then you have no choice, but to recode your categorical predictors.
+
 __Documentation (Python):__
 
 scikit-learn:

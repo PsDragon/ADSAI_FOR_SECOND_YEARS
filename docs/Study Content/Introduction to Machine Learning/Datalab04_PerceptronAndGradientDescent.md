@@ -68,7 +68,7 @@ __3. Differentiable (Gradient descent :heavy_check_mark:):__
 
 | Function | Plot | Equation | Derivative |
 |----|:---:|:---:|:---:|
-| Sigmoid | ![alt text](https://raw.githubusercontent.com/siebenrock/activation-functions/master/plots/sigmoid.png "Sigmoid") | ![alt text](https://raw.githubusercontent.com/siebenrock/activation-functions/master/equations/sigmoid.png "Sigmoid Equation") | ![alt text](https://raw.githubusercontent.com/siebenrock/activation-functions/master/equations/sigmoid_d.png "Sigmoid Derivative") ||
+| Sigmoid | ![alt text](https://raw.githubusercontent.com/siebenrock/activation-functions/master/plots/sigmoid.png "Sigmoid") | ![alt text](https://raw.githubusercontent.com/siebenrock/activation-functions/master/equations/sigmoid.png "Sigmoid Equation") | ![alt text](https://raw.githubusercontent.com/siebenrock/activation-functions/master/equations/sigmoid_d.png "Sigmoid Derivative") |
 
 Looks familiar? This is one of the most well known activation functions. It is also used in logistic regression. This variation of the perceptron, also knows as the sigmoid neuron, accepts both binary (i.e. 0 or 1) and continuous (i.e. between 0 and 1) input variables. As a result, it is a good practice to scale your continuous features.
 

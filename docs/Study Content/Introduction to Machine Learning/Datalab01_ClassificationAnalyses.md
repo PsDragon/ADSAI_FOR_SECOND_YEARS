@@ -9,6 +9,8 @@ We start with ...
 ## 0) Learning Objectives:
 Text:
 1. ...
+2. Implement, visualize, and evaluate a learning curve (optional)
+3. Apply one-hot encoding to a dataset (optional)
 
 Table of contents:
 1. ...: Y hours
@@ -72,13 +74,46 @@ __2b__ The training error provides information on the performance of your ML mod
 
 __2c__ The difference between the train set error and validation set provides information on the performance of your ML model in terms of a) variance or b) bias. Explain your answer.
 
-__2d__ visit the website of [scikit-learn](https://scikit-learn.org/stable/auto_examples/model_selection/plot_learning_curve.html#sphx-glr-auto-examples-model-selection-plot-learning-curve-py) for an Jupyter notebook on plotting learning curves.
+__2d__ visit the website of [scikit-learn](https://scikit-learn.org/stable/auto_examples/model_selection/plot_learning_curve.html#sphx-glr-auto-examples-model-selection-plot-learning-curve-py) for a Jupyter notebook on plotting learning curves.
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Tip: For more information on the application of learning curves, see Dataquest's <a href="https://www.dataquest.io/blog/learning-curves-machine-learning/"> Tutorial: Learning Curves for Machine Learning in Python </a>.
 </div>
 
-## 3) In-Class discussion
+## 3) Data encoding (optional)
+
+When you are working with a binary classifier (e.g. perceptron, logistic regression, SVM etc.) your outcome variable (i.e. y-variable) needs to be binary too! In other words, it should be comprised by only one or two possible values. For example, Pass/Fail, Profit/Loss, Cat/Dog, 0/1 etc.
+
+If you have a outcome variable that is not binary, but you want to use a binary classifier, you can recode your categorical variable. The Python libraries scikit-learn and pandas provide  various data encoding functions.
+
+### 3.1) One-hot encoding
+
+A popular data encoding technique is one-hot encoding. It represents data in a sparse, - i.e. 'machine-readable' way. Terr and Howard (2018-2019), define the technique as follows:  
+
+> One-hot encoding yields what people call dummy variables, boolean variables derived from a categorical variable where exactly one of the dummy variables is true for a given record. There is a new column for every categorical level. Missing category values yield 0 in each dummy variable (Parr and Howard, 2018-2019).
+
+To illustrate the idea behind one-hot encoding they provide a simple example. See chapter 8.3 One-hot encoding Hydraulics_Flow of the book The Mechanics of Machine Learning (Terr and Howard, 2018-2019), which you can find, [here](https://mlbook.explained.ai/bulldozer-feateng.html).
+
+When applying one-hot encoding to your dataset, you have to be aware of its drawbacks. Included, but not limited to:
+
+- One-hot encoding makes your dataset prone to what data professionals call 'The curse of dimensionality'. This data encoding technique greatly increases the dimensions of your dataset, making your analysis both memory, and computationally expensive. In addition, one-hot encoding can complicate a regression task by increasing the chance of multicollinearity. This phenomenon occurs when a feature can be linearly predicted from the other features in the multiple linear regression model.
+-  One-hot encoding cannot be applied to ordinal data. This specific type of data needs a dense, - i.e. 'human-readable', representation, such as a regular pandas dataframe. By creating 'dummy' variables out of the ordinal variable you will eliminate its intrinsic hierarchy.
+
+Data decoding techniques are not limited to outcome variables, the features, i.e the predictors of your model, can also benefit from this kind of engineering:
+
+> Creating a good model is more about feature engineering than it is about choosing the right model; well, assuming your go-to model is a good one like Random Forest. Feature engineering means improving, acquiring, and even synthesizing features that are strong predictors of your model's target variable. Synthesizing features means deriving new features from existing features or injecting features from other data sources. For example, we could synthesize the name of an apartment's New York City neighborhood from it's latitude and longitude. It doesn't matter how sophisticated our model is if we don't give it something useful to chew on. If there is no relationship to discover, because the features are not predictive, no machine learning model is going to give accurate predictions (Terr and Howard, 2018-2019).
+
+__Documentation (Python):__
+
+scikit-learn:
+- [OneHotEncoder()](https://scikit-learn.org/stable/modules/preprocessing.html#preprocessing-categorical-features)
+- [LabelBinarizer()](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelBinarizer.html)
+
+pandas:
+
+- [get_dummies()](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.get_dummies.html)
+
+## 4) In-Class discussion
 At 16:00, there's a meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
 
 Next week, we will start diving into Topic.
@@ -88,3 +123,4 @@ Next week, we will cover TOPIC!
 
 ## Resources
 - [Codecademy](https://www.codecademy.com/learn/machine-learning)
+- [The Mechanics of Machine Learning](https://mlbook.explained.ai/)

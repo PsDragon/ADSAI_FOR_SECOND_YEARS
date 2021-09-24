@@ -2,13 +2,15 @@
 sort: 11
 ---
 
-# Perceptron algorithm & Gradient descent
+# Perceptron algorithm
 
-We start with ...
+Today, you will  
 
 ## 0) Learning Objectives:
 Text:
-1. ...
+1. Identify the main elements of Rosenblatt's perceptron
+2. Determine what kind of problems can, and cannot be solved with Rosenblatt's perceptron
+2. Develop a code implementation of Rosenblatt's perceptron
 
 Table of contents:
 1. Introduction to concepts: X hours
@@ -32,36 +34,33 @@ Some people think of Perceptor every time they hear the word perceptron. Both ar
 
 *Figure 1. The perceptron vs. The perceptor.*
 
-## 2) Workshop Perceptron
-Now, we're introduced to the perceptron it's time ground down these fundamental by doing a workshop. Open the [Basics of Machine Learning course](https://www.codecademy.com/learn/machine-learning) on Codecademy and complete the module: **Perceptron**.
-
-## 3) Mock assessment: The perceptron
-
-__3a__ Watch the video Supervised learning: The perceptron by Crash Course.
+__1a__ Watch the video Supervised learning: The perceptron by Crash Course.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4qVRBYAdLAo?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Video 1. Supervised learning: The perceptron by Crash Course.*
 
-__3b__ Define the term 'perceptron'. Write your answer down (maximum 100 words).
+__1b__ Define the term 'perceptron'. Write your answer down (maximum of 100 words).
 
-__3c__ Read [The Perceptron - A Guided Tutorial Through Its History and Implementation In Python](https://pabloinsente.github.io/the-perceptron) by Pablo Caceres.
+__1c__ Provide at least one advantage, and one limitation of the perceptron algorithm. Elaborate on your answer.
 
-__3d__ After completing the tutorial by Pablo Caceres, would you provide the same answer to exercise 1b? Explain your answer.
+## 2) Workshop Perceptron
+Now, we're introduced to the perceptron it's time ground down these fundamental by doing a workshop. Open the [Basics of Machine Learning course](https://www.codecademy.com/learn/machine-learning) on Codecademy and complete the module: **Perceptron**.
 
-## 3) Mock assessment: Stochastic Gradient Descent & Backpropagation
+## 3) Additional material (optional)
 
-https://www.youtube.com/watch?v=CoPl2xn2nmk
-https://www.youtube.com/watch?v=OPizq3YRd0U
+This part of the independent study material is optional. You are not required to complete the following questions. However, they may help you with understanding how the perceptron algorithm works.
 
-- Derivatives
-- Step vs. sigmoid activation function
+__3a__ Read [The Perceptron - A Guided Tutorial Through Its History and Implementation In Python](https://pabloinsente.github.io/the-perceptron) by Pablo Caceres.
+
+__3b__ The perceptron can be decomposed into three main elements. List, and subsequently describe them. Write your answer down (maximum of 100 words).
+
+__3c__  Write down the mathematical equation that represents the decision-boundary or 'hyperplane'.  
+
+__3d__ After completing the Codecademy workshop, and the perceptron tutorial by Pablo Caceres, would you provide the same answer to exercise 1b? Explain your answer.
 
 # 4)  In-Class discussion
 At 16:00, there's a online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
-
-Tomorrow we will cover TOPIC!
-
 
 ## Resources
 - [Codecademy](https://www.codecademy.com/learn/machine-learning)

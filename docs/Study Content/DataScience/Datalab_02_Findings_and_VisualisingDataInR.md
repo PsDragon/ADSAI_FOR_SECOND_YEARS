@@ -28,15 +28,22 @@ swirl::install_course("Exploratory Data Analysis")
 ```
 
 
-## 1) Creating the findings section
+## 1) First things first
 Before you start, look at the feedback you have received on your poster by navigating to your GitHub repository and clicking on the 'Pull requests' header. There should be a feedback thread over there. Process the feedback and then continue as described below.
 
+For those of you who haven't done so already: start uploading our script to our GitHub repository as well. That way you never loose (too much) of your work and we can also help you from a distance if there's something which you can't resolve or don't understand! :)
+
+Do you feel like you could use some extra help or examples to deal with SDG data? Well, to help you a bit I made a short script which looks at an outcome variable for a given country and I outlined my thinking process using in-line comments (a description of what the line of code does). [Click here for the script and the dataset](https://github.com/BredaUniversityADSAI/ADS-AI/tree/main/docs/Study%20Content/DataScience/assets/DS2_Example), download both files and take a look at the graphs I plotted.
+The Swirl courses should have taught you everything you need to know to generate your descriptive statistics and graphs! However, I also added two packages which also generate some cool descriptive statistics "Hmisc" and "psych". You can also download them like that and play with them yourself, especially the 'describe()' function of both is really great!
+
+## 2) Creating the findings section
 Create appropriate graphical representations and tables of your data to fill the poster, which are:
 - Informative: of the data (distribution).
 - Meaningful: relevant to the data-driven research question.
 - Unbiased: towards your own expectations.
 - Visually Clear & Appealing.
 - Have appropriate legends and additional labels and comments where needed.
+
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Tip: If you are done early, and want to learn some extra fancy data visualisations skills: do modules 8, 9 and potentially 10 as well of the Exploratory Data Analysis course in Swirl. But, let me emphasize this clearly: it’s an extra and by no means a requirement for this course.

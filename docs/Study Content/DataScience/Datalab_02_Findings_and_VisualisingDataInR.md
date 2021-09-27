@@ -33,8 +33,10 @@ Before you start, look at the feedback you have received on your poster by navig
 
 For those of you who haven't done so already: start uploading our script to our GitHub repository as well. That way you never loose (too much) of your work and we can also help you from a distance if there's something which you can't resolve or don't understand! :)
 
-Do you feel like you could use some extra help or examples to deal with SDG data? Well, to help you a bit I made a short script which looks at an outcome variable for a given country and I outlined my thinking process using in-line comments (a description of what the line of code does). [Click here for the script and the dataset](https://github.com/BredaUniversityADSAI/ADS-AI/tree/main/docs/Study%20Content/DataScience/assets/DS2_Example), download both files and take a look at the graphs I plotted.
+Do you feel like you could use some extra help or examples to deal with SDG data? Well, it's best for you educational process if we don't take you by the hand and walk you through everything... But, I couldn't resist helping you a bit so I made a short script which looks at an outcome variable for a given country and I outlined my thinking process using in-line comments (a description of what the line of code does). [Click here for the script and the dataset](https://github.com/BredaUniversityADSAI/ADS-AI/tree/main/docs/Study%20Content/DataScience/assets/DS2_Example), download both files and take a look at the graphs I plotted.
 The Swirl courses should have taught you everything you need to know to generate your descriptive statistics and graphs! However, I also added two packages which also generate some cool descriptive statistics "Hmisc" and "psych". You can also download them like that and play with them yourself, especially the 'describe()' function of both is really great!
+
+Now, go and have some fun with R! Or frustration, it's part of our lives occasionally as well... haha
 
 ## 2) Creating the findings section
 Create appropriate graphical representations and tables of your data to fill the poster, which are:

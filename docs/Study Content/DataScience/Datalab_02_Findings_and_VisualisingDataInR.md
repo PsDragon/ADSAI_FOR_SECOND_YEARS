@@ -29,6 +29,8 @@ swirl::install_course("Exploratory Data Analysis")
 
 
 ## 1) Creating the findings section
+Before you start, look at the feedback you have received on your poster by navigating to your GitHub repository and clicking on the 'Pull requests' header. There should be a feedback thread over there. Process the feedback and then continue as described below.
+
 Create appropriate graphical representations and tables of your data to fill the poster, which are:
 - Informative: of the data (distribution).
 - Meaningful: relevant to the data-driven research question.

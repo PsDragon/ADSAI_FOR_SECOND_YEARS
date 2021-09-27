@@ -23,7 +23,7 @@ Now, let's all find a partner (as in a classmate, not in a romantic sense) and g
 - Simply showing one another how you created your variables, vectors and data frame for the Intro to Variables mock assessment. Or what you did and did not manage; we're in a safe space to learn, and not succeeding is part of that :).
 - Showing one another your calculations and solutions for parts A and B of the Descriptive Analyses mock assessment.
 
-### 1) Workshop part: Exploratory Data Analyses
+## 1) Workshop part: Exploratory Data Analyses
 Download the R swirl course [Exploratory Data Analysis](https://swirlstats.com/scn/eda.html) by running the following code in the R-studio console:
 ```R
 swirl::install_course("Exploratory Data Analysis")
@@ -36,7 +36,7 @@ Now that we have performed all EDA techniques we could need to address your prob
 
 Download the dply, tidyr and ggplot2 [Cheatsheets](https://www.rstudio.com/resources/cheatsheets/). They're extremely useful when working in R, not just for this project, so be sure to use them in the future.
 
-**Step 1.** Open your conference poster and inspect the EDA Methodology section. Then, save the poster to your "DataScience1_ConferencePoster" GitHub repository and replace the template text with your name (e.g. AssessmentPoster_BramHeijligers.pptx).
+**Step 1.** Open your conference poster and inspect the EDA Methodology section. Then, save the poster to your "DataScience1_ConferencePoster" GitHub repository and be sure to save and upload your poster regularly. Now look at the feedback you have received on your poster by navigating to your GitHub repository and clicking on the 'Pull requests' header. There should be a feedback thread over there.
 
 **Step 2.** Get your notes from the last data lab and read the Introduction you wrote for the poster. Then, go to the [SDG website](https://sdg-tracker.org/) and make **a selection of the variables** you think are interesting in the context of the problem statement.
 

@@ -28,7 +28,7 @@ swirl::install_course("Exploratory Data Analysis")
 ```
 
 
-## 1) First things first
+## 1) First things second
 Before you start, look at the feedback you have received on your poster by navigating to your GitHub repository and clicking on the 'Pull requests' header. There should be a feedback thread over there. Process the feedback and then continue as described below.
 
 For those of you who haven't done so already: start uploading our script to our GitHub repository as well. That way you never loose (too much) of your work and we can also help you from a distance if there's something which you can't resolve or don't understand! :)

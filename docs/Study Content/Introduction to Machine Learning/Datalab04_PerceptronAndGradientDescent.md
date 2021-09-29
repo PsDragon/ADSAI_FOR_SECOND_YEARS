@@ -44,7 +44,7 @@ As you may have read, one of the main elements of the perceptron algorithm is th
 __1. Non-differentiable (Gradient descent :x:):__
 - Heaviside, or unit step
 
-The original perceptron developed by Rosenblatt use this particular activation function. This variation of the perceptron only accepts binary (i.e. 0 or 1) input variables, and its activation function is non-differentiable. Meaning, gradient descent will not help to optimize the performance of the model because the gradients are (except when x = 0) always zero.
+The original perceptron developed by Rosenblatt use this particular activation/threshold function. This variation of the perceptron only accepts binary (i.e. 0 or 1) input variables, and its activation function is non-differentiable. Meaning, gradient descent will not help to optimize the performance of the model because the gradients are (except when x = 0) always zero.
 
 | Function | Plot | Equation | Derivative |
 |----|:---:|:---:|:---:|
@@ -70,7 +70,7 @@ __3. Differentiable (Gradient descent :heavy_check_mark:):__
 |----|:---:|:---:|:---:|
 | Sigmoid | ![alt text](https://raw.githubusercontent.com/siebenrock/activation-functions/master/plots/sigmoid.png "Sigmoid") | ![alt text](https://raw.githubusercontent.com/siebenrock/activation-functions/master/equations/sigmoid.png "Sigmoid Equation") | ![alt text](https://raw.githubusercontent.com/siebenrock/activation-functions/master/equations/sigmoid_d.png "Sigmoid Derivative") |
 
-Looks familiar? This is one of the most well known activation functions. It is also used in logistic regression. This variation of the perceptron, also knows as the sigmoid neuron, accepts both binary (i.e. 0 or 1) and continuous (i.e. between 0 and 1) input variables. As a result, it is a good practice to scale your continuous features.
+Looks familiar? This is one of the most well known activation functions. It is also used in logistic regression. The gradient is 0 when x = 0 or x = 1. This variation of the perceptron, also knows as the sigmoid neuron, accepts both binary (i.e. 0 or 1) and continuous (i.e. between 0 and 1) input variables. As a result, it is a good practice to scale your continuous features.
 
 Want to learn more about the sigmoid neuron, see the book chapter [1.3: Sigmoid neurons](https://eng.libretexts.org/Bookshelves/Computer_Science/Applied_Programming/Book%3A_Neural_Networks_and_Deep_Learning_(Nielsen)/01%3A_Using_neural_nets_to_recognize_handwritten_digits/1.03%3A_Sigmoid_neurons#:~:text=Just%20like%20a%20perceptron%2C%20the%20sigmoid%20neuron%20has,input%2C%20w1%2C%20w2%2C%20%E2%80%A6%2Cand%20an%20overall%20bias%2C%20bb.) by Nielson (December 1, 2020).
 

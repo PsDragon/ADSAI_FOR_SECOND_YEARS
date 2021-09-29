@@ -41,11 +41,36 @@ __2c__ List at least one business intelligence dashboarding tool, and compare an
 
 __3a__ Complete the modules ```Get data in Power BI``` and ```Clean, transform, and load data in Power BI``` of the Microsoft Certified: Data Analyst Associate tutorial, which you can find [here](https://docs.microsoft.com/en-us/learn/paths/prepare-data-power-bi/).
 
-There is a big difference between absorbing information and putting what you have learned into practice. Without doing the latter, the training you have received will go to waste. Therefore, you are going to apply your newly acquired Power BI knowledge on a famous Microsoft dataset/database called AdventureWorks. Each of the lab exercises (do not confuse them with the Datalab sessions!) take approximately 45 minutes to complete.
+There is a big difference between absorbing information and putting what you have learned into practice. Without doing the latter, the training you have received will go to waste. Therefore, you are going to apply your newly acquired Power BI knowledge on a famous Microsoft dataset/database called AdventureWorks. Each of the lab exercises (do not confuse them with the DataLab sessions!) take approximately 45 minutes to complete.
 
-__3b__ Clone the following GitHub repository: [DA-100: Analyzing Data with Power BI](https://github.com/MicrosoftLearning/DA-100-Analyzing-Data-with-Power-BI).
+You can either complete the lab exercises in a Virtual Machine (VM) provided by Microsoft on their website or you can complete them on your local device (a.k.a. laptop). Setting up the lab exercises on your local device takes a bit more effort at first, but it will greatly reduce the time spend on loading the exercises in Power BI.
 
-__3c__ Complete ```Module 2 - Get Data in Power BI``` and ```Module 3 - Clean, Transform, and Load Data in Power BI``` lab exercise, which you can find [here](https://microsoftlearning.github.io/DA-100-Analyzing-Data-with-Power-BI/).
+All in all, there are two options:
+
+__Power BI in VM (online)__
+
+Step 1. Access the lab exercises through the learning paths of [Microsoft Certified: Data Analyst Associate](https://docs.microsoft.com/en-us/learn/certifications/data-analyst-associate/?azure-portal=true).
+
+or
+
+__Power BI on local device__
+
+Step 1. Install [Microsoft SQL Server 2019](https://www.microsoft.com/en-GB/sql-server/sql-server-downloads), and [Microsoft SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QsXWszvjMBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*Video 1. How to download and install Microsoft SQL Server 2019 database and SQL Server Management Studio by Lie Jenn.*
+
+Step 2. Git clone Microsoft's [DA-100: Analyzing Data with Power BI](https://github.com/MicrosoftLearning/DA-100-Analyzing-Data-with-Power-BI) GitHub repository.
+Step 3. Manually add AdventureWorksDW2020.bak (location: DA-100-Analyzing-Data-with-Power-BI --> Allfiles --> DA-100-Allfiles) to your databases listed in Microsoft SQL Server Management Studio. Follow the instructions provided in the section ´Restore to SQL Server´ from Microsoft's AdventureWorks sample databases article, which you can access [here](https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FTKtNLmiIT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*Video 2. How to download and import AdventureWorks sample database for Microsoft SQL Server 2019 by Lie Jenn.*
+
+For the DataLab sessions you need to install Power BI Desktop on your local device. If you have not installed it yet, please do so! You can download the software, [here](https://powerbi.microsoft.com/en-gb/desktop/).
+
+__3b__ Complete ```Module 2 - Get Data in Power BI``` and ```Module 3 - Clean, Transform, and Load Data in Power BI``` lab exercise, which you can find [here](https://microsoftlearning.github.io/DA-100-Analyzing-Data-with-Power-BI/).
 
 ***
 

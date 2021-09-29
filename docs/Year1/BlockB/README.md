@@ -32,7 +32,7 @@ Week 6-8: Programming
 - [SQL: Data Definition Language (DDL) clauses 2](../../Study%20Content/Business%20Intelligence/SQL_DDL2.html)
 
 ## Friday
--  [DataLab 2: Database & SQL assignment](../../Study%20Content/Business%20Intelligence/BusinessIntelligenceBlockBVersion2.html)
+-  [DataLab 2: Database & SQL assignment](../../Study%20Content/Business%20Intelligence/DataLab2_SQL_Assignment.html)
 
 # Week 2 : Digital Transformation & Artificial Intelligence
 

@@ -94,8 +94,6 @@ scikit-learn:
 
 - [StandardScaler()](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html#sklearn.preprocessing.StandardScaler)
 
-REVIEW MATERIAL
-
 
 ## 5) In-Class discussion
 At 16:00, there's a meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.

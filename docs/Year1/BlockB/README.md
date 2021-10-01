@@ -157,10 +157,10 @@ Week 6-8: Programming
 # Week 8 : WeekTitle
 
 ## Monday
-[Perceptron and Gradient Descent](https://adsai.buas.nl/Study%20Content/Introduction%20to%20Machine%20Learning/Perceptron.html)
+[Perceptron](https://adsai.buas.nl/Study%20Content/Introduction%20to%20Machine%20Learning/Perceptron.html)
 
 ## Tuesday
-[Datalab 04: Perceptron and Gradient Descent]{https://adsai.buas.nl/Study%20Content/Introduction%20to%20Machine%20Learning/Datalab04_PerceptronAndGradientDescent.html}
+[Datalab 04: Perceptron (+ architectures)](https://adsai.buas.nl/Study%20Content/Introduction%20to%20Machine%20Learning/Datalab04_PerceptronAndGradientDescent.html)
 
 ## Wednesday
 

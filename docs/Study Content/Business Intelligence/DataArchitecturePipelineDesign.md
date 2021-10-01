@@ -16,7 +16,7 @@ For the first half of the day, you will be made familiar with the core concepts 
 
 If you have questions regarding the study material, you can send us an email or attend the Q&A session at the end of each independent study day. During the Q&A session, we will extensively discuss the independent study material. For details on availability see Project Brief.
 
-__1a__ Complete the modules ```Introduction``` and ```1. Data Warehouse Foundations``` of the LinkedIn course Implementing a Data Warehouse SQL Server 2019 by Adam Wilbert, which you can find [here](https://www.linkedin.com/learning/implementing-a-data-warehouse-sql-server-2019/store-information-in-a-data-warehouse?resume=false&u=36359204).
+__1a__ Complete module ```1. Data Warehouse Foundations``` of the LinkedIn course Implementing a Data Warehouse SQL Server 2019 by Adam Wilbert, which you can find [here](https://www.linkedin.com/learning/implementing-a-data-warehouse-sql-server-2019/data-warehouse-core-concepts?u=36359204).
 
 ***
 
@@ -41,21 +41,21 @@ Better integration and deeper analytics</a>.
 
 __2d__ Read IBM's blog on OLAP and OLTP systems, which  you can find [here](https://www.ibm.com/cloud/blog/olap-vs-oltp).
 
-__2e__ As a data analyst, you are given the task to provide a list of the company's top 10 best selling items. Should you retrieve your data from the company's OLAP or OLTP system? Explain your answer.
+__2e__ As a data analyst, you are given the task to provide a list of the company's top 10 best-selling items. Should you retrieve your data from the company's OLAP or OLTP system? Explain your answer.
 
 ***
 
 ### 3. Designing a data warehouse
 
-__3a__ Read pages 10-17 of the book The data warehouse toolkit by Kimball and Ross (2013).
+__3a__ Read pages 10-17 of the book The data warehouse toolkit by Kimball and Ross (2013) (optional).
 
-__3b__ Define term 'star schema'. Write your answer down.
+__3b__ Define the term 'star schema'. Write your answer down.
 
 <img src="./images/star_schema.png" alt="Star schema" width="600"/>
 
-*Figure 2. Example of a star schema with a fact and dimension tables.*
+*Figure 2. Example of a star schema with fact and dimension tables.*
 
-__3c__ Provide an example of selection of facts and dimensions joined in a star schema. You can use Google's [Jamboard](https://jamboard.google.com/) or a simple piece of paper for your schema. Export/import your drawing to PNG, and upload it to your GitHub repository.
+__3c__ Provide an example of a selection of facts and dimensions joined in a star schema. You can use Google's [Jamboard](https://jamboard.google.com/) or a simple piece of paper for your schema. Export/import your drawing to PNG, and upload it to your GitHub repository.
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Note: In the upcoming independent study days we will shift our focus from the data warehouse to the transactional database. However do not despair, the star schema is here to stay!
@@ -69,4 +69,4 @@ __3e__ Create an infographic that covers the topics (of the first two modules) o
 
 ## __Literature__
 
-Kimball, R., & Ross, M. (2013). The data warehouse toolkit: The definitive guide to dimensional modeling.
+Kimball, R., & Ross, M. (2013). The data warehouse toolkit: The definitive guide to dimensional modeling. (Free access through BUAS' MetaSearch).

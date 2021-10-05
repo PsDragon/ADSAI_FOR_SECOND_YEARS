@@ -26,7 +26,7 @@ Good luck!
 Now, let's all find a partner and open your pre-mock assessment poster and our post-mock asessement poster respectively. Show them to your partner and explain the improvements you made, why you made them and how you made them. You analyse and evaluate one another's work: specifically the choices, the execution and the story they tell with their data visualisations.
 
 ## 1) Feedback on poster
-Now look at the feedback you have received on your Learning Log by navigating to the week 3/4/5 tab in your learning log. There should be a feedback thread over there. Process the feedback if you have some and then watch the video below and see if you can iterate on your poster further before continueing writing the conclusion!
+Now look at the feedback you have received on your Learning Log by navigating to the week 3/4/5 tab in your Microsoft Teams. There should be a feedback thread over there. Process the feedback if you have some and then watch the video below and see if you can iterate on your poster further before continueing writing the conclusion!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AwMFhyH7_5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -4,6 +4,8 @@
 library(dplyr)
 
 # Get the 'railways-passengers-carried-passenger-km.csv' file into a folder of your liking, probably the downloads folder
+path <- "C:/Github/AAI-DM/docs/Study Content/DataScience/assets/DS2_Example/"  # This is how it would look like on my computer, now do the same on the line below
+
 path <- "YourPathHere" #So your 'path' is the location where you saved your file and where R is going to look for it
 file <-  "railways-passengers-carried-passenger-km.csv" # name of the file
 

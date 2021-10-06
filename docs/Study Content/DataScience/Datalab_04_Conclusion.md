@@ -12,7 +12,8 @@ We've now learned everything we needed to know in order to finish our first data
 3. understand the CRISP-DM.
 
 Please follow the links below to continue the class:
-1. Mock Assessment Recap: 0.5 hours
+0. Mock Assessment Recap: 0.5 hours
+1. Feedback on Poster: 0.5 hours
 2. Conclusion: 2 hours
 3. Referencing: 1 hour
 4. CRISP-DM: 1 hour; potentially more depending on your project
@@ -25,7 +26,9 @@ Good luck!
 Now, let's all find a partner and open your pre-mock assessment poster and our post-mock asessement poster respectively. Show them to your partner and explain the improvements you made, why you made them and how you made them. You analyse and evaluate one another's work: specifically the choices, the execution and the story they tell with their data visualisations.
 
 ## 1) Feedback on poster
-Now look at the feedback you have received on your poster by navigating to your GitHub repository and clicking on the 'Pull requests' header. There should be a feedback thread over there. Process the feedback and then continue as described below.
+Now look at the feedback you have received on your Learning Log by navigating to the week 3/4/5 tab in your Microsoft Teams. There should be a feedback thread over there. Process the feedback if you have some and then watch the video below and see if you can iterate on your poster further before continueing writing the conclusion!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AwMFhyH7_5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 2) Write the Conclusion
 Now, let's write the conclusion of your poster. You have gone through all the steps. You know what to do next and why that's what you need to do. That essentially involves communicating:

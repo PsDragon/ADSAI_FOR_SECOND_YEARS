@@ -23,7 +23,7 @@ __1__ Complete the ```What is a Database?``` module in Codeacademy, which you ca
 
 A database is an organized collection of structured information, or data, typically stored in a computer system, such as your laptop. It is usually controlled by a database management system, also known as DBMS. Together, the data and the DBMS, along with the applications that are associated with them (e.g. PostgreSQL client), are referred to as a database system, often shortened to database. In this section, you will explore the different types of databases, and their corresponding strengths and weaknesses.
 
-__2a__ a) What is a relational database, and b) how does it differ from a so-called NoSQL database? Explain your answer
+__2a__ a) What is a SQL or relational database, and b) how does it differ from a so-called NoSQL database? Explain your answer
 
 __2b__ List three advantages/disadvantages of using a relational database.
 
@@ -56,23 +56,55 @@ __3c__ Install a PostgreSQL compatible client:
 
 __4a__ What happens if you try to create a table with an existing name? Write your answer down.
 
-__4b__ Correct the mistakes in the following SQL statements:
+__4b__ Identify, describe, and subsequently correct the error(s) in the following SQL statements.
 
-Example 1:
+Example 1a:
 
 ``` sql
 CREATE TABLE youth (
   ClientKey INTEGER PRIMARY KEY,
-  ClientVoornamen TEXT UNIQUE,
+  ToewijzingKey INTEGER,
+  ClientVoornamen TEXT,
   NotaRegelBedrag NUMERIC,
   GeboorteJaar INTEGER NOT NULL
 );
+
+INSERT INTO youth
+VALUES
+  (
+    1, 'Jan', 24, 4657, 2014
+	),
+	(
+		1, 'Jan', 51, 45, 2014
+	),
+	(
+		2, 'Anne', 205, 6778, 2008
+	);
 ```
+
+Example 1b:
+
+``` sql
+CREATE TABLE youth (
+  ClientKey INTEGER PRIMARY KEY,
+  ToewijzingKey INTEGER,
+  ClientVoornamen TEXT,
+  NotaRegelBedrag NUMERIC,
+  GeboorteJaar INTEGER NOT NULL
+);
+
+INSERT INTO youth VALUES (1, 'Jan', 24, 4657, 2014);
+INSERT INTO youth VALUES (1, 'Jan', 51, 45, 2014);
+INSERT INTO youth VALUES (2, 'Anne', 205, 6778, 2008);
+```
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Note: Example 1a, and 1b look similar, but present a very different output when you run the corresponding SQL queries.
+</div>
+
 Example 2:
 
 ``` sql
-INSERT INTO youth
-VALUES (11, Bert, 2234.5, 2005)
+INSERT INTO youth VALUES (11, Bert, 106, 2234.50, 2005)
 ```
 Example 3:
 
@@ -81,28 +113,25 @@ DELETE ClientKey FROM youth
 WHERE youth = 11;
 ```
 
-__4c__ The data analyst of the municipality of Oosterhout has created a new table that contains the demographic and geographic data of five youth care clients (See Table1, and Codebook). Clearly, something went wrong :weary:. Can you identify, and subsequently fix the problem with applying appropriate SQL clauses?
+__4c__ The data analyst of the municipality of Oosterhout has created a new table, by combining Table A and Table B, that contains the demographic, geographic and financial data of five youth care clients (See Table1, and Codebook). Clearly, something went wrong :weary:. Can you identify, and subsequently fix the problem with applying appropriate SQL clauses?
 
-The table can be downloaded as a csv.-formatted file, [here](../../Study%20Content/Business%20Intelligence/data/SQL_DDL1_exercise1.csv).
+The original tables can be downloaded as a csv.-formatted file:
+- [Table A](../../Study%20Content/Business%20Intelligence/data/SQL_DDL1_DML_exercise1.csv)
+- [Table B](../../Study%20Content/Business%20Intelligence/data/SQL_DDL1_DML_exercise2.csv)
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Tip: Want to import and/or export the table into the PostgreSQL client, see the article <a href="(https://www.postgresqltutorial.com/import-csv-file-into-posgresql-table/">Import CSV File Into PostgreSQL Table</a>.
 </div>
 
-|ClientKey|ClientVoornamen|ClientTussenvoegsel|ClientAchternaam|GeboorteJaar|ClientGeslacht|NotaRegelBedrag|NotaJaar|NotaKwartaal|NotaMaand|BuurtCode |BuurtNaam              |
-|---------|---------------|-------------------|----------------|------------|--------------|---------------|--------|------------|---------|----------|-----------------------|
-|1        |Bader          |van                |Wilgenburg      |2007        |[null]        |[null]         |[null]  |[null]      |[null]   |[null]    |[null]                 |
-|2        |Lorena         |?                  |Steensma        |2010        |[null]        |[null]         |[null]  |[null]      |[null]   |[null]    |[null]                 |
-|3        |Jikke          |?                  |Bosveld         |2007        |[null]        |[null]         |[null]  |[null]      |[null]   |[null]    |[null]                 |
-|4        |Maroua         |de                 |Backer          |2009        |[null]        |[null]         |[null]  |[null]      |[null]   |[null]    |[null]                 |
-|5        |Izaak          |?                  |Lake            |2008        |[null]        |[null]         |[null]  |[null]      |[null]   |[null]    |[null]                 |
-|6        |[null]         |[null]             |[null]          |[null]      |Jongen        |49.8           |2019    |Qtr 3       |September|BU08260102|Slotjes-West           |
-|7        |[null]         |[null]             |[null]          |[null]      |Meisje        |0.3            |2020    |Qtr 4       |October  |BU08261300|Dorst                  |
-|8        |[null]         |[null]             |[null]          |[null]      |Jongen        |50.1           |2020    |Qtr 2       |June     |BU08261307|Buitengebied Dorst-Zuid|
-|9        |[null]         |[null]             |[null]          |[null]      |Meisje        |2022.21        |2015    |Qtr 4       |November |BU08260601|Sterrenbuurt           |
-|10       |[null]         |[null]             |[null]          |[null]      |Jongen        |67.8           |2019    |Qtr 2       |June     |BU08260300|Vogelbuurt             |
+|clientkey|clientvoornamen|clienttussenvoegsel|clientachternaam|geboortejaar|clientgeslacht|clientkey-2|notaregelbedrag|notajaar|notakwartaal|notamaand|buurtcode |buurtnaam              |
+|---------|---------------|-------------------|----------------|------------|--------------|-----------|---------------|--------|------------|---------|----------|-----------------------|
+|1        |Bader          |van                |Wilgenburg      |2007        |Jongen        |1          |49.8           |2019    |Qtr 3       |September|BU08260102|Slotjes-West           |
+|2        |Lorena         |?                  |Steensma        |2010        |Meisje        |2          |0.3            |2020    |Qtr 4       |October  |BU08261300|Dorst                  |
+|3        |Jikke          |?                  |Bosveld         |2007        |Jongen        |3          |50.1           |2020    |Qtr 2       |June     |BU08261307|Buitengebied Dorst-Zuid|
+|4        |Maroua         |de                 |Backer          |2009        |Meisje        |[null]       |[null]           |[null]    |[null]        |[null]     |[null]      |[null]                   |
+|5        |Izaak          |?                  |Lake            |2008        |Jongen        |[null]       |[null]           |[null]    |[null]        |[null]     |[null]     |[null]                   |
 
-*Table 1. Table with demographic and geographic information from the youth care database*
+*Table 1. Table with demographic, geographic and financial information from the youth care database*
 
 __4d__ What are constraints? List three of them, and explain why it would be beneficial to apply such as constraint?
 

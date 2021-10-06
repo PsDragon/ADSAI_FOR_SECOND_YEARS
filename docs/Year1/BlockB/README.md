@@ -21,6 +21,7 @@ Week 6-8: Programming
 ## Monday
 - [Introduction to BI: Data architecture & Pipeline design](../../Study%20Content/Business%20Intelligence/DataArchitecturePipelineDesign.html)
 - [SQL: Data Definition Language (DDL) clauses 1 & Data Manipulation Language (DML) clauses](../../Study%20Content/Business%20Intelligence/SQL_DDL1_DML.html)
+- [Markdown template (optional)](../../Study%20Content/Business%20Intelligence/homework_markdown_template.html)
 
 ## Tuesday
 - [DataLab 1: Research design, EDA, and codebook](../../Study%20Content/Business%20Intelligence/DataLab1_SQL_ResearchDesignEDACodebook.html)

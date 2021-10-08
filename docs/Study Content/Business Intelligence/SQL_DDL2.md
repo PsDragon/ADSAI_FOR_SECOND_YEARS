@@ -9,9 +9,9 @@ sort: 5
 
 ### 1. Introduction
 
-With today's independent study material you are going to deepen your knowledge on relational database design. For example, you will learn to compare and implement various types of database relationships (e.g. One-to-one, many-to-one etc.). Furthermore, you will acquire skills that enable you to correctly deploy DDL related SQL clauses such as PRIMARY KEY, and REFERENCES.
+With today's independent study material you are going to deepen your knowledge of relational database design. For example, you will learn to compare and implement various types of database relationships (e.g. One-to-one, many-to-one etc.). Furthermore, you will acquire skills that enable you to correctly deploy DDL related SQL clauses such as PRIMARY KEY, and REFERENCES.
 
-<img src="./images/sql_types_3.png" alt="Books banner" width="450"/>
+<img src="./images/sql_types_3.png" alt="SQL types" width="450"/>
 
 *Figure 1. Types of SQL.*
 
@@ -23,9 +23,9 @@ __1a__ Complete the ```How Do I Make And Populate My Own Database?``` module in 
 
 A database schema is a schematic design that represents the storage of your data in a database. It describes both the organization of data and the relationships between tables in a given database.
 
-Some database schemas are written in a language that can be interpreted by database management software, while others are comprised by abstract diagrams.
+Some database schemas are written in a language that can be interpreted by database management software, while others are comprised of abstract diagrams.
 
-<img src="./images/database_schema.jfif" alt="Books banner" width="600"/>
+<img src="./images/database_schema.jfif" alt="Database Schema" width="600"/>
 
 *Figure 2. Example of a database schema.*
 
@@ -47,16 +47,16 @@ The table can downloaded as a csv.-formatted file, [here](../../Study%20Content/
 
 __2b__ What is 'snake case'? Provide an example based on the data in Table 1.
 
-__2c__ Since there is a client who has multiple 'toewijzingen', there are repeated listings of this client in Table 1. Write an query that designates multiple columns in the table to serve as the primary key (should include the column ClientKey!).
+__2c__ Since there is a client who has multiple 'toewijzingen', there are repeated listings of this client in Table 1. Write a query that designates multiple columns in the table to serve as the primary key (should include the column ClientKey!).
 
 ***
 
 
 ### 3. What are database relationships?
 
-Relationships are the cornerstone of relational databases. Data analyst/engineers can query the database and get results that combine data from different tables into a single table. In the Design databases with PostgreSQL course on Codeacademy, you are made familiar with the three types of database relationships; One-to-one, many-to-one, and many-to-many.
+Relationships are the cornerstone of relational databases. Data analysts/engineers can query the database and get results that combine data from different tables into a single table. In the Design databases with PostgreSQL course on Codeacademy, you are made familiar with the three types of database relationships; One-to-one, many-to-one, and many-to-many.
 
-__3a__ The municipality of Oosterhout asks you to provide an brief presentation on relational databases to policymakers from the social domain. As part of your preparation your come up with three examples of for each database relationship type (See Table 2). Write your examples down.
+__3a__ The municipality of Oosterhout asks you to provide a brief presentation on relational databases to policymakers from the social domain. As part of your preparation, you come up with three examples for each database relationship type (See Table 2). Write your examples down.
 
 |Database relationship|Example 1|Example 2|Example 3|
 |---------------------|---------|---------|---------|

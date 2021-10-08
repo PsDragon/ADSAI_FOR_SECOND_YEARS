@@ -113,29 +113,9 @@ DELETE ClientKey FROM youth
 WHERE youth = 11;
 ```
 
-__4c__ The data analyst of the municipality of Oosterhout has created a new table, by combining Table A and Table B, that contains the demographic, geographic and financial data of five youth care clients (See Table1, and Codebook). Clearly, something went wrong :weary:. Can you identify, and subsequently fix the problem with applying appropriate SQL clauses?
+__4c__ What are constraints? List three of them, and explain why it would be beneficial to apply such as constraint?
 
-The original tables can be downloaded as a csv.-formatted file:
-- [Table A](../../Study%20Content/Business%20Intelligence/data/SQL_DDL1_DML_exercise1.csv)
-- [Table B](../../Study%20Content/Business%20Intelligence/data/SQL_DDL1_DML_exercise2.csv)
-
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: Want to import and/or export the table into the PostgreSQL client, see the article <a href="(https://www.postgresqltutorial.com/import-csv-file-into-posgresql-table/">Import CSV File Into PostgreSQL Table</a>.
-</div>
-
-|clientkey|clientvoornamen|clienttussenvoegsel|clientachternaam|geboortejaar|clientgeslacht|clientkey-2|notaregelbedrag|notajaar|notakwartaal|notamaand|buurtcode |buurtnaam              |
-|---------|---------------|-------------------|----------------|------------|--------------|-----------|---------------|--------|------------|---------|----------|-----------------------|
-|1        |Bader          |van                |Wilgenburg      |2007        |Jongen        |1          |49.8           |2019    |Qtr 3       |September|BU08260102|Slotjes-West           |
-|2        |Lorena         |?                  |Steensma        |2010        |Meisje        |2          |0.3            |2020    |Qtr 4       |October  |BU08261300|Dorst                  |
-|3        |Jikke          |?                  |Bosveld         |2007        |Jongen        |3          |50.1           |2020    |Qtr 2       |June     |BU08261307|Buitengebied Dorst-Zuid|
-|4        |Maroua         |de                 |Backer          |2009        |Meisje        |[null]       |[null]           |[null]    |[null]        |[null]     |[null]      |[null]                   |
-|5        |Izaak          |?                  |Lake            |2008        |Jongen        |[null]       |[null]           |[null]    |[null]        |[null]     |[null]     |[null]                   |
-
-*Table 1. Table with demographic, geographic and financial information from the youth care database*
-
-__4d__ What are constraints? List three of them, and explain why it would be beneficial to apply such as constraint?
-
-__4e__ After placing a UNIQUE constraint on one of the variables (named 'unique_constraint') in the table above, the data analyst of the municipality of Oosterhout, receives the following error message in his PostgreSQL client: ERROR: could not create unique index "unique_constraint". Can you explain the error? What could have possibly gone wrong? Multiple answers possible.
+__4d__ After placing a UNIQUE constraint on one of the variables (named 'unique_constraint') in the table above, the data analyst of the municipality of Oosterhout, receives the following error message in his PostgreSQL client: ERROR: could not create unique index "unique_constraint". Can you explain the error? What could have possibly gone wrong? Multiple answers possible.
 
 ***
 
@@ -153,25 +133,6 @@ __Instructional videos:__
 __Books/articles/webpages etc.:__
 - Batra, R. (2018). SQL primer: An accelerated introduction to SQL basics. (Freely available through BUAS' MetaSearch).
 - W3schools: [SQL Tutorial](https://www.w3schools.com/sql/default.asp).
-
-***
-
-## __Codebook__
-
-|Number|Variable           |Description              |
-|------|-------------------|-------------------------|
-|1     |ClientKey          |Client ID                |
-|2     |ClientVoornamen    |Client first name        |
-|3     |ClientTussenvoegsel|Client middle name       |
-|4     |ClientAchternaam   |Client last name         |
-|5     |GeboorteJaar       |Client birth year        |
-|6     |ClientGeslacht     |Client sex               |
-|7     |NotaRegelBedrag    |Invoice amount in Euro's |
-|8     |NotaJaar           |Invoice year             |
-|9     |NotaKwartaal       |Invoice quarter          |
-|10    |NotaMaand          |Invoice month            |
-|11    |BuurtCode          |Neighborhood ID          |
-|12    |BuurtNaam          |Neighborhood name        |
 
 ***
 

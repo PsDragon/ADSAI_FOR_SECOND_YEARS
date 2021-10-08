@@ -4,18 +4,19 @@ sort: 11
 
 # Perceptron algorithm
 
-Today, you will  
+Today, you will be introduced to the perceptron algorithm, which is commonly used for supervised learning of binary classifiers. The perceptron is an important algorithm because it constitutes the basis of what we nowadays call deep learning - i.e. it is a single-layer neural network.
 
 ## 0) Learning Objectives:
-Text:
+
 1. Identify the main elements of Rosenblatt's perceptron
 2. Determine what kind of problems can, and cannot be solved with Rosenblatt's perceptron
 2. Develop a code implementation of Rosenblatt's perceptron
 
 Table of contents:
-1. Introduction to concepts: X hours
-2. Workshop: Y hours
-3. Mock-assessment: Z hours
+1. Introduction: 1 hour
+2. Workshop: 4 hours
+3. Additional material (optional): 2 hours
+   3.1 The 'original' perceptron by Rosenblatt
 
 
 ## Questions or issues?
@@ -44,11 +45,12 @@ __1b__ Define the term 'perceptron'. Write your answer down (maximum of 100 word
 
 __1c__ Provide at least one advantage, and one limitation of the perceptron algorithm. Elaborate on your answer.
 
-## 2) Workshop Perceptron
-Now, we're introduced to the perceptron it's time ground down these fundamental by doing a workshop. Open the [Basics of Machine Learning course](https://www.codecademy.com/learn/machine-learning) on Codecademy and complete the module: **Perceptron**.
+## 2) Workshop
+Now, we're introduced to the perceptron it's time to ground down these fundamentals by doing a workshop. Open the [Basics of Machine Learning course](https://www.codecademy.com/learn/machine-learning) on Codecademy and complete the module: **Perceptron**.
 
 ## 3) Additional material (optional)
 
+### 3.1 The 'original' perceptron by Rosenblatt
 This part of the independent study material is optional. You are not required to complete the following questions. However, they may help you with understanding how the perceptron algorithm works.
 
 __3a__ Read [The Perceptron - A Guided Tutorial Through Its History and Implementation In Python](https://pabloinsente.github.io/the-perceptron) by Pablo Caceres.
@@ -60,7 +62,7 @@ __3c__  Write down the mathematical equation that represents the decision-bounda
 __3d__ After completing the Codecademy workshop, and the perceptron tutorial by Pablo Caceres, would you provide the same answer to exercise 1b? Explain your answer.
 
 # 4)  In-Class discussion
-At 16:00, there's a online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
+At 16:00, there's an online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today's activities.
 
 ## Resources
 - [Codecademy](https://www.codecademy.com/learn/machine-learning)

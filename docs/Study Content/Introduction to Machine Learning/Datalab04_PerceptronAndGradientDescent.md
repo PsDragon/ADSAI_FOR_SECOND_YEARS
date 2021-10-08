@@ -14,37 +14,37 @@ I found another example of a 'perceptron' online. Apparently, this version is he
 
 ## 0) Learning Objectives:
 
-1. Apply appropriate preprocessing techniques to the youth care dataset
+1. Apply appropriate pre-processing techniques to the youth care dataset
 2. Train, and evaluate the perceptron on the youth care dataset
 
 Table of contents:
-1. ...: Y hours
-2. Oosterhout Dataset: Classification Analysis: Z hours
+1. Oosterhout Dataset: Perceptron: 4 hours
+2. Additional material (optional): 3 hours
+   2.1 Perceptron: Activation functions
+   2.2 Feature scaling
+3. In-Class discussion
 
 ## Questions or issues?
 If you have any questions or issues regarding the course material, please first ask your peers or ask us in the in-class discussion at 16:00!
 
 Good luck!
 
-## 2) Yelp Regression Project
-Now, we're introduced to TOPIC it's time ground down these fundamental by doing a workshop. Open the [Basics of Machine Learning course](https://www.codecademy.com/learn/machine-learning) on Codecademy and complete the first module: **Logistic Regression**.
-
-## 3) Oosterhout Dataset: Classification
-1. Create a python script called ClassificationOosterhout and save it to your GitHub repository.
+## 1) Oosterhout Dataset: Perceptron
+1. Create a python script called PerceptronOosterhout and save it to your GitHub repository.
 2. Implement the perceptron algorithm. You can either choose to use the Python code from Codecademy, which implements the original perceptron by Rosenblatt or you can use the scikit-learn function ([linear_model.Perceptron()](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Perceptron.html)), which implements a more modern version of the perceptron (see Additional material section!).   
 
-## 4) Additional material (optional)
+## 2) Additional material (optional)
 
 The perceptron has many different implementations, also referred to as architectures. Today, we will focus on one element of the perceptron architecture, the threshold or activation function.
 
-## 4.1 Activation functions
+### 2.1 Perceptron: Activation functions
 
 As you may have read, one of the main elements of the perceptron algorithm is the activation function. There are three types of activation functions: non-differentiable, subdifferentiable, and differentiable:
 
 __1. Non-differentiable (Gradient descent :x:):__
 - Heaviside, or unit step
 
-The original perceptron developed by Rosenblatt use this particular activation/threshold function. This variation of the perceptron only accepts binary (i.e. 0 or 1) input variables, and its activation function is non-differentiable. Meaning, gradient descent will not help to optimize the performance of the model because the gradients are (except when x = 0) always zero.
+The original perceptron developed by Rosenblatt use this particular activation/threshold function. This variation of the perceptron only accepts binary (i.e. 0 or 1) input variables, and its activation function is non-differentiable. Meaning, gradient descent will not help to optimize the performance of the model because the gradients are almost always zero (except when x = 0).
 
 | Function | Plot | Equation | Derivative |
 |----|:---:|:---:|:---:|
@@ -80,7 +80,7 @@ Interested in exploring how gradient descent and backpropagation work, make sure
 
 *Video 1. Neural Network Backpropagation Basics For Dummies by Mikael Laine.*
 
-## 4.2 Feature scaling
+### 2.2 Feature scaling
 
 Feature scaling is a technique to standardize your predictors within a fixed range. scikit-learn defines it as follows:
 
@@ -95,7 +95,7 @@ scikit-learn:
 - [StandardScaler()](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html#sklearn.preprocessing.StandardScaler)
 
 
-## 5) In-Class discussion
+## 3) In-Class discussion
 At 16:00, there's a meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
 
 Next week, we will start diving into Topic.

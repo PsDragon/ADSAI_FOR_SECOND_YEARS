@@ -4,7 +4,7 @@ sort: 5
 
 # Datalab 01: Classification Algorithms
 
-We start with ...
+We start with ... In addition, you will be made familiar with a technique called learning curves. Lastly, you will be introduced to an important pre-processing step - i.e. data encoding.
 
 ## 0) Learning Objectives:
 Text:
@@ -14,7 +14,11 @@ Text:
 
 Table of contents:
 1. ...: Y hours
-2. Oosterhout Dataset: Classification Analysis: Z hours
+2.
+3. Oosterhout Dataset: Classification Analysis: Z hours
+4. Additional material (optional): 2 hours
+   4.1. The learning curve
+   4.2. Data encoding: One-hot encoding
 
 ## Questions or issues?
 If you have any questions or issues regarding the course material, please first ask your peers or ask us in the in-class discussion at 16:00!
@@ -31,7 +35,9 @@ Now, we're introduced to TOPIC it's time ground down these fundamental by doing 
 1. Create a python script called ClassificationOosterhout and save it to your GitHub repository.
 2. Perform Logistic regression on Oosterhout dataset
 
-## 4) Oosterhout Dataset: The learning curve (optional)
+## 4) Additional material (optional)
+
+### 4.1 The learning curve
 
 A learning curve, shows you how the error (i.e. difference between predicted and true response value for a given observation) of an ML model changes as the size of the training set increases or decreases. In doing so, it provides you with valuable information about how biased and/or varied your data is, and how your model copes with these two error types. For more information on the bias-variance trade-off, see Fortmann´s article.
 
@@ -80,13 +86,11 @@ __2d__ visit the website of [scikit-learn](https://scikit-learn.org/stable/auto_
 Tip: For more information on the application of learning curves, see Dataquest's <a href="https://www.dataquest.io/blog/learning-curves-machine-learning/"> Tutorial: Learning Curves for Machine Learning in Python </a>.
 </div>
 
-## 3) Data encoding (optional)
+### 4.2 Data encoding: On-hot encoding
 
 When you are working with a binary classifier (e.g. perceptron, logistic regression, SVM etc.) your outcome variable (i.e. y-variable) needs to be binary too! In other words, it should be comprised by only one or two possible values. For example, Pass/Fail, Profit/Loss, Cat/Dog, 0/1 etc.
 
 If you have a outcome variable that is not binary, but you want to use a binary classifier, you can recode your categorical variable. The Python libraries scikit-learn and pandas provide  various data encoding functions.
-
-### 3.1) One-hot encoding
 
 A popular data encoding technique is one-hot encoding. It represents data in a sparse, - i.e. 'machine-readable' way. Terr and Howard (2018-2019), define the technique as follows:  
 
@@ -96,7 +100,7 @@ To illustrate the idea behind one-hot encoding they provide a simple example. Se
 
 When applying one-hot encoding to your dataset, you have to be aware of its drawbacks. Included, but not limited to:
 
-- One-hot encoding makes your dataset prone to what data professionals call 'The curse of dimensionality'. This data encoding technique greatly increases the dimensions of your dataset, making your analysis both memory, and computationally expensive. In addition, one-hot encoding can complicate a regression task by increasing the chance of multicollinearity. This phenomenon occurs when a feature can be linearly predicted from the other features in the multiple linear regression model.
+- One-hot encoding makes your dataset prone to what data professionals call 'The curse of dimensionality'. This data encoding technique greatly increases the dimensions of your dataset (i.e. the number of variables), making your analysis both memory, and computationally expensive. In addition, one-hot encoding can complicate a regression task by increasing the chance of multicollinearity. This phenomenon occurs when a feature can be linearly predicted from the other features in the multiple linear regression model.
 -  One-hot encoding cannot be applied to ordinal data. This specific type of data needs a dense, - i.e. 'human-readable', representation, such as a regular pandas dataframe. By creating 'dummy' variables out of the ordinal variable you will eliminate its intrinsic hierarchy.
 
 Data decoding techniques are not limited to outcome variables, the features, i.e the predictors of your model, can also benefit from this kind of engineering:
@@ -115,7 +119,7 @@ pandas:
 
 - [get_dummies()](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.get_dummies.html)
 
-## 4) In-Class discussion
+## 5) In-Class discussion
 At 16:00, there's a meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
 
 Next week, we will start diving into Topic.

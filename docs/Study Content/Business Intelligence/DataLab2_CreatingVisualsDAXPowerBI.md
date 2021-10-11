@@ -9,7 +9,7 @@ sort: 10
 
 ### 1. Introduction
 
-In this DataLab session, you are going to practice with writing DAX functions. Furthermore, you will have time to start creating visualizations with the youth care data in Power BI.
+In this DataLab session, you are going to practice writing DAX functions. Furthermore, you will have time to start creating visualizations with the youth care data in Power BI.
 
 ***
 
@@ -25,7 +25,7 @@ __2a__ Complete ```Module 5 - Create Model Calculations using DAX in Power BI```
 
 ### 3. Visualizations in Power BI
 
-It can be difficult to choose a suitable chart to represent (a subset of) your data. From experience I can tell you that an average data science/business intelligence/artificial intelligence project involves quite some trail and error (one of the reasons that makes our work so much fun, if you ask me :nerd_face:). Nevertheless, a solid theoretical background (e.g. in fields such as statistics, ML, UX design etc.) can give you the edge over a data professional that lacks such a foundation. In practice, it can be the difference between delivering an 'okay' dashboard or a dashboard that conveys a compelling data story to a client.
+It can be difficult to choose a suitable chart to represent (a subset of) your data. From experience, I can tell you that an average data science/business intelligence/artificial intelligence project involves quite some trial and error (one of the reasons that makes our work so much fun, if you ask me :nerd_face:). Nevertheless, a solid theoretical background (e.g. in fields such as statistics, ML, UX design etc.) can give you the edge over a data professional that lacks such a foundation. In practice, it can be the difference between delivering an 'okay' dashboard or a dashboard that conveys a compelling data story to a client.
 
 <img src="./images/chart_suggestion.jpg" alt="Books banner" width="1200"/>
 

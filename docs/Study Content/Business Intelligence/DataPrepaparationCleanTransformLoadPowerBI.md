@@ -78,9 +78,9 @@ __3b__ Complete ```Module 2 - Get Data in Power BI``` and ```Module 3 - Clean, T
 
 ***
 
-### 4. Additional resources
+### 4. Additional resources (optional)
 
-As a data analyst, it is important to identify the needs of your client (i.e. CRISP phase 1: Business Understanding – What does the business need?). What are useful KPIs? What does the term 'toewijzing' mean? Or when is somebody eligible to receive youth care within the municipality of Oosterhout? When you are able to answer these kinds of questions, you will be much better equipped to deliver an insightful dashboard report.
+As a data analyst, it is important to identify the needs of your client (i.e. CRISP phase 1: Business Understanding – What does the business need?). What are useful KPIs? What does the term 'toewijzing' mean? Or when is somebody eligible to receive youth care within the municipality of Oosterhout? When you can answer these kinds of questions, you will be much better equipped to deliver an insightful dashboard report.
 
 <img src="./images/CRISP-DM.png" alt="Layout" width="450"/>
 

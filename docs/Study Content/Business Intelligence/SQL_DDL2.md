@@ -56,7 +56,7 @@ __2b__ What is 'snake case'? Provide an example based on the data in Table 1.
 
 *Table 2. A selection of demographic, geographic and financial information from the youth care database (Version 2).*
 
-__2c__ Write a query that designates multiple columns in the table to serve as the primary key (you cannot use the table's primary key 'ClientKey'!).
+__2c__ Write a query that designates multiple columns from Table 2 to serve as the primary key (you cannot use the table's primary key 'ClientKey'!).
 
 The table can downloaded as a csv.-formatted file, [here](../../Study%20Content/Business%20Intelligence/data/SQL_DDL1_exercise1_correct.csv).
 
@@ -66,7 +66,7 @@ The table can downloaded as a csv.-formatted file, [here](../../Study%20Content/
 
 Relationships are the cornerstone of relational databases. Data analysts/engineers can query the database and get results that combine data from different tables into a single table. In the Design databases with PostgreSQL course on Codeacademy, you are made familiar with the three types of database relationships; One-to-one, many-to-one, and many-to-many.
 
-__3a__ The municipality of Oosterhout asks you to provide a brief presentation on relational databases to policymakers from the social domain. As part of your preparation, you come up with three examples for each database relationship type (See Table 2). Write your examples down.
+__3a__ The municipality of Oosterhout asks you to provide a brief presentation on relational databases to policymakers from the social domain. As part of your preparation, you come up with three examples for each database relationship type (See Table 3). Write your examples down.
 
 | Database Relationship | Diagram sign | Example  |  
 |-----------------------|--------------|----------|
@@ -74,7 +74,7 @@ __3a__ The municipality of Oosterhout asks you to provide a brief presentation o
 | One-to-many           |              |          |
 | Many-to-many          |              |          |   
 
-*Table 2. Types of database relationships.*
+*Table 3. Types of database relationships.*
 
 ***
 

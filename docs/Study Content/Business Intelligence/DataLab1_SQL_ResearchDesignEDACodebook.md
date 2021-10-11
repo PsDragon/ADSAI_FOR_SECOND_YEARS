@@ -73,6 +73,8 @@ However, as time passed by it became clear that the new Child and Youth Act was 
 
 Robin van der Helm, an alderman responsible for the youth care system in the municipality of Oosterhout, stated the following on the costs associated with youth care: 'Year in, year out, his municipality fails to meet the budgetary agreements. The costs are around 15 million, while Oosterhout receives 11 million from the national government'(Schapendonk and Vink, 2021).
 
+***
+
 #### 3.3 Equalit: Youth care pilot
 
 Equalit is an ICT partnership of, and for local authorities located within the regions of Mid- and West-Brabant. Started in 2005 as a collaboration between the municipality of Oosterhout and Oisterwijk, it aims to provide high-quality ICT support at low costs. Equalit provides services to a total of 13 participants, seven of them are currently involved in this inter-municipal youth care pilot:
@@ -83,7 +85,7 @@ Equalit is an ICT partnership of, and for local authorities located within the r
 
 ***
 
-#### 3.4 Research Question
+#### 3.4 Research question
 
 With the intermunicipal youth care pilot, Oosterhout and the other participating municipalities, aim to decrease the administrative load and costs associated with youth care.
 

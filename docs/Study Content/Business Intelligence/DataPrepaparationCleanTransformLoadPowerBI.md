@@ -51,6 +51,10 @@ __Power BI in a VM (online)__
 
 Step 1. Access the lab exercises through the learning paths of [Microsoft Certified: Data Analyst Associate](https://docs.microsoft.com/en-us/learn/certifications/data-analyst-associate/?azure-portal=true).
 
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #a94442; background-color: #f2dede; border-color: #ebccd1;">
+Alert: Either BUAS' WIFI or its student email accounts are causing some unexpected behaviour in Microsoft's online lab environment (e.g. blocked accounts). Advice: Choose the safe option, Power BI on a local machine.
+</div>
+
 or
 
 __Power BI on a local device__

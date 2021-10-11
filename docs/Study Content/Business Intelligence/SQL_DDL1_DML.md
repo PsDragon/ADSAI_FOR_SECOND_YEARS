@@ -119,7 +119,7 @@ __4d__ After placing a UNIQUE constraint on one of the variables (named 'unique_
 
 ***
 
-### 5. Additional resources
+### 5. Additional resources (optional)
 
 Do you have time left, and have the desire to become a data wrangling SQL wizard, explore the following additional resources:
 

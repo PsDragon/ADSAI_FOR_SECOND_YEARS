@@ -50,6 +50,8 @@ The original perceptron developed by Rosenblatt use this particular activation/t
 |----|:---:|:---:|:---:|
 | Heaviside/Unit Step | ![alt text](https://raw.githubusercontent.com/siebenrock/activation-functions/master/plots/binary_step.png "Binary Step") | ![alt text](https://raw.githubusercontent.com/siebenrock/activation-functions/master/equations/binary_step.png "Binary Step Equation") | ![alt text](https://raw.githubusercontent.com/siebenrock/activation-functions/master/equations/binary_step_d.png "Binary Step Derivative") |
 
+*Figure 2. Heaviside activation/threshold function.*
+
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Note: It is completely normal if you do not fully understand the material presented in this section. In Block C, you will learn more about neural networks, activation functions, derivatives backpropagation, gradient descent etc. For now it is important that you understand that building a successful model often involves multiple preprocessing steps (e.g. data encoding, scaling, handling missing values etc.).
 </div>
@@ -63,14 +65,18 @@ This is one of the most popular activation functions used in the field of deep l
 |----|:---:|:---:|:---:|
 |Rectified Linear Units, ReLU | ![alt text](https://raw.githubusercontent.com/siebenrock/activation-functions/master/plots/rectified_linear_units.png "Rectified Linear Units") | ![alt text](https://raw.githubusercontent.com/siebenrock/activation-functions/master/equations/rectified_linear_units.png "Rectified Linear Units Equation") | ![alt text](https://raw.githubusercontent.com/siebenrock/activation-functions/master/equations/rectified_linear_units_d.png "Rectified Linear Units Derivative") |
 
+*Figure 3. Rectified Linear Units activation function.*
+
 __3. Differentiable (Gradient descent :heavy_check_mark:):__
 - Sigmoid
+
+Looks familiar? This is one of the most well known activation functions. It is also used in logistic regression. The gradient is 0 when x = 0 or x = 1. This variation of the perceptron, also knows as the sigmoid neuron, accepts both binary (i.e. 0 or 1) and continuous (i.e. between 0 and 1) input variables. As a result, it is a good practice to scale your continuous features.
 
 | Function | Plot | Equation | Derivative |
 |----|:---:|:---:|:---:|
 | Sigmoid | ![alt text](https://raw.githubusercontent.com/siebenrock/activation-functions/master/plots/sigmoid.png "Sigmoid") | ![alt text](https://raw.githubusercontent.com/siebenrock/activation-functions/master/equations/sigmoid.png "Sigmoid Equation") | ![alt text](https://raw.githubusercontent.com/siebenrock/activation-functions/master/equations/sigmoid_d.png "Sigmoid Derivative") |
 
-Looks familiar? This is one of the most well known activation functions. It is also used in logistic regression. The gradient is 0 when x = 0 or x = 1. This variation of the perceptron, also knows as the sigmoid neuron, accepts both binary (i.e. 0 or 1) and continuous (i.e. between 0 and 1) input variables. As a result, it is a good practice to scale your continuous features.
+*Figure 4. Sigmoid activation function.*
 
 Want to learn more about the sigmoid neuron, see the book chapter [1.3: Sigmoid neurons](https://eng.libretexts.org/Bookshelves/Computer_Science/Applied_Programming/Book%3A_Neural_Networks_and_Deep_Learning_(Nielsen)/01%3A_Using_neural_nets_to_recognize_handwritten_digits/1.03%3A_Sigmoid_neurons#:~:text=Just%20like%20a%20perceptron%2C%20the%20sigmoid%20neuron%20has,input%2C%20w1%2C%20w2%2C%20%E2%80%A6%2Cand%20an%20overall%20bias%2C%20bb.) by Nielson (December 1, 2020).
 

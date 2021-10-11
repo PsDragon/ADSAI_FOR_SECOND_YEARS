@@ -27,9 +27,24 @@ Some database schemas are written in a language that can be interpreted by datab
 
 <img src="./images/database_schema.jfif" alt="Database Schema" width="600"/>
 
-*Figure 2. Example of a database schema.*
+*Figure 2. Example of a relational database schema.*
 
 __2a__ The municipality of Oosterhout asks you, as the new data analyst, to build a relational database with the data from Table 1. How would you solve this task? Elaborate on your approach.
+
+|ClientKey|ToewijzingKey|ClientVoornamen|ClientTussenvoegsel|ClientAchternaam|GeboorteJaar|ClientGeslacht|NotaRegelBedrag|NotaJaar|NotaKwartaal|NotaMaand|BuurtCode |BuurtNaam              |
+|---------|-------------|---------------|-------------------|----------------|------------|--------------|---------------|--------|------------|---------|----------|-----------------------|
+|1        |23           |Bader          |van                |Wilgenburg      |2007        |Jongen        |49.8           |2019    |Qtr 3       |September|BU08260102|Slotjes-West           |
+|2        |376          |Lorena         |?                  |Steensma        |2010        |Meisje        |0.3            |2020    |Qtr 4       |October  |BU08261300|Dorst                  |
+|3        |564          |Jikke          |?                  |Bosveld         |2007        |Jongen        |50.1           |2020    |Qtr 2       |June     |BU08261307|Buitengebied Dorst-Zuid|
+|4        |86           |Maroua         |de                 |Backer          |2009        |Meisje        |2022.21        |2015    |Qtr 4       |November |BU08260601|Sterrenbuurt           |
+|5        |23           |Izaak          |?                  |Lake            |2008        |Jongen        |67.8           |2019    |Qtr 2       |June     |BU08260300|Vogelbuurt             |
+|5        |76           |Izaak          |?                  |Lake            |2008        |Jongen        |90.5           |2019    |Qtr 4       |October  |BU08260300|Vogelbuurt             |
+
+*Table 1. A selection of demographic, geographic and financial information from the youth care database (Version 1).*
+
+The table can downloaded as a csv.-formatted file, [here](../../Study%20Content/Business%20Intelligence/data/SQL_DDL1_exercise1_correct_v3.csv).
+
+__2b__ What is 'snake case'? Provide an example based on the data in Table 1.
 
 |ClientKey|ClientVoornamen|ClientTussenvoegsel|ClientAchternaam|GeboorteJaar|ClientGeslacht|NotaRegelBedrag|NotaJaar|NotaKwartaal|NotaMaand|BuurtCode |BuurtNaam              |
 |---------|---------------|-------------------|----------------|------------|--------------|---------------|--------|------------|---------|----------|-----------------------|
@@ -38,19 +53,14 @@ __2a__ The municipality of Oosterhout asks you, as the new data analyst, to buil
 |3        |Jikke          |?                  |Bosveld         |2007        |Jongen        |50.1           |2020    |Qtr 2       |June     |BU08261307|Buitengebied Dorst-Zuid|
 |4        |Maroua         |de                 |Backer          |2009        |Meisje        |2022.21        |2015    |Qtr 4       |November |BU08260601|Sterrenbuurt           |
 |5        |Izaak          |?                  |Lake            |2008        |Jongen        |67.8           |2019    |Qtr 2       |June     |BU08260300|Vogelbuurt             |
-|6        |Izaak          |?                  |Lake            |2008        |Jongen        |90.5           |2019    |Qtr 4       |October  |BU08260300|Vogelbuurt             |
 
+*Table 2. A selection of demographic, geographic and financial information from the youth care database (Version 2).*
 
-*Table 1. Table with demographic and geographic information from the youth care database*
+__2c__ Write a query that designates multiple columns in the table to serve as the primary key (you cannot use the table's primary key 'ClientKey'!).
 
-The table can downloaded as a csv.-formatted file, [here](../../Study%20Content/Business%20Intelligence/data/SQL_DDL1_exercise1_correct_v2.csv).
-
-__2b__ What is 'snake case'? Provide an example based on the data in Table 1.
-
-__2c__ Since there is a client who has multiple 'toewijzingen', there are repeated listings of this client in Table 1. Write a query that designates multiple columns in the table to serve as the primary key (should include the column ClientKey!).
+The table can downloaded as a csv.-formatted file, [here](../../Study%20Content/Business%20Intelligence/data/SQL_DDL1_exercise1_correct.csv).
 
 ***
-
 
 ### 3. What are database relationships?
 
@@ -58,17 +68,17 @@ Relationships are the cornerstone of relational databases. Data analysts/enginee
 
 __3a__ The municipality of Oosterhout asks you to provide a brief presentation on relational databases to policymakers from the social domain. As part of your preparation, you come up with three examples for each database relationship type (See Table 2). Write your examples down.
 
-|Database relationship|Example 1|Example 2|Example 3|
-|---------------------|---------|---------|---------|
-|One-to-one           |         |         |         |
-|Many-to-one          |         |         |         |
-|Many-to-many         |         |         |         |
+| Database Relationship | Diagram sign | Example  |  
+|-----------------------|--------------|----------|
+| One-to-one            |              |          |  
+| One-to-many           |              |          |
+| Many-to-many          |              |          |   
 
 *Table 2. Types of database relationships.*
 
 ***
 
-### 4. Additional resources
+### 4. Additional resources (optional)
 
 Do you have time left, and want to review the material
 in this section of the Project Brief, explore the following additional resources:

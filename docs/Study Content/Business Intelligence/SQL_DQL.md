@@ -149,7 +149,7 @@ Tip: Want to import and/or export the table into the PostgreSQL client, see the 
 
 ***
 
-### 5. Additional resources
+### 5. Additional resources (optional)
 
 <img src="./images/data_warrior.png" alt="Books banner" width="450"/>
 

@@ -28,7 +28,7 @@ Good luck!
 
 
 ## 2) Yelp Regression Project
-Now, we're introduced to TOPIC it's time ground down these fundamental by doing a workshop. Open the [Basics of Machine Learning course](https://www.codecademy.com/learn/machine-learning) on Codecademy and complete the first module: **Logistic Regression**.
+Now, we're introduced to TOPIC it's time ground down these fundamentals by doing a workshop. Open the [Basics of Machine Learning course](https://www.codecademy.com/learn/machine-learning) on Codecademy and complete the first module: **Logistic Regression**.
 
 
 ## 3) Oosterhout Dataset: Classification
@@ -39,11 +39,11 @@ Now, we're introduced to TOPIC it's time ground down these fundamental by doing 
 
 ### 4.1 The learning curve
 
-A learning curve, shows you how the error (i.e. difference between predicted and true response value for a given observation) of an ML model changes as the size of the training set increases or decreases. In doing so, it provides you with valuable information about how biased and/or varied your data is, and how your model copes with these two error types. For more information on the bias-variance trade-off, see Fortmann´s article.
+A learning curve shows you how the error (i.e. difference between predicted and true response value for a given observation) of an ML model changes as the size of the training set increases or decreases. In doing so, it provides you with valuable information about how biased and/or varied your data is, and how your model copes with these two error types. For more information on the bias-variance trade-off, see Fortmann´s article.
 
-The following questions will give you some guidance, while you are training and/or evaluation your ML model:
+The following questions will give you some guidance, while you are training and/or evaluating your ML model:
 
-__2a__ Try to connect three learning curve variations (presented in Figure 1-3) to the relevant description. For example, Learning curve 1 = Low bias & low variance, Learning curve 2 = High bias & low variance etc. Being able to identify these three learning curve variations, will help you in selecting, and subsequently evaluating you ML model (e.g. logistic regression).
+__2a__ Try to connect three learning curve variations (presented in Figure 1-3) to the relevant description. For example, Learning curve 1 = Low bias & low variance, Learning curve 2 = High bias & low variance etc. Being able to identify these three learning curve variations, will help you in selecting, and subsequently evaluating your ML model (e.g. logistic regression).
 
 <img src="./images/lowbiaslowvariance.png" alt="low bias & low variance" width="400">
 
@@ -61,20 +61,20 @@ __Learning curve variations:__
 
 Low bias & low variance. Characteristics:
 
-- Relatively small error
-- Small difference between the error from the train and validation set.
+- A relatively small error
+- A small difference between the error from the train and validation set.
 
 Low bias & high variance. Characteristics:
 
-- Relatively small training error.
-- Large difference between the error from the train and validation set.
-- Downward trend in validation error indicates that the model's performance will improve with the increase of data.
+- A relatively small training error.
+- A large difference between the error from the train and validation set.
+- A downward trend in validation error indicates that the model's performance will improve with the increase of data.
 
 High bias & low variance. Characteristics:
 
-- Relatively large training error.
-- Small difference between the error from the train and validation set.
-- Train and validation error diverges rapidly.
+- A relatively large training error.
+- A small difference between the error from the train and validation set.
+- The train and validation error diverges rapidly.
 
 __2b__ The training error provides information on the performance of your ML model in terms of a) variance or b) bias. Explain your answer.
 
@@ -83,14 +83,14 @@ __2c__ The difference between the train set error and validation set provides in
 __2d__ visit the website of [scikit-learn](https://scikit-learn.org/stable/auto_examples/model_selection/plot_learning_curve.html#sphx-glr-auto-examples-model-selection-plot-learning-curve-py) for a Jupyter notebook on plotting learning curves.
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: For more information on the application of learning curves, see Dataquest's <a href="https://www.dataquest.io/blog/learning-curves-machine-learning/"> Tutorial: Learning Curves for Machine Learning in Python </a>.
+Tip: For more information on the application of learning curves, see Dataquest's <a href="https://www.dataquest.io/blog/learning-curves-machine-learning/"> Tutorial: Learning Curves for Machine Learning in Python</a>.
 </div>
 
 ### 4.2 Data encoding: On-hot encoding
 
-When you are working with a binary classifier (e.g. perceptron, logistic regression, SVM etc.) your outcome variable (i.e. y-variable) needs to be binary too! In other words, it should be comprised by only one or two possible values. For example, Pass/Fail, Profit/Loss, Cat/Dog, 0/1 etc.
+When you are working with a binary classifier (e.g. perceptron, logistic regression, SVM etc.) your outcome variable (i.e. y-variable) needs to be binary too! In other words, it should be comprised of only one or two possible values. For example, Pass/Fail, Profit/Loss, Cat/Dog, 0/1 etc.
 
-If you have a outcome variable that is not binary, but you want to use a binary classifier, you can recode your categorical variable. The Python libraries scikit-learn and pandas provide  various data encoding functions.
+If you have an outcome variable that is not binary, but you want to use a binary classifier, you can recode your categorical variable. The Python libraries scikit-learn and pandas provide  various data encoding functions.
 
 A popular data encoding technique is one-hot encoding. It represents data in a sparse, - i.e. 'machine-readable' way. Terr and Howard (2018-2019), define the technique as follows:  
 
@@ -100,10 +100,10 @@ To illustrate the idea behind one-hot encoding they provide a simple example. Se
 
 When applying one-hot encoding to your dataset, you have to be aware of its drawbacks. Included, but not limited to:
 
-- One-hot encoding makes your dataset prone to what data professionals call 'The curse of dimensionality'. This data encoding technique greatly increases the dimensions of your dataset (i.e. the number of variables), making your analysis both memory, and computationally expensive. In addition, one-hot encoding can complicate a regression task by increasing the chance of multicollinearity. This phenomenon occurs when a feature can be linearly predicted from the other features in the multiple linear regression model.
--  One-hot encoding cannot be applied to ordinal data. This specific type of data needs a dense, - i.e. 'human-readable', representation, such as a regular pandas dataframe. By creating 'dummy' variables out of the ordinal variable you will eliminate its intrinsic hierarchy.
+- One-hot encoding makes your dataset prone to what data professionals call 'The curse of dimensionality'. This data encoding technique greatly increases the dimensions of your dataset (i.e. the number of variables), making your analysis both memory and computationally expensive. In addition, one-hot encoding can complicate a regression task by increasing the chance of multicollinearity. This phenomenon occurs when a feature can be linearly predicted from the other features in the multiple linear regression model.
+-  One-hot encoding cannot be applied to ordinal data. This specific type of data need a dense, - i.e. 'human-readable', representation, such as a regular pandas dataframe. By creating 'dummy' variables out of the ordinal variable you will eliminate its intrinsic hierarchy.
 
-Data decoding techniques are not limited to outcome variables, the features, i.e the predictors of your model, can also benefit from this kind of engineering:
+Data decoding techniques are not limited to outcome variables, the features, i.e. the predictors of your model, can also benefit from this kind of engineering:
 
 > Creating a good model is more about feature engineering than it is about choosing the right model; well, assuming your go-to model is a good one like Random Forest. Feature engineering means improving, acquiring, and even synthesizing features that are strong predictors of your model's target variable. Synthesizing features means deriving new features from existing features or injecting features from other data sources. For example, we could synthesize the name of an apartment's New York City neighborhood from it's latitude and longitude. It doesn't matter how sophisticated our model is if we don't give it something useful to chew on. If there is no relationship to discover, because the features are not predictive, no machine learning model is going to give accurate predictions (Terr and Howard, 2018-2019).
 
@@ -120,7 +120,7 @@ pandas:
 - [get_dummies()](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.get_dummies.html)
 
 ## 5) In-Class discussion
-At 16:00, there's a meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
+At 16:00, there's a meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today's activities.
 
 Next week, we will start diving into Topic.
 

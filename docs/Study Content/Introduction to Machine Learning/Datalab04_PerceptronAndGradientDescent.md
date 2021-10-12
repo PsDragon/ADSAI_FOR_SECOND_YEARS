@@ -52,8 +52,16 @@ The original perceptron developed by Rosenblatt uses this particular activation/
 
 *Figure 2. Heaviside activation/threshold function.*
 
+Limitation of the Heaviside function, exemplified:
+
+- A small change in the weights and/or biases in the network can cause the output of the perceptron to radically change from 0 to 1 (i.e. change category!) Solution: Differentiable or sub-differentiable activation function.
+
+>Learning algorithms sound terrific. But how can we devise such algorithms for a neural network? Suppose we have a network of perceptrons that we'd like to use to learn to solve some problem. For example, the inputs to the network might be the raw pixel data from a scanned, handwritten image of a digit. And we'd like the network to learn weights and biases so that the output from the network correctly classifies the digit. To see how learning might work, suppose we make a small change in some weight (or bias) in the network. What we'd like is for this small change in weight to cause only a small corresponding change in the output from the network. As we'll see in a moment, this property will make learning possible.
+<br> If it were true that a small change in a weight (or bias) causes only a small change in output, then we could use this fact to modify the weights and biases to get our network to behave more in the manner we want. For example, suppose the network was mistakenly classifying an image as an "8" when it should be a "9". We could figure out how to make a small change in the weights and biases so the network gets a little closer to classifying the image as a "9". And then we'd repeat this, changing the weights and biases over and over to produce better and better output. The network would be learning.
+<br>The problem is that this isn't what happens when our network contains perceptrons. In fact, a small change in the weights or bias of any single perceptron in the network can sometimes cause the output of that perceptron to completely flip, say from  0  to  1. That flip may then cause the behaviour of the rest of the network to completely change in some very complicated way. So while your "9" might now be classified correctly, the behaviour of the network on all the other images is likely to have completely changed in some hard-to-control way. That makes it difficult to see how to gradually modify the weights and biases so that the network gets closer to the desired behaviour. Perhaps there's some clever way of getting around this problem. But it's not immediately obvious how we can get a network of perceptrons to learn (Nielson, December 1, 2019).
+
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Note: It is completely normal if you do not fully understand the material presented in this section. In Block C, you will learn more about neural networks, activation functions, derivatives backpropagation, gradient descent etc. For now, you must understand that building a successful model often involves multiple preprocessing steps (e.g. data encoding, scaling, handling missing values etc.).
+Note: It is completely normal if you do not fully understand the material presented in this section. In Block C, you will learn more about neural networks, activation functions, derivatives backpropagation, gradient descent etc. For now, you must understand that building a successful model often involves multiple pre-processing steps (e.g. data encoding, scaling, handling missing values etc.).
 </div>
 
 __2. Subdifferentiable (Gradient descent :heavy_check_mark:):__
@@ -70,7 +78,7 @@ This is one of the most popular activation functions used in the field of deep l
 __3. Differentiable (Gradient descent :heavy_check_mark:):__
 - Sigmoid
 
-Looks familiar? This is one of the most well-known activation functions. It is also used in logistic regression. The gradient is 0 when x = 0 or x = 1. This variation of the perceptron, also knows as the sigmoid neuron, accepts both binary (i.e. 0 or 1) and continuous (i.e. between 0 and 1) input variables. As a result, it is a good practice to scale your continuous features.
+Looks familiar? This is one of the most well-known activation functions. It is also used in logistic regression. The gradient is 0 when x = 0 or x = 1. This variation of the perceptron, also knows as the sigmoid neuron, accepts both binary (i.e. 0 or 1) and continuous (i.e. between 0 and 1) input variables. As a result, it is a good practice to scale your continuous features. The output of the model is continuous (i.e. between 0 and 1). In practice, the value 0.5 is frequently used as a decision-boundary: x ≤ 0.5 and x > 0.5.
 
 | Function | Plot | Equation | Derivative |
 |----|:---:|:---:|:---:|

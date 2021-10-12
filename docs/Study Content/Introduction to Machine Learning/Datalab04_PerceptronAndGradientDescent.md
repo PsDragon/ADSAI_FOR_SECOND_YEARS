@@ -10,7 +10,7 @@ In today's DataLab session you are going to apply the perceptron algorithm to th
 
 *Figure 1. Another perceptron...*
 
-I found another example of a 'perceptron' online. Apparently, this version is helps you to discover, and explore your 'psychic abilities', interesting to say the least :crystal_ball:.
+I found another example of a 'perceptron' online. Apparently, this version helps you to discover, and explore your 'psychic abilities', interesting to say the least :crystal_ball:.
 
 ## 0) Learning Objectives:
 
@@ -44,7 +44,7 @@ As you may have read, one of the main elements of the perceptron algorithm is th
 __1. Non-differentiable (Gradient descent :x:):__
 - Heaviside, or unit step
 
-The original perceptron developed by Rosenblatt use this particular activation/threshold function. This variation of the perceptron only accepts binary (i.e. 0 or 1) input variables, and its activation function is non-differentiable. Meaning, gradient descent will not help to optimize the performance of the model because the gradients are almost always zero (except when x = 0).
+The original perceptron developed by Rosenblatt uses this particular activation/threshold function. This variation of the perceptron only accepts binary (i.e. 0 or 1) input variables, and its activation function is non-differentiable. Meaning, gradient descent will not help to optimize the performance of the model because the gradients are almost always zero (except when x = 0).
 
 | Function | Plot | Equation | Derivative |
 |----|:---:|:---:|:---:|
@@ -53,7 +53,7 @@ The original perceptron developed by Rosenblatt use this particular activation/t
 *Figure 2. Heaviside activation/threshold function.*
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Note: It is completely normal if you do not fully understand the material presented in this section. In Block C, you will learn more about neural networks, activation functions, derivatives backpropagation, gradient descent etc. For now it is important that you understand that building a successful model often involves multiple preprocessing steps (e.g. data encoding, scaling, handling missing values etc.).
+Note: It is completely normal if you do not fully understand the material presented in this section. In Block C, you will learn more about neural networks, activation functions, derivatives backpropagation, gradient descent etc. For now, you must understand that building a successful model often involves multiple preprocessing steps (e.g. data encoding, scaling, handling missing values etc.).
 </div>
 
 __2. Subdifferentiable (Gradient descent :heavy_check_mark:):__
@@ -70,7 +70,7 @@ This is one of the most popular activation functions used in the field of deep l
 __3. Differentiable (Gradient descent :heavy_check_mark:):__
 - Sigmoid
 
-Looks familiar? This is one of the most well known activation functions. It is also used in logistic regression. The gradient is 0 when x = 0 or x = 1. This variation of the perceptron, also knows as the sigmoid neuron, accepts both binary (i.e. 0 or 1) and continuous (i.e. between 0 and 1) input variables. As a result, it is a good practice to scale your continuous features.
+Looks familiar? This is one of the most well-known activation functions. It is also used in logistic regression. The gradient is 0 when x = 0 or x = 1. This variation of the perceptron, also knows as the sigmoid neuron, accepts both binary (i.e. 0 or 1) and continuous (i.e. between 0 and 1) input variables. As a result, it is a good practice to scale your continuous features.
 
 | Function | Plot | Equation | Derivative |
 |----|:---:|:---:|:---:|
@@ -92,7 +92,7 @@ Feature scaling is a technique to standardize your predictors within a fixed ran
 
 >Standardization involves rescaling the features such that they have the properties of a standard normal distribution with a mean of zero and a standard deviation of one ('The Importance of', n.d.).
 
-For an explanation how feature scaling works, see scikit-learn's article [Importance of Feature Scaling](https://scikit-learn.org/stable/auto_examples/preprocessing/plot_scaling_importance.html) (n.d.).  
+For an explanation of how feature scaling works, see scikit-learn's article [Importance of Feature Scaling](https://scikit-learn.org/stable/auto_examples/preprocessing/plot_scaling_importance.html) (n.d.).  
 
 __Documentation (Python):__
 
@@ -102,9 +102,7 @@ scikit-learn:
 
 
 ## 3) In-Class discussion
-At 16:00, there's a meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
-
-Next week, we will start diving into Topic.
+At 16:00, there's a meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today's activities.
 
 
 ## Resources

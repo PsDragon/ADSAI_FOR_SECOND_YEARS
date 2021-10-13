@@ -120,11 +120,11 @@ Week 6-8: [Programming in Python](#week-6--programming-in-python)
 
 
 ## Thursday
-- [Python: Pandas](https://adsai.buas.nl/Study%20Content/Programming/7.Getting%20Started%20with%20Pandas.html)
-- [Introduction to Python NumPy](https://adsai.buas.nl/Study%20Content/Programming/8.Python%20Numpy.html)
+- [Python: Pandas](https://adsai.buas.nl/Study%20Content/Programming/6.Getting%20Started%20with%20Pandas.html)
+- [Introduction to Python NumPy](https://adsai.buas.nl/Study%20Content/Programming/7.Python%20Numpy.html)
 
 ## Friday
-- [Data Lab: Python Pandas & NumPy](https://adsai.buas.nl/Study%20Content/Programming/6.DataLabPR2.html)
+- [Data Lab: Python Pandas & NumPy](https://adsai.buas.nl/Study%20Content/Programming/8.DataLabPR2.html)
 
 # Week 7 : Programming in Python
 

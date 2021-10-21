@@ -14,7 +14,7 @@ Week 6-8: Programming
 
 ## Requirements:
 
-- [Introduction to Business Intelligence](../../Study%20Content/Business%20Intelligence/BusinessIntelligenceBlockBVersion2.html)
+- [Introduction to Business Intelligence](../../Study%20Content/Business%20Intelligence/BusinessIntelligenceBlockBVersion3.html)
 
 # Week 1 : Introduction to Business Intelligence (SQL)
 

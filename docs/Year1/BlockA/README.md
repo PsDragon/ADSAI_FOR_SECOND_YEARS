@@ -154,11 +154,10 @@ Week 6-8: [Programming in Python](#week-6--programming-in-python)
 - [Data Lab: Image Steganography](https://adsai.buas.nl/Study%20Content/Programming/15.DataLabPR5.html)
 
 ## Wednesday
-- [Python (web) Application development](https://adsai.buas.nl/Study%20Content/Programming/16.Python%20web%20application.html)
-
+- [Python: Recap of key concepts](https://adsai.buas.nl/Study%20Content/Programming/16.Recap.html)
 
 ## Thursday
-- [Python: Recap of key concepts](https://adsai.buas.nl/Study%20Content/Programming/17.Recap.html)
+- [Python (web) Application development](https://adsai.buas.nl/Study%20Content/Programming/17.Python%20web%20application.html)
 
 ## Friday
 - [Data Lab: Image Steganography](https://adsai.buas.nl/Study%20Content/Programming/18.DataLabPR6.html)

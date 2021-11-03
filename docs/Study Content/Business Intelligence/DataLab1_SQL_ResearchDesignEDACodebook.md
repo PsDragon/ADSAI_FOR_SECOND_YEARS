@@ -23,6 +23,10 @@ The workshop consists of two parts: A guest lecture, and a Q&A session by a data
 
 Before/after the workshop you have time to work on the independent study material or creative brief, and/or ask the lecturers for feedback.
 
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Tip: If you were not able to install the PostgreSQL server and/or client on Monday, make sure to do so by the end of this DataLab session!
+</div>
+
 ***
 
 ### 3. Project Brief: Background information
@@ -99,7 +103,7 @@ More specifically, they want to answer the following sub-questions:
 2.	Explain the difference between youth care suppliers in terms of ‘indicatietijd’ and ‘zorgduur’.
 3.	Identify the characteristics that influence the amount of youth care provided on a neighbourhood level.
 
-At the beginning of the project, you will be asked to pick one of these sub-questions. During the project, you will work on finding an appropriate answer to your chosen sub-question by applying various BI and ML techniques.
+At the beginning of the project, you will be asked to pick one of these sub-questions or to come up with one yourself. During the project, you will work on finding an appropriate answer to your chosen sub-question by applying various BI and ML techniques.
 
 ***
 
@@ -163,6 +167,34 @@ Each month, the provider declares the support provided for which the municipalit
 The task-oriented variant does not involve declaration via the iJw message system.
 
 Detailed information on the youth care processes (in Dutch), can be found on the website of the [istandaarden](https://informatiemodel.istandaarden.nl/iWmoJw30_Eb10/views/view_72094.html).
+
+***
+
+### 4. Exploratory Data Analysis (EDA) & Research question(s)
+
+__4a__ Perform an EDA on the youth care dataset.
+
+If you want to explore the full youth care dataset you need to install [Power BI](https://powerbi.microsoft.com/en-gb/desktop/) because the original data model is stored in a [pbix. file](.data\DatamodeljeugdTESTDATA.pbix).
+
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #a94442; background-color: #f2dede; border-color: #ebccd1;">
+Alert: If you are working with the pbix. file (a.k.a table jungle), try to focus on the table 'Toewijzingen'. Most of the information you will need for your analyses will be stored here.
+</div>
+
+Alternatively, if you want to work with tools/languages such as Python, SQL etc. you can use the following (slightly adjusted!) youth care data subsets in csv.-format:
+
+- [Geographic](.\data\geographic.csv)
+- [Financial](.\data\financial.csv)
+- [Supplier](.\data\supplier.csv)
+- [Product](.\data\product.csv)
+- [Client](.\data\client.csv)
+
+Useful libraries/packages:
+- Python: pandas, numpy, matplotlib, and seaborn.
+- R: psych, and ggplot2.
+
+__4b__ Come up with at least three questions related to the main research question. Write them down.
+
+__You can find the youth care dataset codebook, [here](.\data\DatabaseDocumentatiedatamodelJeugdOosterhout.pdf).__
 
 ***
 

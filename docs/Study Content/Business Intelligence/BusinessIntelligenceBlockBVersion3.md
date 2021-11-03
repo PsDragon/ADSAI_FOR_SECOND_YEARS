@@ -10,8 +10,8 @@ sort: 2
 
 By now you should have mastered the basics of SQL and data architecture & pipeline design (Datalab 2, Week 1). The knowledge you acquired so far will enable you to complete this section of the assignment. You will work with two data sources:
 
-1. A PostgreSQL database containing both socio-economic and health data. Hereinafter, data collection 1.
-2. A csv./flat-file containing health data. Hereinafter, data collection 2.
+1. A PostgreSQL database containing both socio-economic and health data. Hereinafter, [data collection 1](./data/data_collection1.tar).
+2. A csv./flat-file containing health data. Hereinafter, [data collection 2](./data/health.csv).
 
 <img src="./images/sql_meme.png" alt="SQL meme" width="350"/> \
 *Figure 1. Joining tables in SQL...*
@@ -65,26 +65,27 @@ Each colour block corresponds to a specific criterion of ILO 4.1. To attain a ce
 1. Install the PostgreSQL database server.
 <br>2. Install a client that is compatible with PostgreSQL (e.g. DBeaver, pgAdmin etc.).
 <br> 3. Place the data collection files into your computer's 'Public' folder (e.g. C:\Users\Public).
+<br> 4. Load data collection 1 into your PostgreSQL client (for instructions, see <a href="https://medium.com/@cheshtadhamija/importing-and-exporting-database-in-postgres-using-pgadmin-ce83e0c9002f">Importing and exporting Database in Postgres Using PGadmin</a>).
 </div>
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #000000;; background-color: #FFAB91; border-color: #FFAB91;">
-4. a) Use CREATE to construct a new table for data collection 2 in the PostgreSQL database, and name it health.
+5. a) Use CREATE to construct a new table for data collection 2 in the PostgreSQL database, and name it health.
 <br> b) Import data collection 2 into the table health by using the COPY statement.
-<br> 5. Produce a list of instances (maximum of 5) where the value of column [...], located within the table health, exceeds a certain value.
+<br> 6. Produce a list of instances (maximum of 5) where the value of column [...], located within the table health, exceeds a certain value.
 </div>
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #000000;; background-color: #FFE082; border-color: #FFE082;">
-6. a) Calculate the mean value for each numerical column in the health table.
+7. a) Calculate the mean value for each numerical column in the health table.
 <br> b) Use the statement ROUND() to turn your calculated averages into integers.
 <br> c) Insert the newly created values into the first row into the socio_eco table.
 <br> d) Rename the table socio_eco_v2.
 </div>
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #000000;; background-color: #E6EE9C; border-color: #E6EE9C;">
-7. a) Produce a list of each client's name (i.e. first name, middle name and last name), ClientKey, NotaRegelKey, and their first 'nota' (= invoice) after the date [....]. Order by client's ID.
-<br> b) Create a table where you store the result from question 7a , and name it query_result.
-<br> 8. Connect the tables from data collection 1 in the database by specifying appropriate relationships:
-<br> a) Draw an ERD by hand or automatically generate one in your database client (e.g. pgAdmin).
+8. a) Produce a list of each client's name (i.e. first name, middle name and last name), ClientKey, NotaRegelKey, and their first 'nota' (= invoice) after the date [....]. Order by client's ID.
+<br> b) Create a table where you store the result from question 8a , and name it query_result.
+<br> 9. Connect the tables from data collection 1 in the database by specifying appropriate relationships:
+<br> a) Draw an ERD (a.k.a. relational database schema) by hand or automatically generate one in your database client.
 <br> b) Prepare, and run the SQL clause(s).
 <br> c) Explain your approach.
 </div>
@@ -110,7 +111,7 @@ For part 2 of the assignment, you are going to perform operations on the youth c
 
 __Requirements:__
 
-- Create a maximum of 3 dashboard pages.
+- Create a maximum of 5 dashboard pages.
 - Import the results from ML analyses, in 'flat-file' format, to Power BI.
 - Clean and/or transform the data that is imported into Power BI.
 - Use visualizations that are appropriate for the data type you are working with. See Microsoft’s visualization guideline in Literature.
@@ -124,10 +125,11 @@ __Deliverable(s):__
 
 - A Power BI dashboard in .pbix-format.
 - A recorded or live demo of the Power BI dashboard.
+- Additional documentation (e.g. filters per page, codebook etc.)
 
 For information on how to record your demo, see Windows 10s [screen recorder tool](https://betanews.com/2020/01/20/windows-10-screen-record-xbox-game-bar/) guide.
 
-The Power BI dashboard in .pbix-format is to be uploaded to GitHub Classrooms no later than 5pm on last DataLab day.
+The Power BI dashboard in .pbix-format and the additional documentation is to be uploaded to GitHub Classrooms no later than 5pm on last DataLab day.
 
 The recorded demo of the Power BI dashboard is to be uploaded to GitHub Classrooms no later than 5pm on last DataLab day. Confer with a lecturer beforehand if you want to demo your dashboard in front of a live audience.
 

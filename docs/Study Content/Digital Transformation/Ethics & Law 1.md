@@ -12,20 +12,16 @@ Artificial intelligence (AI) is an emerging field that leads to enormous new bus
 During the first independent study day, you will get insights into DEDA Framework, learn about Ethical Decision Making and prepare for the Socratics debate that will be held during tomorrow’s Data Lab.
 If you have questions regarding the study material, you can send us an email or attend the Q&A session at the end of each self-study day. During the Q&A session, we will extensively discuss the independent study material. For details on availability see Project Brief.
 
+__Make sure to upload all the answers to the questions listed below to your GitHub account.__
 
 ***
 
-### 2. AI Ethics 
+### 2. AI Ethics
 
-During the DataLab 3 you are asked to present the first draft of your assignment: AI & Science Fiction. You will be given 5 minutes to present the outline of your report that contains the following:
-- Analysis of an AI topic within the movie Minority Report;
-- The feasibility of the AI topic and the explanation of how this AI topic or a similar AI topic is being implemented within a specific business setting.
+__2a__ Watch the video by IMB Technology:  “What is AI Ethics?”
 
-After the presentation, you will receive questions and feedback from your tutors and classmates.
-
-Presentations will be held in two sessions. Each session is available for approximately 8 students. During your session you will be presenting and giving feedback to your peers, while another session in your schedule is for working on the creative brief.
-
-- Session 1: 11:00 - 12:30 (session 1 students are presenting, session 2 students are working on the creative brief)
-- Session 2: 13:30 - 15:00 (session 2 students are presenting, session 1 students are working on the creative brief)
-
-Prior to the DataLab 3, you will receive the information from your lecturer regarding your timeslot for the presentation.
+<!-- blank line -->
+<figure class="video_container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aGwYtUzMQUk?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->

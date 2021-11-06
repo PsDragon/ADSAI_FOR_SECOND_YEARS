@@ -31,24 +31,26 @@ __3a__ Watch the YouTube video 'Don Norman: The term "UX"', where Don Norman sha
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9BdtGjoIN4E?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+*Video 1. Don Norman: The term "UX".*
+
 In his blog on UsabilityGeek, Justin Mifsud explains why it is important to make data user-friendly:
 
 >If the designer fails to make data user-friendly, then the user consuming such data will be impeded from extracting the meaning underlying the graphics, numbers or text. Worse still, the user will end up sifting mindlessly through such data, trying to make sense of it – not much different than they would have done had they been presented with raw data. Therefore, proper information visualisation leads to fast and accurate data consumption, which in turn can be used to make comparisons, draw conclusions and take decisions.
 A crucial mantra to keep in mind is that while technology has rapidly evolved, this has not been met with a parallel evolution of the human being. In this regard, the dashboard designer must understand and support the nature and limitations of human perception (Mifsud, Dashboard design user experience guidelines, n.d.).
 
-__3a__ Explore the website of the municipality of Oosterhout, and take a closer look at their corporate design (e.g. colours, logo etc.).
+__3b__ Explore the website of the municipality of Oosterhout and take a closer look at their corporate design (e.g. colours, logo etc.).
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: When you press the f12 key on a website, your browser opens the Developers Console. In most browsers, this will contain several tools that allows you to: identify the elements and their styles, see loaded resources, check memory consumption and rendering etc.
+Tip: When you press the f12 key on a website, your browser opens the Developers Console. In most browsers, this console will present several tools that allow you to: identify the elements and their styles, see loaded resources, check memory consumption and rendering etc.
 </div>
 
 <img src="./images/f12_layout.png" alt="Layout" width="900"/>
 
 *Figure 1. Example of what happens when you press F12 on a website in a browser.*
 
-__3b__ Design a layout for the client's youth care Power BI dashboard, see the article [Creating Power BI layouts](https://thesqlgirl.com/2018/09/10/creating-powerbi-layouts/).
+__3c__ Design a layout for the client's youth care Power BI dashboard, see the article [Creating Power BI layouts](https://thesqlgirl.com/2018/09/10/creating-powerbi-layouts/).
 
-__3c__ Create a document that contains a selection of meta information of the layout you created for exercise 4b (e.g. font, colour etc.).
+__3d__ Create a document that contains a selection of meta-information of the layout you created for exercise 3c (e.g. font, colour etc.).
 
 ***
 

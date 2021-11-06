@@ -106,6 +106,12 @@ B) Now translate the following function to a signma notation:
 ```R
 sample(1:100, 10, replace = TRUE)
 ```
+<figure>
+    <img src=".\assets\SigmaNotation.png" />
+    <figcaption>Sigma Notation</figcaption>
+</figure>
+<br>
+
 Hint: the "sample()" function goes on the place where the formula goes typically.
 
 Save your script to your GitHub repository.

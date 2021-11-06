@@ -7,7 +7,7 @@ sort: 2
 We start with a refresher on regression algorithms from the last block. We will then continue with the workshop, which covers simple linear regression and multiple linear regression. The workshop will consist of some interactive lessons, two short quizzes and a mini-project about honey production.
 
 ## 0) Learning Objectives:
-Text:
+After this module you'll know the fundamental theory on, and how to:
 1. Understand and apply simple linear regression
 2. Understand and apply multiple linear regression
 

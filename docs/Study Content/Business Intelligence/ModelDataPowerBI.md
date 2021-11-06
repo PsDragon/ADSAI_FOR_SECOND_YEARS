@@ -9,7 +9,7 @@ sort: 8
 
 ### 1. Introduction
 
-In the second independent study day of Week 3 you will be made familiar with various data modeling techniques in Power BI. For example:
+In the second independent study day of Week 3, you will be made familiar with various data modeling techniques in Power BI. For example:
 
 >You will explore Power Query as you learn to extract data from different data sources and choose a storage mode and connectivity type. You will learn to profile, clean, and load data into Power BI in preparation for modeling your data (Microsoft Certified: Data Analyst Associate, Prepare data for analysis).
 

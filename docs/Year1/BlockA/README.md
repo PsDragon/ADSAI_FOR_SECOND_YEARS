@@ -120,15 +120,16 @@ Week 6-8: [Programming in Python](#week-6--programming-in-python)
 
 
 ## Thursday
-- [Python: Pandas](https://adsai.buas.nl/Study%20Content/Programming/7.Getting%20Started%20with%20Pandas.html)
+- [Python: Pandas](https://adsai.buas.nl/Study%20Content/Programming/6.Getting%20Started%20with%20Pandas.html)
+- [Introduction to Python NumPy](https://adsai.buas.nl/Study%20Content/Programming/7.Python%20Numpy.html)
 
 ## Friday
-- [Data Lab: Python data structures & Pandas](https://adsai.buas.nl/Study%20Content/Programming/6.DataLabPR2.html)
+- [Data Lab: Python Pandas & NumPy](https://adsai.buas.nl/Study%20Content/Programming/8.DataLabPR2.html)
 
 # Week 7 : Programming in Python
 
 ## Monday
-- [Introduction to Python NumPy](https://adsai.buas.nl/Study%20Content/Programming/8.Python%20Numpy.html)
+
 - [Image Processing in Python](https://adsai.buas.nl/Study%20Content/Programming/9.Python%20Image%20Processing.html)
 
 ## Tuesday
@@ -153,11 +154,10 @@ Week 6-8: [Programming in Python](#week-6--programming-in-python)
 - [Data Lab: Image Steganography](https://adsai.buas.nl/Study%20Content/Programming/15.DataLabPR5.html)
 
 ## Wednesday
-- [Python (web) Application development](https://adsai.buas.nl/Study%20Content/Programming/16.Python%20web%20application.html)
-
+- [Python: Recap of key concepts](https://adsai.buas.nl/Study%20Content/Programming/16.Recap.html)
 
 ## Thursday
-- [Python: Recap of key concepts](https://adsai.buas.nl/Study%20Content/Programming/17.Recap.html)
+- [Python (web) Application development](https://adsai.buas.nl/Study%20Content/Programming/17.Python%20web%20application.html)
 
 ## Friday
 - [Data Lab: Image Steganography](https://adsai.buas.nl/Study%20Content/Programming/18.DataLabPR6.html)

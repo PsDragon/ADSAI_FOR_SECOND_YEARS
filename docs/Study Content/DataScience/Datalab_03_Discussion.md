@@ -21,7 +21,10 @@ Good luck!
 ## 0) Mock Assessment recap
 Now, let's all find a partner and get our mock-assessments out and discuss them. Specifically, analyse and evaluate one another's answers to the questions. If you both have the same answers, you're done. If not, then try to see who is right by explaining it to one another. If you both don't have an answer on a particular question; ask your instructor(s) in Datalab.
 
-## 1) Considerations in interpreting the data
+## 1) Feedback on poster
+Now look at the feedback you have received on your poster by navigating to your GitHub repository and clicking on the 'Pull requests' header. There should be a feedback thread over there. Process the feedback and then continue as described below.
+
+## 2) Considerations in interpreting the data
 Now, it's time to put all the knowledge we gained into practice by writing the discussion section of our Conference Poster!
 
 ***Open your conference poster and inspect the Discussion section. Next, open R-studio and open your script.***
@@ -31,7 +34,7 @@ We start with considering the distribution of the data, the summary statistics a
 2. Check if the provided considerations need to be supplemented with domain knowledge.
 
 
-## 2) Recommendations for future analyses & data-driven decisions:
+## 3) Recommendations for future analyses & data-driven decisions:
 Now that we have interpreted the data distribution and summary statistics, it's time to consider how we could use our data to answer our research question.
 1. Which analysis do you propose to run on the data? Form an unbiased judgement on the considerations. You can suggest multiple analyses as well if you can supplement your recommendation.
 
@@ -40,7 +43,7 @@ Now that we have interpreted the data distribution and summary statistics, it's 
 Tip: If you are done early, look if you can iterate on your poster. If you want to go the extra mile and learn some extra fancy data visualisations skills: do modules 8, 9 and potentially 10 as well of the Exploratory Data Analysis course in Swirl. But please by all means note that you are not expected to do these modules: we offer extra content for those who crave it.
 </div>
 
-## 3) In-Class discussion
+## 4) In-Class discussion
 At 16:00, we'll all get together in Datalab to discuss our progress and reflect on today activities.
 
 Next week, we will start diving into reporting and data visualisation practices.

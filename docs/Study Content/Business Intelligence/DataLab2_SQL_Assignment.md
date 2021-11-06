@@ -9,7 +9,7 @@ sort: 5
 
 ### 1. Introduction
 
-In today's DataLab session, you are going to display your database and SQL skills by completing an assignment, which you can find [here](../../Study%20Content/Business%20Intelligence/BusinessIntelligenceBlockBVersion2.html).
+In today's DataLab session, you are going to display your database and SQL skills by completing an assignment, which you can find [here](../../Study%20Content/Business%20Intelligence/BusinessIntelligenceBlockBVersion3.html).
 
 <img src="./images/break_leg.jpg" alt="Books banner" width="450"/>
 
@@ -22,7 +22,6 @@ Note: This assignment evaluates your individual database and SQL skills. Therefo
 Need further information or have questions? The lecturers will be available throughout the DataLab session.
 
 Good Luck :shamrock:!
-\
-\
+
 The teaching team
 ***

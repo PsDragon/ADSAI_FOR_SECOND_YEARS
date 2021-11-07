@@ -2,13 +2,13 @@
 sort: 4
 ---
 
-## __Data Lab (1): Debates: Ethical Decision-Making__
+## __Data Lab (2): Debates: Ethical Decision-Making__
 \
 <img src="./images/datalab_banner.jpg" alt="Books banner" width="600"/>
 
 ### 1. Introduction
 
-At the first part of Data Lab 1 you will participate in the debate: It is always possible to ensure ethical decision-making in an AI era. During the second part of the day, you will have a chance to work on the creative brief. At the end of the day, from 16:00 to 17:00, we will have a moment to reflect on Data Lab 1 and ask questions during the Q&A.
+At the first part of Data Lab 2 you will participate in the debate: It is always possible to ensure ethical decision-making in an AI era. During the second part of the day, you will have a chance to work on the creative brief. At the end of the day, from 16:00 to 17:00, we will have a moment to reflect on Data Lab 2 and ask questions during the Q&A.
 
 ***
 

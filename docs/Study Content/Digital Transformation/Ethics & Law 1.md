@@ -25,3 +25,34 @@ __2a__ Watch the video by IMB Technology:  “What is AI Ethics?”
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aGwYtUzMQUk?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 <!-- blank line -->
+
+__2b__ Answer questions related to the video.
+1. What does it take to earn trust in an artificial intelligence?
+2. What are the 3 principles when thinking about AI in an organization?
+3. How does socio-technological challenge must be addressed?
+4. What does holistically means?
+
+***
+
+### 3. DEDA framework
+
+__3a__ What is DEDA framework?
+
+The Data Ethics Decision Aid for researchers is focused on making the dilemma of ethical decision-making explicit. The framework helps researchers reflect and justify their data-related decisions on ethical issues concerning data. DEDA is a survey that states a series of open questions.  DEDA can be used at any time during a research project. The questions stated in the survey simply function to increase awareness of certain ethical issues and help the researcher record their decision-making process.
+
+Please download DEDA framework by clicking this link.
+Please download DEDA handbook by clicking this link.
+
+__3b__ Answer questions related to DEDA.
+1. What are the steps of DEDA framework?
+2. What is the aim of using such framework?
+
+***
+
+### 4. Debate on Ethical Decision – Making
+
+__4a__ Read chapter: “Ethical Decision-Making”.
+__4b__ Conduct additional online research to find sources that related to this topic.
+__4c__ Prepare “for” arguments and “against” arguments for the debate.
+
+__Topic of the debate: It is always possible to ensure ethical decision-making in an AI era.__

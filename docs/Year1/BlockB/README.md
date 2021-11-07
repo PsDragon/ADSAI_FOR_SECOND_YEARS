@@ -41,7 +41,7 @@ Week 6-8: Programming
 - [Ethics & Law (1): Introduction to DEDA Framework. Preparation for debates: Ethical Decision-Making.](../../Study%20Content/Digital%20Transformation/Ethics%20&%20Law%201.html)
 
 ## Tuesday
-- [DataLab (1): Debates: Ethical Decision-Making](../../Study%20Content/Digital%20Transformation/Data%20Lab%201.html)
+- [DataLab (1): Debates: Ethical Decision-Making](../../Study%20Content/Digital%20Transformation/DataLab%201.html)
 
 ## Wednesday
 - [Ethics & Law (2): Ethical Guidelines for Statistical Practice. Introduction to GDPR.](../../Study%20Content/Digital%20Transformation/Ethics%20&%20Law%202.html)
@@ -50,7 +50,7 @@ Week 6-8: Programming
 - [Ethics & Law (3): Preparation for debates: Can AI Systems Be Ethical?](../../Study%20Content/Digital%20Transformation/Ethics%20&%20Law%203.html)
 
 ## Friday
-- [DataLab (2): Debates: Can AI Systems Be Ethical?](../../Study%20Content/Digital%20Transformation/Data%20Lab%202.htm)
+- [DataLab (2): Debates: Can AI Systems Be Ethical?](../../Study%20Content/Digital%20Transformation/DataLab%202.html)
 
 # Week 3 : Introduction to Business Intelligence (Power BI)
 

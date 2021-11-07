@@ -16,7 +16,7 @@ __Make sure to upload all the answers to the questions listed below to your GitH
 
 ***
 
-### 2. Ethical Guidelines for Statistical Practice
+### 2. Ethical Guidelines for Statistical Practice.
 
 __2a__ Read the Ethical Guidelines for Statistical Practice
 
@@ -31,11 +31,11 @@ __2b__ Answer questions related to the Ethical Guidelines for Statistical Practi
 
 The General Data Protection Regulation (GDPR) is a  European data privacy and security law for organizations around the world.  The regulations were launched on May 25, 2018. The law fines those who breaks privacy and security standards with penalties reaching millions euros.  
 
-__3a__ Watch the the TEDx Exeter by Madhumita Murgia  
+__3a__ Watch the the TEDx Exeter by Madhumita Murgia.  
 
 <!-- blank line -->
 <figure class="video_container">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=AU66C6HePfg?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AU66C6HePfg?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 <!-- blank line -->
 

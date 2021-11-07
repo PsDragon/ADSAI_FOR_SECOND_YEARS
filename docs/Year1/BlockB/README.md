@@ -38,34 +38,19 @@ Week 6-8: Programming
 # Week 2 : Digital Transformation & Artificial Intelligence
 
 ## Monday
-- [topic 1](https://www.buas.nl/en/games)
-- [topic 2](../../Study%20Content/Artificial%20Intelligence/TuringTestChatbots1.html#literature)
-  - [topic 2.1](#graphics)
-  - [topic 2.2](#ecs)
+- [Ethics & Law (1): Introduction to DEDA Framework. Preparation for debates: Ethical Decision-Making.](../../Study%20Content/Digital%20Transformation/Ethics%20&%20Law%201.html)
 
 ## Tuesday
-- [topic 1](https://www.buas.nl/en/games)
-- [topic 2](#libraries--frameworks)
-  - [topic 2.1](#graphics)
-  - [topic 2.2](#ecs)
+- [DataLab (1): Debates: Ethical Decision-Making](../../Study%20Content/Digital%20Transformation/Data%20Lab%201.html)
 
 ## Wednesday
-- [topic 1](https://www.buas.nl/en/games)
-- [topic 2](../../Study%20Content/Artificial%20Intelligence/TuringTestChatbots1.html#literature)
-  - [topic 2.1](#graphics)
-  - [topic 2.2](#ecs)
+- [Ethics & Law (2): Ethical Guidelines for Statistical Practice. Introduction to GDPR.](../../Study%20Content/Digital%20Transformation/Ethics%20&%20Law%202.html)
 
 ## Thursday
-- [topic 1](https://www.buas.nl/en/games)
-- [topic 2](#libraries--frameworks)
-  - [topic 2.1](#graphics)
-  - [topic 2.2](#ecs)
+- [Ethics & Law (3): Preparation for debates: Can AI Systems Be Ethical?](../../Study%20Content/Digital%20Transformation/Ethics%20&%20Law%203.html)
 
 ## Friday
-- [topic 1](https://www.buas.nl/en/games)
-- [topic 2](#libraries--frameworks)
-  - [topic 2.1](#graphics)
-  - [topic 2.2](#ecs)
+- [DataLab (2): Debates: Can AI Systems Be Ethical?](../../Study%20Content/Digital%20Transformation/Data%20Lab%202.htm)
 
 # Week 3 : Introduction to Business Intelligence (Power BI)
 

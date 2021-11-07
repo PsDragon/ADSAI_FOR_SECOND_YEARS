@@ -52,7 +52,9 @@ __3b__ Answer questions related to DEDA.
 ### 4. Debate on Ethical Decision – Making
 
 __4a__ Read chapter: “Ethical Decision-Making”.
+
 __4b__ Conduct additional online research to find sources that related to this topic.
+
 __4c__ Prepare “for” arguments and “against” arguments for the debate.
 
 __Topic of the debate: It is always possible to ensure ethical decision-making in an AI era.__

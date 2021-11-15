@@ -32,6 +32,8 @@ Examples of clustering applications are:
 - [ ] Market segmentation: group customers based on geography, demography, and behaviors
 - [ ] Image segmentation: group medical X-rays images into OK (no disease) and NOK (possible disease)
 
+Please watch the following video to get an insight into clustering analyses.
+
 <!-- blank line -->
 <figure class="video_container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IUn8k5zSI6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -40,7 +42,7 @@ Examples of clustering applications are:
 
 As discussed in the above video, clustering is an example of **Unsupervised Learning**, as we do not provide the
 algorithm with explicit labels. The algorithm automatically looks for underlying
-features in the dataset which lead to clusters.
+features in the dataset which lead to clusters which are similar.
 
 
 ## 2) Workshop

@@ -62,7 +62,9 @@ features in the dataset which lead to clusters which are similar.
 
 
 ## 2) Workshop
-Now, we're introduced to Cluster analysis it's time ground down these fundamental by doing a workshop on the ```KMeans``` algorithm. Open the [Basics of Machine Learning course](https://www.codecademy.com/learn/machine-learning) on Codecademy and complete the module: **Clustering: K-Means**
+Now, we're introduced to Cluster analysis it's time ground down these fundamental by doing a workshop on the ```KMeans``` algorithm. Open the [Basics of Machine Learning course](https://www.codecademy.com/learn/machine-learning) on Codecademy and complete the module: **Clustering: K-Means**.
+
+> You will have time to work on the Handwriting Recognition using K-Means project tomorrow in the data lab.
 
 
 # 3)  Daily Q&A

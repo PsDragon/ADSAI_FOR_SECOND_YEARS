@@ -4,14 +4,15 @@ sort: 10
 
 # Datalab 03: Clustering Analyses
 
-We start with ...
+We start with the Handwriting Recognition using K-Means clustering project from Codecademy to put the knowledge and skills we gained yesterday to the test. Then we apply our knowlegde and skills to the research challenge/question we set ourselves for the creative brief. It's all quite straightforward really!
+
 
 ## 0) Learning Objectives:
-Text:
-1. ...
+1. Understand and apply a clustering algorithm.
+
 
 Table of contents:
-1. ...: Y hours
+1. Handwriting Recognition using K-Means
 2. Oosterhout Dataset: Classification Analysis: Z hours
 
 ## Questions or issues?
@@ -21,11 +22,23 @@ If you have any questions or issues regarding the course material, please first 
 Good luck!
 
 
-## 2) ...
+## 1) Handwriting Recognition using K-Means
+The U.S. Postal Service has been using machine learning and scanning technologies since 1999. Because its postal offices have to look at roughly half a billion pieces of mail every day, they have done extensive research and developed very efficient algorithms for reading and understanding addresses. And not only the post office: ATMs can recognize handwritten bank checks. Evernote can recognize handwritten task lists. Expensify can recognize handwritten receipts. But how do they do it?
+
+<figure>
+    <img src=".\images\mnist.PNG" />
+    <figcaption>(Source: MNIST)</figcaption>
+</figure>
+<br>
+
+In this project, you will be using K-means clustering (the algorithm behind this magic) and scikit-learn to cluster images of handwritten digits and predict a handwritten digit.
+
+Please click [here](https://www.codecademy.com/courses/machine-learning/projects/clustering) to get started!
 
 
-## 3) Oosterhout Dataset: Classification
-1. Create a python script called ClassificationOosterhout and save it to your GitHub repository.
+## 2) Oosterhout Dataset: Classification
+Create a python script called ClassificationOosterhout and save it to your GitHub repository. 
+Apply a suitable clsuter analysis to the Oosterhout dataset.
 
 
 ## 3) In-Class discussion

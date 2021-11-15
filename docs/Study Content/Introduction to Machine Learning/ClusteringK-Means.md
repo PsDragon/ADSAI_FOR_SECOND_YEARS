@@ -26,6 +26,22 @@ Clustering algorithms (or cluster analysis) aim to group data points into
 clusters such that data points within a cluster are more closely related
 to one another than data points assigned to different clusters.
 
+Suppose we are given a dataset with the following data points:
+
+<figure>
+    <img src=".\images\clus1.PNG" />
+    <figcaption></figcaption>
+</figure>
+<br>
+
+The goal of clustering algorithm is to automatically find stucture in the data, that allows us to infer groups of data points that are in some way similar, althought note the groups need not always correspond to real-life categories.
+
+<figure>
+    <img src=".\images\clus2.PNG" />
+    <figcaption></figcaption>
+</figure>
+<br>
+
 Examples of clustering applications are:
 - [ ] Recommendation engines: netflix grouping movies based on genre
 - [ ] Search engines: group search results based on topic (e.g., news)

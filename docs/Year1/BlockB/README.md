@@ -2,19 +2,11 @@
 
 Each of the 8 weeks has a fixed structure : on Monday, Wednesday and Thursday you work individually on the development of basic skills, which are needed to execute the DataLab assignments. Kindly follow the table of content below, this will guide you through what is expected of you on a daily basis.
 
-Project Timeline :
-
-Week 1: [Introduction to Business Intelligence (SQL)](#week-1--digital-transformation--artificial-intelligence)
-
-Week 2: []()
-
-Week 3: [Introduction to Business Intelligence (Power BI)](#week-3--data-science)
-
-Week 6-8: Programming
-
 ## Requirements:
 
 - [Introduction to Business Intelligence](../../Study%20Content/Business%20Intelligence/BusinessIntelligenceBlockBVersion3.html)
+- [Machine Learning and Mathematics](../../Study%20Content/Mathematics%20I/5.%20DataLab2.html)
+- [Ethics and Legal Frameworks](../../Study%20Content/Digital%20Transformation/Ethics%20&%20Law.html)
 
 # Week 1 : Introduction to Business Intelligence (SQL)
 
@@ -80,30 +72,30 @@ Week 6-8: Programming
 ](../../Study%20Content/Business%20Intelligence/DataLab3_AnalyzingDataPowerBI.html)
 
 ## Wednesday
-[Supervised and Unsupervised Learning](https://adsai.buas.nl/Study%20Content/Introduction%20to%20Machine%20Learning/SupervisedAndUnsupervisedLearningModelEvaluation.html)
+[Supervised and Unsupervised Learning](../../Study%20Content/Introduction%20to%20Machine%20Learning/SupervisedAndUnsupervisedLearningModelEvaluation.html)
 
 ## Thursday
-[Regression Algorithms](https://adsai.buas.nl/Study%20Content/Introduction%20to%20Machine%20Learning/RegressionAlgorithms.html)
+[Regression Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/RegressionAlgorithms.html)
 
 ## Friday
-[Datalab 00: Regression Algorithms](https://adsai.buas.nl/Study%20Content/Introduction%20to%20Machine%20Learning/Datalab00_RegressionAnalyses.html)
+[Datalab 00: Regression Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab00_RegressionAnalyses.html)
 
 # Week 5 : Machine Learning and Mathematics
 
 ## Monday
-[Introduction to Linear Algebra](https://adsai.buas.nl/Study%20Content/Mathematics%20I/1.%20Introduction%20to%20Linear%20Algebra.html)
+[Introduction to Linear Algebra](../../Study%20Content/Mathematics%20I/1.%20Introduction%20to%20Linear%20Algebra.html)
 
 ## Tuesday
-[DataLab: Implementing elementary operations on matrices using Python](https://adsai.buas.nl/Study%20Content/Mathematics%20I/2.%20DataLab1.html)
+[DataLab: Implementing elementary operations on matrices using Python](../../Study%20Content/Mathematics%20I/2.%20DataLab1.html)
 
 ## Wednesday
-[Linear algebra applied to Linear Systems](https://adsai.buas.nl/Study%20Content/Mathematics%20I/3.%20Linear%20Algebra%20applied%20to%20Linear%20Systems.html)
+[Linear algebra applied to Linear Systems](../../Study%20Content/Mathematics%20I/3.%20Linear%20Algebra%20applied%20to%20Linear%20Systems.html)
 
 ## Thursday
-[Classifications Algorithms](https://adsai.buas.nl/Study%20Content/Introduction%20to%20Machine%20Learning/ClassificationAlgorithms.html)
+[Classifications Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/ClassificationAlgorithms.html)
 
 ## Friday
-[DataLab: Classification Algorithms](https://adsai.buas.nl/Study%20Content/Introduction%20to%20Machine%20Learning/Datalab01_ClassificationAnalyses.html)
+[DataLab: Classification Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab01_ClassificationAnalyses.html)
 
 # Week 6 : Machine Learning and Mathematics
 
@@ -111,42 +103,42 @@ Week 6-8: Programming
 [Linear Algebra and Linear models (least squares)](https://adsai.buas.nl/Study%20Content/Mathematics%20I/4.%20Linear%20Algebra%20and%20(linear)%20Regressions.html)
 
 ## Tuesday
-[DataLab: Normal equations for linear regression](https://adsai.buas.nl/Study%20Content/Mathematics%20I/5.%20DataLab2.html)
+[DataLab: Normal equations for linear regression](../../Study%20Content/Mathematics%20I/5.%20DataLab2.html)
 
 ## Wednesday
-[Tree Based Algorithms](https://adsai.buas.nl/Study%20Content/Introduction%20to%20Machine%20Learning/DecisionTrees.html)
+[Tree Based Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/DecisionTrees.html)
 
 ## Thursday
-[Supervised Learning: a recap](https://adsai.buas.nl/Study%20Content/Introduction%20to%20Machine%20Learning/RandomForests.html)
+[Supervised Learning: a recap](../../Study%20Content/Introduction%20to%20Machine%20Learning/RandomForests.html)
 
 ## Friday
-[DataLab: Tree based Algorithms](https://adsai.buas.nl/Study%20Content/Introduction%20to%20Machine%20Learning/Datalab02_TreeBasedAnalyses.html)
+[DataLab: Tree based Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab02_TreeBasedAnalyses.html)
 
 
 # Week 7: Machine Learning and Mathematics
 
 ## Monday
-[Matrix Factorization: PCA Algorithm](https://adsai.buas.nl/Study%20Content/Mathematics%20I/6.%20Image%20Processing%20using%20Linear%20Algebra%20I.html)
+[Matrix Factorization: PCA Algorithm](../../Study%20Content/Mathematics%20I/6.%20Image%20Processing%20using%20Linear%20Algebra%20I.html)
 
 ## Tuesday
-[DataLab: PCA Algorithm in practice](https://adsai.buas.nl/Study%20Content/Mathematics%20I/7.%20DataLab3.html)
+[DataLab: PCA Algorithm in practice](../../Study%20Content/Mathematics%20I/7.%20DataLab3.html)
 
 ## Wednesday
-[Matrix operations on images: Convolution & Kernels](https://adsai.buas.nl/Study%20Content/Mathematics%20I/8.%20Linear%20Algebra%20and%20Image%20Processing%20II.html)
+[Matrix operations on images: Convolution & Kernels](../../Study%20Content/Mathematics%20I/8.%20Linear%20Algebra%20and%20Image%20Processing%20II.html)
 
 ## Thursday
-[Machine Learning: Unsupervised Learning](https://adsai.buas.nl/Study%20Content/Introduction%20to%20Machine%20Learning/ClusteringK-Means.html)
+[Machine Learning: Unsupervised Learning](../../Study%20Content/Introduction%20to%20Machine%20Learning/ClusteringK-Means.html)
 
 ## Friday
-[Datalab: Unsupervised Learning](https://adsai.buas.nl/Study%20Content/Introduction%20to%20Machine%20Learning/Datalab03_ClusteringAnalyses.html)
+[Datalab: Unsupervised Learning](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab03_ClusteringAnalyses.html)
 
 # Week 8 : Neural networks and it's a wrap!
 
 ## Monday
-[Perceptron Algorithm and Gradient Descent](https://adsai.buas.nl/Study%20Content/Introduction%20to%20Machine%20Learning/Perceptron.html)
+[Perceptron Algorithm and Gradient Descent](../../Study%20Content/Introduction%20to%20Machine%20Learning/Perceptron.html)
 
 ## Tuesday
-[DataLab: Perceptron and Gradient Descent](https://adsai.buas.nl/Study%20Content/Introduction%20to%20Machine%20Learning/Datalab04_PerceptronAndGradientDescent.html)
+[DataLab: Perceptron and Gradient Descent](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab04_PerceptronAndGradientDescent.html)
 
 ## Wednesday
 [Prepare business case presentation]

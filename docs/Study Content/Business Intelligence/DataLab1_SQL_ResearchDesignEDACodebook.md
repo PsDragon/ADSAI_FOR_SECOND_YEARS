@@ -18,7 +18,7 @@ In today's DataLab session, we will start working on the Creative Brief. First, 
 
 The workshop consists of two parts: A guest lecture, and a Q&A session by the data coordinator of the municipality of Oosterhout, [Joeri de Jong](https://nl.linkedin.com/in/j-dejong/nl). During the lecture, you will be introduced to the youth care pilot. Schedule:
 
-- Workshop and Q&A (9:30-10:15).
+- Lecture and Q&A (9:30-10:15).
 
 Before/after the workshop you have time to work on the independent study material or creative brief, and/or ask the lecturers for feedback.
 

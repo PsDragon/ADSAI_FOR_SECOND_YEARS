@@ -56,7 +56,7 @@ __3d__ Answer questions below:
 2. For what type of data companies need a consent from people?
 3. Which organization can hold your data without “a right to be forgotten”?
 
-__3e__ Read Chapters 2 & 3 of the General Data Protection Regulation.
+__3e__ Read Chapters 2 & 3 of the General Data Protection Regulation by clicking this link.
 
 __3f__ Answer questions below:
 1. Should a controller provide the details of a data protection officer?
@@ -87,3 +87,6 @@ Tip: the exercise is format-free, meaning you can answer in any way or form you 
 
 
 ## __Literature__
+Committee on Professional Ethics of the American Statistical Association (2018, April 14). *Ethical Guidelines for Statistical Practice.* https://www.amstat.org//asa/files/pdfs/EthicalGuidelines.pdf
+
+*General Data Protection Regulation (GDPR) – Official Legal Text.* (2019, 2 september). General Data Protection Regulation (GDPR). https://gdpr-info.eu/

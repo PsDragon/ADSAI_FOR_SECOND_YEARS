@@ -16,10 +16,9 @@ In today's DataLab session, we will start working on the Creative Brief. First, 
 
 ### 2. Workshop
 
-The workshop consists of two parts: A guest lecture, and a Q&A session by a data analyst of the municipality of Oosterhout. During the lecture, you will be introduced to the youth care pilot. Schedule:
+The workshop consists of two parts: A guest lecture, and a Q&A session by the data coordinator of the municipality of Oosterhout, [Joeri de Jong](https://nl.linkedin.com/in/j-dejong/nl). During the lecture, you will be introduced to the youth care pilot. Schedule:
 
-1. Workshop (9:00-10:00)
-2. Q&A session (10:00-10:30)
+- Workshop and Q&A (9:30-10:15).
 
 Before/after the workshop you have time to work on the independent study material or creative brief, and/or ask the lecturers for feedback.
 
@@ -75,7 +74,7 @@ However, as time passed by it became clear that the new Child and Youth Act was 
 
 *Figure 2. Youth care workers protest, September 2018.*
 
-Robin van der Helm, an alderman responsible for the youth care system in the municipality of Oosterhout, stated the following on the costs associated with youth care: 'Year in, year out, his municipality fails to meet the budgetary agreements. The costs are around 15 million, while Oosterhout receives 11 million from the national government'(Schapendonk and Vink, 2021).
+Robin van der Helm, an alderman responsible for the youth care system in the municipality of Oosterhout, stated the following on the costs associated with youth care: 'Year in, year out, his municipality fails to meet the budgetary agreements. The costs are around 15 million, while Oosterhout receives 11 million from the national government' (Schapendonk and Vink, 2021).
 
 ***
 
@@ -95,7 +94,7 @@ With the intermunicipal youth care pilot, Oosterhout and the other participating
 
 Consequently, the main research question can be constructed as follows:
 
-How can we make youth care more financially and administratively manageable?
+__How can we make youth care more financially and administratively manageable?__
 
 More specifically, they want to answer the following sub-questions:
 
@@ -166,11 +165,11 @@ Each month, the provider declares the support provided for which the municipalit
 *B. Task-oriented variant*
 The task-oriented variant does not involve declaration via the iJw message system.
 
-Detailed information on the youth care processes (in Dutch), can be found on the website of the [istandaarden](https://informatiemodel.istandaarden.nl/iWmoJw30_Eb10/views/view_72094.html).
+Detailed information on the youth care processes (in Dutch), can be found on the website of the [istandaarden](https://informatiemodel.istandaarden.nl/iWmoJw30_Eb10/views/view_30468.html).
 
 ***
 
-### 4. Exploratory Data Analysis (EDA) & Research question(s)
+### 4. Exploratory Data Analysis (EDA)
 
 __4a__ Perform an EDA on the youth care dataset.
 

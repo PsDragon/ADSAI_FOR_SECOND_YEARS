@@ -2,11 +2,22 @@
 
 Each of the 8 weeks has a fixed structure : on Monday, Wednesday and Thursday you work individually on the development of basic skills, which are needed to execute the DataLab assignments. Kindly follow the table of content below, this will guide you through what is expected of you on a daily basis.
 
-## Requirements:
+## Project Based Learning - Creative Brief
+In block A, you explored various themes around digital transformation and critically examined applications of AI and digital technologies to existing businesses processes. In this block, you will take on a more hands-on approach towards improving a business process using digital transformation. In particular, you will explore one specific role within the theme of digitalisation - **the data analyst** – and help the municipality of Oosterhout improve their business processes using data, mathematics, and machine learning.
+
+One of the key responsibilities of the municipality of Oosterhout (henceforth the client) is youth care. While Dutch children are among the happiest and healthiest in the world, there are still many children that need extra support and care. To ensure a youth care system that is more efficient, coherent and cost-effective, the client has chosen to digitalize their existing youth care process.
+
+> The client has approached you – the data analyst – with the aim to discover more efficient (in cost and time) ways of delivering youth care.
+
+At the beginning of the project, you will be introduced to the use-case by a data analyst from one of the municipalities. You can consult the client’s data analyst if you have any questions or wish to deepen your understanding of the use-case.
+
+## Creative Brief Requirements:
 
 - [Introduction to Business Intelligence](../../Study%20Content/Business%20Intelligence/BusinessIntelligenceBlockBVersion3.html)
 - [Machine Learning and Mathematics](../../Study%20Content/Mathematics%20I/5.%20DataLab2.html)
 - [Ethics and Legal Frameworks](../../Study%20Content/Digital%20Transformation/Ethics%20&%20Law.html)
+
+# Block Outline
 
 # Week 1 : Introduction to Business Intelligence (SQL)
 

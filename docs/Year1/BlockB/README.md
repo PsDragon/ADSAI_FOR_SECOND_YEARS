@@ -13,6 +13,12 @@ At the beginning of the project, you will be introduced to the use-case by a dat
 
 ## Creative Brief Requirements:
 
+<figure>
+    <img src=".\phases.PNG" />
+    <figcaption>Please click the links below to view more detailed requirements</figcaption>
+</figure>
+<br>
+
 - [Introduction to Business Intelligence](../../Study%20Content/Business%20Intelligence/BusinessIntelligenceBlockBVersion3.html)
 - [Machine Learning and Mathematics](../../Study%20Content/Mathematics%20I/5.%20DataLab2.html)
 - [Ethics and Legal Frameworks](../../Study%20Content/Digital%20Transformation/Ethics%20&%20Law.html)
@@ -27,7 +33,7 @@ At the beginning of the project, you will be introduced to the use-case by a dat
 - [Markdown template (optional)](../../Study%20Content/Business%20Intelligence/homework_markdown_template.html)
 
 ## Tuesday
-- [DataLab 1: Research design, EDA, and codebook](../../Study%20Content/Business%20Intelligence/DataLab1_SQL_ResearchDesignEDACodebook.html)
+- [DataLab: Research design, EDA, and codebook](../../Study%20Content/Business%20Intelligence/DataLab1_SQL_ResearchDesignEDACodebook.html)
 
 ## Wednesday
 - [SQL: Data Query Language (DQL) clauses](../../Study%20Content/Business%20Intelligence/SQL_DQL.html)
@@ -36,7 +42,7 @@ At the beginning of the project, you will be introduced to the use-case by a dat
 - [SQL: Data Definition Language (DDL) clauses 2](../../Study%20Content/Business%20Intelligence/SQL_DDL2.html)
 
 ## Friday
--  [DataLab 2: Database & SQL assignment](../../Study%20Content/Business%20Intelligence/DataLab2_SQL_Assignment.html)
+-  [DataLab: Database & SQL assignment](../../Study%20Content/Business%20Intelligence/DataLab2_SQL_Assignment.html)
 
 # Week 2 : Digital Transformation & Artificial Intelligence
 
@@ -44,7 +50,7 @@ At the beginning of the project, you will be introduced to the use-case by a dat
 - [Ethics & Law (1): Introduction to DEDA Framework. Preparation for debates: Ethical Decision-Making.](../../Study%20Content/Digital%20Transformation/Ethics%20&%20Law%201.html)
 
 ## Tuesday
-- [DataLab (1): Debates: Ethical Decision-Making](../../Study%20Content/Digital%20Transformation/DataLab%201.html)
+- [DataLab: Debates: Ethical Decision-Making](../../Study%20Content/Digital%20Transformation/DataLab%201.html)
 
 ## Wednesday
 - [Ethics & Law (2): Ethical Guidelines for Statistical Practice. Introduction to GDPR.](../../Study%20Content/Digital%20Transformation/Ethics%20&%20Law%202.html)
@@ -53,7 +59,7 @@ At the beginning of the project, you will be introduced to the use-case by a dat
 - [Ethics & Law (3): Preparation for debates: Can AI Systems Be Ethical?](../../Study%20Content/Digital%20Transformation/Ethics%20&%20Law%203.html)
 
 ## Friday
-- [DataLab (2): Debates: Can AI Systems Be Ethical?](../../Study%20Content/Digital%20Transformation/DataLab%202.html)
+- [DataLab: Debates: Can AI Systems Be Ethical?](../../Study%20Content/Digital%20Transformation/DataLab%202.html)
 
 # Week 3 : Introduction to Business Intelligence (Power BI)
 
@@ -61,7 +67,7 @@ At the beginning of the project, you will be introduced to the use-case by a dat
 - [Getting started with Power BI & Prepare data for analysis with Power BI](../../Study%20Content/Business%20Intelligence/DataPrepaparationCleanTransformLoadPowerBI.html)
 
 ## Tuesday
-- [DataLab 1: Data wrangling & UX design in Power BI](../../Study%20Content/Business%20Intelligence/DataLab1_DataWranglingUXDesignPowerBI.html)
+- [DataLab: Data wrangling & UX design in Power BI](../../Study%20Content/Business%20Intelligence/DataLab1_DataWranglingUXDesignPowerBI.html)
 
 ## Wednesday
 - [Data modeling in Power BI](../../Study%20Content/Business%20Intelligence/ModelDataPowerBI.html)
@@ -70,17 +76,15 @@ At the beginning of the project, you will be introduced to the use-case by a dat
 - [Data visualization in Power BI](../../Study%20Content/Business%20Intelligence/VisualizeDataPowerBI.html)
 
 ## Friday
-- [DataLab 2: Basic visuals & DAX in Power BI](../../Study%20Content/Business%20Intelligence/DataLab2_CreatingVisualsDAXPowerBI.html)
+- [DataLab: Basic visuals & DAX in Power BI](../../Study%20Content/Business%20Intelligence/DataLab2_CreatingVisualsDAXPowerBI.html)
 
 # Week 4 : Introduction to Business Intelligence (Power BI) & Machine Learning
 
 ## Monday
-- [Data analysis & Managing workspaces/datasets in Power BI
-](../../Study%20Content/Business%20Intelligence/DataAnalysisManagingWorkspacesDatasetsPowerBI.html)
+- [Data analysis & Managing workspaces/datasets in Power BI](../../Study%20Content/Business%20Intelligence/DataAnalysisManagingWorkspacesDatasetsPowerBI.html)
 
 ## Tuesday
-- [DataLab 1: Advanced visuals & Analyzing data in Power BI
-](../../Study%20Content/Business%20Intelligence/DataLab3_AnalyzingDataPowerBI.html)
+- [DataLab: Advanced visuals & Analyzing data in Power BI](../../Study%20Content/Business%20Intelligence/DataLab3_AnalyzingDataPowerBI.html)
 
 ## Wednesday
 [Supervised and Unsupervised Learning](../../Study%20Content/Introduction%20to%20Machine%20Learning/SupervisedAndUnsupervisedLearningModelEvaluation.html)
@@ -89,7 +93,7 @@ At the beginning of the project, you will be introduced to the use-case by a dat
 [Regression Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/RegressionAlgorithms.html)
 
 ## Friday
-[Datalab 00: Regression Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab00_RegressionAnalyses.html)
+[DataLab: Regression Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab00_RegressionAnalyses.html)
 
 # Week 5 : Machine Learning and Mathematics
 
@@ -141,7 +145,7 @@ At the beginning of the project, you will be introduced to the use-case by a dat
 [Machine Learning: Unsupervised Learning](../../Study%20Content/Introduction%20to%20Machine%20Learning/ClusteringK-Means.html)
 
 ## Friday
-[Datalab: Unsupervised Learning](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab03_ClusteringAnalyses.html)
+[DataLab: Unsupervised Learning](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab03_ClusteringAnalyses.html)
 
 # Week 8 : Neural networks and it's a wrap!
 
@@ -158,4 +162,4 @@ At the beginning of the project, you will be introduced to the use-case by a dat
 [Prepare business case presentation]
 
 ## Friday
-[Business case presentation]
+[DataLab: Business case presentation]

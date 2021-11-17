@@ -9,8 +9,8 @@ sort: 4
 ### 1. Introduction
 
 During today’s self –study day you will learn several concepts associated with ethics and law in the field of Artificial Intelligence and Data Science.  You begin your day with learning how to make statistical decisions ethically and later on you will explore the The General Data Protection Regulation (GDPR) and The Assessment List on Trustworthy Artificial Intelligence.
-If you have questions regarding the study material, you can send us an email or attend the Q&A   session at the end of each self-study day. During the Q&A session, we will extensively discuss the independent study material. For details on availability see Project Brief.
 
+If you have questions regarding the study material, you can send us an email or ask your questions during DataLab sessions.
 
 __Make sure to upload all the answers to the questions listed below to your GitHub account.__
 

@@ -10,7 +10,7 @@ sort: 2
 
 By now you should have mastered the basics of SQL and data architecture & pipeline design (Datalab 2, Week 1). The knowledge you acquired so far will enable you to complete this section of the assignment. You will work with two data sources:
 
-1. A PostgreSQL database containing both socio-economic and health data. Hereinafter, [data collection 1](./data/data_collection1.tar).
+1. A PostgreSQL database containing both socio-economic and health data. Hereinafter, [data collection 1](./data/data_collection1).
 2. A csv./flat-file containing health data. Hereinafter, [data collection 2](./data/health.csv).
 
 <img src="./images/sql_meme.png" alt="SQL meme" width="350"/> \

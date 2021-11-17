@@ -17,7 +17,7 @@ If you have not finished the Microsoft tutorial modules and corresponding lab ex
 
 ### 2. Data wrangling
 
-__2a__ Load the .pbix file named [youth_care](INSERT LINK), which contains the client's youth care dataset, in Power BI.
+__2a__ Load the .pbix file named [DatamodeljeugdTESTDATA](./data/DatamodeljeugdTESTDATA.pbix), which contains the client's youth care dataset, in Power BI.
 
 __2b__ Apply the knowledge you have gained, through completing the Microsoft tutorial modules and lab exercises, on the youth care dataset.  
 

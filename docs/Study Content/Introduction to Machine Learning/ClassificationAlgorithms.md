@@ -30,7 +30,15 @@ Good luck!
 
 
 ## 1) Workshop
-Now, we're familiar with regression algorithms it's time to cover the next fundamental technique; classification, by doing a workshop. Open the [Basics of Machine Learning course](https://www.codecademy.com/learn/machine-learning) on Codecademy and complete the modules: **Classification Vs Regression** and **Classification: K-Nearest Neighbors**.
+Now, we're familiar with regression algorithms it's time to cover the next fundamental technique; classification, by doing a workshop. Open the [Basics of Machine Learning course](https://www.codecademy.com/learn/machine-learning) on Codecademy and complete the modules: **Classification Vs Regression** and **Classification: K-Nearest Neighbors**, specifically:
+- Article: Regression vs. Classification
+- Lesson: Distance Formula
+- Article: Normalization
+- Article: Training Set vs Validation Set vs Test Set
+- Lesson: K-Nearest Neighbors
+- Quiz: K-Nearest Neighbors
+- Project: Breast Cancer Classifier
+
 
 ## 2) The bias-variance trade-off
 
@@ -73,7 +81,7 @@ Tip: Want to learn more on the topic of model evaluation, see Raschka's <a href=
 Selection in Machine Learning</a> guide.
  </div>
 
-# 3) Next up!
+# Next up!
 Coming Datalab we will reflect on classification algorithms again and give you an opportunity to ask any questions you might have.
 
 Then we will apply our newly learned techniques on the Yelp dataset again by performing a logistic regression! Subsequently, we will perform a logistic regression on our Oosterhout dataset; in line with our research problem!

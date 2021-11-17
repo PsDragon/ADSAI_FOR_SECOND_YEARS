@@ -31,7 +31,10 @@ Good luck!
 We start by briefly reflecting on what we learned about classification algoritms, overfitting and the bias-variance trade-off. Do you have any questions? Now is the time to ask them!
 
 ## 2) Titanic Regression Project
-Now, we're introduced to classification algorithms it's time ground down these fundamentals by doing a workshop. Open the [Basics of Machine Learning course](https://www.codecademy.com/learn/machine-learning) on Codecademy and complete the first module: **Logistic Regression**.
+Now, we're introduced to classification algorithms it's time ground down these fundamentals by doing a workshop. Open the [Basics of Machine Learning course](https://www.codecademy.com/learn/machine-learning) on Codecademy and complete the first module: **Logistic Regression**, specifically:
+- Lesson: Logistic Regression
+- Quiz: Logistic Regression
+- Project: Predict Titanic Survival
 
 
 ## 3) Oosterhout Dataset: Classification

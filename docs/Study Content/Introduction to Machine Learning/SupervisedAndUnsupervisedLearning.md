@@ -43,7 +43,10 @@ Next, we're going to discuss how machine learning can be used to group and label
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IUn8k5zSI6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 2) Workshop on Supervised Vs Unsupervised Learning
-Now, we're introduced to the two flavours of machine learning it's time ground down these fundamental by doing a workshop. Open the [Basics of Machine Learning course](https://www.codecademy.com/learn/machine-learning) on Codecademy and complete the first module: **Introduction to Machine Learning**.
+Now, we're introduced to the two flavours of machine learning it's time ground down these fundamental by doing a workshop. Open the [Basics of Machine Learning course](https://www.codecademy.com/learn/machine-learning) on Codecademy and complete the first module: **Introduction to Machine Learning**, in particular:
+- Lesson: Why Use Machine Learning?
+- Article: Supervised vs. unsupervised
+- Article: Scikit-Learn Cheatsheet
 
 ## 3) Fun facts
 Here are some fun facts and interesting concepts for you to get familiar with! They are not part of the course or assessment but just good for you to know and helpful in your later career. You're familiar with correlation for example but you should have heard from the famous phrase: "correlation doesn't equal causation" when you watched [this video last block](https://youtu.be/GtV-VYdNt_g). But, watching a video and observing visualised data is different, why don't you follow this link and inspect [these spurious correlations](https://tylervigen.com/spurious-correlations) yourself? :)
@@ -52,7 +55,7 @@ And you're familiar with regression but the world isn't always that simple and s
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1tSqSMOyNFE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## 4)  Next up!
+## Next up!
 Coming Datalab we will reflect on supervised and machine learning again and give you an opportunity to ask any questions you might have.
 
 Tomorrow, we will cover regression algorithms!

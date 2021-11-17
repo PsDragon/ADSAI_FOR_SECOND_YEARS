@@ -18,6 +18,7 @@ Table of contents:
 4. Additional material (optional): 2 hours
    4.1. The learning curve
    4.2. Data encoding: One-hot encoding
+5. In-class Discussion
 
 ## Questions or issues?
 If you have any questions or issues regarding the course material, please first ask your peers or ask us if you can't figure it out together!
@@ -124,6 +125,8 @@ pandas:
 ## 5) In-Class discussion
 At 16:30, there's a meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today's activities.
 
+
+## Up Next
 Next week, we will start climbing in some Decision Trees.
 
 <figure>

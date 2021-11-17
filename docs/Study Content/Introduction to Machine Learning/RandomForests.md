@@ -11,8 +11,7 @@ OR
 We'll get back to decision trees in year 2, so you won't miss out; don't worry!
 
 ## 0) Learning Objectives:
-Text:
-1. ...
+1. Become more comfortable and competent in understanding and applying tree-based analyses.
 
 Table of contents:
 1. Introduction to concepts: X hours
@@ -20,8 +19,11 @@ Table of contents:
 
 
 ## Questions or issues?
-If you have any questions or issues regarding the course material, please first ask your peers or ask us in the daily Q&A at 16:00!
+If you have any questions or issues regarding the course material, please first ask your peers or ask us in the Q&A in Datalab!
 
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Tip: Note down any important questions you might have!
+ </div>
 
 
 Good luck!
@@ -40,10 +42,12 @@ Now, we're introduced to TOPIC it's time ground down these fundamental by doing 
 
 
 
-# 3) Daily Q&A
-At 16:00, there's a online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
+# 3) Q&A
+Coming Datalab we will reflect on tree-based analyses again and give you an opportunity to ask any questions you might have.
 
-Tomorrow we will cover TOPIC!
+
+## Up Next!
+Tomorrow we will apply a tree-based analyses on our research problem/question for the Oosterhout Dataset! You're also given extra time to work on other stuff or complete the random forests course material on codecademy.
 
 ## Resources
 - [Codecademy](https://www.codecademy.com/learn/machine-learning)

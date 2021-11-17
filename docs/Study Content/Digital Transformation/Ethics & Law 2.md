@@ -56,7 +56,7 @@ __3d__ Answer questions below:
 2. For what type of data companies need a consent from people?
 3. Which organization can hold your data without “a right to be forgotten”?
 
-__3e__ Read Chapters 2 & 3 of the General Data Protection Regulation by clicking this link.
+__3e__ Read Chapters 2 & 3 of the General Data Protection Regulation (2019) by clicking [this link](https://gdpr-info.eu/).
 
 __3f__ Answer questions below:
 1. Should a controller provide the details of a data protection officer?

@@ -10,6 +10,7 @@ sort: 4
 
 Artificial intelligence (AI) is an emerging field that leads to enormous new business opportunities. The growth of AI and its broad application has great economic benefits, however also results in serious societal implications.   Therefore questions of ethics are becoming vital, as AI systems might be negatively biased that can negatively impact our lives Thus different concepts and frameworks need to be taken into consideration while developing AI.
 During the first independent study day, you will get insights into DEDA Framework, learn about Ethical Decision Making and prepare for the Socratics debate that will be held during tomorrow’s Data Lab.
+
 If you have questions regarding the study material, you can send us an email or ask your questions during DataLab sessions.
 
 __Make sure to upload all the answers to the questions listed below to your GitHub account.__

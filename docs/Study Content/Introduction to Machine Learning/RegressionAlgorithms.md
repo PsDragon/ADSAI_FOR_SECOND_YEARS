@@ -18,7 +18,7 @@ Table of contents:
 
 
 ## Questions or issues?
-If you have any questions or issues regarding the course material, please first ask your peers or ask us in the daily Q&A at 16:00!
+If you have any questions or issues regarding the course material, please first ask your peers or ask us in the Q&A in Datalab!
 
 
 Good luck!
@@ -33,7 +33,7 @@ Regression analyses, whether they are linear, multiple or logistic, are a very p
 
 <figure>
     <img src=".\images\RegressionToTheMeme.jpg" />
-    <figcaption>Regression to the Meme</figcaption>
+    <figcaption>Regression to the Meme haha. </figcaption>
 </figure>
 <br>
 
@@ -42,7 +42,7 @@ Now, we refreshed our knowledge on regression, it's time to deepen our understan
 
 
 # 3) Daily Q&A
-At 16:00, there's an online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
+Coming Datalab we will reflect on regression algorithms again and give you an opportunity to ask any questions you might have.
 
 Tomorrow we will do a mock-assessment with the famous Yelp data and we start working on our analyses for the Oosterhout Dataset!
 

@@ -87,7 +87,7 @@ At the beginning of the project, you will be introduced to the use-case by a dat
 [DataLab: Advanced visuals & Analyzing data in Power BI](../../Study%20Content/Business%20Intelligence/DataLab3_AnalyzingDataPowerBI.html)
 
 ## Wednesday
-[Supervised and Unsupervised Learning](../../Study%20Content/Introduction%20to%20Machine%20Learning/SupervisedAndUnsupervisedLearningModelEvaluation.html)
+[Supervised and Unsupervised Learning](../../Study%20Content/Introduction%20to%20Machine%20Learning/SupervisedAndUnsupervisedLearning.html)
 
 ## Thursday
 [Regression Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/RegressionAlgorithms.html)

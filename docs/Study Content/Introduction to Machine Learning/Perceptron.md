@@ -49,7 +49,10 @@ __1b__ Define the term 'perceptron'. Write your answer down (maximum of 100 word
 __1c__ Provide at least one advantage, and one limitation of the perceptron algorithm. Elaborate on your answer.
 
 ## 2) Workshop
-Now, we're introduced to the perceptron it's time to ground down these fundamentals by doing a workshop. Open the [Basics of Machine Learning course](https://www.codecademy.com/learn/machine-learning) on Codecademy and complete the module: **Perceptron**.
+Now, we're introduced to the perceptron it's time to ground down these fundamentals by doing a workshop. Open the [Basics of Machine Learning course](https://www.codecademy.com/learn/machine-learning) on Codecademy and complete the module: **Perceptron**, specifically:
+- Lesson: Perceptron
+- Quiz: Perceptron
+- Project: Perceptron Logic Gates
 
 ## 3) Additional material (optional)
 

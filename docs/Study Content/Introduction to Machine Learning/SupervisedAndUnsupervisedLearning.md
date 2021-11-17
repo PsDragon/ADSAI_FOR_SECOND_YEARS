@@ -23,9 +23,11 @@ Table of contents:
 
 
 ## Questions or issues?
-If you have any questions or issues regarding the course material, please first ask your peers or ask us in the daily Q&A at 16:00!
+If you have any questions or issues regarding the course material, please first ask your peers or ask us in the Q&A in Datalab!
 
-
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Tip: Note down any important questions you might have!
+ </div>
 
 Good luck!
 
@@ -43,10 +45,17 @@ Next, we're going to discuss how machine learning can be used to group and label
 ## 2) Workshop on Supervised Vs Unsupervised Learning
 Now, we're introduced to the two flavours of machine learning it's time ground down these fundamental by doing a workshop. Open the [Basics of Machine Learning course](https://www.codecademy.com/learn/machine-learning) on Codecademy and complete the first module: **Introduction to Machine Learning**.
 
-## 3)  Daily Q&A
-At 16:00, there's an online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
+## 3) Fun facts
+Here are some fun facts and interesting concepts for you to get familiar with! They are not part of the course or assessment but just good for you to know and helpful in your later career. You're familiar with correlation for example but you should have heard from the famous phrase: "correlation doesn't equal causation" when you watched [this video last block](https://youtu.be/GtV-VYdNt_g). But, watching a video and observing visualised data is different, why don't you follow this link and inspect [these spurious correlations](https://tylervigen.com/spurious-correlations) yourself? :)
 
-Tomorrow we will cover regression algorithms!
+And you're familiar with regression but the world isn't always that simple and sometimes an effect is just an anomaly (something that deviates from what is standard, normal, or expected.)!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1tSqSMOyNFE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## 4)  Next up!
+Coming Datalab we will reflect on supervised and machine learning again and give you an opportunity to ask any questions you might have.
+
+Tomorrow, we will cover regression algorithms!
 
 
 ## Resources

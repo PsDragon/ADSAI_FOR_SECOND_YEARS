@@ -48,3 +48,4 @@ Tip: the exercise is format-free, meaning you can answer in any way or form you 
 
 
 ## __Literature__
+Dignum, V. (2019). *Responsible Artificial Intelligence: How to Develop and Use AI in a Responsible Way (Artificial Intelligence: Foundations, Theory, and Algorithms).* (Freely accessible through Springer using BUAS login)

@@ -150,10 +150,10 @@ At the beginning of the project, you will be introduced to the use-case by a dat
 # Week 8 : Neural networks and it's a wrap!
 
 ## Monday
-[Perceptron Algorithm and Gradient Descent](../../Study%20Content/Introduction%20to%20Machine%20Learning/Perceptron.html)
+[Perceptron Algorithm](../../Study%20Content/Introduction%20to%20Machine%20Learning/Perceptron.html)
 
 ## Tuesday
-[DataLab: Perceptron and Gradient Descent](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab04_PerceptronAndGradientDescent.html)
+[DataLab: Perceptron](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab04_Perceptron.html)
 
 ## Wednesday
 [Prepare business case presentation]

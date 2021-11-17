@@ -4,31 +4,33 @@ sort: 5
 
 # Datalab 01: Classification Algorithms
 
-We start with ... In addition, you will be made familiar with a technique called learning curves. Lastly, you will be introduced to an important pre-processing step - i.e. data encoding.
+We start with a Q&A and reflection on classification algorithms. Then, we will apply our newly learned techniques on the Yelp dataset again by performing a logistic regression! Subsequently, we will perform a logistic regression on our Oosterhout dataset; in line with our research problem! As an extra you are offered some extra material to get familiar with a technique called learning curves. Lastly, you will be introduced to an important pre-processing step - i.e. data encoding.
 
 ## 0) Learning Objectives:
-Text:
-1. ...
+1. Formulate, apply and create a logistic regression analyses to real-world data.
 2. Implement, visualize, and evaluate a learning curve of a model trained on the youth care dataset (optional)
 3. Apply one-hot encoding to the youth care dataset (optional)
 
 Table of contents:
-1. ...: Y hours
-2.
-3. Oosterhout Dataset: Classification Analysis: Z hours
+1. Q&A: 0.5 hours
+2. Titanic Regression Project: 3 hours
+3. Oosterhout Dataset: Classification Analysis: 3 hours
 4. Additional material (optional): 2 hours
    4.1. The learning curve
    4.2. Data encoding: One-hot encoding
 
 ## Questions or issues?
-If you have any questions or issues regarding the course material, please first ask your peers or ask us in the in-class discussion at 16:00!
+If you have any questions or issues regarding the course material, please first ask your peers or ask us if you can't figure it out together!
+
 
 
 Good luck!
 
+## 1) Q & A
+We start by briefly reflecting on what we learned about classification algoritms, overfitting and the bias-variance trade-off. Do you have any questions? Now is the time to ask them!
 
-## 2) Yelp Regression Project
-Now, we're introduced to TOPIC it's time ground down these fundamentals by doing a workshop. Open the [Basics of Machine Learning course](https://www.codecademy.com/learn/machine-learning) on Codecademy and complete the first module: **Logistic Regression**.
+## 2) Titanic Regression Project
+Now, we're introduced to classification algorithms it's time ground down these fundamentals by doing a workshop. Open the [Basics of Machine Learning course](https://www.codecademy.com/learn/machine-learning) on Codecademy and complete the first module: **Logistic Regression**.
 
 
 ## 3) Oosterhout Dataset: Classification
@@ -120,12 +122,15 @@ pandas:
 - [get_dummies()](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.get_dummies.html)
 
 ## 5) In-Class discussion
-At 16:00, there's a meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today's activities.
+At 16:30, there's a meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today's activities.
 
-Next week, we will start diving into Topic.
+Next week, we will start climbing in some Decision Trees.
 
-Next week, we will cover TOPIC!
-
+<figure>
+    <img src=".\images\TreeClimbing.jpg" />
+    <figcaption>Climbing trees involves making numerous decision, next week we'll cover how you make such decision mathematically. </figcaption>
+</figure>
+<br>
 
 ## Resources
 - [Codecademy](https://www.codecademy.com/learn/machine-learning)

@@ -96,9 +96,9 @@ Each colour block corresponds to a specific criterion of ILO 4.1. To attain a ce
 
 __Deliverable(s):__
 
-- A Jupyter Notebook with the answers to the SQL assignment questions (i.e. SQL code, query output, and additional written/drawn explanations).
+- A .sql-file, and a picture with the answers to the SQL assignment questions (i.e. SQL code, and additional written/drawn explanations).
 
-The Jupyter notebook file is to be uploaded to GitHub Classroom no later than 5pm on last DataLab day. Confer with a lecturer beforehand if you are handing in something other than a Jupyter Notebook.
+The .sql-file, and the picture with the ERD are to be uploaded to GitHub Classroom no later than 5pm on last DataLab day. Confer with a lecturer beforehand if you are handing in something other than a .sql-file and/or picture.
 
 ***
 

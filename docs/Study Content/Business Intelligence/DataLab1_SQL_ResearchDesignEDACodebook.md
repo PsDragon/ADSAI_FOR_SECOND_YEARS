@@ -96,13 +96,7 @@ Consequently, the main research question can be constructed as follows:
 
 __How can we make youth care more financially and administratively manageable?__
 
-More specifically, they want to answer the following sub-questions:
-
-1.	Identify the ‘zorgpaden’, and predict the odds of ‘opschalen’ within these ‘zorgpaden’.
-2.	Explain the difference between youth care suppliers in terms of ‘indicatietijd’ and ‘zorgduur’.
-3.	Identify the characteristics that influence the amount of youth care provided on a neighbourhood level.
-
-At the beginning of the project, you will be asked to pick one of these sub-questions or to come up with one yourself. During the project, you will work on finding an appropriate answer to your chosen sub-question by applying various BI and ML techniques.
+During the project, you will work on finding an appropriate answer to the research question by applying various BI and ML techniques.
 
 ***
 

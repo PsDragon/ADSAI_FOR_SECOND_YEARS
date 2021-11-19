@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-## __Introduction to BI: Data architecture & pipeline design__
+## __Data engineering: Data architecture & pipeline design__
 \
 \
 <img src="./images/books_banner.png" alt="Books banner" width="600"/>

@@ -19,16 +19,16 @@ At the beginning of the project, you will be introduced to the use-case by a dat
 </figure>
 <br>
 
-- [Introduction to Business Intelligence](../../Study%20Content/Business%20Intelligence/BusinessIntelligenceBlockBVersion3.html)
+- [Business Intelligence](../../Study%20Content/Business%20Intelligence/BusinessIntelligenceBlockBVersion3.html)
 - [Machine Learning and Mathematics](../../Study%20Content/Mathematics%20I/5.%20DataLab2.html)
 - [Ethics and Legal Frameworks](../../Study%20Content/Digital%20Transformation/Ethics%20&%20Law.html)
 
 # Block Outline
 
-# Week 1 : Introduction to Business Intelligence (SQL)
+# Week 1 : Business Intelligence (SQL)
 
 ## Monday
-- [Introduction to BI: Data architecture & Pipeline design](../../Study%20Content/Business%20Intelligence/DataArchitecturePipelineDesign.html)
+- [Data engineering: Data architecture & Pipeline design](../../Study%20Content/Business%20Intelligence/DataArchitecturePipelineDesign.html)
 - [SQL: Data Definition Language (DDL) clauses 1 & Data Manipulation Language (DML) clauses](../../Study%20Content/Business%20Intelligence/SQL_DDL1_DML.html)
 - [Markdown template (optional)](../../Study%20Content/Business%20Intelligence/homework_markdown_template.html)
 
@@ -61,7 +61,7 @@ At the beginning of the project, you will be introduced to the use-case by a dat
 ## Friday
 [DataLab: Debates: Can AI Systems Be Ethical?](../../Study%20Content/Digital%20Transformation/DataLab%202.html)
 
-# Week 3 : Introduction to Business Intelligence (Power BI)
+# Week 3 : Business Intelligence (Power BI)
 
 ## Monday
 [Getting started with Power BI & Prepare data for analysis with Power BI](../../Study%20Content/Business%20Intelligence/DataPrepaparationCleanTransformLoadPowerBI.html)
@@ -78,7 +78,7 @@ At the beginning of the project, you will be introduced to the use-case by a dat
 ## Friday
 [DataLab: Basic visuals & DAX in Power BI](../../Study%20Content/Business%20Intelligence/DataLab2_CreatingVisualsDAXPowerBI.html)
 
-# Week 4 : Introduction to Business Intelligence (Power BI) & Machine Learning
+# Week 4 : Business Intelligence (Power BI) & Machine Learning
 
 ## Monday
 [Data analysis & Managing workspaces/datasets in Power BI](../../Study%20Content/Business%20Intelligence/DataAnalysisManagingWorkspacesDatasetsPowerBI.html)

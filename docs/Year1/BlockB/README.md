@@ -29,8 +29,8 @@ At the beginning of the project, you will be introduced to the use-case by a dat
 
 ## Monday
 [Data engineering: Data architecture & Pipeline design](../../Study%20Content/Business%20Intelligence/DataArchitecturePipelineDesign.html)
-[SQL: Data Definition Language (DDL) clauses 1 & Data Manipulation Language (DML) clauses](../../Study%20Content/Business%20Intelligence/SQL_DDL1_DML.html)
-[Markdown template (optional)](../../Study%20Content/Business%20Intelligence/homework_markdown_template.html)
+<br>[SQL: Data Definition Language (DDL) clauses 1 & Data Manipulation Language (DML) clauses](../../Study%20Content/Business%20Intelligence/SQL_DDL1_DML.html)
+<br>[Markdown template (optional)](../../Study%20Content/Business%20Intelligence/homework_markdown_template.html)
 
 ## Tuesday
 [DataLab: Research design, EDA, and codebook](../../Study%20Content/Business%20Intelligence/DataLab1_SQL_ResearchDesignEDACodebook.html)

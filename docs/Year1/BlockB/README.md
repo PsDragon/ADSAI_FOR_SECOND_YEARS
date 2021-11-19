@@ -20,7 +20,8 @@ At the beginning of the project, you will be introduced to the use-case by a dat
 <br>
 
 - [Business Intelligence](../../Study%20Content/Business%20Intelligence/BusinessIntelligenceBlockBVersion3.html)
-- [Machine Learning and Mathematics](../../Study%20Content/Mathematics%20I/5.%20DataLab2.html)
+- [Mathematics](../../Study%20Content/Mathematics%20I/5.%20DataLab2.html)
+- [Machine Learning](../../Study%20Content/Mathematics%20I/5.%20DataLab2.html)
 - [Ethics and Legal Frameworks](../../Study%20Content/Digital%20Transformation/Ethics%20&%20Law.html)
 
 # Block Outline

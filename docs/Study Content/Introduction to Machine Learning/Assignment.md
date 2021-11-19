@@ -2,9 +2,9 @@
 sort: 15
 ---
 
-# Introduction to Machine Learning
+# Final Assignment: Machine Learning Analysis
 
-## Assignment: Data Analysis
+## Pre-requisites
 
 By the time we start exploring machine learning you should have:
 1. created a research questions based on the problem statement;

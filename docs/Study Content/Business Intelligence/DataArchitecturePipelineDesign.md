@@ -14,7 +14,7 @@ Hi everyone! Today we are going to start with Block B (Spoiler: We are going to 
 
 For the first half of the day, you will be made familiar with the core concepts of data architecture & pipeline design. For example, you will explore the ETL process and learn how to design tables in a data warehouse.
 
-If you have questions regarding the study material, you can send us an email or attend the Q&A session at the end of each independent study day. During the Q&A session, we will extensively discuss the independent study material. For details on availability see Project Brief.
+If you have questions regarding the study material, you can send us an email. For details on availability see Project Brief.
 
 __1a__ Complete module ```1. Data Warehouse Foundations``` of the LinkedIn course Implementing a Data Warehouse SQL Server 2019 by Adam Wilbert, which you can find [here](https://www.linkedin.com/learning/implementing-a-data-warehouse-sql-server-2019/data-warehouse-core-concepts?u=36359204).
 
@@ -35,11 +35,11 @@ __2b__ List three core concepts of a data warehouse. Write your answer down.
 __2c__ List at least one benefit and one weakness of using a data warehouse. Provide a context, i.e. business setting, for each of your benefit(s)/weakness(es). Write your answer down in a maximum of 150 words.
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: Want to explore another, increasingly popular, data management system, check out PricewaterhouseCoopers' article on data lakes: <a href="(./documents/pwc-technology-forecast-data-lakes.pdf">The enterprise data lake:
+Tip: Want to explore another, increasingly popular, data management system, check out PricewaterhouseCoopers' article on data lakes: <a href="./documents/pwc-technology-forecast-data-lakes.pdf">The enterprise data lake:
 Better integration and deeper analytics</a>.
 </div>
 
-__2d__ Read IBM's blog on OLAP and OLTP systems, which  you can find [here](https://www.ibm.com/cloud/blog/olap-vs-oltp).
+__2d__ Read IBM's blog on OLAP and OLTP systems, which  you can find, [here](https://www.ibm.com/cloud/blog/olap-vs-oltp).
 
 __2e__ As a data analyst, you are given the task to provide a list of the company's top 10 best-selling items. Should you retrieve your data from the company's OLAP or OLTP system? Explain your answer.
 

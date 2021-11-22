@@ -14,9 +14,15 @@ In today's DataLab session, we will start working on the Creative Brief. First, 
 
 ***
 
-### 2. Q&A
+### 2. Q&A and Standup
 
 __2a__ Ask questions regarding the independent study material.
+
+__2b__ Answer the following questions:
+
+- What did you do yesterday?
+- What will you do today?
+- Are there any impediments in your way?
 
 ***
 

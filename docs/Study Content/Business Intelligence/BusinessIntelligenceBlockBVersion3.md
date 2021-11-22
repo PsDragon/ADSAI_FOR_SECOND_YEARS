@@ -36,7 +36,7 @@ LEVEL 2 ('Sufficient')
 
 <br>Intermediate SQL queries
 
-<br>A) Prepare, and run SQL queries that use COUNT, SUM, MIN, MAX, AVG, GROUP BY, DISTICT, HAVING, DATE, and CASE.
+<br>A) Prepare, and run SQL queries that use COUNT, SUM, MIN, MAX, AVG, GROUP BY, DISTICT, DISTICT ON, HAVING, DATE, and CASE.
 
 </div>
 

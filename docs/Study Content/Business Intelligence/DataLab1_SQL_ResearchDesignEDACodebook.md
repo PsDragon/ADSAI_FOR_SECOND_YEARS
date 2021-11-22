@@ -14,7 +14,13 @@ In today's DataLab session, we will start working on the Creative Brief. First, 
 
 ***
 
-### 2. Workshop
+### 2. Q&A
+
+__2a__ Ask questions regarding the independent study material.
+
+***
+
+### 3. Workshop
 
 The workshop consists of two parts: A guest lecture, and a Q&A session by the data coordinator of the municipality of Oosterhout, [Joeri de Jong](https://nl.linkedin.com/in/j-dejong/nl). During the lecture, you will be introduced to the youth care pilot. Schedule:
 
@@ -28,9 +34,9 @@ Tip: If you were not able to install the PostgreSQL server and/or client on Mond
 
 ***
 
-### 3. Project Brief: Background information
+### 4. Project Brief: Background information
 
-#### 3.1 What is a data analyst?
+#### 4.1 What is a data analyst?
 
 A data analyst serves as a gatekeeper of the organization’s data collection, ensuring that the stakeholders can make informed decisions based on accurate, correct, and complete data.
 
@@ -56,7 +62,7 @@ Tip: If you want to get a better understanding of the daily tasks and responsibi
 
 ***
 
-#### 3.2 Youth care policy
+#### 4.2 Youth care policy
 
 With the introduction of the new Child and Youth Act in 2015, all Dutch municipalities were made responsible for the whole spectrum of care for people between the ages of 0 to 18 in need of help. As of today, 355 municipalities oversee a wide range of youth care services, ranging from preventive services to highly specialised, including both voluntary and compulsory, care.
 
@@ -78,29 +84,19 @@ Robin van der Helm, an alderman responsible for the youth care system in the mun
 
 ***
 
-#### 3.3 Equalit: Youth care pilot
+#### 4.3 Equalit: Youth care pilot
 
-Equalit is an ICT partnership of, and for local authorities located within the regions of Mid- and West-Brabant. Started in 2005 as a collaboration between the municipality of Oosterhout and Oisterwijk, it aims to provide high-quality ICT support at low costs. Equalit provides services to a total of 13 participants, seven of them are currently involved in this inter-municipal youth care pilot:
+Equalit is an ICT partnership of, and for local authorities located within the regions of Mid- and West-Brabant. Started in 2005 as a collaboration between the municipality of Oosterhout and Oisterwijk, it aims to provide high-quality ICT support at low costs. Equalit provides services to a total of 13 participants, seven of them are currently involved in a inter-municipal youth care pilot:
 
 - Oosterhout (lead municipality)
 - Alphen-Chaam, Baarle-Nassau and Gilze-Rijen (ABG-municipalities)
 - Goirle, Hilvarenbeek and Oisterwijk (GHO-municipalities)
 
-***
-
-#### 3.4 Research question
-
-With the intermunicipal youth care pilot, Oosterhout and the other participating municipalities, aim to decrease the administrative load and costs associated with youth care.
-
-Consequently, the main research question can be constructed as follows:
-
-__How can we make youth care more financially and administratively manageable?__
-
-During the project, you will work on finding an appropriate answer to the research question by applying various BI and ML techniques.
+To ensure more efficient, coherent and cost-effective youth care systems, Oosterhout and the other participating municipalities in the pilot, developed a shared data warehouse, and dashboard for their youth care data (For more information, see guest lecture by Joeri de Jong).
 
 ***
 
-#### 3.5 Processes
+#### 4.4 Processes
 
 The Dutch youth care system is complex. The processes and stakeholders driving the Dutch youth care system are, for example, often interdependent. A simplified explanation of the youth care process can be found in Figure 3.
 
@@ -163,9 +159,9 @@ Detailed information on the youth care processes (in Dutch), can be found on the
 
 ***
 
-### 4. Exploratory Data Analysis (EDA)
+### 5. Exploratory Data Analysis (EDA)
 
-__4a__ Perform an EDA on the youth care dataset.
+__5a__ Perform an EDA on the youth care dataset.
 
 If you want to explore the full youth care dataset you need to install [Power BI](https://powerbi.microsoft.com/en-gb/desktop/) because the original data model is stored in a [pbix. file](.data\DatamodeljeugdTESTDATA.pbix).
 
@@ -185,9 +181,26 @@ Useful libraries/packages:
 - Python: pandas, numpy, matplotlib, and seaborn.
 - R: psych, and ggplot2.
 
-__4b__ Come up with at least three questions related to the main research question. Write them down.
+__5b__ Come up with at least one research question (For problem statement, see Creative Brief!). Write them down.
 
 __You can find the youth care dataset codebook, [here](.\data\DatabaseDocumentatiedatamodelJeugdOosterhout.pdf).__
+
+***
+
+### 6. Reflection & Work/learning log (16:00-17:00)
+
+__6a__ Fill in your work/learning log.
+
+__6b__ Choose, and provide an answer to at least of the following questions:
+
+1. What surprised you today, and why?
+2. What is the most important thing you learned today? Why do you think so?
+3. What do you want to learn more about, and why?
+4. When were you the most creative, and why do you think that is?
+5. What made you curious today? How does learning feel different when you are curious?
+6. When were you at your best today, and why?
+7. (Assuming we were studying the same thing and you could decide and have access to anything), where would you start tomorrow? Why?
+8. What can/should you do with what you know?
 
 ***
 

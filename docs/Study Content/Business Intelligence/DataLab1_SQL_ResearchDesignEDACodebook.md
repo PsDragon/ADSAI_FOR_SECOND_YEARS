@@ -169,7 +169,7 @@ Detailed information on the youth care processes (in Dutch), can be found on the
 
 __5a__ Perform an EDA on the youth care dataset.
 
-If you want to explore the full youth care dataset you need to install [Power BI](https://powerbi.microsoft.com/en-gb/desktop/) because the original data model is stored in a [pbix. file](.data\DatamodeljeugdTESTDATA.pbix).
+If you want to explore the full youth care dataset you need to install [Power BI](https://powerbi.microsoft.com/en-gb/desktop/) because the original data model is stored in a pbix. file, which you can find in the Teams folder Class Materials/Business Intelligence/Data. 
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #a94442; background-color: #f2dede; border-color: #ebccd1;">
 Alert: If you are working with the pbix. file (a.k.a table jungle), try to focus on the table 'Toewijzingen'. Most of the information you will need for your analyses will be stored here.

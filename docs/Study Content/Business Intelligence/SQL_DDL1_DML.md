@@ -50,6 +50,8 @@ __3c__ Install a PostgreSQL compatible client:
 - [DBeaver](https://dbeaver.io/download/)
 - etc.
 
+__3d__ Connect PostgreSQL client to server. For PgAdmin, see online [tutorial](https://www.postgresqltutorial.com/connect-to-postgresql-database/).
+
 ***
 
 ### 4. Manipulating a database

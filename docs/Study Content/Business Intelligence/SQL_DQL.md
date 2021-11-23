@@ -159,7 +159,7 @@ Do you have time left, and want to stay on track to eventually become a data wra
 
 __Interactive exercises:__
 - PostgreSQL Exercises: [All remaining exercises, except the ones listed under the header 'Recursive'](https://pgexercises.com/).
-- Intro to SQL: Querying and managing data: [All remaining exercises](hhttps://www.khanacademy.org/computing/computer-programming/sql/).
+- Intro to SQL: Querying and managing data: [All remaining exercises](https://www.khanacademy.org/computing/computer-programming/sql/).
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Tip: Select your practice exercises wisely, not all are relevant for the assignment (See Assignment Part 1 requirements in the Project Brief).

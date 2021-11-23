@@ -18,7 +18,7 @@ __Make sure to upload all the answers to the questions listed below to your GitH
 
 ### 2. Ethical Guidelines for Statistical Practice.
 
-__2a__ Read the Ethical Guidelines for Statistical Practice
+__2a__ Read the Ethical [Guidelines for Statistical Practice](.\images\EthicalGuidelines.pdf).
 
 __2b__ Answer questions related to the Ethical Guidelines for Statistical Practice.
 1. What do professional Integrity and accountability of an ethical statistician should include?

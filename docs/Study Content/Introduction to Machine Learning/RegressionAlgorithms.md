@@ -18,8 +18,11 @@ Table of contents:
 
 
 ## Questions or issues?
-If you have any questions or issues regarding the course material, please first ask your peers or ask us in the daily Q&A at 16:00!
+If you have any questions or issues regarding the course material, please first ask your peers or ask us in the Q&A in Datalab!
 
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Tip: Note down any important questions you might have!
+ </div>
 
 Good luck!
 
@@ -33,16 +36,23 @@ Regression analyses, whether they are linear, multiple or logistic, are a very p
 
 <figure>
     <img src=".\images\RegressionToTheMeme.jpg" />
-    <figcaption>Regression to the Meme</figcaption>
+    <figcaption>Regression to the Meme haha. </figcaption>
 </figure>
 <br>
 
 ## 2) Workshop
-Now, we refreshed our knowledge on regression, it's time to deepen our understanding of regression by doing a workshop. Open the [Basics of Machine Learning course](https://www.codecademy.com/learn/machine-learning) on Codecademy and complete the modules: **Linear Regression** and **Multiple Linear Regression**.
+Now, we refreshed our knowledge on regression, it's time to deepen our understanding of regression by doing a workshop. Open the [Basics of Machine Learning course](https://www.codecademy.com/learn/machine-learning) on Codecademy and complete the modules: **Linear Regression** and **Multiple Linear Regression**, specifically:
+- Lesson: Linear Regression
+- Quiz: Linear Regression
+- Project: Honey Production
+- Article: StreetEasy Dataset
+- Lesson: Multiple Linear Regression
+- Quiz: Multiple Linear Regression
 
 
-# 3) Daily Q&A
-At 16:00, there's an online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
+
+## Up Next!
+Coming Datalab we will reflect on regression algorithms again and give you an opportunity to ask any questions you might have.
 
 Tomorrow we will do a mock-assessment with the famous Yelp data and we start working on our analyses for the Oosterhout Dataset!
 

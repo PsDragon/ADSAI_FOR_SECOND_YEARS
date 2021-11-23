@@ -9,8 +9,8 @@ sort: 4
 ### 1. Introduction
 
 During today’s self –study day you will learn several concepts associated with ethics and law in the field of Artificial Intelligence and Data Science.  You begin your day with learning how to make statistical decisions ethically and later on you will explore the The General Data Protection Regulation (GDPR) and The Assessment List on Trustworthy Artificial Intelligence.
-If you have questions regarding the study material, you can send us an email or attend the Q&A   session at the end of each self-study day. During the Q&A session, we will extensively discuss the independent study material. For details on availability see Project Brief.
 
+If you have questions regarding the study material, you can send us an email or ask your questions during DataLab sessions.
 
 __Make sure to upload all the answers to the questions listed below to your GitHub account.__
 
@@ -56,7 +56,7 @@ __3d__ Answer questions below:
 2. For what type of data companies need a consent from people?
 3. Which organization can hold your data without “a right to be forgotten”?
 
-__3e__ Read Chapters 2 & 3 of the General Data Protection Regulation.
+__3e__ Read Chapters 2 & 3 of the General Data Protection Regulation (2019) by clicking [this link](https://gdpr-info.eu/).
 
 __3f__ Answer questions below:
 1. Should a controller provide the details of a data protection officer?
@@ -87,3 +87,6 @@ Tip: the exercise is format-free, meaning you can answer in any way or form you 
 
 
 ## __Literature__
+Committee on Professional Ethics of the American Statistical Association (2018, April 14). *Ethical Guidelines for Statistical Practice.* https://www.amstat.org//asa/files/pdfs/EthicalGuidelines.pdf
+
+*General Data Protection Regulation (GDPR) – Official Legal Text.* (2019, 2 september). General Data Protection Regulation (GDPR). https://gdpr-info.eu/

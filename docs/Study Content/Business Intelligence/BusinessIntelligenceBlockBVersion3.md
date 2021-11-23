@@ -10,7 +10,7 @@ sort: 2
 
 By now you should have mastered the basics of SQL and data architecture & pipeline design (Datalab 2, Week 1). The knowledge you acquired so far will enable you to complete this section of the assignment. You will work with two data sources:
 
-1. A PostgreSQL database containing both socio-economic and health data. Hereinafter, [data collection 1](./data/data_collection1.tar).
+1. A PostgreSQL database containing both socio-economic and health data. Hereinafter, [data collection 1](./data/data_collection1).
 2. A csv./flat-file containing health data. Hereinafter, [data collection 2](./data/health.csv).
 
 <img src="./images/sql_meme.png" alt="SQL meme" width="350"/> \
@@ -36,7 +36,7 @@ LEVEL 2 ('Sufficient')
 
 <br>Intermediate SQL queries
 
-<br>A) Prepare, and run SQL queries that use COUNT, SUM, MIN, MAX, AVG, GROUP BY, DISTICT, HAVING, DATE, and CASE.
+<br>A) Prepare, and run SQL queries that use COUNT, SUM, MIN, MAX, AVG, GROUP BY, DISTICT, DISTICT ON, HAVING, DATE, and CASE.
 
 </div>
 
@@ -96,9 +96,9 @@ Each colour block corresponds to a specific criterion of ILO 4.1. To attain a ce
 
 __Deliverable(s):__
 
-- A Jupyter Notebook with the answers to the SQL assignment questions (i.e. SQL code, query output, and additional written/drawn explanations).
+- A .sql-file, and a picture with the answers to the SQL assignment questions (i.e. SQL code, and additional written/drawn explanations).
 
-The Jupyter notebook file is to be uploaded to GitHub Classroom no later than 5pm on last DataLab day. Confer with a lecturer beforehand if you are handing in something other than a Jupyter Notebook.
+The .sql-file, and the picture with the ERD are to be uploaded to GitHub Classroom no later than 5pm on last DataLab day. Confer with a lecturer beforehand if you are handing in something other than a .sql-file and/or picture.
 
 ***
 

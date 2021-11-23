@@ -20,8 +20,11 @@ Table of contents:
 
 
 ## Questions or issues?
-If you have any questions or issues regarding the course material, please first ask your peers or ask us in the daily Q&A at 16:00!
+If you have any questions or issues regarding the course material, please first ask your peers or ask us in the Q&A in Datalab!
 
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Tip: Note down any important questions you might have!
+ </div>
 
 
 Good luck!
@@ -46,7 +49,10 @@ __1b__ Define the term 'perceptron'. Write your answer down (maximum of 100 word
 __1c__ Provide at least one advantage, and one limitation of the perceptron algorithm. Elaborate on your answer.
 
 ## 2) Workshop
-Now, we're introduced to the perceptron it's time to ground down these fundamentals by doing a workshop. Open the [Basics of Machine Learning course](https://www.codecademy.com/learn/machine-learning) on Codecademy and complete the module: **Perceptron**.
+Now, we're introduced to the perceptron it's time to ground down these fundamentals by doing a workshop. Open the [Basics of Machine Learning course](https://www.codecademy.com/learn/machine-learning) on Codecademy and complete the module: **Perceptron**, specifically:
+- Lesson: Perceptron
+- Quiz: Perceptron
+- Project: Perceptron Logic Gates
 
 ## 3) Additional material (optional)
 
@@ -61,8 +67,10 @@ __3c__  Write down the mathematical equation that represents the decision-bounda
 
 __3d__ After completing the Codecademy workshop, and the perceptron tutorial by Pablo Caceres, would you provide the same answer to exercise 1b? Explain your answer.
 
-# 4)  In-Class discussion
-At 16:00, there's an online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today's activities.
+## Next up!
+Coming Datalab we will reflect on the perceptron again and give you an opportunity to ask any questions you might have.
+
+In Datalab, we will apply the perceptron algorithm to the Oosterhout dataset in the context of our problem statement!
 
 ## Resources
 - [Codecademy](https://www.codecademy.com/learn/machine-learning)

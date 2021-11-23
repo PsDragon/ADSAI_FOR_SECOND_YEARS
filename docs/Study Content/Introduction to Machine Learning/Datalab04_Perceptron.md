@@ -112,6 +112,9 @@ scikit-learn:
 ## 3) In-Class discussion
 At 16:00, there's a meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today's activities.
 
+#3 Up next!
+There's no new material to be covered, you should use the remainder of your time to work on your project brief and make the best model; and dashboard, you can possibly make!
+
 
 ## Resources
 - [Codecademy](https://www.codecademy.com/learn/machine-learning)

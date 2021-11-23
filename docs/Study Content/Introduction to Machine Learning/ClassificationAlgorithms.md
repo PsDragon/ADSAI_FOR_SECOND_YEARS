@@ -4,37 +4,43 @@ sort: 4
 
 # Classifications Algorithms
 
-We start with ... Furthermore, you will be introduced to the variance-bias trade-off, which is an important concept in data science.
+We start with a workshop on classification where we compare it to our familiar regression algorithms! Then we look into a specific classification technique called K-Nearest Neighbors. Furthermore, you will be introduced to the variance-bias trade-off, which is an important concept in data science.
 
 ## 0) Learning Objectives:
-Text:
-1. ...
-2. Define the bias-variance trade-off
-3. Identify, and describe the phenomena of underfitting and overfitting
+0. understand the concept of Classification;
+1. apply K-K-Nearest Neighbors Classification in Python using scikit-learn;
+2. define the bias-variance trade-off;
+3. identify, and describe the phenomena of underfitting and overfitting.
 
 
 Table of contents:
-1. Introduction to concepts: X hours
-2. Workshop: Y hours
-3. The bias-variance trade-off (mandatory): 1 hour
-4. The bias-variance trade-off (optional): 0.5 hours
+1. Workshop: 6 hours
+2. The bias-variance trade-off (mandatory): 1 hour
+3. The bias-variance trade-off (optional): 0.5 hours
 
 
 ## Questions or issues?
-If you have any questions or issues regarding the course material, please first ask your peers or ask us in the daily Q&A at 16:00!
+If you have any questions or issues regarding the course material, please first ask your peers or ask us in the Q&A in Datalab!
 
-
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Tip: Note down any important questions you might have!
+ </div>
 
 Good luck!
 
 
-## 1) Introduction
-text
+## 1) Workshop
+Now, we're familiar with regression algorithms it's time to cover the next fundamental technique; classification, by doing a workshop. Open the [Basics of Machine Learning course](https://www.codecademy.com/learn/machine-learning) on Codecademy and complete the modules: **Classification Vs Regression** and **Classification: K-Nearest Neighbors**, specifically:
+- Article: Regression vs. Classification
+- Lesson: Distance Formula
+- Article: Normalization
+- Article: Training Set vs Validation Set vs Test Set
+- Lesson: K-Nearest Neighbors
+- Quiz: K-Nearest Neighbors
+- Project: Breast Cancer Classifier
 
-## 2) Workshop
-Now, we're introduced to TOPIC it's time to ground down these fundamentals by doing a workshop. Open the [Basics of Machine Learning course](https://www.codecademy.com/learn/machine-learning) on Codecademy and complete the modules: **Classification Vs Regression** and **Classification: K-Nearest Neighbors**.
 
-## 3) The bias-variance trade-off
+## 2) The bias-variance trade-off
 
 In today's Codecademy course material, you have learned how to split your dataset into a training, validation, and test set (i.e. holdout method). This is an essential part of the machine learning pipeline called model evaluation.
 
@@ -75,11 +81,10 @@ Tip: Want to learn more on the topic of model evaluation, see Raschka's <a href=
 Selection in Machine Learning</a> guide.
  </div>
 
-# 4) Daily Q&A
-At 16:00, there's an online meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today's activities.
+# Next up!
+Coming Datalab we will reflect on classification algorithms again and give you an opportunity to ask any questions you might have.
 
-Tomorrow we will cover TOPIC!
-
+Then we will apply our newly learned techniques on the Yelp dataset again by performing a logistic regression! Subsequently, we will perform a logistic regression on our Oosterhout dataset; in line with our research problem!
 
 
 ## Resources

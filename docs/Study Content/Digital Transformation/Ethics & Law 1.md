@@ -41,8 +41,8 @@ __3a__ What is DEDA framework?
 
 The Data Ethics Decision Aid for researchers is focused on making the dilemma of ethical decision-making explicit. The framework helps researchers reflect and justify their data-related decisions on ethical issues concerning data. DEDA is a survey that states a series of open questions.  DEDA can be used at any time during a research project. The questions stated in the survey simply function to increase awareness of certain ethical issues and help the researcher record their decision-making process.
 
-Please download DEDA framework by clicking this link.
-Please download DEDA handbook by clicking this link.
+Please download DEDA framework by clicking this [link](.\images\DEDAWorksheet_ENG.pdf). <br>
+Please download DEDA handbook by clicking this [link](.\images\DEDA-Handbook-ENG-V3.1-1.pdf).
 
 __3b__ Answer questions related to DEDA.
 1. What are the steps of DEDA framework?

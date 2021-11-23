@@ -116,7 +116,7 @@ By deploying SQL join statements you can get information from columns in more th
 *Figure 2. SQL joins & Set theory.*
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: Want to explore the mathematical foundations of these SQL join operators, see Khanacademy's <a href="(https://www.khanacademy.org/math/statistics-probability/probability-library/basic-set-ops/v/intersection-and-union-of-sets">Basic set operations</a> tutorial.
+Tip: Want to explore the mathematical foundations of these SQL join operators, see Khanacademy's <a href="https://www.khanacademy.org/math/statistics-probability/probability-library/basic-set-ops/v/intersection-and-union-of-sets">Basic set operations</a> tutorial.
 </div>
 
 __4a__ There is no difference between a JOIN and INNER JOIN statement. True or false? Write your answer down.
@@ -134,7 +134,7 @@ The original tables can be downloaded as a csv.-formatted file:
 - [Table B](../../Study%20Content/Business%20Intelligence/data/SQL_DDL1_DML_exercise2.csv)
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: Want to import and/or export the table into the PostgreSQL client, see the article <a href="(https://www.postgresqltutorial.com/import-csv-file-into-posgresql-table/">Import CSV File Into PostgreSQL Table</a>.
+Tip: Want to import and/or export the table into the PostgreSQL client, see the article <a href="https://www.postgresqltutorial.com/import-csv-file-into-posgresql-table/">Import CSV File Into PostgreSQL Table</a>.
 </div>
 
 |clientkey|clientvoornamen|clienttussenvoegsel|clientachternaam|geboortejaar|clientgeslacht|clientkey-2|notaregelbedrag|notajaar|notakwartaal|notamaand|buurtcode |buurtnaam              |
@@ -159,7 +159,7 @@ Do you have time left, and want to stay on track to eventually become a data wra
 
 __Interactive exercises:__
 - PostgreSQL Exercises: [All remaining exercises, except the ones listed under the header 'Recursive'](https://pgexercises.com/).
-- Intro to SQL: Querying and managing data: [All remaining exercises](hhttps://www.khanacademy.org/computing/computer-programming/sql/).
+- Intro to SQL: Querying and managing data: [All remaining exercises](https://www.khanacademy.org/computing/computer-programming/sql/).
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Tip: Select your practice exercises wisely, not all are relevant for the assignment (See Assignment Part 1 requirements in the Project Brief).

@@ -15,7 +15,7 @@ For the second half of the day, you will dive into the foundational concepts of 
 
 *Figure 1. Types of SQL.*
 
-__1__ Complete the ```What is a Database?``` module in Codeacademy, which you can find [here](https://www.codecademy.com/paths/design-databases-with-postgresql/tracks/what-is-a-database/modules/welcome-to-design-databases-with-postgresql/informationals/welcome-to-design-databases-with-postgresql).
+__1__ Complete the ```What is a Database?``` module in Codeacademy, which you can find, [here](https://www.codecademy.com/paths/design-databases-with-postgresql/tracks/what-is-a-database/modules/welcome-to-design-databases-with-postgresql/informationals/welcome-to-design-databases-with-postgresql).
 
 ***
 
@@ -25,7 +25,7 @@ A database is an organized collection of structured information, or data, typica
 
 __2a__ a) What is a SQL or relational database, and b) how does it differ from a so-called NoSQL database? Explain your answer
 
-__2b__ List three advantages/disadvantages of using a relational database.
+__2b__ List three advantages/disadvantages of using a relational database. Write your answer down.
 
 __2c__ The start-up HomeRobot is looking for a lightweight relational database management system (RDBMS) that they can embed in their Internet-of-Things (IoT) application. They have asked you, as a seasoned data engineer/analyst, for advice; which RDBMS would you recommend to them? Explain your answer.
 
@@ -49,6 +49,8 @@ __3c__ Install a PostgreSQL compatible client:
 - [PgAdmin](https://www.pgadmin.org/download/)
 - [DBeaver](https://dbeaver.io/download/)
 - etc.
+
+__3d__ Connect PostgreSQL client to server. For PgAdmin, see online [tutorial](https://www.postgresqltutorial.com/connect-to-postgresql-database/).
 
 ***
 

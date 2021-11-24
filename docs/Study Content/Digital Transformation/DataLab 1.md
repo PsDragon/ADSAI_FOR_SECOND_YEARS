@@ -24,6 +24,7 @@ __2b__ Answer the following questions:
 
 3. Are there any impediments in your way?
 
+***
 
 ### 3. Debate
 

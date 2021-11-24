@@ -62,12 +62,6 @@ __Topic of the debate: It is always possible to ensure ethical decision-making i
 
 ***
 
-
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: the exercise is format-free, meaning you can answer in any way or form you see suited. Make a drawing, write a piece of text, create a video, etc.
-</div>
-
-
 ## __Literature__
 *De Ethische Data Assistent (DEDA).* (2017). Utrecht Data School. https://dataschool.nl/deda/
 

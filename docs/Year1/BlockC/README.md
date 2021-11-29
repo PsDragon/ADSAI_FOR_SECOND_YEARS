@@ -5,7 +5,8 @@ In block A, you explored various themes around digital transformation and critic
 
 ## Project Based Learning - Creative Brief
 
- In this project, you will develop responsible and explainable AI algorithms which are human centered. This assignment is based on the Kaggle Inclusive Images Challenge (see [here](http://Inclusive%20Images%20Challenge%20|%20Kaggle)) organised by Google and Kaggle.
+ In this project, you will develop responsible and explainable AI algorithms which are human centered.
+ This assignment is based on the Kaggle Inclusive Images Challenge (see [here](http://Inclusive%20Images%20Challenge%20|%20Kaggle)) organised jointly by Google and Kaggle.
 
  Large, publicly available image datasets, such as ImageNet, Open Images and Conceptual Captions are commonly used to develop and rank image classification algorithms. While these datasets are a necessary and critical part of developing useful machine learning (ML) models, some open-source data may be biased. As patterns in such datasets ultimately decide what an AI model learns and predicts, such bias may lead us to develop models that may not necessarily reflect the true reality.
 
@@ -37,10 +38,10 @@ At the beginning of the project, you will be introduced to the project by one of
 
 
 ### Creative Brief Requirements:
-Dataset: Google Open images <br>
-Class Labels: Pick 10 labels at random among all the image level labels present in the data. <br>
-Tools: Keras, Numpy, Matplotlib <br>
-Prototype: Wireframe demo of your application made in Proto. See github for more information. <br>
+- [ ] **Dataset**: Google Open images <br>
+- [ ] **Class Labels**: Pick 10 labels at random among all the image level labels present in the data. <br>
+- [ ] **Tools**: Keras, Numpy, Matplotlib <br>
+- [ ] **Prototype**: Wireframe demo of your application made in Proto. <br>
 
 # Block Outline
 

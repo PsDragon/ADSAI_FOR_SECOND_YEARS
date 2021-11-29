@@ -1,28 +1,46 @@
-# Block B - Pre-production (Data Understanding and Preparation)
+# Block C - Modelling (Data Modelling)
 
-Each of the 8 weeks has a fixed structure : on Monday, Wednesday and Thursday you work individually on the development of basic skills, which are needed to execute the DataLab assignments. Kindly follow the table of content below, this will guide you through what is expected of you on a daily basis.
+In block A, you explored various themes around digital transformation and critically examined applications of AI and digital technologies to existing businesses processes. In block B, you went a step further and helped a real-life client get more insight out of their data using data science tools to pre-process and get insight out of data. In this block, you will take on a more hands-on approach towards data modelling data using tools such as deep learning. In particular, this block will focus on key aspects of **the modelling phase of a data science project lifecycle** such as deep learning, explainable and responsible artificial intelligence (AI), and human-centered design
+
 
 ## Project Based Learning - Creative Brief
-In block A, you explored various themes around digital transformation and critically examined applications of AI and digital technologies to existing businesses processes. In this block, you will take on a more hands-on approach towards improving a business process using digital transformation. In particular, you will explore one specific role within the theme of digitalisation - **the data analyst** – and help the municipality of Oosterhout improve their business processes using data, mathematics, and machine learning.
 
-One of the key responsibilities of the municipality of Oosterhout (henceforth the client) is youth care. While Dutch children are among the happiest and healthiest in the world, there are still many children that need extra support and care. To ensure a youth care system that is more efficient, coherent and cost-effective, the client has chosen to digitalize their existing youth care process.
+ In this project, you will develop responsible and explainable AI algorithms which are human centered. This assignment is based on the Kaggle Inclusive Images Challenge (see [here](http://Inclusive%20Images%20Challenge%20|%20Kaggle)) organised by Google and Kaggle.
 
-> The client has approached you – the data analyst – with the aim to discover more efficient (in cost and time) ways of delivering youth care.
+ Large, publicly available image datasets, such as ImageNet, Open Images and Conceptual Captions are commonly used to develop and rank image classification algorithms. While these datasets are a necessary and critical part of developing useful machine learning (ML) models, some open-source data may be biased. As patterns in such datasets ultimately decide what an AI model learns and predicts, such bias may lead us to develop models that may not necessarily reflect the true reality.
 
-At the beginning of the project, you will be introduced to the use-case by a data analyst from one of the municipalities. You can consult the client’s data analyst if you have any questions or wish to deepen your understanding of the use-case.
-
-## Creative Brief Requirements:
+For example, the images below show the predictions of a standard AI image classifier trained to predict if a given image represents a wedding or not. While the AI correctly detects a wedding in the first 3 images, it fails to do so in the last image. This is a consequence of developing an AI algorithm without being sensitive to biases that my exist in the training data.
 
 <figure>
-    <img src=".\phases.PNG" />
-    <figcaption>Please click the links below to view more detailed requirements</figcaption>
+    <img src=".\google.PNG" />
 </figure>
 <br>
 
-- [Business Intelligence](../../Study%20Content/Business%20Intelligence/BusinessIntelligenceBlockBVersion3.html)
-- [Mathematics](../../Study%20Content/Mathematics%20I/5.%20DataLab2.html)
-- [Machine Learning](https://adsai.buas.nl/Study%20Content/Introduction%20to%20Machine%20Learning/Assignment.html)
-- [Ethics and Legal Frameworks](../../Study%20Content/Digital%20Transformation/Ethics%20&%20Law.html)
+Your goal for this block is to fix such broken implementations of AI and ensure that AI remains responsible, transparent and explainable. To this end, you are expected to design, implement and evaluate AI algorithms based on deep neural networks that can accurately classify an image while being sensitive to biases that may be present in the data the network is trained on. Further, keeping the end user in mind, imagine a use-case where such an algorithm would have value and create a protype using the concepts learned in Human centered AI.
+
+At the beginning of the project, you will be introduced to the project by one of the lecturers. Throught out the block, you can consult the lecturers if you have any questions or wish to deepen your understanding of project.
+
+### Creative Brief Timeline
+
+<figure>
+    <img src=".\phases.PNG" />
+</figure>
+<br>
+<figure>
+<center>
+    <img src=".\timeline.PNG" />
+</center>
+</figure>
+<br>
+
+
+
+
+### Creative Brief Requirements:
+Dataset: Google Open images <br>
+Class Labels: Pick 10 labels at random among all the image level labels present in the data. <br>
+Tools: Keras, Numpy, Matplotlib <br>
+Prototype: Wireframe demo of your application made in Proto. See github for more information. <br>
 
 # Block Outline
 

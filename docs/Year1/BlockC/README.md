@@ -45,141 +45,139 @@ At the beginning of the project, you will be introduced to the project by one of
 
 # Block Outline
 
-# Week 1 : Business Intelligence (SQL)
+# Week 1 : Responsible & Explainable AI (XAI)
 
 ## Monday
-[Data engineering: Data architecture & Pipeline design](../../Study%20Content/Business%20Intelligence/DataArchitecturePipelineDesign.html)
-<br>[SQL: Data Definition Language (DDL) clauses 1 & Data Manipulation Language (DML) clauses](../../Study%20Content/Business%20Intelligence/SQL_DDL1_DML.html)
-<br>[Markdown template (optional)](../../Study%20Content/Business%20Intelligence/homework_markdown_template.html)
+[Automated decision making (ADS) & Bias ](../../Study%20Content/Business%20Intelligence/DataArchitecturePipelineDesign.html)
 
 ## Tuesday
-[DataLab: Research design, EDA, and codebook](../../Study%20Content/Business%20Intelligence/DataLab1_SQL_ResearchDesignEDACodebook.html)
+[DataLab: EDA & What-If Tool ](../../Study%20Content/Business%20Intelligence/DataLab1_SQL_ResearchDesignEDACodebook.html)
 
 ## Wednesday
-[SQL: Data Query Language (DQL) clauses](../../Study%20Content/Business%20Intelligence/SQL_DQL.html)
+[Auditing deep learning models](../../Study%20Content/Business%20Intelligence/SQL_DQL.html)
 
 ## Thursday
-[SQL: Data Definition Language (DDL) clauses 2](../../Study%20Content/Business%20Intelligence/SQL_DDL2.html)
+[Decolonizing AI ](../../Study%20Content/Business%20Intelligence/SQL_DDL2.html)
 
 ## Friday
-[DataLab: Database & SQL assignment](../../Study%20Content/Business%20Intelligence/DataLab2_SQL_Assignment.html)
+[DataLab: A Designer's Critical Alphabet](../../Study%20Content/Business%20Intelligence/DataLab2_SQL_Assignment.html)
 
-# Week 2 : Digital Transformation & Artificial Intelligence
+# Week 2 : Getting started with Deep Learning
 
 ## Monday
-[Ethics & Law (1): Introduction to DEDA Framework. Preparation for debates: Ethical Decision-Making.](../../Study%20Content/Digital%20Transformation/Ethics%20&%20Law%201.html)
+[AI, Machine Learning, Deep Learning: more than just buzzwords?](../../Study%20Content/Digital%20Transformation/Ethics%20&%20Law%201.html)
 
 ## Tuesday
-[DataLab: Debates: Ethical Decision-Making](../../Study%20Content/Digital%20Transformation/DataLab%201.html)
+[DataLab: Deep learning using Keras](../../Study%20Content/Digital%20Transformation/DataLab%201.html)
 
 ## Wednesday
-[Ethics & Law (2): Ethical Guidelines for Statistical Practice. Introduction to GDPR.](../../Study%20Content/Digital%20Transformation/Ethics%20&%20Law%202.html)
+[Deep Learning data representation and architecture](../../Study%20Content/Digital%20Transformation/Ethics%20&%20Law%202.html)
 
 ## Thursday
-[Ethics & Law (3): Preparation for debates: Can AI Systems Be Ethical?](../../Study%20Content/Digital%20Transformation/Ethics%20&%20Law%203.html)
+[Deep Learning activation functions, loss functions and optimizers](../../Study%20Content/Digital%20Transformation/Ethics%20&%20Law%203.html)
 
 ## Friday
-[DataLab: Debates: Can AI Systems Be Ethical?](../../Study%20Content/Digital%20Transformation/DataLab%202.html)
+[DataLab: MLP](../../Study%20Content/Digital%20Transformation/DataLab%202.html)
 
-# Week 3 : Business Intelligence (Power BI)
+# Week 3 : Deep Dive into Deep Learning
 
 ## Monday
-[Getting started with Power BI & Prepare data for analysis with Power BI](../../Study%20Content/Business%20Intelligence/DataPrepaparationCleanTransformLoadPowerBI.html)
+[Backpropagation and Gradient Descent](../../Study%20Content/Business%20Intelligence/DataPrepaparationCleanTransformLoadPowerBI.html)
 
 ## Tuesday
-[DataLab: Data wrangling & UX design in Power BI](../../Study%20Content/Business%20Intelligence/DataLab1_DataWranglingUXDesignPowerBI.html)
+[DataLab: Fully connected Neural networks](../../Study%20Content/Business%20Intelligence/DataLab1_DataWranglingUXDesignPowerBI.html)
 
 ## Wednesday
-[Data modeling in Power BI](../../Study%20Content/Business%20Intelligence/ModelDataPowerBI.html)
+[Convolutional Neural Network architectures I](../../Study%20Content/Business%20Intelligence/ModelDataPowerBI.html)
 
 ## Thursday
-[Data visualization in Power BI](../../Study%20Content/Business%20Intelligence/VisualizeDataPowerBI.html)
+[Convolutional Neural Network architectures II ](../../Study%20Content/Business%20Intelligence/VisualizeDataPowerBI.html)
 
 ## Friday
-[DataLab: Basic visuals & DAX in Power BI](../../Study%20Content/Business%20Intelligence/DataLab2_CreatingVisualsDAXPowerBI.html)
+[DataLab: Convolutional Neural Networks](../../Study%20Content/Business%20Intelligence/DataLab2_CreatingVisualsDAXPowerBI.html)
 
-# Week 4 : Business Intelligence (Power BI) & Machine Learning
+# Week 4 : Deep Dive into Deep Learning
 
 ## Monday
-[Data analysis & Managing workspaces/datasets in Power BI](../../Study%20Content/Business%20Intelligence/DataAnalysisManagingWorkspacesDatasetsPowerBI.html)
+[Image data pre-processing & data augmentation](../../Study%20Content/Business%20Intelligence/DataPrepaparationCleanTransformLoadPowerBI.html)
 
 ## Tuesday
-[DataLab: Advanced visuals & Analyzing data in Power BI](../../Study%20Content/Business%20Intelligence/DataLab3_AnalyzingDataPowerBI.html)
+[DataLab: Pre-processing & data augmentation](../../Study%20Content/Business%20Intelligence/DataLab1_DataWranglingUXDesignPowerBI.html)
 
 ## Wednesday
-[Supervised and Unsupervised Learning](../../Study%20Content/Introduction%20to%20Machine%20Learning/SupervisedAndUnsupervisedLearning.html)
+[Deep Learning Model Evaluation: Tuning and evaluating models I ](../../Study%20Content/Business%20Intelligence/ModelDataPowerBI.html)
 
 ## Thursday
-[Regression Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/RegressionAlgorithms.html)
+[Deep Learning Model Evaluation: Tuning and evaluating models II ](../../Study%20Content/Business%20Intelligence/VisualizeDataPowerBI.html)
 
 ## Friday
-[DataLab: Regression Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab00_RegressionAnalyses.html)
+[DataLab: Deep Learning Model Evaluation](../../Study%20Content/Business%20Intelligence/DataLab2_CreatingVisualsDAXPowerBI.html)
 
-# Week 5 : Machine Learning and Mathematics
+# Week 5 : Deep Learning in Practice
 
 ## Monday
-[Introduction to Linear Algebra](../../Study%20Content/Mathematics%20I/1.%20Introduction%20to%20Linear%20Algebra.html)
+[Unsupervised Deep Learning](../../Study%20Content/Business%20Intelligence/DataAnalysisManagingWorkspacesDatasetsPowerBI.html)
 
 ## Tuesday
-[DataLab: Implementing elementary operations on matrices using Python](../../Study%20Content/Mathematics%20I/2.%20DataLab1.html)
+[DataLab: Unsupervised Deep Learning](../../Study%20Content/Business%20Intelligence/DataLab3_AnalyzingDataPowerBI.html)
 
 ## Wednesday
-[Linear algebra applied to Linear Systems](../../Study%20Content/Mathematics%20I/3.%20Linear%20Algebra%20applied%20to%20Linear%20Systems.html)
+[Deep Learning: Practical issues and best practices](../../Study%20Content/Introduction%20to%20Machine%20Learning/SupervisedAndUnsupervisedLearning.html)
 
 ## Thursday
-[Classifications Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/ClassificationAlgorithms.html)
+[Deep Learning SOTA models for computer vision](../../Study%20Content/Introduction%20to%20Machine%20Learning/RegressionAlgorithms.html)
 
 ## Friday
-[DataLab: Classification Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab01_ClassificationAnalyses.html)
+[DataLab: SOTA models and model comparison](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab00_RegressionAnalyses.html)
 
-# Week 6 : Machine Learning and Mathematics
+# Week 6 : Deep Learning and XAI
 
 ## Monday
-[Linear Algebra and Linear models (least squares)](https://adsai.buas.nl/Study%20Content/Mathematics%20I/4.%20Linear%20Algebra%20and%20(linear)%20Regressions.html)
+[Feature visualization in Keras-Pixel/Feature Attribution](../../Study%20Content/Mathematics%20I/1.%20Introduction%20to%20Linear%20Algebra.html)
 
 ## Tuesday
-[DataLab: Normal equations for linear regression](../../Study%20Content/Mathematics%20I/5.%20DataLab2.html)
+[DataLab: XAI using Keras](../../Study%20Content/Mathematics%20I/2.%20DataLab1.html)
 
 ## Wednesday
-[Tree Based Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/DecisionTrees.html)
+[Meta-learning](../../Study%20Content/Mathematics%20I/3.%20Linear%20Algebra%20applied%20to%20Linear%20Systems.html)
 
 ## Thursday
-[Supervised Learning: a recap](../../Study%20Content/Introduction%20to%20Machine%20Learning/RandomForests.html)
+[Detecting concepts TCAV](../../Study%20Content/Introduction%20to%20Machine%20Learning/ClassificationAlgorithms.html)
 
 ## Friday
-[DataLab: Tree based Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab02_TreeBasedAnalyses.html)
+[DataLab: XAI using TCAV and model card toolkit (MCT)](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab01_ClassificationAnalyses.html)
 
-
-# Week 7: Machine Learning and Mathematics
+# Week 7 : Human Centered AI
 
 ## Monday
-[Matrix Factorization: PCA Algorithm](../../Study%20Content/Mathematics%20I/6.%20Image%20Processing%20using%20Linear%20Algebra%20I.html)
+[Interaction & information processing fundamentals](https://adsai.buas.nl/Study%20Content/Mathematics%20I/4.%20Linear%20Algebra%20and%20(linear)%20Regressions.html)
 
 ## Tuesday
-[DataLab: PCA Algorithm in practice](../../Study%20Content/Mathematics%20I/7.%20DataLab3.html)
+[DataLab: Risk-Assessment of disruptive technologies](../../Study%20Content/Mathematics%20I/5.%20DataLab2.html)
 
 ## Wednesday
-[Matrix operations on images: Convolution & Kernels](../../Study%20Content/Mathematics%20I/8.%20Linear%20Algebra%20and%20Image%20Processing%20II.html)
+[Interaction design](../../Study%20Content/Introduction%20to%20Machine%20Learning/DecisionTrees.html)
 
 ## Thursday
-[Machine Learning: Unsupervised Learning](../../Study%20Content/Introduction%20to%20Machine%20Learning/ClusteringK-Means.html)
+[Interface design](../../Study%20Content/Introduction%20to%20Machine%20Learning/RandomForests.html)
 
 ## Friday
-[DataLab: Unsupervised Learning](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab03_ClusteringAnalyses.html)
+[DataLab: Wizzard of Ozz Workshop](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab02_TreeBasedAnalyses.html)
 
-# Week 8 : Neural networks and it's a wrap!
+
+# Week 8: Human Centered AI
 
 ## Monday
-[Perceptron Algorithm](../../Study%20Content/Introduction%20to%20Machine%20Learning/Perceptron.html)
+[U/X testing using A/B testing ](../../Study%20Content/Mathematics%20I/6.%20Image%20Processing%20using%20Linear%20Algebra%20I.html)
 
 ## Tuesday
-[DataLab: Perceptron](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab04_Perceptron.html)
+[DataLab: A/B Testing](../../Study%20Content/Mathematics%20I/7.%20DataLab3.html)
 
 ## Wednesday
-[Prepare business case presentation]
+[User-Centered design for AI](../../Study%20Content/Mathematics%20I/8.%20Linear%20Algebra%20and%20Image%20Processing%20II.html)
 
 ## Thursday
-[Prepare business case presentation]
+[User-Centered design for AI](../../Study%20Content/Introduction%20to%20Machine%20Learning/ClusteringK-Means.html)
 
 ## Friday
-[DataLab: Business case presentation]
+[DataLab: Wireframes and final presentation](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab03_ClusteringAnalyses.html)

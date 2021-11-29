@@ -14,7 +14,7 @@ After this module you'll FINK VERBS:
 
 Table of contents:
 1. TOPIC: X hours
-2. TOPIC: X hours
+2. GDPR Application: X hours
 
 
 ## Questions or issues?

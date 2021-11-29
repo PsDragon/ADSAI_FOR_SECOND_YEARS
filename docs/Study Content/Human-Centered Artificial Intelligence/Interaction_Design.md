@@ -13,7 +13,7 @@ After this module you'll FINK VERBS:
 3. TOPIC.
 
 Table of contents:
-1. TOPIC: X hours
+1. Design Techniques: X hours
 2. TOPIC: X hours
 
 
@@ -27,8 +27,11 @@ Tip: Note down any important questions you might have!
 Good luck!
 
 
-## 1) Introduction to TOPIC
-Bla
+## 1) Design Techniques
+
+### Design thinking
+
+### Divergent - Convergent Processes
 
 ## 2) Workshop on TOPIC
 Bla

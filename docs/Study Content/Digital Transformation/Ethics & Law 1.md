@@ -63,7 +63,7 @@ __Topic of the debate: It is always possible to ensure ethical decision-making i
 ***
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: whatch the video below to prepare for the debate
+Tip: watch the video below to prepare for the debate
 </div>
 
 <!-- blank line -->

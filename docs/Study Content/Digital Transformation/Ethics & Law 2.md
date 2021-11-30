@@ -66,6 +66,11 @@ __3f__ Answer questions below:
 
 ***
 
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Note: For our user-case, there are additional laws besides the GDPR that are relevant.  
+On the basis of Article 7.3.12 of the Dutch Youth Act, information can be given to third parties for statistical research without permission from the person requiring care. In addition, on the basis of Article 2.3 of the Youth Act, municipalities have the obligation to provide appropriate youth care for all children and families in need. We contribute to this by means of the dashboard and the associated analyses.
+</div>
+
 ## __Literature__
 Committee on Professional Ethics of the American Statistical Association (2018, April 14). *Ethical Guidelines for Statistical Practice.* https://www.amstat.org//asa/files/pdfs/EthicalGuidelines.pdf
 

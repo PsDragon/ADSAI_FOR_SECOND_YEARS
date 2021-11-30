@@ -63,9 +63,9 @@ Each colour block corresponds to a specific criterion of ILO 4.1. To attain a ce
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #000000;; background-color: #FF7043; border-color: ##FF7043;">
 1. Install the PostgreSQL database server.
-<br>2. Install a client that is compatible with PostgreSQL (e.g. DBeaver, pgAdmin etc.).
+<br>2. Install a client that is compatible with PostgreSQL (e.g. DBeaver, pgAdmin etc.), and connect them.
 <br> 3. Place the data collection files into your computer's 'Public' folder (e.g. C:\Users\Public).
-<br> 4. Load data collection 1 into your PostgreSQL client (for instructions, see <a href="https://medium.com/@cheshtadhamija/importing-and-exporting-database-in-postgres-using-pgadmin-ce83e0c9002f">Importing and exporting Database in Postgres Using PGadmin</a>).
+<br> 4. Load data collection 1 into your PostgreSQL database (for instructions, see <a href="https://medium.com/@cheshtadhamija/importing-and-exporting-database-in-postgres-using-pgadmin-ce83e0c9002f">Importing and exporting Database in Postgres Using PGadmin</a>).
 </div>
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #000000;; background-color: #FFAB91; border-color: #FFAB91;">

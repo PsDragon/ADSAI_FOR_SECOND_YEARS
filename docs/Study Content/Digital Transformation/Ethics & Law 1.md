@@ -52,7 +52,7 @@ __3b__ Answer questions related to DEDA.
 
 ### 4. Debate on Ethical Decision – Making
 
-__4a__ Read chapter 4 on “Ethical Decision-Making” (Dignum, 2019).
+__4a__ Read chapter 3 on “Ethical Decision-Making” (Dignum, 2019).
 
 __4b__ Conduct additional online research to find sources that related to this topic.
 

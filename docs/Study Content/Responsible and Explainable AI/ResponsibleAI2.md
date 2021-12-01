@@ -20,8 +20,6 @@ Today, you will be introduced to the concept of decoloniality. Additionally, we 
 __Table of contents:__
 1. Introduction: 2 hours
 2. Workshop: 3 hours
-3. Additional material (optional): ... hours
-   3.1. Foucault: Biopower, Governmentality, and the Subject.
 
 ## Questions or issues?
 If you have any questions or issues regarding the course material, please first ask your peers or ask us in the Q&A in Datalab!

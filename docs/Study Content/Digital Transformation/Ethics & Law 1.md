@@ -52,7 +52,7 @@ __3b__ Answer questions related to DEDA.
 
 ### 4. Debate on Ethical Decision – Making
 
-__4a__ Read chapter 4 on “Ethical Decision-Making” (Dignum, 2019).
+__4a__ Read chapter 3 on “Ethical Decision-Making” (Dignum, 2019).
 
 __4b__ Conduct additional online research to find sources that related to this topic.
 
@@ -63,7 +63,7 @@ __Topic of the debate: It is always possible to ensure ethical decision-making i
 ***
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: whatch the video below to prepare for the debate
+Tip: watch the video below to prepare for the debate
 </div>
 
 <!-- blank line -->

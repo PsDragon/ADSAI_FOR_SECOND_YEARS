@@ -28,9 +28,13 @@ Good luck!
 
 
 ## 1) Introduction to TOPIC
-Bla
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="640" height="360" src="https://www.linkedin.com/learning/embed/ux-foundations-interaction-design/interaction-design?autoplay=false&claim=AQFXfCOdK-DqygAAAX13SMnrIbtlP40aB2L5v2J5DIX0g-9K4jxFb0d_jDDJcoBtyVj3WQvEHcP7ajKiACfMqOX0BCyV-KG-aCMT4RP8ekNyVF8IUE1KLtXmz_ABOGhgMcCnlRFDEFYUUU3lrPaBU6WBW2uqBoDVreJInJ1Jz0HxSK8qG1M7ZJB1caQWU_1rOUA-Ap2G5tyH7KwITYIIce-5YF6v74GGzc3kTQ9VOqXJqCegzrSNxbzu_RtzcbOZ4DH8ebnbLY7oVNFNj7zsDBO7tzTftGDuYVzeXViFZGSnBh1ubMhN876ePTqJIUochyAU67JuXL8c8DkfkutEVcg-KUXDT6i3QmWxDBXVeGJK0DcMISEI2nPNWA5jvjgWab1RceXBcJoC4x04sc51thnxVLjcrQaeuMIH1paJ4qR59f90DO9qKfNHa6AXv4ioF-HM3CXntFELYtBwedyXMRxh_vd-4ROkrN4vwU5tqgc6XmWExsDrnKDbpiHf9O0viSbRsiVe06EXd7ZDajQXmM4_4xwG8sUjZL52P0-J661wVYbixznrQhpLchvFQqttXxgyrVNDEQdBTARKtcU5yu0ZaiQzv6A8sxKECFthC-_6R5omN-XctSjyuvKlFwSRJPjT5XdmcEpdqvT3yP2RJS352xpIKKHHe3imwQl4xsBUhB6LyR8xcU0av1ovN2vwgESh2gAWYWcda06DcdTCattEnSdjHgddqGPy1LjpMNBPrqsJ&lipi=urn%3Ali%3Apage%3Ad_learning_content%3BCQ3PTXWySOeGlu7Tsl%2F0fg%3D%3D&licu" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true" frameborder="0" style="position:absolute;width:100%;height:100%;left:0"></iframe></div><p><strong><a href="https://www.linkedin.com/learning/ux-foundations-interaction-design/interaction-design?trk=embed_lil">Interaction design</a></strong> from <strong><a href="https://www.linkedin.com/learning/ux-foundations-interaction-design?trk=embed_lil">UX Foundations: Interaction Design</a></strong> by <strong><a href="https://www.linkedin.com/learning/instructors/david-hogue?trk=embed_lil">David Hogue</a></strong></p>
 
-## 2) Workshop on TOPIC
+
+## 2) US and AI
+https://design.google/library/ux-ai/
+
+## 3) Workshop on TOPIC
 Bla
 
 

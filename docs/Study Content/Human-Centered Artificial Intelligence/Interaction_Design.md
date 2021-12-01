@@ -27,11 +27,14 @@ Tip: Note down any important questions you might have!
 Good luck!
 
 
-## 1) Design Techniques
+## 1) Designing for AI
+https://design.google/library/simulating-intelligence/
 
-### Design thinking
+https://design.google/library/ai-design-roundtable-discussion/
 
-### Divergent - Convergent Processes
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AAJ2vQXm5HQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rf83vRxLWFQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 2) Workshop on TOPIC
 Bla

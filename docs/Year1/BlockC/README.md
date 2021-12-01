@@ -48,13 +48,13 @@ At the beginning of the project, you will be introduced to the project by one of
 # Week 1 : Responsible & Explainable AI (XAI)
 
 ## Monday
-[Automated decision making (ADS) & Bias ](../../Study%20Content/Business%20Intelligence/DataArchitecturePipelineDesign.html)
+[Fairness & Bias: Definitions](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI1.html)
 
 ## Tuesday
-[DataLab: EDA & What-If Tool ](../../Study%20Content/Business%20Intelligence/DataLab1_SQL_ResearchDesignEDACodebook.html)
+[DataLab 1: (Implicit) Bias & Decolonizing](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI2.html)
 
 ## Wednesday
-[Auditing deep learning models](../../Study%20Content/Business%20Intelligence/SQL_DQL.html)
+[Fairness & Bias: Statistical fairness metrics, and debiasing techniques](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI3.html)
 
 ## Thursday
 [Decolonizing AI ](../../Study%20Content/Business%20Intelligence/SQL_DDL2.html)

@@ -104,6 +104,6 @@ Dervishaj, J. (2021, October 13). *Futurium | European AI Alliance - All you nee
 
 *Home page - ALTAI.* (n.d.). Assessment List for Trustworthy AI. Retrieved December 2, 2021, from https://altai.insight-centre.org/
 
-Lukianets, N. (2021c, May 5). *A (more) visual guide to the proposed EU Artificial Intelligence Act. Medium.* Retrieved December 2, 2021, from https://lukianets.medium.com/a-more-visual-guide-to-the-proposed-eu-artificial-intelligence-act-64ae0e550ac3
+Lukianets, N. (2021, May 5). *A more visual guide to the proposed EU Artificial Intelligence Act. Medium.* Retrieved December 2, 2021, from https://lukianets.medium.com/a-more-visual-guide-to-the-proposed-eu-artificial-intelligence-act-64ae0e550ac3
 
 Spyridaki, K. (n.d.). *GDPR and AI: Friends, foes or something in between?* SAS. Retrieved December 2, 2021, from https://www.sas.com/en_sg/insights/articles/data-management/gdpr-and-ai--friends--foes-or-something-in-between-.html

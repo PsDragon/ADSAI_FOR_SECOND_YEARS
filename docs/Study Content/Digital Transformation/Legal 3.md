@@ -2,7 +2,7 @@
 sort: 4
 ---
 
-## __Legal (3): When GDPR meets AIA__
+## __Legal (3): When GDPR meets AI__
 \
 <img src="./images/datalab_banner.jpg" alt="Books banner" width="600"/>
 
@@ -98,7 +98,7 @@ __4d__ Apply your knowledge:
 
 ***
 
-##__Literature__
+## __Literature__
 
 Dervishaj, J. (2021, October 13). *Futurium | European AI Alliance - All you need to know on Trustworthy AI and the role of law and regulation.* European Commission. Retrieved December 2, 2021, from https://futurium.ec.europa.eu/en/european-ai-alliance/videos/all-you-need-know-trustworthy-ai-and-role-law-and-regulation
 

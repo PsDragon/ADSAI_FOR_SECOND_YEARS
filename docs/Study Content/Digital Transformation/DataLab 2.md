@@ -41,11 +41,11 @@ __The schedule of the debate:__
 
 ### 4. Reflection and Q&A (16:00-17:00)
 
-__3a__ Fill in your work/learning log.
+__4a__ Fill in your work/learning log.
 
-__3b__ Ask question(s) related to the independent study material.
+__4b__ Ask question(s) related to the independent study material.
 
-__5b__ Choose, and provide an answer to at least of the following questions:
+__4c__ Choose, and provide an answer to at least of the following questions:
 
 1. What surprised you today, and why?
 2. What is the most important thing you learned today? Why do you think so?

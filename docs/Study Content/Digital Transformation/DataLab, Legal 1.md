@@ -8,7 +8,7 @@ sort: 4
 
 ### 1. Introduction
 
-At the first part of DataLab 1 you will participate in the debate: Companies that implement the GDPR law have a competitive advantage.. During the second part of the day, you will have a chance to work on the creative brief. At the end of the day, from 16:00 to 17:00, we will have a moment to reflect on DataLab 1 and ask questions during the Q&A.
+At the first part of DataLab 1 you will participate in the debate: Companies that implement the GDPR law have a competitive advantage. During the second part of the day, you will have a chance to work on the creative brief. At the end of the day, from 16:00 to 17:00, we will have a moment to reflect on DataLab 1 and ask questions during the Q&A.
 
 ***
 
@@ -41,11 +41,11 @@ __The schedule of the debate:__
 
 ### 4. Reflection and Q&A (16:00-17:00)
 
-__3a__ Fill in your work/learning log.
+__4a__ Fill in your work/learning log.
 
-__3b__ Ask question(s) related to the independent study material.
+__4b__ Ask question(s) related to the independent study material.
 
-__5b__ Choose, and provide an answer to at least of the following questions:
+__4c__ Choose, and provide an answer to at least of the following questions:
 
 1. What surprised you today, and why?
 2. What is the most important thing you learned today? Why do you think so?

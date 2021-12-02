@@ -3,18 +3,20 @@ sort: 2
 ---
 
 # Datalab 13: Risk-Assessment of Disruptive Technologies
-
-INTRODUCTION GOES HERE
+Yesterday, you create essentially the start of a high-level design for your application. Today, we'll review that with our peers and apply the GDPR framework on it to see where we might run into problems and need to iterate on our design. But, before we look at the GDPR, we're going to dicuss disruptive technologies! Also, we'll have lunch at 12:00.
 
 ## 0) Learning Objectives:
-After this module you'll FINK VERBS:
-1. TOPIC;
-2. TOPIC;
-3. TOPIC.
+After this module you'll:
+1. be able to identify disruptive technologies and the different stages thereof;
+2. create and justify a high-level design for an application;
+3. apply the GDPR framework to a high-level design;
+4. iterate on your high-level design based on legal constraints.
 
 Table of contents:
-1. TOPIC: X hours
-2. GDPR Application: X hours
+1. High-level Design: 1.5 hours
+2. Disruptive Technology: 1.5 hours
+3. Lunch: 1 hour
+4. GDPR Application: 4 hours
 
 
 ## Questions or issues?
@@ -26,27 +28,41 @@ Tip: Note down any important questions you might have!
 
 Good luck!
 
+## 1) High-level Design
+Discuss your designs with your peers and collect their feedback. Create a notes section in your design document and note down any relevant feedback for or against any of your problems or solutions (and elements thereof). Take turns and go through the following steps:
+1. explain your problems;
+2. explain your possible solutions (the divergent ones);
+3. explain your choses solution (the convergent one);
+4. reiterate with a plan based on the feedback given by your peers.
 
-## 1) Introduction to TOPIC
-Bla
+## 2) Introduction to Disruptive Technologies
+Covered by a interactive lecture where we'll present you with the different stages of disruptive technologies and some examples we'll explore together!
 
+You can find [the slides here](www.google.com)!
+
+## 3) Workshop on the GDPR
+You already learned about the General Data Protection Regulation framework of the European Union ofcourse. That was a lot of documentation back then, here we just do a summary video instead and then we'll walk through a checklist and note down where we don't comply or need to take some form of action or desion decision regarding our app. That's how we do it in the real-world; we apply it to create something. Watch the video (or not if you remember everthing well enough):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Assdm6fIHlE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="640" height="360" src="https://www.linkedin.com/learning/embed/interaction-design-flow/the-power-of-flow-in-interaction-design?autoplay=false&claim=AQE4SMFKDXMoUAAAAX13dEAqgVSiDqMuKbFfmqLVKFXOB3lPopqpIMhNPlw5STFXQ04CGK-dXZpmgv0reNeOAX9MN9BbQzXV_MdYYBL31yvV8apqp-vUNEUxE7hOENcWZ5tPVGQwSkkfx_qyT5f2NZtth9XIAT3pW_8vrFWDwMK0vkGS2z1jhrSBRp03--U2HUpN9udTc9vJOt8uelkz6x3q3M-BNmPPWP8LoN4TXrLAAwgdga8hKLnKDDmT9Npz_oCIuzMSJHAlCL7HdkD2zSlsjd947__YqT51wasHNiDMoMQd_zohE3qd8AhkULsN3mr1FNNBZeAcCEm1sJhzBEOlgqvo4RdURESVvDj_t-sT8t_PCIiIp53H9TwEiawL7f77S2sLJ5BsHpLvGnEzv0atolzRis66zIor7yNYwJF96qWZfxUkitlxk_oCylGmTiKk8CBftPZJ4XOzJ6mY5I0NEcYuuBnoeaWRGgJdfaN267tCnts0en1fNTy0WcDB-hpEkQUcGrbf4MEi82BDjxKxnlBA3TLLLABxlzx6UxDWcE02x_CJ4qqwgvzIB8t31a5oX2Qd1LIXmapVUIXtHJZZkCvbxM9lj8D_AXmpiTMXWWATJ0h_uBxCNT0nvlP_CfVAChIqYJXih36e6HXFJvdLaQc_zcpOYhWg2FyGJVAAdz6CXTseIeeYoOAvF8zzYj18ZpgMuasd5fdPg1Zl0eC1i6aj2FDyrWgKoADi3i9qLFJ-CsU&lipi=urn%3Ali%3Apage%3Ad_learning_content%3Bkr%2BgbzI2SIqTzlcVkm8Lrg%3D%3D&licu" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true" frameborder="0" style="position:absolute;width:100%;height:100%;left:0"></iframe></div><p><strong><a href="https://www.linkedin.com/learning/interaction-design-flow/the-power-of-flow-in-interaction-design?trk=embed_lil">The power of flow in interaction design</a></strong> from <strong><a href="https://www.linkedin.com/learning/interaction-design-flow?trk=embed_lil">Interaction Design: Flow</a></strong> by <strong><a href="https://www.linkedin.com/learning/instructors/diane-cronenwett?trk=embed_lil">Diane Cronenwett</a></strong></p>
-
-
-<div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="640" height="360" src="https://www.linkedin.com/learning/embed/getting-started-in-user-experience/choosing-a-career-in-ux?autoplay=false&claim=AQHdIOl0qrnRaQAAAX13dKVwFJ3p0AnW8nvgBzJrs0QlrT7-geSAAjw0kEScXO6PsOBYGhWRc0ELg6UG1NFhSjK29nwRevJFqu7rOKPcZsvznKnIghJVbPa1p6aC163ZlYOaCivXPrjXWA8Y3Alf9g653rWapEgQvv4lGRBwfy3XF3vEA3spG5HhO4a0IvFH-MNsXCu0oKrW6RiLHIqWlTSuXjNBD2EJ5v8nYQrZQBvm3RDsb-_BX44kFnvfm1qwNDEhnMcYz3ven_INrMAA0s_-ubmq2sOH6rmxO1iAWscLeI_HItUNbJT57oM8-53EnDKsj-zjYc-BIOl6rU0k1xEnLYp7KYXjA9ha34RLxjwxUfteHF0tQinlVch9eIE4Z9IW62DZ--HGX4qVacTjqbtf5iNeMDx8kUPHiNxZVnNmFDfE9dCWcXheeVn_0NOaj0cyOKpYOdjVCdkuY4h0-zTBasQIIlh208hnW33PU1k6g5iqkt-0DGcmWk7iJQhj6d8e6IgsWFwl4e-FrijtgiATBOgeMq8daFWwxFa-7kV7clTZDRGOpXPLYyxgJLd8GVFrHWB7OBsWK780RTCWReTGKpDhOFprrGIqZj3z2i4C-Nse5k7dL2Vg5uReqbB_e2F6r06n4tnlt1t5lmWWD5zPX5wmtWLQ-dJwX2-drlKRo8RAcPn2c-ZpVBW-ZVfC_QGdIAhbd1vTHMNoHtksMTTavEY7i-goIXmO0jneUk3kaZHH91A&lipi=urn%3Ali%3Apage%3Ad_learning_content%3BuOucr%2BgIRTuWsYSPYpnnxA%3D%3D&licu" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true" frameborder="0" style="position:absolute;width:100%;height:100%;left:0"></iframe></div><p><strong><a href="https://www.linkedin.com/learning/getting-started-in-user-experience/choosing-a-career-in-ux?trk=embed_lil">Choosing a career in UX</a></strong> from <strong><a href="https://www.linkedin.com/learning/getting-started-in-user-experience?trk=embed_lil">Getting Started in User Experience</a></strong> by <strong><a href="https://www.linkedin.com/learning/instructors/chris-nodder?trk=embed_lil">Chris Nodder</a></strong></p>
-
-## 2) Workshop on TOPIC
-Walkthrough the GDPR checklist and note where you need to put protections and protocols in place to ensure complaince.
+1. Create a *Microsoft Word* document and *save it GitHub*!
+2. Walkthrough the GDPR checklist and note where you are not complying to a given Data Protection Regulation, also note down it's number and how you are not complying:
 Use [the following tool](https://gdpr.eu/checklist/) to do this!
+3. For every Data Protection Regulation you are not complying with: note down the protections and protocols you need to put in place to ensure complaince.
+4. Integrate these in your design: Add all these protections and protocols to your design document!
 
 
-## Next up!
-Coming Datalab we will reflect on TOPIC again and give you an opportunity to ask any questions you might have.
+## 4) In-Class Discussion
+At 16:30, there's a class meeting where we'll discuss our progress and reflect on today activities.
 
-Tomorrow, we will cover TOPIC!
+## Up Next!
+Tomorrow, we will cover interaction design more deeply!
 
 
 ## Resources
-- [A resource](www.google.com)
+- [Disruptive Technology Stages](www.google.com)
+
+Disruptive Technology Examples Resources:
+- [Robotics](https://www.roboticsbusinessreview.com/news/5-industries-that-robotics-have-disrupted-drastically/)
+- [Computer vision](https://www.logikk.com/articles/disruptive-computer-vision-applications/#:~:text=Computer%20Vision's%20Disruptive%20Impact&text=Computer%20vision%20technology%20is%20still,work%2C%20travel%2C%20and%20live)
+- [Speech processing](https://meticulousblog.org/top-10-companies-in-speech-and-voice-recognition-market/)
+- [NLP](https://www.europeanbusinessreview.com/natural-language-processing-nlp-applications-in-business/)

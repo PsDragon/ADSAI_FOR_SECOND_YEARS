@@ -2,7 +2,7 @@
 sort: 4
 ---
 
-## __Law (2): The Proposed Artificial Intelligence Act__
+## __Law (3): When GDPR meets AIA__
 \
 <img src="./images/datalab_banner.jpg" alt="Books banner" width="600"/>
 
@@ -43,64 +43,50 @@ __Make sure to upload all the answers to the questions listed below to your GitH
 
 ***
 
-### 2. The Proposed Artificial Intelligence Act
+### 2. When GDPR meets AIA
 
-In April this year, the European Commission unveiled the Artificial Intelligence Act (AI Act). At the time of writing, the proposed AI Act is going through the approval process by all 27 EU member states. When approved, it will be the first legislative and governance framework to comprehensively address the creation, deployment, and use of artificial intelligence systems in the EU. A fundamental aspect of this framework is data protection and privacy, among other human rights recognised in the EU. Similar to the GDPR, it is intended for this proposed legislation to have extra-territorial effect. It is anticipated that it will come in to force sometime in 2022/3.
-The basis of the AI Act is the EU’s underlying notion that developing trustworthy technologies will benefit the global acceptance of AI in Europe. What is important for the European Commission is building trust, and fundamental to this is requiring the appropriate protection of people’s fundamental rights and promoting safety. This goal of trust-building can be attained by drawing boundaries around the why and how of developing and using AI systems. The challenge here is then ensuring that these boundaries are not so onerous that they hinder the creation of AI solutions. How does the AI Act attempt to manage this difficult balancing act between regulation and competitive innovation? The drafters of the proposed AI Act have tried to find a middle way by using an approach that has a scale of regulation that is attuned to the level of risk of an AI system:
+The foundation of functioning artificial intelligence technology is utilisation of data to feed algorithms, therefore one must consider how the use of data Questions have been asked about how the proposed AI Act will work with the existing rules in the GDPR.
 
--	where it concerns what are considered unacceptable uses of AI, these are banned outright;
+__2a__ Read articles listed below and watch the video in the second article link explaining the interaction between the GDPR and the proposed AI regulation:
 
--	where it concerns uses that are important but carry a high risk, these are regulated stringently;
+- Read an article about Privacy and the EU’s Regulation on AI: What’s New and What’s Not? Lukianets, N. (2021c, May 5) by clicking this [link](https://www.mofo.com/resources/insights/210422-privacy-eu-regulation-ai.html).
 
--	where it concerns uses that have a limited risk or no obvious risk; it encourages the use of industry codes of conduct.
-
-The message that the EU is sending is essentially that it champion and enforce AI that is trustworthy, and that it will pursue an agenda of “responsible competition” in terms of its AI goals globally. Many organisations within the EU, and even those outside the EU, especially those from countries that have economic and research links with EU states, are studying these proposed rules carefully, and are preparing to comply with them.
-
-
-__2a__ Read the articles linked below for an explanation of the key aspects of the proposed AI Act. The first linked article has a helpful visual guide and also suggests, with a process flow diagram, how go about thinking and acting when contemplating the creation of a high-risk AI system (which can be scaled for lower-risk AI systems, too).
-
-- Read an article about A (more) visual guide to the proposed EU Artificial Intelligence Act by Lukianets, N. (2021, May 5) by clicking this [link](https://lukianets.medium.com/a-more-visual-guide-to-the-proposed-eu-artificial-intelligence-act-64ae0e550ac3).
-
-- Read an article about The Artificial Intelligence Act by Mueller, B. (2021, May 4) by clicking this [link](https://datainnovation.org/2021/05/the-artificial-intelligence-act-a-quick-explainer/).
-
-- Read an article on Artificial Intelligence Act: What Is the European Approach for AI? (2021, October 16) by clicking this [link](https://www.lawfareblog.com/artificial-intelligence-act-what-european-approach-ai ).
-
-
-__2b__ Watch this webinar recording discussing the EU’s approach to artificial intelligence – the discussion also ventures into how governments are around the world are engaging with the EU on this proposed legislation.
-
-<!-- blank line -->
-<figure class="video_container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AVt-jIekks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure>
-<!-- blank line -->
+- Read an article on GDPR and AI: Friends, foes or something in between? Spyridaki, K. (n.d.) by clicking this [link](https://www.sas.com/en_sg/insights/articles/data-management/gdpr-and-ai--friends--foes-or-something-in-between-.html)
 
 *After you have watched the above video, reflect on what the key takeaways are for you, and write them down. Share these takeaways with your classmates.*
 
-__2c__ Read Articles 1 – 24 of the proposed [AI Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1623335154975&uri=CELEX%3A52021PC0206), using the guide tips in the above readings to help you navigate it. You will see that the document has three parts:
--	The Explanatory Memorandum (Parts 1 - 5)
+__2b__ Apply your knowledge: From the experience of your previous assessments and projects and what you have learned in this course so far, describe how you have tried to ensure that the data you require for your AI project is permissible to use.
 
--	The Proposal (Paragraphs 1 – 89)
+### 3. Putting Rules and Principles into Practice in Developing Trustworthy AI
 
--	The Titles and Articles
+Ahead of the AI Act coming into force and as a means to help AI developers comply with the proposed rules and the goals of trustworthy AI for the EU, an Assessment List for Trustworthy AI (ALTAI) was developed by the High-Level Expert Group on Artificial Intelligence established by the European Commission. This is a resource to help developers and users of AI systems assess whether the systems that are being created, used, or procured comply with the EU’s seven requirements of Trustworthy AI, as follows:
 
-For the purposes of this module, focus on Articles 1 – 24.
+-	Human Agency and Oversight
 
-If you are interested, read the Explanatory Memorandum, as it explains why the Articles are drafted the way they are. *All you are expected to do is gain some familiarity and understanding of the structure and broad content, and where to find the most important principles and requirements.*
+-	Technical Robustness and Safety
 
-__2d__ Check your understanding:
+-	Privacy and Data Governance
 
-- Which Article of the AI Act provides definitions of the terms used in the Act?
+-	Transparency
 
-- Is the list of artificial intelligence processes and approaches referred to in Article 3 and listed in Annex 1 of the AI Act a closed or open list? Which other Article addresses this issue, given that technological progress is always happening?
+-	Diversity, Non-discrimination, and Fairness
 
-- For each of the categories of AI systems that are identified in the AI Act according to risk, give one example of an actual AI system (still in use or no longer in use) that matches the risk level.
+-	Societal and Environmental Well-being
+
+-	Accountability
+
+__3a__ Read more about the goal and purpose of ALTAI [here](https://altai.insight-centre.org/), and the seven characteristics of Trustworthy AI as prescribed by the European Commission’s High-Level Expert Group on Artificial Intelligence.
+
+__3b__ Watch [this video](https://futurium.ec.europa.eu/en/european-ai-alliance/videos/all-you-need-know-trustworthy-ai-and-role-law-and-regulation) about Trustworthy AI and the role of law and regulation.
 
 ***
 
-## __Literature__
+##__Literature__
 
-*Artificial Intelligence Act: What Is the European Approach for AI?* (2021, October 16). Lawfare. https://www.lawfareblog.com/artificial-intelligence-act-what-european-approach-ai
+Dervishaj, J. (2021, October 13). *Futurium | European AI Alliance - All you need to know on Trustworthy AI and the role of law and regulation.* European Commission. Retrieved December 2, 2021, from https://futurium.ec.europa.eu/en/european-ai-alliance/videos/all-you-need-know-trustworthy-ai-and-role-law-and-regulation
 
-Lukianets, N. (2021, May 5). *A (more) visual guide to the proposed EU Artificial Intelligence Act.* Medium. https://lukianets.medium.com/a-more-visual-guide-to-the-proposed-eu-artificial-intelligence-act-64ae0e550ac3  
+*Home page - ALTAI.* (n.d.). Assessment List for Trustworthy AI. Retrieved December 2, 2021, from https://altai.insight-centre.org/
 
-Mueller, B. (2021, May 4). *The Artificial Intelligence Act: A Quick Explainer. Center for Data Innovation.* https://datainnovation.org/2021/05/the-artificial-intelligence-act-a-quick-explainer/
+Lukianets, N. (2021c, May 5). *A (more) visual guide to the proposed EU Artificial Intelligence Act. Medium.* Retrieved December 2, 2021, from https://lukianets.medium.com/a-more-visual-guide-to-the-proposed-eu-artificial-intelligence-act-64ae0e550ac3
+
+Spyridaki, K. (n.d.). *GDPR and AI: Friends, foes or something in between?* SAS. Retrieved December 2, 2021, from https://www.sas.com/en_sg/insights/articles/data-management/gdpr-and-ai--friends--foes-or-something-in-between-.html

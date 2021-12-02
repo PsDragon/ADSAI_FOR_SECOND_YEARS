@@ -99,8 +99,8 @@ __2d__ Check your understanding:
 
 ## __Literature__
 
-*Artificial Intelligence Act: What Is the European Approach for AI?* (2021, October 16). Lawfare. https://www.lawfareblog.com/artificial-intelligence-act-what-european-approach-ai
+*Artificial Intelligence Act: What Is the European Approach for AI?* (2021, October 16). Lawfare. Retrieved December 2, 2021, from https://www.lawfareblog.com/artificial-intelligence-act-what-european-approach-ai
 
-Lukianets, N. (2021, May 5). *A (more) visual guide to the proposed EU Artificial Intelligence Act.* Medium. https://lukianets.medium.com/a-more-visual-guide-to-the-proposed-eu-artificial-intelligence-act-64ae0e550ac3  
+Lukianets, N. (2021, May 5). *A (more) visual guide to the proposed EU Artificial Intelligence Act.* Medium. Retrieved December 2, 2021, from https://lukianets.medium.com/a-more-visual-guide-to-the-proposed-eu-artificial-intelligence-act-64ae0e550ac3  
 
-Mueller, B. (2021, May 4). *The Artificial Intelligence Act: A Quick Explainer. Center for Data Innovation.* https://datainnovation.org/2021/05/the-artificial-intelligence-act-a-quick-explainer/
+Mueller, B. (2021, May 4). *The Artificial Intelligence Act: A Quick Explainer. Center for Data Innovation.* Retrieved December 2, 2021, from https://datainnovation.org/2021/05/the-artificial-intelligence-act-a-quick-explainer/

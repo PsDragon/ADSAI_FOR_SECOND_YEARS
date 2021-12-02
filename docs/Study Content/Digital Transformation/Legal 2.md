@@ -2,7 +2,7 @@
 sort: 4
 ---
 
-## __Law (2): The Proposed Artificial Intelligence Act__
+## __Legal (2): The Proposed Artificial Intelligence Act__
 \
 <img src="./images/datalab_banner.jpg" alt="Books banner" width="600"/>
 

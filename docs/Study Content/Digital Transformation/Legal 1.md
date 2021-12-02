@@ -2,7 +2,7 @@
 sort: 4
 ---
 
-## __Law (1): Introduction to the European Union Law-Making Process.__
+## __Legal (1): Introduction to the European Union Law-Making Process.__
 \
 <img src="./images/datalab_banner.jpg" alt="Books banner" width="600"/>
 

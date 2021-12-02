@@ -2,7 +2,7 @@
 sort: 4
 ---
 
-## __Law (3): When GDPR meets AIA__
+## __Legal (3): When GDPR meets AIA__
 \
 <img src="./images/datalab_banner.jpg" alt="Books banner" width="600"/>
 
@@ -78,6 +78,23 @@ Ahead of the AI Act coming into force and as a means to help AI developers compl
 __3a__ Read more about the goal and purpose of ALTAI [here](https://altai.insight-centre.org/), and the seven characteristics of Trustworthy AI as prescribed by the European Commission’s High-Level Expert Group on Artificial Intelligence.
 
 __3b__ Watch [this video](https://futurium.ec.europa.eu/en/european-ai-alliance/videos/all-you-need-know-trustworthy-ai-and-role-law-and-regulation) about Trustworthy AI and the role of law and regulation.
+
+*After you have watched the above video, reflect on what the key takeaways are for you, and write them down. Share these takeaways with your classmates.*
+
+### 4. Existing Fundamental Rights of Data Subjects
+
+Apart from the GDPR requirements that you have learned about above, note that there are existing fundamental rights enshrined in the European Convention on Human Rights and the European Social Charter that have to be complied with too, in developing and using AI systems. These fundamental rights relate to non-discrimination, rights of children, privacy (apart from the GDPR), and freedom of expression and assembly.
+
+__4a__ Read about these fundamental rights [here](https://altai.insight-centre.org/Home/FundamentalRights) and the questions about these rights that you should ask yourself when you are working on an AI project.
+
+__4b__ Refer to the work of the European AI Alliance here and explore the resources and information provided to see what the latest developments in AI are in the EU.
+
+__4c__ Also navigate to [the “Self-Assess Your AI System”](https://futurium.ec.europa.eu/en/european-ai-alliance ) tab to access the PDF of the [Assessment List] (https://futurium.ec.europa.eu/en/european-ai-alliance/pages/altai-assessment-list-trustworthy-artificial-intelligence ) as well as the web-based self-assessment tool.
+
+__4d__ Apply your knowledge:
+1.	In thinking about the design of your project, identify the legal and ethical issues and consider how you will address them. In doing so, use the ALTAI web-based tool you read about to help you do this.
+
+2.	At which point in the development process of an AI system do you think this this self-assessment should be done, for the most useful result? Should it be done more than once for the same project? Explain your reaction to this after you have completed the self-assessment and read the result and follow-up recommendations.
 
 ***
 

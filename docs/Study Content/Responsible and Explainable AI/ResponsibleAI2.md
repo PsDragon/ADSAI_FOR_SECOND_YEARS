@@ -18,8 +18,10 @@ Today, you will be introduced to the concept of decoloniality. Additionally, we 
 4. Apply concepts from A Designer's Critical Alphabet to a data project.
 
 __Table of contents:__
-1. Introduction: 2 hours
-2. Workshop: 3 hours
+1. Q&A and standup: 1 hour
+2. Introduction: 2 hours
+3. Workshop: 3 hours
+4. Reflection & Work/learning log: 1 hour
 
 ## Questions or issues?
 If you have any questions or issues regarding the course material, please first ask your peers or ask us in the Q&A in Datalab!
@@ -123,11 +125,6 @@ __5b__ Choose, and provide an answer to at least of the following questions:
 6. When were you at your best today, and why?
 7. (Assuming we were studying the same thing and you could decide and have access to anything), where would you start tomorrow? Why?
 8. What can/should you do with what you know?
-
-***
-
-## Next up!
-Coming Datalab we will reflect upon today's independent study material, and give you an opportunity to ask any questions you might have.
 
 ***
 

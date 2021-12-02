@@ -5,6 +5,7 @@ sort: 2
 # Datalab 13: Risk-Assessment of Disruptive Technologies
 Yesterday, you create essentially the start of a high-level design for your application. Today, we'll review that with our peers and apply the GDPR framework on it to see where we might run into problems and need to iterate on our design. But, before we look at the GDPR, we're going to dicuss disruptive technologies! Also, we'll have lunch at 12:00.
 
+
 ## 0) Learning Objectives:
 After this module you'll:
 1. be able to identify disruptive technologies and the different stages thereof;

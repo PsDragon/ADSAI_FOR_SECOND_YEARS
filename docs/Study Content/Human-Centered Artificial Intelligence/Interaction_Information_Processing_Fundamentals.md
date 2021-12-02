@@ -61,15 +61,15 @@ Watch the videos below and then make the excercises!
 
 ## 3) Workshop
 Create a digital document (word, .text, markdown, jupyter notebook, paper and photographs; whichever you prefer, but remember that you have to evidence it) and record the following:
-1. *Define your problem!*
+1. **Define your problem!**
 - What problem does your algorithm solve?
 - Clearly define it in max 100 words! You can also only just use one word too; e.g. hunger. Remember, you have to explain it to your peers and lecturers tomorrow!
-2. *Diverge with multiple solutions*. Come up with 3 solutions at least! You can come up with as many as you like, just make sure you have at least 3! Motivate you solution by at least answering the following questions:
+2. **Diverge with multiple solutions**. Come up with 3 solutions at least! You can come up with as many as you like, just make sure you have at least 3! Motivate you solution by at least answering the following questions:
 - What could solve your problem?
 - How is it going to solve your problem?
 - Why is it feasible?
 - What are the requirements for this solution to work?
-3. Converge on best solution: by answering the following questions.
+3. **Converge on best solution**: by answering the following questions.
 - Which solution solution do you think is best?
 - Why do you think it's the best solution?
 - How well do you think it solves the problem? Define this in a percentage and motivate your answer.

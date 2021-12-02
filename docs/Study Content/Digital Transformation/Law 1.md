@@ -2,7 +2,7 @@
 sort: 4
 ---
 
-## __Law (1): 1.	Introduction to the European Union Law-Making Process.__
+## __Law (1): Introduction to the European Union Law-Making Process.__
 \
 <img src="./images/datalab_banner.jpg" alt="Books banner" width="600"/>
 
@@ -105,4 +105,4 @@ __3b__ Prepare “for” arguments and “against” arguments for the debate.
 __Topic of the debate: Companies that implement the GDPR law have a competitive advantage.__
 
 ## __Literature__
-*Sources and scope of European Union law: Fact sheets on the European Union: European Parliament.* Fact Sheets on the European Union | European Parliament. (n.d.). Retrieved December 2, 2021, from https://www.europarl.europa.eu/factsheets/en/sheet/6/sources-and-scope-of-european-union-law. 
+*Sources and scope of European Union law: Fact sheets on the European Union: European Parliament.* Fact Sheets on the European Union | European Parliament. (n.d.). Retrieved December 2, 2021, from https://www.europarl.europa.eu/factsheets/en/sheet/6/sources-and-scope-of-european-union-law.

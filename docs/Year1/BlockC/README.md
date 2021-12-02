@@ -60,7 +60,7 @@ At the beginning of the project, you will be introduced to the project by one of
 [Decolonizing AI ](../../Study%20Content/Business%20Intelligence/SQL_DDL2.html)
 
 ## Friday
-[DataLab: A Designer's Critical Alphabet](../../Study%20Content/Business%20Intelligence/DataLab2_SQL_Assignment.html)
+[DataLab 2: Responsible AI Assignment](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI5.html)
 
 # Week 2 : Getting started with Deep Learning
 

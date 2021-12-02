@@ -29,6 +29,7 @@ Good luck!
 
 ## 1) Introduction to TOPIC
 Bla
+https://design.google/library/simulating-intelligence/
 
 ## 2) Workshop on TOPIC
 Bla

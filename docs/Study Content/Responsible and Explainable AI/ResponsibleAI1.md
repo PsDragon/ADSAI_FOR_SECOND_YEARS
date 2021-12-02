@@ -31,42 +31,42 @@ Good luck!
 
 ***
 
-## 1) Introduction:
+## 2) Introduction:
 
-__1a__ Watch the video Why monkeys (and humans) are wired for fairness by Sarah Brosnan.
+__2a__ Watch the video Why monkeys (and humans) are wired for fairness by Sarah Brosnan.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dKob6b8QzkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Video 1. Why monkeys (and humans) are wired for fairness.*
 
-__1b__ Explain how the terms 'fairness' and 'cooperation' relate to each other by giving a real-life example. Write your answer down.
+__2b__ Explain how the terms 'fairness' and 'cooperation' relate to each other by giving a real-life example. Write your answer down.
 
-__1c__ Read the comic book Fairness & Friends by Khan et., al., which you can find [here]( https://dataresponsibly.github.io/comics/vol2/fairness_en.pdf).
+__2c__ Read the comic book Fairness & Friends by Khan et., al., which you can find [here]( https://dataresponsibly.github.io/comics/vol2/fairness_en.pdf).
 
-__1d__ List, and describe the three types of bias presented in the comic book.
+__2d__ List, and describe the three types of bias presented in the comic book.
 
-__1e__ Give example for each type of bias presented in the comic book. Write your answer down, and limit your word count to a maximum of 200 words.
+__2e__ Give example for each type of bias presented in the comic book. Write your answer down, and limit your word count to a maximum of 200 words.
 
 ***
 
-## 2) Workshop: The Difference Between Equality and Equity:
+## 3) Workshop: The Difference Between Equality and Equity:
 
 Now, we're introduced to the terms 'fairness' and 'bias' it's time to ground down these fundamentals. In the workshop, you will learn about how two principles, equality and equity, can help to achieve fairness.
 
 > Though often used interchangeably, equality and equity are quite different. If fairness is the goal, equality and equity are two processes through which we can achieve it. Equality simply means everyone is treated the same exact way, regardless of need or any other individual difference. Equity, on the other hand, means everyone is provided with what they need to succeed. In an equality model, a coach gives all of his players the exact same shoes. In an equity model, the coach gives all of his players shoes that are their size.
 <br>
 
-### 2.1 Individual exercises
+### 3.1 Individual exercises
 
-__2.1a__ Read the Post-Its in Figure 1.
+__3.1a__ Read the Post-Its in Figure 1.
 
 <img src="./images/connecting_post_its.png" alt="Books banner" width="600"/>
 
 *Figure 1. Post-Its on a bulletin board.*
 
-__2.1a__ Fill the gaps in the 'text' Post-Its by connecting it to the correct 'concept' Post-It. Write your answer down.
+__3.1a__ Fill the gaps in the 'text' Post-Its by connecting it to the correct 'concept' Post-It. Write your answer down.
 
-__2.1b__ Provide answers to the following answers. Provide clear, and concise answers.  
+__3.1b__ Provide answers to the following answers. Provide clear, and concise answers.  
 
 <img src="./images/equityvsequality.jpg" alt="Books banner" width="450"/>
 
@@ -78,17 +78,17 @@ __2.1b__ Provide answers to the following answers. Provide clear, and concise an
 3. How are equality and equity related to fairness? In school, sports, society, etc.?
 4. Are there other ways to achieve fairness besides equity and equality? (For example, the removal of the wooden fence eliminates the structural barrier to access.)
 
-### 2.2 Group exercises
+### 3.2 Group exercises
 
-__2.2a__ Team up with at least one fellow student, and discuss your answers to the individual exercises. Write down the name(s) of your team mate(s), and the differences/commonalities in your provided answers.
+__3.2a__ Team up with at least one fellow student, and discuss your answers to the individual exercises. Write down the name(s) of your team mate(s), and the differences/commonalities in your provided answers.
 
 ***
 
-## 3) Additional material (optional):
+## 4) Additional material (optional):
 
 This part of the independent study material is optional. You are not required to complete the following questions. However, they will help you to deepen your understanding of the concepts presented in the independent study material.
 
-### 3.1 Justice as fairness by John Rawls
+### 4.1 Justice as fairness by John Rawls
 
 Stanford Encyclopedia of Philosophy is a trustworthy online source that provides extensive information on philosophy, and related fields. You can access their entry on the philosopher John Rawls, [here](https://plato.stanford.edu/entries/rawls/).
 

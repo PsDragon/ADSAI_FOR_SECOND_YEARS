@@ -89,7 +89,7 @@ __4a__ Read about these fundamental rights [here](https://altai.insight-centre.o
 
 __4b__ Refer to the work of the European AI Alliance here and explore the resources and information provided to see what the latest developments in AI are in the EU.
 
-__4c__ Also navigate to [the “Self-Assess Your AI System”](https://futurium.ec.europa.eu/en/european-ai-alliance ) tab to access the PDF of the [Assessment List] (https://futurium.ec.europa.eu/en/european-ai-alliance/pages/altai-assessment-list-trustworthy-artificial-intelligence ) as well as the web-based self-assessment tool.
+__4c__ Also navigate to [the “Self-Assess Your AI System”](https://futurium.ec.europa.eu/en/european-ai-alliance ) tab to access the PDF of the [Assessment List](https://futurium.ec.europa.eu/en/european-ai-alliance/pages/altai-assessment-list-trustworthy-artificial-intelligence ) as well as the web-based self-assessment tool.
 
 __4d__ Apply your knowledge:
 1.	In thinking about the design of your project, identify the legal and ethical issues and consider how you will address them. In doing so, use the ALTAI web-based tool you read about to help you do this.

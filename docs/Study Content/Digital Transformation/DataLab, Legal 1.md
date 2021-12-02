@@ -2,13 +2,13 @@
 sort: 4
 ---
 
-## __DataLab (2): Debates: Ensuring Responsible AI is unrealistic.__
+## __DataLab (1): Debates: Companies that implement the GDPR law have a competitive advantage.__
 \
 <img src="./images/datalab_banner.jpg" alt="Books banner" width="600"/>
 
 ### 1. Introduction
 
-At the first part of DataLab 2 you will participate in the debate: Ensuring Responsible AI is unrealistic. During the second part of the day, you will have a chance to work on the creative brief and will receive formative feedback from your lecturers. At the end of the day, from 16:00 to 17:00, we will have a moment to reflect on DataLab 2 and ask questions during the Q&A.
+At the first part of DataLab 1 you will participate in the debate: Companies that implement the GDPR law have a competitive advantage.. During the second part of the day, you will have a chance to work on the creative brief. At the end of the day, from 16:00 to 17:00, we will have a moment to reflect on DataLab 1 and ask questions during the Q&A.
 
 ***
 

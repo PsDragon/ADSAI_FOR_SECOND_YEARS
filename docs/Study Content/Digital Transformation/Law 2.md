@@ -74,33 +74,28 @@ __2b__ Watch this webinar recording discussing the EU’s approach to artificial
 </figure>
 <!-- blank line -->
 
-<!-- blank line -->
-<figure class="video_container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zshh8M72AV0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure>
-<!-- blank line -->
-
-<!-- blank line -->
-<figure class="video_container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cotxhOkux18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure>
-<!-- blank line -->
-
-Having seen how the how legislation, or law, is created in the EU, as well as the different types of legislative instruments and their functions and purposes.
-
-__2b__ Read [this fact sheet](https://www.europarl.europa.eu/factsheets/en/sheet/6/sources-and-scope-of-european-union-law) for an overview of law-making in the EU, and an explanation of the different types of legislative instruments.
-
-__2c__ Watch these videos about how the EU passes new laws, and the different types of laws and their functions:
-
-<!-- blank line -->
-<figure class="video_container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8C0Kq7ioOpk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure>
-<!-- blank line -->
-
 *After you have watched the above video, reflect on what the key takeaways are for you, and write them down. Share these takeaways with your classmates.*
 
+__2c__ Read Articles 1 – 24 of the proposed [AI Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1623335154975&uri=CELEX%3A52021PC0206), using the guide tips in the above readings to help you navigate it. You will see that the document has three parts:
+-	The Explanatory Memorandum (Parts 1 - 5)
 
+-	The Proposal (Paragraphs 1 – 89)
+
+-	The Titles and Articles
+
+For the purposes of this module, focus on Articles 1 – 24.
+
+If you are interested, read the Explanatory Memorandum, as it explains why the Articles are drafted the way they are. *All you are expected to do is gain some familiarity and understanding of the structure and broad content, and where to find the most important principles and requirements.*
+
+__2d__ Check your understanding:
+
+- Which Article of the AI Act provides definitions of the terms used in the Act?
+
+- Is the list of artificial intelligence processes and approaches referred to in Article 3 and listed in Annex 1 of the AI Act a closed or open list? Which other Article addresses this issue, given that technological progress is always happening?
+
+- For each of the categories of AI systems that are identified in the AI Act according to risk, give one example of an actual AI system (still in use or no longer in use) that matches the risk level.
+
+***
 
 ## __Literature__
 

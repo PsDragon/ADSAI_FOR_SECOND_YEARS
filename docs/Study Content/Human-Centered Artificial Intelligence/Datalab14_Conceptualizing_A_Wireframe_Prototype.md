@@ -27,6 +27,7 @@ We start by briefly reflecting on what we learned about TOPIC. Do you have any q
 
 ## 1) Introduction/Workshop to TOPIC
 Bla
+https://pair.withgoogle.com/guidebook/workshop
 
 ## 2) PROJECT BRIEF TASK
 Bla

@@ -31,7 +31,7 @@ Good luck!
 
 ***
 
-## 1) Introduction
+## 1) Introduction:
 
 __1a__ Watch the video Why monkeys (and humans) are wired for fairness by Sarah Brosnan.
 
@@ -49,7 +49,7 @@ __1e__ Give example for each type of bias presented in the comic book. Write you
 
 ***
 
-## 2) Workshop: The Difference Between Equality and Equity
+## 2) Workshop: The Difference Between Equality and Equity:
 
 Now, we're introduced to the terms 'fairness' and 'bias' it's time to ground down these fundamentals. In the workshop, you will learn about how two principles, equality and equity, can help to achieve fairness.
 
@@ -84,7 +84,7 @@ __2.2a__ Team up with at least one fellow student, and discuss your answers to t
 
 ***
 
-## 3) Additional material (optional)
+## 3) Additional material (optional):
 
 This part of the independent study material is optional. You are not required to complete the following questions. However, they will help you to deepen your understanding of the concepts presented in the independent study material.
 
@@ -98,7 +98,11 @@ In addition, The School of Life, also has provides high quality videos on variou
 
 *Video 2. Political Theory, John Rawls.*
 
+***
+
 ## Next up!
 Coming Datalab we will reflect upon today's independent study material, and give you an opportunity to ask any questions you might have.
+
+***
 
 ## Resources

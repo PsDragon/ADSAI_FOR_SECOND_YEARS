@@ -30,7 +30,7 @@ Good luck!
 
 ***
 
-## 1) Introduction
+## 1) Introduction:
 
 ### 1.1 What is algorithmic bias
 
@@ -76,7 +76,7 @@ __1.3__ Select one debiasing technique provided by IBM's AI 360 Toolkit and expl
 
 ***
 
-## 2) Workshop: TensorFlow's Responsible AI Toolkit
+## 2) Workshop: TensorFlow's Responsible AI Toolkit:
 
 Now, we are introduced to fairness enhancing metrics, and bias mitigating techniques, it is time to ground down these fundamentals. In the workshop, you will explore TensorFlow's Responsible AI Toolkit, which you can find [here](https://www.tensorflow.org/responsible_ai).
 
@@ -88,7 +88,7 @@ __2c__ What is your opinion on TensorFlow's Responsible AI Toolkit? Was it usefu
 
 ***
 
-## 3) Additional material (optional)
+## 3) Additional material (optional):
 
 This part of the independent study material is optional. You are not required to complete the following questions. However, they will help you to deepen your understanding of the concepts presented in the independent study material.
 
@@ -100,7 +100,11 @@ Want to know why algorithms can be seen as 'ethicopolitical' entities? Check out
 
 It is, amongst others, available via [bol.com](https://www.bol.com/nl/nl/f/cloud-ethics-algorithms-and-the-attributes-of-ourselves-and-others/9200000117749888/).
 
+***
+
 ## Next up!
 Coming Datalab we will reflect upon today's independent study material, and give you an opportunity to ask any questions you might have.
+
+***
 
 ## Resources

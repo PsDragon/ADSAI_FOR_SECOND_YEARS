@@ -60,7 +60,7 @@ Watch the videos below and then make the excercises!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cmBf1fBRXms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 3) Workshop
-Create a digital document (word, .text, markdown, jupyter notebook, paper and photographs; whichever you prefer, but remember that you have to evidence it) and record the following:
+Create a digital document (Microsoft Word, and remember that you have to evidence it), call it 'HCAI Design Document - [NameOfApplication] - [StudentName]' and record the following:
 1. **Define your problem!**
 - What problem does your algorithm solve?
 - Clearly define it in max 100 words! You can also only just use one word too; e.g. hunger. Remember, you have to explain it to your peers and lecturers tomorrow!
@@ -74,7 +74,7 @@ Create a digital document (word, .text, markdown, jupyter notebook, paper and ph
 - Why do you think it's the best solution?
 - How well do you think it solves the problem? Define this in a percentage and motivate your answer.
 
-Upload your document to Github!
+**Upload your document to Github!** *Also note that if you don't fill out the name slots this time, you will have to do push ups in class!*
 
 ## Next up!
 Coming Datalab we will reflect on these concept again, review your designs: your problems and solutions, and give you an opportunity to ask any questions you might have.

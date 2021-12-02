@@ -105,4 +105,6 @@ __3b__ Prepare “for” arguments and “against” arguments for the debate.
 __Topic of the debate: Companies that implement the GDPR law have a competitive advantage.__
 
 ## __Literature__
-*Sources and scope of European Union law: Fact sheets on the European Union: European Parliament.* Fact Sheets on the European Union | European Parliament. (n.d.). Retrieved December 2, 2021, from https://www.europarl.europa.eu/factsheets/en/sheet/6/sources-and-scope-of-european-union-law. 
+*De Ethische Data Assistent (DEDA).* (2017). Utrecht Data School. https://dataschool.nl/deda/
+
+Dignum, V. (2019). *Responsible Artificial Intelligence: How to Develop and Use AI in a Responsible Way (Artificial Intelligence: Foundations, Theory, and Algorithms).* (Freely accessible through Springer using BUAS login)  

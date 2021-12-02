@@ -72,4 +72,4 @@ On the basis of Article 7.3.12 of the Dutch Youth Act, information can be given 
 </div>
 
 ## __Literature__
-*Sources and scope of European Union law: Fact sheets on the European Union: European Parliament.* Fact Sheets on the European Union | European Parliament. (n.d.). Retrieved December 2, 2021, from https://www.europarl.europa.eu/factsheets/en/sheet/6/sources-and-scope-of-european-union-law.
+*General Data Protection Regulation (GDPR) – Official Legal Text.*(2019, 2 september). General Data Protection Regulation (GDPR). https://gdpr-info.eu/ 

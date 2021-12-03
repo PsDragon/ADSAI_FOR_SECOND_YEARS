@@ -3,17 +3,14 @@ sort: 9
 ---
 
 # Designing for AI Algorithms Implementation
-Today we start with some reading on designing for the implementation of AI Algorithms. The rest of the day is mostly about working on your wireframe prototype! 
+Today we start with some reading on designing for the implementation of AI Algorithms. The rest of the day is mostly about working on your wireframe prototype!
 
 ## 0) Learning Objectives:
-After this module you'll FINK VERBS:
-1. TOPIC;
-2. TOPIC;
-3. TOPIC.
+After this module you'll know how to designing for AI Algorithms implementation.
 
 Table of contents:
-1. TOPIC: X hours
-2. TOPIC: X hours
+1. Designing for AI Algorithms Implementation: 2 hours
+2. Working on Wireframe Prototype; horizontal slice: 6 hours
 
 **Now, open your worklog and plan your day informed by the stand-up and today's schedule**
 
@@ -31,14 +28,13 @@ Good luck!
 Bla
 https://design.google/library/simulating-intelligence/
 
-## 2) Workshop on TOPIC
-Bla
+## 2) Working on Wireframe Prototype; horizontal slice
 
 
 ## Next up!
-Coming Datalab we will reflect on TOPIC again and give you an opportunity to ask any questions you might have.
+Coming Datalab we will reflect on designing for AI Algorithms Implementation again and give you an opportunity to ask any questions you might have.
 
-Tomorrow, we will cover TOPIC!
+Tomorrow, we will make the final !
 
 
 ## Resources

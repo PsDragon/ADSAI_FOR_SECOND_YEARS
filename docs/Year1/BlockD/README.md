@@ -24,20 +24,14 @@ measure of well-being for Breda?**
 <br>
 
 In addition, you are expected to ensure that you're solution complies to the
-latest legal and ethical frameworks.
+latest legal and ethical frameworks. Introductory workshops will be provided on this subject.
 
 Please refer to the project brief for more detailed information.
 
 ### Team-based working - Agile Scrum
 
 You are expected to follow an agile scrum project management methodology for
-this block. Workshops will introduce you to the scrum way of working.
-
-In Scrum project management, the project team, led by the project manager,
-consists of a product owner, Scrum master, and other cross-functional team members.
-The product owner is responsible for maximizing the value of the product,
-while the Scrum master is accountable for ensuring that the project team
-follows the Scrum methodology.
+this block. Introductory workshops will introduce you to the scrum way of working.
 
 The Scrum methodology is characterized by short phases or “sprints” when
 project work occurs. During sprint planning, the project team identifies a
@@ -48,12 +42,6 @@ At the end of the sprint, this work should be ready to be delivered to the
 client. Finally, the sprint ends with a sprint review and retrospective—or
 rather, lessons learned. This cycle is repeated throughout the project
 lifecycle until the entirety of the scope has been delivered.
-
-In many ways, this mirrors aspects of traditional project management.
-One of the key differences, however, is how one creates “shippable” portions of
-the project along the way rather than delivering everything at the very end.
-Doing so allows the client to realize the value of the project throughout the
-process rather than waiting until the project is closed to see results.
 
 Please watch the following video to get a brief introduction to agile scrum.
 <!-- blank line -->

@@ -10,7 +10,7 @@ For this module we are going to explore the fundamental of user interaction and 
 After this module you'll gain a basic understanding and learn how to apply:
 1. Interaction Design;
 2. User Experience Design;
-3. Human-Centered AI principles.
+3. Basic Human-Centered AI principles.
 
 Table of contents:
 1. Interaction Design & User Experience Design: 3.5 hours

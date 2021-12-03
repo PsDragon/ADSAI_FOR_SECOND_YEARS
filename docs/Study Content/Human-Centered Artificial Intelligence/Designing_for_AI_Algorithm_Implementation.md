@@ -3,8 +3,7 @@ sort: 9
 ---
 
 # Designing for AI Algorithms Implementation
-
-INTRODUCTION GOES HERE
+Today we start with some reading on designing for the implementation of AI Algorithms. The rest of the day is mostly about working on your wireframe prototype! 
 
 ## 0) Learning Objectives:
 After this module you'll FINK VERBS:

@@ -2,6 +2,6 @@
 sort: 1
 ---
 
-# Deep Learning
+# Agile Project Management
 
 {% include list.liquid all=true %}

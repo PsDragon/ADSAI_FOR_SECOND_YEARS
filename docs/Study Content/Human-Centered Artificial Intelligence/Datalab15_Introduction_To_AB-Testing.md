@@ -37,17 +37,30 @@ We start by briefly reflecting on what we learned about user feedback and user t
 This lecture will be delivered live but you can preview the slide [here](https://github.com/BredaUniversityADSAI/ADS-AI/blob/1eb74434bf364a3e3e62ee84ae32260b573e5b20/docs/Study%20Content/Human-Centered%20Artificial%20Intelligence/Assets/AB-Testing.pptx)!
 
 ## 3) A/B Testing on deployed prototype
-Bla
+Yesterday you made the version of your vertical slice as you envisioned it. But now, we're going to create a second version of you vertical slice which is slightly different then the one you created yesterday. Think of something you think would be interesting to subject to A/B-testing, implement that change in the vertical slice of you wireframe prototype and deploy that version as well for user testing.
+
+If you don't know what to change, ask the lecturers to look together with you for anything which might serve as a possible improvement. Then, run through the steps above.
+
+**Done with you new deployed version for user testing? Open your HCAI design document and create a section called 'A/B Test Datalab 15'. Create a bullet point section for logging all feedback point!**
+
+Let several of your classmates; or passer-by's (anyone you fancy apart from the lecturers) test your vertical slice and note along the way what/if different interactions between occur. Every other intersting feedback point should be noted too but in a seperate bullet point list called: "Non A/B-test feedback:". This is the crucial part of user testing because you will need to know what might work and what might not work in order to iterate on your design: make the best possible application.
+
+**Save your HCAI design document to Github and note what your did; and your evidence, in your work- and learning-log**
 
 ## 4) Iterate on Wireframe Prototype
-
+Now, based on the feedback you collected today; start improving on your design in your HCAI design document. If you have time left, you can try to immediately implement these design changes into you wireframe prototype!
 
 ## 5) In-Class Discussion
 At 16:30, there's a meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
 
 ## Up Next!
-Next week, we will cover TOPIC!
+Tomorrow, we will cover the Development integration of AI algorithms!
 
 
-## Resources
-- [A resource](www.google.com)
+###Recommend Literature:
+−	[Interaction Design: beyond human-computer interaction](https://login.proxy1.dom1.nhtv.nl/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cat01829a&AN=buas.303541695&site=eds-live)   
+−	[UX Fundamentals for Non-UX Professionals : User Experience Principles for Managers, Writers, Designers, and Developers](https://login.proxy1.dom1.nhtv.nl/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edsebk&AN=1892077&site=eds-live)
+
+###Further Reading:
+−	[Designing with Data](http://shop.oreilly.com/product/0636920026228.do)
+−	[The Design of Everyday Things, Donald A. Norman](https://login.proxy1.dom1.nhtv.nl/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cat01829a&AN=buas.393706974&site=eds-live)

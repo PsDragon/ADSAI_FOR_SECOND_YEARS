@@ -67,30 +67,30 @@ Please watch the following video to get a brief introduction to agile scrum.
 # Week 1 : Agile project Management
 
 ## Monday
-[The scrum approach to project success](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI1.html)
+[The scrum approach to project success](../../Study%20Content/Agile%20Project%20Management/1.%20The%20scrum%20approach%20to%20project%20success.html)
 
 ## Tuesday
-[Essential roles for scrum teams](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI2.html)
+[Essential roles for scrum teams](../../Study%20Content/Agile%20Project%20Management/2.%20Essential%20roles%20for%20scrum%20teams.html)
 
 ## Wednesday
-[Project vision and roadmaps](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI3.html)
+[Project vision and roadmaps](../../Study%20Content/Agile%20Project%20Management/3.%20Project%20vision%20and%20roadmaps.html)
 
 ## Thursday
-[Sprint planning and standups](../../Study%20Content/Business%20Intelligence/SQL_DDL2.html)
+[Sprint planning and standups](../../Study%20Content/Agile%20Project%20Management/4.%20Sprint%20planning%20and%20standups.html)
 
 ## Friday
-[Wrapping up a sprint and retrospectives](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI5.html)
+[Wrapping up a sprint and retrospectives](../../Study%20Content/Agile%20Project%20Management/5.%20Wrapping%20up%20a%20sprint%20and%20retrospectives.html)
 
 # Week 2 : Legal frameworks governing AI
 
 ## Monday
-[Introduction to the European Union Law-Making Process](../../Study%20Content/Digital%20Transformation/Ethics%20&%20Law%201.html)
+[Introduction to the European Union Law-Making Process](../../Study%20Content/Digital%20Transformation/Legal%201.html)
 
 ## Tuesday
-[The Proposed Artificial Intelligence Act](../../Study%20Content/Digital%20Transformation/DataLab%201.html)
+[The Proposed Artificial Intelligence Act](../../Study%20Content/Digital%20Transformation/Legal%202.html)
 
 ## Wednesday
-[When GDPR meets AI](../../Study%20Content/Digital%20Transformation/Ethics%20&%20Law%202.html)
+[When GDPR meets AI](../../Study%20Content/Digital%20Transformation/Legal%203.html)
 
 
 # Week 3 to 8 - Creative Brief

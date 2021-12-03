@@ -80,3 +80,13 @@ Create a digital document (Microsoft Word, and remember that you have to evidenc
 Coming Datalab we will reflect on these concept again, review your designs: your problems and solutions, and give you an opportunity to ask any questions you might have.
 
 Tomorrow in Datalab, we will also cover disruptive technologies and see how well we comply with the GDPR regulations for our chosen solution! It's more fun then it sounds, I promise!
+
+
+## Resources
+Recommend Literature:
+−	[Interaction Design: beyond human-computer interaction](https://login.proxy1.dom1.nhtv.nl/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cat01829a&AN=buas.303541695&site=eds-live)   
+−	[UX Fundamentals for Non-UX Professionals : User Experience Principles for Managers, Writers, Designers, and Developers](https://login.proxy1.dom1.nhtv.nl/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edsebk&AN=1892077&site=eds-live)
+
+Further Reading:
+−	[Designing with Data](http://shop.oreilly.com/product/0636920026228.do)
+−	[The Design of Everyday Things, Donald A. Norman](https://login.proxy1.dom1.nhtv.nl/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cat01829a&AN=buas.393706974&site=eds-live)

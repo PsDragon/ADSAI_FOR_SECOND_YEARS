@@ -25,7 +25,10 @@ Good luck!
 ## 0) Q & A
 We start by briefly reflecting on what we learned about TOPIC. Do you have any questions? Now is the time to ask them!
 
-## 1) Introduction/Workshop to TOPIC
+## 1) Wizzard of Oz Prototyping
+Watch the following video first@
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NZR64EF3OpA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Bla
 https://pair.withgoogle.com/guidebook/workshop
 
@@ -42,3 +45,12 @@ Next week, we will cover TOPIC!
 
 ## Resources
 - [A resource](www.google.com)
+
+## Resources
+Recommend Literature:
+−	[Interaction Design: beyond human-computer interaction](https://login.proxy1.dom1.nhtv.nl/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cat01829a&AN=buas.303541695&site=eds-live)   
+−	[UX Fundamentals for Non-UX Professionals : User Experience Principles for Managers, Writers, Designers, and Developers](https://login.proxy1.dom1.nhtv.nl/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edsebk&AN=1892077&site=eds-live)
+
+Further Reading:
+−	[Designing with Data](http://shop.oreilly.com/product/0636920026228.do)
+−	[The Design of Everyday Things, Donald A. Norman](https://login.proxy1.dom1.nhtv.nl/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cat01829a&AN=buas.393706974&site=eds-live)

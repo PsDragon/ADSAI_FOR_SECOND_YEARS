@@ -64,3 +64,12 @@ Open your Design Document and answer the following questions in it:
 Coming Datalab we will reflect on Interaction Design and User Experience; with and without AI, again!
 
 Tomorrow we will first continue to expand our knowledge by applying it a subfield: interface design!
+
+## Resources
+Recommend Literature:
+−	[Interaction Design: beyond human-computer interaction](https://login.proxy1.dom1.nhtv.nl/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cat01829a&AN=buas.303541695&site=eds-live)   
+−	[UX Fundamentals for Non-UX Professionals : User Experience Principles for Managers, Writers, Designers, and Developers](https://login.proxy1.dom1.nhtv.nl/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edsebk&AN=1892077&site=eds-live)
+
+Further Reading:
+−	[Designing with Data](http://shop.oreilly.com/product/0636920026228.do)
+−	[The Design of Everyday Things, Donald A. Norman](https://login.proxy1.dom1.nhtv.nl/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cat01829a&AN=buas.393706974&site=eds-live)

@@ -2,8 +2,17 @@
 sort: 8
 ---
 
-# Pixel/Feature Attribution
-Pixel Attribution highlight the pixels that were relevant
+# The need for explainable AI
+
+
+<figure>
+    <img src=".\images\xai.PNG" />
+</figure>
+<br>
+
+## Pixel/Feature Attribution
+One of the key methods that can explain the outcomes of an AI algorithm is
+Pixel Attribution. These methods highlight the pixels that were relevant
 for a certain image classification by a neural network [1]. Pixel attribution
 methods can be found under various names: sensitivity map, saliency map,
 pixel attribution map, gradient-based attribution methods, feature relevance,
@@ -59,7 +68,9 @@ Furthermore, pixel attribution methods can be very fragile.
 Small (adversarial) perturbations to an image, that still lead to the same
 prediction, can lead to very different pixels being highlighted as explanations [2].
 
-## __Literature__
+## Assignments
+
+Please read and summarize (~500 words) the following articles.
 
 [1] Zeiler, Matthew D., and Rob Fergus. “Visualizing and understanding convolutional networks.” European conference on computer vision. Springer, Cham, 2014
 

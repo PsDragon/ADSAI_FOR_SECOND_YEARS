@@ -14,7 +14,7 @@ After this module you'll be able to:
 Table of contents:
 1. Rewarding User Feedback: 1 hour
 2. User Tests in UX: 2 hours
-3. Build on Wireframe Prototype: Digital Vertical Slice
+3. Build on Wireframe Prototype; Digital Vertical Slice: 5 hours
 
 
 ## Questions or issues?

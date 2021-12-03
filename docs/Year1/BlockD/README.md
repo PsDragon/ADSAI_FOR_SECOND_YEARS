@@ -15,7 +15,8 @@ As a result, you will spend much more time on your project. Self-study is limite
 
 In this project, you will work in teams and help the municipality of Breda use
 data to improve quality of life for it's citizens. In particular, your team is
-expected to use the knowledge and skills gained in blocks A, B & C to **design and develop a data-driven
+expected to use the knowledge and skills gained in blocks A, B & C to
+**design and develop a data-driven
 measure of well-being for Breda?**
 
 <figure>
@@ -57,17 +58,20 @@ Please watch the following video to get a brief introduction to agile scrum.
 ## Monday
 [The scrum approach to project success](../../Study%20Content/Agile%20Project%20Management/1.%20The%20scrum%20approach%20to%20project%20success.html)
 
-## Tuesday
 [Essential roles for scrum teams](../../Study%20Content/Agile%20Project%20Management/2.%20Essential%20roles%20for%20scrum%20teams.html)
 
-## Wednesday
 [Project vision and roadmaps](../../Study%20Content/Agile%20Project%20Management/3.%20Project%20vision%20and%20roadmaps.html)
+
+## Tuesday
+[DataLab: Project vision and roadmap - Creative Brief]
 
 ## Thursday
 [Sprint planning and standups](../../Study%20Content/Agile%20Project%20Management/4.%20Sprint%20planning%20and%20standups.html)
 
-## Friday
 [Wrapping up a sprint and retrospectives](../../Study%20Content/Agile%20Project%20Management/5.%20Wrapping%20up%20a%20sprint%20and%20retrospectives.html)
+
+## Friday
+[DataLab: Sprint planning - Creative Brief]
 
 # Week 2 : Legal frameworks governing AI
 
@@ -75,10 +79,16 @@ Please watch the following video to get a brief introduction to agile scrum.
 [Introduction to the European Union Law-Making Process](../../Study%20Content/Digital%20Transformation/Legal%201.html)
 
 ## Tuesday
-[The Proposed Artificial Intelligence Act](../../Study%20Content/Digital%20Transformation/Legal%202.html)
+[DataLab: Implementing AI law in practice](../../Study%20Content/Digital%20Transformation/DataLab,%20Legal%201.html)
 
 ## Wednesday
+[The Proposed Artificial Intelligence Act](../../Study%20Content/Digital%20Transformation/Legal%202.html)
+
+## Thursday
 [When GDPR meets AI](../../Study%20Content/Digital%20Transformation/Legal%203.html)
 
+## Friday
+[Datalab: DataLab: Implementing GDPR in practice](../../Study%20Content/Digital%20Transformation/DataLab,%20Legal%201.html)
 
-# Week 3 to 8 - Creative Brief
+**The rest of the block is dedicated to project work. Every Tuesday and Friday, 
+in the datalab you will be provided feedback on your (teams) progress.**

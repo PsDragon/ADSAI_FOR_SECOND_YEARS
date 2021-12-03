@@ -20,6 +20,7 @@ For example, the images below show the predictions of a standard AI image classi
 Your goal for this block is to fix such broken implementations of AI and ensure that AI remains responsible, transparent and explainable. To this end, you are expected to design, implement and evaluate AI algorithms based on deep neural networks that can accurately classify an image while being sensitive to biases that may be present in the data the network is trained on. Further, keeping the end user in mind, imagine a use-case where such an algorithm would have value and create a protype using the concepts learned in Human centered AI.
 
 At the beginning of the project, you will be introduced to the project by one of the lecturers. Throught out the block, you can consult the lecturers if you have any questions or wish to deepen your understanding of project.
+Please refer to the project brief for more detailed information.
 
 ### Creative Brief Timeline
 
@@ -33,8 +34,6 @@ At the beginning of the project, you will be introduced to the project by one of
 </center>
 </figure>
 <br>
-
-
 
 
 ### Creative Brief Requirements:

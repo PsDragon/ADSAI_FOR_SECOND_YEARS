@@ -10,6 +10,7 @@ One of the key responsibilities of the municipality of Oosterhout (henceforth th
 > The client has approached you – the data analyst – with the aim to discover more efficient (in cost and time) ways of delivering youth care.
 
 At the beginning of the project, you will be introduced to the use-case by a data analyst from one of the municipalities. You can consult the client’s data analyst if you have any questions or wish to deepen your understanding of the use-case.
+Please refer to the project brief for more detailed information.
 
 ## Creative Brief Requirements:
 

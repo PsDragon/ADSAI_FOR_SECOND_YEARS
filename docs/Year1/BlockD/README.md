@@ -63,7 +63,7 @@ Please watch the following video to get a brief introduction to agile scrum.
 [Project vision and roadmaps](../../Study%20Content/Agile%20Project%20Management/3.%20Project%20vision%20and%20roadmaps.html)
 
 ## Tuesday
-[DataLab: Project vision and roadmap - Creative Brief]
+[DataLab: Project vision and roadmap - Creative Brief](../../Study%20Content/Agile%20Project%20Management/3.1.%20DataLab%20Scrum.html)
 
 ## Thursday
 [Sprint planning and standups](../../Study%20Content/Agile%20Project%20Management/4.%20Sprint%20planning%20and%20standups.html)
@@ -71,7 +71,7 @@ Please watch the following video to get a brief introduction to agile scrum.
 [Wrapping up a sprint and retrospectives](../../Study%20Content/Agile%20Project%20Management/5.%20Wrapping%20up%20a%20sprint%20and%20retrospectives.html)
 
 ## Friday
-[DataLab: Sprint planning - Creative Brief]
+[DataLab: Sprint planning - Creative Brief](../../Study%20Content/Agile%20Project%20Management/5.1.%20DataLab2%20Scrum.html)
 
 # Week 2 : Legal frameworks governing AI
 
@@ -90,5 +90,5 @@ Please watch the following video to get a brief introduction to agile scrum.
 ## Friday
 [Datalab: DataLab: Implementing GDPR in practice](../../Study%20Content/Digital%20Transformation/DataLab,%20Legal%201.html)
 
-**The rest of the block is dedicated to project work. Every Tuesday and Friday, 
+**The rest of the block is dedicated to project work. Every Tuesday and Friday,
 in the datalab you will be provided feedback on your (teams) progress.**

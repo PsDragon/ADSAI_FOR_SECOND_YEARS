@@ -68,7 +68,9 @@ Furthermore, pixel attribution methods can be very fragile.
 Small (adversarial) perturbations to an image, that still lead to the same
 prediction, can lead to very different pixels being highlighted as explanations [2].
 
-## __Literature__
+## Assignments
+
+Please read and summarize (~500 words) the following articles.
 
 [1] Zeiler, Matthew D., and Rob Fergus. “Visualizing and understanding convolutional networks.” European conference on computer vision. Springer, Cham, 2014
 

@@ -17,6 +17,7 @@ Table of contents:
 2. Adaptive interfaces: X hours
 3. Recommender systems: X hours
 
+**Now, open your worklog and plan your day informed by the stand-up and today's schedule**
 
 ## Questions or issues?
 If you have any questions or issues regarding the course material, please first ask your peers or ask us in the Q&A in Datalab!
@@ -39,7 +40,7 @@ Bla
 
 
 ## 3) New project?
-For this course, we already had our AI Algorithm and we just had to implement it, but if you ever need to start the proces from scratch you should take a look at the [AI guidebook provided by Google](https://pair.withgoogle.com/guidebook). It's really great! 
+For this course, we already had our AI Algorithm and we just had to implement it, but if you ever need to start the proces from scratch you should take a look at the [AI guidebook provided by Google](https://pair.withgoogle.com/guidebook). It's really great!
 
 ## Next up!
 Coming Datalab we will reflect on TOPIC again and give you an opportunity to ask any questions you might have.

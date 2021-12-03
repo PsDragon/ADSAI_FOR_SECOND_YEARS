@@ -17,6 +17,7 @@ Table of contents:
 2. Design Techniques:  1 hour
 3. Workshop: 6 hours (or less if you're done early)
 
+**Now, open your worklog and plan your day informed by the stand-up and today's schedule**
 
 ## Questions or issues?
 If you have any questions or issues regarding the course material, please first ask your peers or ask us in the Q&A in Datalab!

@@ -22,8 +22,18 @@ If you have any questions or issues regarding the course material, please first 
 
 Good luck!
 
-## 0) Q & A
-We start by briefly reflecting on what we learned about TOPIC. Do you have any questions? Now is the time to ask them!
+
+## 0) Stand-up
+We start by hosting a stand-up. Form groups of ~ 5 and run on-another through the following points:
+- What progress have you made up since last datalab?
+- What progress do you anticipate to make today?
+- What impediments are you facing or expecting?
+- With what could you use help or support?
+
+**Open your worklog and plan your day informed by the stand-up and today's schedule**
+
+## 1) Q & A
+We start by briefly reflecting on what we learned about user feedback and user testing. Do you have any questions? Now is the time to ask them!
 
 ## 1) Introduction/Workshop to TOPIC
 Bla

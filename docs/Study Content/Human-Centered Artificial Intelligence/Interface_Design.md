@@ -18,6 +18,8 @@ Table of contents:
 4. Defining User Stories: 1 hour
 5. Prototyping: Building a wireframe prototype: 4 hours
 
+**Now, open your worklog and plan your day informed by the stand-up and today's schedule**
+
 ## Questions or issues?
 If you have any questions or issues regarding the course material, please first ask your peers or ask us in the Q&A in Datalab!
 

@@ -14,10 +14,12 @@ After this module you'll:
 4. iterate on your high-level design based on legal constraints.
 
 Table of contents:
-1. High-level Design: 1.5 hours
-2. Disruptive Technology: 1.5 hours
-3. Lunch: 1 hour
-4. GDPR Application: 4 hours
+0. Stand-up: 0.5 hours
+1. Q&A
+2. High-level Design: 1.5 hours
+3. Disruptive Technology: 1.5 hours
+4. Lunch: 1 hour
+5. GDPR Application: 4 hours
 
 
 ## Questions or issues?
@@ -29,19 +31,33 @@ Tip: Note down any important questions you might have!
 
 Good luck!
 
-## 1) High-level Design
+## 0) Stand-up
+We start by hosting a stand-up. Form groups of ~ 5 and run on-another through the following points:
+- What progress have you made up since last datalab?
+- What progress do you anticipate to make today?
+- What impediments are you facing or expecting?
+- With what could you use help or support?
+
+**Open your worklog and plan your day informed by the stand-up and today's schedule**
+
+## 1) Q & A
+We start by briefly reflecting on what we learned about interaction and inferace design. Do you have any questions? Now is the time to ask them!
+
+## 2) High-level Design
 Discuss your designs with your peers and collect their feedback. Create a notes section in your design document and note down any relevant feedback for or against any of your problems or solutions (and elements thereof). Take turns and go through the following steps:
 1. explain your problems;
 2. explain your possible solutions (the divergent ones);
 3. explain your choses solution (the convergent one);
 4. reiterate with a plan based on the feedback given by your peers.
 
-## 2) Introduction to Disruptive Technologies
+
+
+## 3) Introduction to Disruptive Technologies
 Covered by a interactive lecture where we'll present you with the different stages of disruptive technologies and some examples we'll explore together!
 
 You can find [the slides here](www.google.com)!
 
-## 3) Workshop on the GDPR
+## 4) Workshop on the GDPR
 You already learned about the General Data Protection Regulation framework of the European Union ofcourse. That was a lot of documentation back then, here we just do a summary video instead and then we'll walk through a checklist and note down where we don't comply or need to take some form of action or desion decision regarding our app. That's how we do it in the real-world; we apply it to create something. Watch the video (or not if you remember everthing well enough):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Assdm6fIHlE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -52,7 +68,7 @@ Use [the following tool](https://gdpr.eu/checklist/) to do this!
 4. Integrate these in your design: Add all these protections and protocols to your design document!
 
 
-## 4) In-Class Discussion
+## 5) In-Class Discussion
 At 16:30, there's a class meeting where we'll discuss our progress and reflect on today activities.
 
 ## Up Next!

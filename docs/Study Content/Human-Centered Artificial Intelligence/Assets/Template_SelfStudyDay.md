@@ -16,6 +16,7 @@ Table of contents:
 1. TOPIC: X hours
 2. TOPIC: X hours
 
+**Now, open your worklog and plan your day informed by the stand-up and today's schedule**
 
 ## Questions or issues?
 If you have any questions or issues regarding the course material, please first ask your peers or ask us in the Q&A in Datalab!

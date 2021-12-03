@@ -11,10 +11,11 @@ After this module you'll be able to run and conduct:
 2. Wizzard of Oz user testing;
 
 Table of contents:
+0. Stand-up: 0.5 hours
 1. Q&A: 0.5 hours
-2. User Testing: 1 hour
-2. Wizzard of Oz Testing: 5 hours
-6. In-Class Discussion: 0.5 hours
+3. User Testing: 1 hour
+4. Wizzard of Oz Testing: 5 hours
+5. In-Class Discussion: 0.5 hours
 
 
 ## Questions or issues?
@@ -22,10 +23,19 @@ If you have any questions or issues regarding the course material, please first 
 
 Good luck!
 
-## 0) Q & A
+## 0) Stand-up
+We start by hosting a stand-up. Form groups of ~ 5 and run on-another through the following points:
+- What progress have you made up since last datalab?
+- What progress do you anticipate to make today?
+- What impediments are you facing or expecting?
+- With what could you use help or support?
+
+**Open your worklog and plan your day informed by the stand-up and today's schedule**
+
+## 1) Q & A
 We start by briefly reflecting on what we learned about interaction and inferace design. Do you have any questions? Now is the time to ask them!
 
-## 1) User testing
+## 2) User testing
 All products should include some form of user testing, whether they are digital or not, interactive or non-interactive: as a designer you generally know too much about the product and technology relating to your own project. You cannot simply pretend you don't know these things; that's not how your brain works, and therefore we perform user tests to create a ecologically valid setup to test our designs!
 
 The most basic form of testing your design is simply showing it to a participant and having them 'conceptually' interact with the application. This can be a generate prototype like you can do with your wireframe, or a more designer guided one; usually non-interactive, where you are controlling the prototype instead of the participant.
@@ -36,7 +46,7 @@ Run you classmate through your vertical slice and explain him along the way what
 
 **Save your HCAI design document to Github and note what your did; and your evidence, in your work- and learning-log**
 
-## 2) Wizzard of Oz Prototyping
+## 3) Wizzard of Oz Prototyping
 Watch the following video first!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NZR64EF3OpA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -61,11 +71,11 @@ So, let's start coming up with our own Wizzard of Oz experiment!
 **Save your HCAI design document to Github and note what your did; and your evidence, in your work- and learning-log**
 
 
-## 3) Time left?
+## 4) Time left?
 Implement your findings in your wireframe prototype!
 
 
-## 4) In-Class Discussion
+## 5) In-Class Discussion
 At 16:30, there's a meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
 
 ## Up Next!

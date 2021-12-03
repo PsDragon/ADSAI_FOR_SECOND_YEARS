@@ -19,10 +19,8 @@ Table of contents:
 
 ## 2) Random Forests
  When you have completed with your analyses on the Oosterhout data, please
- Open the [Basics of Machine Learning course](https://www.codecademy.com/learn/machine-learning) on Codecademy and complete the second half of the modules: **Decision Trees**, in particular:
- - Lesson: Random Forests
- - Quiz: Random Forests
- - Project: Predicting Income with Random Forests
+ Open the [Basics of Machine Learning course](https://www.codecademy.com/learn/machine-learning)
+ on Codecademy and complete the module **Random Forests**.
 
 ## 3) In-Class discussion
 At 16:00, there's a meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.

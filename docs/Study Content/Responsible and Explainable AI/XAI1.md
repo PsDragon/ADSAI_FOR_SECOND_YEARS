@@ -2,51 +2,65 @@
 sort: 8
 ---
 
-# Feature visualization in Keras-Pixel/Feature Attribution
+# Pixel/Feature Attribution
+Pixel Attribution highlight the pixels that were relevant
+for a certain image classification by a neural network [1]. Pixel attribution
+methods can be found under various names: sensitivity map, saliency map,
+pixel attribution map, gradient-based attribution methods, feature relevance,
+feature attribution, and feature contribution.
 
-## __Assignment__
+Pixel attribution is a special case of feature attribution, but for images.
+Feature attribution explains individual predictions by attributing each input
+feature according to how much it changed the prediction (negatively or positively).
 
-For this part of the Project Brief, you are going to identify, and describe the limitations of an AI algorithm in terms of fairness, transparency, and interpretability, and subsequently apply methods which address these limitations.
+There is a confusing amount of pixel attribution approaches.
+It helps to understand that there are two different types of attribution methods:
 
-<img src="./images/grad_cam.jpg" alt="SQL meme" width="600"/> \
-*Figure 1. Example of feature attribution with Grad-CAM.*
+Occlusion- or perturbation-based: Methods like SHAP and LIME
+manipulate parts of the image to generate explanations (model-agnostic).
 
-__Requirements:__
+Gradient-based: Many methods compute the gradient of the prediction
+(or classification score) with respect to the input features.
+The gradient-based methods (of which there are many) mostly differ in how the gradient is computed.
 
-- Identify, and describe instances of bias in the dataset. See content on the different types of bias presented in the works of Mehrabi et al. (2019), Suresh and Guttag (2019), Khan et al. (2021).
-- Identify, and describe the limitations in terms of transparency and interpretability of the AI algorithm. See article by Tsimenidis (2020), and Google's Responsible AI post on interpretability.
-- Apply at least one responsible AI method that adresses the datasets' limitation in terms of bias, and subsequently evaluate its impact.
-- Apply at least one explainable AI method that adresses the algorithm's limitations in terms of transparancy and interpretability, and subsequently evaluate its impact. See workshop examples, the article by Linardatos et al. (2021), and the book by Molnar (2020).
-- Apply multiple responsible and explainable AI methods that adresses limitations in terms of bias, transparancy and interpretability, and subsequently contrast their impact on the classification task. See previously mentioned literature.
+Both approaches have in common that the explanation has the same size as the
+input image (or at least can be meaningfully projected onto it) and they assign
+each pixel a value that can be interpreted as the relevance of the pixel to the
+prediction or classification of that image.
 
-__Deliverable(s):__
+Gradient-only methods tell us whether a change in a pixel would change the prediction.
+Examples are Vanilla Gradient and Grad-CAM. The interpretation of
+the gradient-only attribution is: If I were to change this pixel, the predicted
+class probability would go up (for positive gradient) or down (for negative gradient).
+The larger the absolute value of the gradient,
+the stronger the effect of a change at this pixel.
 
-- A Jupyter Notebook that contains relevant code and explanations.
+Please watch the following video to learn more about explainable AI, and in
+particular - feature attribution.
 
-The Jupyter notebook is to be uploaded to Github no later than 5pm on last DataLab day. Confer with a lecturer beforehand if you are handing in something other than a Jupyter Notebook.
+<!-- blank line -->
+<figure class="video_container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xePkn3-LME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
 
-***
+## Advantages of using feature attrribution to explain image classification
+The explanations are visual and we are quick to recognize images. In particular,
+when methods only highlight important pixels, it is easy to immediately
+recognize the important regions of the image. Gradient-based methods are
+usually faster to compute than model-agnostic methods. For example,
+LIME and SHAP can also be used to explain image classifications,
+but are more expensive to compute.
+
+## Disadvantages of using feature attrribution to explain image classification
+As with most interpretation methods, it is difficult to know whether an
+explanation is correct, and a huge part of the evaluation is only qualitative.
+Furthermore, pixel attribution methods can be very fragile.
+Small (adversarial) perturbations to an image, that still lead to the same
+prediction, can lead to very different pixels being highlighted as explanations [2].
 
 ## __Literature__
 
-Friedman, B., & Nissenbaum, H. (1996). Bias in computer systems. ACM Transactions on Information Systems (TOIS), 14(3), 330-347. (Bias in Computer Systems.pdf (cornell.edu)
+[1] Zeiler, Matthew D., and Rob Fergus. “Visualizing and understanding convolutional networks.” European conference on computer vision. Springer, Cham, 2014
 
-Karanasiou, A. P., & Pinotsis, D. A. (2017). A study into the layers of automated decision-making: emergent normative and legal aspects of deep learning. International Review of Law, Computers & Technology, 31(2), 170-187.
-
-Linardatos, P., Papastefanopoulos, V., & Kotsiantis, S. (2021). Explainable ai: A review of machine learning interpretability methods. Entropy, 23(1), 18.
-
-Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstyan, A. (2019). A survey on bias and fairness in machine learning. arXiv preprint arXiv:1908.09635.
-
-Meta-Learning. (2020, September). Retrieved July 09, 2021, from https://meta-learning.fastforwardlabs.com/#model-agnostic-meta-learning-(maml)
-
-Minsky, M. L. (1991). Logical versus analogical or symbolic versus connectionist or neat versus scruffy. AI magazine, 12(2), 34-34. (https://www.aaai.org/ojs/index.php/aimagazine/article/view/894/812)
-
-Mohamed, S., Png, M. T., & Isaac, W. (2020). Decolonial AI: Decolonial theory as sociotechnical foresight in artificial intelligence. Philosophy & Technology, 33(4), 659-684.
-
-Molnar, C. (2020). Interpretable machine learning. https://christophm.github.io/interpretable-ml-book/.
-
-Responsible AI practices: Interpretability. (n.d.). Retrieved July 09, 2021, from https://ai.google/responsibilities/responsible-ai-practices/?category=interpretability
-
-Suresh, H., & Guttag, J. V. (2019). A framework for understanding unintended consequences of machine learning. arXiv preprint arXiv:1901.10002.
-
-Tsimenidis, S. (2020). Limitations of Deep Neural Networks: a discussion of G. Marcus' critical appraisal of deep learning. arXiv preprint arXiv:2012.15754.
+[2] Ghorbani, Amirata, Abubakar Abid, and James Zou. “Interpretation of neural networks is fragile.” Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 33. 2019

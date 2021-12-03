@@ -91,4 +91,7 @@ Please watch the following video to get a brief introduction to agile scrum.
 [Datalab: DataLab: Implementing GDPR in practice](../../Study%20Content/Digital%20Transformation/DataLab,%20Legal%201.html)
 
 **The rest of the block is dedicated to project work. Every Tuesday and Friday,
-in the datalab you will be provided feedback on your (teams) progress.**
+in the datalab you will be provided feedback on your (teams)
+progress using the Jira dashboard,
+and in addition, every Friday you are expected to plan a
+new sprint and reflect on the previous sprint.**

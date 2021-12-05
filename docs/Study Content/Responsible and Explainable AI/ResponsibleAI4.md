@@ -2,8 +2,8 @@
 sort: 4
 ---
 
-# Fairness & Bias: Tools
-### Decolonizing AI (previous title)
+# Decolonizing AI 
+### Fairness & Bias: Tools
 
 Today, you will be introduced to various fairness enhancing tools. Special attention will be paid to IBM's AI Fairness 360 Toolkit, which will be used in the responsible AI assignment.
 

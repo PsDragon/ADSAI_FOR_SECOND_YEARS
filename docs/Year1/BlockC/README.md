@@ -64,16 +64,16 @@ Please refer to the project brief for more detailed information.
 # Week 2 : Getting started with Deep Learning
 
 ## Monday
-[AI, Machine Learning, Deep Learning: more than just buzzwords?](../../Study%20Content/Digital%20Transformation/Ethics%20&%20Law%201.html)
+[AI, Machine Learning, Deep Learning: more than just buzzwords?](../../Study%20Content/DeepLearning/1.%20Introduction%20to%20Deep%20Learning.html)
 
 ## Tuesday
-[DataLab: Deep learning using Keras](../../Study%20Content/Digital%20Transformation/DataLab%201.html)
+[DataLab: Deep learning using Keras](../../Study%20Content/DeepLearning/5.%20Introduction%20to%20TensorFlow.html)
 
 ## Wednesday
-[Deep Learning data representation and architecture](../../Study%20Content/Digital%20Transformation/Ethics%20&%20Law%202.html)
+[Deep Learning data representation and architecture](../../Study%20Content/DeepLearning/5.1%20Neural%20network%20model.html)
 
 ## Thursday
-[Deep Learning activation functions, loss functions and optimizers](../../Study%20Content/Digital%20Transformation/Ethics%20&%20Law%203.html)
+[Deep Learning activation functions, loss functions and optimizers](../../Study%20Content/DeepLearning/4.NeuralNetworksConcepts.html)
 
 ## Friday
 [DataLab: MLP](../../Study%20Content/Digital%20Transformation/DataLab%202.html)
@@ -84,16 +84,16 @@ Please refer to the project brief for more detailed information.
 [Backpropagation and Gradient Descent](../../Study%20Content/Business%20Intelligence/DataPrepaparationCleanTransformLoadPowerBI.html)
 
 ## Tuesday
-[DataLab: Fully connected Neural networks](../../Study%20Content/Business%20Intelligence/DataLab1_DataWranglingUXDesignPowerBI.html)
+[DataLab: Fully connected Neural networks](../../Study%20Content/DeepLearning/8.%20Image%20Classification.html)
 
 ## Wednesday
 [Convolutional Neural Network architectures I](../../Study%20Content/Business%20Intelligence/ModelDataPowerBI.html)
 
 ## Thursday
-[Convolutional Neural Network architectures II ](../../Study%20Content/Business%20Intelligence/VisualizeDataPowerBI.html)
+[Convolutional Neural Network architectures II](../../Study%20Content/Business%20Intelligence/VisualizeDataPowerBI.html)
 
 ## Friday
-[DataLab: Convolutional Neural Networks](../../Study%20Content/Business%20Intelligence/DataLab2_CreatingVisualsDAXPowerBI.html)
+[DataLab: Convolutional Neural Networks](../../Study%20Content/DeepLearning/9.%20Convolutional%20Neural%20Networks.html)
 
 # Week 4 : Deep Dive into Deep Learning
 
@@ -104,10 +104,10 @@ Please refer to the project brief for more detailed information.
 [DataLab: Pre-processing & data augmentation](../../Study%20Content/Business%20Intelligence/DataLab1_DataWranglingUXDesignPowerBI.html)
 
 ## Wednesday
-[Deep Learning Model Evaluation: Tuning and evaluating models I ](../../Study%20Content/Business%20Intelligence/ModelDataPowerBI.html)
+[Deep Learning Model Evaluation: Tuning and evaluating models I](../../Study%20Content/DeepLearning/6.%20Tuning.html)
 
 ## Thursday
-[Deep Learning Model Evaluation: Tuning and evaluating models II ](../../Study%20Content/Business%20Intelligence/VisualizeDataPowerBI.html)
+[Deep Learning Model Evaluation: Tuning and evaluating models II](../../Study%20Content/DeepLearning/7.%20Regularization.html)
 
 ## Friday
 [DataLab: Deep Learning Model Evaluation](../../Study%20Content/Business%20Intelligence/DataLab2_CreatingVisualsDAXPowerBI.html)
@@ -118,13 +118,13 @@ Please refer to the project brief for more detailed information.
 [Unsupervised Deep Learning](../../Study%20Content/Business%20Intelligence/DataAnalysisManagingWorkspacesDatasetsPowerBI.html)
 
 ## Tuesday
-[DataLab: Unsupervised Deep Learning](../../Study%20Content/Business%20Intelligence/DataLab3_AnalyzingDataPowerBI.html)
+[DataLab: Unsupervised Deep Learning](../../Study%20Content/DeepLearning/10.Autoencoders%20for%20Image%20Classification.html)
 
 ## Wednesday
 [Deep Learning: Practical issues and best practices](../../Study%20Content/Introduction%20to%20Machine%20Learning/SupervisedAndUnsupervisedLearning.html)
 
 ## Thursday
-[Deep Learning SOTA models for computer vision](../../Study%20Content/Introduction%20to%20Machine%20Learning/RegressionAlgorithms.html)
+[Deep Learning SOTA models for computer vision](../../Study%20Content/DeepLearning/11.Transfer%20Learning.html)
 
 ## Friday
 [DataLab: SOTA models and model comparison](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab00_RegressionAnalyses.html)
@@ -132,51 +132,51 @@ Please refer to the project brief for more detailed information.
 # Week 6 : Deep Learning and XAI
 
 ## Monday
-[Feature visualization in Keras-Pixel/Feature Attribution](../../Study%20Content/Mathematics%20I/1.%20Introduction%20to%20Linear%20Algebra.html)
+[Feature visualization in Keras-Pixel/Feature Attribution](../../Study%20Content/Responsible%20and%20Explainable%20AI/XAI1.html)
 
 ## Tuesday
-[DataLab: XAI using Keras](../../Study%20Content/Mathematics%20I/2.%20DataLab1.html)
+[DataLab: XAI using Keras](../../Study%20Content/Responsible%20and%20Explainable%20AI/XAI2.html)
 
 ## Wednesday
-[Meta-learning](../../Study%20Content/Mathematics%20I/3.%20Linear%20Algebra%20applied%20to%20Linear%20Systems.html)
+[Meta-learning](../../Study%20Content/Responsible%20and%20Explainable%20AI/XAI3.html)
 
 ## Thursday
-[Detecting concepts TCAV](../../Study%20Content/Introduction%20to%20Machine%20Learning/ClassificationAlgorithms.html)
+[Detecting concepts TCAV](../../Study%20Content/Responsible%20and%20Explainable%20AI/XAI4.html)
 
 ## Friday
-[DataLab: XAI using TCAV and model card toolkit (MCT)](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab01_ClassificationAnalyses.html)
+[DataLab: XAI using TCAV and model card toolkit (MCT)](../../Study%20Content/Responsible%20and%20Explainable%20AI/XAI5.html)
 
 # Week 7 : Human Centered AI
 
 ## Monday
-[Interaction & information processing fundamentals](https://adsai.buas.nl/Study%20Content/Mathematics%20I/4.%20Linear%20Algebra%20and%20(linear)%20Regressions.html)
+[Interaction & information processing fundamentals](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Interaction_Information_Processing_Fundamentals.html)
 
 ## Tuesday
-[DataLab: Risk-Assessment of disruptive technologies](../../Study%20Content/Mathematics%20I/5.%20DataLab2.html)
+[DataLab: Risk-Assessment of disruptive technologies](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Datalab13_Risk-Assessment_of_Disruptive_Technologies.html)
 
 ## Wednesday
-[Interaction design](../../Study%20Content/Introduction%20to%20Machine%20Learning/DecisionTrees.html)
+[Interaction design](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Interaction_Design.html)
 
 ## Thursday
-[Interface design](../../Study%20Content/Introduction%20to%20Machine%20Learning/RandomForests.html)
+[Interface design](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Interface_Design.html)
 
 ## Friday
-[DataLab: Wizzard of Ozz Workshop](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab02_TreeBasedAnalyses.html)
+[DataLab: Wizzard of Ozz Workshop](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Datalab14_Conceptualizing_A_Wireframe_Prototype.html)
 
 
 # Week 8: Human Centered AI
 
 ## Monday
-[U/X testing using A/B testing ](../../Study%20Content/Mathematics%20I/6.%20Image%20Processing%20using%20Linear%20Algebra%20I.html)
+[U/X testing using A/B testing ](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/User_Testing.html)
 
 ## Tuesday
-[DataLab: A/B Testing](../../Study%20Content/Mathematics%20I/7.%20DataLab3.html)
+[DataLab: A/B Testing](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Datalab15_Introduction_To_AB-Testing.html)
 
 ## Wednesday
-[User-Centered design for AI](../../Study%20Content/Mathematics%20I/8.%20Linear%20Algebra%20and%20Image%20Processing%20II.html)
+[User-Centered design for AI](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/User-Centered_Design_for_AI.html)
 
 ## Thursday
-[User-Centered design for AI](../../Study%20Content/Introduction%20to%20Machine%20Learning/ClusteringK-Means.html)
+[User-Centered design for AI](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Designing_for_AI_Algorithm_Implementation.html)
 
 ## Friday
-[DataLab: Wireframes and final presentation](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab03_ClusteringAnalyses.html)
+[DataLab: Wireframes and final presentation](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Datalab16_Client_Testing_of_Wireframe_Prototypes.html)

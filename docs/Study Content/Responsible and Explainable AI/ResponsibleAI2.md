@@ -2,7 +2,8 @@
 sort: 2
 ---
 
-# DataLab 1: (Implicit) Bias & Decolonizing
+# EDA & What-If Tool
+### DataLab 1: (Implicit) Bias & Decolonizing
 
 Today, you will be introduced to the concept of decoloniality. Additionally, we will perform some 'unlearning' and apply the concepts from A Designer's Critical Alphabet to a data project.
 

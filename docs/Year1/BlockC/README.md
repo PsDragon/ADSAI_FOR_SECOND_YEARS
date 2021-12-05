@@ -56,7 +56,7 @@ Please refer to the project brief for more detailed information.
 [Auditing deep learning models](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI3.html)
 
 ## Thursday
-[Decolonizing AI](../../Study%20Content/Business%20Intelligence/SQL_DDL2.html)
+[Decolonizing AI](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI4.html)
 
 ## Friday
 [A Designer's Critical Alphabet](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI5.html)

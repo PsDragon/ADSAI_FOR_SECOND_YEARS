@@ -2,7 +2,7 @@
 sort: 9
 ---
 
-# DataLab: XAI using Keras
+# DataLab: XAI using Feature Attribution
 
 In today's DataLab, you are expected to apply one explainable AI technique,
 namely feature/pixel attribution to your creative brief. In particular, you

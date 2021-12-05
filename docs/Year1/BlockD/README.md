@@ -1,4 +1,4 @@
-# Block D - Team-based Working (Agile CRISP-DM)
+# Block D - Team-based Working
 
 In block D the capstone course of the propaedeutic stage of your bachelor degree. Next to several training elements in planning group projects, keeping track of your individual contribution and cooperation in groups, you are asked to do a full CRISP-DM cycle in a small group. Many of the dynamics will change in this block:
 

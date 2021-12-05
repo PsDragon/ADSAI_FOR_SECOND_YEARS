@@ -7,9 +7,7 @@ In block D the capstone course of the propaedeutic stage of your bachelor degree
 - [ ] Less emphasis is put on delivery of knowledge and skills. Self-guided learning (under supervision) is the new standard;
 - [ ] Skills training mainly consists of project management, communication and working in Teams;
 
-As a result, you will spend much more time on your project. Self-study is limited to one day a week (on Monday), the rest of the week is dedicated to project work.
-
-
+As a result, you will spend much more time on your project. 
 
 ## Project Based Learning - Creative Brief
 
@@ -88,9 +86,9 @@ Please watch the following video to get a brief introduction to agile scrum.
 [When GDPR meets AI](../../Study%20Content/Digital%20Transformation/Legal%203.html)
 
 ## Friday
-[Datalab: DataLab: Implementing GDPR in practice](../../Study%20Content/Digital%20Transformation/DataLab,%20Legal%201.html)
+[Datalab: Implementing GDPR in practice](../../Study%20Content/Digital%20Transformation/DataLab,%20Legal%201.html)
 
-## The rest of the block is dedicated to project work. 
+## The rest of the block is dedicated to project work.
 
 **Every Tuesday and Friday,
 in the datalab you will be provided feedback on your (teams)

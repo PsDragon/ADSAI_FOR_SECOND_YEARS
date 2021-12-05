@@ -56,7 +56,7 @@ Please refer to the project brief for more detailed information.
 [Fairness & Bias: Statistical fairness metrics, and debiasing techniques](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI3.html)
 
 ## Thursday
-[Decolonizing AI ](../../Study%20Content/Business%20Intelligence/SQL_DDL2.html)
+[Decolonizing AI](../../Study%20Content/Business%20Intelligence/SQL_DDL2.html)
 
 ## Friday
 [DataLab 2: Responsible AI Assignment](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI5.html)
@@ -167,7 +167,7 @@ Please refer to the project brief for more detailed information.
 # Week 8: Human Centered AI
 
 ## Monday
-[U/X testing using A/B testing ](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/User_Testing.html)
+[U/X testing using A/B testing](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/User_Testing.html)
 
 ## Tuesday
 [DataLab: A/B Testing](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Datalab15_Introduction_To_AB-Testing.html)

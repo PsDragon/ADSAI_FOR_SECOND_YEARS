@@ -2,7 +2,8 @@
 sort: 3
 ---
 
-# Fairness & Bias: Statistical fairness metrics, and debiasing techniques
+# Auditing deep learning models
+### Fairness & Bias: Statistical fairness metrics, and debiasing techniques
 
 Today's independent study material focusses on 'algorithmic bias', and how you as a data professional can mitigate this type of bias. Additionally, the material will introduce you to various statistical fairness metrics, such as equalized odds, and statistical parity. Furthermore, it will make you familiar with the debiasing techniques provided by IBM's AI 360 Toolkit.
 

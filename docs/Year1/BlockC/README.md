@@ -47,19 +47,19 @@ Please refer to the project brief for more detailed information.
 # Week 1 : Responsible & Explainable AI (XAI)
 
 ## Monday
-[Fairness & Bias: Definitions](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI1.html)
+[Automated decision making (ADS) & Bias](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI1.html)
 
 ## Tuesday
-[DataLab 1: (Implicit) Bias & Decolonizing](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI2.html)
+[EDA & What-If Tool](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI2.html)
 
 ## Wednesday
-[Fairness & Bias: Statistical fairness metrics, and debiasing techniques](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI3.html)
+[Auditing deep learning models](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI3.html)
 
 ## Thursday
-[Decolonizing AI ](../../Study%20Content/Business%20Intelligence/SQL_DDL2.html)
+[Decolonizing AI](../../Study%20Content/Business%20Intelligence/SQL_DDL2.html)
 
 ## Friday
-[DataLab 2: Responsible AI Assignment](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI5.html)
+[A Designer's Critical Alphabet](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI5.html)
 
 # Week 2 : Getting started with Deep Learning
 

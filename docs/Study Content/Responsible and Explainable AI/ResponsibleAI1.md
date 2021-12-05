@@ -2,7 +2,8 @@
 sort: 1
 ---
 
-# Fairness & Bias: Definitions
+# Automated decision making (ADS) & Bias
+### Fairness & Bias: Definitions
 
 Today, you will be introduced to the concepts of 'fairness' and 'bias'. How are they defined? Are there different types of 'fairness' and/or 'bias' Lastly, you will be made familiar with two principles that can be applied to achieve fairness, equality or equity.
 

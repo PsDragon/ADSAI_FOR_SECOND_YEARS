@@ -7,7 +7,7 @@ In block D the capstone course of the propaedeutic stage of your bachelor degree
 - [ ] Less emphasis is put on delivery of knowledge and skills. Self-guided learning (under supervision) is the new standard;
 - [ ] Skills training mainly consists of project management, communication and working in Teams;
 
-As a result, you will spend much more time on your project. 
+As a result, you will spend much more time on your project.
 
 ## Project Based Learning - Creative Brief
 
@@ -63,9 +63,11 @@ Please watch the following video to get a brief introduction to agile scrum.
 ## Tuesday
 [DataLab: Project vision and roadmap - Creative Brief](../../Study%20Content/Agile%20Project%20Management/3.1.%20DataLab%20Scrum.html)
 
-## Thursday
+## Wednesday
 [Sprint planning and standups](../../Study%20Content/Agile%20Project%20Management/4.%20Sprint%20planning%20and%20standups.html)
 
+
+## Thursday
 [Wrapping up a sprint and retrospectives](../../Study%20Content/Agile%20Project%20Management/5.%20Wrapping%20up%20a%20sprint%20and%20retrospectives.html)
 
 ## Friday

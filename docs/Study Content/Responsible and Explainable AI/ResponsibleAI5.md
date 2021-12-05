@@ -2,7 +2,8 @@
 sort: 5
 ---
 
-# DataLab 2: Responsible AI Assignment
+# A Designer's Critical Alphabet
+### DataLab 2: Responsible AI Assignment
 
 In today's DataLab session, you are going to display your responsible AI, and scikit-learn skills by completing an assignment.
 

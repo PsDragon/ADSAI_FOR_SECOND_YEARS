@@ -15,9 +15,10 @@ During this independent study day, you will be introduced to one of the most pop
 
 *Figure 1. Microsoft Certified: Data Analyst Associate.*
 
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Note: After completing Microsoft's data analyst associate tutorial, you should be able to pass the corresponding exam. For more information, see <a href="(https://docs.microsoft.com/en-us/learn/certifications/data-analyst-associate/#certification-exams">Exam DA-100: Analyzing Data with Microsoft Power BI</a> or contact one of your lecturers.
-</div>
+
+> Note: After completing Microsoft's data analyst associate tutorial, you should be able to pass the corresponding exam. For more information, see [Exam DA-100: Analyzing Data with Microsoft Power BI](https://docs.microsoft.com/en-us/learn/certifications/data-analyst-associate/#certification-exams)
+ or contact one of your lecturers.
+
 
 ***
 

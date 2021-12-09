@@ -61,6 +61,8 @@ Open your Design Document and answer the following questions in it:
 3. If your human expert were to perform this task, how would you respond to them so they improved for the next time?
 4. If a human were to perform this task, what assumptions would the user want them to make?
 
+
+
 ## Next up!
 Coming Datalab we will reflect on Interaction Design and User Experience; with and without AI, again!
 

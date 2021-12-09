@@ -85,6 +85,7 @@ So, as a user I:
 
 Now, open your design document, create a section called 'User Stories' and start creating your own user stories. Tomorrow in class, we're going to demonstrate our vertical slice prototype to our classmates and gather feedback! So make sure to finish it before the end of the day so you can do some user tests(peer reviews in this case) tomorrow!
 
+**Upload your document to Github!**
 
 ## Next up!
 Coming Datalab we will user test our vertical slice prototypes by peer-reviewing them! After that we're going to do a very magical Wizzard of Oz workshop and ofcourse it'll be an opportunity to ask any questions you might have!

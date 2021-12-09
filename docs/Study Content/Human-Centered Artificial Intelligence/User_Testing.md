@@ -59,6 +59,8 @@ All products should include some form of user testing, whether they are digital 
 4. Based on your application, user stories and what you just learned about user testing. [Select a user testing method for Proto.io](https://support.proto.io/hc/en-us/articles/220363528-Getting-feedback) and justify in your design document why you are running with this type of user test or feedback collection method.
 5. Deploy the user test you selected and test whether it works. We're going to run it with your peers next Datalab!
 
+**Upload your document and prototype files to Github!** 
+
 
 ## Next up!
 Coming Datalab we will reflect on user feedback and user testing again and give you an opportunity to ask any questions you might have.

@@ -123,10 +123,10 @@ Please refer to the project brief for more detailed information.
 [DataLab: Normal equations for linear regression](../../Study%20Content/Mathematics%20I/5.%20DataLab2.html)
 
 ## Wednesday
-[Tree Based Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/DecisionTrees.html)
+[Decision Trees](../../Study%20Content/Introduction%20to%20Machine%20Learning/DecisionTrees.html)
 
 ## Thursday
-[Supervised Learning: a recap](../../Study%20Content/Introduction%20to%20Machine%20Learning/RandomForests.html)
+[Supervised Learning: a Recap](https://adsai.buas.nl/Study%20Content/Introduction%20to%20Machine%20Learning/SupervisedLearningRecap.html)
 
 ## Friday
 [DataLab: Tree based Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab02_TreeBasedAnalyses.html)
@@ -144,10 +144,10 @@ Please refer to the project brief for more detailed information.
 [Matrix operations on images: Convolution & Kernels](../../Study%20Content/Mathematics%20I/8.%20Linear%20Algebra%20and%20Image%20Processing%20II.html)
 
 ## Thursday
-[Machine Learning: Unsupervised Learning](../../Study%20Content/Introduction%20to%20Machine%20Learning/ClusteringK-Means.html)
+[Clustering: K-Means - Unsupervised Machine Learning ](../../Study%20Content/Introduction%20to%20Machine%20Learning/ClusteringK-Means.html)
 
 ## Friday
-[DataLab: Unsupervised Learning](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab03_ClusteringAnalyses.html)
+[DataLab: Clustering Analyses - Unsupervised Learning](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab03_ClusteringAnalyses.html)
 
 # Week 8 : Neural networks and it's a wrap!
 

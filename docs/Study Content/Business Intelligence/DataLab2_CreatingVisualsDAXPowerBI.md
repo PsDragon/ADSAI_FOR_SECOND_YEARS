@@ -35,7 +35,24 @@ __3a__ Complete ```Module 5 - Create Model Calculations using DAX in Power BI```
 
 ***
 
-### 4. Visualizations in Power BI
+### 4. Research Questions & Visualizations in Power BI
+
+Before you start visualizing the data you want to come up with a couple of (descriptive) research questions. For example:
+
+- How long does it on average take to receive youth care?
+- Which neighbourhood has the most youth care clients?
+- Is there a difference between males and females in terms of the average number of assigned care products (i.e. 'toewijzingen').
+- What is the average age of a youth care client?
+- Which youth care product is most commonly assigned?
+
+Research questions are essential because they:
+
+1. Define an investigation/research
+2. Set boundaries
+3. Provide direction (useful in the youth care data, a.k.a. 'table jungle')
+4. Act as a frame of reference for assessing your work
+
+So try to be creative, and come up with a couple of questions yourself!
 
 It can be difficult to choose a suitable chart to represent (a subset of) your data. From experience, I can tell you that an average data science/business intelligence/artificial intelligence project involves quite some trial and error (one of the reasons that makes our work so much fun, if you ask me :nerd_face:). Nevertheless, a solid theoretical background (e.g. in fields such as statistics, ML, UX design etc.) can give you the edge over a data professional that lacks such a foundation. In practice, it can be the difference between delivering an 'okay' dashboard or a dashboard that conveys a compelling data story to a client.
 

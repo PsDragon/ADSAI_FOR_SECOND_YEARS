@@ -39,11 +39,12 @@ Write your argumentation down in a in-line comments; and for every line of code:
 <br>
 The [example script](https://github.com/BredaUniversityADSAI/ADS-AI/tree/main/docs/Study%20Content/DataScience/assets/DS2_Example) I provided in Data Science 1 is also a good example of how to document your code; albeit that one was done in R.
 
-1. Create a python script in Jupyter Notebook called MultipleRegressionOosterhout. Load in the youthcare dataset you created in Business Intelligence. Then save your file to your GitHub repository.
-2. Open your research design and use in-line comments to  formulate a multiple regression analysis based on your research question (or when not answerable using multiple regression: related to your research question). Start by listing the variables which you think could predict the outcome variable you're interested in and motivate why you think they might predict your outcome variable
+0. Download the [template python script over here](https://github.com/BredaUniversityADSAI/ADS-AI/blob/983b168a9d927a03e61ec3618c890d8482ece89e/docs/Study%20Content/Introduction%20to%20Machine%20Learning/Assets/MachineLearning_TemplateScript_FirstName_LastName_StudentNumber.ipynb) and fill it in according to the guidelines described in there. Please fill in you student number and name. In this class there are no students called: 'FirstName', 'LastName' or students with the following student number: 'StudentNumber', I checked.
+1. Load in the youthcare dataset you created in Business Intelligence. Then save your file to your GitHub repository.
+2. Open your research design and use in-line comments to  formulate a multiple regression analysis based on your research question (or when not answerable using multiple regression: related to your research question). Start by listing the variables which you think could predict the outcome variable you're interested in and motivate why you think they might predict your outcome variable.
 3. Create your fully fitted model (so the model containing all variables you wrote down in step 2) under the python code you just wrote.
 4. Test, re-fit and validate your model. Create a new model on a new line for every re-fit. Keep track of any predictor variables you exclude from the full model when re-fitting. Motivate why you are excluding; or including new variables using in-line comments.
-5. Continue till 16:00, or stop when you feel you can no longer improve the model.
+5. Continue till 16:00, or stop when you feel you can no longer improve the model.Then save your file to your GitHub repository.
 
 ## 2) In-Class Discussion
 At 16:30, there's a meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.

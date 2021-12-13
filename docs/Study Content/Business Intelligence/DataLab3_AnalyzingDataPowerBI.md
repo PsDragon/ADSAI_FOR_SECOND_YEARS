@@ -36,7 +36,7 @@ __3a__ Load your dashboard .pbix file in Power BI.
 __3b__ Apply the knowledge you have gained, through completing the Microsoft tutorial modules and lab exercises, on the youth care dataset.
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: Need a pointer? Visit Microsoft's <a href="(https://community.powerbi.com/">Power BI Community</a> website.
+Tip: Need a pointer? Visit Microsoft's <a href="https://community.powerbi.com/">Power BI Community</a> website.
 </div>
 
 ***

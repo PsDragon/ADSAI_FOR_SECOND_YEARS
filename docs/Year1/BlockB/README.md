@@ -129,8 +129,8 @@ DAY OFF: CHRISTMAS HOLIDAYS! :D
 [Supervised Learning: a Recap](https://adsai.buas.nl/Study%20Content/Introduction%20to%20Machine%20Learning/SupervisedLearningRecap.html)
 
 ## Friday
-[DataLab: Classification Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab01_ClassificationAnalyses.html)
-[DataLab: Tree based Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab02_TreeBasedAnalyses.html)
+- [DataLab: Classification Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab01_ClassificationAnalyses.html)
+- [DataLab: Tree based Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab02_TreeBasedAnalyses.html)
 
 
 # Week 7: Machine Learning and Mathematics

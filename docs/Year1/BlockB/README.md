@@ -112,7 +112,7 @@ Please refer to the project brief for more detailed information.
 [Classifications Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/ClassificationAlgorithms.html)
 
 ## Friday
-[DataLab: Classification Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab01_ClassificationAnalyses.html)
+DAY OFF: CHRISTMAS HOLIDAYS! :D
 
 # Week 6 : Machine Learning and Mathematics
 
@@ -129,6 +129,7 @@ Please refer to the project brief for more detailed information.
 [Supervised Learning: a Recap](https://adsai.buas.nl/Study%20Content/Introduction%20to%20Machine%20Learning/SupervisedLearningRecap.html)
 
 ## Friday
+[DataLab: Classification Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab01_ClassificationAnalyses.html)
 [DataLab: Tree based Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab02_TreeBasedAnalyses.html)
 
 

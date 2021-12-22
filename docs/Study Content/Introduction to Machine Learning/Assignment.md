@@ -22,7 +22,7 @@ And finally, when we finished you should have completed module 1 tot 10 of the c
 5. Choose the best model regarding your research problem and research question, motivate your answer and submit your evidence; so the filled-in template script below, to github and refer to that script in your learning- and work-log.
 
 ## Deliverable
-Download the [Juypter Notebook Templatefor delivering your models here](https://github.com/BredaUniversityADSAI/ADS-AI/blob/366ad0c6e74d2c2adf62e5b608b60298b824dfb2/docs/Study%20Content/Introduction%20to%20Machine%20Learning/Assets/MachineLearning_TemplateScript_FirstName_LastName_StudentNumber.ipynb.ipynb), if you haven't done so already. To download the script, open the raw file, right-click and 'save as' into a location of choice. Make sure to rename the file appropriately.
+Download the [Juypter Notebook Templatefor delivering your models here](https://github.com/BredaUniversityADSAI/ADS-AI/blob/3a73817f6ad0d65d0f97fa33cb867dce004df50c/docs/Study%20Content/Introduction%20to%20Machine%20Learning/Assets/MachineLearning_TemplateScript_FirstName_LastName_StudentNumber.ipynb.ipynb), if you haven't done so already. To download the script, open the raw file, right-click and 'save as' into a location of choice. Make sure to rename the file appropriately.
 
 The Jupyter notebooks or .py scripts are to be uploaded to Github no later than 5pm on last data lab day.
 

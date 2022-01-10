@@ -120,7 +120,23 @@ DAY OFF: CHRISTMAS HOLIDAYS! :D
 [Linear Algebra and Linear models (least squares)](https://adsai.buas.nl/Study%20Content/Mathematics%20I/4.%20Linear%20Algebra%20and%20(linear)%20Regressions.html)
 
 ## Tuesday
-[DataLab: Normal equations for linear regression](../../Study%20Content/Mathematics%20I/5.%20DataLab2.html)
+Because of the online teaching situation, we’re forced to change our schedule around a bit. Datalab will still follow it’s normal structure but we’re going to use this Datalab day to make sure we have week 4 and 5 properly covered. Therefore, after the Q&A we do our week 5 Math Datalab day and in the afternoon we will finish week 4’s machine learning Datalab day for those who haven’t finished it yet. Furthermore, from 10:00 till 16:00 we will have some brief one-on-one meetings to check everyone's progress where we'll ask you to show your learning log and project progress thus far. The schedule will therefore be as follows:
+
+### Schedule
+9:00 – 9:30	Stand-up in breakout rooms
+9:30 – 10:00	Q&A
+10:00 – 12:30	DataLab: Implementing elementary operations on matrices using Python
+12:30 – 13:30	Lunch
+13:30 – 16:00	DataLab: Regression Algorithms
+16:00 – 16:30 	Day evaluation
+16:30 – 17:00	Fill in your Work- & Learning log
+
+### Morning
+[DataLab: Implementing elementary operations on matrices using Python](../../Study%20Content/Mathematics%20I/2.%20DataLab1.html)
+
+### Afternoon
+Continue where you left off last time!
+[DataLab: Regression Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab00_RegressionAnalyses.html)
 
 ## Wednesday
 [Decision Trees](../../Study%20Content/Introduction%20to%20Machine%20Learning/DecisionTrees.html)
@@ -138,7 +154,7 @@ DAY OFF: CHRISTMAS HOLIDAYS! :D
 [Matrix Factorization: PCA Algorithm](../../Study%20Content/Mathematics%20I/6.%20Image%20Processing%20using%20Linear%20Algebra%20I.html)
 
 ## Tuesday
-[DataLab: PCA Algorithm in practice](../../Study%20Content/Mathematics%20I/7.%20DataLab3.html)
+[DataLab: Normal equations for linear regression](../../Study%20Content/Mathematics%20I/5.%20DataLab2.html)
 
 ## Wednesday
 [Matrix operations on images: Convolution & Kernels](../../Study%20Content/Mathematics%20I/8.%20Linear%20Algebra%20and%20Image%20Processing%20II.html)

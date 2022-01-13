@@ -12,7 +12,7 @@ In today's DataLab session you are going to apply the perceptron algorithm to th
 
 I found another example of a 'perceptron' online. Apparently, this version helps you to discover, and explore your 'psychic abilities', interesting to say the least :crystal_ball:.
 
-## 0) Learning Objectives:
+## Learning Objectives:
 
 1. Apply appropriate pre-processing techniques to the youth care dataset
 2. Train, and evaluate the perceptron on the youth care dataset
@@ -25,9 +25,22 @@ Table of contents:
 3. In-Class discussion
 
 ## Questions or issues?
-If you have any questions or issues regarding the course material, please first ask your peers or ask us in the in-class discussion at 16:00!
+If you have any questions or issues regarding the course material after the Q&A, please first ask your peers or ask us if you can't figure it out together!
+
 
 Good luck!
+
+## 0) Stand-up
+We start by hosting a stand-up. Form groups of ~ 5 and run on-another through the following points:
+- What progress have you made up since last datalab?
+- What progress do you anticipate to make today?
+- What impediments are you facing or expecting?
+- With what could you use help or support?
+
+**Open your worklog and plan your day informed by the stand-up and today's schedule**
+
+## 1) Q & A
+We start by briefly reflecting on what we learned about classification algoritms, overfitting and the bias-variance trade-off. Do you have any questions? Now is the time to ask them!
 
 ## 1) Oosterhout Dataset: Perceptron
 ### Document your code

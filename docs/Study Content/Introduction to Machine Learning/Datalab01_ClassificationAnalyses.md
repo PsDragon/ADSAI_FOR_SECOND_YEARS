@@ -12,20 +12,29 @@ We start with a Q&A and reflection on classification algorithms. Then, we will a
 3. Apply one-hot encoding to the youth care dataset (optional)
 
 Table of contents:
+0. Stand-up: 0.5 hours
 1. Q&A: 0.5 hours
 2. Titanic Regression Project: 3 hours
 3. Oosterhout Dataset: Classification Analysis: 3 hours
 4. Additional material (optional): 2 hours
    4.1. The learning curve
    4.2. Data encoding: One-hot encoding
-5. In-class Discussion
+5. Day-reflection
 
 ## Questions or issues?
-If you have any questions or issues regarding the course material, please first ask your peers or ask us if you can't figure it out together!
-
+If you have any questions or issues regarding the course material after the Q&A, please first ask your peers or ask us if you can't figure it out together!
 
 
 Good luck!
+
+## 0) Stand-up
+We start by hosting a stand-up. Form groups of ~ 5 and run on-another through the following points:
+- What progress have you made up since last datalab?
+- What progress do you anticipate to make today?
+- What impediments are you facing or expecting?
+- With what could you use help or support?
+
+**Open your worklog and plan your day informed by the stand-up and today's schedule**
 
 ## 1) Q & A
 We start by briefly reflecting on what we learned about classification algoritms, overfitting and the bias-variance trade-off. Do you have any questions? Now is the time to ask them!
@@ -138,7 +147,7 @@ pandas:
 
 - [get_dummies()](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.get_dummies.html)
 
-## 5) In-Class discussion
+## 5) Day-reflection
 At 16:30, there's a meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today's activities.
 
 

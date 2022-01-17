@@ -157,8 +157,8 @@ Because of the online teaching situation, we’re forced to change our schedule 
 [Clustering: K-Means - Unsupervised Machine Learning ](../../Study%20Content/Introduction%20to%20Machine%20Learning/ClusteringK-Means.html)
 
 ## Friday
+- [DataLab: Clustering Analyses](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab03_ClusteringAnalyses.html)
 - [DataLab: Tree based Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab02_TreeBasedAnalyses.html)
-- [DataLab: Clustering Analyses - Unsupervised Learning](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab03_ClusteringAnalyses.html)
 
 
 # Week 8 : Business Case Preparation

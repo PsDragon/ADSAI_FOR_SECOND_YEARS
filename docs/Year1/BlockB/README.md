@@ -158,15 +158,16 @@ Because of the online teaching situation, we’re forced to change our schedule 
 
 ## Friday
 - [DataLab: Tree based Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab02_TreeBasedAnalyses.html)
+- [DataLab: Clustering Analyses - Unsupervised Learning](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab03_ClusteringAnalyses.html)
 
 
-# Week 8 : Neural networks and it's a wrap!
+# Week 8 : Business Case Preparation
 
 ## Monday
-[Prepare business case presentation]
+[Apply ML to Oosterhout]
 
 ## Tuesday
-[DataLab: Clustering Analyses - Unsupervised Learning](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab03_ClusteringAnalyses.html)
+[DataLab: Apply ML to Oosterhout]
 
 ## Wednesday
 [Prepare business case presentation]

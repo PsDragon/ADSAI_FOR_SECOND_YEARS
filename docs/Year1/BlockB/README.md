@@ -163,7 +163,7 @@ Because of the online teaching situation, we’re forced to change our schedule 
 # Week 8 : Neural networks and it's a wrap!
 
 ## Monday
-[Perceptron Algorithm](../../Study%20Content/Introduction%20to%20Machine%20Learning/Perceptron.html)
+[Prepare business case presentation]
 
 ## Tuesday
 [DataLab: Clustering Analyses - Unsupervised Learning](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab03_ClusteringAnalyses.html)

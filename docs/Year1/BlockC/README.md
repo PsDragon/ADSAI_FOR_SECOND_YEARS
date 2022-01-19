@@ -47,7 +47,7 @@ Please refer to the project brief for more detailed information.
 # Week 1 : Responsible & Explainable AI (XAI)
 
 ## Monday
-[Automated decision making (ADS) & Bias](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI1.html)
+[Fairness & Bias: Definitions](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI1.html)
 
 ## Tuesday
 [EDA & What-If Tool](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI2.html)

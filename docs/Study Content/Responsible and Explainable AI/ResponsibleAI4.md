@@ -120,10 +120,7 @@ Separation ensures that individuals who actually belong to the same class ($$\be
 
 In mathematical terms, separation requires the $$\begin{aligned} & \hat{Y}\end{aligned}$$ to be conditionally independent of the sensitive/protected attribute $$\begin{aligned} & A\end{aligned}$$ given $$\begin{aligned} & Y\end{aligned}$$ :
 
-$$\begin{aligned}
-P(\hat{Y}=1 \mid A=a , Y=y) = P(\hat{Y}=1 \mid A=b , Y=y), \\
-& \forall a, b \in \mathcal{A}, y \in\{0,1\} .
-\end{aligned}$$
+$\begin{aligned} P(\hat{Y}=1 \mid A=a , Y=y) = P(\hat{Y}=1 \mid A=b , Y=y), \\ & \forall a, b \in \mathcal{A}, y \in\{0,1\} . \end{aligned}$
 
 Fairness metric I: The true positive rates (TPR) and true negative rates (TNR) should be equal across sensitive/protective subgroups'.
 

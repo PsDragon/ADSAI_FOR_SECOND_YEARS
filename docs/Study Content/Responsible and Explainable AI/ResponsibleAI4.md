@@ -89,7 +89,7 @@ Independence ensures that individuals, who have different sensitive/protected at
 
 In mathematical terms, independence requires the sensitive/protected attribute $A$ to be unconditionally independent of $\hat{Y}$:
 
-$P(\hat{Y}=1 \mid A=a)=P(\hat{Y}=1 \mid A=b), \quad \forall a, b \in \mathcal{A}$
+$$P(\hat{Y}=1 \mid A=a)=P(\hat{Y}=1 \mid A=b), \quad \forall a, b \in \mathcal{A}$$
 
 Fairness metric I: 'The number of predicted positives should be equal across sensitive/protective subgroups'
 

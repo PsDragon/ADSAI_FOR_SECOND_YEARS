@@ -1,6 +1,7 @@
 ---
 sort: 4
 ---
+
 # Fairness & Bias: Group fairness metrics
 
 Today's independent study material will introduce you to the theories behind group fairness metrics, which include, but are not limited to: equalized odds, equal selection parity, and demographic parity. During the workshop, you will learn to apply these metrics to a tabular toy dataset.  
@@ -54,11 +55,11 @@ __1d__ Give at least one additional example of a feature that could be seen as a
 
 __1e__ Explain the differences between 'independence', 'sufficiency', and 'separation' concerning fair AI.   
 
-###__1.1 Fairness Compass__
+### __1.1 Fairness Compass__
 
 To select an appropriate group fairness metric for our (binary) classification task, we will use AxA's [Fairness Compass](https://axa-rev-research.github.io/fairness-compass.html):
 
-####__Step 1: Policy/'worldview'__
+#### __Step 1: Policy/'worldview'__
 
 - <span style="color:purple">'We're all equal' (WAE)</span> OR <span style="color:orange">'What you see is what you get' (WYSIWIG)</span>
 
@@ -81,17 +82,17 @@ __Types of bias:__
 
 >Even when the data are free from statistical bias, i.e. they truly represent the population, take into account minorities and there is no systematic error in recording, still it may be that bias exists simply because data reflect biased decisions. In most cases, this is due to a form of labelling bias, i.e. a systematic favour/disfavour towards groups of people at the moment of creating the target variable from which the model is going to learn. If the recorded outcomes are somehow due to human decisions (e.g. a model for granting loans may be trained on loan officers’ past decisions), then we cannot in general trust their objectiveness and “fairness”. Other forms of historical bias may be even more radical: gender bias has a rather long history, and is embedded in all sorts of characteristics and features in such a way that it is difficult or even impossible to evaluate its impact and disentangle its dependence on other variables. Think for example of income or profession disparities, just to name a few out of many. Thus, this is a situation in which long-lasting biases cause systematic differences in features pertaining different groups of people. Again, this is not a form of un representativeness of the sample, it is a bias present in the full population ([Source](https://arxiv.org/abs/2106.00467)).
 
-####__Step 2: Fairness metrics__
+#### __Step 2: Fairness metrics__
 
 __Independence <span style="color:purple">(WAE)</span>:__
 
 1. 'The proportion of actual positives (i.e. base rate) have to be equal across sensitive/protective subgroups'.
 
-Independence ensures that individuals, who have different sensitive/protected attribute values $(A=a \text { or } A=b)$ , have an equal chance to obtain correct predictions.
+Independence ensures that individuals, who have different sensitive/protected attribute values $(A=a \text { or } A=b)$, have an equal chance to obtain correct predictions.
 
 In mathematical terms, independence requires the sensitive/protected attribute $A$ to be unconditionally independent of $\hat{Y}$:
 
-$P(\hat{Y}=1 \mid A=a)=P(\hat{Y}=1 \mid A=b), \quad \forall a, b \in \mathcal{A}$
+P(\hat{Y}=1 \mid A=a)=P(\hat{Y}=1 \mid A=b), \quad \forall a, b \in \mathcal{A}
 
 Fairness metric I: 'The number of predicted positives should be equal across sensitive/protective subgroups'
 

@@ -90,7 +90,7 @@ __Independence <span style="color:purple">(WAE)</span>:__
 
 Independence ensures that individuals, who have different sensitive/protected attribute values $$\begin{aligned} & (A=a \text { or } A=b)\end{aligned}$$ , have an equal chance to obtain correct predictions.
 
-In mathematical terms, independence requires the sensitive/protected attribute $A$ to be unconditionally independent of $\hat{Y}$ :
+In mathematical terms, independence requires the sensitive/protected attribute $$\begin{aligned} & A\end{aligned}$$ to be unconditionally independent of $$\begin{aligned} & \hat{Y}\end{aligned}$$ :
 
 $$P(\hat{Y}=1 \mid A=a)=P(\hat{Y}=1 \mid A=b), \quad \forall a, b \in \mathcal{A}$$
 
@@ -106,7 +106,7 @@ Fairness metric II: 'The proportion of predicted positives should be equal acros
 
 Example 1: In total 15 prospective students apply for an undergraduate program; 10 are female, and 5 are male. <span style="color:red">Equal selection parity is satisfied when the same number of female, and male students are given a favorable outcome (i.e. being invited for an admission interview); e.g. 5 females, and 5 males.</span> <span style="color:green">Demographic parity is satisfied when their base rates are the same; e.g. 2 females, and 1 male (i.e. the favorable outcome should be assigned to each subgroup of a sensitive/protective attribute at equal rates).</span>
 
-The <span style="color:purple">WAE</span> worldview does not automatically assume that the $Y$ values represent the 'ground truth'; they are constructed through historical or societal bias. The fairness notions related to <span style="color:purple">WAE</span>, independence, thus solely relies on the distribution of features and decisions, namely on ($A$, $X$, $\hat{Y}$) (See Codebook).
+The <span style="color:purple">WAE</span> worldview does not automatically assume that the $Y$ values represent the 'ground truth'; they are constructed through historical or societal bias. The fairness notions related to <span style="color:purple">WAE</span>, independence, thus solely relies on the distribution of features and decisions, namely on ($$\begin{aligned} & A\end{aligned}$$, $$\begin{aligned} & X\end{aligned}$$, $$\begin{aligned} & \hat{Y}\end{aligned}$$) (See Codebook).
 
 __Separation & Sufficiency <span style="color:orange">(WYSIWIG)</span>:__
 
@@ -116,9 +116,9 @@ Example: Research has shown that females are far more likely to suffer from brea
 
 A. Separation:
 
-Separation ensures that individuals who actually belong to the same class ($Y$), but who have  different sensitive/protected attribute values ($A$), have an equal chance to obtain correct predictions --> TPR (i.e. recall) and/or TNR (i.e. specificity).
+Separation ensures that individuals who actually belong to the same class ($$\begin{aligned} & Y\end{aligned}$$), but who have  different sensitive/protected attribute values ($$\begin{aligned} & A\end{aligned}$$), have an equal chance to obtain correct predictions --> TPR (i.e. recall) and/or TNR (i.e. specificity).
 
-In mathematical terms, separation requires the $\hat{Y}$ to be conditionally independent of the sensitive/protected attribute $A$ given $Y$ :
+In mathematical terms, separation requires the $$\begin{aligned} & \hat{Y}\end{aligned}$$ to be conditionally independent of the sensitive/protected attribute $$\begin{aligned} & A\end{aligned}$$ given $$\begin{aligned} & Y\end{aligned}$$ :
 
 $\begin{aligned}
 P(\hat{Y}=1 \mid A=a , Y=y) = P(\hat{Y}=1 \mid A=b , Y=y), \\
@@ -135,13 +135,13 @@ AND
 
 (TN privileged subgroup/(TN privileged subgroup + FP privileged subgroup) = (TN unprivileged subgroup/(TN unprivileged subgroup + FP unprivileged subgroup)
 
-Example 2: See Case Study: Breast Cancer in Logistic Regression notebook. Sensitive/protected attribute ($A$) values: 'Male' ($a$) or 'Female' ($b$).
+Example 2: See Case Study: Breast Cancer in Logistic Regression notebook. Sensitive/protected attribute ($A$) values: 'Male' ($$\begin{aligned} & a\end{aligned}$$) or 'Female' ($$\begin{aligned} & b\end{aligned}$$).
 
 B. Sufficiency:
 
-Suffiency ensures that individuals with identical predictions ($\hat{Y}$), but with different sensitive/protected attribute values ($A$), have an equal chance to obtain correct predictions --> PPV (i.e precision) and/or NPV.
+Suffiency ensures that individuals with identical predictions ($$\begin{aligned} & \hat{Y}\end{aligned}$$), but with different sensitive/protected attribute values ($$\begin{aligned} & A\end{aligned}$$), have an equal chance to obtain correct predictions --> PPV (i.e precision) and/or NPV.
 
-In mathematical terms, sufficiency requires the $Y$ to be conditionally independent of the sensitive/protected attribute $A$ given $\hat{Y}$:
+In mathematical terms, sufficiency requires the $$\begin{aligned} & Y\end{aligned}$$ to be conditionally independent of the sensitive/protected attribute $$\begin{aligned} & A\end{aligned}$$ given $$\begin{aligned} & \hat{Y}\end{aligned}$$:
 
 $\begin{aligned}
 P(Y=1 \mid A=a, \hat{Y}=1) = P(Y=1 \mid A=b, \hat{Y}=1), \\
@@ -152,16 +152,16 @@ Fairness metric II: 'The positive predictive value (PPV) should be equal across 
 
 <span style="color:blue">Predictive parity/Precision/PPV </span>: TP privileged subgroup/(TP privileged subgroup + FP privileged) = TP unprivileged subgroup/(TP unprivileged subgroup + FP unprivileged)
 
-Example 3: See Case Study: Spam Email in Logistic Regression notebook. Sensitive/protected attribute ($A$) values: 'Email written in Dutch' ($a$) or 'Email written in English' ($b$).
+Example 3: See Case Study: Spam Email in Logistic Regression notebook. Sensitive/protected attribute ($$\begin{aligned} & A\end{aligned}$$) values: 'Email written in Dutch' ($$\begin{aligned} & a\end{aligned}$$) or 'Email written in English' ( $$\begin{aligned} & b\end{aligned}$$ ).
 
 ####__Codebook__
 
 | Mathematical notation | Description |
 |---|---|
-| $Y$ | 'True'/'Actual' label (i.e. 'negative'/'unfavourable' = 0, and 'positive'/'favourable' = 1)|
-| $\hat{Y}$ | Predicted label (by ML model) (i.e. 'decisions')|
-| $A$ | Sensitive/protected attribute (binary) class/subgroup label (i. e. 'negative'/'underprivileged' = 0, and 'positive'/'privileged' = 1)|
-| $X$ | Features (a.k.a independent variables or predictors) |
+| $$\begin{aligned} &Y\end{aligned}$$ | 'True'/'Actual' label (i.e. 'negative'/'unfavourable' = 0, and 'positive'/'favourable' = 1)|
+| $$\begin{aligned} &\hat{Y}\end{aligned}$$ | Predicted label (by ML model) (i.e. 'decisions')|
+| $$\begin{aligned} &A\end{aligned}$$ | Sensitive/protected attribute (binary) class/subgroup label (i. e. 'negative'/'underprivileged' = 0, and 'positive'/'privileged' = 1)|
+| $$\begin{aligned} &X\end{aligned}$$ | Features (a.k.a independent variables or predictors) |
 
 ***
 

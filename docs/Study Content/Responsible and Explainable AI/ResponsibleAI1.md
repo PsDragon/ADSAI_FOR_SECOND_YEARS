@@ -6,22 +6,21 @@ sort: 1
 
 <img src="./images/fairness.jpg" alt="Fairness" width="600">
 
-<br> This week you will be introduced to the subfield of Responsible AI, which has the objective to ensure AI is safe, trustworthy, and unbiased.
+<br> This week you will be introduced to the subfield of Responsible AI, which has the objective to ensure AI is safe, trustworthy, and unbiased. It is a relatively new subfield, which has seen a stark increase in popularity over the last couple of years.
 
 Today, you will be introduced to the concepts of 'fairness' and 'bias'. How are they defined? Are there different types of 'fairness' and/or 'bias' Lastly, you will be made familiar with two principles that can be applied to achieve fairness; equality and equity.
 
-## 1) Learning Objectives:
+## Learning Objectives
 
 1. Define the terms 'individual fairness', 'group fairness', 'bias', 'equity', and 'equality'.
-2. Describe the three types of bias, and connect them to the CRISP-DM cycle phases by providing concrete examples.
+2. Describe different types of bias, and connect them to the CRISP-DM cycle phases by providing concrete examples.
+3. Explain the difference between the terms 'individual fairness' and 'group fairness'.
 3. Explain the difference between the terms 'equity' and 'equality'.
 
 __Table of contents:__
 
-1. Introduction: 2 hours
+1. Introduction: 3 hours
 2. Workshop: 3 hours
-3. Additional material (optional): 2 hours
-   3.1 Justice as fairness by John Rawls
 
 ## Questions or issues?
 
@@ -35,7 +34,7 @@ Good luck!
 
 ***
 
-## 2) Introduction:
+## 1) Introduction
 
 Artificial Intelligence, often in the form of machine learning, underpins decisions that profoundly affect our society. For example, it may decide if you get car insurance or if you are eligible for parole.
 
@@ -45,50 +44,55 @@ Machine learning makes use of data by learning through the generalization of exa
 
 *Figure 1: Traditional vs. machine learning.*
 
-ML can be very useful to make data-driven decisions, uncovering relevant factors that humans might overlook. However, it does not ensure fair decisions. For example:
-
-> Bias often appears in AI systems through factors like race or gender that aren’t directly inputted into the system, but still have a strong influence on their decisions. Discrimination can happen when one of these attributes is strongly correlated with information that is directly used by the system. For example, suppose a system that makes decisions about credit uses zip code as a factor to make its decisions. The direct information about race is not given to the system, but zip code is strongly correlated with race since many neighborhoods are still segregated. By using zip code, the system would be indirectly making decisions based on race. In this case, zip code is a proxy for race ([Source](https://engineering.cmu.edu/news-events/news/2018/12/11-datta-proxies.html)).
+ML can be very useful to make data-driven decisions, uncovering relevant factors that humans might overlook. However, it does not ensure fair decisions.
 
 Before we can start with our quest to make AI more 'fair'. We need to define the concept a bit further:
 
-__2a__ Watch the video Why monkeys (and humans) are wired for fairness by Sarah Brosnan.
+__1a__ Watch the video Why monkeys (and humans) are wired for fairness by Sarah Brosnan.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dKob6b8QzkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Video 1. Why monkeys (and humans) are wired for fairness.*
 
-__2b__ Explain how the terms 'fairness' and 'cooperation' relate to each other by giving a real-life example. Write your answer down.
+__1b__ Explain how the terms 'fairness' and 'cooperation' relate to each other by giving a real-life example. Write your answer down.
 
-__2c__ Read the comic book Fairness & Friends by Khan et., al., which you can find, [here]( https://dataresponsibly.github.io/comics/vol2/fairness_en.pdf).
+__1c__ Read the comic book Fairness & Friends by Khan et., al., which you can find, [here](https://dataresponsibly.github.io/comics/vol2/fairness_en.pdf).
 
-__2d__ List, and describe the three types of bias presented in the comic book.
+Different researchers, classify ML bias differently. Some will state that there are three types of bias, others will state there are six types of bias. In other words, there is no real consensus on how to define bias in machine learning.
+
+__1d__ List, and describe at least five types of bias presented in either [Fairness & Friends](https://dataresponsibly.github.io/comics/vol2/fairness_en.pdf)
+ or [A survey on bias and fairness in machine learning](https://arxiv.org/pdf/1908.09635.pdf).
 
 <img src="./images/CRISP-DM.png" alt="Books banner" width="400"/>
 
 *Figure 2. CRISP-DM cycle.*
 
-__2e__ Give an example for each type of bias presented in the comic book, and connect it to one of the CRISP-DM phases. Write your answer down, and limit your word count to a maximum of 150 words.
+__1e__ Give an example for each type of bias listed in exercise 1d, and connect it to one of the CRISP-DM phases. Write your answer down, and limit your word count to a maximum of 150 words.
+
+__1f__ Explain the difference between 'individual fairness', and 'group fairness'. Write your answer down.
 
 ***
 
-## 3) Workshop: The Difference Between Equality and Equity:
+## 2) Workshop: The Difference Between Equality and Equity
 
 Now, we are introduced to the terms 'fairness' and 'bias', it is time to deepen our knowledge. In the workshop, you will learn about how two principles, equality and equity, can help to achieve fairness:
 
 > Though often used interchangeably, equality and equity are quite different. If fairness is the goal, equality and equity are two processes through which we can achieve it. Equality simply means everyone is treated the same exact way, regardless of need or any other individual difference. Equity, on the other hand, means everyone is provided with what they need to succeed. In an equality model, a coach gives all of his players the exact same shoes. In an equity model, the coach gives all of his players shoes that are their size ([Source](https://risetowin.org/what-we-do/educate/resource-module/equality-vs-equity/index.html)).
 <br>
 
-### 3.1 Individual exercises
+The current fairness metrics, which will be the topic of the coming independent-study days, are closely connected to one of these principles, namely equality.
 
-__3.1a__ Read the Post-Its in Figure 3.
+### 2.1 Individual exercises
+
+__2.1a__ Read the Post-Its in Figure 3.
 
 <img src="./images/connecting_post_its.png" alt="Books banner" width="600"/>
 
 *Figure 3. Post-Its on a bulletin board.*
 
-__3.1a__ Fill the gaps in the 'text' Post-Its by connecting it to the correct 'concept' Post-It. Write your answer down.
+__2.1b__ Fill the gaps in the 'text' Post-Its by connecting it to the correct 'concept' Post-It. Write your answer down.
 
-__3.1b__ Provide answers to the following answers. Provide clear, and concise answers.  
+__2.1c__ Provide answers to the following answers. Provide clear, and concise answers.  
 
 <img src="./images/equityvsequality.jpg" alt="Books banner" width="450"/>
 
@@ -100,25 +104,9 @@ __3.1b__ Provide answers to the following answers. Provide clear, and concise an
 3. How are equality and equity related to fairness? In school, sports, society, etc.?
 4. Are there other ways to achieve fairness besides equity and equality? (For example, the removal of the wooden fence eliminates the structural barrier to access.)
 
-### 3.2 Group exercises
+### 2.2 Group exercises
 
-__3.2a__ Team up with at least one fellow student, and discuss your answers to the individual exercises. Write down the name(s) of your teammate(s), and the differences/commonalities in your provided answers.
-
-***
-
-## 4) Additional material (optional):
-
-This part of the independent study material is optional. You are not required to complete the following questions. However, they will help you to deepen your understanding of the concepts presented in the independent study material.
-
-### 4.1 Justice as fairness by John Rawls
-
-Stanford Encyclopedia of Philosophy is a trustworthy online source that provides extensive information on philosophy, and related fields. You can access their entry on the philosopher John Rawls, [here](https://plato.stanford.edu/entries/rawls/).
-
-In addition, The School of Life, also has provides high quality videos on various philosophical topics. See YouTube video on Rawl's political theory:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5-JQ17X6VNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-*Video 2. Political Theory, John Rawls.*
+__2.2a__ Team up with at least one fellow student, and discuss your answers to the individual exercises. Write down the name(s) of your teammate(s), and the differences/commonalities in your provided answers.
 
 ***
 
@@ -128,3 +116,7 @@ Coming Datalab we will reflect upon today's independent study material, and give
 ***
 
 ## Resources
+
+Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstyan, A. (2021). A survey on bias and fairness in machine learning. ACM Computing Surveys (CSUR), 54(6), 1-35.
+
+Khan, F. A., Manis, E., & Stoyanovich, J. (2021, March). Fairness and Friends. In Beyond static papers: Rethinking how we share scientific understanding in ML-ICLR 2021 workshop.

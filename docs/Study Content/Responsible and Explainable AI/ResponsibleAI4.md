@@ -87,7 +87,7 @@ __Independence <span style="color:purple">(WAE)</span>:__
 
 1. 'The proportion of actual positives (i.e. base rate) have to be equal across sensitive/protective subgroups'.
 
-Independence ensures that individuals, who have different sensitive/protected attribute values (A=a \text { or } A=b) , have an equal chance to obtain correct predictions.
+Independence ensures that individuals, who have different sensitive/protected attribute values $(A=a \text { or } A=b)$ , have an equal chance to obtain correct predictions.
 
 In mathematical terms, independence requires the sensitive/protected attribute $A$ to be unconditionally independent of $\hat{Y}$:
 

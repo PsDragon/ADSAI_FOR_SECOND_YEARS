@@ -42,15 +42,17 @@ Most post-processing group fairness metrics are calculated based on a confusion 
 
 *Figure 1. Confusion matrix.*
 
-Group fairness metrics are calculated by comparing one or more of these measures across sensitive/protected attribute subgroups. For example, gender or marital status could be considered such an attribute, with subgroups 'Female' and 'Male' for gender, and 'Married', 'Not-married' for marital status.
+Group fairness metrics are calculated by comparing one or more of these measures across sensitive/protected attribute groups. For example, gender or marital status could be considered such an attribute, with groups 'Female' and 'Male' for gender, and 'Married', 'Not-married' for marital status.
 
 __1a__ Read AXA's [Towards the right kind of fairness in AI](https://axa-rev-research.github.io/static/AXA_FairnessCompass-English.pdf) (p. 1-55).
 
 __1b__ Read the blog post [Starting to think about AI Fairness](https://blogs.rstudio.com/ai/posts/2021-07-15-ai-fairness/) by RStudio.
 
-__1c__ Define the term 'group fairness', and explain how it differs from 'individual fairness'.
+__1c__ Define the term 'group fairness', and explain how it differs from 'individual fairness'. Write your answer down.
 
-__1d__ Explain the differences between 'independence', 'sufficiency', and 'separation' concerning fair AI.   
+__1d__ Give at least one additional example of a feature that could be seen as a sensitive/protected attribute?
+
+__1e__ Explain the differences between 'independence', 'sufficiency', and 'separation' concerning fair AI.   
 
 ###__1.1 Fairness Compass__
 
@@ -85,11 +87,11 @@ __Independence <span style="color:purple">(WAE)</span>:__
 
 1. 'The proportion of actual positives (i.e. base rate) have to be equal across sensitive/protective subgroups'.
 
-Independence ensures that individuals, who have different sensitive/protected attribute values ($A = a$ or $A = b$), have an equal chance to obtain correct predictions.
+Independence ensures that individuals, who have different sensitive/protected attribute values $(A = a$ or $A = b)$, have an equal chance to obtain correct predictions.
 
 In mathematical terms, independence requires the sensitive/protected attribute $A$ to be unconditionally independent of $\hat{Y}$:
 
-$$P(\hat{Y}=1 \mid A=a)=P(\hat{Y}=1 \mid A=b), \quad \forall a, b \in \mathcal{A}$$
+$P(\hat{Y}=1 \mid A=a)=P(\hat{Y}=1 \mid A=b), \quad \forall a, b \in \mathcal{A}$
 
 Fairness metric I: 'The number of predicted positives should be equal across sensitive/protective subgroups'
 

@@ -86,31 +86,33 @@ __Types of bias:__
 
 __Independence <span style="color:purple">(WAE)</span>:__
 
-1. 'The proportion of actual positives (i.e. base rate) have to be equal across sensitive/protective subgroups'.
+1. 'The proportion of actual positives (i.e. base rate) have to be equal across sensitive/protective groups'.
 
-Independence ensures that individuals, who have different sensitive/protected attribute values $$\begin{aligned} & (A=a \text { or } A=b)\end{aligned}$$ , have an equal chance to obtain correct predictions.
+Base rate: (TP privileged group + FN privileged group)/(TP privileged group + FP privileged group + TN privileged group + FN privileged group) = (TP unprivileged group + FN unprivileged group)/(TP unprivileged group + FP unprivileged group + TN unprivileged group + FN unprivileged group)
+
+Independence ensures that individuals, who have different sensitive/protected attribute values $$\begin{aligned} & A\end{aligned}$$ , have an equal chance to obtain correct predictions.
 
 In mathematical terms, independence requires the sensitive/protected attribute $$\begin{aligned} & A\end{aligned}$$ to be unconditionally independent of $$\begin{aligned} & \hat{Y}\end{aligned}$$ :
 
 $$P(\hat{Y}=1 \mid A=a)=P(\hat{Y}=1 \mid A=b), \quad \forall a, b \in \mathcal{A}$$
 
-Fairness metric I: 'The number of predicted positives should be equal across sensitive/protective subgroups'
+Fairness metric I: 'The number of predicted positives should be equal across sensitive/protective groups'.
 
-<span style="color:red">Equal selection parity</span>: (TP privileged subgroup + FP privileged subgroup) = (TP unprivileged subgroup + FP unprivileged subgroup)
+<span style="color:red">Equal selection parity</span>: (TP privileged group + FP privileged group) = (TP unprivileged group + FP unprivileged group)
 
 OR
 
-Fairness metric II: 'The proportion of predicted positives should be equal across sensitive/protective subgroups'.
+Fairness metric II: 'The proportion of predicted positives should be equal across sensitive/protective groups'.
 
-<span style="color:green">Demographic parity</span>: (TP privileged subgroup + FP privileged subgroup)/(TP privileged subgroup + FP privileged subgroup + TN privileged subgroup + FN privileged subgroup) = (TP unprivileged subgroup + FP unprivileged subgroup)/(TP unprivileged subgroup + FP unprivileged subgroup + TN unprivileged subgroup + FN unprivileged subgroup)
+<span style="color:green">Demographic parity</span>: (TP privileged group + FP privileged group)/(TP privileged group + FP privileged group + TN privileged group + FN privileged group) = (TP unprivileged group + FP unprivileged group)/(TP unprivileged group + FP unprivileged group + TN unprivileged group + FN unprivileged group)
 
-Example 1: In total 15 prospective students apply for an undergraduate program; 10 are female, and 5 are male. <span style="color:red">Equal selection parity is satisfied when the same number of female, and male students are given a favorable outcome (i.e. being invited for an admission interview); e.g. 5 females, and 5 males.</span> <span style="color:green">Demographic parity is satisfied when their base rates are the same; e.g. 2 females, and 1 male (i.e. the favorable outcome should be assigned to each subgroup of a sensitive/protective attribute at equal rates).</span>
+Example 1: In total 15 prospective students apply for an undergraduate program; 10 are female, and 5 are male. <span style="color:red">Equal selection parity is satisfied when the same number of female, and male students are given a favorable outcome (i.e. being invited for an admission interview); e.g. 5 females, and 5 males.</span> <span style="color:green">Demographic parity is satisfied when their base rates are the same; e.g. 2 females, and 1 male (i.e. the favorable outcome should be assigned to each group of a sensitive/protective attribute at equal rates).</span>
 
 The <span style="color:purple">WAE</span> worldview does not automatically assume that the $$\begin{aligned} & Y\end{aligned}$$ values represent the 'ground truth'; they are constructed through historical or societal bias. The fairness notions related to <span style="color:purple">WAE</span>, independence, thus solely relies on the distribution of features and decisions, namely on ($$\begin{aligned} & A\end{aligned}$$, $$\begin{aligned} & X\end{aligned}$$, $$\begin{aligned} & \hat{Y}\end{aligned}$$) (See Codebook).
 
 __Separation & Sufficiency <span style="color:orange">(WYSIWIG)</span>:__
 
-1. 'The proportion of actual positives (i.e base rate) do not have to be equal across sensitive/protective subgroups'.
+1. 'The proportion of actual positives (i.e base rate) do not have to be equal across sensitive/protective groups'.
 
 Example: Research has shown that females are far more likely to suffer from breast cancer than males; 99% of breast cancer patients are female. A fair ML model should take this discrepancy, as a condition, into account.
 
@@ -122,15 +124,15 @@ In mathematical terms, separation requires the $$\begin{aligned} & \hat{Y}\end{a
 
 $$\begin{aligned} P(\hat{Y}=1 \mid A=a , Y=y) = P(\hat{Y}=1 \mid A=b , Y=y), \\ & \forall a, b \in \mathcal{A}, y \in\{0,1\}. \end{aligned}$$
 
-Fairness metric I: The true positive rates (TPR) and true negative rates (TNR) should be equal across sensitive/protective subgroups'.
+Fairness metric I: The true positive rates (TPR) and true negative rates (TNR) should be equal across sensitive/protective groups'.
 
 <span style="color:brown">Equalized odds</span>:
 
-(TP privileged subgroup/(TP privileged subgroup + FN privileged subgroup) = (TP unprivileged subgroup/(TP unprivileged subgroup + FN unprivileged subgroup)
+(TP privileged group/(TP privileged group + FN privileged group) = (TP unprivileged group/(TP unprivileged group + FN unprivileged group)
 
 AND
 
-(TN privileged subgroup/(TN privileged subgroup + FP privileged subgroup) = (TN unprivileged subgroup/(TN unprivileged subgroup + FP unprivileged subgroup)
+(TN privileged group/(TN privileged group + FP privileged group) = (TN unprivileged group/(TN unprivileged group + FP unprivileged group)
 
 Example 2: See Case Study: Breast Cancer in Logistic Regression notebook. Sensitive/protected attribute ($$\begin{aligned} & A\end{aligned}$$) values: 'Male' ($$\begin{aligned} & a\end{aligned}$$) or 'Female' ($$\begin{aligned} & b\end{aligned}$$).
 
@@ -145,9 +147,9 @@ P(Y=1 \mid A=a, \hat{Y}=1) = P(Y=1 \mid A=b, \hat{Y}=1), \\
 & \forall a, b \in \mathcal{A},
 \end{aligned}$$
 
-Fairness metric II: 'The positive predictive value (PPV) should be equal across sensitive/protective subgroups'.
+Fairness metric II: 'The positive predictive value (PPV) should be equal across sensitive/protective groups'.
 
-<span style="color:blue">Predictive parity/Precision/PPV </span>: TP privileged subgroup/(TP privileged subgroup + FP privileged) = TP unprivileged subgroup/(TP unprivileged subgroup + FP unprivileged)
+<span style="color:blue">Predictive parity/Precision/PPV </span>: TP privileged group/(TP privileged group + FP privileged) = TP unprivileged group/(TP unprivileged group + FP unprivileged group)
 
 Example 3: See Case Study: Spam Email in Logistic Regression notebook. Sensitive/protected attribute ($$\begin{aligned} & A\end{aligned}$$) values: 'Email written in Dutch' ($$\begin{aligned} & a\end{aligned}$$) or 'Email written in English' ( $$\begin{aligned} & b\end{aligned}$$ ).
 
@@ -155,10 +157,10 @@ Example 3: See Case Study: Spam Email in Logistic Regression notebook. Sensitive
 
 | Mathematical notation | Description |
 |---|---|
-| $$\begin{aligned} &Y\end{aligned}$$ | 'True'/'Actual' label (i.e. 'negative'/'unfavourable' = 0, and 'positive'/'favourable' = 1)|
+| $$\begin{aligned} &Y\end{aligned}$$ | True/Actual label (i.e. 'negative'/'unfavorable' = 0, and 'positive'/'favorable' = 1)|
 | $$\begin{aligned} &\hat{Y}\end{aligned}$$ | Predicted label (by ML model) (i.e. 'decisions')|
-| $$\begin{aligned} &A\end{aligned}$$ | Sensitive/protected attribute (binary) class/subgroup label (i. e. 'negative'/'underprivileged' = 0, and 'positive'/'privileged' = 1)|
-| $$\begin{aligned} &X\end{aligned}$$ | Features (a.k.a independent variables or predictors) |
+| $$\begin{aligned} &A\end{aligned}$$ | Sensitive/protected attribute (binary) group/class label (i. e. 'negative'/'underprivileged' = 0, and 'positive'/'privileged' = 1)|
+| $$\begin{aligned} &X\end{aligned}$$ | Features (i.e. independent variables or predictors) |
 
 ***
 
@@ -167,6 +169,10 @@ Example 3: See Case Study: Spam Email in Logistic Regression notebook. Sensitive
 Now, we are introduced to various group fairness metrics, it is time to deepen our knowledge. In the workshop, you will learn how to apply these metrics in an binary classification task.
 
 __2a__ Complete the [Responsible AI: Group fairness metrics]() notebook.
+
+__Dataset:__
+
+- [hiring_group_fairness.csv](../../Study%20Content/Responsible%20and%20Explainable%20AI/notebooks/data/hiring_group_fairness.csv)
 
 ***
 

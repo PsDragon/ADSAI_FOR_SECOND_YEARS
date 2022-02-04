@@ -10,14 +10,14 @@ sort: 1
 
 Today, you will be introduced to the concepts of 'fairness' and 'bias'. How are they defined? Are there different types of 'fairness' and/or 'bias' Lastly, you will be made familiar with two principles that can be applied to achieve fairness; equality and equity.
 
-## Learning Objectives
+## Learning objectives
 
 1. Define the terms 'individual fairness', 'group fairness', 'bias', 'equity', and 'equality'.
 2. Describe different types of bias, and connect them to the CRISP-DM cycle phases by providing concrete examples.
 3. Explain the difference between the terms 'individual fairness' and 'group fairness'.
 3. Explain the difference between the terms 'equity' and 'equality'.
 
-__Table of contents:__
+__Table of contents__
 
 1. Introduction: 3 hours
 2. Workshop: 3 hours
@@ -56,7 +56,7 @@ __1a__ Watch the video Why monkeys (and humans) are wired for fairness by Sarah 
 
 __1b__ Explain how the terms 'fairness' and 'cooperation' relate to each other by giving a real-life example. Write your answer down.
 
-__1c__ Read the comic book Fairness & Friends by Khan et., al., which you can find, [here](https://dataresponsibly.github.io/comics/vol2/fairness_en.pdf).
+__1c__ Read the comic book Fairness & Friends by Khan et., al., which you can find, [here](https://dataresponsibly.github.io/comics/vol2/fairness_en.pdf). This comic book is completely awesome, because it will introduce you to all the main concepts related to fairness and AI in a fun, and comprehensible way.
 
 Different researchers, classify ML bias differently. Some will state that there are three types of bias, others will state there are six types of bias. In other words, there is no real consensus on how to define bias in machine learning.
 
@@ -73,7 +73,7 @@ __1f__ Explain the difference between 'individual fairness', and 'group fairness
 
 ***
 
-## 2) Workshop: The Difference Between Equality and Equity
+## 2) Workshop: The difference between equality and equity
 
 Now, we are introduced to the terms 'fairness' and 'bias', it is time to deepen our knowledge. In the workshop, you will learn about how two principles, equality and equity, can help to achieve fairness:
 

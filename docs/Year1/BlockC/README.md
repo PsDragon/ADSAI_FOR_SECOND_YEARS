@@ -50,16 +50,16 @@ Please refer to the project brief for more detailed information.
 [Fairness & Bias: Definitions](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI1.html)
 
 ## Tuesday
-[EDA & What-If Tool](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI2.html)
+[DataLab 1: Implicit bias & A Designer's Critical Alphabet](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI2.html)
 
 ## Wednesday
-[Auditing deep learning models](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI3.html)
+[Fairness & Bias: Individual fairness metrics, debiasing techniques & toolkits](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI3.html)
 
 ## Thursday
-[Decolonizing AI](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI4.html)
+[Fairness & Bias: Group fairness metrics](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI4.html)
 
 ## Friday
-[A Designer's Critical Alphabet](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI5.html)
+[DataLab 2: Fairness metrics, and debiasing techniques for image data](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI5.html)
 
 # Week 2 : Getting started with Deep Learning
 

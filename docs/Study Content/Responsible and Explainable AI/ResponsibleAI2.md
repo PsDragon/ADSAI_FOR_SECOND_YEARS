@@ -98,7 +98,7 @@ __2.2b__ Read the article [Eurocentrism](https://unm-historiography.github.io/me
 
 __2.2c__ How does the Mercator map fit within the Eurocentric worldview? In your answer refer to the concept of 'bias', and/or 'fairness'. Write your answer down.
 
-<img src="./images/mercator.jpg" alt="World views" width="400">
+<img src="./images/mercator.jpg" alt="Mercator projection" width="400">
 
 *Figure 3. Mercator world map projection.*
 

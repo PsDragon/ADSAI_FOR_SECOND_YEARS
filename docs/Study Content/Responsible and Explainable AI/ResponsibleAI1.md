@@ -40,7 +40,7 @@ Artificial Intelligence, often in the form of machine learning, underpins decisi
 
 Machine learning makes use of data by learning through the generalization of examples, defining that apply for past cases, but also predicting future unseen cases (See Figure 1).
 
-<img src="./images/ml_diagram.jpg" alt="Perceptron" width="600">
+<img src="./images/ml_diagram.jpg" alt="Traditional vs. Machine learning" width="400">
 
 *Figure 1: Traditional vs. machine learning.*
 
@@ -63,7 +63,7 @@ Different researchers, classify ML bias differently. Some will state that there 
 __1d__ List, and describe at least five types of bias presented in either [Fairness & Friends](https://dataresponsibly.github.io/comics/vol2/fairness_en.pdf)
  or [A survey on bias and fairness in machine learning](https://arxiv.org/pdf/1908.09635.pdf).
 
-<img src="./images/CRISP-DM.png" alt="Books banner" width="400"/>
+<img src="./images/CRISP-DM.png" alt="CRISP-DM" width="400"/>
 
 *Figure 2. CRISP-DM cycle.*
 
@@ -86,7 +86,7 @@ The current fairness metrics, which will be the topic of the coming independent-
 
 __2.1a__ Read the Post-Its in Figure 3.
 
-<img src="./images/connecting_post_its.png" alt="Books banner" width="600"/>
+<img src="./images/connecting_post_its.png" alt="Post-its" width="600"/>
 
 *Figure 3. Post-Its on a bulletin board.*
 
@@ -94,7 +94,7 @@ __2.1b__ Fill the gaps in the 'text' Post-Its by connecting it to the correct 'c
 
 __2.1c__ Provide answers to the following answers. Provide clear, and concise answers.  
 
-<img src="./images/equityvsequality.jpg" alt="Books banner" width="450"/>
+<img src="./images/equityvsequality.jpg" alt="Equality vs. Equity" width="600"/>
 
 *Figure 4. Equality vs equity.*
 

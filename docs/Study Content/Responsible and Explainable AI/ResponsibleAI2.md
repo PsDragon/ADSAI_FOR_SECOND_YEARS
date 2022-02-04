@@ -2,7 +2,7 @@
 sort: 2
 ---
 
-# __DataLab 1: Implicit Bias & A Designer's Critical Alphabet__
+# __DataLab 1: Implicit bias & A Designer's Critical Alphabet__
 
 Today, you will be introduced to the concept of implicit bias, and made familiar with the Open Images dataset. First, we are going to conduct an experiment (i.e. Harvard's Implicit Bias Test). Next, we will perform an EDA on the images, and corresponding meta-data. Later, we will critically assess the dataset in terms of bias, and fairness by applying concepts from A Designer's Critical Alphabet.
 
@@ -51,7 +51,7 @@ In (social) psychology, bias is classified as either conscious ('explicit') or u
 
 Implicit biases are an example of what Kahneman and Tversky (1974) call 'System 1' thinking.
 
-<img src="./images/kahneman.jpeg" alt="Decision-making process" width="800">
+<img src="./images/kahneman.jpeg" alt="Decision-making process" width="500">
 
 *Figure 1. Systems of thinking (Kahneman, and Tversky, 1974).*
 
@@ -59,7 +59,7 @@ This mode of thinking is fast, emotional, and unconscious. It requires little ef
 
 Let's focus on a more concrete example of implicit bias: Ethnic profiling. A Dutch police officer may be committed to 'protect and serve' its community, and perceive itself as impartial, yet at the same time they can lead a stop and frisk police action that targets a specific ethnic group (e.g. Dutch citizens of Turkish descent). Consciously the police officer is deeply loyal to the idea of protecting the community; however their behavior is inconsistent with those beliefs because they are showing prejudice against certain members of the community.
 
-<img src="./images/implicit_bias.jpg" alt="Implicit bias" width="800">
+<img src="./images/implicit_bias.jpg" alt="Implicit bias" width="600">
 
 *Figure 2. Implicit bias.*
 
@@ -122,7 +122,7 @@ First, we need to familiarise ourselves with the Open Images dataset:
 
 __3a__ What is the Open Images dataset? Who created it? For what kind of computer vision tasks can it be used? Write your answer down.
 
-<img src="./images/computer_vision_tasks.png" alt="Types of computer vision tasks" width="800">
+<img src="./images/computer_vision_tasks.png" alt="Types of computer vision tasks" width="600">
 
 *Figure 4. Types of computer vision tasks.*
 
@@ -174,7 +174,7 @@ __Decolonial theory: Zone of being/non-being__
 
 As a result of colonization, the world was divided into two zones: one half represented the core (zone of being), while the other half represented the periphery (zone of non-being) (Fanon, et. al., p. 2). By dividing the world along these radical lines, a global hierarchy of superiority and inferiority was established:
 
-<img src="./images/fanon_racism.png" alt="Fanon" width="350">
+<img src="./images/fanon_racism.png" alt="Fanon" width="300">
 
 *Figure 5. Fanon’s Conception of Racism.*
 

@@ -3,21 +3,35 @@ sort: 12
 ---
 
 
-# DataLab: XAI using TCAV
+# DataLab 2: XAI
 
-In today's DataLab, you are expected to apply one explainable AI technique,
-namely TCAV to your creative brief. In particular, you
-are expected to use the ```tf-keras-vis``` python library to generate
-explanations for your image classification creative brief.
+In today's DataLab, we will learn how to apply the methods we were introduced to in this week's workshop; and further, investigate the applicability of these methods to the creative brief.
 
 ## Learning Objectives:
 
-- Import Python packages/libraries.
-- Load your image dataset.
-- Apply appropriate processing techniques to the dataset.
-- Select appropriate image classification model to fit on the dataset.
-- Apply TCAV algorithms to the model.
-- Evaluate the performance of the AI algorithm in terms of it's explanatory power.
+- [ ] Learn how to apply and interpret Saliency maps using vanilla gradients.
+- [ ] Learn how to apply and interpret Saliency maps using Grad-CAM.
+- [ ] Learn how to apply and interpret Saliency maps using SmoothGrad.
+- [ ] Investigate the applicability of Saliency maps to your creative brief.
+
+## Day outline
+
+1. Daily standup: 15 mins
+2. Introduction: 45 mins
+3. Workshop: 6 hours
+5. Reflection & Work/learning log: 1 hour
+
+## Workshop
+
+### Saliency Maps [3 hours]
+- [ ] Please open the ```XAI_DataLab2_SaliencyMaps``` notebook you can find in
+your Github Repositories in Google Colab and follow the instructions 
+provided in the Notebook.
+
+### Creative brief [2 hours]
+
+- [ ] Apply the concepts learned today to your creative brief and ensure that
+- [ ] you can now explain the predictions of your model.
 
 ## Questions or issues?
 If you have any questions or issues regarding the course material, please first ask your peers or ask us in the Q&A in Datalab!

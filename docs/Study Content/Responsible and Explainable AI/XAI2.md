@@ -2,21 +2,36 @@
 sort: 9
 ---
 
-# DataLab: XAI using Feature Attribution
+# DataLab 1: XAI
 
-In today's DataLab, you are expected to apply one explainable AI technique,
-namely feature/pixel attribution to your creative brief. In particular, you
-are expected to use the ```tf-keras-vis``` python library to generate
-explanations for your image classification creative brief.
+In today's DataLab, we will learn how to apply the methods we were introduced to in yesterdays workshop; and further, investigate the applicability of these methods to the creative brief.
 
 ## Learning Objectives:
 
-- Import Python packages/libraries.
-- Load your image dataset.
-- Apply appropriate processing techniques to the dataset.
-- Select appropriate image classification model to fit on the dataset.
-- Apply atleast two feature/pixel attribution algorithms to the model.
-- Evaluate the performance of the AI algorithm in terms of it's explanatory power.
+- [ ] Apply PDPs to the BikeRentalsDataset to undestand what drives bike rentals
+- [ ] Apply LIME to the mnist dataset for explaining image classification
+- [ ] Investigate the applicability of these methods to the creative brief.
+
+## Day outline
+
+1. Daily standup: 15 mins
+2. Introduction: 45 mins
+3. Workshop: 6 hours
+5. Reflection & Work/learning log: 1 hour
+
+## Workshop
+
+### Partial Dependence Plots [2 hours]
+- [ ] Please open the ```XAI_DataLab1_PDP``` notebook you can find in your Github Repositories in Google Colab and follow the instructions provided in the Notebook.
+
+> If you have already built a predictive model i.e., you completed yesterday's homework, compare it's performance with the model in Github and proceed directly to the challenge.
+
+### LIME [2 hours]
+- [ ] Please open the ```XAI_DataLab1_LIME``` notebook you can find in your Github Repositories in Google Colab and follow the instructions provided in the Notebook.
+
+### Creative brief [2 hours]
+
+- [ ] Apply the concepts learned today to your creative brief.
 
 ## Questions or issues?
 If you have any questions or issues regarding the course material, please first ask your peers or ask us in the Q&A in Datalab!

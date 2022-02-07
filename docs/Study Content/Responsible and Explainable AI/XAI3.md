@@ -2,26 +2,24 @@
 sort: 10
 ---
 
-# Meta Learning
-Meta-learning is an ensemble learning method which learns
-from the results of the base classifiers. It has a two-level
-structure, where the algorithms used in the first level are called
-base-learners and the algorithm in the second level is called
-the meta-learner. The base-learners are trained on the original
-training data. The meta-learner is trained by the predictions of
-the base classifiers and the true class of the original training
-data.
+# Feature Attribution in Computer Vision
+Feature attribution methods help us understand how a particular neural network architecture makes it's prediction. The most common (and simple) feature attribution method is called a saliency map — a simple heatmap that highlights pixels of the input image that most likely caused the output. In today's workshop, we learn more about such maps and the different methods that can be used to obtain them.
 
+## Learning Objectives
+- [ ] Understand how to compute Vanilla Gradients
+- [ ] Understand how to compute Grad-CAMs.
+- [ ] Understand how to compute SmoothGrad.
+- [ ] Learn how to use ```tf-keras-vis``` to obtain saliency maps.
 
-## Meta learning for XAI in practice.
-First, we build a meta-model by combining hyperparameters obtained from several
-models on (similar) datasets with the same goal (e.g., classification). Next, we
-train the meta model on our dataset of interest and apply XAI methods on
-this model in order to gain more insight into the meta-model structure. The
-explanation therefore is not just based on one model (and dataset)- but on
-a model trained on diverse datasets.
+### Saliency maps using vanilla gradients
 
-Please watch the following video and summarize the lecture in your own words (~500 words).
+### Saliency maps using Grad-CAMs
+
+### Saliency maps using SmoothGrad
+
+## Saliency Maps in Practice (```tf-keras-vis```)
+
+## Summary
 
 <!-- blank line -->
 <figure class="video_container">

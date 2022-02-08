@@ -128,7 +128,7 @@ __3a__ What is the Open Images dataset? Who created it? For what kind of compute
 
 __3b__ Start exploring the Open Images dataset by performing an EDA on the images, and corresponding meta-data (e.g. images, and image-level labels).
 
-To make your lives a bit easier, we created a Jupyter Notebook template for the Responsible AI Datalabs :grin:. You can find the template, [here]().
+To make your lives a bit easier, we created a Jupyter Notebook template for the Responsible AI Datalabs :grin:. You can find the template, [here](../../Study%20Content/Responsible%20and%20Explainable%20AI/notebooks/openimages_assignment_student.ipynb).
 
 When performing the EDA, try to answer the following questions:
 

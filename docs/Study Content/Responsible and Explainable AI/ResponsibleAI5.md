@@ -47,7 +47,7 @@ __1b__ Answer the following questions:
 
 __2a__ Proceed with the Datalab exercises listed in the Jupyter Notebook template.
 
-If you have not yet downloaded the template for the Responsible AI Datalabs, please do so now. You can find it, [here](./data/Responsible_AI_Assignment.ipynb).
+If you have not yet downloaded the template for the Responsible AI Datalabs, please do so now. You can find it, [here](../../Study%20Content/Responsible%20and%20Explainable%20AI/notebooks/openimages_assignment_student.ipynb).
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Note: Need further information or have questions? The lecturers will be available throughout the DataLab session.

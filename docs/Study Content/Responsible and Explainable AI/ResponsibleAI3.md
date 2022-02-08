@@ -68,15 +68,15 @@ and SAT scores and come from the same high school. $$\begin{aligned}&y\end{align
 
 To make our college admissions classifier more fair, we need to minimize the distance between the applicants $$\begin{aligned}&x\end{aligned}$$ , and $$\begin{aligned}&y\end{aligned}$$ . We can either add additional data instances to the dataset or remove existing data instances from the dataset to achieve this goal.
 
-If we think that the unfairness is caused by statistical bias, we should add additional data instances to make our dataset (i.e., sample) more representative. When there is no additional data available, we can also augment our current data; increase the sample by adding slightly modified copies of already existing data or newly created synthetic data from existing data.
-
-<img src="./images/populationvssample.jpg" alt="Population vs. Sample" width="600"/>
-
-*Figure 2. Population vs. sample.*
+If we think that the unfairness is caused by statistical bias, we should add additional data instances to make our dataset (i.e., sample) more representative. When there is no additional data available, we can also augment our current data; increase the sample by adding slightly modified copies of already existing data or newly created synthetic data from existing data. This approach is called 'fairness through awareness'.
 
 >Generally speaking, statistical bias occurs whenever the data used for model training are not representative of the true population. This can be due to a form of selection bias, i.e. when the individuals appearing in the data come from a non random selection of the full population. This happens, for example, in the context of credit lending, where the information of the repayment is known only for people that were granted the loan. Another way in which statistical bias can enter the data is via systematic measurement errors. This happens when the record of past errors and performance is systematically distorted, especially in the case of different amount of distortion for different groups of people. Similarly, it may happen that data are systematically missing or poorly recorded for entire strata of the population ([Source](https://arxiv.org/abs/2106.00467)).
 
-This approach is called 'fairness through awareness'.
+To get a better understanding of the statistical concepts 'sample', and 'population', see the video below:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jPPF2xSEyKU?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*Video 1. The differences between sample and population.*
 
 If we think that the unfairness is caused by historical or societal bias, we should remove data instances from our dataset.
 
@@ -94,11 +94,15 @@ __1.2a__ Watch the video on image augmentation and overfitting of Google's Machi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QWdYWwW6OAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Video 1. Machine Learning Foundations: Ep7 - Image augmentation and overfitting.*
+*Video 2. Machine Learning Foundations: Ep7 - Image augmentation and overfitting.*
 
 __Tutorial:__
 
 - [Image augmentation in Keras](https://www.analyticsvidhya.com/blog/2020/08/image-augmentation-on-the-fly-using-keras-imagedatagenerator)
+
+<img src="./images/data_augmentation.png" alt="Image augmentation" width="600"/>
+
+*Figure 3. Examples of different augmentation techniques applied to an image depicting a cat.*
 
 __1.2b__ Complete the CodeAcademy module [Learn Web Scraping with Beautiful Soup](https://www.codecademy.com/learn/learn-web-scraping), which teaches you, amongst others, how to scrape the web for images.
 
@@ -115,7 +119,7 @@ During the first part of the workshop, you will learn how to apply individual fa
 
 ### 2.1 Fairness metrics in Python (Part 1)
 
-__2.1a__ Complete the [Responsible AI: Individual fairness metrics]() notebook.
+__2.1a__ Complete the [Responsible AI: Individual fairness metrics](../../Study%20Content/Responsible%20and%20Explainable%20AI/notebooks/individual_fairness_metrics_student.ipynb) notebook.
 
 __Datasets:__
 

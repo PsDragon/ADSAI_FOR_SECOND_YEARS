@@ -53,7 +53,7 @@ Please refer to the project brief for more detailed information.
 [DataLab 1: Implicit bias & A Designer's Critical Alphabet](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI2.html)
 
 ## Wednesday
-[Fairness & Bias: Individual fairness metrics, debiasing techniques & toolkits](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI3.html)
+[Fairness & Bias: Individual fairness, debiasing techniques & toolkits](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI3.html)
 
 ## Thursday
 [Fairness & Bias: Group fairness metrics](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI4.html)

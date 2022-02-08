@@ -170,7 +170,7 @@ Example 3: See Case Study: Spam Email in Logistic Regression notebook. Sensitive
 
 Now, we are introduced to various group fairness metrics, it is time to deepen our knowledge. In the workshop, you will learn how to apply these metrics in a binary classification task.
 
-__2a__ Complete the [Responsible AI: Group fairness metrics]() notebook.
+__2a__ Complete the [Responsible AI: Group fairness metrics](../../Study%20Content/Responsible%20and%20Explainable%20AI/notebooks/individual_fairness_metrics_student.ipynb) notebook.
 
 __Dataset:__
 

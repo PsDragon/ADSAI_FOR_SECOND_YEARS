@@ -28,6 +28,8 @@ are not limited by the feature space of a neural network.
 
 TCAV is proposed to generate global explanations for neural networks, but, in theory, it should also work for any model where taking directional derivative is possible. For any given concept, TCAV measures the extent of that concept’s influence on the model’s prediction for a certain class. For example, TCAV can answer questions such as how the concept of “striped” influences a model classifying an image as a “zebra”. Since TCAV describes the relationship between a concept and a class, instead of explaining a single prediction, it provides useful global interpretation for a model’s overall behavior.
 
+## Adverserial Explanations
+
 ## Assignments
 
 - [ ] Please read the example of how TCAV is applied to XAI [here](https://christophm.github.io/interpretable-ml-book/detecting-concepts.html#example-9)

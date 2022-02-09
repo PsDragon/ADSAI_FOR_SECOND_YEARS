@@ -11,14 +11,6 @@ Feature attribution methods help us understand how a particular neural network a
 One interpretation of Saliency maps is that we try to find the pixels, whose value needs to be changed the least, in order to affect the final classification the most. Imagine, you could assign a score to the final classification, then saliency maps highlights the pixels which are key to the score.
  </div>
 
-<figure>
-     <center><img src=".\images\saliencymap.PNG" /></center>
-    <figcaption>The heatmap below the original image indicates the features (pixels) that play an important role in predicting the final class <figcaption>
-</figure>
-<br>
-
-
-
 ## Learning Objectives
 - [ ] Understand how to use Vanilla Gradients for feature attribution
 - [ ] Understand how to use Grad-CAMs for feature attribution

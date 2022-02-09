@@ -5,8 +5,6 @@ sort: 10
 # Feature Attribution in Computer Vision
 Feature attribution methods help us understand how a particular neural network architecture makes it's prediction. The most common (and simple) feature attribution method is called a saliency map — a simple heatmap that highlights pixels of the input image that most likely caused the output. In today's workshop, we learn more about such maps and the different methods that can be used to obtain them.
 
-
-
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 One interpretation of Saliency maps is that we try to find the pixels, whose value needs to be changed the least, in order to affect the final classification the most. Imagine, you could assign a score to the final classification (e.g., a probability), then saliency maps highlights the pixels which are key to the score.
  </div>
@@ -98,7 +96,6 @@ Now we can load the required libraries and functions. Let's start with GradCAM.
 
 ```Python
 #load libraries
-
 import numpy as np
 import tensorflow as tf
 import PIL
@@ -167,7 +164,7 @@ And voila!
 </figure>
 <br>
 
-Let's place the iamges side by side for comparison
+Let's place the images closer for comparison
 
 <div class="row">
   <div class="column">
@@ -193,7 +190,7 @@ To get a deeper understanding of how these methods work and their technical unde
 
 # Assignments
 
-- [ ] Use the other XAI methods included in ```tf_explain``` and obtain saliency maps for the image of a cat. Please upload your code and final images to Github.
+- [ ] Use any of the listed XAI methods included in ```tf_explain``` and obtain saliency maps for the image of a cat. Please upload your code and final images to Github.
 
 - [ ] Use any image and a corresponding imagenet class to explore what do neural networks see when they classify that image.
   - [ ] Go [here](https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a) for a mapping of class labels to human descriptions
@@ -201,5 +198,5 @@ To get a deeper understanding of how these methods work and their technical unde
   - [ ] Use google search to search for images of the class you have chosen.
   - [ ] Load the image into your script (don't forget to change the class index)
   - [ ] Try several XAI methods and save your findings.
-  - [ ] Compare the methods qualitatively (e.g., Method A is better because..)
+  - [ ] Compare the methods qualitatively in a table.
   - [ ] Upload your script, saliency maps, and qualitative comparisons to github.

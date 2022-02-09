@@ -8,7 +8,7 @@ Feature attribution methods help us understand how a particular neural network a
 
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-One interpretation of Saliency maps is that we try to find the pixels, whose value needs to be changed the least, in order to affect the final classification the most. Imagine, you could assign a score to the final classification, then saliency maps highlights the pixels which are key to the score.
+One interpretation of Saliency maps is that we try to find the pixels, whose value needs to be changed the least, in order to affect the final classification the most. Imagine, you could assign a score to the final classification (e.g., a probability), then saliency maps highlights the pixels which are key to the score.
  </div>
 
 ## Learning Objectives

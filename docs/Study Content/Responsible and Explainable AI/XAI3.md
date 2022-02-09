@@ -67,20 +67,147 @@ Recall that neural networks use **backpropogation** to learn the weights of each
 
 Saliency maps extend this idea to provide intuitive explanations of why a certain image is assigned a specific class. Let's start by considering an image classifier which has been trained on labelled images of cats and dogs and we have tuned the model such that we have excellent performance on the test set. However, what we would like to explore is - _how is the model able to discrimate so accurately between a cat and a dog_ aka can we explain the model's predictions! We provide the learned neural network with the image of a cat, predict the label (=cat), and then do a single pass of backpropogation to obtain the gradients for that given image. We can use these gradients to highlight input regions that cause the most change in the output. Intuitively this should highlight salient image regions that most contribute towards the output!
 
-
-
-
-
-
 ### Saliency maps using Grad-CAMs
+
+Similar to vanilla gradients, Grad-CAM provides visual explanations for CNN decisions. Unlike other vanilla gradients, the gradient is not backpropagated all the way back to the image, but to the last convolutional layer to produce a map that highlights important regions of the image.
+
+Let us start with an intuitive consideration of Grad-CAM. The goal of Grad-CAM is to understand at which parts of an image a convolutional layer “looks” for a certain classification. As a reminder, the first convolutional layer of a CNN takes as input the images and outputs feature maps that encode learned features (see the chapter on Learned Features). The higher-level convolutional layers do the same, but take as input the feature maps of the previous convolutional layers. To understand how the CNN makes decisions, Grad-CAM analyzes which regions are activated in the feature maps of the last convolutional layers.
+
 
 ### Saliency maps using SmoothGrad
 
+One of the key drawbacks of vanilla gradients and Grad-CAM is that they resulting saliency maps can sometimes be very noisy. One way of dealing with is to first create multiple versions of the image with varying levels of noise. Then we create saliency maps using Grad-CAM for all the images and later, average the saliency maps to produce a final (usually noise free) map. In essense, we are trying to _average away_ the noise.
+
 ## Summary
 
+Today, we have discovered three new ways to explain **how** do neural networks make their decisions! Now let's put them to to the test and see how they perform using the ```tf_explain``` python package.
+
+> Click [here](https://gilberttanner.com/blog/interpreting-tensorflow-model-with-tf-explain) to read more about the package.
+
+Start by ensuring that you first install the  ```tf_explain``` library. Feel free to do this in google colab, either on the cloud or your local runtime. I recommend using your local runtime as it will be easier when you want to apply it to your creative brief.
+
+```Python
+!pip install tf_explain
+!pip install opencv-python
+```
+
+Next we load the required libraries. Note that ```tf_explain``` provides functions for the following saliency maps.
+
+- [ ] Activations Visualization
+- [ ] Vanilla Gradients
+- [ ] Occlusion Sensitivity
+- [ ] **Grad CAM (Class Activation Maps)**
+- [ ] SmoothGrad
+- [ ] Integrated Gradients
+
+> In this workshop, we focus on the highlighted method.
+
+Now we can load the required libraries and functions. Let's start with GradCAM.
+
+```Python
+#load libraries
+
+import numpy as np
+import tensorflow as tf
+import PIL
+
+#load GradCAM
+from tf_explain.core.grad_cam import GradCAM
+```
+
+For this example, we are going to use a pre-trained model , the **VGG16** architecture which was trained on [ImageNet](https://en.wikipedia.org/wiki/ImageNet). Lastly, we are going to use the internet's favourite image, a tabbycat to investigate saliency maps. _Note that, in the image net dataset, a tabby cat is assigned a class label of 281, we will come back to this later._
+
+<figure>
+    <img src=".\images\cat.jpg" />
+</figure>
+<br>
+
+We being by first setting the image path and it's class label.
+
+```Python
+IMAGE_PATH = "C:/Users/bhushan.n/Desktop/cat.jpg"
+tabby_cat_class_index = 281
+```
+
+> Note that this path will change for you, and also depend on whether you are using a local or hosted runtime.
+
+Next, we can preprocess the image so it's ready for ```keras``` and VGG16. Note that the model expects the input image to be of size 224 X 224.
+
+```Python
+img = tf.keras.preprocessing.image.load_img(IMAGE_PATH, target_size=(224, 224))
+img = tf.keras.preprocessing.image.img_to_array(img)
+```
+
+Now we load the pre-trained VGG16 model using the following line of code.
+
+```Python
+model = tf.keras.applications.vgg16.VGG16(weights="imagenet", include_top=True)
+#get model summary
+model.summary()
+```
+
+> What does include_top=TRUE do, and also investigate what happends if we set it to FALSE
+
+So now that we have loaded the image and loaded the model. We are ready to use ```tf_explain``` to understand what does VGG16 _see_ when it classifies this image as a cat.
+
+```Python
+#first create the input in a format that the explainer expects (a tuple)
+input = (np.array([img]), None)
+
+#initialize the explainer
+explainer = GradCAM()
+
+# Compute GradCAM on VGG16
+grid = explainer.explain(data,
+                         model,
+                         class_index=tabby_cat_class_index,
+                         layer_name="block5_conv3"
+                         )
+
+#save the resulting image
+explainer.save(grid, "C:/Users/bhushan.n/Desktop/", "grad_cam.png")
+```
+
+And voila!
+
+<figure>
+    <img src=".\images\grad_cam_cat.png" />
+</figure>
+<br>
+
+Let's place the iamges side by side for comparison
+
+<div class="row">
+  <div class="column">
+    <img src=".\images\cat.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src=".\images\grad_cam_cat.png" alt="Forest" style="width:100%">
+  </div>
+</div>
+
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+What do you think? Do you feel that the network is using the facial features of the cat to classify cat images?
+ </div>
+
+### Optional: A deeper understanding
+To get a deeper understanding of how these methods work and their technical underpinnings. Please watch the following lecture. Take notes and bring them to class if you find some concepts tricky to understand.
 
 <!-- blank line -->
 <figure class="video_container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VmbBnSv3otc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 <!-- blank line -->
+
+# Assignments
+
+- [ ] Use the other XAI methods included in ```tf_explain``` and obtain saliency maps for the image of a cat. Please upload your code and final images to Github.
+
+- [ ] Use any image and a corresponding imagenet class to explore what do neural networks see when they classify that image.
+  - [ ] Go [here](https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a) for a mapping of class labels to human descriptions
+  - [ ] Use any label you find interesting (e.g., Banana) note down the class label index
+  - [ ] Use google search to search for images of the class you have chosen.
+  - [ ] Load the image into your script (don't forget to change the class index)
+  - [ ] Try several XAI methods and save your findings.
+  - [ ] Compare the methods qualitatively (e.g., Method A is better because..)
+  - [ ] Upload your script, saliency maps, and qualitative comparisons to github.

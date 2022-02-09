@@ -48,19 +48,17 @@ Start by watching this video giving an overview of XAI and the current state of 
 </figure>
 <!-- blank line -->
 
-Now, it's time to sharpen your critical pens. Please watch the following discussion.
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Now that you have gained more insight into Responsible and Explainable AI. Please summarize your thoughts on the field in an essay of ~1000 words by picking a topic of interest. In specific, provide a general introduction to the topic, illustrate it's application with an example, and discuss it's limitations (as you perceive them) critically. Upload your essays to Github.
+ </div>
+
+Now, it's time to sharpen your critical pens. Please watch the following discussion to get some ideas for your paper. .
 
 <!-- blank line -->
 <figure class="video_container">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0LIACHcxpHU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 <!-- blank line -->
-
-# Assignment
-
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Now that you have gained more insight into Responsible and Explainable AI. Please summarize your thoughts on the field in an essay of ~500 words by picking a topic of interest. In specific, provide a general introduction to the topic, illustrate it's application with an example, and discuss it's limitations (as you perceive them) critically. Upload your essays to Github.
- </div>
 
 
 # Preparation for tomorrow's DataLab

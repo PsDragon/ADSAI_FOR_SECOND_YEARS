@@ -42,6 +42,10 @@ Please refer to the project brief for more detailed information.
 - [ ] **Tools**: Keras, Numpy, Matplotlib <br>
 - [ ] **Prototype**: Wireframe demo of your application made in Proto. <br>
 
+Please click the links below to view more detailed requirements:
+
+- [Responsible & Explainable AI](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleExplainableAIBlockC.html)
+
 # Block Outline
 
 # Week 1 : Responsible & Explainable AI (XAI)

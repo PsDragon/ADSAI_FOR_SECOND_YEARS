@@ -13,7 +13,7 @@ One interpretation of Saliency maps is that we try to find the pixels, whose val
 
 <figure>
      <center><img src=".\images\saliencymap.PNG" /></center>
-    <figcaption>The heatmap below the original image indicates the features (pixels) that play an important role in predicting the final class (Source) <figcaption>
+    <figcaption>The heatmap below the original image indicates the features (pixels) that play an important role in predicting the final class <figcaption>
 </figure>
 <br>
 

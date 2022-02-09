@@ -126,7 +126,7 @@ I highly recommend going through the The Building Blocks of Interpretability blo
 
 > hint: Use the following code snippet to automatically download, unzip and load the dataset into colab.
 
-```Python
+```python
 !wget https://archive.ics.uci.edu/ml/machine-learning-databases/00275/Bike-Sharing-Dataset.zip
 !unzip Bike-Sharing-Dataset.zip
 !ls

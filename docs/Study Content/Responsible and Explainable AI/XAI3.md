@@ -94,7 +94,7 @@ Next we load the required libraries. Note that ```tf_explain``` provides functio
 
 Now we can load the required libraries and functions. Let's start with GradCAM.
 
-```Python
+```python
 #load libraries
 import numpy as np
 import tensorflow as tf
@@ -113,7 +113,7 @@ For this example, we are going to use a pre-trained model , the **VGG16** archit
 
 We being by first setting the image path and it's class label.
 
-```Python
+```python
 IMAGE_PATH = "C:/Users/bhushan.n/Desktop/cat.jpg"
 tabby_cat_class_index = 281
 ```
@@ -122,14 +122,14 @@ tabby_cat_class_index = 281
 
 Next, we can preprocess the image so it's ready for ```keras``` and VGG16. Note that the model expects the input image to be of size 224 X 224.
 
-```Python
+```python
 img = tf.keras.preprocessing.image.load_img(IMAGE_PATH, target_size=(224, 224))
 img = tf.keras.preprocessing.image.img_to_array(img)
 ```
 
 Now we load the pre-trained VGG16 model using the following line of code.
 
-```Python
+```python
 model = tf.keras.applications.vgg16.VGG16(weights="imagenet", include_top=True)
 #get model summary
 model.summary()
@@ -139,7 +139,7 @@ model.summary()
 
 So now that we have loaded the image and loaded the model. We are ready to use ```tf_explain``` to understand what does VGG16 _see_ when it classifies this image as a cat.
 
-```Python
+```python
 #first create the input in a format that the explainer expects (a tuple)
 input = (np.array([img]), None)
 

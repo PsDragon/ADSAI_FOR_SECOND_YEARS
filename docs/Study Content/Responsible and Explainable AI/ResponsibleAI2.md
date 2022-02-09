@@ -187,6 +187,8 @@ European colonizers were seen as superior to the native population, which were o
 
 This systematic destruction, or 'war' on indigenous knowledges is called epistemicide. Furthermore, the colonizers secured their superior position through violent means: 'Beyond the equator are no sins' (Santos, 2014, p. 121), because copresence of the two sides was deemed impossible (Santos, 2014, p. 118).
 
+What to learn more about decolonizing AI? See Mohamed's article [Decolonial AI: Decolonial theory as sociotechnical foresight in artificial intelligence. Philosophy & Technology](https://link.springer.com/article/10.1007/s13347-020-00405-8), which '... explores the important role of critical science, and in particular of post-colonial and decolonial theories, in understanding and shaping the ongoing advances in artificial intelligence.'
+
 ***
 
 ## 5) Reflection & Work/learning log (16:00-17:00):
@@ -207,6 +209,8 @@ __5b__ Choose, and provide an answer to at least of the following questions:
 ***
 
 ## Resources
+
+Mohamed, S., Png, M. T., & Isaac, W. (2020). Decolonial AI: Decolonial theory as sociotechnical foresight in artificial intelligence. Philosophy & Technology, 33(4), 659-684.
 
 Santos, B. S. (2017). Epistemologies of the South: Justice against epistemicide. London: Routledge/Taylor&Francis.
 

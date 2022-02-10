@@ -2,7 +2,7 @@
 sort: 5
 ---
 
-# Datalab 15: Conceptualizing a Wireframe Prototype
+# Datalab 14: Conceptualizing a Wireframe Prototype
 Today we're going to cover user testing as a means to prototype our application. We're first going to review our vertical slice prototypes with our peers by means of a user test. Then we're going to have a Wizzard of Oz workshop and user test to prototype the AI component of our application!
 
 ## 0) Learning Objectives:
@@ -33,14 +33,14 @@ We start by hosting a stand-up. Form groups of ~ 5 and run on-another through th
 **Open your worklog and plan your day informed by the stand-up and today's schedule**
 
 ## 1) Q & A
-We start by briefly reflecting on what we learned about interaction and inferace design. Do you have any questions? Now is the time to ask them!
+We start by briefly reflecting on what we learned about interaction and interface design. Do you have any questions? Now is the time to ask them!
 
 ## 2) User testing
 All products should include some form of user testing, whether they are digital or not, interactive or non-interactive: as a designer you generally know too much about the product and technology relating to your own project. You cannot simply pretend you don't know these things; that's not how your brain works, and therefore we perform user tests to create a ecologically valid setup to test our designs!
 
-The most basic form of testing your design is simply showing it to a participant and having them 'conceptually' interact with the application. This can be a generate prototype like you can do with your wireframe, or a more designer guided one; usually non-interactive, where you are controlling the prototype instead of the participant.
+The most basic form of testing your design is simply showing it to a participant and having them 'conceptually' interact with the application. This can be a generic prototype, like you can do with your wireframe, or a more designer guided one; usually non-interactive, where you are controlling the prototype instead of the participant.
 
-**Open your HCAI design document and create a section called 'User Test Datalab 14'. Create a bullet point section for logging all feedback point!**
+**Open your HCAI design document and create a section called 'User Test Datalab 14'. Create a bullet point section for logging all feedback points of your peers!** Log feedback regardless of your considerations, refuting the feedback comes at a later stage and should not be a filter while transscribing the feedback.
 
 Run you classmate through your vertical slice and explain him along the way what will happen for each given condition and user story. Collect any feedback he might have! This is the crucial part of user testing because you will need to know what might work and what might not work in order to iterate on your design: make the best possible application.
 
@@ -82,15 +82,14 @@ At 16:30, there's a meeting you're encouraged to take part in to ask questions a
 Next week, we will continue building our Interface Design skills and work on our wireframe prototype!
 
 
-## Resources
+# Resources
+
+## Recommend Literature:
 - [Human-Centered Artificial Intelligence: Wizzard of Oz Prototyping Blog](https://medium.com/google-design/human-centered-machine-learning-a770d10562cd)
 - [Conventional: Wizzard of Oz Prototyping Blog](https://blog.prototypr.io/wizard-of-oz-prototyping-process-blog-a20ffce8886)
-
-## Resources
-###Recommend Literature:
 −	[Interaction Design: beyond human-computer interaction](https://login.proxy1.dom1.nhtv.nl/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cat01829a&AN=buas.303541695&site=eds-live)   
 −	[UX Fundamentals for Non-UX Professionals : User Experience Principles for Managers, Writers, Designers, and Developers](https://login.proxy1.dom1.nhtv.nl/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edsebk&AN=1892077&site=eds-live)
 
-###Further Reading:
+## Further Reading:
 −	[Designing with Data](http://shop.oreilly.com/product/0636920026228.do)
 −	[The Design of Everyday Things, Donald A. Norman](https://login.proxy1.dom1.nhtv.nl/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cat01829a&AN=buas.393706974&site=eds-live)

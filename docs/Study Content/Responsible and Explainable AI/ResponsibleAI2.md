@@ -4,7 +4,7 @@ sort: 2
 
 # __DataLab 1: Implicit bias & A Designer's Critical Alphabet__
 
-Today, you will be introduced to the concept of implicit bias, and made familiar with the Open Images dataset. First, we are going to conduct an experiment (i.e. Harvard's Implicit Bias Test). Next, we will perform an EDA on the images, and corresponding meta-data. Later, we will critically assess the dataset in terms of bias, and fairness by applying concepts from A Designer's Critical Alphabet.
+Today, you will be introduced to the concept of implicit bias and made familiar with the Open Images dataset. First, we are going to conduct an experiment (i.e. Harvard's Implicit Bias Test). Next, we will perform an EDA on the images, and corresponding meta-data. Later, we will critically assess the dataset in terms of bias, and fairness by applying concepts from A Designer's Critical Alphabet.
 
 ## Learning objectives
 
@@ -35,9 +35,9 @@ Good luck!
 
 ## 1) Q&A and Standup
 
-__2a__ Ask questions regarding the independent study material.
+__1a__ Ask questions regarding the independent study material.
 
-__2b__ Answer the following questions:
+__1b__ Answer the following questions:
 
 - What did you do yesterday?
 - What will you do today?
@@ -47,7 +47,7 @@ __2b__ Answer the following questions:
 
 ## 2) Introduction
 
-In (social) psychology, bias is classified as either conscious ('explicit') or unconscious ('implicit'). Explicit bias occurs when people consciously devalue or hold negative views of a particular group. Implicit bias, on the other hands, refers to the brain’s automatic, instantaneous association of stereotypes and attitudes with particular groups of people (Dovidio, Kawakami, and Gaertner, 2002). These implicit biases are often contrary to our personal values and are formed by the social environments around us (van Nunspeet et al., 2015).
+In (social) psychology, bias is classified as either conscious ('explicit') or unconscious ('implicit'). Explicit bias occurs when people consciously devalue or hold negative views of a particular group. Implicit bias, on the other hand, refers to the brain's automatic, instantaneous association of stereotypes and attitudes with particular groups of people (Dovidio, Kawakami, and Gaertner, 2002). These implicit biases are often contrary to our personal values and are formed by the social environments around us (van Nunspeet et al., 2015).
 
 Implicit biases are an example of what Kahneman and Tversky (1974) call 'System 1' thinking.
 
@@ -57,13 +57,13 @@ Implicit biases are an example of what Kahneman and Tversky (1974) call 'System 
 
 This mode of thinking is fast, emotional, and unconscious. It requires little effort, but is prone to error.
 
-Let's focus on a more concrete example of implicit bias: Ethnic profiling. A Dutch police officer may be committed to 'protect and serve' its community, and perceive itself as impartial, yet at the same time they can lead a stop and frisk police action that targets a specific ethnic group (e.g. Dutch citizens of Turkish descent). Consciously the police officer is deeply loyal to the idea of protecting the community; however their behavior is inconsistent with those beliefs because they are showing prejudice against certain members of the community.
+Let's focus on a more concrete example of implicit bias: Ethnic profiling. A Dutch police officer may be committed to 'protect and serve' its community, and perceive itself as impartial, yet at the same time, they can lead a stop and frisk police action that targets a specific ethnic group (e.g., Dutch citizens of Turkish descent). Consciously, the police officer is deeply loyal to protecting the community; however, their behavior is inconsistent with those beliefs because they are showing prejudice against certain community members.
 
 <img src="./images/implicit_bias.jpg" alt="Implicit bias" width="600">
 
 *Figure 2. Implicit bias.*
 
-The ability to hold these two truths (e.g. 'serve and protect the community', and 'unequal treatment of community members based on ethnicity') and not see them is what makes implicit biases so dangerous.
+The ability to hold these two truths (e.g., 'serve and protect the community', and 'unequal treatment of community members based on ethnicity') and not see them is what makes implicit biases so dangerous.
 
 ### 2.1 Implicit bias test
 
@@ -83,7 +83,7 @@ Unfortunately, we cannot cure ourselves from our implicit biases, but with self 
 
 ### 2.2 Worldview
 
-Now we have identified our implicit biases, we can take a closer look at the possible causes. Some scholars argue that many of the common biases of people brought up in 'The West' (partially) originate from having an Eurocentric worldview.
+Now we have identified our implicit biases, we can look at the possible causes. Some scholars argue that many of the common prejudices of people brought up in 'The West' (partially) originate from having a Eurocentric worldview.
 
 __2.2a__ Watch the video 'What's your worldview?' by Impact 360 institute:
 
@@ -96,7 +96,7 @@ __Worldview (definition):__
 
 __2.2b__ Read the article [Eurocentrism](https://unm-historiography.github.io/metahistory/essays/postmodern/eurocentrism.html) by Keena Hays to find out how this particular worldview reinforces western beliefs of superiority.
 
-__2.2c__ How does the Mercator map fit within the Eurocentric worldview? In your answer refer to the concept of 'bias', and/or 'fairness'. Write your answer down.
+__2.2c__ How does the Mercator map fit within the Eurocentric worldview? In your answer, refer to the concept of 'bias' and/or 'fairness'. Write your answer down.
 
 <img src="./images/mercator.jpg" alt="Mercator projection" width="400">
 
@@ -106,17 +106,17 @@ __2.2d__ Give at least three examples of how a worldview such as Eurocentrism ca
 
 ## 3) Workshop: Open Images & A Designer's Critical Alphabet
 
-In the workshop we are going to investigate how the Eurocentric worldview (i.e. the driving force behind many of our implicit biases) affects famous benchmark image datasets such as Open Images.
+In the workshop, we are going to investigate how the Eurocentric worldview (i.e., the driving force behind many of our implicit biases) affects famous benchmark image datasets such as Open Images.
 
 To do so, we will use A Designer's Critical Alphabet, which is a tool that helps you to reflect on the design process (of a data science/AI project) by applying concepts of critical theory; a philosophy that, amongst others, involves challenging the prevailing view of society.
 
 By critiquing the status quo, in this case the Eurocentric worldview, we allow for a space where group differences, and multi-cultural viewpoints can be acknowledged, and appreciated; a shared worldview that encompasses for many personal/unique worldviews.
 
-To make it a bit more concrete, let's explore the Open Images dataset, and see how it is influenced by this prevailing worldview:
+To make it a bit more concrete, let's explore the Open Images dataset, and see how this dominant worldview influences it:
 
 If you look at images with the class label 'Wedding,' you will see that they often depict a traditional western wedding (e.g., heterosexual couple, white/ivory wedding dress, etc.). A classifier trained on the Open Images dataset will reflect this particular bias; images that deviate from the norm are more likely to be misclassified than images that adhere to the norm.
 
-To mitigate this bias we need to make the data more varied, thus 'inclusive'. There are multiple ways to achieve this goal. For example, we could add additional images of weddings that do not adhere to traditional western norms to the dataset (e.g. LGBTQ+ couples).
+To mitigate this bias we need to make the data more varied (e.g., 'inclusive'). There are multiple ways to achieve this goal. For example, we could add additional images of weddings that do not adhere to traditional western norms to the dataset (e.g., LGBTQ+ couples).
 
 First, we need to familiarise ourselves with the Open Images dataset:
 
@@ -126,7 +126,7 @@ __3a__ What is the Open Images dataset? Who created it? For what kind of compute
 
 *Figure 4. Types of computer vision tasks.*
 
-__3b__ Start exploring the Open Images dataset by performing an EDA on the images, and corresponding meta-data (e.g. images, and image-level labels).
+__3b__ Start exploring the Open Images dataset by performing an EDA on the images, and corresponding meta-data (e.g., images, and image-level labels).
 
 To make your lives a bit easier, we created a Jupyter Notebook template for the Responsible AI Datalabs :grin:. You can find the template, [here](../../Study%20Content/Responsible%20and%20Explainable%20AI/notebooks/openimages_assignment_student.ipynb).
 
@@ -138,9 +138,9 @@ When performing the EDA, try to answer the following questions:
 - Whom or which group might be disproportionally affected by this particular form of bias.
 - How can we mitigate this particular type of bias?
 
-When you are finished with the EDA, form groups of three, and proceed with the next question:
+When you are finished with the EDA, form groups of three, and proceed with the following question:
 
-__3b__ Pick at least three cards from A Designer's Critical Alphabet that will help you, and your team mates to make the Open Images dataset more 'inclusive'. Elaborate on your choice. Notify the lecturer, when finished.
+__3c__ Pick at least three cards from A Designer's Critical Alphabet that will help you, and your teammates to make the Open Images dataset more 'inclusive'. Elaborate on your choice. Notify the lecturer when finished.
 
 - [A Designer's Critical Alphabet](https://criticalalphabet.com/)
 
@@ -168,7 +168,7 @@ __4b__ Define the term 'positionality', and provide a concrete example of the co
 
 __4c__ What does Vázquez mean by 'truthful knowledge'? Explain your answer.
 
-__4d__ In the video Vázquez puts a lot of emphasis on the importance of listening. Why does he do this?
+__4d__ In the video, Vázquez puts a lot of emphasis on the importance of listening. Why does he do this?
 
 __Decolonial theory: Zone of being/non-being__
 

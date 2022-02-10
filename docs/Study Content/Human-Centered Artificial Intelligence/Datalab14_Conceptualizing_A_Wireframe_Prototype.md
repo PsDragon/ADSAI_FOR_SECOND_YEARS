@@ -81,9 +81,6 @@ At 16:30, there's a meeting you're encouraged to take part in to ask questions a
 ## Up Next!
 Next week, we will continue building our Interface Design skills and work on our wireframe prototype!
 
-
-# Resources
-
 ## Recommend Literature:
 - [Human-Centered Artificial Intelligence: Wizzard of Oz Prototyping Blog](https://medium.com/google-design/human-centered-machine-learning-a770d10562cd)
 - [Conventional: Wizzard of Oz Prototyping Blog](https://blog.prototypr.io/wizard-of-oz-prototyping-process-blog-a20ffce8886)

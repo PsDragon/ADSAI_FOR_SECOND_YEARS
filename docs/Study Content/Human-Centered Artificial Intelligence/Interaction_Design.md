@@ -17,7 +17,7 @@ Table of contents:
 2. Human-Centered AI principles: 1.5 hours
 3. Workshop: Applying UX, Interaction Design and HCAI on your project: 2.5 hours
 
-**Now, open your worklog and plan your day informed by the stand-up and today's schedule**
+**Now, open your worklog and plan the different tasks for today there!**
 
 ## Questions or issues?
 If you have any questions or issues regarding the course material, please first ask your peers or ask us in the Q&A in Datalab!

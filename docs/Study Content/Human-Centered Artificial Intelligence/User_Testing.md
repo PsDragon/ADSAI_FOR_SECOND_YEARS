@@ -12,11 +12,11 @@ After this module you'll be able to:
 3. create and deploy a digital vertical slice of your wireframe prototype.
 
 Table of contents:
-1. Rewarding User Feedback: 1 hour
+1. Adobe XD: making a wireframe prototype: 3 hour
 2. User Tests in UX: 2 hours
-3. Build on Wireframe Prototype; Digital Vertical Slice: 5 hours
+3. Build on Wireframe Prototype; Digital Vertical Slice: 3 hours
 
-**Now, open your worklog and plan your day informed by the stand-up and today's schedule**
+**Now, open your worklog and plan the different tasks for today there!**
 
 ## Questions or issues?
 If you have any questions or issues regarding the course material, please first ask your peers or ask us in the Q&A in Datalab!
@@ -27,23 +27,13 @@ Tip: Note down any important questions you might have!
 
 Good luck!
 
-## 1) User feedback
-User feedback is essential to any digital application: if the user provides some kind of input to the digital devices, then they will expect some kind of response that:
-1. Their input has been registered.
-2. That their input is meaningful and has some kind of effect. Or not, if it's a faulty interaction.
-Here's funny demo of succesfull interaction followed by apt user feedback, followed by unsuccesfull interactions with apt user feedback:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OAQ7l33UF3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## 1) Adobe XD: making a wireframe prototype
+ow, it's time to continue getting to know how to use the Adobe XD application! Continue by doing the Linkedin Learning course below, specifically doing modules 4. Images, Vectors, Text, and Effects, 4. Interactivity and Animation, 6. Let's XD, and 8. Publishing and Handoff. We will return to 7. Voice Interactions and 9. Goodbye, on Wednesday.
 
-The user needs to know what is going on with the device given some interaction he does, otherwise he is not able to anticipate what will happen if he does activity x,y or z. And if he doesn't know what will happen if he does a given activity then the design is not intuitive and the user will drop the product/application.
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="640" height="360" src="https://www.linkedin.com/learning/embed/learning-adobe-xd-2020/designing-for-different-screen-sizes?autoplay=false&claim=AQEoqI8m4y2P3AAAAX7lnsdpbLXDbe2rF-spXBBgFSlLJYljocDNPeLhwPakzNaBHo4Dgl6eajRz-pcIqwUKOR2Fsq63rL8O6dEX3mrChNAm9t99BrQ57TcJF_yOwmjcJpj9WJPdqlYvIQD0zC7KMSFLSn4xnDFu5r13DbfXaPchVTYz01MZf5MGwYeLSG_ByqM9OHqaKJ1lEGtMMG3tXXdTq6I37_l3AHyx8qcCswIXf8uexCleJd9TkVVWmPUmFAsBfj_36oyD53CE71b86l-KiqIuulXrp1BTlXhMZVHltrKUcKfaCF-lGS6L7qhchb14J5qAM_wBwIVi0v6al2MmUGzrR-PV8GaxcoJ801YxsXwPIBwl-P8HNOcx3IXe8bCqBnIDMVY3kLlQg4SxIxk4FA6sizMpEs2b4TPCW2D0PGt5jzeplDl2MfCUM7wpyOGmwiOjyXvbHlr74fUQM9z5dDyhXZJVyHO-5Dh2_cptIThZDf1Gi3LE90zXHjPm4QSq_FOBGmPf5FIamQq8ap2yPxmNu7VpZZUT3nUK5gc21ibebrbRuDxfcfP9To057Kaf663mNzTgXwb8K4B9ZQxy-l7_-XL9psGC0OMLUXgCGpJHGdUMpGrIuPzyOlDBO2uhP0NXLtcCUVZVLPN37jWyVEMgNxnUCkx_IEvkt2Z5I6MtgfqH8lnXvXkLYzXMu3W7HlKwzdx_Z_d3Owmd9FZNcPvg7srALOhJW5YPkk1yvIZOo14&lipi=urn%3Ali%3Apage%3Ad_learning_content%3BGAwvuj%2FdSZqaUqN4IDdyYg%3D%3D&licu" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true" frameborder="0" style="position:absolute;width:100%;height:100%;left:0"></iframe></div><p><strong><a href="https://www.linkedin.com/learning/learning-adobe-xd-2020/designing-for-different-screen-sizes?trk=embed_lil">Designing for different screen sizes</a></strong> from <strong><a href="https://www.linkedin.com/learning/learning-adobe-xd-2020?trk=embed_lil">Learning Adobe XD (2020)</a></strong> by <strong><a href="https://www.linkedin.com/learning/instructors/tom-green?trk=embed_lil">Tom Green</a></strong></p>
 
-You can further improve user feedback by making it feel rewarding to the user: this is called juicy feedback.
 
-### Rewarding User Feedback: Juicy Design
-Juicy design refers to the idea that large amounts of sensory (usually audiovisual or tactile feedback) contribute to a positive user experience which can contribute to positive user experience and
-continued and increased engagement and invoke a state of flow. Juicy design is a concept which is very popular in game design, therefore we're going to take a short expedition into the world of game design.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Fy0aCDmgnxg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## 2) Introduction to TOPIC
+## 2) Introduction to User Testing
 All products should include some form of user testing, whether they are digital or not, interactive or non-interactive: as a designer you generally know too much about the product and technology relating to your own project. You cannot simply pretend you don't know these things; that's not how your brain works, and therefore we perform user tests to create a ecologically valid setup to test our designs!
 
 **Do the full LinkedIn Learning course below and save the certificate to your github and evidence it in your learning- and worklog**
@@ -52,6 +42,7 @@ All products should include some form of user testing, whether they are digital 
 
 **Did you do the full course already? Make sure to get the certificate an upload it to GitHub and evidence it in both your worklog and learning log!**
 
+
 ## 3) Build on Wireframe Prototype: Digital Vertical Slice
 1. Open your HCAI design document and iterate on your user stories based on the feedback of the last datalab session.
 2. Define what needs to change in your design in order to accomodate the iterated user stories. If you come up with any other changes to your application design, now is the time to write it down and document it.
@@ -59,7 +50,7 @@ All products should include some form of user testing, whether they are digital 
 4. Based on your application, user stories and what you just learned about user testing. [Select a user testing method for Proto.io](https://support.proto.io/hc/en-us/articles/220363528-Getting-feedback) and justify in your design document why you are running with this type of user test or feedback collection method.
 5. Deploy the user test you selected and test whether it works. We're going to run it with your peers next Datalab!
 
-**Upload your document and prototype files to Github!** 
+**Upload your document and prototype files to Github!**
 
 
 ## Next up!
@@ -68,11 +59,11 @@ Coming Datalab we will reflect on user feedback and user testing again and give 
 Tomorrow, we will deploy our user testing setup and learn about A/B testing!
 
 
-## Resources
-###Recommend Literature:
+# Resources
+## Recommend Literature:
 −	[Interaction Design: beyond human-computer interaction](https://login.proxy1.dom1.nhtv.nl/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cat01829a&AN=buas.303541695&site=eds-live)   
 −	[UX Fundamentals for Non-UX Professionals : User Experience Principles for Managers, Writers, Designers, and Developers](https://login.proxy1.dom1.nhtv.nl/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edsebk&AN=1892077&site=eds-live)
 
-###Further Reading:
+## Further Reading:
 −	[Designing with Data](http://shop.oreilly.com/product/0636920026228.do)
 −	[The Design of Everyday Things, Donald A. Norman](https://login.proxy1.dom1.nhtv.nl/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cat01829a&AN=buas.393706974&site=eds-live)

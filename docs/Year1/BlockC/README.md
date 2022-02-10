@@ -45,6 +45,7 @@ Please refer to the project brief for more detailed information.
 Please click the links below to view more detailed requirements:
 
 - [Responsible & Explainable AI](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleExplainableAIBlockC.html)
+- [Human-Centered Artificial Intelligence](https://github.com/BredaUniversityADSAI/ADS-AI/blob/3e8445ab5dcfb0b0a410dd64211c0eb2f54705ae/docs/Study%20Content/Human-Centered%20Artificial%20Intelligence/Assignment.md)
 
 # Block Outline
 

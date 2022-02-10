@@ -57,10 +57,10 @@ At 13:30, there's a meeting you're encouraged to take part in to ask questions a
 That was it for this block! No more school work, just chillings for at least a week! Hopefully two! Unless you have a side-job, sucks to be you! haha
 
 
-###Recommend Literature:
+## Recommend Literature:
 −	[Interaction Design: beyond human-computer interaction](https://login.proxy1.dom1.nhtv.nl/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cat01829a&AN=buas.303541695&site=eds-live)   
 −	[UX Fundamentals for Non-UX Professionals : User Experience Principles for Managers, Writers, Designers, and Developers](https://login.proxy1.dom1.nhtv.nl/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edsebk&AN=1892077&site=eds-live)
 
-###Further Reading:
+## Further Reading:
 −	[Designing with Data](http://shop.oreilly.com/product/0636920026228.do)
 −	[The Design of Everyday Things, Donald A. Norman](https://login.proxy1.dom1.nhtv.nl/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cat01829a&AN=buas.393706974&site=eds-live)

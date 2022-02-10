@@ -15,10 +15,10 @@ Table of contents:
 1. Flow: .5 hours
 2. User Interface Design: .5 hours
 3. Defining User Stories: 1 hour
-4. Adobe XD Tutorial: 1 hour
-5. Prototyping: Building a wireframe prototype using Adobe XD: 4 hours
+4. Adobe XD Tutorial: 3 hour
+5. Prototyping: Building a wireframe prototype using Adobe XD: 2 hours
 
-**Now, open your worklog and plan your day informed by the stand-up and today's schedule**
+**Now, open your worklog and plan the different tasks for today there!**
 
 ## Questions or issues?
 If you have any questions or issues regarding the course material, please first ask your peers or ask us in the Q&A in Datalab!
@@ -80,7 +80,8 @@ Tomorrow in class, we're going to demonstrate our vertical slice prototype to ou
 ## 4) Adobe XD: making a wireframe prototype
 Now, it's finally time to get to know how to use the Adobe XD application! It's really quite intuitive; as is to be expected of a design application. So start by watching the introduction to the Linkedin Learning course below and then doing modules 1. Getting Started, 2. Extending XD, and 3. Building Screens in Design Mode.
 
-<div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="640" height="360" src="https://www.linkedin.com/learning/embed/learning-adobe-xd-2020/accessing-learning-resources?autoplay=false&claim=AQE9uhlp7JHWRgAAAX7kuXb4hLjrpLDU6-CXJggmNc0RDuYv-MVN-BglGwCKw6CP8td9o0NrBug28V6ZVcOElI7m26MG-UFaGxzrjYG6pQsTlpFWHQiOAQ1PHlTw8KGGjdpYnpvM9Qf4ha6EXlWMgDl34o64wlhZ1UBob4f_PsFjn5Xus6e-bKvk-ZTQrrRy47oP2usurcOvx4ihHfhXUztm7lJEEG_BUv46QEqID6ISkUvCBF4Yaw6VrzryMEBUNwylP7bB9w7ZQlH3PlPx5aVq2_Z6-LDC_pZMZ9qLrvcm8wGabT3vWLMxFwqrfwW090WANPre3iru8-B_Tbbd7YboIH6dgCZ2Uus9MjSKMgsjz5-p4S9Ul6EB-EW30MZDxz1JVsNQgdgGznHo1GXTjInU_ja5bWeKFzPHiszjSzk3wet-25nQq7wFjlLebqul2ArY1ZJZhZjbJeyCQ4uLj5jYdbdTCTmUUBoTsaz5K2OBKa4Vn4u9WnBHZ4hKQbDs0HbzI-gq4QZVxVqxsTQiAzINw03u5Z95_5w48Tn8x6UjdsRk6nlUzw_lW1pyrcGP7O47dmITfHFBcUJvn9iDBRRKKgH-LT6PMNKrcVaaAWhumJLKLR6hQR8ggvUKRe-IncPN76zzIm6ojCq4kHU5pcwC7sQ-1tEQN4O3onyYK8bF3sE_Mo6EsjM0j4HVSce4_aOcaPrBjRk1Sci_GZJdsdX_gUAtEF6NWxZC8c2JcrGhPNxy_Kk&lipi=urn%3Ali%3Apage%3Ad_learning_content%3BQsvvIBRnSwOc4en33K9ZUQ%3D%3D&licu" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true" frameborder="0" style="position:absolute;width:100%;height:100%;left:0"></iframe></div><p><strong><a href="https://www.linkedin.com/learning/learning-adobe-xd-2020/accessing-learning-resources?trk=embed_lil">Accessing learning resources</a></strong> from <strong><a href="https://www.linkedin.com/learning/learning-adobe-xd-2020?trk=embed_lil">Learning Adobe XD (2020)</a></strong> by <strong><a href="https://www.linkedin.com/learning/instructors/tom-green?trk=embed_lil">Tom Green</a></strong></p>
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="640" height="360" src="https://www.linkedin.com/learning/embed/learning-adobe-xd-2020/designing-for-different-screen-sizes?autoplay=false&claim=AQEoqI8m4y2P3AAAAX7lnsdpbLXDbe2rF-spXBBgFSlLJYljocDNPeLhwPakzNaBHo4Dgl6eajRz-pcIqwUKOR2Fsq63rL8O6dEX3mrChNAm9t99BrQ57TcJF_yOwmjcJpj9WJPdqlYvIQD0zC7KMSFLSn4xnDFu5r13DbfXaPchVTYz01MZf5MGwYeLSG_ByqM9OHqaKJ1lEGtMMG3tXXdTq6I37_l3AHyx8qcCswIXf8uexCleJd9TkVVWmPUmFAsBfj_36oyD53CE71b86l-KiqIuulXrp1BTlXhMZVHltrKUcKfaCF-lGS6L7qhchb14J5qAM_wBwIVi0v6al2MmUGzrR-PV8GaxcoJ801YxsXwPIBwl-P8HNOcx3IXe8bCqBnIDMVY3kLlQg4SxIxk4FA6sizMpEs2b4TPCW2D0PGt5jzeplDl2MfCUM7wpyOGmwiOjyXvbHlr74fUQM9z5dDyhXZJVyHO-5Dh2_cptIThZDf1Gi3LE90zXHjPm4QSq_FOBGmPf5FIamQq8ap2yPxmNu7VpZZUT3nUK5gc21ibebrbRuDxfcfP9To057Kaf663mNzTgXwb8K4B9ZQxy-l7_-XL9psGC0OMLUXgCGpJHGdUMpGrIuPzyOlDBO2uhP0NXLtcCUVZVLPN37jWyVEMgNxnUCkx_IEvkt2Z5I6MtgfqH8lnXvXkLYzXMu3W7HlKwzdx_Z_d3Owmd9FZNcPvg7srALOhJW5YPkk1yvIZOo14&lipi=urn%3Ali%3Apage%3Ad_learning_content%3BGAwvuj%2FdSZqaUqN4IDdyYg%3D%3D&licu" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true" frameborder="0" style="position:absolute;width:100%;height:100%;left:0"></iframe></div><p><strong><a href="https://www.linkedin.com/learning/learning-adobe-xd-2020/designing-for-different-screen-sizes?trk=embed_lil">Designing for different screen sizes</a></strong> from <strong><a href="https://www.linkedin.com/learning/learning-adobe-xd-2020?trk=embed_lil">Learning Adobe XD (2020)</a></strong> by <strong><a href="https://www.linkedin.com/learning/instructors/tom-green?trk=embed_lil">Tom Green</a></strong></p>
+
 
 ## 5) Adobe XD: Working on your own wireframe prototype
 Now, use the skills you learned so far to create a vertical slice of only the screen(s) where you computer vision algorithm is actively used in Adobe XD.

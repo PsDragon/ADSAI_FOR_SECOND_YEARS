@@ -65,73 +65,75 @@ Please click the links below to view more detailed requirements:
 ## Friday
 [DataLab 2: Fairness metrics, and debiasing techniques for image data](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI5.html)
 
-# Week 2 : Getting started with Deep Learning
+# Week 2 : Introduction to Neural Networks
 
 ## Monday
 [AI, Machine Learning, Deep Learning: more than just buzzwords?](../../Study%20Content/DeepLearning/1.%20Introduction%20to%20Deep%20Learning.html)
 
+[Data Structures - tensor](../../Study%20Content/DeepLearning/2.DataStructures.html)
+
 ## Tuesday
-[DataLab: Deep learning using Keras](../../Study%20Content/DeepLearning/5.%20Introduction%20to%20TensorFlow.html)
+[DataLab: tensors](../../Study%20Content/DeepLearning/2.1%20DLab-Tensors.html)
 
 ## Wednesday
-[Deep Learning data representation and architecture](../../Study%20Content/DeepLearning/5.1%20Neural%20network%20model.html)
+[Perceptron](../../Study%20Content/DeepLearning/3.Perceptron.html)
 
 ## Thursday
-[Deep Learning activation functions, loss functions and optimizers](../../Study%20Content/DeepLearning/4.NeuralNetworksConcepts.html)
+[Neural Networks concepts](../../Study%20Content/DeepLearning/4.NeuralNetworksConcepts.html)
 
 ## Friday
-[DataLab: MLP](../../Study%20Content/Digital%20Transformation/DataLab%202.html)
+[DataLab: Perceptron and Neural Network in Python](../../Study%20Content/DeepLearning/4.1%20DLab-Perceptron_NNs.html)
 
-# Week 3 : Deep Dive into Deep Learning
+# Week 3 : Neural Networks Using TensorFlow
 
 ## Monday
-[Backpropagation and Gradient Descent](../../Study%20Content/Business%20Intelligence/DataPrepaparationCleanTransformLoadPowerBI.html)
+[Introduction to TensorFlow](../../Study%20Content/DeepLearning/5.%20Introduction%20to%20TensorFlow.html)
 
 ## Tuesday
-[DataLab: Fully connected Neural networks](../../Study%20Content/DeepLearning/8.%20Image%20Classification.html)
+[Neural Networks in TensorFlow - Regression](../../Study%20Content/DeepLearning/5.1%20DLab-NNs-in-TF2-Regression.html)
 
 ## Wednesday
-[Convolutional Neural Network architectures I](../../Study%20Content/Business%20Intelligence/ModelDataPowerBI.html)
+[Neural Networks in TensorFlow - Classification](../../Study%20Content/DeepLearning/6.%20Classification.html)
 
 ## Thursday
-[Convolutional Neural Network architectures II](../../Study%20Content/Business%20Intelligence/VisualizeDataPowerBI.html)
+[Neural Networks in Google PlayGround](../../Study%20Content/DeepLearning/7.%20NN-Google-Playground.html)
 
 ## Friday
-[DataLab: Convolutional Neural Networks](../../Study%20Content/DeepLearning/9.%20Convolutional%20Neural%20Networks.html)
+[DataLab: Classification](../../Study%20Content/DeepLearning/7.1%20DLab-Classification.html)
 
-# Week 4 : Deep Dive into Deep Learning
+# Week 4 : Image Classification using Convolution Neural Network
 
 ## Monday
-[Image data pre-processing & data augmentation](../../Study%20Content/Business%20Intelligence/DataPrepaparationCleanTransformLoadPowerBI.html)
+[Image Classification](../../Study%20Content/DeepLearning/8.%20Image%20Classification.html)
 
 ## Tuesday
-[DataLab: Pre-processing & data augmentation](../../Study%20Content/Business%20Intelligence/DataLab1_DataWranglingUXDesignPowerBI.html)
+[DataLab: Working on Creative Brief tasks](../../Study%20Content/DeepLearning/8.1%20DLab-CreativeBrief.html)
 
 ## Wednesday
-[Deep Learning Model Evaluation: Tuning and evaluating models I](../../Study%20Content/DeepLearning/6.%20Tuning.html)
+[Convolution Neural Network - Deep Dive](../../Study%20Content/DeepLearning/9.%20CNN-DeepDive.html)
 
 ## Thursday
-[Deep Learning Model Evaluation: Tuning and evaluating models II](../../Study%20Content/DeepLearning/7.%20Regularization.html)
+[Data Pre-procession and Data Augmentation](../../Study%20Content/DeepLearning/10.%20DataAugmentation.html)
 
 ## Friday
-[DataLab: Deep Learning Model Evaluation](../../Study%20Content/Business%20Intelligence/DataLab2_CreatingVisualsDAXPowerBI.html)
+[DataLab: Working on Creative Brief tasks](../../Study%20Content/DeepLearning/8.1%20DLab-CreativeBrief.html)
 
 # Week 5 : Deep Learning in Practice
 
 ## Monday
-[Unsupervised Deep Learning](../../Study%20Content/Business%20Intelligence/DataAnalysisManagingWorkspacesDatasetsPowerBI.html)
+[Transfer Learning and fine tuning](../../Study%20Content/DeepLearning/11.%20Transfer%20Learning.html)
 
 ## Tuesday
-[DataLab: Unsupervised Deep Learning](../../Study%20Content/DeepLearning/10.Autoencoders%20for%20Image%20Classification.html)
+[DataLab: Working on Creative Brief tasks](../../Study%20Content/DeepLearning/8.1%20DLab-CreativeBrief.html)
 
 ## Wednesday
 [Deep Learning: Practical issues and best practices](../../Study%20Content/Introduction%20to%20Machine%20Learning/SupervisedAndUnsupervisedLearning.html)
 
 ## Thursday
-[Deep Learning SOTA models for computer vision](../../Study%20Content/DeepLearning/11.Transfer%20Learning.html)
+[Transfer Learning and fine tuning](../../Study%20Content/DeepLearning/11.%20Transfer%20Learning.html)
 
 ## Friday
-[DataLab: SOTA models and model comparison](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab00_RegressionAnalyses.html)
+[DataLab: Working on Creative Brief tasks](../../Study%20Content/DeepLearning/8.1%20DLab-CreativeBrief.html)
 
 # Week 6 : Deep Learning and XAI
 

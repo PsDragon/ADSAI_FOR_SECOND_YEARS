@@ -6,10 +6,10 @@ sort: 5
 
 In today's DataLab session, you are going to apply your newly acquired Responsible AI knowledge to the Open Images dataset.
 
-## Learning Objectives:
+## Learning objectives
 
 1. Propose, and apply appropriate fairness metrics to the Open Images dataset.
-2. Apply a debiasing technique to the Open Images dataset (e.g. fairness through unawareness).
+2. Apply a debiasing technique to the Open Images dataset (e.g., fairness through unawareness).
 
 __Table of contents:__
 1. Q&A and standup: 1 hour

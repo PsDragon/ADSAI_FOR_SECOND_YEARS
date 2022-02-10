@@ -88,7 +88,7 @@ __Types of bias:__
 
 __Independence <span style="color:purple">(WAE)</span>:__
 
-1. 'The proportion of actual positives (i.e. base rate) must be equal across sensitive/protective groups'.
+1. 'The proportion of actual positives (i.e., base rate) must be equal across sensitive/protective groups'.
 
 Base rate: (TP privileged group + FN privileged group)/(TP privileged group + FP privileged group + TN privileged group + FN privileged group) = (TP unprivileged group + FN unprivileged group)/(TP unprivileged group + FP unprivileged group + TN unprivileged group + FN unprivileged group)
 
@@ -114,7 +114,7 @@ The <span style="color:purple">WAE</span> worldview does not automatically assum
 
 __Separation & Sufficiency <span style="color:orange">(WYSIWIG)</span>:__
 
-1. 'The proportion of actual positives (i.e base rate) do not have to be equal across sensitive/protective groups'.
+1. 'The proportion of actual positives (i.e, base rate) do not have to be equal across sensitive/protective groups'.
 
 Example: Research has shown that females are far more likely to suffer from breast cancer than males; 99% of breast cancer patients are female. A fair ML model should take this discrepancy, as a condition, into account.
 
@@ -190,7 +190,7 @@ In addition, The School of Life, also has provides high quality videos on variou
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5-JQ17X6VNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Video 2. Political Theory, John Rawls.*
+*Video 1. Political Theory, John Rawls.*
 
 ***
 

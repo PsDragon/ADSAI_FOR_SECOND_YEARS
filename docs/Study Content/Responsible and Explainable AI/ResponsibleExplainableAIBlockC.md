@@ -6,19 +6,19 @@ sort: 7
 
 ## __Assignment__
 
-For this part of the Project Brief, you are going to identify, and describe the limitations of an AI algorithm in terms of fairness, transparency, and interpretability, and subsequently apply methods which address these limitations.
+For this part of the Project Brief, you are going to identify, and describe the limitations of an AI algorithm in terms of fairness, transparency, and interpretability, and subsequently apply methods that address these limitations.
 
-<img src="./images/grad_cam.jpg" alt="SQL meme" width="600"/> \
+<img src="./images/grad_cam.jpg" alt="SQL meme" width="600"/> 
 
 *Figure 1. Example of feature attribution with Grad-CAM.*
 
 __Requirements:__
 
-- The student is able to identify, and describe instances of bias in the dataset, as stated in requirements of the Project Brief. See the works of Mehrabi et al. (2019), Suresh and Guttag (2019), Khan et al. (2021), and Castelnovo et. al (2021).  
-- The student is able to identify, and describe the limitations in terms of transparency and interpretability of the AI algorithm, as stated in requirements of the Project Brief. And meeting all criteria in poor. See article by Tsimenidis (2020), and Google's Responsible AI post on interpretability.
-- The student is able to propose at least one responsible AI method that addresses the datasets' limitation in terms of bias, and subsequently evaluate its impact, as stated in requirements of the Project Brief. And meeting all criteria in insufficient.
-- The student is able to apply at least one explainable AI method that addresses the algorithm's limitations in terms of transparency and interpretability, and subsequently evaluate its impact, as stated in requirements of the Project Brief. And meeting all criteria in sufficient. See works by Linardatos et al. (2021), and Molnar (2020).
-- The student is able to apply multiple responsible and explainable AI methods that addresses limitations in terms of bias, transparency and interpretability, and subsequently contrast their impact on the classification task, as stated in requirements of the Project Brief. And meeting all criteria in good. See previously mentioned literature.  
+- The student is able to identify, and describe instances of bias in the dataset, as stated in the requirements of the Project Brief. See the works of Mehrabi et al. (2019), Suresh and Guttag (2019), Khan et al. (2021), and Castelnovo et. al (2021).  
+- The student is able to identify, and describe the limitations in terms of transparency and interpretability of the AI algorithm, as stated in the requirements of the Project Brief. And meeting all criteria in poor. See article by Tsimenidis (2020), and Google's Responsible AI post on interpretability.
+- The student is able to propose at least one responsible AI method that addresses the datasets' limitation in terms of bias, and subsequently evaluate its impact, as stated in the requirements of the Project Brief. And meeting all criteria in insufficient.
+- The student is able to apply at least one explainable AI method that addresses the algorithm's limitations in terms of transparency and interpretability, and subsequently evaluate its impact, as stated in the requirements of the Project Brief. And meeting all criteria in sufficient. See works by Linardatos et al. (2021), and Molnar (2020).
+- The student is able to apply multiple responsible and explainable AI methods that address limitations in terms of bias, transparency and interpretability, and subsequently contrast their impact on the classification task, as stated in the requirements of the Project Brief. And meeting all criteria in good. See previously mentioned literature.  
 
 __Deliverable(s):__
 

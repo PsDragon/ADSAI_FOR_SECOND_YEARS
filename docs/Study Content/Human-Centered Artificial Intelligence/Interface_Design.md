@@ -3,20 +3,20 @@ sort: 4
 ---
 
 # Interface Design
-After covering the basics of interaction design, we're going to look into interface design: the means by which users communicate with computerized devices. We're also going to look into flow theory and cover prototyping techniques, specifically you're going to learn how to build a wireframe prototype!
+After covering the basics of interaction design, we're going to look at interface design: the means by which users communicate with computerized devices. We're also going to look into flow theory, engagement and immersioin, and we will cover prototyping techniques, specifically you're going to learn how to build a wireframe prototype in Adobe XD!
 
 ## 0) Learning Objectives:
 After this module you'll gain a basic understanding and learn how to apply:
 1. Flow;
 2. Interface Design;
-3. Prototyping Techniques.
+3. Prototyping with Adobo XD.
 
 Table of contents:
 1. Flow: .5 hours
 2. User Interface Design: .5 hours
-3. Proto.io Tutorial: 1 hour
-4. Defining User Stories: 1 hour
-5. Prototyping: Building a wireframe prototype: 4 hours
+3. Defining User Stories: 1 hour
+4. Adobe XD Tutorial: 1 hour
+5. Prototyping: Building a wireframe prototype using Adobe XD: 4 hours
 
 **Now, open your worklog and plan your day informed by the stand-up and today's schedule**
 
@@ -40,8 +40,8 @@ In positive psychology, [flow](https://www.sciencedirect.com/topics/psychology/f
 **Did you do the full course already? Make sure to get the certificate an upload it to GitHub and evidence it in both your worklog and learning log!**
 
 ## 2) User Interface Design
-**An interface is essentially a means of interaction** between two objects: two stars inferfacing with eachother using gravity or a person; or user, and a computer interfacing with one another using some computerized device. A User Interface (UI) can be low-fidelity like controlling a electricity generator with some buttons, medium-fidelity like a keyboard and a programming IDE where one has to literally insert and verbalize the commands, or high-fidelity where the user is guided through the functionality the computerized environment provides like a fancy smartphone app or virtual game!
-Now that we know what a user inferface is, let's dive deeper into how we can design one!
+**An interface is essentially a means of interaction** between two objects: two stars inferfacing with each other using gravity or a person; or user, and a computer interfacing with one another using some computerized device. A User Interface (UI) can be low-fidelity like controlling a electricity generator with some buttons, medium-fidelity like a keyboard and a programming IDE where one has to literally insert and verbalize the commands, or high-fidelity where the user is guided through the functionality the computerized environment provides like a fancy smartphone app or virtual game! Note that fidelity is a measure of how the quality of the interaction; whereof visual fidelity is a component which is important but other means of interaction (audio, haptic, movement, etc.) and how interaction takes place (timing, conditions for triggering, consequent effects etc.) are equally important.
+Now that we know what a user inferface is, let's dive deeper into how we can design one for our application!
 
 **Do the full LinkedIn Learning course below and save the certificate to your github and evidence it in your learning- and worklog**
 
@@ -51,20 +51,8 @@ Now that we know what a user inferface is, let's dive deeper into how we can des
 
 Want more information? Here's a [good article with some concise universal guidelines!](https://www.interaction-design.org/literature/topics/ui-design)
 
-## 3) Proto: making a wireframe prototype
-[Look at the intro video of Proto.io](https://support.proto.io/hc/en-us/articles/220425988-Introduction-to-Proto-io-6), create a [user account](https://proto.io/en/signup/) and install the latest version of the software: Proto.io 6!
-
-Then watch the following videos and follow the instructions to get to know how to use the Proto.io application! It's really quite intuitive; as is to be expected of a design application!
-<iframe src="https://player.vimeo.com/video/180154545?h=160768ae29" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/180154545">Proto.io Essentials, Episode 1</a> from <a href="https://vimeo.com/protoio">Proto.io</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
-<iframe src="https://player.vimeo.com/video/180284484?h=e40946b73a" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/180284484">Proto.io Essentials, Episode 2</a> from <a href="https://vimeo.com/protoio">Proto.io</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
-<iframe src="https://player.vimeo.com/video/180290210?h=1268c31048" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/180290210">Proto.io Essentials, Episode 3</a> from <a href="https://vimeo.com/protoio">Proto.io</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
-Now that we have come to grips with creating a wireframe prototype using Proto.io, we're going to design a vertical slice for our own computer vision algorithm! Tomorrow in class, we're going to demonstrate our vertical slice prototype to our classmates and gather feedback! For that we're first going to define what would make up our vertical slice using **user stories** after which we are going to build that part using Proto.io!
+## 4) Defining User Stories
+Before we can create our prototype, we first need to define what would make up our vertical slice using **user stories** after which we are going to build a prototype using Adobe XD! Tomorrow in class, we're going to demonstrate our vertical slice prototype to our classmates and gather feedback!
 
 A vertical slice is essentially the core of your application prototyped and only that. For you that will mean that you design the interaction around how you are going to use the deep learning algorithm which is going to do the computer vision magic.
 
@@ -87,15 +75,23 @@ Now, open your design document, create a section called 'User Stories' and start
 
 **Upload your document to Github!**
 
+## 4) Adobe XD: making a wireframe prototype
+Now, it's finally time to get to know how to use the Adobe XD application! It's really quite intuitive; as is to be expected of a design application. So start by watching the introduction to the Linkedin Learning course below and then doing modules 1. Getting Started, 2. Extending XD, and 3. Building Screens in Design Mode.
+
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="640" height="360" src="https://www.linkedin.com/learning/embed/learning-adobe-xd-2020/accessing-learning-resources?autoplay=false&claim=AQE9uhlp7JHWRgAAAX7kuXb4hLjrpLDU6-CXJggmNc0RDuYv-MVN-BglGwCKw6CP8td9o0NrBug28V6ZVcOElI7m26MG-UFaGxzrjYG6pQsTlpFWHQiOAQ1PHlTw8KGGjdpYnpvM9Qf4ha6EXlWMgDl34o64wlhZ1UBob4f_PsFjn5Xus6e-bKvk-ZTQrrRy47oP2usurcOvx4ihHfhXUztm7lJEEG_BUv46QEqID6ISkUvCBF4Yaw6VrzryMEBUNwylP7bB9w7ZQlH3PlPx5aVq2_Z6-LDC_pZMZ9qLrvcm8wGabT3vWLMxFwqrfwW090WANPre3iru8-B_Tbbd7YboIH6dgCZ2Uus9MjSKMgsjz5-p4S9Ul6EB-EW30MZDxz1JVsNQgdgGznHo1GXTjInU_ja5bWeKFzPHiszjSzk3wet-25nQq7wFjlLebqul2ArY1ZJZhZjbJeyCQ4uLj5jYdbdTCTmUUBoTsaz5K2OBKa4Vn4u9WnBHZ4hKQbDs0HbzI-gq4QZVxVqxsTQiAzINw03u5Z95_5w48Tn8x6UjdsRk6nlUzw_lW1pyrcGP7O47dmITfHFBcUJvn9iDBRRKKgH-LT6PMNKrcVaaAWhumJLKLR6hQR8ggvUKRe-IncPN76zzIm6ojCq4kHU5pcwC7sQ-1tEQN4O3onyYK8bF3sE_Mo6EsjM0j4HVSce4_aOcaPrBjRk1Sci_GZJdsdX_gUAtEF6NWxZC8c2JcrGhPNxy_Kk&lipi=urn%3Ali%3Apage%3Ad_learning_content%3BQsvvIBRnSwOc4en33K9ZUQ%3D%3D&licu" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true" frameborder="0" style="position:absolute;width:100%;height:100%;left:0"></iframe></div><p><strong><a href="https://www.linkedin.com/learning/learning-adobe-xd-2020/accessing-learning-resources?trk=embed_lil">Accessing learning resources</a></strong> from <strong><a href="https://www.linkedin.com/learning/learning-adobe-xd-2020?trk=embed_lil">Learning Adobe XD (2020)</a></strong> by <strong><a href="https://www.linkedin.com/learning/instructors/tom-green?trk=embed_lil">Tom Green</a></strong></p>
+
+## 5) Adobe XD: Working on your own wireframe prototype
+
+
 ## Next up!
 Coming Datalab we will user test our vertical slice prototypes by peer-reviewing them! After that we're going to do a very magical Wizzard of Oz workshop and ofcourse it'll be an opportunity to ask any questions you might have!
 
 
-## Resources
-###Recommend Literature:
+# Resources
+## Recommend Literature:
 −	[Interaction Design: beyond human-computer interaction](https://login.proxy1.dom1.nhtv.nl/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cat01829a&AN=buas.303541695&site=eds-live)   
 −	[UX Fundamentals for Non-UX Professionals : User Experience Principles for Managers, Writers, Designers, and Developers](https://login.proxy1.dom1.nhtv.nl/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edsebk&AN=1892077&site=eds-live)
 
-###Further Reading:
+## Further Reading:
 −	[Designing with Data](http://shop.oreilly.com/product/0636920026228.do)
 −	[The Design of Everyday Things, Donald A. Norman](https://login.proxy1.dom1.nhtv.nl/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cat01829a&AN=buas.393706974&site=eds-live)

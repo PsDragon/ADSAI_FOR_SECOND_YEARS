@@ -6,9 +6,11 @@ sort: 1
 
 <img src="./images/fairness.jpg" alt="Fairness" width="600">
 
-<br> This week you will be introduced to the subfield of Responsible AI, which has the objective to ensure AI is safe, trustworthy, and unbiased. It is a relatively new subfield, which has seen a stark increase in popularity over the last couple of years.
+<br> This week, we will dive into the subfield of Responsible AI, which aims to ensure AI is safe, trustworthy, and unbiased. It is a relatively new subfield, which has seen a stark increase in popularity over the last couple of years. Unfortunately, many responsible AI tools currently do not support image data. So, this week we may need to push ourselves to think outside the box.
 
-Today, you will be introduced to the concepts of 'fairness' and 'bias'. How are they defined? Are there different types of 'fairness' and/or 'bias' Lastly, you will be made familiar with two principles that can be applied to achieve fairness; equality and equity.
+Let's start with our trailblazer journey:
+
+Today, we will focus on the concepts of 'fairness' and 'bias'. How are they defined? Are there different types of 'fairness' and/or 'bias'? Lastly, in the workshop, we will familiarize ourselves with two principles to achieve fairness; equality and equity.
 
 ## Learning objectives
 
@@ -38,15 +40,15 @@ Good luck!
 
 Artificial Intelligence, often in the form of machine learning, underpins decisions that profoundly affect our society. For example, it may decide if you get car insurance or if you are eligible for parole.
 
-Machine learning makes use of data by learning through the generalization of examples, defining that apply for past cases, but also predicting future unseen cases (See Figure 1).
+Machine learning uses data by learning through the generalization of examples, defining rules that apply for past cases, and predicting future unseen cases (See Figure 1).
 
 <img src="./images/ml_diagram.jpg" alt="Traditional vs. Machine learning" width="400">
 
 *Figure 1: Traditional vs. machine learning.*
 
-ML can be very useful to make data-driven decisions, uncovering relevant factors that humans might overlook. However, it does not ensure fair decisions.
+Machine learning can come in handy when making data-driven decisions, uncovering relevant factors that humans might overlook. However, it does not ensure fair decisions.
 
-Before we can start with our quest to make AI more 'fair'. We need to define the concept a bit further:
+Before we can start with our quest to make AI more 'fair', we need to define the concept a bit further:
 
 __1a__ Watch the video Why monkeys (and humans) are wired for fairness by Sarah Brosnan.
 
@@ -56,12 +58,13 @@ __1a__ Watch the video Why monkeys (and humans) are wired for fairness by Sarah 
 
 __1b__ Explain how the terms 'fairness' and 'cooperation' relate to each other by giving a real-life example. Write your answer down.
 
-__1c__ Read the comic book Fairness & Friends by Khan et., al., which you can find, [here](https://dataresponsibly.github.io/comics/vol2/fairness_en.pdf). This comic book is completely awesome, because it will introduce you to all the main concepts related to fairness and AI in a fun, and comprehensible way.
+__1c__ Read the comic book Fairness & Friends by Khan et. al., which you can find, [here](https://dataresponsibly.github.io/comics/vol2/fairness_en.pdf). This comic book is completely awesome, because it will introduce you to all the main concepts related to fairness and AI in a fun, and comprehensible way.
 
-Different researchers, classify ML bias differently. Some will state that there are three types of bias, others will state there are six types of bias. In other words, there is no real consensus on how to define bias in machine learning.
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Note: There is no real consensus on defining bias in machine learning; Some scholars claim there are three distinct types, while others claim there are six specific types of bias.
+</div>
 
-__1d__ List, and describe at least five types of bias presented in either [Fairness & Friends](https://dataresponsibly.github.io/comics/vol2/fairness_en.pdf)
- or [A survey on bias and fairness in machine learning](https://arxiv.org/pdf/1908.09635.pdf).
+__1d__ List, and describe at least five types of bias presented in either [Fairness & Friends](https://dataresponsibly.github.io/comics/vol2/fairness_en.pdf) or [A survey on bias and fairness in machine learning](https://arxiv.org/pdf/1908.09635.pdf).
 
 <img src="./images/CRISP-DM.png" alt="CRISP-DM" width="400"/>
 
@@ -75,7 +78,7 @@ __1f__ Explain the difference between 'individual fairness', and 'group fairness
 
 ## 2) Workshop: The difference between equality and equity
 
-Now, we are introduced to the terms 'fairness' and 'bias', it is time to deepen our knowledge. In the workshop, you will learn about how two principles, equality and equity, can help to achieve fairness:
+Now, we are introduced to the terms 'fairness' and 'bias', it is time to deepen our knowledge. In the workshop, you will learn about how two principles, equality, and equity, can help to achieve fairness:
 
 > Though often used interchangeably, equality and equity are quite different. If fairness is the goal, equality and equity are two processes through which we can achieve it. Equality simply means everyone is treated the same exact way, regardless of need or any other individual difference. Equity, on the other hand, means everyone is provided with what they need to succeed. In an equality model, a coach gives all of his players the exact same shoes. In an equity model, the coach gives all of his players shoes that are their size ([Source](https://risetowin.org/what-we-do/educate/resource-module/equality-vs-equity/index.html)).
 <br>
@@ -92,17 +95,17 @@ __2.1a__ Read the Post-Its in Figure 3.
 
 __2.1b__ Fill the gaps in the 'text' Post-Its by connecting it to the correct 'concept' Post-It. Write your answer down.
 
-__2.1c__ Provide answers to the following answers. Provide clear, and concise answers.  
+__2.1c__ Provide clear, and concise answers to the following questions:
 
 <img src="./images/equityvsequality.jpg" alt="Equality vs. Equity" width="600"/>
 
-*Figure 4. Equality vs equity.*
+*Figure 4. Equality vs. equity.*
 
 1. Looking at the images in Figure 4, why does the difference between equity and equality matter?
 2. How does the baseball game metaphor relate to the guiding quote about shoes?
 3. What are some other real-world examples of equity and equality?
-3. How are equality and equity related to fairness? In school, sports, society, etc.?
-4. Are there other ways to achieve fairness besides equity and equality? (For example, the removal of the wooden fence eliminates the structural barrier to access.)
+4. How are equality and equity related to fairness? In school, sports, society, etc.?
+5. Are there other ways to achieve fairness besides equity and equality? (For example, the removal of the wooden fence eliminates the structural barrier to access.)
 
 ### 2.2 Group exercises
 

@@ -16,7 +16,8 @@ __Table of contents:__
 1. Introduction: 3 hours
 2. Workshop: 3 hours
 3. Additional material (optional): 1 hour
-   3.1 Justice as fairness by John Rawls
+4. Preparation DataLab: 10 minutes
+
 
 ## Questions or issues?
 
@@ -194,9 +195,9 @@ In addition, The School of Life, also has provides high quality videos on variou
 
 ***
 
-## Next up!
+## 4) Preparation for DataLab 2
 
-Coming Datalab we will reflect upon today's independent study material, and give you an opportunity to ask any questions you might have.
+- [ ] Upload your completed Responsible AI: Group fairness metrics notebook to GitHub.
 
 ***
 

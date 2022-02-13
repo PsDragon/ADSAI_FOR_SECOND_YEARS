@@ -22,7 +22,8 @@ Today, we will focus on the concepts of 'fairness' and 'bias'. How are they defi
 __Table of contents__
 
 1. Introduction: 3 hours
-2. Workshop: 3 hours
+2. Workshop: 2 hours
+3. Preparation DataLab: 2 hours
 
 ## Questions or issues?
 
@@ -46,7 +47,7 @@ Machine learning uses data by learning through the generalization of examples, d
 
 *Figure 1: Traditional vs. machine learning.*
 
-Machine learning can come in handy when making data-driven decisions, uncovering relevant factors that humans might overlook. However, it does not ensure fair decisions.
+Machine learning can come in handy when making data-driven decisions, uncovering relevant factors that humans might overlook. However, it does not ensure fair decisions :confused:.
 
 Before we can start with our quest to make AI more 'fair', we need to define the concept a bit further:
 
@@ -61,7 +62,7 @@ __1b__ Explain how the terms 'fairness' and 'cooperation' relate to each other b
 __1c__ Read the comic book Fairness & Friends by Khan et. al., which you can find, [here](https://dataresponsibly.github.io/comics/vol2/fairness_en.pdf). This comic book is completely awesome, because it will introduce you to all the main concepts related to fairness and AI in a fun, and comprehensible way.
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Note: There is no real consensus on defining bias in machine learning; Some scholars claim there are three distinct types, while others claim there are six specific types of bias.
+Note: There is no real consensus on defining bias in machine learning; some scholars claim there are three distinct types, while others claim there are six specific types of bias.
 </div>
 
 __1d__ List, and describe at least five types of bias presented in either [Fairness & Friends](https://dataresponsibly.github.io/comics/vol2/fairness_en.pdf) or [A survey on bias and fairness in machine learning](https://arxiv.org/pdf/1908.09635.pdf).
@@ -83,7 +84,7 @@ Now, we are introduced to the terms 'fairness' and 'bias', it is time to deepen 
 > Though often used interchangeably, equality and equity are quite different. If fairness is the goal, equality and equity are two processes through which we can achieve it. Equality simply means everyone is treated the same exact way, regardless of need or any other individual difference. Equity, on the other hand, means everyone is provided with what they need to succeed. In an equality model, a coach gives all of his players the exact same shoes. In an equity model, the coach gives all of his players shoes that are their size ([Source](https://risetowin.org/what-we-do/educate/resource-module/equality-vs-equity/index.html)).
 <br>
 
-The current fairness metrics, which will be the topic of the coming independent-study days, are closely connected to one of these principles, namely equality.
+The current fairness metrics, which will be the topic of the coming independent study days, are closely connected to one of these principles, namely equality.
 
 ### 2.1 Individual exercises
 
@@ -113,8 +114,29 @@ __2.2a__ Team up with at least one fellow student, and discuss your answers to t
 
 ***
 
-## Next up!
-Coming Datalab we will reflect upon today's independent study material, and give you an opportunity to ask any questions you might have.
+## 3) Preparation for DataLab 1
+
+- [ ] Watch the video 'What's your worldview?' by Impact 360 institute:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VXnSE0uvwzM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*Video 2. What's your worldview?*
+
+- [ ] Read the article [Eurocentrism](https://unm-historiography.github.io/metahistory/essays/postmodern/eurocentrism.html) by Keena Hays to find out how an Eurocentric worldview reinforces western beliefs of superiority.
+
+- [ ] Become familiar with the [Open Images](https://storage.googleapis.com/openimages/web/index.html) dataset. Answer the following questions:
+<br>
+- What is the Open Images dataset?
+- Who created it?
+- For what kind of computer vision tasks can it be used?
+<br>
+<img src="./images/computer_vision_tasks.png" alt="Types of computer vision tasks" width="600">
+
+*Figure 5. Types of computer vision tasks.*
+
+Write your answers down, and upload them to GitHub.
+
+- [ ] Become familiar with [A Designer's Critical Alphabet](https://criticalalphabet.com/).
 
 ***
 

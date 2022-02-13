@@ -16,6 +16,7 @@ __Table of contents__
 1. Introduction: 3 hours
 2. Workshop: 2 hours
 3. Additional material (optional): ... hours
+4. Preparation DataLab: 10 minutes
 
 ## Questions or issues?
 If you have any questions or issues regarding the course material, please first ask your peers or ask us in the Q&A in Datalab!
@@ -153,8 +154,11 @@ You can probably order it at [De Vrije Boekhandel](https://www.devrijeboekhandel
 
 ***
 
-## Next up!
-Coming Datalab we will reflect upon today's independent study material, and give you an opportunity to ask any questions you might have.
+## 4) Preparation for DataLab 2
+
+- [ ] Upload your completed Responsible AI: Individual fairness metrics notebook to Github.
+
+- [ ] Upload your CodeAcademy certificate of the module Learn Web Scraping with Beautiful Soup to GitHub.
 
 ***
 

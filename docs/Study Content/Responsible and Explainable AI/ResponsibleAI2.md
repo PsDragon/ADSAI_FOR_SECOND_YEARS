@@ -69,7 +69,7 @@ The ability to hold these two truths (e.g., 'serve and protect the community', a
 
 First, we need to uncover our implicit biases. To do so, we are going to conduct a little experiment:
 
-__2.1a__ Take the Implicit Bias test by Harvard University, which you can find [here](https://implicit.harvard.edu/implicit/takeatest.html).
+__2.1a__ Take the Implicit Bias test by Harvard University, which you can find, [here](https://implicit.harvard.edu/implicit/takeatest.html).
 
 __2.1b__ Reflect upon your result of the Implicit Bias test:
 
@@ -85,24 +85,18 @@ Unfortunately, we cannot cure ourselves from our implicit biases, but with self 
 
 Now we have identified our implicit biases, we can look at the possible causes. Some scholars argue that many of the common prejudices of people brought up in 'The West' (partially) originate from having a Eurocentric worldview.
 
-__2.2a__ Watch the video 'What's your worldview?' by Impact 360 institute:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VXnSE0uvwzM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-*Video 1. What's your worldview?*
-
 __Worldview (definition):__
 >We can understand worldview as a mental model of reality. It contains a comprehensive framework of ideas and attitudes about the world, ourselves. Our worldview is shaped by our inherited characteristics (identity), lived experience, values, attitudes, habits and more. These elements of ourselves vary from one person to another. Therefore, even though some parts of a worldview are shared by many people in a community, other parts differ for individuals, so worldviews are both shared and unique ([Source](https://exchange.actua.ca/traininglist/training_en/antiracism/positionality_and_worldview)).
 
-__2.2b__ Read the article [Eurocentrism](https://unm-historiography.github.io/metahistory/essays/postmodern/eurocentrism.html) by Keena Hays to find out how this particular worldview reinforces western beliefs of superiority.
+__2.2a__ To refresh you memory, scan through the article [Eurocentrism](https://unm-historiography.github.io/metahistory/essays/postmodern/eurocentrism.html) by Keena Hays, which was part of yesterday's DataLab preparation.
 
-__2.2c__ How does the Mercator map fit within the Eurocentric worldview? In your answer, refer to the concept of 'bias' and/or 'fairness'. Write your answer down.
+__2.2b__ How does the Mercator map fit within the Eurocentric worldview? In your answer, refer to the concept of 'bias' and/or 'fairness'. Write your answer down.
 
 <img src="./images/mercator.jpg" alt="Mercator projection" width="400">
 
 *Figure 3. Mercator world map projection.*
 
-__2.2d__ Give at least three examples of how a worldview such as Eurocentrism can lead to bias in a dataset? Write your answer down.
+__2.2c__ Give at least three examples of how a worldview such as Eurocentrism can lead to bias in a dataset? Write your answer down.
 
 ## 3) Workshop: Open Images & A Designer's Critical Alphabet
 
@@ -114,19 +108,13 @@ By critiquing the status quo, in this case the Eurocentric worldview, we allow f
 
 To make it a bit more concrete, let's explore the Open Images dataset, and see how this dominant worldview influences it:
 
-If you look at images with the class label 'Wedding,' you will see that they often depict a traditional western wedding (e.g., heterosexual couple, white/ivory wedding dress, etc.). A classifier trained on the Open Images dataset will reflect this particular bias; images that deviate from the norm are more likely to be misclassified than images that adhere to the norm.
+If you look at images with the class label ```Wedding```, you will see that they often depict a traditional western wedding (e.g., heterosexual couple, white/ivory wedding dress, etc.). A classifier trained on the Open Images dataset will reflect this particular bias; images that deviate from the norm are more likely to be misclassified than images that adhere to the norm.
 
 To mitigate this bias we need to make the data more varied (e.g., 'inclusive'). There are multiple ways to achieve this goal. For example, we could add additional images of weddings that do not adhere to traditional western norms to the dataset (e.g., LGBTQ+ couples).
 
 First, we need to familiarise ourselves with the Open Images dataset:
 
-__3a__ What is the Open Images dataset? Who created it? For what kind of computer vision tasks can it be used? Write your answer down.
-
-<img src="./images/computer_vision_tasks.png" alt="Types of computer vision tasks" width="600">
-
-*Figure 4. Types of computer vision tasks.*
-
-__3b__ Start exploring the Open Images dataset by performing an EDA on the images, and corresponding meta-data (e.g., images, and image-level labels).
+__3a__ Start exploring the Open Images dataset by performing an EDA on the images, and corresponding meta-data (e.g., images, and image-level labels).
 
 To make your lives a bit easier, we created a Jupyter Notebook template for the Responsible AI Datalabs :grin:. You can find the template, [here](../../Study%20Content/Responsible%20and%20Explainable%20AI/notebooks/openimages_assignment_student.ipynb).
 
@@ -140,7 +128,7 @@ When performing the EDA, try to answer the following questions:
 
 When you are finished with the EDA, form groups of three, and proceed with the following question:
 
-__3c__ Pick at least three cards from A Designer's Critical Alphabet that will help you, and your teammates to make the Open Images dataset more 'inclusive'. Elaborate on your choice. Notify the lecturer when finished.
+__3b__ Pick at least three cards from A Designer's Critical Alphabet that will help you, and your teammates to make the Open Images dataset more 'inclusive'. Elaborate on your choice. Notify the lecturer when finished.
 
 - [A Designer's Critical Alphabet](https://criticalalphabet.com/)
 
@@ -162,7 +150,7 @@ __4a__ Watch the following video: Decolonising Knowledge: What is Decolonisation
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1CUKW2h4Dtg?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Video 2. Decolonising Knowledge: What is Decolonisation?*
+*Video 1. Decolonising Knowledge: What is Decolonisation?*
 
 __4b__ Define the term 'positionality', and provide a concrete example of the concept. Write your answer down.
 

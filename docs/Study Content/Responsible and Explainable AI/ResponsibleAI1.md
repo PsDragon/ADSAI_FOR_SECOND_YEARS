@@ -126,9 +126,9 @@ __2.2a__ Team up with at least one fellow student, and discuss your answers to t
 
 - [ ] Become familiar with the [Open Images](https://storage.googleapis.com/openimages/web/index.html) dataset. Answer the following questions:
 <br>
-- What is the Open Images dataset?
-- Who created it?
-- For what kind of computer vision tasks can it be used?
+1. What is the Open Images dataset?
+2. Who created it?
+3. For what kind of computer vision tasks can it be used?
 <br>
 <img src="./images/computer_vision_tasks.png" alt="Types of computer vision tasks" width="600">
 

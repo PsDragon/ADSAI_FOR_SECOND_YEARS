@@ -8,7 +8,7 @@ Today's independent study material focuses on 'algorithmic bias', and how you as
 
 ## 1) Learning objectives
 
-1. Define the terms' algorithmic bias', and 'individual fairness'.
+1. Define the term 'individual fairness'.
 2. Explain the difference between 'fairness through awareness, and 'fairness through unawareness'.
 4. Propose appropriate individual fairness and debiasing techniques for a tabular toy dataset.
 
@@ -33,9 +33,7 @@ Good luck!
 
 Until now, we have primarily focused on general notions of 'fairness' and 'bias'. Today, we will investigate how these concepts affect data science/AI projects.
 
-### 1.1 What is algorithmic bias?
-
-__1a__ Define the term 'algorithmic bias'. Search the internet for a definition or see the comic book Fairness & Friends by Khan et al. Write your answer down.
+### 1.1 Bias & Machine learning
 
 For this section, you will need to read a famous investigative article by ProPublica, which defines its work, and mission as follows:
 
@@ -45,11 +43,11 @@ For this section, you will need to read a famous investigative article by ProPub
 
 *Figure 1. ProPublica's headquarters.*
 
-__1b__ Read the article [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) by Angwin et al. (ProPublica), which describes how the risk assessment tool COMPAS is biased against black defendants.
+__1a__ Read the article [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing) by Angwin et al. (ProPublica), which describes how the risk assessment tool COMPAS is biased against black defendants.
 
-__1c__ Explore the interactive article [The Myth of the Impartial Machine](https://parametric.press/issue-01/the-myth-of-the-impartial-machine/) to see how ML models reproduce historical/societal inequalities.
+__1b__ Explore the interactive article [The Myth of the Impartial Machine](https://parametric.press/issue-01/the-myth-of-the-impartial-machine/) to see how ML models reproduce historical/societal inequalities.
 
-__1d__ What are the key takeaways of the article 'Machines Bias?', and the tutorial 'The Myth of the Impartial Machine'. Write them down with a maximum of 150 words.
+__1c__ What are the key takeaways of the article 'Machines Bias?', and the tutorial 'The Myth of the Impartial Machine'. Write them down with a maximum of 150 words.
 
 ### 1.2 Individual fairness, and debiasing techniques
 
@@ -85,7 +83,7 @@ If we think that the unfairness is caused by historical or societal bias, we sho
 
 The classifier is likely sensitive to family wealth since it was trained on historical admissions data. Thus, it might be beneficial to remove one or more wealth-related features from the dataset (e.g., income, neighborhood, etc.). This approach is called 'fairness through unawareness.
 
-Lastly, when the target variable is unevenly distributed (i.e., imbalanced classes), we can create a custom bias initializer. Adjusting the last layer bias parameter in your neural network has a similar effect as changing the threshold of a binary ML algorithm, such as in logistic regression.
+Lastly, when the target variable is unevenly distributed (i.e., imbalanced classes), we can create a custom bias initializer. Adjusting the last layer bias parameter in your neural network has a similar effect as changing the threshold of a binary ML algorithm, such as in logistic regression. This technique will help you to mitigate algorithmic/technical bias.
 
 For example, in the Oosterhout Youth Care project, some of you had imbalanced classes (e.g., the reason to end care). While the accuracy of these models proved to be high, they performed badly; the model basically learned the bias, i.e., it is improbable that a data instance belongs to the minority class. By changing the threshold, you can account for this kind of bias.
 
@@ -105,7 +103,6 @@ __Tutorial:__
 
 *Figure 3. Examples of different augmentation techniques applied to an image depicting a cat.*
 
-__1.2b__ Complete the CodeAcademy module [Learn Web Scraping with Beautiful Soup](https://www.codecademy.com/learn/learn-web-scraping), which teaches you, amongst others, how to scrape the web for images.
 
 ***
 
@@ -157,8 +154,6 @@ You can probably order it at [De Vrije Boekhandel](https://www.devrijeboekhandel
 ## 4) Preparation for DataLab 2
 
 - [ ] Upload your completed Responsible AI: Individual fairness metrics notebook to Github.
-
-- [ ] Upload your CodeAcademy certificate of the module Learn Web Scraping with Beautiful Soup to GitHub.
 
 ***
 

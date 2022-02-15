@@ -103,6 +103,7 @@ __Tutorial:__
 
 *Figure 3. Examples of different augmentation techniques applied to an image depicting a cat.*
 
+__1.2b__ Complete the [Webscraping](../../Study%20Content/Responsible%20and%20Explainable%20AI/notebooks/webscraping.ipynb) notebook.
 
 ***
 
@@ -152,6 +153,8 @@ You can probably order it at [De Vrije Boekhandel](https://www.devrijeboekhandel
 ***
 
 ## 4) Preparation for DataLab 2
+
+- [ ] Upload your completed webscraping notebook, and one of the images to Github.
 
 - [ ] Upload your completed Responsible AI: Individual fairness metrics notebook to Github.
 

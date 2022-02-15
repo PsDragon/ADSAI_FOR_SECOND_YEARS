@@ -77,10 +77,10 @@ Please click the links below to view more detailed requirements:
 [DataLab: tensors](../../Study%20Content/DeepLearning/2.1%20DLab-Tensors.html)
 
 ## Wednesday
-[Perceptron](../../Study%20Content/DeepLearning/3.Perceptron.html)
+[Perceptron](../../Study%20Content/DeepLearning/3.%20Perceptron.html)
 
 ## Thursday
-[Neural Networks concepts](../../Study%20Content/DeepLearning/4.NeuralNetworksConcepts.html)
+[Neural Networks concepts](../../Study%20Content/DeepLearning/4.%20NeuralNetworksConcepts.html)
 
 ## Friday
 [DataLab: Perceptron and Neural Network in Python](../../Study%20Content/DeepLearning/4.1%20DLab-Perceptron_NNs.html)

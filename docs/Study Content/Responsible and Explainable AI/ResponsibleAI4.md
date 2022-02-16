@@ -18,7 +18,6 @@ __Table of contents:__
 3. Additional material (optional): 1 hour
 4. Preparation DataLab: 10 minutes
 
-
 ## Questions or issues?
 
 If you have any questions or issues regarding the course material, please first ask your peers or ask us in the Q&A in Datalab!
@@ -54,6 +53,21 @@ __1c__ Define the term 'group fairness', and explain how it differs from 'indivi
 
 __1d__ Give at least one additional example of a feature that could be seen as a sensitive/protected attribute?
 
+__1e__ Watch the video MFML 044 - Precision vs recall by Google's Cassie Kozyrkov.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BYQQlCVt4aE?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*Video 1. Precision vs recall by Cassie Kozyrkov.*
+
+ __Mnemonic:__
+
+- Precision: 'Don't waste my time'.
+- Recall: 'Collect 'em all'.  
+
+<img src="./images/recall_precision.png" alt="Population vs. Sample" width="500"/>
+
+*Figure 2. Precision vs. recall.*
+
 __1e__ Explain the differences between 'independence', 'sufficiency', and 'separation' concerning fair AI.   
 
 __1f__ Explore the interactive tutorial [Attacking discrimination with smarter machine learning](http://research.google.com/bigpicture/attacking-discrimination-in-ml/) to see how a binary classifier works, ways it can potentially be unfair, and how you might turn such an unfair classifier into a fairer one.
@@ -62,14 +76,17 @@ __1f__ Explore the interactive tutorial [Attacking discrimination with smarter m
 
 To select an appropriate group fairness metric for our (binary) classification task, we will use AxA's [Fairness Compass](https://axa-rev-research.github.io/fairness-compass.html):
 
+Example: The search engine SearchYourWeb has a database containing 1500 wedding images; depicting 500 homosexual and 1000 heterosexual couples. When searching for wedding images, the engine returns a sample of 150 pictures labelled 'Wedding'.
+
+Sensitive/protected attribute: sexual orientation (e.g., groups: homosexual and heterosexual).
+
 #### __Step 1: Policy/'worldview'__
 
 - <span style="color:purple">'We're all equal' (WAE)</span> OR <span style="color:orange">'What you see is what you get' (WYSIWIG)</span>
 
 >The worldview what you see is what you get (WYSIWYG) assumes
 the absence of structural bias in the data. Accordingly, this view
-supposes that any statistical variation in different groups actually represents deviating base rates which should get explored. On
-the other hand, the worldview we’re all equal (WAE) presupposes equal base rates for all groups. Possible deviations are considered as unwanted structural bias that needs to get corrected ([Source](https://axa-rev-research.github.io/static/AXA_FairnessCompass-English.pdf)).
+supposes that any statistical variation in different groups actually represents deviating base rates which should get explored. On the other hand, the worldview we’re all equal (WAE) presupposes equal base rates for all groups. Possible deviations are considered as unwanted structural bias that needs to get corrected ([Source](https://axa-rev-research.github.io/static/AXA_FairnessCompass-English.pdf)).
 
 __Types of bias:__
 
@@ -77,7 +94,7 @@ __Types of bias:__
 
 <img src="./images/populationvssample.jpg" alt="Population vs. Sample" width="600"/>
 
-*Figure 1. Population vs. sample.*
+*Figure 3. Population vs. sample.*
 
 >Generally speaking, statistical bias occurs whenever the data used for model training are not representative of the true population. This can be due to a form of selection bias, i.e. when the individuals appearing in the data come from a non random selection of the full population. This happens, for example, in the context of credit lending, where the information of the repayment is known only for people that were granted the loan. Another way in which statistical bias can enter the data is via systematic measurement errors. This happens when the record of past errors and performance is systematically distorted, especially in the case of different amount of distortion for different groups of people. Similarly, it may happen that data are systematically missing or poorly recorded for entire strata of the population ([Source](https://arxiv.org/abs/2106.00467)).
 
@@ -109,7 +126,9 @@ Fairness metric II: 'The proportion of predicted positives should be equal acros
 
 <span style="color:green">Demographic parity</span>: (TP privileged group + FP privileged group)/(TP privileged group + FP privileged group + TN privileged group + FN privileged group) = (TP unprivileged group + FP unprivileged group)/(TP unprivileged group + FP unprivileged group + TN unprivileged group + FN unprivileged group)
 
-Example 1: In total 15 prospective students apply for an undergraduate program; 10 are female, and 5 are male. <span style="color:red">Equal selection parity is satisfied when the same number of female, and male students are given a favorable outcome (i.e. being invited for an admission interview); e.g. 5 females, and 5 males.</span> <span style="color:green">Demographic parity is satisfied when their base rates are the same; e.g. 2 females, and 1 male (i.e. the favorable outcome should be assigned to each group of a sensitive/protective attribute at equal rates).</span>
+<span style="color:red">Equal selection parity is satisfied when the search engine returns the same number of images for each sensitive/protected attribute group; 75 wedding images depict homosexual couples, and 75 heterosexual couples.
+
+</span> <span style="color:green">Demographic parity is satisfied when their base rates are the same; 50 images depict homosexual couples, and 100 images depict heterosexual couples (i.e., the favorable outcome should be assigned to each group of a sensitive/protective attribute at equal rates).</span>
 
 The <span style="color:purple">WAE</span> worldview does not automatically assume that the $$\begin{aligned} & Y\end{aligned}$$ values represent the 'ground truth'; they are constructed through historical or societal bias. The fairness notions related to <span style="color:purple">WAE</span>, independence, thus solely relies on the distribution of features and decisions, namely on ($$\begin{aligned} & A\end{aligned}$$, $$\begin{aligned} & X\end{aligned}$$, $$\begin{aligned} & \hat{Y}\end{aligned}$$) (See Codebook).
 
@@ -117,7 +136,7 @@ __Separation & Sufficiency <span style="color:orange">(WYSIWIG)</span>:__
 
 1. 'The proportion of actual positives (i.e, base rate) do not have to be equal across sensitive/protective groups'.
 
-Example: Research has shown that females are far more likely to suffer from breast cancer than males; 99% of breast cancer patients are female. A fair ML model should take this discrepancy, as a condition, into account.
+Justification varying base rate: Research by Statistics Netherlands/Centraal Bureau has shown that heterosexual couples are far more likely to get married than homosexual couples; 80% of Dutch heterosexual couples are married, while only 20% of Dutch homosexual couples are married ([Source](https://www.nu.nl/lifestyle/2477849/homos-trouwen-minder-dan-heteros-.html)). A fair ML model should take this discrepancy, as a condition, into account.
 
 A. Separation:
 
@@ -127,21 +146,15 @@ In mathematical terms, separation requires the $$\begin{aligned} & \hat{Y}\end{a
 
 $$\begin{aligned} P(\hat{Y}=1 \mid A=a , Y=y) = P(\hat{Y}=1 \mid A=b , Y=y), \\ & \forall a, b \in \mathcal{A}, y \in\{0,1\}. \end{aligned}$$
 
-Fairness metric I: The true positive rates (TPR) and true negative rates (TNR) should be equal across sensitive/protective groups'.
+Fairness metric I: The true positive rates (TPR) should be equal across sensitive/protective groups'.
 
-<span style="color:brown">Equalized odds</span>:
+<span style="color:brown">Equalized opportunities</span>: (TP privileged group/(TP privileged group + FN privileged group) = (TP unprivileged group/(TP unprivileged group + FN unprivileged group)
 
-(TP privileged group/(TP privileged group + FN privileged group) = (TP unprivileged group/(TP unprivileged group + FN unprivileged group)
-
-AND
-
-(TN privileged group/(TN privileged group + FP privileged group) = (TN unprivileged group/(TN unprivileged group + FP unprivileged group)
-
-Example 2: See Case Study: Breast Cancer in Logistic Regression notebook. Sensitive/protected attribute ($$\begin{aligned} & A\end{aligned}$$) values: 'Male' ($$\begin{aligned} & a\end{aligned}$$) or 'Female' ($$\begin{aligned} & b\end{aligned}$$).
+<span style="color:brown">Equalized opportunities is satisfied when the return rates for the images labelled 'wedding' are equal across sensitive/protected groups.
 
 B. Sufficiency:
 
-sufficiency ensures that individuals with identical predictions ($$\begin{aligned} & \hat{Y}\end{aligned}$$), but with different sensitive/protected attribute values ($$\begin{aligned} & A\end{aligned}$$), have an equal chance to obtain correct predictions --> PPV (i.e precision) and/or NPV.
+Sufficiency ensures that individuals with identical predictions ($$\begin{aligned} & \hat{Y}\end{aligned}$$), but with different sensitive/protected attribute values ($$\begin{aligned} & A\end{aligned}$$), have an equal chance to obtain correct predictions --> PPV (i.e., precision) and/or NPV.
 
 In mathematical terms, sufficiency requires the $$\begin{aligned} & Y\end{aligned}$$ to be conditionally independent of the sensitive/protected attribute $$\begin{aligned} & A\end{aligned}$$ given $$\begin{aligned} & \hat{Y}\end{aligned}$$:
 
@@ -154,7 +167,7 @@ Fairness metric II: 'The positive predictive value (PPV) should be equal across 
 
 <span style="color:blue">Predictive parity/Precision/PPV </span>: TP privileged group/(TP privileged group + FP privileged) = TP unprivileged group/(TP unprivileged group + FP unprivileged group)
 
-Example 3: See Case Study: Spam Email in Logistic Regression notebook. Sensitive/protected attribute ($$\begin{aligned} & A\end{aligned}$$) values: 'Email written in Dutch' ($$\begin{aligned} & a\end{aligned}$$) or 'Email written in English' ( $$\begin{aligned} & b\end{aligned}$$ ).
+<span style="color:blue">Predictive parity/Precision/PPV is satisfied when the proportion of correctly returned images is equal across sensitive/protected groups. </span>
 
 #### __Codebook__
 
@@ -191,7 +204,7 @@ In addition, The School of Life, also has provides high quality videos on variou
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5-JQ17X6VNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Video 1. Political Theory, John Rawls.*
+*Video 2. Political Theory, John Rawls.*
 
 ***
 

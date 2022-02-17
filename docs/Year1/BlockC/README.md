@@ -71,7 +71,7 @@ Please click the links below to view more detailed requirements:
 ## Monday
 [AI, Machine Learning, Deep Learning: more than just buzzwords?](../../Study%20Content/DeepLearning/1.%20Introduction%20to%20Deep%20Learning.html)
 
-[Data Structures - tensor](../../Study%20Content/DeepLearning/2.DataStructures.html)
+[Data Structures - tensor](../../Study%20Content/DeepLearning/2.%20DataStructures.html)
 
 ## Tuesday
 [DataLab: tensors](../../Study%20Content/DeepLearning/2.1%20DLab-Tensors.html)

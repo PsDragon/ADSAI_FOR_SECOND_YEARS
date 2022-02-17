@@ -74,7 +74,7 @@ __1f__ Explore the interactive tutorial [Attacking discrimination with smarter m
 
 ### __1.1 Fairness Compass__
 
-To select an appropriate group fairness metric for our (binary) classification task, we will use AxA's [Fairness Compass](https://axa-rev-research.github.io/fairness-compass.html):
+To select an appropriate group fairness metric for our (binary) classification task, we will use AxA's [Fairness Compass](https://axa-rev-research.github.io/fairness-compass.html).
 
 Example: The search engine SearchYourWeb has a database containing 1500 wedding images; depicting 500 homosexual and 1000 heterosexual couples. When searching for wedding images, the engine returns a sample of 150 pictures labelled 'Wedding'.
 

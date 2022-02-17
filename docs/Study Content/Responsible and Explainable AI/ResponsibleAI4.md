@@ -126,9 +126,9 @@ Fairness metric II: 'The proportion of predicted positives should be equal acros
 
 <span style="color:green">Demographic parity</span>: (TP privileged group + FP privileged group)/(TP privileged group + FP privileged group + TN privileged group + FN privileged group) = (TP unprivileged group + FP unprivileged group)/(TP unprivileged group + FP unprivileged group + TN unprivileged group + FN unprivileged group)
 
-<span style="color:red">Equal selection parity is satisfied when the search engine returns the same number of images for each sensitive/protected attribute group; 75 wedding images depict homosexual couples, and 75 heterosexual couples.
+<span style="color:red">Equal selection parity is satisfied when the search engine returns the same number of images for each sensitive/protected attribute group; 75 wedding images depict homosexual couples, and 75 heterosexual couples.</span>
 
-</span> <span style="color:green">Demographic parity is satisfied when their base rates are the same; 50 images depict homosexual couples, and 100 images depict heterosexual couples (i.e., the favorable outcome should be assigned to each group of a sensitive/protective attribute at equal rates).</span>
+<span style="color:green">Demographic parity is satisfied when their base rates are the same; 50 images depict homosexual couples, and 100 images depict heterosexual couples (i.e., the favorable outcome should be assigned to each group of a sensitive/protective attribute at equal rates).</span>
 
 The <span style="color:purple">WAE</span> worldview does not automatically assume that the $$\begin{aligned} & Y\end{aligned}$$ values represent the 'ground truth'; they are constructed through historical or societal bias. The fairness notions related to <span style="color:purple">WAE</span>, independence, thus solely relies on the distribution of features and decisions, namely on ($$\begin{aligned} & A\end{aligned}$$, $$\begin{aligned} & X\end{aligned}$$, $$\begin{aligned} & \hat{Y}\end{aligned}$$) (See Codebook).
 

@@ -66,11 +66,12 @@ LIME is the based on the concept that sometimes, it's simpler to use a white-box
 Please read upto (and including) chapter 3 of the **Interpretable Machine learning** textbook by Christoph Molnar, which you can access for free [here](https://christophm.github.io/interpretable-ml-book/) and answer the following questions and upload the answers to your Github repos. Please take your time to think critically before attempting to answer the questions.
 
 
-1. List 3 areas of application where it is imperative that the AI model is explainable, and explain your motivation for doing so.
-2. What is the difference between model-specific and model-agnostic XAI tools, and further what are local and global methods in the context of model-agnostic XAI methods.
-3. Explain in your own words with an example, what does it mean for a model to express it's (un)certainity in a prediction.
-4. What is a black box model, and would you consider neural networks to be a black box model?
-5. Would you choose a more accurate, but less interpretable model over a less accurate, but highly interpretable model? If not, why? Motivate your choice with an example use-case.
+- [ ] List 3 areas of application where it is imperative that the AI model is explainable, and explain your motivation for doing so.
+- [ ] What is the difference between model-specific and model-agnostic XAI tools, and further what are local and global methods in the context of model-agnostic XAI methods.
+- [ ] Explain in your own words with an example, what does it mean for a model to express it's (un)certainity in a prediction.
+- [ ] What is a black box model, and would you consider neural networks to be a black box model?
+- [ ] Would you choose a more accurate, but less interpretable model over a less accurate,
+but highly interpretable model? If not, why? Motivate your choice with one of your chosen application areas.
 
 
 <figure>

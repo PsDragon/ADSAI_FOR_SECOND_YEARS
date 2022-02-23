@@ -8,7 +8,7 @@ In today's DataLab, we will learn how to apply the methods we were introduced to
 
 ## Learning Objectives:
 
-- [ ] Apply PDPs to the BikeRentalsDataset to undestand what drives bike rentals
+- [ ] Apply PDPs to the BikeRentalsDataset to understand what drives bike rentals
 - [ ] Apply LIME to the mnist dataset for explaining image classification
 - [ ] Investigate the applicability of these methods to the creative brief.
 
@@ -38,7 +38,7 @@ If you have any questions or issues regarding the course material, please first 
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Tip: Note down any important questions you might have!
- </div>
+</div>
 
 Good luck!
 

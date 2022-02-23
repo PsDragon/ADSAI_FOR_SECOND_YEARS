@@ -68,11 +68,16 @@ Let us start with an intuitive consideration of Grad-CAM. The goal of Grad-CAM i
 
 One of the key drawbacks of vanilla gradients and Grad-CAM is that they resulting saliency maps can sometimes be very noisy. One way of dealing with is to first create multiple versions of the image with varying levels of noise. Then we create saliency maps using Grad-CAM for all the images and later, average the saliency maps to produce a final (usually noise free) map. In essense, we are trying to _average away_ the noise.
 
-## Summary
+## Let's get to work!
 
 Today, we have discovered three new ways to explain **how** do neural networks make their decisions! Now let's put them to to the test and see how they perform using the ```tf_explain``` python package.
 
 > Click [here](https://gilberttanner.com/blog/interpreting-tensorflow-model-with-tf-explain) to read more about the package.
+
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+I highly recommend following along this tutorial by opening a new collab
+notebook and typing in the following code snippets (with comments)
+ </div>
 
 Start by ensuring that you first install the  ```tf_explain``` library. Feel free to do this in google colab, either on the cloud or your local runtime. I recommend using your local runtime as it will be easier when you want to apply it to your creative brief.
 
@@ -115,7 +120,7 @@ We being by first setting the image path and it's class label.
 
 ```python
 IMAGE_PATH = "C:/Users/bhushan.n/Desktop/cat.jpg"
-tabby_cat_class_index = 281
+class_index = 281
 ```
 
 > Note that this path will change for you, and also depend on whether you are using a local or hosted runtime.
@@ -149,7 +154,7 @@ explainer = GradCAM()
 # Compute GradCAM on VGG16
 grid = explainer.explain(data,
                          model,
-                         class_index=tabby_cat_class_index,
+                         class_index=class_index,
                          layer_name="block5_conv3"
                          )
 
@@ -168,10 +173,10 @@ Let's place the images closer for comparison
 
 <div class="row">
   <div class="column">
-    <img src=".\images\cat.jpg" alt="Snow" style="width:100%">
+    <img src=".\images\cat.jpg" alt="Snow" style="width:30%">
   </div>
   <div class="column">
-    <img src=".\images\grad_cam_cat.png" alt="Forest" style="width:100%">
+    <img src=".\images\grad_cam_cat.png" alt="Forest" style="width:30%">
   </div>
 </div>
 
@@ -179,8 +184,20 @@ Let's place the images closer for comparison
 What do you think? Do you feel that the network is using the facial features of the cat to classify cat images?
  </div>
 
+ Here's another example, this time a banana.
+
+ <div class="row">
+  <div class="column">
+    <img src=".\images\banana.jpg" alt="Snow" style="width:30%">
+  </div>
+  <div class="column">
+    <img src=".\images\grad_camb.png" alt="Forest" style="width:30%">
+  </div>
+</div>
+
 ### Optional: A deeper understanding
-To get a deeper understanding of how these methods work and their technical underpinnings. Please watch the following lecture. Take notes and bring them to class if you find some concepts tricky to understand.
+To get a deeper understanding of how these methods work and their technical underpinnings, please watch the following lecture.
+If you find some concepts tricky to understand, take notes and bring them to class where we can discuss them.
 
 <!-- blank line -->
 <figure class="video_container">
@@ -192,11 +209,11 @@ To get a deeper understanding of how these methods work and their technical unde
 
 - [ ] Use any of the listed XAI methods included in ```tf_explain``` and obtain saliency maps for the image of a cat. Please upload your code and final images to Github.
 
-- [ ] Use any image and a corresponding imagenet class to explore what do neural networks see when they classify that image.
+- [ ] Use any image (no cats please) and a corresponding imagenet class to explore what do neural networks see when they classify that image. Specifically,
   - [ ] Go [here](https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a) for a mapping of class labels to human descriptions
   - [ ] Use any label you find interesting (e.g., Banana) note down the class label index
   - [ ] Use google search to search for images of the class you have chosen.
-  - [ ] Load the image into your script (don't forget to change the class index)
+  - [ ] Load the image into your script (don't forget to change the ```class_index``` variable)
   - [ ] Try several XAI methods and save your findings.
   - [ ] Compare the methods qualitatively in a table.
   - [ ] Upload your script, saliency maps, and qualitative comparisons to github.

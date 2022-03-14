@@ -108,7 +108,7 @@ Please click the links below to view more detailed requirements:
 [Image Classification](../../Study%20Content/DeepLearning/8.%20Image%20Classification.html)
 
 ## Tuesday
-[DataLab: Working on Creative Brief tasks](../../Study%20Content/DeepLearning/8.1%20DLab-CreativeBrief.html)
+[DataLab: Working on Creative Brief tasks](../../Study%20Content/DeepLearning/8.2%20DLab-CreativeBrief.html)
 
 ## Wednesday
 [Convolution Neural Network - Deep Dive](../../Study%20Content/DeepLearning/9.%20CNN-DeepDive.html)

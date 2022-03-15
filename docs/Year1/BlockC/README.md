@@ -108,7 +108,7 @@ Please click the links below to view more detailed requirements:
 [Image Classification](../../Study%20Content/DeepLearning/8.%20Image%20Classification.html)
 
 ## Tuesday
-[DataLab: Working on Creative Brief tasks](../../Study%20Content/DeepLearning/8.2%20DLab-CreativeBrief.html)
+[DataLab: Working on Creative Brief tasks](../../Study%20Content/DeepLearning/8.1%20DLab-CreativeBrief.html)
 
 ## Wednesday
 [Convolution Neural Network - Deep Dive](../../Study%20Content/DeepLearning/9.%20CNN-DeepDive.html)
@@ -117,7 +117,7 @@ Please click the links below to view more detailed requirements:
 [Data Pre-procession and Data Augmentation](../../Study%20Content/DeepLearning/10.%20DataAugmentation.html)
 
 ## Friday
-[DataLab: Working on Creative Brief tasks](../../Study%20Content/DeepLearning/8.1%20DLab-CreativeBrief.html)
+[DataLab: Working on Creative Brief tasks](../../Study%20Content/DeepLearning/10.1%20DLab-CreativeBrief.html)
 
 # Week 5 : Deep Learning in Practice
 
@@ -125,7 +125,7 @@ Please click the links below to view more detailed requirements:
 [Transfer Learning and fine tuning](../../Study%20Content/DeepLearning/11.%20Transfer%20Learning.html)
 
 ## Tuesday
-[DataLab: Working on Creative Brief tasks](../../Study%20Content/DeepLearning/8.1%20DLab-CreativeBrief.html)
+[DataLab: Working on Creative Brief tasks](../../Study%20Content/DeepLearning/10.1%20DLab-CreativeBrief.html)
 
 ## Wednesday
 [Deep Learning: Practical issues and best practices](../../Study%20Content/Introduction%20to%20Machine%20Learning/SupervisedAndUnsupervisedLearning.html)
@@ -134,7 +134,7 @@ Please click the links below to view more detailed requirements:
 [Transfer Learning and fine tuning](../../Study%20Content/DeepLearning/11.%20Transfer%20Learning.html)
 
 ## Friday
-[DataLab: Working on Creative Brief tasks](../../Study%20Content/DeepLearning/8.1%20DLab-CreativeBrief.html)
+[DataLab: Working on Creative Brief tasks](../../Study%20Content/DeepLearning/10.1%20DLab-CreativeBrief.html)
 
 # Week 6 : Deep Learning and XAI
 

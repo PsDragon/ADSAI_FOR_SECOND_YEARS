@@ -53,7 +53,7 @@ Instructor: Rene van der Weert
 
 *Figure 1. Soldering the weather station.*
 
-After you finish building the weather station, try to develop a plan for how you, as a team, can effectively distribute the weather stations across the neighbourhood of Brabantpark. The objective is to find inhabitants willing to take care of a weather station. As a result, there needs to be some kind of 'loan for use' agreement between BUAS and the person volunteering to take care of a weather station. You can find a template of a Dutch 'loan to use' agreement, [here](../../Study%20Content/Digital%20Transformation/ loanforuseagreement_template.docx).
+After you finish building the weather station, try to develop a plan for how you, as a team, can effectively distribute the weather stations across the neighbourhood of Brabantpark. The objective is to find inhabitants willing to take care of a weather station. As a result, there needs to be some kind of 'loan for use' agreement between BUAS and the person volunteering to take care of a weather station. You can find a template of a Dutch 'loan to use' agreement, [here](../../Study%20Content/Digital%20Transformation/loanforuseagreement_template.docx).
 
 __Tips:__
 

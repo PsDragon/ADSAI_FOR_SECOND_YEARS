@@ -96,6 +96,7 @@ __Additional material:__
 
 [Geospatial analytics (optional)](../../Study%20Content/Geospatial%20Analytics/GeospatialAnalytics1.html)
 
+
 **Every Tuesday and Friday,
 in the datalab you will be provided feedback on your (teams)
 progress using the Jira dashboard,

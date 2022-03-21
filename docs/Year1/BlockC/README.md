@@ -128,7 +128,7 @@ Please click the links below to view more detailed requirements:
 [DataLab: Working on Creative Brief tasks](../../Study%20Content/DeepLearning/10.1%20DLab-CreativeBrief.html)
 
 ## Wednesday
-[Deep Learning: Practical issues and best practices](../../Study%20Content/Introduction%20to%20Machine%20Learning/SupervisedAndUnsupervisedLearning.html)
+[Deep Learning: Practical issues and best practices](../../Study%20Content/12.PracticalIssues&BestPractices.html)
 
 ## Thursday
 [Transfer Learning and fine tuning](../../Study%20Content/DeepLearning/11.%20Transfer%20Learning.html)

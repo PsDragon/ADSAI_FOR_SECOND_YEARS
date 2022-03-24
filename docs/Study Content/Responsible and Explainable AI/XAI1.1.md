@@ -76,9 +76,7 @@ I highly recommend going through the The Building Blocks of Interpretability blo
 
 - [ ] Become familiar with The Bike rentals datasets [clicky](https://christophm.github.io/interpretable-ml-book/bike-data.html)
 
-- [ ] Read the example of PDP applied to the Bike rental dataset. [clicky](https://christophm.github.io/interpretable-ml-book/pdp.html#examples)
-
-- [ ] Download the BikeRentalsDataset from [here]() and build a predictive model to predict the number of bikes sold using ```scikit-learn``` in ```Google colab```.
+- [ ] Download the BikeRentalsDataset using the snippet provided and build a predictive model to predict the number of bikes sold using ```scikit-learn``` in ```Google colab```.
 
 > hint: Use the following code snippet to automatically download, unzip and load the dataset into colab.
 

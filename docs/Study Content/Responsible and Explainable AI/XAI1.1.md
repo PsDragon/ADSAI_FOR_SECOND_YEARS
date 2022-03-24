@@ -4,7 +4,7 @@ sort: 9
 
 ## Explaining neural networks
 
-This moring, you saw the tip of the vast iceberg that is explainable AI. Now,
+This morning, you saw the tip of the vast iceberg that is explainable AI. Now,
 let's sink a bit deeper and explore why XAI methods are becoming more important,
 the answer to this question like the answer to a lot of other questions is  -
 *Deep Learning*. The exponential use of neural networks and deep learning in

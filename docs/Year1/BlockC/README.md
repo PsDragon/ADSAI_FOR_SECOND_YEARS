@@ -139,19 +139,19 @@ Please click the links below to view more detailed requirements:
 # Week 6 : Deep Learning and XAI
 
 ## Monday
-[Feature visualization in Keras-Pixel/Feature Attribution](../../Study%20Content/Responsible%20and%20Explainable%20AI/XAI1.html)
+[XAI: The need for explanations](../../Study%20Content/Responsible%20and%20Explainable%20AI/XAI1.html)
 
 ## Tuesday
-[DataLab: XAI using Keras](../../Study%20Content/Responsible%20and%20Explainable%20AI/XAI2.html)
+[DataLab: XAI ](../../Study%20Content/Responsible%20and%20Explainable%20AI/XAI2.html)
 
 ## Wednesday
-[Meta-learning](../../Study%20Content/Responsible%20and%20Explainable%20AI/XAI3.html)
+[Feature Attribution in Computer Vision](../../Study%20Content/Responsible%20and%20Explainable%20AI/XAI3.html)
 
 ## Thursday
-[Detecting concepts TCAV](../../Study%20Content/Responsible%20and%20Explainable%20AI/XAI4.html)
+[Moving beyond feature attribution](../../Study%20Content/Responsible%20and%20Explainable%20AI/XAI4.html)
 
 ## Friday
-[DataLab: XAI using TCAV and model card toolkit (MCT)](../../Study%20Content/Responsible%20and%20Explainable%20AI/XAI5.html)
+[DataLab: XAI](../../Study%20Content/Responsible%20and%20Explainable%20AI/XAI5.html)
 
 # Week 7 : Human Centered AI
 

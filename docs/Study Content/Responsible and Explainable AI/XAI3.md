@@ -130,7 +130,6 @@ Next, we can preprocess the image so it's ready for ```keras``` and VGG16. Note 
 ```python
 img = tf.keras.preprocessing.image.load_img(IMAGE_PATH, target_size=(224, 224))
 img = tf.keras.preprocessing.image.img_to_array(img)
-data = ([img], None)
 ```
 
 Now we load the pre-trained VGG16 model using the following line of code.
@@ -147,13 +146,13 @@ So now that we have loaded the image and loaded the model. We are ready to use `
 
 ```python
 #first create the input in a format that the explainer expects (a tuple)
-input = (np.array([img]), None)
+input_img = (np.array([img]), None)
 
 #initialize the explainer
 explainer = GradCAM()
 
 # Compute GradCAM on VGG16
-grid = explainer.explain(data,
+grid = explainer.explain(input_img,
                          model,
                          class_index=class_index,
                          layer_name="block5_conv3"

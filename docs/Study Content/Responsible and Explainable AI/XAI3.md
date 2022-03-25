@@ -130,6 +130,7 @@ Next, we can preprocess the image so it's ready for ```keras``` and VGG16. Note 
 ```python
 img = tf.keras.preprocessing.image.load_img(IMAGE_PATH, target_size=(224, 224))
 img = tf.keras.preprocessing.image.img_to_array(img)
+data = ([img], None)
 ```
 
 Now we load the pre-trained VGG16 model using the following line of code.

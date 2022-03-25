@@ -154,8 +154,7 @@ explainer = GradCAM()
 # Compute GradCAM on VGG16
 grid = explainer.explain(input_img,
                          model,
-                         class_index=class_index,
-                         layer_name="block5_conv3"
+                         class_index=class_index
                          )
 
 #save the resulting image

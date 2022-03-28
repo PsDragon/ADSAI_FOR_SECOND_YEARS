@@ -14,7 +14,7 @@ As you go deeper in your AI journey, you may have noticed that deep Learning, wh
 always seek **answers to the *why* questions**. So should we not expect AI to
 also provide us such answers?
 
-> This course is based on the **Interpretable Machine learning** textbook by Christoph Molnar, which you can access for free [here](0https://christophm.github.io/interpretable-ml-book/).
+> This course is based on the **Interpretable Machine learning** textbook by Christoph Molnar, which you can access for free [here](https://christophm.github.io/interpretable-ml-book/).
 
 ## Today's learning objectives
 - [ ] Understand the motivation for explainable machine learning & AI (XAI).

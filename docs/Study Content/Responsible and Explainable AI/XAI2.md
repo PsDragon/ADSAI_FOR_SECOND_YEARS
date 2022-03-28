@@ -8,7 +8,7 @@ In today's DataLab, we will learn how to apply the methods we were introduced to
 
 ## Learning Objectives:
 
-- [ ] Apply PDPs to the BikeRentalsDataset to understand what drives bike rentals
+
 - [ ] Apply LIME to the mnist dataset for explaining image classification
 - [ ] Investigate the applicability of these methods to the creative brief.
 
@@ -21,17 +21,12 @@ In today's DataLab, we will learn how to apply the methods we were introduced to
 
 ## Workshop
 
-### Partial Dependence Plots [2 hours]
-- [ ] Please open the ```XAI_DataLab1_PDP``` notebook you can find in your Github Repositories in Google Colab and follow the instructions provided in the Notebook.
+### Partial Dependence Plots [4 hours]
 
-> If you have already built a predictive model i.e., you completed yesterday's homework, compare it's performance with the model in Github and proceed directly to the challenge.
-
-### LIME [2 hours]
+### LIME [ hours]
 - [ ] Please open the ```XAI_DataLab1_LIME``` notebook you can find in your Github Repositories in Google Colab and follow the instructions provided in the Notebook.
 
-### Creative brief [2 hours]
-
-- [ ] Apply the concepts learned today to your creative brief.
+### Deep Learning Creative Brief [4 hours]
 
 ## Questions or issues?
 If you have any questions or issues regarding the course material, please first ask your peers or ask us in the Q&A in Datalab!

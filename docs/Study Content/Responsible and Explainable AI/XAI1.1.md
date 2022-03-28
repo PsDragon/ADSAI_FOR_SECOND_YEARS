@@ -74,9 +74,7 @@ I highly recommend going through the The Building Blocks of Interpretability blo
 
 # Preparation for tomorrow's DataLab
 
-- [ ] Become familiar with The Bike rentals datasets [clicky](https://christophm.github.io/interpretable-ml-book/bike-data.html)
-
-- [ ] Download the BikeRentalsDataset using the snippet provided and build a predictive model to predict the number of bikes sold using ```scikit-learn``` in ```Google colab```.
+- [ ] Apply PDPs to your model and explain it's findings. Please open the ```XAI_DataLab1_PDP``` notebook you can find in your Github Repositories in Google Colab and follow the instructions provided in the Notebook.
 
 > hint: Use the following code snippet to automatically download, unzip and load the dataset into colab.
 

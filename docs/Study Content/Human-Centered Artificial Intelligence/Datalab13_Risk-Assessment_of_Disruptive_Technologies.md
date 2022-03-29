@@ -16,8 +16,8 @@ After this module you'll:
 Table of contents:
 0. Stand-up & Q&A: 0.5 hours
 1. Q&A
-2. Disruptive Technology: 1.5 hours
-3. High-level Design: 1 hours
+2. High-level Design Review: 1 hours
+3. Disruptive Technology: 1.5 hours
 4. Lunch: 1 hour - 12:00
 5. GDPR Application: 4 hours
 
@@ -43,20 +43,29 @@ We start by hosting a stand-up. Form groups of ~ 5 and run on-another through th
 ## 1) Q & A
 We start by briefly reflecting on what we learned about interaction and inferace design. Do you have any questions? Now is the time to ask them!
 
-## 2) Introduction to Disruptive Technologies
-Covered by a interactive lecture where we'll present you with the different stages of disruptive technologies and some examples we'll explore together!
-
-You can find [the slides here](www.google.com )!
-
-## 3) High-level Design
+## 2) High-level Design Review
 **Open your HCAI Design Document.**
 
 Discuss your designs with your peers and collect their feedback. Create a notes section in your design document and note down any relevant feedback for or against any of your problems or solutions (and elements thereof). Take turns and go through the following steps:
 1. explain your problems;
 2. explain your possible solutions (the divergent ones);
 3. explain your chosen solution (the convergent one);
-4. identify potential disruptive technology risk for your chosen solution;
-5. reiterate with a plan based on the feedback given by your peers.
+4. reiterate with a plan based on the feedback given by your peers.
+
+**Save your HCAI Design Document to GitHub.**
+
+
+## 3) Introduction to Disruptive Technologies
+Covered by a interactive lecture where we'll present you with the different stages of disruptive technologies and some examples we'll explore together!
+
+You can find [the slides here](www.google.com )!
+
+### Let's apply our knowledge!
+**Open your HCAI Design Document.**
+
+1. Identify and write down potential disruptive technology risk for your chosen solution in the form of a problem-statement with any required background information;
+2. Discuss the potential disruptive technology risks with two peers and record their feedback;
+3. Address each potential disruptive technology risk by creating a short, written solution to the problem statement in 100 words or less. In some cases  you might not be able to come up with a solution for a given problem, or a problem might not be solveable at all. In this case: clearly explain why you might not be able to come up with a solution for a given problem in 100 words or less.
 
 **Save your HCAI Design Document to GitHub.**
 

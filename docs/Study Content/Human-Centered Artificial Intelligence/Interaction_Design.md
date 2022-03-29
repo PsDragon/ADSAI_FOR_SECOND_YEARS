@@ -10,11 +10,11 @@ For this module we are going to explore the fundamentals of user interaction and
 After this module you'll gain a basic understanding and learn how to apply:
 1. Interaction Design;
 2. User Experience Design;
-3. Basic Human-Centered AI principles.
+3. Prototyping HCAI application using Wireframe software
 
 Table of contents:
-1. Interaction Design & User Experience Design: 3.5 hours
-2. Human-Centered AI principles: 1.5 hours
+1. Human-Centered AI Fundamentals & Application **Lecture**: 1.5 hours
+2. Interaction Design & User Experience Design: 3.5 hours
 3. Workshop: Applying UX, Interaction Design and HCAI on your project: 2.5 hours
 
 **Now, open your worklog and plan the different tasks for today there!**
@@ -28,8 +28,11 @@ Tip: Note down any important questions you might have!
 
 Good luck!
 
+## 1) Lecture:
+The kick-off has been scheduled in your calendar but can also be attended by (clicking this link)(www.venray.nl). The kick-off outlines what this module is about, how we will learn about HCAI and how we will assess your final deliverable: a wireframe prototype!
+Missed the kick-off? Watched it back over here!
 
-## 1) Interaction Design
+## 2) Interaction Design
 Interaction is all about change: by exchanging information in the form of data or energy we're creating some kind of new state in the world. I can for example gain new information in the form of data by vision, sound or vibrations; this new information makes the user aware of something; changing the internal state of the user. Or I can exchange information in the form of energy by kicking a football and which after my interaction will interact further with the environment. What it essentially comes down to when you are designing for interaction is that you create some kind of change which the user can anticipate and understand without thinking: Design should be intuitive.
 
 Like doors, they are great when they are intuitive. Like the door of our classroom. But some doors, they just don't make sense and are very frustrating...
@@ -44,27 +47,10 @@ So now that we learned why some doors are more frustrating then other, and how w
 
 **Did you do the full course already? Make sure to get the certificate an upload it to GitHub and evidence it in both your worklog and learning log!**
 
-## 2) Interaction Design for AI
-Machine learning (ML) is the science of helping computers discover patterns and relationships in data instead of being manually programmed. It’s a powerful tool for creating personalized and dynamic experiences, and it’s already driving everything from Netflix recommendations to autonomous cars. But as more and more experiences are built with ML, it’s clear that UX designers still have a lot to learn about how to make users feel in control of the technology, and not the other way round.
 
-As was the case with the mobile revolution, and the web before that, ML will cause us to rethink, restructure, displace, and consider new possibilities for virtually every experience we build. In the Google UX community, they’ve started an effort called “human-centered machine learning” (HCML) to help focus and guide that conversation. Using this lens, we look across products to see how ML can stay grounded in human needs while solving them in unique ways only possible through ML. Google works with UX designers across the company to bring them up to speed on core ML concepts, understand how to integrate ML into the UX utility belt, and ensure ML and AI are built in inclusive ways. Let's take a look at their design principles by watching the following video's:
+## 3) Working on your wireframe!:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AAJ2vQXm5HQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rf83vRxLWFQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Want to know more? You can read this article on [Human-Centered Machine Learning!](https://medium.com/google-design/human-centered-machine-learning-a770d10562cd)
-
-## 3) Workshop on Designing Human-Centered AI Applications
-Now, we're going to look at our problem-solution as if there is a human agent/servant doing all the work and interaction so we can distill how our application should respond to the user.
-
-**Open your HCAI Design Document** and answer the following questions in it:
-1. Why does the problem you are solving with your application benefits more from an AI solution than a traditional solution?
-2. How would you describe the way a theoretical human “expert” might perform the task today?
-3. If your human expert were to perform this task, how would you respond to them so they improved for the next time?
-4. If a human expert were to perform this task, what assumptions would the user want them to make?
-
-**Save your HCAI Design Document to GitHub.**
+bla bla bla
 
 ## Next up!
 Coming Datalab we will reflect on Interaction Design and User Experience!

@@ -4,18 +4,23 @@ sort: 1
 
 # Interaction & Information Processing Fundamentals
 
-We start our dive into Human-Centered Artificial Intelligence with a general introduction to interaction design and information processing with regards to humans. How do they interact with information and why do we interact with information in the first place? Then, we're going to look into a couple of design techniques after which we'll apply them on our project in preperation for upcoming datalab!
+We start our dive into Human-Centered Artificial Intelligence (HCAI) with a general introduction to interaction design and information processing with regards to humans. How do they interact with information and why do we interact with information in the first place? Then, we're going to look into a couple of design techniques after which we'll apply them on our project in preperation for upcoming datalab!
 
 ## 0) Learning Objectives:
 After this module you'll:
 1. Understand the Extended Mind Hypothesis;
 2. Understand the Network-Enabled Cognition Hypothesis;
 3. Know and Apply Design Thinking;
+4. Basic Human-Centered AI principles;
+5. Create a high-level design for HCAI applications;
 
 Table of contents:
+0. Kick-off: 0.5 hours
 1. Interaction and Information Processing Fundamentals: 1 hours
 2. Design Techniques:  1 hour
-3. Workshop: 6 hours (or less if you're done early)
+3. Workshop - High-level design: 2 hours
+3. Introduction to Human-Centered Artificial Intelligence **Lecture**: 1.5 hours
+4. Workshop: 2 hours (or less if you're done early)
 
 **Now, open your worklog and plan the different tasks for today there!**
 
@@ -28,6 +33,9 @@ Tip: Note down any important questions you might have!
 
 Good luck!
 
+## 0) Kick-off
+The kick-off has been scheduled in your calendar but can also be attended by (clicking this link)(www.venray.nl). The kick-off outlines what this module is about, how we will learn about HCAI and how we will assess your final deliverable: a wireframe prototype!
+Missed the kick-off? Watched it back over here!
 
 ## 1) Introduction to Iteraction and Information Processing Fundamentals
 To figure out how data-driven application for humans work, especially AI operated ones, we first require a deeper understanding of what it means for humans to interact and proces information. So, how do humans interact with the world and how do they proces information? The following video explains how information processing, the environment and our online environment are actually one continous proces. Information isn't created or processed simply in one place but a result of interaction between multiple entities; these can be objects interacting with object, or with phenomena or with humans. That's what the theory of the Extended Mind and Network Enabled Cognition is about! Let's dive into it and explain the context of interacting with information!
@@ -61,7 +69,7 @@ Watch the videos below and then make the excercises!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cmBf1fBRXms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## 3) Workshop
+## 3) Workshop Part 1: Generic High-level Design
 Try to be concrete and clear when writing you designs out, keep a section somewhere for notes apart from what you work out below. Remember that you can orally present and discuss your designs tomorrow in Datalab.
 
 To start with: create a digital document (Microsoft Word, and remember that you have to evidence it), call it 'HCAI Design Document - [NameOfApplication] - [StudentName]', save the blank doc to GitHub, and record the following:
@@ -79,6 +87,26 @@ To start with: create a digital document (Microsoft Word, and remember that you 
 - How well do you think it solves the problem? Define this in a percentage and motivate your answer.
 
 **Upload your document to Github!** *Also note that if you don't fill out the name slots this time, you will have to do push ups in class!*
+
+## 4) Introduction to Human-Centered Artificial Intelligence
+Machine learning (ML) is the science of helping computers discover patterns and relationships in data instead of being manually programmed. It’s a powerful tool for creating personalized and dynamic experiences, and it’s already driving everything from Netflix recommendations to autonomous cars. But as more and more experiences are built with ML, it’s clear that UX designers still have a lot to learn about how to make users feel in control of the technology, and not the other way round.
+
+As was the case with the mobile revolution, and the web before that, ML will cause us to rethink, restructure, displace, and consider new possibilities for virtually every experience we build. In the Google UX community, they’ve started an effort called “human-centered machine learning” (HCML) to help focus and guide that conversation. Using this lens, we look across products to see how ML can stay grounded in human needs while solving them in unique ways only possible through ML. Google works with UX designers across the company to bring them up to speed on core ML concepts, understand how to integrate ML into the UX utility belt, and ensure ML and AI are built in inclusive ways. Let's take a look at their design principles by watching the following video's:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rf83vRxLWFQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Want to know more? You can read this article on [Human-Centered Machine Learning!](https://medium.com/google-design/human-centered-machine-learning-a770d10562cd)
+
+## 5) Workshop Part 2: Designing Human-Centered AI Applications
+Now, we're going to look at our problem-solution as if there is a human agent/servant doing all the work and interaction so we can distill how our application should respond to the user.
+
+**Open your HCAI Design Document** and answer the following questions in it:
+1. Why does the problem you are solving with your application benefits more from an AI solution than a traditional solution?
+2. How would you describe the way a theoretical human “expert” might perform the task today?
+3. If your human expert were to perform this task, how would you respond to them so they improved for the next time?
+4. If a human expert were to perform this task, what assumptions would the user want them to make?
+
+**Save your HCAI Design Document to GitHub.**
 
 ## Next up!
 Coming Datalab we will reflect on these concept again, review your designs: your problem(s) and solutions, and give you an opportunity to ask any questions you might have.

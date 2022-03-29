@@ -12,7 +12,6 @@ One interpretation of Saliency maps is that we try to find the pixels, whose val
 ## Learning Objectives
 - [ ] Understand how to use Vanilla Gradients for feature attribution
 - [ ] Understand how to use Grad-CAMs for feature attribution
-- [ ] Understand how to use SmoothGrad for feature attribution
 
 
 ### Saliency maps using vanilla gradients
@@ -206,13 +205,11 @@ If you find some concepts tricky to understand, take notes and bring them to cla
 
 # Assignments
 
-- [ ] Use any of the listed XAI methods included in ```tf_explain``` and obtain saliency maps for the image of a cat. Please upload your code and final images to Github.
-
 - [ ] Use any image (no cats please) and a corresponding imagenet class to explore what do neural networks see when they classify that image. Specifically,
   - [ ] Go [here](https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a) for a mapping of class labels to human descriptions
   - [ ] Use any label you find interesting (e.g., Banana) note down the class label index
   - [ ] Use google search to search for images of the class you have chosen.
   - [ ] Load the image into your script (don't forget to change the ```class_index``` variable)
-  - [ ] Try several XAI methods and save your findings.
+  - [ ] Starting with **GradCAM**, try several XAI methods and save your findings.
   - [ ] Compare the methods qualitatively in a table.
   - [ ] Upload your script, saliency maps, and qualitative comparisons to github.

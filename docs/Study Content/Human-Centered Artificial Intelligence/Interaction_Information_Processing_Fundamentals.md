@@ -20,7 +20,7 @@ Table of contents:
 2. Design Techniques:  1 hour
 3. Workshop - High-level design: 2 hours
 3. Introduction to Human-Centered Artificial Intelligence **Lecture**: 1.5 hours
-4. Workshop: 2 hours 
+4. Workshop: 2 hours
 
 **Now, open your worklog and plan the different tasks for today there!**
 
@@ -86,7 +86,7 @@ To start with: create a digital document (Microsoft Word, and remember that you 
 - Why do you think it's the best solution?
 - How well do you think it solves the problem? Define this in a percentage and motivate your answer.
 
-**Upload your document to Github!** *Also note that if you don't fill out the name slots this time, you will have to do push ups in class!*
+**Upload your document to Github!** *Also note that if you don't fill out the name slots this time, you will have to do push ups in class! It's fine to have a working name for your application ofcourse, but we don't have any students called "StudentName"; or requests to be called that.*
 
 ## 4) Introduction to Human-Centered Artificial Intelligence
 Machine learning (ML) is the science of helping computers discover patterns and relationships in data instead of being manually programmed. It’s a powerful tool for creating personalized and dynamic experiences, and it’s already driving everything from Netflix recommendations to autonomous cars. But as more and more experiences are built with ML, it’s clear that UX designers still have a lot to learn about how to make users feel in control of the technology, and not the other way round.

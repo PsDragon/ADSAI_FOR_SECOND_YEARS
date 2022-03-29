@@ -37,7 +37,7 @@ We start by briefly reflecting on what we learned about user feedback and user t
 This lecture will be delivered live but you can preview the slide [here](https://github.com/BredaUniversityADSAI/ADS-AI/blob/1eb74434bf364a3e3e62ee84ae32260b573e5b20/docs/Study%20Content/Human-Centered%20Artificial%20Intelligence/Assets/AB-Testing.pptx)!
 
 ## 3) A/B Testing on deployed prototype
-Yesterday you made the version of your vertical slice as you envisioned it. But now, we're going to create a second version of you vertical slice which is slightly different then the one you created yesterday. Think of something you think would be interesting to subject to A/B-testing, implement that change in the vertical slice of you wireframe prototype and deploy that version as well for user testing.
+Yesterday you made the version of your vertical slice as you envisioned it. But now, we're going to create a second version of you vertical slice which is slightly different then the one you created yesterday. First test your prototype with a classmate and identify points of improvement for you veritical slice to subject to A/B-testing, implement that change in the vertical slice of you wireframe prototype and deploy that version as well for user testing.
 
 If you don't know what to change, ask the lecturers to look together with you for anything which might serve as a possible improvement. Then, run through the steps above.
 

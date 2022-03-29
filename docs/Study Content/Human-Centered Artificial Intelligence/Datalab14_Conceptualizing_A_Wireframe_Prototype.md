@@ -77,7 +77,7 @@ At 14:30, there's a meeting you're encouraged to take part in to ask questions a
 
 
 ## 5) Work on Creative brief
-Implement your findings in your wireframe prototype!
+Implement your findings in your wireframe prototype! 
 
 ## Up Next!
 Next week, we will continue building our Interface Design skills and work on our wireframe prototype!

@@ -20,7 +20,7 @@ Table of contents:
 2. Design Techniques:  1 hour
 3. Workshop - High-level design: 2 hours
 3. Introduction to Human-Centered Artificial Intelligence **Lecture**: 1.5 hours
-4. Workshop: 2 hours (or less if you're done early)
+4. Workshop: 2 hours 
 
 **Now, open your worklog and plan the different tasks for today there!**
 

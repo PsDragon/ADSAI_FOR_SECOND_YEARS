@@ -12,10 +12,11 @@ After this module you'll be able to run and conduct:
 
 Table of contents:
 0. Stand-up: 0.5 hours
-1. Q&A: 0.5 hours
-3. User Testing: 1 hour
-4. Wizzard of Oz Testing: 5 hours
-5. In-Class Discussion: 0.5 hours
+1. Q&A:
+2. User Testing: 1 hour
+3. Wizzard of Oz Testing: 3 hours
+4. In-Class Discussion: 0.5 hours
+5. Work on creative crief: 2 hours
 
 
 ## Questions or issues?
@@ -71,12 +72,12 @@ So, let's start coming up with our own Wizzard of Oz experiment!
 **Save your HCAI design document to Github and note what your did; and your evidence, in your work- and learning-log**
 
 
-## 4) Time left?
+## 4) In-Class Discussion
+At 14:30, there's a meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
+
+
+## 5) Work on Creative brief
 Implement your findings in your wireframe prototype!
-
-
-## 5) In-Class Discussion
-At 16:30, there's a meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
 
 ## Up Next!
 Next week, we will continue building our Interface Design skills and work on our wireframe prototype!

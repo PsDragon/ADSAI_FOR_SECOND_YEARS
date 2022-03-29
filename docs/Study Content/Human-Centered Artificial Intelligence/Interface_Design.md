@@ -77,14 +77,8 @@ Tomorrow in class, we're going to demonstrate our vertical slice prototype to ou
 
 **Upload your document to Github!**
 
-## 4) Adobe XD: making a wireframe prototype
-Now, it's finally time to get to know how to use the Adobe XD application! It's really quite intuitive; as is to be expected of a design application. So start by watching the introduction to the Linkedin Learning course below and then doing modules 1. Getting Started, 2. Extending XD, and 3. Building Screens in Design Mode.
-
-<div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="640" height="360" src="https://www.linkedin.com/learning/embed/learning-adobe-xd-2020/designing-for-different-screen-sizes?autoplay=false&claim=AQEoqI8m4y2P3AAAAX7lnsdpbLXDbe2rF-spXBBgFSlLJYljocDNPeLhwPakzNaBHo4Dgl6eajRz-pcIqwUKOR2Fsq63rL8O6dEX3mrChNAm9t99BrQ57TcJF_yOwmjcJpj9WJPdqlYvIQD0zC7KMSFLSn4xnDFu5r13DbfXaPchVTYz01MZf5MGwYeLSG_ByqM9OHqaKJ1lEGtMMG3tXXdTq6I37_l3AHyx8qcCswIXf8uexCleJd9TkVVWmPUmFAsBfj_36oyD53CE71b86l-KiqIuulXrp1BTlXhMZVHltrKUcKfaCF-lGS6L7qhchb14J5qAM_wBwIVi0v6al2MmUGzrR-PV8GaxcoJ801YxsXwPIBwl-P8HNOcx3IXe8bCqBnIDMVY3kLlQg4SxIxk4FA6sizMpEs2b4TPCW2D0PGt5jzeplDl2MfCUM7wpyOGmwiOjyXvbHlr74fUQM9z5dDyhXZJVyHO-5Dh2_cptIThZDf1Gi3LE90zXHjPm4QSq_FOBGmPf5FIamQq8ap2yPxmNu7VpZZUT3nUK5gc21ibebrbRuDxfcfP9To057Kaf663mNzTgXwb8K4B9ZQxy-l7_-XL9psGC0OMLUXgCGpJHGdUMpGrIuPzyOlDBO2uhP0NXLtcCUVZVLPN37jWyVEMgNxnUCkx_IEvkt2Z5I6MtgfqH8lnXvXkLYzXMu3W7HlKwzdx_Z_d3Owmd9FZNcPvg7srALOhJW5YPkk1yvIZOo14&lipi=urn%3Ali%3Apage%3Ad_learning_content%3BGAwvuj%2FdSZqaUqN4IDdyYg%3D%3D&licu" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true" frameborder="0" style="position:absolute;width:100%;height:100%;left:0"></iframe></div><p><strong><a href="https://www.linkedin.com/learning/learning-adobe-xd-2020/designing-for-different-screen-sizes?trk=embed_lil">Designing for different screen sizes</a></strong> from <strong><a href="https://www.linkedin.com/learning/learning-adobe-xd-2020?trk=embed_lil">Learning Adobe XD (2020)</a></strong> by <strong><a href="https://www.linkedin.com/learning/instructors/tom-green?trk=embed_lil">Tom Green</a></strong></p>
-
-
-## 5) Adobe XD: Working on your own wireframe prototype
-Now, use the skills you learned so far to create a vertical slice of only the screen(s) where you computer vision algorithm is actively used in Adobe XD.
+## 4) Proto.io: Create a vertical slice for your wireframe prototype
+Now, use the skills you learned so far to create a vertical slice of only the screen(s) where you computer vision algorithm is actively used in Proto.io.
 
 So for the beer bottle scanner app, this would just be the camera and what the user can do there; which user stories are connected to using that feature?
 

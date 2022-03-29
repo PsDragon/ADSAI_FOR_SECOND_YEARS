@@ -32,6 +32,26 @@ Good luck!
 The kick-off has been scheduled in your calendar but can also be attended by (clicking this link)(www.venray.nl). The kick-off outlines what this module is about, how we will learn about HCAI and how we will assess your final deliverable: a wireframe prototype!
 Missed the kick-off? Watched it back over here!
 
+## 2) Introduction to wireframe prototyping using Proto.io
+[Look at the intro video of Proto.io](https://support.proto.io/hc/en-us/articles/220425988-Introduction-to-Proto-io-6), create a [user account](https://proto.io/en/signup/) and install the latest version of the software: Proto.io 6! Use the free trail using you student email account.
+
+Then watch the following videos and follow the instructions to get to know how to use the Proto.io application! Pause the video whenever you know how to create one of the 3 requirements below in Proto.io. It's really quite intuitive; as is to be expected of a design application! For now we are just going to create:
+1. a basic start screen with a button to continue to the main menu;
+2. a main menu screen with a button to exit the application and a button to lead to our computer vision application (empty panel)
+3. an empty panel for the computer vision application which leads back to the main menu.
+
+<iframe src="https://player.vimeo.com/video/180154545?h=160768ae29" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/180154545">Proto.io Essentials, Episode 1</a> from <a href="https://vimeo.com/protoio">Proto.io</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<iframe src="https://player.vimeo.com/video/180284484?h=e40946b73a" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/180284484">Proto.io Essentials, Episode 2</a> from <a href="https://vimeo.com/protoio">Proto.io</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<iframe src="https://player.vimeo.com/video/180290210?h=1268c31048" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/180290210">Proto.io Essentials, Episode 3</a> from <a href="https://vimeo.com/protoio">Proto.io</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+
+Now that we have come to grips with creating a wireframe prototype using Proto.io, we're going to save our project to Github and continue with understanding what makes up good user interaction. Tomorrow we will continue to design our prototype, specifically we are going to design a vertical slice for our own computer vision algorithm!
+
 ## 2) Interaction Design
 Interaction is all about change: by exchanging information in the form of data or energy we're creating some kind of new state in the world. I can for example gain new information in the form of data by vision, sound or vibrations; this new information makes the user aware of something; changing the internal state of the user. Or I can exchange information in the form of energy by kicking a football and which after my interaction will interact further with the environment. What it essentially comes down to when you are designing for interaction is that you create some kind of change which the user can anticipate and understand without thinking: Design should be intuitive.
 
@@ -48,9 +68,8 @@ So now that we learned why some doors are more frustrating then other, and how w
 **Did you do the full course already? Make sure to get the certificate an upload it to GitHub and evidence it in both your worklog and learning log!**
 
 
-## 3) Working on your wireframe!:
-
-bla bla bla
+## 3) Working on your wireframe!
+Time left? Continue working on building your wireframe prototype for the remainder of the day! I'm sure you have some ideas and it's always fun to try them out: testing and trying out ideas is one of the most crucial things about design!
 
 ## Next up!
 Coming Datalab we will reflect on Interaction Design and User Experience!

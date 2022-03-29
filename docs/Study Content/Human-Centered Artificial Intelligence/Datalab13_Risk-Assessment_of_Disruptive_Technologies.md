@@ -46,7 +46,7 @@ We start by briefly reflecting on what we learned about interaction and inferace
 ## 2) Introduction to Disruptive Technologies
 Covered by a interactive lecture where we'll present you with the different stages of disruptive technologies and some examples we'll explore together!
 
-You can find [the slides here](www.google.com)!
+You can find [the slides here](www.google.com )!
 
 ## 3) High-level Design
 **Open your HCAI Design Document.**
@@ -54,8 +54,9 @@ You can find [the slides here](www.google.com)!
 Discuss your designs with your peers and collect their feedback. Create a notes section in your design document and note down any relevant feedback for or against any of your problems or solutions (and elements thereof). Take turns and go through the following steps:
 1. explain your problems;
 2. explain your possible solutions (the divergent ones);
-3. explain your choses solution (the convergent one);
-4. reiterate with a plan based on the feedback given by your peers.
+3. explain your chosen solution (the convergent one);
+4. identify potential disruptive technology risk for your chosen solution;
+5. reiterate with a plan based on the feedback given by your peers.
 
 **Save your HCAI Design Document to GitHub.**
 

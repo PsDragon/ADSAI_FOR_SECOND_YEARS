@@ -14,10 +14,10 @@ After this module you'll:
 4. iterate on your high-level design based on legal constraints.
 
 Table of contents:
-0. Stand-up: 0.5 hours
+0. Stand-up & Q&A: 0.5 hours
 1. Q&A
-2. High-level Design: 1.5 hours
-3. Disruptive Technology: 1.5 hours
+2. Disruptive Technology: 1.5 hours
+3. High-level Design: 1 hours
 4. Lunch: 1 hour - 12:00
 5. GDPR Application: 4 hours
 
@@ -43,7 +43,12 @@ We start by hosting a stand-up. Form groups of ~ 5 and run on-another through th
 ## 1) Q & A
 We start by briefly reflecting on what we learned about interaction and inferace design. Do you have any questions? Now is the time to ask them!
 
-## 2) High-level Design
+## 2) Introduction to Disruptive Technologies
+Covered by a interactive lecture where we'll present you with the different stages of disruptive technologies and some examples we'll explore together!
+
+You can find [the slides here](www.google.com)!
+
+## 3) High-level Design
 **Open your HCAI Design Document.**
 
 Discuss your designs with your peers and collect their feedback. Create a notes section in your design document and note down any relevant feedback for or against any of your problems or solutions (and elements thereof). Take turns and go through the following steps:
@@ -53,11 +58,6 @@ Discuss your designs with your peers and collect their feedback. Create a notes 
 4. reiterate with a plan based on the feedback given by your peers.
 
 **Save your HCAI Design Document to GitHub.**
-
-## 3) Introduction to Disruptive Technologies
-Covered by a interactive lecture where we'll present you with the different stages of disruptive technologies and some examples we'll explore together!
-
-You can find [the slides here](www.google.com)!
 
 ## 4) Workshop on the GDPR
 You already learned about the General Data Protection Regulation framework of the European Union ofcourse. That was a lot of documentation back then. Here we just do a summary video instead and then we'll walk through a checklist and note down where we don't comply or need to take some form of action or design decision regarding our app. That's how we do it in the real-world; we concretely apply it to create something. Watch the video (or not if you remember everthing well enough):

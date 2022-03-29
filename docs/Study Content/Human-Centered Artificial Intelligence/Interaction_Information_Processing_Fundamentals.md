@@ -12,7 +12,7 @@ After this module you'll:
 2. Understand the Network-Enabled Cognition Hypothesis;
 3. Know and Apply Design Thinking;
 4. Basic Human-Centered AI principles;
-5. Create a high-level design for HCAI applications;
+5. Create a high-level design for HCAI applications.
 
 Table of contents:
 0. Kick-off: 0.5 hours
@@ -34,8 +34,8 @@ Tip: Note down any important questions you might have!
 Good luck!
 
 ## 0) Kick-off
-The kick-off has been scheduled in your calendar but can also be attended by (clicking this link)(www.venray.nl). The kick-off outlines what this module is about, how we will learn about HCAI and how we will assess your final deliverable: a wireframe prototype!
-Missed the kick-off? Watched it back over here!
+The kick-off has been scheduled in your calendar but can also be attended by [clicking this link](www.venray.nl). The kick-off outlines what this module is about, how we will learn about HCAI and how we will assess your final deliverable: a wireframe prototype!
+Missed the kick-off? Watched it back [over here!](www.google.com)
 
 ## 1) Introduction to Iteraction and Information Processing Fundamentals
 To figure out how data-driven application for humans work, especially AI operated ones, we first require a deeper understanding of what it means for humans to interact and proces information. So, how do humans interact with the world and how do they proces information? The following video explains how information processing, the environment and our online environment are actually one continous proces. Information isn't created or processed simply in one place but a result of interaction between multiple entities; these can be objects interacting with object, or with phenomena or with humans. That's what the theory of the Extended Mind and Network Enabled Cognition is about! Let's dive into it and explain the context of interacting with information!

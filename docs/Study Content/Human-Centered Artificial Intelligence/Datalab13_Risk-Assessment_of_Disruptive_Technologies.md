@@ -96,6 +96,7 @@ Tomorrow, we will cover interaction design more deeply!
 - [Computer vision](https://www.logikk.com/articles/disruptive-computer-vision-applications/#:~:text=Computer%20Vision's%20Disruptive%20Impact&text=Computer%20vision%20technology%20is%20still,work%2C%20travel%2C%20and%20live)
 - [Speech processing](https://meticulousblog.org/top-10-companies-in-speech-and-voice-recognition-market/)
 - [NLP](https://www.europeanbusinessreview.com/natural-language-processing-nlp-applications-in-business/)
+- [Risks Overview](https://www.resolver.com/blog/risks-disruptive-innovation-technology/)
 
 ## Recommend Literature:
 −	[Interaction Design: beyond human-computer interaction](https://login.proxy1.dom1.nhtv.nl/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cat01829a&AN=buas.303541695&site=eds-live)   

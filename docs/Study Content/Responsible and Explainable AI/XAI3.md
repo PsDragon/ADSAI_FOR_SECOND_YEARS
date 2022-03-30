@@ -205,6 +205,15 @@ If you find some concepts tricky to understand, take notes and bring them to cla
 
 # Assignments
 
+- [ ] {optional} watch this video to understand more about the software package developed to implement these methods. Please keep in mind that this package is still in it's development stage (and bugs are to be expected).\
+
+<!-- blank line -->
+<figure class="video_container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NAxk8P1wvAw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
+
+
 - [ ] Use any image (no cats please) and a corresponding imagenet class to explore what do neural networks (in particular, **VGG16**) see when they classify that image. Specifically,
   - [ ] Go [here](https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a) for a mapping of class labels to human descriptions
   - [ ] Use any label you find interesting (e.g., Banana) note down the class label index

@@ -205,7 +205,7 @@ If you find some concepts tricky to understand, take notes and bring them to cla
 
 # Assignments
 
-- [ ] Use any image (no cats please) and a corresponding imagenet class to explore what do neural networks see when they classify that image. Specifically,
+- [ ] Use any image (no cats please) and a corresponding imagenet class to explore what do neural networks (in particular, **VGG16**) see when they classify that image. Specifically,
   - [ ] Go [here](https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a) for a mapping of class labels to human descriptions
   - [ ] Use any label you find interesting (e.g., Banana) note down the class label index
   - [ ] Use google search to search for images of the class you have chosen.

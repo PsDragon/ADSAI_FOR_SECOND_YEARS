@@ -205,7 +205,7 @@ If you find some concepts tricky to understand, take notes and bring them to cla
 
 # Assignments
 
-- [ ] {optional} watch this video to understand more about the software package developed to implement these methods. Please keep in mind that this package is still in it's development stage (and bugs are to be expected).\
+- [ ] {optional} Watch this video to understand more about the software package developed to implement these methods. Please keep in mind that this package is still in it's development stage (and bugs are to be expected).
 
 <!-- blank line -->
 <figure class="video_container">

@@ -4,7 +4,7 @@ sort: 1
 
 # Interaction & Information Processing Fundamentals
 
-We start our dive into Human-Centered Artificial Intelligence (HCAI) with a general introduction to interaction design and information processing with regards to humans. How do they interact with information and why do we interact with information in the first place? Then, we're going to look into a couple of design techniques after which we'll apply them on our project in preperation for upcoming datalab!
+We start our dive into Human-Centered Artificial Intelligence (HCAI) with a general introduction to interaction design and information processing with regards to humans. How do they interact with information and why do we interact with information in the first place? Then, we're going to look into a couple of design techniques after which we'll apply them on our project in preparation for upcoming datalab!
 
 ## 0) Learning Objectives:
 After this module you'll:
@@ -34,7 +34,10 @@ Tip: Note down any important questions you might have!
 Good luck!
 
 ## 0) Kick-off
-The kick-off has been scheduled in your calendar but can also be attended by [clicking this link](www.venray.nl). The kick-off outlines what this module is about, how we will learn about HCAI and how we will assess your final deliverable: a wireframe prototype!
+The kick-off has been scheduled in your calendar but can also be attended by [clicking this link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjRjYTA1NmEtY2M1YS00YTNmLWJmZTgtZGYzNTEwMzcxNjU2%40thread.v2/0?context=%7b%22Tid%22%3a%220a33589b-0036-4fe8-a829-3ed0926af886%22%2c%22Oid%22%3a%225cef929d-ecf9-4fca-bf12-bc5ee065fc99%22%7d). The kick-off outlines what this module is about, how we will learn about HCAI and how we will assess your final deliverable: a wireframe prototype!
+
+Want to see the slides? [Click this link!](https://github.com/BredaUniversityADSAI/ADS-AI/blob/c7bb8d2d2aaed55f0b755c60ec003df35421dde2/docs/Study%20Content/Human-Centered%20Artificial%20Intelligence/Assets/HCAI%20Kick-off.pptx)
+
 Missed the kick-off? Watched it back [over here!](www.google.com)
 
 ## 1) Introduction to Iteraction and Information Processing Fundamentals
@@ -69,7 +72,7 @@ Watch the videos below and then make the excercises!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cmBf1fBRXms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## 3) Workshop Part 1: Generic High-level Design
+## 3) Workshop Part 1: High-level Design
 Try to be concrete and clear when writing you designs out, keep a section somewhere for notes apart from what you work out below. Remember that you can orally present and discuss your designs tomorrow in Datalab.
 
 To start with: create a digital document (Microsoft Word, and remember that you have to evidence it), call it 'HCAI Design Document - [NameOfApplication] - [StudentName]', save the blank doc to GitHub, and record the following:
@@ -97,11 +100,11 @@ As was the case with the mobile revolution, and the web before that, ML will cau
 
 Want to know more? You can read this article on [Human-Centered Machine Learning!](https://medium.com/google-design/human-centered-machine-learning-a770d10562cd)
 
-## 5) Workshop Part 2: Designing Human-Centered AI Applications
-Now, we're going to look at our problem-solution as if there is a human agent/servant doing all the work and interaction so we can distill how our application should respond to the user.
+## 5) Workshop Part 2: High-Level Design for Human-Centered AI Applications
+Now, we're going to look at our problem-solution as if there is a human agent/servant doing all the work and interaction so we can distill how our application should respond to the user. If you are struggling, take a look at the [People + AI Guidebook](https://pair.withgoogle.com/guidebook) from Google, it's a great guide for designing HCAI applications!
 
 **Open your HCAI Design Document** and answer the following questions in it:
-1. Why does the problem you are solving with your application benefits more from an AI solution than a traditional solution?
+1. Why does the problem you are solving with your application benefits more from an AI solution than a traditional solution (so without machine/deep learning)?
 2. How would you describe the way a theoretical human “expert” might perform the task today?
 3. If your human expert were to perform this task, how would you respond to them so they improved for the next time?
 4. If a human expert were to perform this task, what assumptions would the user want them to make?
@@ -118,6 +121,7 @@ Tomorrow in Datalab, we will also cover disruptive technologies and see how well
 ## Recommend Literature:
 −	[Interaction Design: beyond human-computer interaction](https://login.proxy1.dom1.nhtv.nl/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cat01829a&AN=buas.303541695&site=eds-live)   
 −	[UX Fundamentals for Non-UX Professionals : User Experience Principles for Managers, Writers, Designers, and Developers](https://login.proxy1.dom1.nhtv.nl/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edsebk&AN=1892077&site=eds-live)
+- [People + AI Guidebook](https://pair.withgoogle.com/guidebook)
 
 ## Further Reading:
 −	[Designing with Data](http://shop.oreilly.com/product/0636920026228.do)

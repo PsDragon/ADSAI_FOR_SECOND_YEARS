@@ -58,12 +58,7 @@ Discuss your designs with your peers and collect their feedback. Create a notes 
 ## 3) Introduction to Disruptive Technologies
 Covered by a interactive lecture where we'll present you with the different stages of disruptive technologies and some examples we'll explore together!
 
-You can find [the slides here](https://github.com/BredaUniversityADSAI/ADS-AI/blob/4fea4bc3536989690ff7e7e4223b5ecbd5e3631b/docs/Study%20Content/Human-Centered%20Artificial%20Intelligence/Assets/Distruptive%20technologies%20-%20Lecture.pptx)!
-
-The lecture has been scheduled in your calendar but can also be attended by [clicking this link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTczMDEzYjctODdiOS00MGM0LWFkMWQtMjE5NTM4MDk2ZTI4%40thread.v2/0?context=%7b%22Tid%22%3a%220a33589b-0036-4fe8-a829-3ed0926af886%22%2c%22Oid%22%3a%225cef929d-ecf9-4fca-bf12-bc5ee065fc99%22%7d)!
-
-A video recording of the lecture can be found [over here](LINK) after it was conducted and uploaded.
-
+You can find [the slides here](www.google.com )!
 
 ### Let's apply our knowledge!
 **Open your HCAI Design Document.**
@@ -74,21 +69,19 @@ A video recording of the lecture can be found [over here](LINK) after it was con
 
 **Save your HCAI Design Document to GitHub.**
 
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Done? Time to get some lunch and chill! Be back at 13:00 for a lecture on HCAI fundamental and differences with traditional human-computer interaction!
- </div>
+## 4) Workshop on the GDPR
+You already learned about the General Data Protection Regulation framework of the European Union ofcourse. That was a lot of documentation back then. Here we just do a summary video instead and then we'll walk through a checklist and note down where we don't comply or need to take some form of action or design decision regarding our app. That's how we do it in the real-world; we concretely apply it to create something. Watch the video (or not if you remember everthing well enough):
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Assdm6fIHlE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## 4) HCAI: Fundamentals & Differences with Traditional Human-Computer Interaction
-You can find [the slides here](https://github.com/BredaUniversityADSAI/ADS-AI/blob/c7bb8d2d2aaed55f0b755c60ec003df35421dde2/docs/Study%20Content/Human-Centered%20Artificial%20Intelligence/Assets/HCAI%20Fundamentals%20and%20Differences%20with%20Traditional%20Human-Computer%20Interaction.pptx)!
+1. Create a section in your HCAI Design Document and call it *GDPR Complaince* and *save it GitHub*!
+2. Walkthrough the GDPR checklist and note where you are not complying to a given Data Protection Regulation, also note down it's number and how you are not complying:
+Use [the following tool](https://gdpr.eu/checklist/) to do this!
+3. For every Data Protection Regulation you are not complying with: note down the protections and protocols you need to put in place to ensure complaince.
+4. Integrate these in your design: Add all these protections and protocols to your design document!
 
-The lecture has been scheduled in your calendar but can also be attended by [clicking this link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzlkYzZhMGYtNjA4Yy00MTY0LTg2YjktNDc0NWU0ZWY2MDZl%40thread.v2/0?context=%7b%22Tid%22%3a%220a33589b-0036-4fe8-a829-3ed0926af886%22%2c%22Oid%22%3a%225cef929d-ecf9-4fca-bf12-bc5ee065fc99%22%7d)!
+**Save your HCAI Design Document to GitHub.**
 
-A video recording of the lecture can be found [over here](LINK) after it was conducted and uploaded.
-
-## 5) Introduction to Wireframe prototyping using Proto.io
-
-
-## 6) In-Class Discussion
+## 5) In-Class Discussion
 At 16:30, there's a class meeting where we'll discuss our progress and reflect on today activities.
 
 ## Up Next!

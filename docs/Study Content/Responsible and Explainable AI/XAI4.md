@@ -29,7 +29,7 @@ What are adverserial examples? As we may have seen so far, sometimes neural netw
 
 - [ ] A machine-learning powered scanner scans suitcases for weapons at the airport. A knife was developed to avoid detection by making the system think it is an umbrella.
 
-These examples are known as **adverserial examples** and they are a critical threat to the adoption of AI in a lot of industried. Please watch this video to learm more about adverserial examples and the threat they pose.
+These examples are known as **adverserial examples** and they are a critical threat to the adoption of AI in a lot of industries. Please watch this video to learm more about adverserial examples and the threat they pose.
 
 <!-- blank line -->
 <figure class="video_container">

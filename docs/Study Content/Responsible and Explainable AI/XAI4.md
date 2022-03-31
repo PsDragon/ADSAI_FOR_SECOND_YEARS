@@ -49,14 +49,14 @@ Start by watching this video giving an overview of XAI and the current state of 
 <!-- blank line -->
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Now that you have gained more insight into Responsible and Explainable AI. Please summarize your thoughts on the field in an essay of ~1000 words by picking a topic of interest.
+Now that you have gained more insight into Responsible and Explainable AI. Please summarize your thoughts on the field in an essay of ~1000 words by picking a topic (or method) of interest.
  </div>
 
 Specifically
 1. Provide a general introduction to the topic
 2. Illustrate it's application with an example
 3. Discuss it's advantages and limitations (as you perceive them) critically.
-4. Upload your essays to Github.
+4. Upload your essays to Github and please remember to cite resources used.
 
 Now, it's time to sharpen your critical pens. Please watch the following discussion to get some ideas for your paper. .
 

@@ -38,7 +38,7 @@ Please refer to the project brief for more detailed information.
 
 ### Creative Brief Requirements:
 - [ ] **Dataset**: Google Open images <br>
-- [ ] **Class Labels**: Pick 15 labels among all the image level labels present in the data. <br>
+- [ ] **Class Labels**: Pick a maximum of 5 labels among all the image level labels present in the data. <br>
 - [ ] **Tools**: Keras, Numpy, Matplotlib <br>
 - [ ] **Prototype**: Wireframe demo of your application made in Adobe XD. <br>
 

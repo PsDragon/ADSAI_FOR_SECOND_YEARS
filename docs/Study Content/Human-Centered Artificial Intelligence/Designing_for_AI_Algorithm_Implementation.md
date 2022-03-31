@@ -5,8 +5,8 @@ sort: 9
 # Designing for AI Algorithms Implementation
 Today we start with some reading: an article how to design for the implementation of AI Algorithms. The rest of the day is mostly about working on your wireframe prototype!
 
-## 0) Learning Objectives:
-After this module you'll know how to designing for AI Algorithms implementation.
+## Learning Objectives:
+After this module, you'll know how to designing for AI Algorithms implementation.
 
 Table of contents:
 1. Designing for AI Algorithms Implementation: 2 hours

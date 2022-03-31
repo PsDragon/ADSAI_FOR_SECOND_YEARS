@@ -5,8 +5,8 @@ sort: 6
 # User Testing
 Today we will learn about user feedback and user testing. Then we are going to take our new knowledge; as well as the feedback on your design collected last datalab, and apply it to our design to create a new vertical slice for our wireframe prototype!
 
-## 0) Learning Objectives:
-After this module you'll be able to:
+## Learning Objectives:
+After this module, you'll be able to:
 1. create rewarding user feedback;
 2. create and conduct various user tests in UX;
 3. create and deploy a digital vertical slice of your wireframe prototype.

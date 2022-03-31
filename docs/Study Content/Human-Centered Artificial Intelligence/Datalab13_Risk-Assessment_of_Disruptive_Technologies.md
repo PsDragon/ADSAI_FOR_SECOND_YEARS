@@ -3,23 +3,25 @@ sort: 2
 ---
 
 # Datalab 13: Risk-Assessment of Disruptive Technologies
-Yesterday, you essentially the started making the high-level design of your application. Today, you'll review your design with your peers and apply the GDPR framework on it to see where we might run into problems and identify where we need to iterate on our design. But, before we look at the GDPR, we're going to dicuss disruptive technologies!
+Yesterday, you essentially started making the high-level design of your application. Today, you'll review your design with your peers and learn how to build it into a prototype you can actually use! But, before we are going to learn how to make a prototype, we are going to discuss disruptive technologies, HCAI fundamentals, trends and how it compares to traditional human-computer interaction! It's more lectures than you're used to from us, but it will be a lot of material but also a lot of fun!
 
 
-## 0) Learning Objectives:
-After this module you'll:
-1. be able to identify disruptive technologies and the different stages thereof;
-2. create and justify a high-level design for an application;
-3. apply the GDPR framework to a high-level design;
-4. iterate on your high-level design based on legal constraints.
+## Learning Objectives:
+After this module, you'll:
+1. create and justify a high-level HCAI design for an application;
+2. be able to iterate on your high-level design based using peer-reviews;
+3. be able to identify and adress disruptive technologies and the different stages thereof;
+3. know the HCAI fundamentals & applications thereof;
+5. prototyping HCAI application using wireframe software;
 
 Table of contents:
-0. Stand-up & Q&A: 0.5 hours
-1. Q&A
-2. High-level Design Review: 1 hours
+1. Stand-up & Q&A: 0.5 hours
+2. High-level Design Review: 1 hour
 3. Disruptive Technology: 1.5 hours
-4. Lunch: 1 hour - 12:00
-5. GDPR Application: 4 hours
+    Lunch: 12:00 - 13:00
+4. Human-Centered AI Fundamentals & Applications **Lecture**: 1.5 hours
+5. Introduction to Wireframe prototyping using Proto.io: 1.5 Hours
+6. In-Class Discussion: 0.5 Hours
 
 
 ## Questions or issues?
@@ -31,7 +33,7 @@ Tip: Note down any important questions you might have!
 
 Good luck!
 
-## 0) Stand-up
+## 1) Stand-up
 We start by hosting a stand-up. Form groups of ~ 5 and run on-another through the following points:
 - What progress have you made up since last datalab?
 - What progress do you anticipate to make today?
@@ -40,11 +42,11 @@ We start by hosting a stand-up. Form groups of ~ 5 and run on-another through th
 
 **Open your worklog and plan your day informed by the stand-up and today's schedule**
 
-## 1) Q & A
-We start by briefly reflecting on what we learned about interaction and inferace design. Do you have any questions? Now is the time to ask them!
+### Q & A
+We start by briefly reflecting on what we learned yesterday. Do you have any questions? Now is the time to ask them!
 
-## 2) High-level Design Review
-**Open your HCAI Design Document.**
+## 2) High-level Design Peer Review
+**Open your HCAI Design Document**, and create a header called 'High-level Design Peer Review' followed by a numeric list to record the following excercise:
 
 Discuss your designs with your peers and collect their feedback. Create a notes section in your design document and note down any relevant feedback for or against any of your problems or solutions (and elements thereof). Take turns and go through the following steps:
 1. explain your problems;
@@ -54,23 +56,26 @@ Discuss your designs with your peers and collect their feedback. Create a notes 
 
 **Save your HCAI Design Document to GitHub.**
 
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Tip: Doing peer reviews on your design is a critical practice and something you should often do on your initiative! Be sure to record the feedback using the process above to present, record and address the feedback! It's an essential part of designing; you will forget why you did things the way you did otherwise!
+ </div>
 
 ## 3) Introduction to Disruptive Technologies
-Covered by a interactive lecture where we'll present you with the different stages of disruptive technologies and some examples we'll explore together!
+In this interactive lecture, we'll present you with the different stages of disruptive technologies and some examples we'll explore together using in-class discussions!
 
 You can find [the slides here](https://github.com/BredaUniversityADSAI/ADS-AI/blob/4fea4bc3536989690ff7e7e4223b5ecbd5e3631b/docs/Study%20Content/Human-Centered%20Artificial%20Intelligence/Assets/Distruptive%20technologies%20-%20Lecture.pptx)!
 
-The lecture has been scheduled in your calendar but can also be attended by [clicking this link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTczMDEzYjctODdiOS00MGM0LWFkMWQtMjE5NTM4MDk2ZTI4%40thread.v2/0?context=%7b%22Tid%22%3a%220a33589b-0036-4fe8-a829-3ed0926af886%22%2c%22Oid%22%3a%225cef929d-ecf9-4fca-bf12-bc5ee065fc99%22%7d)!
+The lecture has been scheduled in your agenda but can also be attended by [clicking this link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTczMDEzYjctODdiOS00MGM0LWFkMWQtMjE5NTM4MDk2ZTI4%40thread.v2/0?context=%7b%22Tid%22%3a%220a33589b-0036-4fe8-a829-3ed0926af886%22%2c%22Oid%22%3a%225cef929d-ecf9-4fca-bf12-bc5ee065fc99%22%7d)!
 
-A video recording of the lecture can be found [over here](LINK) after it was conducted and uploaded.
+A video recording of the lecture can be found [over here](https://github.com/BredaUniversityADSAI/ADS-AI/blob/1a99917ba82bff3ed1df1613b29dffb027acf279/docs/Study%20Content/Human-Centered%20Artificial%20Intelligence/Assets/comingSoon.jpg) after it was given and uploaded!
 
 
 ### Let's apply our knowledge!
-**Open your HCAI Design Document.**
+**Open your HCAI Design Document**, and create a header called 'Disruptive Technology Risks' followed by a numeric list to record the following excercise:
 
-1. Identify and write down potential disruptive technology risk for your chosen solution in the form of a problem-statement with any required background information;
-2. Discuss the potential disruptive technology risks with two peers and record their feedback;
-3. Address each potential disruptive technology risk by creating a short, written solution to the problem statement in 100 words or less. In some cases  you might not be able to come up with a solution for a given problem, or a problem might not be solveable at all. In this case: clearly explain why you might not be able to come up with a solution for a given problem in 100 words or less.
+1. Identify and write down potential disruptive technology risks for your chosen solution in the form of a problem statement with any required background information;
+2. Discuss the potentially disruptive technology risks with two peers and record their feedback;
+3. Address each potential disruptive technology risk by creating a short, written solution to the problem statement in 100 words or less. In some cases, you might not be able to develop a solution for a given problem, or a problem might not be solvable at all. In this case: clearly explain why you might not be able to come up with a solution for a given problem in 100 words or less.
 
 **Save your HCAI Design Document to GitHub.**
 
@@ -78,21 +83,39 @@ A video recording of the lecture can be found [over here](LINK) after it was con
 Done? Time to get some lunch and chill! Be back at 13:00 for a lecture on HCAI fundamental and differences with traditional human-computer interaction!
  </div>
 
-## 4) HCAI: Fundamentals & Differences with Traditional Human-Computer Interaction
+## 4) Human-Centered AI Fundamentals & Applications
 You can find [the slides here](https://github.com/BredaUniversityADSAI/ADS-AI/blob/c7bb8d2d2aaed55f0b755c60ec003df35421dde2/docs/Study%20Content/Human-Centered%20Artificial%20Intelligence/Assets/HCAI%20Fundamentals%20and%20Differences%20with%20Traditional%20Human-Computer%20Interaction.pptx)!
 
-The lecture has been scheduled in your calendar but can also be attended by [clicking this link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzlkYzZhMGYtNjA4Yy00MTY0LTg2YjktNDc0NWU0ZWY2MDZl%40thread.v2/0?context=%7b%22Tid%22%3a%220a33589b-0036-4fe8-a829-3ed0926af886%22%2c%22Oid%22%3a%225cef929d-ecf9-4fca-bf12-bc5ee065fc99%22%7d)!
+The lecture has been scheduled in your agenda but can also be attended by [clicking this link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzlkYzZhMGYtNjA4Yy00MTY0LTg2YjktNDc0NWU0ZWY2MDZl%40thread.v2/0?context=%7b%22Tid%22%3a%220a33589b-0036-4fe8-a829-3ed0926af886%22%2c%22Oid%22%3a%225cef929d-ecf9-4fca-bf12-bc5ee065fc99%22%7d)!
 
-A video recording of the lecture can be found [over here](LINK) after it was conducted and uploaded.
+A video recording of the lecture can be found [over here](https://github.com/BredaUniversityADSAI/ADS-AI/blob/1a99917ba82bff3ed1df1613b29dffb027acf279/docs/Study%20Content/Human-Centered%20Artificial%20Intelligence/Assets/comingSoon.jpg) after it was given and uploaded.
 
 ## 5) Introduction to Wireframe prototyping using Proto.io
+[Look at the intro video of Proto.io](https://support.proto.io/hc/en-us/articles/220425988-Introduction-to-Proto-io-6), create a [user account](https://proto.io/en/signup/) and install the latest version of the software: Proto.io 6! Use the free trail using you student email account.
 
+Then watch the following videos and follow the instructions to get to know how to use the Proto.io application! Pause the video whenever you know how to create one of the 3 requirements below in Proto.io. It's really quite intuitive; as is to be expected of a design application! For now we are just going to create:
+1. a basic start screen with a button to continue to the main menu;
+2. a main menu screen with a button to exit the application and a button to lead to our computer vision application (empty panel)
+3. an empty panel for the computer vision application which leads back to the main menu.
+
+<iframe src="https://player.vimeo.com/video/180154545?h=160768ae29" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/180154545">Proto.io Essentials, Episode 1</a> from <a href="https://vimeo.com/protoio">Proto.io</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<iframe src="https://player.vimeo.com/video/180284484?h=e40946b73a" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/180284484">Proto.io Essentials, Episode 2</a> from <a href="https://vimeo.com/protoio">Proto.io</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<iframe src="https://player.vimeo.com/video/180290210?h=1268c31048" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/180290210">Proto.io Essentials, Episode 3</a> from <a href="https://vimeo.com/protoio">Proto.io</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+No finished? Don't worry, we are going to continue working on this tomorrow!
+ </div>
 
 ## 6) In-Class Discussion
 At 16:30, there's a class meeting where we'll discuss our progress and reflect on today activities.
 
 ## Up Next!
-Tomorrow, we will cover interaction design more deeply!
+Tomorrow, we will cover interaction design on a deeper level; especially covering more cool techniques!
 
 
 # Resources

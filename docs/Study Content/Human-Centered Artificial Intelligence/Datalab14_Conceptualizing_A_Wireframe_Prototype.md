@@ -5,8 +5,8 @@ sort: 5
 # Datalab 14: Conceptualizing a Wireframe Prototype
 Today we're going to cover user testing as a means to prototype our application. We're first going to review our vertical slice prototypes with our peers by means of a user test. Then we're going to have a Wizzard of Oz workshop and user test to prototype the AI component of our application!
 
-## 0) Learning Objectives:
-After this module you'll be able to run and conduct:
+## Learning Objectives:
+After this module, you'll be able to run and conduct:
 1. User testing;
 2. Wizzard of Oz user testing;
 
@@ -77,7 +77,7 @@ At 14:30, there's a meeting you're encouraged to take part in to ask questions a
 
 
 ## 5) Work on Creative brief
-Implement your findings in your wireframe prototype! 
+Implement your findings in your wireframe prototype!
 
 ## Up Next!
 Next week, we will continue building our Interface Design skills and work on our wireframe prototype!

@@ -5,8 +5,8 @@ sort: 8
 # User-Centered Design for AI
 When we looked into interaction design, we already covered the basics of Human-Centered AI products and experiences. Today, we're going to dive deeper into this topic and look how our deeper understanding might influence our design and implement these changes. Then, we're going to learn about horizontal prototyping and create a horizontal prototype from our current wireframe!
 
-## 0) Learning Objectives:
-After this module you'll understand and know how to apply the basic principles of:
+## Learning Objectives:
+After this module, you'll understand and know how to apply the basic principles of:
 1. Human-Centered Artifical Intelligence;
 2. UX & AI; Adaptive interfaces;
 3. UX & AI: Recommender systems

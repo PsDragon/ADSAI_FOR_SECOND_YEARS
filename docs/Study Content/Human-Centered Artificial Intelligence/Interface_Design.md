@@ -5,8 +5,8 @@ sort: 4
 # Interface Design
 After covering the basics of interaction design, we're going to look at interface design: the means by which users communicate with computerized devices. We're also going to look into flow theory, engagement and immersioin, and we will cover prototyping techniques, specifically you're going to learn how to build a wireframe prototype in Adobe XD!
 
-## 0) Learning Objectives:
-After this module you'll gain a basic understanding and learn how to apply:
+## Learning Objectives:
+After this module, you'll gain a basic understanding and learn how to apply:
 1. Flow;
 2. Interface Design;
 3. Prototyping with Adobo XD.

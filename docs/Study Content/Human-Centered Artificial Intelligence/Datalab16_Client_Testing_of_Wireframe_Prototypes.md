@@ -5,8 +5,8 @@ sort: 10
 # Datalab 16: Client Testing of Wireframe Prototypes
 The last day of the block, and the last datalab of block C. Time goes fast! Today, we're simply going to use our time to make a client presentation in the form of a video walkthrough of our application! We'll have the time to employ all the design and testing techniques we learned the last two weeks as well.
 
-## 0) Learning Objectives:
-After this module you'll be able to record a client presentation.
+## Learning Objectives:
+After this module, you'll be able to record a client presentation.
 
 
 Table of contents:

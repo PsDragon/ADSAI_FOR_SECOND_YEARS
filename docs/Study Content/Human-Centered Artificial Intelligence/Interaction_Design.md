@@ -6,8 +6,8 @@ sort: 3
 
 For this module we are going to explore the fundamentals of user interaction and experience design. We're going to look at several design techniques and proccesses. After that we're going to see how user interaction and experience differ when working with artificial intelligence applications!
 
-## 0) Learning Objectives:
-After this module you'll gain a basic understanding and learn how to apply:
+## Learning Objectives:
+After this module, you'll gain a basic understanding and learn how to apply:
 1. Interaction Design;
 2. User Experience Design;
 3. Prototyping HCAI application using Wireframe software

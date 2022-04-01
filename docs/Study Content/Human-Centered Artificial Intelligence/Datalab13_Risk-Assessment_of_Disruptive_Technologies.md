@@ -63,7 +63,7 @@ Tip: Doing peer reviews on your design is a critical practice and something you 
 ## 3) Introduction to Disruptive Technologies
 In this interactive lecture, we'll present you with the different stages of disruptive technologies and some examples we'll explore together using in-class discussions!
 
-You can find [the slides here](https://github.com/BredaUniversityADSAI/ADS-AI/blob/4fea4bc3536989690ff7e7e4223b5ecbd5e3631b/docs/Study%20Content/Human-Centered%20Artificial%20Intelligence/Assets/Distruptive%20technologies%20-%20Lecture.pptx)!
+You can find [the slides here](./Assets/Distruptive technologies - Lecture.pptx)!
 
 The lecture has been scheduled in your agenda but can also be attended by [clicking this link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTczMDEzYjctODdiOS00MGM0LWFkMWQtMjE5NTM4MDk2ZTI4%40thread.v2/0?context=%7b%22Tid%22%3a%220a33589b-0036-4fe8-a829-3ed0926af886%22%2c%22Oid%22%3a%225cef929d-ecf9-4fca-bf12-bc5ee065fc99%22%7d)!
 
@@ -84,7 +84,7 @@ Done? Time to get some lunch and chill! Be back at 13:00 for a lecture on HCAI f
  </div>
 
 ## 4) Human-Centered AI Fundamentals & Applications
-You can find [the slides here](https://github.com/BredaUniversityADSAI/ADS-AI/blob/c7bb8d2d2aaed55f0b755c60ec003df35421dde2/docs/Study%20Content/Human-Centered%20Artificial%20Intelligence/Assets/HCAI%20Fundamentals%20and%20Differences%20with%20Traditional%20Human-Computer%20Interaction.pptx)!
+You can find [the slides here](./Assets/HCAI Fundamentals and Differences with Traditional Human-Computer Interaction.pptx)!
 
 The lecture has been scheduled in your agenda but can also be attended by [clicking this link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzlkYzZhMGYtNjA4Yy00MTY0LTg2YjktNDc0NWU0ZWY2MDZl%40thread.v2/0?context=%7b%22Tid%22%3a%220a33589b-0036-4fe8-a829-3ed0926af886%22%2c%22Oid%22%3a%225cef929d-ecf9-4fca-bf12-bc5ee065fc99%22%7d)!
 

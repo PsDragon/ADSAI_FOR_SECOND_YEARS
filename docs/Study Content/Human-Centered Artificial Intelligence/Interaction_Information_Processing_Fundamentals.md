@@ -35,8 +35,8 @@ Good luck!
 
 ## 0) Kick-off
 The kick-off has been scheduled in your agenda but you can also attend by [clicking this link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjRjYTA1NmEtY2M1YS00YTNmLWJmZTgtZGYzNTEwMzcxNjU2%40thread.v2/0?context=%7b%22Tid%22%3a%220a33589b-0036-4fe8-a829-3ed0926af886%22%2c%22Oid%22%3a%225cef929d-ecf9-4fca-bf12-bc5ee065fc99%22%7d). The kick-off outlines what this module is about, how we will learn about HCAI and how we will assess your final deliverable: a wireframe prototype!
-
-Want to see the slides? [Click this link!](https://github.com/BredaUniversityADSAI/ADS-AI/blob/c7bb8d2d2aaed55f0b755c60ec003df35421dde2/docs/Study%20Content/Human-Centered%20Artificial%20Intelligence/Assets/HCAI%20Kick-off.pptx)
+.
+Want to see the slides? [Click this link!](./Assets/HCAI Kick-off.pptx)
 
 Missed the kick-off? Watch it back [over here!](https://github.com/BredaUniversityADSAI/ADS-AI/blob/1a99917ba82bff3ed1df1613b29dffb027acf279/docs/Study%20Content/Human-Centered%20Artificial%20Intelligence/Assets/comingSoon.jpg)
 

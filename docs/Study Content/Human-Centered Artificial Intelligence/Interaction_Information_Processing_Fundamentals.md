@@ -35,7 +35,7 @@ Good luck!
 
 ## 0) Kick-off
 The kick-off has been scheduled in your agenda but you can also attend by [clicking this link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjRjYTA1NmEtY2M1YS00YTNmLWJmZTgtZGYzNTEwMzcxNjU2%40thread.v2/0?context=%7b%22Tid%22%3a%220a33589b-0036-4fe8-a829-3ed0926af886%22%2c%22Oid%22%3a%225cef929d-ecf9-4fca-bf12-bc5ee065fc99%22%7d). The kick-off outlines what this module is about, how we will learn about HCAI and how we will assess your final deliverable: a wireframe prototype!
-.
+
 Want to see the slides? [Click this link!](./Assets/HCAI Kick-off.pptx)
 
 Missed the kick-off? Watch it back [over here!](https://github.com/BredaUniversityADSAI/ADS-AI/blob/1a99917ba82bff3ed1df1613b29dffb027acf279/docs/Study%20Content/Human-Centered%20Artificial%20Intelligence/Assets/comingSoon.jpg)
@@ -79,7 +79,7 @@ Watch the videos below and then make the exercises!
 ## 3) Workshop Part 1: High-level Design
 Try to be concrete and clear when writing your designs out; keep a section somewhere for notes apart from what you work out below. Remember that you have to orally present and discuss your designs tomorrow in Datalab. Not for the class by one-on-one with a peer; just to get feedback which is crucial to create a robust design.
 
-To start with: create a digital document (Microsoft Word, and remember that you have to evidence it), call it 'HCAI Design Document - [NameOfApplication] - [StudentName]', save the blank doc to GitHub. In that document create a header called "High-Level Design" followed by a numeric list, and record the following:
+To start with: create a digital document (Microsoft Word, and remember that you have to evidence it), call it 'HCAI_DesignDocument_[NameOfApplication]_[StudentName]', save the blank doc to GitHub. In that document create a header called "High-Level Design" followed by a numeric list, and record the following:
 1. **Define your problem!**
 - What problem does your algorithm solve?
 - Clearly define your problem statement in max 100 words! You can also only just use one word too; e.g. hunger. Remember, you have to be able to explain it tomorrow!

@@ -4,18 +4,22 @@ sort: 3
 
 # Interaction Design
 
-For this module we are going to explore the fundamentals of user interaction and experience design. We're going to look at several design techniques and proccesses. After that we're going to see how user interaction and experience differ when working with artificial intelligence applications!
+For this module we are going to explore the fundamentals of user interaction and experience design. Before all that however, we're going to finish introducing you to wireframe prototying if you haven't mastered it already. Then we're going to define user stories: it's vital to implement our main features. Our main features are what give our application our unique value: in our case our AI algorithm. Than, we're going to learn about interaction design, after which we're going to work on our vertical slice based on our user stories and interaction design knowledge!
 
 ## Learning Objectives:
 After this module, you'll gain a basic understanding and learn how to apply:
-1. Interaction Design;
-2. User Experience Design;
-3. Prototyping HCAI application using Wireframe software
+1. Defining User Stories;
+2. Interaction Design;
+3. User Experience Design;
+4. Prototyping a vertical slice.
+5. prototyping HCAI application using wireframe software;
+
 
 Table of contents:
-1. Human-Centered AI Fundamentals & Application **Lecture**: 1.5 hours
-2. Interaction Design & User Experience Design: 3.5 hours
-3. Workshop: Applying UX, Interaction Design and HCAI on your project: 2.5 hours
+1. Introduction to wireframe prototyping using Proto.io: 1 hour
+2. Defining User Stories: 1 hour
+3. Interaction Design & User Experience Design: 4 hours
+3. Workshop: Prototyping a vertical slice: 2 hours
 
 **Now, open your worklog and plan the different tasks for today there!**
 
@@ -28,31 +32,40 @@ Tip: Note down any important questions you might have!
 
 Good luck!
 
-## 1) Lecture:
-The kick-off has been scheduled in your calendar but can also be attended by (clicking this link)(www.venray.nl). The kick-off outlines what this module is about, how we will learn about HCAI and how we will assess your final deliverable: a wireframe prototype!
-Missed the kick-off? Watched it back over here!
+## 1) Introduction to wireframe prototyping using Proto.io
+Didn't you manage to finish the introduction to wireframe prototyping using Proto.io yesterday? Then finish yesterday's material first!
 
-## 2) Introduction to wireframe prototyping using Proto.io
-[Look at the intro video of Proto.io](https://support.proto.io/hc/en-us/articles/220425988-Introduction-to-Proto-io-6), create a [user account](https://proto.io/en/signup/) and install the latest version of the software: Proto.io 6! Use the free trail using you student email account.
+**Save your Wireframe Prototype to Github, name it 'HCAI_Wireframe_[NameOfApplication]_[StudentName]' (if you didn't do so already) and note what your did; and your evidence, in your work- and learning-log**
 
-Then watch the following videos and follow the instructions to get to know how to use the Proto.io application! Pause the video whenever you know how to create one of the 3 requirements below in Proto.io. It's really quite intuitive; as is to be expected of a design application! For now we are just going to create:
-1. a basic start screen with a button to continue to the main menu;
-2. a main menu screen with a button to exit the application and a button to lead to our computer vision application (empty panel)
-3. an empty panel for the computer vision application which leads back to the main menu.
+Now that we have come to grips with creating a wireframe prototype using Proto.io, we're going to continue with understanding what makes up good user interaction. Tomorrow we will continue to design our prototype, specifically we are going to design a vertical slice for our own computer vision algorithm!
 
-<iframe src="https://player.vimeo.com/video/180154545?h=160768ae29" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/180154545">Proto.io Essentials, Episode 1</a> from <a href="https://vimeo.com/protoio">Proto.io</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+## 2) Defining User Stories
+Before we can continue building our prototype, we first need to define what would make up our vertical slice using **user stories** after which we are going to learn about interaction design. Then we can use our user stories and interaction design knowledge to build a wireframe prototype using proto.io! Tomorrow in class, we're going to demonstrate our vertical slice prototype to our classmates and gather feedback!
 
-<iframe src="https://player.vimeo.com/video/180284484?h=e40946b73a" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/180284484">Proto.io Essentials, Episode 2</a> from <a href="https://vimeo.com/protoio">Proto.io</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+A vertical slice is essentially the core of your application prototyped and only that. For you that will mean that you design the interaction around how you are going to use the deep learning algorithm; which is going to do the computer vision magic.
 
-<iframe src="https://player.vimeo.com/video/180290210?h=1268c31048" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/180290210">Proto.io Essentials, Episode 3</a> from <a href="https://vimeo.com/protoio">Proto.io</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+The following video will explain this concept in more detail!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jQg27pFGmWA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+So, we already made the algorithm which contains our core functionality and the database. But doing the programming to actually create the real application is something outside the scope of this project. However, the UI and UX is something we can test already for our envisoned applications. So, to start designing the UX; and UI, we need to know what the user needs and wants to do, which is where user stories come in.
 
-Now that we have come to grips with creating a wireframe prototype using Proto.io, we're going to save our project to Github and continue with understanding what makes up good user interaction. Tomorrow we will continue to design our prototype, specifically we are going to design a vertical slice for our own computer vision algorithm!
+Watch following video:
 
-## 2) Interaction Design
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="640" height="360" src="https://www.linkedin.com/learning/embed/software-design-developing-effective-requirements/user-stories?autoplay=false&claim=AQEdMXouytUZwgAAAX2AJ9-QmZzRCVyggq0_gN4OsER1UeDvyb5vFXysEBbnj6yt4EIp7yyj-OKCujqvYam9qXfkZQ-mElXZwAN8um3FRffnKPRW07gamB8f41ZYCfz4tfHrepnMK2V_w0JA8gjvBfYeqnbzM7SabbIV_vAM6qYV2hS4AwSyMoA8CuXJGvSd8G-nwe0tigTADllj-jyPOtf7WqWeeg9dt5Jkt0OSiZ8Ue9T_yQ-iDzGKZArn1o9vNPTnNYYPzvgHxWtMe1FnF7LZ6dz9eqBmEqf8O4lYLMFKJOAB8PBLgty5DqH03DNikHgNo5jmw2Um_VV6D8E-fpgEn9McdPm9Pg-xm3XYqw_kje8Wz7SWgoxOU1hL3NLUsCcwsLm1e_diDmqNTPPI265PXEVNvRX_dTloFPVszs6-CdScGS0kzNtdrQsdSkQKNU8hhnkxJa30PjqxUuht1Ea2bti3ToKoz-5xxX_HScFTcqZ0m0t-yXY4smGcUEiUg24iPvfuTWajxdAesd7VYPJb5KrHG3TiLbXBvkU9tq4yXPz5qobW1LDUvIfuyViPNSolyI6OwHDhp3nLVTFfY63K6uoGPeGevNt3CV47mgeYVetj0vaHOKJuJWrqBlYyt9ypazXKiWUd7kMy6cm6fH1juEvADa5ouLzsw62LIurCJ44obFtVwrnjn2pciMq3hvQd_miKrlS7j9Fk6WPUmlPXAk19AJYyhHJTzFez52syx_xa_hM&lipi=urn%3Ali%3Apage%3Ad_learning_content%3BrPd%2FRTAHQxifYD2luO6XRA%3D%3D&licu" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true" frameborder="0" style="position:absolute;width:100%;height:100%;left:0"></iframe></div><p><strong><a href="https://www.linkedin.com/learning/software-design-developing-effective-requirements/user-stories?trk=embed_lil">User-stories</a></strong> from <strong><a href="https://www.linkedin.com/learning/software-design-developing-effective-requirements?trk=embed_lil">Software Design: Developing Effective Requirements</a></strong> by <strong><a href="https://www.linkedin.com/learning/instructors/neelam-dwivedi?trk=embed_lil">Neelam Dwivedi</a></strong></p>
+
+So, say I have a beer label scanning algorithm, then I want to just build a prototype screen of how the user would see a beer bottle, what information he has, what can he do with that core functionality? My user might be able to click on a pop-up which automatically googles that specific beer or presents him a suggestion of some native library of beers so I can get more information. Or I can save the beer, and add to my library of beers I consumed; with that I may be able to give it a review containing a score, a description and a taste profile (also for ourselfs so we can gather data to imrove the UI and maybe sell users more beer). And every time I scan that beer again, those interaction options will pop-up.
+So, as a user I:
+- can scan beer bottle labels;
+- can save the label;
+- can review the beer *by assigning a score, description and taste profile*;
+- can buy beers based on my taste profile.
+
+Now, **open your HCAI design document, create a section called 'User Stories' and start creating your own user stories.** Use bullet points to list the user stories.
+Tomorrow in class, we're going to demonstrate our vertical slice prototype to our classmates and gather feedback! So make sure to have finished your user stories before the end of the day so you can do some user tests (peer reviews in this case) tomorrow!
+
+**Upload your document to Github!**
+
+## 3) Interaction Design
 Interaction is all about change: by exchanging information in the form of data or energy we're creating some kind of new state in the world. I can for example gain new information in the form of data by vision, sound or vibrations; this new information makes the user aware of something; changing the internal state of the user. Or I can exchange information in the form of energy by kicking a football and which after my interaction will interact further with the environment. What it essentially comes down to when you are designing for interaction is that you create some kind of change which the user can anticipate and understand without thinking: Design should be intuitive.
 
 Like doors, they are great when they are intuitive. Like the door of our classroom. But some doors, they just don't make sense and are very frustrating...
@@ -68,13 +81,16 @@ So now that we learned why some doors are more frustrating then other, and how w
 **Did you do the full course already? Make sure to get the certificate an upload it to GitHub and evidence it in both your worklog and learning log!**
 
 
-## 3) Working on your wireframe!
-Time left? Continue working on building your wireframe prototype for the remainder of the day! I'm sure you have some ideas and it's always fun to try them out: testing and trying out ideas is one of the most crucial things about design!
+## 4) Proto.io: Create a vertical slice for your wireframe prototype
+Now, use the skills you learned so far to create a vertical slice of only the screen(s) where you computer vision algorithm is actively used in Proto.io.
+
+So for the beer bottle scanner app, this would just be the camera and what the user can do there; which user stories are connected to using that feature?
+
 
 ## Next up!
 Coming Datalab we will reflect on Interaction Design and User Experience!
 
-Tomorrow we will first continue to expand our knowledge by applying it a subfield: interface design! We will also continue to further work out our design by creating user stories tomorrow!
+Tomorrow, we will first continue to expand our knowledge by applying it a subfield: interface design! We will also continue to further work out our design by creating user stories tomorrow!
 
 # Resources
 ## Recommend Literature:

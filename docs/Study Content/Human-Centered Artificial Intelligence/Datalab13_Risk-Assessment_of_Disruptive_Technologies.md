@@ -107,6 +107,8 @@ Then watch the following videos and follow the instructions to get to know how t
 <iframe src="https://player.vimeo.com/video/180290210?h=1268c31048" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/180290210">Proto.io Essentials, Episode 3</a> from <a href="https://vimeo.com/protoio">Proto.io</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
+**Save your Wireframe Prototype to Github, name it 'HCAI_Wireframe_[NameOfApplication]_[StudentName]' and note what your did; and your evidence, in your work- and learning-log**
+
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 No finished? Don't worry, we are going to continue working on this tomorrow!
  </div>
@@ -118,20 +120,20 @@ At 16:30, there's a class meeting where we'll discuss our progress and reflect o
 Tomorrow, we will cover interaction design on a deeper level; especially covering more cool techniques!
 
 
-# Resources
-- [Disruptive Technology Stages](www.google.com)
+## Resources
 
-## Disruptive Technology Examples Resources:
+### Disruptive Technology Examples Resources:
+- [Disruptive Technology Stages](www.google.com)
 - [Robotics](https://www.roboticsbusinessreview.com/news/5-industries-that-robotics-have-disrupted-drastically/)
 - [Computer vision](https://www.logikk.com/articles/disruptive-computer-vision-applications/#:~:text=Computer%20Vision's%20Disruptive%20Impact&text=Computer%20vision%20technology%20is%20still,work%2C%20travel%2C%20and%20live)
 - [Speech processing](https://meticulousblog.org/top-10-companies-in-speech-and-voice-recognition-market/)
 - [NLP](https://www.europeanbusinessreview.com/natural-language-processing-nlp-applications-in-business/)
 - [Risks Overview](https://www.resolver.com/blog/risks-disruptive-innovation-technology/)
 
-## Recommend Literature:
+### Recommend Literature:
 −	[Interaction Design: beyond human-computer interaction](https://login.proxy1.dom1.nhtv.nl/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cat01829a&AN=buas.303541695&site=eds-live)   
 −	[UX Fundamentals for Non-UX Professionals : User Experience Principles for Managers, Writers, Designers, and Developers](https://login.proxy1.dom1.nhtv.nl/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edsebk&AN=1892077&site=eds-live)
 
-## Further Reading:
+### Further Reading:
 −	[Designing with Data](http://shop.oreilly.com/product/0636920026228.do)
 −	[The Design of Everyday Things, Donald A. Norman](https://login.proxy1.dom1.nhtv.nl/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cat01829a&AN=buas.393706974&site=eds-live)

@@ -46,6 +46,10 @@ All products should include some form of user testing, whether they are digital 
 
 **Upload your document and prototype files to Github!**
 
+## 3) Prototyping: Making your prototype holistic
+Our core funtionality is now ready to be tested! Great, the next feature we need is the UI to support those core features: the main menu! There might be other important features to prototype such as a settings tab for using the camera to do computer vision, or maybe you also use audio or internet connectivity?
+
+Maybe there are important pieces of information regarding the AI to communicate to the user? Or maybe the user needs to label some information in order to assist the algorithm or the development of the application itself via crowdsourcing?
 
 ## Next up!
 Coming Datalab we will reflect on user feedback and user testing again and give you an opportunity to ask any questions you might have.

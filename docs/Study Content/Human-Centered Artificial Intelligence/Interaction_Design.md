@@ -86,11 +86,12 @@ Now, use the skills you learned so far to create a vertical slice of only the sc
 
 So for the beer bottle scanner app, this would just be the camera and what the user can do there; which user stories are connected to using that feature?
 
+Don't worry if you can't finish your vertical slice today, tomorrow we'll continue working on it. But do bear in mind that you should finish your vertical slice tomorrow!
 
 ## Next up!
 Coming Datalab we will reflect on Interaction Design and User Experience!
 
-Tomorrow, we will first continue to expand our knowledge by applying it a subfield: interface design! We will also continue to further work out our design by creating user stories tomorrow!
+Tomorrow, we will first continue to expand our knowledge by applying it a subfield: interface design and flow! We will also continue to further work out our vertical slice tomorrow!
 
 # Resources
 ## Recommend Literature:

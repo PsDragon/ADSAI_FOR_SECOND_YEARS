@@ -3,20 +3,18 @@ sort: 4
 ---
 
 # Interface Design
-After covering the basics of interaction design, we're going to look at interface design: the means by which users communicate with computerized devices. We're also going to look into flow theory, engagement and immersioin, and we will cover prototyping techniques, specifically you're going to learn how to build a wireframe prototype in Adobe XD!
+After covering the basics of interaction design, we're going to look at interface design: the means by which users communicate with computerized devices. We're also going to look into flow theory, engagement and immersioin! Finally, we're going to continue working on our wireframe prototype, specifically finishing the vertical slice of our wireframe prototype in proto.io!
 
 ## Learning Objectives:
 After this module, you'll gain a basic understanding and learn how to apply:
 1. Flow;
 2. Interface Design;
-3. Prototyping with Adobo XD.
+3. Prototyping with proto.io.
 
 Table of contents:
 1. Flow: .5 hours
 2. User Interface Design: .5 hours
-3. Defining User Stories: 1 hour
-4. Adobe XD Tutorial: 3 hour
-5. Prototyping: Building a wireframe prototype using Adobe XD: 2 hours
+3. Prototyping: Building a wireframe prototype using proto.io: 2 hours
 
 **Now, open your worklog and plan the different tasks for today there!**
 
@@ -50,32 +48,6 @@ Now that we know what a user inferface is, let's dive deeper into how we can des
 **Did you do the full course already? Make sure to get the certificate an upload it to GitHub and evidence it in both your worklog and learning log!**
 
 Want more information? Here's a [good article with some concise universal guidelines!](https://www.interaction-design.org/literature/topics/ui-design)
-
-## 4) Defining User Stories
-Before we can create our prototype, we first need to define what would make up our vertical slice using **user stories** after which we are going to build a prototype using Adobe XD! Tomorrow in class, we're going to demonstrate our vertical slice prototype to our classmates and gather feedback!
-
-A vertical slice is essentially the core of your application prototyped and only that. For you that will mean that you design the interaction around how you are going to use the deep learning algorithm; which is going to do the computer vision magic.
-
-The following video will explain this concept in more detail!
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jQg27pFGmWA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-So, we already made the algorithm which contains our core functionality and the database. But doing the programming to actually create the real application is something outside the scope of this project. However, the UI and UX is something we can test already for our envisoned applications. So, to start designing the UX; and UI, we need to know what the user needs and wants to do, which is where user stories come in.
-
-Watch following video:
-
-<div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="640" height="360" src="https://www.linkedin.com/learning/embed/software-design-developing-effective-requirements/user-stories?autoplay=false&claim=AQEdMXouytUZwgAAAX2AJ9-QmZzRCVyggq0_gN4OsER1UeDvyb5vFXysEBbnj6yt4EIp7yyj-OKCujqvYam9qXfkZQ-mElXZwAN8um3FRffnKPRW07gamB8f41ZYCfz4tfHrepnMK2V_w0JA8gjvBfYeqnbzM7SabbIV_vAM6qYV2hS4AwSyMoA8CuXJGvSd8G-nwe0tigTADllj-jyPOtf7WqWeeg9dt5Jkt0OSiZ8Ue9T_yQ-iDzGKZArn1o9vNPTnNYYPzvgHxWtMe1FnF7LZ6dz9eqBmEqf8O4lYLMFKJOAB8PBLgty5DqH03DNikHgNo5jmw2Um_VV6D8E-fpgEn9McdPm9Pg-xm3XYqw_kje8Wz7SWgoxOU1hL3NLUsCcwsLm1e_diDmqNTPPI265PXEVNvRX_dTloFPVszs6-CdScGS0kzNtdrQsdSkQKNU8hhnkxJa30PjqxUuht1Ea2bti3ToKoz-5xxX_HScFTcqZ0m0t-yXY4smGcUEiUg24iPvfuTWajxdAesd7VYPJb5KrHG3TiLbXBvkU9tq4yXPz5qobW1LDUvIfuyViPNSolyI6OwHDhp3nLVTFfY63K6uoGPeGevNt3CV47mgeYVetj0vaHOKJuJWrqBlYyt9ypazXKiWUd7kMy6cm6fH1juEvADa5ouLzsw62LIurCJ44obFtVwrnjn2pciMq3hvQd_miKrlS7j9Fk6WPUmlPXAk19AJYyhHJTzFez52syx_xa_hM&lipi=urn%3Ali%3Apage%3Ad_learning_content%3BrPd%2FRTAHQxifYD2luO6XRA%3D%3D&licu" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true" frameborder="0" style="position:absolute;width:100%;height:100%;left:0"></iframe></div><p><strong><a href="https://www.linkedin.com/learning/software-design-developing-effective-requirements/user-stories?trk=embed_lil">User-stories</a></strong> from <strong><a href="https://www.linkedin.com/learning/software-design-developing-effective-requirements?trk=embed_lil">Software Design: Developing Effective Requirements</a></strong> by <strong><a href="https://www.linkedin.com/learning/instructors/neelam-dwivedi?trk=embed_lil">Neelam Dwivedi</a></strong></p>
-
-So, say I have a beer label scanning algorithm, then I want to just build a prototype screen of how the user would see a beer bottle, what information he has, what can he do with that core functionality? My user might be able to click on a pop-up which automatically googles that specific beer or presents him a suggestion of some native library of beers so I can get more information. Or I can save the beer, and add to my library of beers I consumed; with that I may be able to give it a review containing a score, a description and a taste profile (also for ourselfs so we can gather data to imrove the UI and maybe sell users more beer). And every time I scan that beer again, those interaction options will pop-up.
-So, as a user I:
-- can scan beer bottle labels;
-- can save the label;
-- can review the beer *by assigning a score, description and taste profile*;
-- can buy beers based on my taste profile.
-
-Now, **open your HCAI design document, create a section called 'User Stories' and start creating your own user stories.** Use bullet points to list the user stories.
-Tomorrow in class, we're going to demonstrate our vertical slice prototype to our classmates and gather feedback! So make sure to have finished your user stories before the end of the day so you can do some user tests (peer reviews in this case) tomorrow!
-
-**Upload your document to Github!**
 
 ## 4) Proto.io: Create a vertical slice for your wireframe prototype
 Now, use the skills you learned so far to create a vertical slice of only the screen(s) where you computer vision algorithm is actively used in Proto.io.

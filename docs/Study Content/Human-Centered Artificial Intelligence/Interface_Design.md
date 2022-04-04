@@ -7,14 +7,14 @@ After covering the basics of interaction design, we're going to look at interfac
 
 ## Learning Objectives:
 After this module, you'll gain a basic understanding and learn how to apply:
-1. Flow;
-2. Interface Design;
-3. Prototyping with proto.io.
+1. Flow-Theory;
+2. User Interface Design;
+3. Prototyping a vertical slice with proto.io.
 
 Table of contents:
-1. Flow: .5 hours
-2. User Interface Design: .5 hours
-3. Prototyping: Building a wireframe prototype using proto.io: 2 hours
+1. Flow: 1 hour
+2. User Interface Design: 1 hour
+3. Prototyping: Create a vertical slice: 4 hours
 
 **Now, open your worklog and plan the different tasks for today there!**
 
@@ -49,13 +49,15 @@ Now that we know what a user inferface is, let's dive deeper into how we can des
 
 Want more information? Here's a [good article with some concise universal guidelines!](https://www.interaction-design.org/literature/topics/ui-design)
 
-## 4) Proto.io: Create a vertical slice for your wireframe prototype
+## 4) Prototyping: Create a vertical slice
 Now, use the skills you learned so far to create a vertical slice of only the screen(s) where you computer vision algorithm is actively used in Proto.io.
 
 So for the beer bottle scanner app, this would just be the camera and what the user can do there; which user stories are connected to using that feature?
 
+
+
 ## Next up!
-Coming Datalab we will user test our vertical slice prototypes by peer-reviewing them! After that we're going to do a very magical Wizzard of Oz workshop and ofcourse it'll be an opportunity to ask any questions you might have!
+Coming Datalab, we will user test our vertical slice prototypes by peer-reviewing them! After that we're going to do a very magical Wizzard of Oz workshop, and ofcourse it'll be an opportunity to ask any questions you might have!
 
 
 # Resources

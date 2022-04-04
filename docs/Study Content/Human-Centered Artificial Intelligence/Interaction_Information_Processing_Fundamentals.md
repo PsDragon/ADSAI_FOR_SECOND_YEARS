@@ -38,7 +38,7 @@ The kick-off has been scheduled in your agenda but you can also attend by [click
 
 Want to see the slides? [Click this link!](./Assets/HCAI Kick-off.pptx)
 
-Missed the kick-off? Watch it back [over here!](https://github.com/BredaUniversityADSAI/ADS-AI/blob/1a99917ba82bff3ed1df1613b29dffb027acf279/docs/Study%20Content/Human-Centered%20Artificial%20Intelligence/Assets/comingSoon.jpg)
+Missed the kick-off? Watch it back [over here!](https://edubuas-my.sharepoint.com/:v:/g/personal/heijligers_b_buas_nl/EePBk45bPTNEgJmmRGIT-moBqoXaxF26xR1fXzkvwuBYGQ)
 
 ## 1) Introduction to Interaction and Information Processing Fundamentals
 To figure out how data-driven applications for humans work, especially AI operated ones, we first require a deeper understanding of what it means for humans to interact and process information in the first place. So, how do humans interact with the world, and how do they process information? The following video explains how information processing, the environment and our online environment are actually one continuous process. Information isn't created or processed simply in one place but a result of interaction between multiple entities; these can be objects interacting with object, or with phenomena or with humans. That's what the theory of the Extended Mind and Network Enabled Cognition is about! Let's dive into it and explain the context of interacting with information!

@@ -90,18 +90,6 @@ The lecture has been scheduled in your agenda but can also be attended by [click
 
 A video recording of the lecture can be found [over here](https://github.com/BredaUniversityADSAI/ADS-AI/blob/1a99917ba82bff3ed1df1613b29dffb027acf279/docs/Study%20Content/Human-Centered%20Artificial%20Intelligence/Assets/comingSoon.jpg) after it was given and uploaded.
 
-### Topics and resources
-The topics below are surmized in the lecture above but if you enjoyed the topic and would like to know more, than you can take a look at the following articles:
-
-#### Human-Centered Artifical Intelligence
-Google is making a lot great resources on this topic and is leading the world in Human-Centered Artificial Intelligence. The guy who you saw earlier talking about HCAI made a great article about it. Read the full text over [here](https://medium.com/google-design/human-centered-machine-learning-a770d10562cd)
-
-#### UX & AI; Adaptive interfaces
-AI; machine learning or reactive, has the ability to make our UX systems & UI interaces adaptive! This is something which bring UI and UX to a new level. This article will help you understand how they can enabled that; and where you should and shouldn't apply it.
-[Read the full acticle over here](https://design.google/library/ux-ai/).
-
-#### UX & AI: Recommender systems
-Recommendation systems such a netflix, spotify or youtube also provide a user experience ofcourse. As you can imagine by now, designing a UX with machine- or deep-learning in mind brings about different design constraints then regular UX design. [Read the following article to gain a deeper understanding of how this works](and [read the second article over here!](https://design.google/library/designing-and-learning-teachable-machine/).
 
 ## 5) Introduction to Wireframe prototyping using Proto.io
 [Look at the intro video of Proto.io](https://support.proto.io/hc/en-us/articles/220425988-Introduction-to-Proto-io-6), create a [user account](https://proto.io/en/signup/) and install the latest version of the software: Proto.io 6! Use the free trail using you student email account.

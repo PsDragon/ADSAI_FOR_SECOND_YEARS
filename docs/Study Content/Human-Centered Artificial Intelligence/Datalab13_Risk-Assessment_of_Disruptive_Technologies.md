@@ -67,7 +67,7 @@ You can find [the slides here](./Assets/Distruptive technologies - Lecture.pptx)
 
 The lecture has been scheduled in your agenda but can also be attended by [clicking this link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTczMDEzYjctODdiOS00MGM0LWFkMWQtMjE5NTM4MDk2ZTI4%40thread.v2/0?context=%7b%22Tid%22%3a%220a33589b-0036-4fe8-a829-3ed0926af886%22%2c%22Oid%22%3a%225cef929d-ecf9-4fca-bf12-bc5ee065fc99%22%7d)!
 
-A video recording of the lecture can be found [over here](https://github.com/BredaUniversityADSAI/ADS-AI/blob/1a99917ba82bff3ed1df1613b29dffb027acf279/docs/Study%20Content/Human-Centered%20Artificial%20Intelligence/Assets/comingSoon.jpg) after it was given and uploaded!
+A video recording of the lecture can be found [over here](https://edubuas-my.sharepoint.com/:v:/g/personal/heijligers_b_buas_nl/Ef6AhG4fHbFDqMDiLjZgUZ8BkJacj4Bdzz1J5SiW-fdp2Q) after it was given and uploaded!
 
 
 ### Let's apply our knowledge!
@@ -88,7 +88,7 @@ You can find [the slides here](./Assets/Fundamentals and Applications.pptx)!
 
 The lecture has been scheduled in your agenda but can also be attended by [clicking this link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzlkYzZhMGYtNjA4Yy00MTY0LTg2YjktNDc0NWU0ZWY2MDZl%40thread.v2/0?context=%7b%22Tid%22%3a%220a33589b-0036-4fe8-a829-3ed0926af886%22%2c%22Oid%22%3a%225cef929d-ecf9-4fca-bf12-bc5ee065fc99%22%7d)!
 
-A video recording of the lecture can be found [over here](https://github.com/BredaUniversityADSAI/ADS-AI/blob/1a99917ba82bff3ed1df1613b29dffb027acf279/docs/Study%20Content/Human-Centered%20Artificial%20Intelligence/Assets/comingSoon.jpg) after it was given and uploaded.
+A video recording of the lecture can be found in [part 1](https://edubuas-my.sharepoint.com/:v:/g/personal/heijligers_b_buas_nl/ETEk-fhH_zJJqBQ-XZ9QyWsB0TlEU1r5bmjzLhT-eBoLTA) and [part 2](https://edubuas-my.sharepoint.com/:v:/g/personal/heijligers_b_buas_nl/ESoRMz-6ouNLstM1Sw0Har8BMUMsCnoBnSroOISwYMNQFA) after it was given and uploaded.
 
 
 ## 5) Introduction to Wireframe prototyping using Proto.io

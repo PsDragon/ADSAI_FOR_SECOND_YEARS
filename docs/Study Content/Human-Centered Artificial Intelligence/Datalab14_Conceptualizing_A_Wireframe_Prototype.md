@@ -63,7 +63,7 @@ So, let's start coming up with our own Wizzard of Oz experiment!
 
 [Here's a quick example walkthrough of how to create a Wizzard of Ozz (Paper) Prototype!](https://drive.google.com/file/d/15LwN3SESX8vcoFop4BmlxTsyRyNluuzq/view?usp=sharing)
 
-**Open your HCAI design document and create a section called 'Wizzard of Oz Experiment'**
+**Open your HCAI design document and create a section called 'Wizzard of Ozz Experiment'**
 
 1. Conceptualize the test using your user stories and knowning the functionality of your algorithm.
 2. Create the necessary images, videos, animations and elements to do the test. *(if you need to print materials, just ask the lecturers)*

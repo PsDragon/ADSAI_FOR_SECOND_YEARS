@@ -63,7 +63,7 @@ So, let's start coming up with our own Wizzard of Oz experiment!
 
 **Open your HCAI design document and create a section called 'Wizzard of Oz Experiment'**
 
-1. Conceptualize the test using your user stories and knowning the functionality of you algorithm.
+1. Conceptualize the test using your user stories and knowning the functionality of your algorithm.
 2. Create the necessary images, videos, animations and elements to do the test. *(if you need to print materials, just ask the lecturers)*
 2. Run the test and observe the user’s actions while making the system react to those actions by triggering the different responses the system should give at that moment in the interaction. It's best if the 'Wizzard' hides from view but that's not always possible.
 4. Take notes of what works and what does not work while doing the test.

@@ -73,9 +73,9 @@ So, let's start coming up with our own Wizzard of Oz experiment!
 
 **Save your HCAI design document to Github and note what your did; and your evidence, in your work- and learning-log**
 
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+
 Note: A Wizzard of Ozz Prototype can be executed in a variety of ways, this time we chose to do [Paper Prototyping](https://en.wikipedia.org/wiki/Paper_prototyping) because it's most accesible and rapid way to prototype a design.
-</div>
+
 
 ## 4) In-Class Discussion
 At 14:30, there's a meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.

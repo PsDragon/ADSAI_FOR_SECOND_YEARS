@@ -13,8 +13,8 @@ Table of contents:
 0. Stand-up: 0.5 hours
 1. Q&A: .5 hours
 2. A/B Testing Lecture: 1 hour
-3. A/B Testing on deployed prototype: X hours
-4.
+3. A/B Testing on deployed prototype: 2 hours
+4. Iterate on Wireframe Prototype: Remainder of the day
 
 ## Questions or issues?
 If you have any questions or issues regarding the course material, please first ask your peers or ask us if you can't figure it out together!

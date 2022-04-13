@@ -10,7 +10,7 @@ After this module, you'll be able to demo your prototype to clients.
 
 
 Table of contents:
-1. Iterate on wireframe Prototype & work on presentation: 0 - 6 hours
+1. Iterate on wireframe demo & work on presentation: 0 - 6 hours
 2. Client presentation: 0.5 hours --> Check the schedule on Teams!
 3. Module reflection: 0.5 hours --> 16:30
 
@@ -49,9 +49,7 @@ Your presentation skills aren't graded here, you can use the presentation as an 
 Want to record your demo? Recording a walkthrough of your wireframe prototype can be easily done for Windows OS using the microsoft game bar: press **Windows Key + G" and record your prototype.
  </div>
 
-**When you are finished, upload your video file to github and evidence it in your work- and learning-log!**
-
-Suprise, Bram & Zhanna are the clients!
+**When you are finished, upload your prototype; project files/editor files & an interactive demo, and HCAI design doc to github and evidence it in your work- and learning-log!**
 
 
 ## 2) In-Class Discussion

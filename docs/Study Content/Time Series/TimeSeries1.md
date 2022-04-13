@@ -20,8 +20,8 @@ Until now, you mostly worked with so-called cross-sectional data - i.e., a set o
 ### What is time series data, analysis & forecasting?
 
 > Time series analysis is a specific way of analyzing a sequence of data points collected over an interval of time. In time series analysis, analysts record data points at consistent intervals over a set period of time rather than just recording the data points intermittently or randomly. However, this type of analysis is not merely the act of collecting data over time.
-<br>What sets time series data apart from other data is that the analysis can show how variables change over time. In other words, time is a crucial variable because it shows how the data adjusts over the course of the data points as well as the final results. It provides an additional source of information and a set order of dependencies between the data.
-<br>Time series analysis typically requires a large number of data points to ensure consistency and reliability. An extensive data set ensures you have a representative sample size and that analysis can cut through noisy data. It also ensures that any trends or patterns discovered are not outliers and can account for seasonal variance. Additionally, time series data can be used for forecasting—predicting future data based on historical data.([Source](https://www.tableau.com/learn/articles/time-series-analysis)).
+<br> What sets time series data apart from other data is that the analysis can show how variables change over time. In other words, time is a crucial variable because it shows how the data adjusts over the course of the data points as well as the final results. It provides an additional source of information and a set order of dependencies between the data.
+<br> Time series analysis typically requires a large number of data points to ensure consistency and reliability. An extensive data set ensures you have a representative sample size and that analysis can cut through noisy data. It also ensures that any trends or patterns discovered are not outliers and can account for seasonal variance. Additionally, time series data can be used for forecasting—predicting future data based on historical data ([Source](https://www.tableau.com/learn/articles/time-series-analysis)).
 
 Also, check out LaBarr's video, where he explains the difference between the two data types.
 
@@ -65,13 +65,12 @@ Let's start to inspect the Air Passengers dataset. When we visualize it in a lin
 
 Before we dive deeper into time series analysis and forecasting, we need to take a look at some standard notation:
 
-> The current time is defined as t, an observation at the current time is defined
-as obs(t).We are often interested in the observations made at prior times, called lag times or lags. Times in the past are negative relative to the current time. For example the previous time is t-1 and the time before that is t-2. The observations at these times are obs(t-1) and obs(t-2) respectively. Times in the future are what we are interested in forecasting and are positive relative to the current time. For example the next time is t+1 and the time after that is t+2. The observations at these times are obs(t+1) and obs(t+2) respectively. For simplicity, we often drop the obs(t) notation and use t+1 instead and assume we are talking about observations at times rather than the time indexes themselves. Additionally, we can refer to an observation at a lag by shorthand such as a lag of 10 or lag=10 which would be the same as t-10.
-<br>To summarize:
-<br>t-n: A prior or lag time (e.g. t-1 for the previous time).
+> The current time is defined as t, an observation at the current time is defined as obs(t). We are often interested in the observations made at prior times, called lag times or lags. Times in the past are negative relative to the current time. For example the previous time is t-1 and the time before that is t-2. The observations at these times are obs(t-1) and obs(t-2) respectively. Times in the future are what we are interested in forecasting and are positive relative to the current time. For example the next time is t+1 and the time after that is t+2. The observations at these times are obs(t+1) and obs(t+2) respectively. For simplicity, we often drop the obs(t) notation and use t+1 instead and assume we are talking about observations at times rather than the time indexes themselves. Additionally, we can refer to an observation at a lag by shorthand such as a lag of 10 or lag=10 which would be the same as t-10.
+<br> To summarize:
+<br> t-n: A prior or lag time (e.g. t-1 for the previous time).
 t: A current time and point of reference.
 t+n: A future or forecast time (e.g. t+1 for the next time).
-<br>([Source](https://machinelearningmastery.com/introduction-to-time-series-forecasting-with-python/))
+<br> ([Source](https://machinelearningmastery.com/introduction-to-time-series-forecasting-with-python/)).
 
 <img src="./images/lag.png" alt="Lags" width="400">
 

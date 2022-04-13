@@ -3,18 +3,18 @@ sort: 10
 ---
 
 # Datalab 16: Client Testing of Wireframe Prototypes
-The last day of the block, and the last datalab of block C. Time goes fast! Today, we're simply going to use our time to make a client presentation in the form of a video walkthrough of our application! We'll have the time to employ all the design and testing techniques we learned the last two weeks as well.
+The last day of the block, and the last datalab of block C. Time goes fast! Today, we're simply going to use our time to make a client presentation where you'll give a demo of your application! We'll have the time to employ all the design and testing techniques we learned the last two weeks as well.
 
 ## Learning Objectives:
-After this module, you'll be able to record a client presentation.
+After this module, you'll be able to demo your prototype to clients.
 
 
 Table of contents:
-1. Iterate on wireframe Prototype: 0 - 6 hours
-2. Client presenation: 1 - 2 hours
-3. Module reflection: 0.5 hours
+1. Iterate on wireframe Prototype & work on presentation: 0 - 6 hours
+2. Client presentation: 0.5 hours --> Check the schedule on Teams!
+3. Module reflection: 0.5 hours --> 16:30
 
-**Note that the module reflection will take place at 13:30 because your lecturer Bram has to attend a PhD defence of a friend!**
+
 
 
 ## Questions or issues?
@@ -39,11 +39,15 @@ Over the last 2 weeks you have learned an array of design & user testing techniq
 **Be aware that you have to make a client presentation to hand-in your design! So stop at 15:00 latest in order to make your client recording!
 
 ## 2) Client Presentation
-Recording a walkthrough of your wireframe prototype using the microsoft game bar: press **Windows Key + G" and record your prototype. Give the client a full walkthrough from start to finish of the application, make sure to cover all the essential features(in that sense it's a bit of a product tour-walkthrough hybrid) but focus on the core features: your deep-learning algorithm and how it adds value. Make sure that the presentation is no longer then 20 minutes! If you can do it in a shorter space of time, do that! The clients are busy people and you don't want to waste their time: get to the point! :D
+Give the client a full walkthrough from start to finish of the application, make sure to cover all the essential features(in that sense it's a bit of a product tour-walkthrough hybrid) but focus on the core features: your (conceptual) deep-learning algorithm and how it adds value. Make sure that the presentation is no longer then 15 minutes! If you can do it in a shorter space of time, do that! The clients are busy people and you don't want to waste their time: get to the point! :D
 
-Your presentation skills aren't grade here, just the design of the wireframe prototype is. So don't worry too much about make the best presentation but focus on conveying the design of the features and justifying your design decisions! **Look at the self-assessment rubric to see what is important for grading!**
+Your presentation skills aren't graded here, you can use the presentation as an opportunity to evidence and defend the design of your wireframe and application as a whole. So don't worry too much about make the best presentation but focus on conveying the design of the features and justifying your design decisions! **Look at the self-assessment rubric to see what is important for grading!**
 
 *If you do want to make the presentation look great, [here's a guide which picks walkthroughs and products tours apart.](https://www.appcues.com/blog/product-tours-walkthroughs-ultimate-guide) You can find many more if you google something like 'how to do a UX walkthrough' or 'how to do a product tour'.
+
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Want to record your demo? Recording a walkthrough of your wireframe prototype can be easily done for Windows OS using the microsoft game bar: press **Windows Key + G" and record your prototype.
+ </div>
 
 **When you are finished, upload your video file to github and evidence it in your work- and learning-log!**
 
@@ -51,10 +55,10 @@ Suprise, Bram & Zhanna are the clients!
 
 
 ## 2) In-Class Discussion
-At 13:30, there's a meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
+At 16:30, there's a meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
 
 ## Up Next!
-That was it for this block! No more school work, just chillings for at least a week! Hopefully two! Unless you have a side-job, sucks to be you! haha
+Just one more day and that was it for this block! No more school work, just chillings for at least a week! Hopefully two! Unless you have a side-job, sucks to be you! haha
 
 
 ## Recommend Literature:

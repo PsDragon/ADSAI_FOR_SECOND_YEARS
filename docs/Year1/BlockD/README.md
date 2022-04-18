@@ -11,11 +11,12 @@ As a result, you will spend much more time on your project.
 
 ## Project Based Learning - Creative Brief
 
-In this project, you will work in teams and help the municipality of Breda use
-data to improve quality of life for it's citizens. In particular, your team is
-expected to use the knowledge and skills gained in blocks A, B & C to
-**design and develop a data-driven
-measure of well-being for Breda?**
+The municipality of Breda examined the state of segregation in Breda and the extent to which Breda's policy is effective in combating segregation in the city. There are several indications that segregation and social inequality between neighbourhoods have increased in the past 10 years. Recent research points to a further increase in social inequality in the Netherlands since the outbreak of the corona crisis. It is therefore imperative that the city of Breda combats such rising inequalities. One of the key driving factors of such segregation is Quality of Life (QoL).  QoL is traditionally defined by two components:
+1. Socio-economic indicators
+2. Environmental quality indicators.
+
+Socio-economic indicators include features such as house prices, perception of neighbourhood safety etc. and environmental quality indicators such as noise levels, CO2 levels etc. Traditionally, experts were used to identify key features which could predict QoL accurately. **Your creative brief for this block expects you to use the skills and knowledge you have gained over the course of this year to build an AI and Data Science model which can predict QoL and identify it’s key determinants in a completely data-driven manner.**
+
 
 <figure>
     <img src=".\breda.PNG" />
@@ -24,8 +25,9 @@ measure of well-being for Breda?**
 
 In addition, you are expected to ensure that you're solution complies to the
 latest legal and ethical frameworks. Introductory workshops will be provided on this subject.
+Note that the amount of new knowledge and skills to acquire via GitHub classroom is limited: the focus is on participating in in a real life project executed in a group. 
 
-Please refer to the project brief for more detailed information.
+> Please refer to the project brief for more detailed information.
 
 ### Team-based working - Agile Scrum
 

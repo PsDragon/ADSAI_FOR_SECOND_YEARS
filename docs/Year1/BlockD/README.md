@@ -25,7 +25,7 @@ Socio-economic indicators include features such as house prices, perception of n
 
 In addition, you are expected to ensure that you're solution complies to the
 latest legal and ethical frameworks. Introductory workshops will be provided on this subject.
-Note that the amount of new knowledge and skills to acquire via GitHub classroom is limited: the focus is on participating in in a real life project executed in a group. 
+Note that the amount of new knowledge and skills to acquire via GitHub classroom is limited: the focus is on participating in in a real life project executed in a group.
 
 > Please refer to the project brief for more detailed information.
 
@@ -56,24 +56,23 @@ Please watch the following video to get a brief introduction to agile scrum.
 # Week 1 : Agile project Management
 
 ## Monday
+[Block D Kickoff]
 [The scrum approach to project success](../../Study%20Content/Agile%20Project%20Management/1.%20The%20scrum%20approach%20to%20project%20success.html)
-
 [Essential roles for scrum teams](../../Study%20Content/Agile%20Project%20Management/2.%20Essential%20roles%20for%20scrum%20teams.html)
-
 [Project vision and roadmaps](../../Study%20Content/Agile%20Project%20Management/3.%20Project%20vision%20and%20roadmaps.html)
 
 ## Tuesday
 [DataLab: Project vision and roadmap - Creative Brief](../../Study%20Content/Agile%20Project%20Management/3.1.%20DataLab%20Scrum.html)
 
 ## Wednesday
-[Sprint planning and standups](../../Study%20Content/Agile%20Project%20Management/4.%20Sprint%20planning%20and%20standups.html)
+[Sprint planning and standups using Jira](../../Study%20Content/Agile%20Project%20Management/4.%20Sprint%20planning%20and%20standups.html)
 
 
 ## Thursday
 [Wrapping up a sprint and retrospectives](../../Study%20Content/Agile%20Project%20Management/5.%20Wrapping%20up%20a%20sprint%20and%20retrospectives.html)
 
 ## Friday
-[DataLab: Sprint planning - Creative Brief](../../Study%20Content/Agile%20Project%20Management/5.1.%20DataLab2%20Scrum.html)
+[Site Visit]
 
 # Week 2 : Legal frameworks governing AI
 
@@ -90,18 +89,17 @@ Please watch the following video to get a brief introduction to agile scrum.
 [When GDPR meets AI](../../Study%20Content/Digital%20Transformation/Legal%203.html)
 
 ## Friday
-[Datalab: Implementing GDPR in practice](../../Study%20Content/Digital%20Transformation/DataLab,%20Legal%201.html)
+[HOLIDAY]
 
 ## The rest of the block is dedicated to project work.
+
+**Every Tuesday and Friday,
+in the datalab you will be provided feedback on your (teams)
+progress using the Jira dashboard, and in addition, every Friday you are expected to plan a
+new sprint and reflect on the previous sprint.**
 
 __Additional material:__
 
 [Geospatial analytics (optional)](../../Study%20Content/Geospatial%20Analytics/GeospatialAnalytics1.html)
 
 [Time series (optional)](../../Study%20Content/Time%20Series/TimeSeries1.html)
-
-**Every Tuesday and Friday,
-in the datalab you will be provided feedback on your (teams)
-progress using the Jira dashboard,
-and in addition, every Friday you are expected to plan a
-new sprint and reflect on the previous sprint.**

@@ -98,8 +98,8 @@ in the datalab you will be provided feedback on your (teams)
 progress using the Jira dashboard, and in addition, every Friday you are expected to plan a
 new sprint and reflect on the previous sprint.**
 
-__Additional material:__
+__Useful Resources:__
 
-[Geospatial analytics (optional)](../../Study%20Content/Geospatial%20Analytics/GeospatialAnalytics1.html)
+[Geospatial analytics](../../Study%20Content/Geospatial%20Analytics/GeospatialAnalytics1.html)
 
-[Time series (optional)](../../Study%20Content/Time%20Series/TimeSeries1.html)
+[Time series](../../Study%20Content/Time%20Series/TimeSeries1.html)

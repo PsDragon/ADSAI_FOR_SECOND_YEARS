@@ -1,18 +1,18 @@
 # Block D - Team-based Working
 
-In block D the capstone course of the propaedeutic stage of your bachelor degree. Next to several training elements in planning group projects, keeping track of your individual contribution and cooperation in groups, you are asked to do a full CRISP-DM cycle in a small group. Many of the dynamics will change in this block:
+Block D is the capstone course of the propaedeutic stage of your bachelor degree. Next to several training elements in planning group projects, keeping track of your individual contribution and group collaboration, you are asked to do a full CRISP-DM cycle in a small group. Many of the dynamics will change in this block:
 
 - [ ] Groupwork replaces individual work, but assessment will still be done on your individual contribution;
 - [ ] The assessment of your groupwork skills are an explicit element of the assessment in this block;
 - [ ] Less emphasis is put on delivery of knowledge and skills. Self-guided learning (under supervision) is the new standard;
-- [ ] Skills training mainly consists of project management, communication and working in Teams;
+- [ ] Skills training mainly consists of project management, communication and working in teams;
 
-As a result, you will spend much more time on your project.
+As a result, you will spend most of your time on your project.
 
 ## Project Based Learning - Creative Brief
 
 The municipality of Breda examined the state of segregation in Breda and the extent to which Breda's policy is effective in combating segregation in the city. There are several indications that segregation and social inequality between neighbourhoods have increased in the past 10 years. Recent research points to a further increase in social inequality in the Netherlands since the outbreak of the corona crisis. It is therefore imperative that the city of Breda combats such rising inequalities. One of the key driving factors of such segregation is Quality of Life (QoL).  QoL is traditionally defined by two components:
-1. Socio-economic indicators
+1. Socio-economic indicators.
 2. Environmental quality indicators.
 
 Socio-economic indicators include features such as house prices, perception of neighbourhood safety etc. and environmental quality indicators such as noise levels, CO2 levels etc. Traditionally, experts were used to identify key features which could predict QoL accurately. **Your creative brief for this block expects you to use the skills and knowledge you have gained over the course of this year to build an AI and Data Science model which can predict QoL and identify it’s key determinants in a completely data-driven manner.**
@@ -23,28 +23,27 @@ Socio-economic indicators include features such as house prices, perception of n
 </figure>
 <br>
 
-In addition, you are expected to ensure that you're solution complies to the
+In addition, you are expected to ensure that your solution complies to the
 latest legal and ethical frameworks. Introductory workshops will be provided on this subject.
-Note that the amount of new knowledge and skills to acquire via GitHub classroom is limited: the focus is on participating in in a real life project executed in a group.
+Note that the amount of new knowledge and skills to acquire via GitHub classroom is limited: the focus is on participating in a real-life project executed as a group.
 
 > Please refer to the project brief for more detailed information.
 
 ### Team-based working - Agile Scrum
 
-You are expected to follow an agile scrum project management methodology for
-this block. Introductory workshops will introduce you to the scrum way of working.
+For block D, you are expected to follow an agile project management methodology called 'Scrum'. Introductory workshops will introduce you to the scrum way of working.
 
-The Scrum methodology is characterized by short phases or “sprints” when
-project work occurs. During sprint planning, the project team identifies a
-small part of the scope to be completed during the upcoming sprint,
+The Scrum methodology is characterized by short phases called “sprints” wherein
+project work: tasks, occurs. During sprint planning, the project team identifies a
+small part of the scope; a set of tasks, to be completed during the upcoming sprint,
 which is usually a two week period of time.
 
 At the end of the sprint, this work should be ready to be delivered to the
 client. Finally, the sprint ends with a sprint review and retrospective—or
 rather, lessons learned. This cycle is repeated throughout the project
-lifecycle until the entirety of the scope has been delivered.
+lifecycle until the entirety of the scope has been delivered or block D is at an end.
 
-Please watch the following video to get a brief introduction to agile scrum.
+Please watch the following video to get a brief introduction to scrum as a agile project management methodology.
 <!-- blank line -->
 <figure class="video_container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gy1c4_YixCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

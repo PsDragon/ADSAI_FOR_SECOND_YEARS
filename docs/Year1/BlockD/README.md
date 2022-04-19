@@ -20,7 +20,7 @@ The municipality of Breda examined the state of segregation in Breda and the ext
 
 Socio-economic indicators include features such as house prices, perception of neighbourhood safety, migration patterns etc. and environmental quality indicators such as noise levels, CO2 levels etc. Traditionally, experts were used to identify key features which could predict QoL accurately and thus help combat neighbourhood segregation – this involved hand-picking features which were hypothesized to be a key determinant of QoL and using those features to help minimize neighbourhood segregation.
 
-**Your creative brief for this block expects you to use the skills and knowledge you have gained over the course of this year to build a tool for the City of Breda to help combat rising segregation in a completely data-driven manner**. This could be for example, a dashboard to provide useful insights, or an AI model that helps predict QoL, or ideally, a combination of both.   Once you have developed the tool, you are expected to provide recommendations to the city of Breda in terms of policy to combat neighbourhood segregation.
+**Your creative brief for this block expects you to use the skills and knowledge you have gained over the course of this year to build a tool for the City of Breda to help combat rising segregation in a completely data-driven manner**. This could be for example, a dashboard to provide useful insights, or an AI model that helps predict QoL, or ideally, a combination of both. Once you have developed the tool, you are expected to provide recommendations to the city of Breda in terms of policy to combat neighbourhood segregation.
 
 <figure>
     <img src=".\breda.PNG" />
@@ -66,6 +66,8 @@ Please watch the following video to get a brief introduction to scrum as a agile
 
 ## Tuesday
 [DataLab: Project vision and roadmap - Creative Brief](../../Study%20Content/Agile%20Project%20Management/3.1.%20DataLab%20Scrum.html)
+[Scrum Workshop]
+[Drinks!]
 
 ## Wednesday
 [Sprint planning and standups using Jira](../../Study%20Content/Agile%20Project%20Management/4.%20Sprint%20planning%20and%20standups.html)
@@ -75,7 +77,7 @@ Please watch the following video to get a brief introduction to scrum as a agile
 [Wrapping up a sprint and retrospectives](../../Study%20Content/Agile%20Project%20Management/5.%20Wrapping%20up%20a%20sprint%20and%20retrospectives.html)
 
 ## Friday
-[Site Visit]
+[Site Visit: A day in the life of Wim]
 
 # Week 2 : Legal frameworks governing AI
 
@@ -84,6 +86,7 @@ Please watch the following video to get a brief introduction to scrum as a agile
 
 ## Tuesday
 [DataLab: Implementing AI law in practice](../../Study%20Content/Digital%20Transformation/DataLab,%20Legal%201.html)
+[DataLab: Build your own weather stations](https://www.meetjestad.net/)
 
 ## Wednesday
 [The Proposed Artificial Intelligence Act](../../Study%20Content/Digital%20Transformation/Legal%202.html)
@@ -92,7 +95,7 @@ Please watch the following video to get a brief introduction to scrum as a agile
 [When GDPR meets AI](../../Study%20Content/Digital%20Transformation/Legal%203.html)
 
 ## Friday
-[HOLIDAY]
+[**HOLIDAY**]
 
 ## The rest of the block is dedicated to project work.
 

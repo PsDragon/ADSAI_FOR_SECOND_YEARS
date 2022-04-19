@@ -69,19 +69,14 @@ If you are performing any spatial calculations (e.g., distance), your data shoul
 
 ## Geographical data sources
 
-You can access the data sources for the creative brief through the following links:
+Useful third party data sources:
 
-- [The Green Index](ADD LINK) (Municipality of Breda)
-- [Klimaateffectatlas](https://www.klimaateffectatlas.nl) (Klimaateffectatlas)
-- [Weather station](https://meetjestad.net/) (Meet je Stad)
-- [Cadastral boundaries](ADD LINK) (CBS/SN)
-- [Statistics per 100x100 grid](ADD LINK) (CBS/SN)
-
-Other useful (third party) data sources:
-
+- [Klimaateffectatlas](https://www.klimaateffectatlas.nl) (Klimaateffectatlas
 - [Open datasets Kadaster](https://www.kadaster.nl/zakelijk/datasets/open-datasets) (Kadaster)
 - [Dataregister Rijkswaterstaat](https://maps.rijkswaterstaat.nl/dataregister/srv/dut/catalog.search#/home) (Rijkswaterstaat)
 - [Nationaal Dataportaal Wegverkeer](https://www.ndw.nu/) (NDW)
+- [Weather station](https://meetjestad.net/) (Meet je Stad)
+- [Luchtmeetnet](https://www.luchtmeetnet.nl/meetpunten?station=NL10240&component=NO2) (Luchtmeetnet)
 
 ## Blended learning
 
@@ -91,8 +86,8 @@ __Python:__
 
 - [Automating GIS-processes 2021](https://autogis-site.readthedocs.io/en/latest/index.html#)
 - [Working with Geospatial Data in Python](https://app.datacamp.com/learn/courses/working-with-geospatial-data-in-python)
-- [Visualizing Geospatial Data in Python
-](https://app.datacamp.com/learn/courses/visualizing-geospatial-data-in-python)
+- [Visualizing Geospatial Data in Python](https://app.datacamp.com/learn/courses/visualizing-geospatial-data-in-python)
+- [Geographic Data Science with Python](https://geographicdata.science/book/intro.html)
 
 __R:__
 
@@ -103,6 +98,7 @@ __R:__
 Visualisation in R](https://www.spatialanalysisonline.com/An%20Introduction%20to%20Spatial%20Data%20Analysis%20in%20R.pdf)
 - [Introduction to Geospatial Raster and Vector Data with R](https://datacarpentry.org/r-raster-vector-geospatial/)
 - [Geocomputation with R](https://bookdown.org/robinlovelace/geocompr/)
+- [Spatial Statistics in R](https://app.datacamp.com/learn/courses/spatial-statistics-in-r)
 
 __QGIS:__
 

@@ -59,15 +59,18 @@ Please watch the following video to get a brief introduction to scrum as a agile
 # Week 1 : Agile project Management
 
 ## Monday
-[Block D Kickoff]
+[Block D Kickoff]()
+
 [The scrum approach to project success](../../Study%20Content/Agile%20Project%20Management/1.%20The%20scrum%20approach%20to%20project%20success.html)
 [Essential roles for scrum teams](../../Study%20Content/Agile%20Project%20Management/2.%20Essential%20roles%20for%20scrum%20teams.html)
 [Project vision and roadmaps](../../Study%20Content/Agile%20Project%20Management/3.%20Project%20vision%20and%20roadmaps.html)
 
 ## Tuesday
-[DataLab: Project vision and roadmap - Creative Brief](../../Study%20Content/Agile%20Project%20Management/3.1.%20DataLab%20Scrum.html)
-[Scrum Workshop]
-[Drinks!]
+[9 to 12h: Site Visit: A day in the life of Wim]()
+
+[13 to 17h: Scrum Workshop]()
+
+[17h+: Drinks!]()
 
 ## Wednesday
 [Sprint planning and standups using Jira](../../Study%20Content/Agile%20Project%20Management/4.%20Sprint%20planning%20and%20standups.html)
@@ -77,7 +80,9 @@ Please watch the following video to get a brief introduction to scrum as a agile
 [Wrapping up a sprint and retrospectives](../../Study%20Content/Agile%20Project%20Management/5.%20Wrapping%20up%20a%20sprint%20and%20retrospectives.html)
 
 ## Friday
-[Site Visit: A day in the life of Wim]
+[DataLab: Project vision and roadmap - Creative Brief](../../Study%20Content/Agile%20Project%20Management/3.1.%20DataLab%20Scrum.html)
+
+[Workshop: Team work]()
 
 # Week 2 : Legal frameworks governing AI
 

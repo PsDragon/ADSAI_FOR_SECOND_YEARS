@@ -67,24 +67,22 @@ Please watch the following video to get a brief introduction to scrum as a agile
 
 ## Tuesday
 Make sure to be at the Datalab at 9:00 AM! We're going to the municipality together to meet our clients and meet a real-life data scientist: Wim! Then we'll return for a workshop from 2 guest lecturers on the agile project management we'll use this block: Scrum! After which we'll have drinks together! ***If you're late without a valid excuse, you're going to have to pay for Zhanna's Vodka shots!***
-- **[9 AM to 12 AM: Site Visit: A day in the life of Wim]**
+- **9 AM to 12 AM: Site Visit: A day in the life of Wim**
 
-- **[13 PM to 17 PM: Scrum Workshop]**
+- **13 PM to 17 PM: Scrum Workshop**
 
-- **[17 PM+: Drinks!]**
+- **17 PM+: Drinks!**
 
 ## Wednesday
-[Creating a Project Vision and Roadmap](../../Study%20Content/Agile%20Project%20Management/3.%20Sprint%20planning%20and%20standups.html)
+[Creating a Project Vision and Roadmap](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/3%20Creating%20a%20Project%20Vision,%20Roadmap%20and%20Project%20Planning.html)
 
 
 ## Thursday
-- [Sprint planning and standups using Jira](../../Study%20Content/Agile%20Project%20Management/3.%20Sprint%20planning%20and%20standups.html)
-- [Wrapping up a sprint and retrospectives](../../Study%20Content/Agile%20Project%20Management/5.%20Wrapping%20up%20a%20sprint%20and%20retrospectives.html)
+- [Sprint planning and standups using Jira](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/4.2.%20Sprint%20planning%20and%20standups.html)
+- [Wrapping up a sprint and retrospectives](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/4.1.%20Wrapping%20up%20a%20sprint%20and%20retrospectives.html)
 
 ## Friday
-[DataLab: Project vision and roadmap - Creative Brief](../../Study%20Content/Agile%20Project%20Management/3.1.%20DataLab%20Scrum.html)
-
-[Workshop: Team work]()
+[DataLab: Project vision and roadmap - Creative Brief](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/5.%20DataLab%202%20Scrum.html)
 
 # Week 2 : Legal frameworks governing AI
 

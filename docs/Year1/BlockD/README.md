@@ -59,25 +59,27 @@ Please watch the following video to get a brief introduction to scrum as a agile
 # Week 1 : Agile project Management
 
 ## Monday
-[Block D Kickoff]()
+9 AM - 10 AM: [Block D Kickoff](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTJiMDA1NjQtNzA2Ny00MDJmLTg1ZDMtNmU2OTkxMWQxYTc4%40thread.v2/0?context=%7b%22Tid%22%3a%220a33589b-0036-4fe8-a829-3ed0926af886%22%2c%22Oid%22%3a%225cef929d-ecf9-4fca-bf12-bc5ee065fc99%22%7d)
 
-[The scrum approach to project success](../../Study%20Content/Agile%20Project%20Management/1.%20The%20scrum%20approach%20to%20project%20success.html)
-[Essential roles for scrum teams](../../Study%20Content/Agile%20Project%20Management/2.%20Essential%20roles%20for%20scrum%20teams.html)
-[Project vision and roadmaps](../../Study%20Content/Agile%20Project%20Management/3.%20Project%20vision%20and%20roadmaps.html)
+- [The scrum approach to project success](../../Study%20Content/Agile%20Project%20Management/1.1.%20The%20scrum%20approach%20to%20project%20success.html)
+- [Essential roles for scrum teams](../../Study%20Content/Agile%20Project%20Management/1.2.%20Essential%20roles%20for%20scrum%20teams.html)
+- [Project vision and roadmaps](../../Study%20Content/Agile%20Project%20Management/1.3.%20Project%20vision%20and%20roadmaps.html)
 
 ## Tuesday
-[9 to 12h: Site Visit: A day in the life of Wim]()
+Make sure to be at the Datalab at 9:00 AM! We're going to the municipality together to meet our clients and meet a real-life data scientist: Wim! Then we'll return for a workshop from 2 guest lecturers on the agile project management we'll use this block: Scrum! After which we'll have drinks together! ***If you're late without a valid excuse, you're going to have to pay for Zhanna's Vodka shots!***
+- **[9 AM to 12 AM: Site Visit: A day in the life of Wim]**
 
-[13 to 17h: Scrum Workshop]()
+- **[13 PM to 17 PM: Scrum Workshop]**
 
-[17h+: Drinks!]()
+- **[17 PM+: Drinks!]**
 
 ## Wednesday
-[Sprint planning and standups using Jira](../../Study%20Content/Agile%20Project%20Management/4.%20Sprint%20planning%20and%20standups.html)
+[Creating a Project Vision and Roadmap](../../Study%20Content/Agile%20Project%20Management/3.%20Sprint%20planning%20and%20standups.html)
 
 
 ## Thursday
-[Wrapping up a sprint and retrospectives](../../Study%20Content/Agile%20Project%20Management/5.%20Wrapping%20up%20a%20sprint%20and%20retrospectives.html)
+- [Sprint planning and standups using Jira](../../Study%20Content/Agile%20Project%20Management/3.%20Sprint%20planning%20and%20standups.html)
+- [Wrapping up a sprint and retrospectives](../../Study%20Content/Agile%20Project%20Management/5.%20Wrapping%20up%20a%20sprint%20and%20retrospectives.html)
 
 ## Friday
 [DataLab: Project vision and roadmap - Creative Brief](../../Study%20Content/Agile%20Project%20Management/3.1.%20DataLab%20Scrum.html)

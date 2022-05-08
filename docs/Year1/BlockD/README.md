@@ -114,3 +114,5 @@ __Useful Resources:__
 [Geospatial analytics](../../Study%20Content/Geospatial%20Analytics/GeospatialAnalytics1.html)
 
 [Time series](../../Study%20Content/Time%20Series/TimeSeries1.html)
+
+[Sociology](../../Study%20Content/Sociology/Sociology1.html)

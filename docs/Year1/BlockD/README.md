@@ -31,7 +31,7 @@ In addition, you are expected to ensure that your solution complies to the
 latest legal and ethical frameworks. Introductory workshops will be provided on this subject.
 Note that the amount of new knowledge and skills to acquire via GitHub classroom is limited: the focus is on participating in a real-life project executed as a group.
 
-> Please refer to the [project brief]() for more detailed information.
+> Please refer to the [project brief](https://edubuas.sharepoint.com/:w:/t/2021-22DFGA1.P4ADSAI/EfWuvBXhTEZDjrXp1QB8z_wB9DoVGHl2NBiaRyodoYYx1w?e=As5NZW) for more detailed information.
 
 ### Team-based working - Agile Scrum
 

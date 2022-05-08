@@ -2,6 +2,6 @@
 sort: 1
 ---
 
-# Content Documentation
+# Sociology
 
 {% include list.liquid all=true %}

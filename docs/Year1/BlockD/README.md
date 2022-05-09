@@ -31,7 +31,6 @@ In addition, you are expected to ensure that your solution complies to the
 latest legal and ethical frameworks. Introductory workshops will be provided on this subject.
 Note that the amount of new knowledge and skills to acquire via GitHub classroom is limited: the focus is on participating in a real-life project executed as a group.
 
-<<<<<<< HEAD
 ### Datasets
 
 Please use the following datasets to help you solve the creative brief. You will be provided access to the data during Week 1 of the project. Please note that you are not expected to use all data. The data you pick will also depend on how you plan to approach the creative brief.
@@ -53,9 +52,6 @@ Note: When you want to use a dataset, make a copy, and save it to your local dev
 </div>
 
 > Please refer to the [project brief]() for more detailed information.
-=======
-> Please refer to the [project brief](https://edubuas.sharepoint.com/:w:/t/2021-22DFGA1.P4ADSAI/EfWuvBXhTEZDjrXp1QB8z_wB9DoVGHl2NBiaRyodoYYx1w?e=As5NZW) for more detailed information.
->>>>>>> 35c2a1b27f7a0ece1a807eae3dfce2bad91ca05f
 
 ### Team-based working - Agile Scrum
 

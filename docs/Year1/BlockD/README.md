@@ -31,7 +31,27 @@ In addition, you are expected to ensure that your solution complies to the
 latest legal and ethical frameworks. Introductory workshops will be provided on this subject.
 Note that the amount of new knowledge and skills to acquire via GitHub classroom is limited: the focus is on participating in a real-life project executed as a group.
 
-> Please refer to the [project brief](https://edubuas.sharepoint.com/:w:/t/2021-22DFGA1.P4ADSAI/EfWuvBXhTEZDjrXp1QB8z_wB9DoVGHl2NBiaRyodoYYx1w?e=As5NZW) for more detailed information.
+### Datasets
+
+Please use the following datasets to help you solve the creative brief. You will be provided access to the data during Week 1 of the project. Please note that you are not expected to use all data. The data you pick will also depend on how you plan to approach the creative brief.
+
+| Dataset: | Publisher: | Measurement level: | Description : |
+| --- | --- | --- | --- |
+| Statistische gegevens per vierkant en postcode 2020-2019-2018 | CBS/SN | Grid | Annual publication of demographics, housing, energy, social security, density, and proximity of facilities to  low-regional division into grids and postal code, 2015 and beyond |
+| Green index | Municipality of Breda | Grid | Score indicating the degree of greenery on a grid level |
+| Heat stress index | Municipality of Breda | Grid | Score indicating the level of heat stress on a grid level |
+| Livability index | Municipality of Breda | Grid | Score indicating the livability on a grid level |
+| Move house | Municipality of Breda | Grid | The number of households moving from Breda to another location (within or outside the municipality) |
+| Survey Data | Municipality of Breda | Neighbourhood | Survey regarding social capital and neighborhood participation |
+| Klimaateffectatlas | Klimaateffectatlas | Various | A collection of datasets illustrating the effects of climate change on people and their living environment |
+
+You can find all the datasets, except for the [Klimaateffectatlas](https://www.klimaateffectatlas.nl/en/), [here](https://edubuas-my.sharepoint.com/:f:/g/personal/blerck_i_buas_nl/EsTq18u6_kpAmo3O8YfXbcwB7VPo0iGMUGw55O0uItuaog?e=sqvTso).  
+
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Note: When you want to use a dataset, make a copy, and save it to your local device. Do not change the original datasets in the shared OneDrive directory! 
+</div>
+
+> Please refer to the [project brief]() for more detailed information.
 
 ### Team-based working - Agile Scrum
 

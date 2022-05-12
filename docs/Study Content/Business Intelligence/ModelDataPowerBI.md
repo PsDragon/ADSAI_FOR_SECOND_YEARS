@@ -28,7 +28,7 @@ __2a__ Complete the module ```Design a data model in Power BI```, ```Introductio
 __2b__ Complete ```Module 4 - Design a Data Model in Power BI``` (Part 1 & 2) lab exercise, which you can find [here](https://microsoftlearning.github.io/DA-100-Analyzing-Data-with-Power-BI/).
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: Got stuck writing a DAX function?! No worries, there are many great online DAX resources to help you get back on track. For example: <a href="(https://dax.guide/">DAXGUIDE</a>.
+Tip: Got stuck writing a DAX function?! No worries, there are many great online DAX resources to help you get back on track. For example: <a href="https://dax.guide">DAXGUIDE</a>.
 </div>
 
 ***

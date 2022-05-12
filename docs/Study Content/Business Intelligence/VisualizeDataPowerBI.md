@@ -28,7 +28,7 @@ __2a__ Complete the module ```Work with Power BI visuals```, ```Create a data-dr
 __2b__ Complete ```Module 7 - Create Reports``` (Part 1 & 2) lab exercise, which you can find [here](https://microsoftlearning.github.io/DA-100-Analyzing-Data-with-Power-BI/).
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: Need some inspiration for your dashboard? Check out <a href="(https://www.youtube.com/channel/UCFp1vaKzpfvoGai0vE5VJ0w">Guy in a Cube</a> (Microsoft employees who are Power BI experts) on YouTube.
+Tip: Need some inspiration for your dashboard? Check out <a href="https://www.youtube.com/channel/UCFp1vaKzpfvoGai0vE5VJ0w">Guy in a Cube</a> (Microsoft employees who are Power BI experts) on YouTube.
 </div>
 
 ***

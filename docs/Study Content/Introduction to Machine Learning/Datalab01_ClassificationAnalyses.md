@@ -12,20 +12,29 @@ We start with a Q&A and reflection on classification algorithms. Then, we will a
 3. Apply one-hot encoding to the youth care dataset (optional)
 
 Table of contents:
+0. Stand-up: 0.5 hours
 1. Q&A: 0.5 hours
 2. Titanic Regression Project: 3 hours
 3. Oosterhout Dataset: Classification Analysis: 3 hours
 4. Additional material (optional): 2 hours
    4.1. The learning curve
    4.2. Data encoding: One-hot encoding
-5. In-class Discussion
+5. Day-reflection
 
 ## Questions or issues?
-If you have any questions or issues regarding the course material, please first ask your peers or ask us if you can't figure it out together!
-
+If you have any questions or issues regarding the course material after the Q&A, please first ask your peers or ask us if you can't figure it out together!
 
 
 Good luck!
+
+## 0) Stand-up
+We start by hosting a stand-up. Form groups of ~ 5 and run on-another through the following points:
+- What progress have you made up since last datalab?
+- What progress do you anticipate to make today?
+- What impediments are you facing or expecting?
+- With what could you use help or support?
+
+**Open your worklog and plan your day informed by the stand-up and today's schedule**
 
 ## 1) Q & A
 We start by briefly reflecting on what we learned about classification algoritms, overfitting and the bias-variance trade-off. Do you have any questions? Now is the time to ask them!
@@ -38,8 +47,21 @@ Now, we're introduced to classification algorithms it's time ground down these f
 
 
 ## 3) Oosterhout Dataset: Classification
-1. Create a python script called ClassificationOosterhout and save it to your GitHub repository.
-2. Perform Logistic regression on Oosterhout dataset
+### Document your code
+Write your argumentation down in a in-line comments; and for every line of code: write an in-line comment explaining what the line of code does exactly. Figure 1. below is a good demonstration of documented code.
+<figure>
+    <img src=".\images\InLineComment.jpg" />
+    <figcaption>Figure 1.</figcaption>
+</figure>
+<br>
+The [example script](https://github.com/BredaUniversityADSAI/ADS-AI/tree/main/docs/Study%20Content/DataScience/assets/DS2_Example) I provided in Data Science 1 is also a good example of how to document your code; albeit that one was done in R.
+
+0. Open your python file (MachineLearning_OosterhoutModels_...) used for the final delivery of your model. If you didn't fill in the assignment template yet, [download it here](https://github.com/BredaUniversityADSAI/ADS-AI/blob/3a73817f6ad0d65d0f97fa33cb867dce004df50c/docs/Study%20Content/Introduction%20to%20Machine%20Learning/Assets/MachineLearning_TemplateScript_FirstName_LastName_StudentNumber.ipynb.ipynb) and fill it in accordingly: use the **User Guide**.
+1. Load in the youthcare dataset you created in Business Intelligence if you haven't done so already. Load in any other data you might need. Then save your file to your GitHub repository.
+2. Open your research design and use in-line comments to  formulate a logistic regression; or classification, analysis based on your research question (or when not answerable using this type of analysis: perform an analysis related to your research question). Start by listing the variables which you think could predict the outcome variable you're interested in and motivate why you think they might predict your outcome variable.
+3. Create your fully fitted model (so the model containing all variables you wrote down in step 2) under the python code you just wrote.
+4. Test, re-fit and validate your model. Create a new model on a new line for every re-fit. Keep track of any predictor variables you exclude from the full model when re-fitting. Motivate why you are excluding; or including new variables using in-line comments.
+5. Continue till 16:00, or stop when you feel you can no longer improve the model. Then save your file to your GitHub repository.
 
 ## 4) Additional material (optional)
 
@@ -125,7 +147,7 @@ pandas:
 
 - [get_dummies()](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.get_dummies.html)
 
-## 5) In-Class discussion
+## 5) Day-reflection
 At 16:30, there's a meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today's activities.
 
 

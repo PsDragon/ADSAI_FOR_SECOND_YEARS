@@ -1,4 +1,4 @@
-# Block B - Pre-production (Data Understanding and Preparation)
+# Block B - Data Understanding and Preparation
 
 Each of the 8 weeks has a fixed structure : on Monday, Wednesday and Thursday you work individually on the development of basic skills, which are needed to execute the DataLab assignments. Kindly follow the table of content below, this will guide you through what is expected of you on a daily basis.
 
@@ -10,6 +10,7 @@ One of the key responsibilities of the municipality of Oosterhout (henceforth th
 > The client has approached you – the data analyst – with the aim to discover more efficient (in cost and time) ways of delivering youth care.
 
 At the beginning of the project, you will be introduced to the use-case by a data analyst from one of the municipalities. You can consult the client’s data analyst if you have any questions or wish to deepen your understanding of the use-case.
+Please refer to the project brief for more detailed information.
 
 ## Creative Brief Requirements:
 
@@ -111,7 +112,7 @@ At the beginning of the project, you will be introduced to the use-case by a dat
 [Classifications Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/ClassificationAlgorithms.html)
 
 ## Friday
-[DataLab: Classification Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab01_ClassificationAnalyses.html)
+DAY OFF: CHRISTMAS HOLIDAYS! :D
 
 # Week 6 : Machine Learning and Mathematics
 
@@ -119,16 +120,26 @@ At the beginning of the project, you will be introduced to the use-case by a dat
 [Linear Algebra and Linear models (least squares)](https://adsai.buas.nl/Study%20Content/Mathematics%20I/4.%20Linear%20Algebra%20and%20(linear)%20Regressions.html)
 
 ## Tuesday
-[DataLab: Normal equations for linear regression](../../Study%20Content/Mathematics%20I/5.%20DataLab2.html)
+Because of the online teaching situation, we’re forced to change our schedule around a bit. Datalab will still follow it’s normal structure but we’re going to use this Datalab day to make sure we have week 4 and 5 properly covered. Therefore, after the Q&A, we do our week 5 Math Datalab day and in the afternoon we will finish week 4’s machine learning Datalab day for those who haven’t finished it yet. Furthermore, from 10:00 till 16:00 we will have some brief one-on-one meetings to check everyone's progress where we'll ask you to show your learning log and project progress thus far. The schedule will therefore be as follows:
+
+### *Schedule*
+- 9:00 – 9:30	Stand-up in breakout rooms
+- 9:30 – 10:00	Q&A
+- 10:00 – 12:30	[DataLab: Implementing elementary operations on matrices using Python](../../Study%20Content/Mathematics%20I/2.%20DataLab1.html)
+- 12:30 – 13:30	Lunch
+- 13:30 – 16:00	[DataLab: Regression Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab00_RegressionAnalyses.html); continue where you left off last time!
+- 16:00 – 16:30 	Day evaluation
+- 16:30 – 17:00	Fill in your Work- & Learning log
+
 
 ## Wednesday
-[Tree Based Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/DecisionTrees.html)
+[Decision Trees](../../Study%20Content/Introduction%20to%20Machine%20Learning/DecisionTrees.html)
 
 ## Thursday
-[Supervised Learning: a recap](../../Study%20Content/Introduction%20to%20Machine%20Learning/RandomForests.html)
+[Supervised Learning: a Recap](https://adsai.buas.nl/Study%20Content/Introduction%20to%20Machine%20Learning/SupervisedLearningRecap.html)
 
 ## Friday
-[DataLab: Tree based Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab02_TreeBasedAnalyses.html)
+- [DataLab: Classification Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab01_ClassificationAnalyses.html)
 
 
 # Week 7: Machine Learning and Mathematics
@@ -137,24 +148,26 @@ At the beginning of the project, you will be introduced to the use-case by a dat
 [Matrix Factorization: PCA Algorithm](../../Study%20Content/Mathematics%20I/6.%20Image%20Processing%20using%20Linear%20Algebra%20I.html)
 
 ## Tuesday
-[DataLab: PCA Algorithm in practice](../../Study%20Content/Mathematics%20I/7.%20DataLab3.html)
+[DataLab: Normal equations for linear regression](../../Study%20Content/Mathematics%20I/5.%20DataLab2.html)
 
 ## Wednesday
 [Matrix operations on images: Convolution & Kernels](../../Study%20Content/Mathematics%20I/8.%20Linear%20Algebra%20and%20Image%20Processing%20II.html)
 
 ## Thursday
-[Machine Learning: Unsupervised Learning](../../Study%20Content/Introduction%20to%20Machine%20Learning/ClusteringK-Means.html)
+[Clustering: K-Means - Unsupervised Machine Learning ](../../Study%20Content/Introduction%20to%20Machine%20Learning/ClusteringK-Means.html)
 
 ## Friday
-[DataLab: Unsupervised Learning](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab03_ClusteringAnalyses.html)
+- [DataLab: Clustering Analyses](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab03_ClusteringAnalyses.html)
+- [DataLab: Tree based Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab02_TreeBasedAnalyses.html)
 
-# Week 8 : Neural networks and it's a wrap!
+
+# Week 8 : Business Case Preparation
 
 ## Monday
-[Perceptron Algorithm](../../Study%20Content/Introduction%20to%20Machine%20Learning/Perceptron.html)
+[Apply ML to Oosterhout]
 
 ## Tuesday
-[DataLab: Perceptron](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab04_Perceptron.html)
+[DataLab: Apply ML to Oosterhout]
 
 ## Wednesday
 [Prepare business case presentation]

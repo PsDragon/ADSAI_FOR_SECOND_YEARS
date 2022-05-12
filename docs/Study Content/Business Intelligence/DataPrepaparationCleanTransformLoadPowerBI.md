@@ -15,9 +15,10 @@ During this independent study day, you will be introduced to one of the most pop
 
 *Figure 1. Microsoft Certified: Data Analyst Associate.*
 
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Note: After completing Microsoft's data analyst associate tutorial, you should be able to pass the corresponding exam. For more information, see <a href="(https://docs.microsoft.com/en-us/learn/certifications/data-analyst-associate/#certification-exams">Exam DA-100: Analyzing Data with Microsoft Power BI</a> or contact one of your lecturers.
-</div>
+
+> Note: After completing Microsoft's data analyst associate tutorial, you should be able to pass the corresponding exam. For more information, see [Exam DA-100: Analyzing Data with Microsoft Power BI](https://docs.microsoft.com/en-us/learn/certifications/data-analyst-associate/#certification-exams)
+ or contact one of your lecturers.
+
 
 ***
 
@@ -66,7 +67,7 @@ Step 1. Install [Microsoft SQL Server 2019](https://www.microsoft.com/en-GB/sql-
 *Video 1. How to download and install Microsoft SQL Server 2019 database and SQL Server Management Studio by Lie Jenn.*
 
 Step 2. Git clone Microsoft's [DA-100: Analyzing Data with Power BI](https://github.com/MicrosoftLearning/DA-100-Analyzing-Data-with-Power-BI) GitHub repository.
-Step 3. Manually add AdventureWorksDW2020.bak (location: DA-100-Analyzing-Data-with-Power-BI --> Allfiles --> DA-100-Allfiles) to your databases listed in Microsoft SQL Server Management Studio. Follow the instructions provided in the section ´Restore to SQL Server´ from Microsoft's AdventureWorks sample databases article, which you can access [here](https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms).
+Step 3. Manually add AdventureWorksDW2020.bak (location: DA-100-Analyzing-Data-with-Power-BI --> Allfiles --> DA-100-Allfiles --> DatabaseBackup) to your databases listed in Microsoft SQL Server Management Studio. Follow the instructions provided in the section ´Restore to SQL Server´ from Microsoft's AdventureWorks sample databases article, which you can access [here](https://docs.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FTKtNLmiIT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -75,6 +76,8 @@ Step 3. Manually add AdventureWorksDW2020.bak (location: DA-100-Analyzing-Data-w
 For the DataLab sessions, you need to install Power BI Desktop on your local device. If you have not installed it yet, please do so! You can download the software, [here](https://powerbi.microsoft.com/en-gb/desktop/).
 
 __3b__ Complete ```Module 2 - Get Data in Power BI``` and ```Module 3 - Clean, Transform, and Load Data in Power BI``` lab exercise, which you can find [here](https://microsoftlearning.github.io/DA-100-Analyzing-Data-with-Power-BI/).
+
+When everything fails, you can use the AdventureWorks dashboard template. See teams folder Class Materials --> Business Intelligence --> Data --> AdventureWorks2020.pbix
 
 ***
 

@@ -63,8 +63,6 @@ __2a__ Read the articles linked below for an explanation of the key aspects of t
 
 - Read an article about The Artificial Intelligence Act by Mueller, B. (2021, May 4) by clicking this [link](https://datainnovation.org/2021/05/the-artificial-intelligence-act-a-quick-explainer/).
 
-- Read an article on Artificial Intelligence Act: What Is the European Approach for AI? (2021, October 16) by clicking this [link](https://www.lawfareblog.com/artificial-intelligence-act-what-european-approach-ai ).
-
 
 __2b__ Watch this webinar recording discussing the EU’s approach to artificial intelligence – the discussion also ventures into how governments are around the world are engaging with the EU on this proposed legislation.
 
@@ -85,7 +83,6 @@ __2c__ Read Articles 1 – 24 of the proposed [AI Act](https://eur-lex.europa.eu
 
 For the purposes of this module, focus on Articles 1 – 24.
 
-If you are interested, read the Explanatory Memorandum, as it explains why the Articles are drafted the way they are. *All you are expected to do is gain some familiarity and understanding of the structure and broad content, and where to find the most important principles and requirements.*
 
 __2d__ Check your understanding:
 

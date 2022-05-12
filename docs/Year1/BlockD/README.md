@@ -48,7 +48,7 @@ Please use the following datasets to help you solve the creative brief. You will
 You can find all the datasets, except for the [Klimaateffectatlas](https://www.klimaateffectatlas.nl/en/), [here](https://edubuas-my.sharepoint.com/:f:/g/personal/blerck_i_buas_nl/EsTq18u6_kpAmo3O8YfXbcwB7VPo0iGMUGw55O0uItuaog?e=sqvTso).  
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Note: When you want to use a dataset, make a copy, and save it to your local device. Do not change the original datasets in the shared OneDrive directory! 
+Note: When you want to use a dataset, make a copy, and save it to your local device. Do not change the original datasets in the shared OneDrive directory!
 </div>
 
 > Please refer to the [project brief]() for more detailed information.
@@ -94,12 +94,12 @@ Make sure to be at the Datalab at 9:00 AM! We're going to the municipality toget
 - **17 PM+: Drinks!**
 
 ## Wednesday
-[Creating a Project Vision and Roadmap](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/3%20Creating%20a%20Project%20Vision,%20Roadmap%20and%20Project%20Planning.html)
+[Creating a Project Vision and Roadmap](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/3.%20Creating%20a%20Project%20Vision,%20Roadmap%20and%20Project%20Planning.html)
 
 
 ## Thursday
-- [Sprint planning and standups using Jira](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/4.2.%20Sprint%20planning%20and%20standups.html)
-- [Wrapping up a sprint and retrospectives](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/4.1.%20Wrapping%20up%20a%20sprint%20and%20retrospectives.html)
+- [Sprint planning and standups using Jira](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/4.1.%20Sprint%20planning%20and%20standups.html)
+- [Wrapping up a sprint and retrospectives](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/4.2.%20Wrapping%20up%20a%20sprint%20and%20retrospectives.html)
 
 ## Friday
 [DataLab: Project vision and roadmap - Creative Brief](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/5.%20DataLab%202%20Scrum.html)

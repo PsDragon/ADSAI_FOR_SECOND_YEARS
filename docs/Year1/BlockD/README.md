@@ -124,7 +124,7 @@ Make sure to be at the Datalab at 9:00 AM! We're going to the municipality toget
 # Week 3: Project work & the Weather stations
 
 ## Monday
-[DataLab: Build your own weather stations](https://www.meetjestad.net/)
+[DataLab: Build your own weather stations](../../Study%20Content/Geospatial%20Analytics/WeatherStationWorkshop.html)
 
 ## The rest of the block is dedicated to project work.
 

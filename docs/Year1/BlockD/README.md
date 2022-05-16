@@ -110,7 +110,6 @@ Make sure to be at the Datalab at 9:00 AM! We're going to the municipality toget
 [Introduction to the European Union Law-Making Process](../../Study%20Content/Digital%20Transformation/Legal%201.html)
 
 ## Tuesday
-Morning: Sprint Review & Sprint Retrospective with Product Owner
 [DataLab: Implementing AI law in practice](../../Study%20Content/Digital%20Transformation/DataLab,%20Legal%201.html)
 
 ## Wednesday

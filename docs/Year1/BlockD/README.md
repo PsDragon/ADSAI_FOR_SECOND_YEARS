@@ -110,8 +110,8 @@ Make sure to be at the Datalab at 9:00 AM! We're going to the municipality toget
 [Introduction to the European Union Law-Making Process](../../Study%20Content/Digital%20Transformation/Legal%201.html)
 
 ## Tuesday
+Morning: Sprint Review & Sprint Retrospective with Product Owner
 [DataLab: Implementing AI law in practice](../../Study%20Content/Digital%20Transformation/DataLab,%20Legal%201.html)
-[DataLab: Build your own weather stations](https://www.meetjestad.net/)
 
 ## Wednesday
 [The Proposed Artificial Intelligence Act](../../Study%20Content/Digital%20Transformation/Legal%202.html)
@@ -122,12 +122,19 @@ Make sure to be at the Datalab at 9:00 AM! We're going to the municipality toget
 ## Friday
 [**HOLIDAY**]
 
+# Week 3: Project work & the Weather stations
+
+## Monday
+[DataLab: Build your own weather stations](https://www.meetjestad.net/)
+
 ## The rest of the block is dedicated to project work.
+
+
 
 **Every Tuesday and Friday,
 in the datalab you will be provided feedback on your (teams)
-progress using the Jira dashboard, and in addition, every Friday you are expected to plan a
-new sprint and reflect on the previous sprint.**
+progress using the Jira dashboard, and in addition, every Friday you are expected to review your sprint, do a sprint retrospective and plan a
+new sprint.**
 
 __Useful Resources:__
 

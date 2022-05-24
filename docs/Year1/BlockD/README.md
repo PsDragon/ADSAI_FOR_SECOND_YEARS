@@ -45,13 +45,13 @@ Please use the following datasets to help you solve the creative brief. You will
 | Survey Data | Municipality of Breda | Neighbourhood | Survey regarding social capital and neighborhood participation |
 | Klimaateffectatlas | Klimaateffectatlas | Various | A collection of datasets illustrating the effects of climate change on people and their living environment |
 
-You can find all the datasets, except for the [Klimaateffectatlas](https://www.klimaateffectatlas.nl/en/), [here](https://edubuas-my.sharepoint.com/:f:/g/personal/blerck_i_buas_nl/EsTq18u6_kpAmo3O8YfXbcwB7VPo0iGMUGw55O0uItuaog?e=sqvTso).  
+You can find all the datasets, except for the [Klimaateffectatlas](https://www.klimaateffectatlas.nl/en/), [here](https://edubuas-my.sharepoint.com/:f:/g/personal/blerck_i_buas_nl/EsTq18u6_kpAmo3O8YfXbcwB7VPo0iGMUGw55O0uItuaog?e=sqvTso).
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Note: When you want to use a dataset, make a copy, and save it to your local device. Do not change the original datasets in the shared OneDrive directory!
 </div>
 
-> Please refer to the [project brief]() for more detailed information.
+> Please refer to the [project brief](https://edubuas.sharepoint.com/:w:/t/2021-22DFGA1.P4ADSAI/EfWuvBXhTEZDjrXp1QB8z_wB9DoVGHl2NBiaRyodoYYx1w?e=KnCnXZ) for more detailed information.
 
 ### Team-based working - Agile Scrum
 

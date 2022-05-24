@@ -1,4 +1,4 @@
-# Year 2 - AI foundations and Role Orientation
+# Year 2 - Role Orientation
 
 In the second year the programme focuses on building on the foundations learned in the first year.
 

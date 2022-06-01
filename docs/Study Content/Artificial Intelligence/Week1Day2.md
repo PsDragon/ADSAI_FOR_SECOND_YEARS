@@ -2,7 +2,7 @@
 sort: 2
 ---
 
-## __DataLab 1: Information literacy & Minority Report__
+## __DataLab 1: Minority Report & Information literacy (1)__
 
 In today's DataLab session, we will watch the movie Minority Report and subsequently start analyzing it for the assignment 'AI in Science Fiction' (i.e., presentation). Furthermore, we have prepared some material for you on the topic of information literacy (e.g., identifying useful information sources, choosing an appropriate citation style guide, etc.).
 

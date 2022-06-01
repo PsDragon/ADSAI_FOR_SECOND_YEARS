@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-## __Philosophy AI & Logs__
+## __Philosophy AI & Student logs__
 
 Today, you will start your journey into the wonderful world of Artificial Intelligence :rainbow: :computer: During the first independent study day, you will dive into the foundational concepts of AI by examining its philosophy. In addition, you will receive instruction on how to work with your Learning and Work Log. By the end of this day, having completed the relevant readings and activities listed in the study material, you should be well prepared for DataLab 1.
 
@@ -111,5 +111,11 @@ Write down the title, author(s), accession number and publication year.
 
 - [ ] Fill in your Work Log.
 - [ ] Set a goal for Week 1, and note it down in your Learning Log.   
+
+***
+
+## __Footnote(s)__
+
+<a name="footnote_1">1</a>: Hereforth abbreviated as AIMA.
 
 ***

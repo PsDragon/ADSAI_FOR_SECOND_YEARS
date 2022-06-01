@@ -2,6 +2,6 @@
 sort: 1
 ---
 
-# Content Documentation
+# Course Catalog
 
 {% include list.liquid all=true %}

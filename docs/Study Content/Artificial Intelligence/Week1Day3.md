@@ -97,7 +97,7 @@ __1.2e__ Describe the procedure, and main objective of Turing's 'Imitation Game'
 
 ## 2) Preparation for the conference
 
-Tomorrow, we will attend the Artificial Intelligence & the BUAS domains conference at the Chapel, from 9:00-16:00. It is a mandatory activity for all ADS&AI students. Thus, make sure you are available throughout the day.
+Tomorrow, we will attend the Artificial Intelligence & The BUAS domains conference at the Chapel, from 9:00-16:00. It is a mandatory activity for all ADS&AI students. Thus, make sure you are available throughout the day.
 
 __Speakers:__
 - fgdfg

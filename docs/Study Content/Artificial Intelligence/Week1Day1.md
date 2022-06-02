@@ -82,7 +82,7 @@ __2f__ Connect the Post It notes (Fig 2.) to the relevant quadrant in the philos
 *Figure 2. Post It notes with the philosophy of AI terms.*
 \
 \
-<img src="./images/AI_matrix_v2.png" alt="Philosophy of AI Matrix" width="600"/>
+<img src="./images/AI_matrix_v2.png" alt="Philosophy of AI Matrix" width="400"/>
 
 *Figure 3. Philosophy of AI matrix.*
 

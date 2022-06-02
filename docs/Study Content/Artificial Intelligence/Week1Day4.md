@@ -8,6 +8,8 @@ Today, we will attend the Artificial Intelligence & the BUAS domains conference 
 
 <img src="./images/Conference.jpg" alt="Conference" width="550"/>
 
+<br>
+
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Tip: If you take notes during the presentation, it will be easier to formulate the questions you might have for the speaker.
 </div>

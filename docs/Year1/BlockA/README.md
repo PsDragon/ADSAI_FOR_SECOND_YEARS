@@ -33,21 +33,17 @@ Week 6-8: [Programming in Python](#week-6--programming-in-python)
 ## Monday
 - [Intelligent Agents & Conversational AI](../../Study%20Content/Artificial%20Intelligence/Week2Day1.html)
 
-
 ## Tuesday
-- [AI in Science Fiction (3): Quizzes on Scientific writing. Presentations on the first draft of the report](../../Study%20Content/Digital%20Transformation/AI%20in%20Science%20Fiction%203.html)
-
+- [DataLab 1: The Turing Test](../../Study%20Content/Artificial%20Intelligence/Week2Day2.html)
 
 ## Wednesday
-- [Scientific writing (2): Citation. Mechanics of style of effective writing](../../Study%20Content/Digital%20Transformation/Scientific%20writing%202.html)
+- [Taxonomy of AI (1)](../../Study%20Content/Digital%20Transformation/Scientific%20writing%202.html)
 
 ## Thursday
-- [AI for Business (2): Application of AI by businesses](../../Study%20Content/Digital%20Transformation/AIForBusiness2.html)
-
+- [Taxonomy of AI (2) & Risk and benefits of AI](../../Study%20Content/Digital%20Transformation/AIForBusiness2.html)
 
 ## Friday
-- [AI in Science Fiction (4): Quiz on Scientific writing. Q&A session on the report. ](../../Study%20Content/Digital%20Transformation/AI%20in%20Science%20Fiction%204.html)
-
+- [DataLab 2: Minority Report (2)](../../Study%20Content/Artificial%20Intelligence/Week2Day5.html)
 
 # Week 3 : Data Science
 

@@ -4,35 +4,34 @@ Each of the 8 weeks has a fixed structure : on Monday, Wednesday and Thursday yo
 
 Project Timeline :
 
-Week 1-2: [Digital Transformation & Artificial Intelligence](#week-1--digital-transformation--artificial-intelligence)
+Week 1-2: [Introduction to Artificial Intelligence](#week-1--introduction-to-artificial-intelligence)
 
 Week 3-5: [Data Science](#week-3--data-science)
 
 Week 6-8: [Programming in Python](#week-6--programming-in-python)
 
-# Week 1 : Digital Transformation & Artificial Intelligence
+# Week 1 : Introduction to Artificial Intelligence (1)
 
 ## Monday
-- [Foundations of AI (1): Philosophy, and history of AI](../../Study%20Content/Artificial%20Intelligence/FoundationsOfAI1.html)
-- [Turing Test & Chatbots (1): Article](../../Study%20Content/Artificial%20Intelligence/TuringTestChatbots1.html)
+- [Philosophy AI & Student logs](../../Study%20Content/Artificial%20Intelligence/Week1Day1.html)
 
 ## Tuesday
-- [AI in Science Fiction (1): Minority Report & Outline](../../Study%20Content/Artificial%20Intelligence/AIInScienceFiction1.html)
+- [DataLab 1: Minority Report (1) & Information literacy (1)](../../Study%20Content/Artificial%20Intelligence/Week1Day2.html)
 
 ## Wednesday
-- [Scientific writing (1): The structure of a paragraph and rules of writing; Bias-free language ](../../Study%20Content/Digital%20Transformation/Scientific%20writing%201)
+- [History of AI & Information literacy (2)](../../Study%20Content/Artificial%20Intelligence/Week1Day3.html)
 
 ## Thursday
-- [Foundations of AI (2): Symbolic/non-symbolic AI & Intelligent agents](../../Study%20Content/Artificial%20Intelligence/FoundationsOfAI2.html)
+- [Conference: Artificial Intelligence & The BUAS domains](../../Study%20Content/Artificial%20Intelligence/Week1Day4.html) (Location: BUAS Campus)
 
 ## Friday
-- [Turing Test & Chatbots (2): Discussion & Turing Test](../../Study%20Content/Artificial%20Intelligence/TuringTestChatbots2.html)
+- [DataLab 2: Presenting](../../Study%20Content/Artificial%20Intelligence/Week1Day5.html)
 
 
-# Week 2 : Digital Transformation & Artificial Intelligence
+# Week 2 : Introduction to Artificial Intelligence (2)
 
 ## Monday
-- [AI for Business (1): Introduction into application of AI in businesses & Risks and benefits of AI](../../Study%20Content/Digital%20Transformation/AIForBusiness1.html)
+- [Intelligent Agents & Conversational AI](../../Study%20Content/Artificial%20Intelligence/Week2Day1.html)
 
 
 ## Tuesday

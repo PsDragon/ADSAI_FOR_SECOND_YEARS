@@ -2,7 +2,7 @@
 sort: 7
 ---
 
-## DataLab 2: The Turing Test
+## DataLab 1: The Turing Test
 
 In today's DataLab session, we will perform an experiment called the Turing Test. A quick refresher:
 

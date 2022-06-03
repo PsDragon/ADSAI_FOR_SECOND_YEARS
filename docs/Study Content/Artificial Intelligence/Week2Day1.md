@@ -11,7 +11,7 @@ Today's independent study material focuses on intelligent agents, particularly c
 1. Define the terms 'intelligent agent', 'algorithm', and 'chatbot'
 2. Explain what the Loebner Prize entails
 3. Provide an example of an intelligent agent, and give a PEAS description of the task environment
-4. Compare, and contrast the four main agent types/architectures
+4. Compare, and contrast the main (conversational) agent types/architectures
 5. Create a simple rule-based chatbot with Google Forms, and Fobio.io
 
 ## Questions or issues?
@@ -76,15 +76,27 @@ __1.2a__ Watch video on chatbots and virtual agents by Angela Wick.
 
 __1.2b__ Provide three examples of a chatbot, which you might encounter in your everyday life. Write your answer down.
 
+__1.2c__ Read the article [What are Chatbots](https://www.codecademy.com/article/what-are-chatbots), which elaborates on the different types of chatbots, - i.e., their architectures, and how they work.
+
+__1.2d__ List, and describe the advantages and disadvantages of using the following response generation chatbot types: rule-based, retrieval-based, and generative.
+
+__1.2e__ Watch the video about ELIZA, the first chatbot, which Joseph Weizenbaum developed at MIT's Computerized Reasoning Laboratory in 1964.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RMK9AphfLco" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*Video 3. Before Siri and Alexa, there was ELIZA.*
+
+Created by Joseph Weizenbaum at the MIT Computerized Reasoning Laboratory in 1964 – 1966, the ELIZA chatbot was not only the first chatbo
+
 Now, it is time to develop your own chatbot...
 
-__1.2c__ Create a simple, code-free, rule-based chatbot with [Google Forms](https://docs.google.com/forms/u/0/), and [Fobi.io](https://fobi.io/). If you are new to Google Forms, check out the tutorial [Get started with Forms](https://support.google.com/a/users/answer/9302965?hl=en&visit_id=637898380966613309-4095149186&ref_topic=9296604&rd=1).
+__1.2f__ Create a simple, code-free, rule-based chatbot with [Google Forms](https://docs.google.com/forms/u/0/), and [Fobi.io](https://fobi.io/). If you are new to Google Forms, check out the tutorial [Get started with Forms](https://support.google.com/a/users/answer/9302965?hl=en&visit_id=637898380966613309-4095149186&ref_topic=9296604&rd=1).
 
 For a complete tutorial on how to create your chatbot, see video below:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hdiaN-7EHAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Video 3. Fobi.io -Create Chatbots with Google Forms.*
+*Video 4. Fobi.io -Create Chatbots with Google Forms.*
 
 Congratulations you have created your first [algorithm](https://www.britannica.com/science/algorithm)! :tada:
 
@@ -92,7 +104,7 @@ Want to make it a bit more challenging? Try to visualize your chatbot's algorith
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SWRDqTx8d4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Video 4. Introduction to Creating Flowcharts.*
+*Video 5. Introduction to Creating Flowcharts.*
 
 __What is a flowchart?__
 
@@ -108,6 +120,6 @@ __What is a flowchart?__
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Note: When you are finished with the independent study material, and still have some time left, try to apply your newly gained knowledge to the Creative Brief.
-</div> 
+</div>
 
 ***

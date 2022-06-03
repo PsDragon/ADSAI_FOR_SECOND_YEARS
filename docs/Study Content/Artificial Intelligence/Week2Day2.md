@@ -1,5 +1,5 @@
 ---
-sort: 3
+sort: 7
 ---
 
 ## DataLab 2: The Turing Test
@@ -9,6 +9,8 @@ In today's DataLab session, we will perform an experiment called the Turing Test
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3wLqsRLvV-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Video 1. The Turing test: Can a computer pass for a human? - Alex Gendler.*
+
+So, our goal for today is to pass the Turing Test... Yes, Loebner prize
 
 After the workshop you have time to work on the independent study material or creative brief, and/or ask the lecturers for feedback.
 
@@ -90,10 +92,16 @@ Tip: Try to come up with a set of possible weak points of the Turing Test
 
 ### 2.3 Turing Test
 
-<img src="./images/turing_test_comic.png" alt="Turing Test" width="450"/>
+<img src="./images/turing_test_comic.png" alt="Turing Test" width="400"/>
 
 *Figure 1. Turing Test, and the existential crisis...*
 
 In-class experiment, instructions by lecturer.  
+
+***
+
+## 3) Creative Brief: Minority Report (4)
+
+After finishing the in-class exercises, try to apply your newly gained knowledge to the Creative Brief. For example, you can investigate if the movie depicts any applications of conversational AI. If so, what are the technologies that drive these applications? Would you consider them 'intelligent'? Etc.
 
 ***

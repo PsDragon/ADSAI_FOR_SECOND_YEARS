@@ -34,7 +34,7 @@ __1b__ Answer the following questions:
 
 ## 2) Creative Brief: Minority Report (5)
 
-The goal of this DataLab is to finalize the presentation. For example, if you have not added references, visual elements, etc. Please, do so today.
+The goal of this DataLab is to finalize the presentation. For example, if you have not added references, visual elements, etc. Please, do so today. Furthermore, use this day to discuss the content of the presentation
 
 ***
 

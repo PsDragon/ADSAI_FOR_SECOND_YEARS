@@ -30,4 +30,8 @@ The next DataLab session, will focus on strengthening our presentation skills. A
 
 *Video 2. Undergraduate Students Unwittingly Subjected to World's Worst Research Presentation.*
 
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Note: When you are finished with the independent study material, and still have some time left, try to apply your newly gained knowledge to the Creative Brief.
+</div> 
+
 ***

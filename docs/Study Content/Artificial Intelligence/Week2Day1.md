@@ -106,4 +106,8 @@ __What is a flowchart?__
 
 - [ ] Search the Internet, and find out what the Loebner Prize is all about. List at least three facts. Elaborate on your findings.  
 
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Note: When you are finished with the independent study material, and still have some time left, try to apply your newly gained knowledge to the Creative Brief.
+</div> 
+
 ***

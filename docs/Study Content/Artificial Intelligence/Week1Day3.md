@@ -100,6 +100,7 @@ __1.2e__ Describe the procedure, and main objective of Turing's 'Imitation Game'
 Tomorrow, we will attend the Artificial Intelligence & The BUAS domains conference at the Chapel, from 9:00-16:00. It is a mandatory activity for all ADS&AI students. Thus, make sure you are available throughout the day.
 
 __Speakers:__
+
 fgdfg
 gfgdgh
 hghdhg
@@ -111,5 +112,9 @@ Research (e.g., domains, publications, etc.)
 Fun fact (Optional, bonus!)
 
 - [ ] Please, read the [blog post](http://elisagranato.com/phd-tips-asking-a-question-after-a-seminar) on how to ask questions after a seminar/presentation/demo, etc., by Elisa Granato. She provides tips and tricks that, among others, can help you to overcome some of the anxiety you might experience when asking questions.
+
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Note: When you are finished with the independent study material, and still have some time left, try to apply your newly gained knowledge to the Creative Brief.
+</div> 
 
 ***

@@ -110,7 +110,11 @@ __1.2g__ After completing the readings and exercises of this section, would you 
 Write down the title, author(s), accession number and publication year.
 
 - [ ] Fill in your Work Log.
-- [ ] Set a goal for Week 1, and note it down in your Learning Log.   
+- [ ] Set a goal for Week 1, and note it down in your Learning Log.  
+
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Note: When you are finished with the independent study material, and still have some time left, try to apply your newly gained knowledge to the Creative Brief.
+</div>
 
 ***
 

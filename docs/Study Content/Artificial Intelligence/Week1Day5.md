@@ -93,7 +93,13 @@ __2.2a__ Deliver your presentation to a small group of peers, and use the sandwi
 
 ***
 
-## 3) A Day in a life of ... (Optional)
+## 3) Creative Brief: Minority Report (3)
+
+After finishing the in-class exercises, try to apply your newly gained knowledge to the Creative Brief. For example, you could create an outline for your 'AI in Science Fiction' presentation, and discuss its content with your peers and/or mentor.
+
+***
+
+## 4) A Day in a life of ... (Optional)
 
 > Data-driven organization. You’ve likely heard this buzz phrase hundreds of times. But what does it really mean? And who are people who make data useful? ([Source](https://www.youtube.com/watch?v=m5hLUknIi5c)).
 

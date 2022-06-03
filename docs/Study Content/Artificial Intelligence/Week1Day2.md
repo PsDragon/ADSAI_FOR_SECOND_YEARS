@@ -47,7 +47,7 @@ If you are unable to attend the movie screening, [Minority Report]( https://www.
 
 > Information literacy is the ability to discover and use various types of information. It's an essential skill for navigating the information age. Watch this course to learn about strategies for finding information—from a library, archive, database, or the Internet—and the ethics of using it. Librarian Elsa Loftis discusses different types of resources and explains how to evaluate their usefulness and trustworthiness. She also shows how to avoid plagiarism and copyright infringement, and accurately cite sources ([Source](https://www.linkedin.com/learning/information-literacy/welcome?autoplay=true&resume=false&u=36359204)).
 
-__3a__ Complete the LinkedIn course [Information Literacy](https://www.linkedin.com/learning/information-literacy/welcome?autoplay=true&resume=false&u=36359204) (Optional). Unless you are a trained librarian or data professional, we highly recommend you to take the course.
+__3a__ Complete the LinkedIn course [Information Literacy](https://www.linkedin.com/learning/information-literacy/welcome?autoplay=true&resume=false&u=36359204) (Optional). Unless you are a trained librarian or data professional, we highly recommend you to take the course. Rather read a book? Then, visit LibreTexts and use one of the books listed on the webpage [Research and Information Literacy](https://human.libretexts.org/Bookshelves/Research_and_Information_Literacy). 
 
 __3b__ Identify, and select an AI related topic within one of the following BUAS domains:
 

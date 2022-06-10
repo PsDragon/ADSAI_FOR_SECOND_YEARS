@@ -10,7 +10,8 @@ In Block A, you will start with your journey into the wonderful world of Artific
 
 The block is divided into two phases:
 
-<img src="./BlockAFigure.png" alt="AI Domains" width="700"/> \
+<img src="./BlockAFigure.png" alt="Block AI overview" width="700"/> 
+
 *Figure 1. Overview Block A, Year 1.*
 
 ### 1. Foundations of AI (Week 1-2)
@@ -19,7 +20,7 @@ In the first two weeks of Block A, you will acquire foundational knowledge and u
 
 In week 3, you are required to give a 7-minute presentation, where you identify, and describe an AI topic in this movie, and place it within the Taxonomy of AI. Furthermore, you will need to evaluate the feasibility of the AI topic by critically assessing its possible application(s) within a real-life (business) setting. Lastly, in order to meet the information needs for the 'AI in Science Fiction' presentation, you will need to acquire, evaluate, and use information from various popular and/or scholarly sources, such as blogs and scientific journal articles.  
 
-####__Deliverable(s)__
+#### __Deliverable(s)__
 
 - A 7-minute presentation (make sure to also hand-in the slides!)
 
@@ -53,7 +54,7 @@ __6. Present your findings to the client__
 
 In DataLab 2, Week 7, you are expected to provide a live demo of your dashboard to the client, staff and your peers. Students, staff, and the client will be allowed to vote for the best dashboard.
 
-####__Deliverable(s)__
+#### __Deliverable(s)__
 
 -  A Power BI dashboard in .pbix-format
 -  A 7-minute live demo of the Power BI dashboard

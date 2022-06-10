@@ -10,7 +10,11 @@ In Block A, you will start with your journey into the wonderful world of Artific
 
 The block is divided into two phases:
 
-<img src="./BlockAFigure.png" alt="Block AI overview" width="700"/> 
+<figure>
+    <img src=".\BlockAFigure.PNG" />
+    <figcaption>Please click the links below to view more detailed requirements</figcaption>
+</figure>
+<br>
 
 *Figure 1. Overview Block A, Year 1.*
 

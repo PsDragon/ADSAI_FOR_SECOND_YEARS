@@ -47,7 +47,7 @@ If you are unable to attend the movie screening, [Minority Report]( https://www.
 
 > Information literacy is the ability to discover and use various types of information. It's an essential skill for navigating the information age. Watch this course to learn about strategies for finding information—from a library, archive, database, or the Internet—and the ethics of using it. Librarian Elsa Loftis discusses different types of resources and explains how to evaluate their usefulness and trustworthiness. She also shows how to avoid plagiarism and copyright infringement, and accurately cite sources ([Source](https://www.linkedin.com/learning/information-literacy/welcome?autoplay=true&resume=false&u=36359204)).
 
-__3a__ Complete the LinkedIn course [Information Literacy](https://www.linkedin.com/learning/information-literacy/welcome?autoplay=true&resume=false&u=36359204) (Optional). Unless you are a trained librarian or data professional, we highly recommend you to take the course. Rather read a book? Then, visit LibreTexts and use one of the books listed on the webpage [Research and Information Literacy](https://human.libretexts.org/Bookshelves/Research_and_Information_Literacy). 
+__3a__ Complete the LinkedIn course [Information Literacy](https://www.linkedin.com/learning/information-literacy/welcome?autoplay=true&resume=false&u=36359204) (Optional). Unless you are a trained librarian or data professional, we highly recommend you to take the course. Rather read a book? Then, visit LibreTexts and use one of the books listed on the webpage [Research and Information Literacy](https://human.libretexts.org/Bookshelves/Research_and_Information_Literacy).
 
 __3b__ Identify, and select an AI related topic within one of the following BUAS domains:
 
@@ -89,7 +89,8 @@ After a thorough evaluation, you decide to include the quote in your report. Lis
 
 ## 4) Creative Brief: Minority Report (2)
 
-As part of the Project Brief you are required to give a five minute presentation, where you identify, and describe an AI topic in the movie Minority Report, and place it within the Taxonomy of AI. Furthermore, you will need to evaluate the feasibility of the AI topic by critically assessing its possible application(s) within a real-life (business) setting. Lastly, in order to meet the information needs for the Minority Report presentation, you will need to acquire, evaluate, and use information from various popular and/or scholarly sources, such as blogs and scientific journal articles.
+As part of the Project Brief you are required to give a 
+7-minute presentation, where you identify, and describe an AI topic in the movie Minority Report, and place it within the Taxonomy of AI. Furthermore, you will need to evaluate the feasibility of the AI topic by critically assessing its possible application(s) within a real-life (business) setting. Lastly, in order to meet the information needs for the Minority Report presentation, you will need to acquire, evaluate, and use information from various popular and/or scholarly sources, such as blogs and scientific journal articles.
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Note: You will be introduced to the Taxonomy of AI on Thursday.

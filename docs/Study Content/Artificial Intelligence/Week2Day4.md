@@ -78,7 +78,7 @@ __1b__ Find information that can help you to connect the following AI applicatio
 - Google's robot dog, Laikago
 - Tesla car
 
-__1.1c__ Let's test our newly gained knowledge by taking a short quiz! To start the quiz, click on the image below:
+__1.1c__ Let's test our newly gained knowledge by taking a short quiz!
 
 <iframe width="1280px" height="960px" src="https://forms.office.com/r/AbmyH44uYE?embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
@@ -106,7 +106,7 @@ For details on GPT-3, see video and article below:
 
 - [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf) (Optional, we will not ask you to read the 70+ pages...)
 
-__2f__ Provide an AI topic (e.g., a hiring application that uses machine learning techniques), risk, benefit, accompanying AI domain, and subdomain per organization listed in the table:
+__2f__ Provide an AI topic (e.g., a hiring application that uses a machine learning algorithm), risk, benefit, accompanying AI domain, and subdomain per organization listed in the table:
 
 | A. Organization   |  B. AI topic |  C. AI domain & subdomain | D. Benefit  | E. Risk  |
 |---|---|---|---|---|
@@ -121,7 +121,7 @@ __2f__ Provide an AI topic (e.g., a hiring application that uses machine learnin
 
 ## DataLab preparation (Week 2, DataLab 2):
 
-- [ ] Upload the outline of your 'AI in Science Fiction' presentation to your GitHub Classroom repository.
+- [ ] Upload the outline of your 'AI in Science Fiction' presentation to your GitHub Classroom repository. Make sure to include the relevant Taxonomy of AI domains, and subdomains for your chosen AI topic. 
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Note: When you are finished with the independent study material, and still have some time left, try to apply your newly gained knowledge to the Creative Brief.

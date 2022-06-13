@@ -16,7 +16,7 @@ Today's independent study material focuses on intelligent agents, particularly c
 
 ## Questions or issues?
 
-If you have questions or issues regarding the course material, please fill out the 'How Can We Help?' form in Microsoft Teams. A member of our teaching staff will respond as soon as possible.
+If you have questions or issues regarding the course material, please fill out the 'How Can We Help?' form under the section ['Ask me anything'](https://adsai.buas.nl/Contact%20Us/). A member of our teaching staff will respond as soon as possible.
 
 ***
 
@@ -85,8 +85,6 @@ __1.2e__ Watch the video about ELIZA, the first chatbot, which Joseph Weizenbaum
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RMK9AphfLco" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Video 3. Before Siri and Alexa, there was ELIZA.*
-
-Created by Joseph Weizenbaum at the MIT Computerized Reasoning Laboratory in 1964 – 1966, the ELIZA chatbot was not only the first chatbo
 
 Now, it is time to develop your own chatbot...
 

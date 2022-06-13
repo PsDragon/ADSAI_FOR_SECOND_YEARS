@@ -23,7 +23,7 @@ After the workshop you have time to work on the independent study material or cr
 
 ## Questions or issues?
 
-If you have questions or issues regarding the course material, please fill out the 'How Can We Help?' form in Microsoft Teams. A member of our teaching staff will respond as soon as possible.
+If you have questions or issues regarding the course material, please fill out the 'How Can We Help?' form under the section ['Ask me anything'](https://adsai.buas.nl/Contact%20Us/). A member of our teaching staff will respond as soon as possible.
 
 ***
 

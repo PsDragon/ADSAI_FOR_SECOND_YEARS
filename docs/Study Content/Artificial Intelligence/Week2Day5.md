@@ -8,15 +8,11 @@ In today's DataLab session, you will have time to work on your 'AI in Science Fi
 
 ## Learning objectives
 
-1. Define the term 'informative speech'
-2. List and describe the four types of informative speeches
-3. List, and describe techniques to make informative speeches interesting, coherent, and memorable
-4. Write an outline for an informative speech
-5. Confidently deliver a informative speech to peers, and teaching staff members
+1. Describe the main tasks, skills, and responsibilities of a data/ML engineer
 
 ## Questions or issues?
 
-If you have questions or issues regarding the course material, please fill out the 'How Can We Help?' form in Microsoft Teams. A member of our teaching staff will respond as soon as possible.
+If you have questions or issues regarding the course material, please fill out the 'How Can We Help?' form under the section ['Ask me anything'](https://adsai.buas.nl/Contact%20Us/). A member of our teaching staff will respond as soon as possible.
 
 ***
 

@@ -14,7 +14,7 @@ In today's DataLab session, we will watch the movie Minority Report and subseque
 
 ## Questions or issues?
 
-If you have questions or issues regarding the course material, please fill out the 'How Can We Help?' form in Microsoft Teams. A member of our teaching staff will respond as soon as possible.
+If you have questions or issues regarding the course material, please fill out the 'How Can We Help?' form under the section ['Ask me anything'](https://adsai.buas.nl/Contact%20Us/). A member of our teaching staff will respond as soon as possible.
 
 ***
 
@@ -89,7 +89,7 @@ After a thorough evaluation, you decide to include the quote in your report. Lis
 
 ## 4) Creative Brief: Minority Report (2)
 
-As part of the Project Brief you are required to give a 
+As part of the Project Brief you are required to give a
 7-minute presentation, where you identify, and describe an AI topic in the movie Minority Report, and place it within the Taxonomy of AI. Furthermore, you will need to evaluate the feasibility of the AI topic by critically assessing its possible application(s) within a real-life (business) setting. Lastly, in order to meet the information needs for the Minority Report presentation, you will need to acquire, evaluate, and use information from various popular and/or scholarly sources, such as blogs and scientific journal articles.
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">

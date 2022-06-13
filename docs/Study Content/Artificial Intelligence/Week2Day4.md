@@ -15,7 +15,7 @@ In today's independent study material, you will learn to define the domains, and
 
 ## Questions or issues?
 
-If you have questions or issues regarding the course material, please fill out the 'How Can We Help?' form in Microsoft Teams. A member of our teaching staff will respond as soon as possible.
+If you have questions or issues regarding the course material, please fill out the 'How Can We Help?' form under the section ['Ask me anything'](https://adsai.buas.nl/Contact%20Us/). A member of our teaching staff will respond as soon as possible.
 
 ***
 
@@ -121,7 +121,7 @@ __2f__ Provide an AI topic (e.g., a hiring application that uses a machine learn
 
 ## DataLab preparation (Week 2, DataLab 2):
 
-- [ ] Upload the outline of your 'AI in Science Fiction' presentation to your GitHub Classroom repository. Make sure to include the relevant Taxonomy of AI domains, and subdomains for your chosen AI topic. 
+- [ ] Upload the outline of your 'AI in Science Fiction' presentation to your GitHub Classroom repository. Make sure to include the relevant Taxonomy of AI domains, and subdomains for your chosen AI topic.
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Note: When you are finished with the independent study material, and still have some time left, try to apply your newly gained knowledge to the Creative Brief.

@@ -46,7 +46,7 @@ __4. Analyse your data and visualize your findings__
 
 You are expected to apply concepts learned in the workshops and generate appropriate visualisations, which support your arguments towards answering the research question, in Power BI.
 
-__5. Provide a solution to your research question with supporting arguments (based on your analysis)_
+__5. Provide a solution to your research question with supporting arguments (based on your analysis)__
 
 You are expected to answer your research question with supporting arguments based on the work conducted in the previous DataLabs.
 

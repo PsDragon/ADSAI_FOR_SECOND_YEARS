@@ -10,11 +10,7 @@ In Block A, you will start with your journey into the wonderful world of Artific
 
 The block is divided into two phases:
 
-<figure>
-    <img src=".\BlockAFigure.PNG" />
-    <figcaption>Please click the links below to view more detailed requirements</figcaption>
-</figure>
-<br>
+<img src="./BlockAFigure.png" alt="Book Russell and Norvig" width="700"/>
 
 *Figure 1. Overview Block A, Year 1.*
 
@@ -40,7 +36,7 @@ You are expected to frame a data-driven research question related to a sustainab
 
 __2. Gather accurate data from a relevant source__
 
-You are expected to use the sustainable development goals databank in order to gather the appropriate dataset to answer your research question. Use SDGDataBank to collect the relevant data.
+You are expected to use the Sustainable Development Goals databank in order to gather the appropriate dataset to answer your research question. Use SDGDataBank to collect the relevant data.
 
 __3. Explore your data__
 

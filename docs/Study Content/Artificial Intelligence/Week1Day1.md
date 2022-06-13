@@ -8,7 +8,7 @@ Today, you will start your journey into the wonderful world of Artificial Intell
 
 We advise you to start early with the independent study exercises because we will cover quite a bit of material today!
 
-If you have questions about the study material, you can email us. Make sure to hand in your homework exercises by the end of the day. For the time being, you can upload it to your Microsoft Teams environment. For details on availability, see Project Brief.
+Make sure to hand in your homework exercises by the end of the day. For the time being, you can upload it to your Microsoft Teams environment. For details on availability, see Project Brief.
 
 ## Learning objectives
 
@@ -19,7 +19,7 @@ If you have questions about the study material, you can email us. Make sure to h
 
 ## Questions or issues?
 
-If you have questions or issues regarding the course material, please fill out the 'How Can We Help?' form in Microsoft Teams. A member of our teaching staff will respond as soon as possible.
+If you have questions or issues regarding the course material, please fill out the 'How Can We Help?' form under the section ['Ask me anything'](https://adsai.buas.nl/Contact%20Us/). A member of our teaching staff will respond as soon as possible.
 
 ***
 

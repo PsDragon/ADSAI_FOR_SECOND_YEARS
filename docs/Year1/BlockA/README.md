@@ -1,6 +1,6 @@
 # Block A - Business Understanding
 
-Each of the eight weeks has a fixed structure: on Monday, Wednesday and Thursday you work individually on the development of basic skills, which are needed to execute the DataLab assignments. Kindly follow the Project Timeline below, this will guide you through what is expected of you on a daily basis.
+Each of the seven/eight weeks has a fixed structure: on Monday, Wednesday and Thursday you work individually on the development of basic skills, which are needed to execute the DataLab assignments. Kindly follow the Project Timeline below, this will guide you through what is expected of you on a daily basis.
 
 ***
 
@@ -10,7 +10,7 @@ In Block A, you will start with your journey into the wonderful world of Artific
 
 The block is divided into two phases:
 
-<img src="./BlockAFigure.png" alt="Book Russell and Norvig" width="700"/>
+<img src="./BlockAFigure.png" alt="Block A, Year 1, Overview" width="700"/>
 
 *Figure 1. Overview Block A, Year 1.*
 
@@ -18,7 +18,7 @@ The block is divided into two phases:
 
 In the first two weeks of Block A, you will acquire foundational knowledge and understanding of the theories, principles, methods, and techniques related to the field of AI. For example, you will be made familiar, with the philosophy, history, and taxonomy of AI, among others, by analysing the popular science fiction movie Minority Report.
 
-In week 3, you are required to give a 7-minute presentation, where you identify, and describe an AI topic in this movie, and place it within the Taxonomy of AI. Furthermore, you will need to evaluate the feasibility of the AI topic by critically assessing its possible application(s) within a real-life (business) setting. Lastly, in order to meet the information needs for the 'AI in Science Fiction' presentation, you will need to acquire, evaluate, and use information from various popular and/or scholarly sources, such as blogs and scientific journal articles.  
+In DataLab 2, Week 3, you are required to give a 7-minute presentation, where you identify, and describe an AI topic in this movie, and place it within the Taxonomy of AI. Furthermore, you will need to evaluate the feasibility of the AI topic by critically assessing its possible application(s) within a real-life (business) setting. Lastly, in order to meet the information needs for the 'AI in Science Fiction' presentation, you will need to acquire, evaluate, and use information from various popular and/or scholarly sources, such as blogs and scientific journal articles.  
 
 #### __Deliverable(s)__
 
@@ -28,7 +28,7 @@ In week 3, you are required to give a 7-minute presentation, where you identify,
 
 To change the world, we must first be able to measure it. Measuring and quantifying what matters is a crucial component of evaluating progress. In September 2015, all countries agreed to adopt specific goals as targets or indicators for global development. Collectively, these goals are known as the United Nations Sustainable Development Goals (SDGs).
 
-The SGD Hub @ BUAs, hereafter the client, has approached you as an aspiring – data professional – to track and explore the global and country-level progress towards the Sustainable Development Goals:
+The SGD Hub@BUAs, hereafter the client, has approached you as an aspiring – data professional – to track and explore the global and country-level progress towards the Sustainable Development Goals:
 
 __1. Define a data-driven research question__
 
@@ -58,6 +58,8 @@ In DataLab 2, Week 7, you are expected to provide a live demo of your dashboard 
 
 -  A Power BI dashboard in .pbix-format
 -  A 7-minute live demo of the Power BI dashboard
+
+Please refer to the Assessment Rubric in Microsoft Teams for more detailed information.
 
 ***
 

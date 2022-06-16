@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-## __Philosophy AI & Student logs__
+## __Philosophy AI__
 
 Today, you will start your journey into the wonderful world of Artificial Intelligence :rainbow: :computer: During the first independent study day, you will dive into the foundational concepts of AI by examining its philosophy. In addition, you will receive instruction on how to work with your Learning and Work Log. By the end of this day, having completed the relevant readings and activities listed in the study material, you should be well prepared for DataLab 1.
 
@@ -90,17 +90,7 @@ __1.2g__ After completing the readings and exercises of this section, would you 
 
 ***
 
-## 2) Student Logs
-
-### 2.1 How to fill in your Work and Learning Log?
-
-<img src="./images/LearningLogExample.png" alt="Work Log example" width="600"/>
-
-*Figure 3. Learning Log student example.*
-
-***
-
-## 3) Preparation for DataLab 1, Week 1
+## 2) Preparation for DataLab 1, Week 1
 
 - [ ] Go to BUas' [Meta Search Engine](https://eds.s.ebscohost.com/eds/search/basic?vid=6&sid=59355576-7a16-4eec-86aa-73f051f228f0%40redis), and find:
 

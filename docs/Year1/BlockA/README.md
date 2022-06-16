@@ -82,7 +82,7 @@ Please refer to the Assessment Rubric in Microsoft Teams for more detailed infor
 ## Week 1: Introduction to Artificial Intelligence
 
 ### Monday
-- [Philosophy AI & Student logs](../../Study%20Content/Artificial%20Intelligence/Week1Day1.html)
+- [Philosophy AI](../../Study%20Content/Artificial%20Intelligence/Week1Day1.html)
 
 ### Tuesday
 - [DataLab 1: Minority Report (1) & Information literacy (1)](../../Study%20Content/Artificial%20Intelligence/Week1Day2.html)

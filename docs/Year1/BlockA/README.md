@@ -1,6 +1,20 @@
 # Block A - Business Understanding
 
-Each of the seven/eight weeks has a fixed structure: on Monday, Wednesday and Thursday you work individually on the development of basic skills, which are needed to execute the DataLab assignments. Kindly follow the Project Timeline below, this will guide you through what is expected of you on a daily basis.
+Each of the seven/eight weeks has a fixed structure: on Monday, Wednesday and Thursday you work individually on the development of basic skills, which are needed to execute the DataLab assignments.
+
+__Staff members:__
+
+| Name   |  Availability |  Mentor Group | Email  | Subject  |
+|---|---|---|---|---|
+| Bram Heijligers (Lecturer), MSc.  |  Wed, Thur, Fri | Group 1, Year 1  | heijligers.b@buas.nl |   |
+| Irene van Blerck (Lecturer), MSc. <img src="./IreneProfile.jpg" alt="Irene van Blerck profile picture" width="200"/>   |  Tue, Wed, Thu, Fri |  Group 2, Year 1 |  blerck.i@buas.nl | Responsible AI, Computer vision |
+| Nitin Bushan (Lecturer), PhD.  |  Mon, Tue, Wed, Thu, Fri  | Group 3, Year 1 | bhushan.n@buas.nl |   |
+| Zhanna Kozlova (Lecturer), MA.  |   |  Group 1, Year 1 | kozlova.z@buas.nl  |   |
+| Alican Noyan (Lecturer), PhD. |   | Group 4, Year 1  |  noyan.a@buas.nl |  |
+|Dean van Aswegen (Lecturer), MSc. |   |  Group 5, Year 1 | aswegen.d@buas.nl |   |
+|Frank Peters (Program manager), PhD. | Mon, Tue, Wed, Thu |  NA | aswegen.d@buas.nl |   |
+
+Kindly follow the Project Timeline below, this will guide you through what is expected of you on a daily basis.
 
 ***
 

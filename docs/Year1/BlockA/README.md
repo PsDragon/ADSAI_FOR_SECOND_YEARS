@@ -6,7 +6,7 @@ __Staff members:__
 
 | Name   |  Availability |  Mentor Group | Email  | Subject  |
 |---|---|---|---|---|
-| Bram Heijligers (Lecturer), MSc. <img src="./BramProfile.png" alt="Bram Heijligers profile picture" width="200"/> "Ik kwam, ik zag, ik at friet." |  Wed, Thur, Fri | Group 1, Year 1  | heijligers.b@buas.nl | Data Science, Human-Centered AI, Project-Management, Cognition, Research Methodology, Biometrics, Proffesional Competencies |
+| Bram Heijligers (Lecturer), MSc. <img src="./BramProfile.jpg" alt="Bram Heijligers profile picture" width="200"/> |  Wed, Thur, Fri | Group 1, Year 1  | heijligers.b@buas.nl | Data Science & Professional Competencies|
 | Irene van Blerck (Lecturer), MSc. <img src="./IreneProfile.jpg" alt="Irene van Blerck profile picture" width="200"/>   |  Tue, Wed, Thu, Fri |  Group 2, Year 1 |  blerck.i@buas.nl | Responsible AI, Computer vision |
 | Nitin Bhushan (Lecturer), PhD.  <img src="./NitinProfile.jpg" alt="Nitin Bhushan profile picture" width="200"/>  |  Mon, Tue, Wed, Thu, Fri  | Group 3, Year 1 | bhushan.n@buas.nl | Data Science and AI  |
 | Zhanna Kozlova (Lecturer), MA. <img src="./ZhannaProfile.jpg" alt="Zhanna Kozlova profile picture" width="200"/>  |   |  Group 1, Year 1 | kozlova.z@buas.nl  |   |

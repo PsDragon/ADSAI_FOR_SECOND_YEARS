@@ -45,7 +45,7 @@ As stated in the video, you cannot successfully perform a predictive analysis be
 
 #### Example: COVID-19
 
-<img src="./images/hospital.jpg" alt="Doctors emergency room" width="500"/>
+<img src="./images/hospital.jpg" alt="Doctors emergency room" width="400"/>
 
 *Figure 1. Emergency room.*
 
@@ -95,7 +95,7 @@ Before you can start to build your model, i.e., apply an algorithm to your datas
 
 Let us use the following patient record as input for our analytical model:
 
-<img align="left" src="./images/UnhealthyPerson.jpg" alt="Patient record" width="500"/>
+<img align="left" src="./images/UnhealthyPerson.jpg" alt="Patient record" width="400"/>
 
 &nbsp;&nbsp;&nbsp;Name: Hans Janssen <br>
 &nbsp;&nbsp;&nbsp;Age: 29 <br>
@@ -114,7 +114,7 @@ To determine if a patient is 'fit' or 'unfit,' you could create the following fl
 
 A flowchart or decision tree, such as the one depicted above, is a typical example of a rule-based system/Symbolic AI model; it requires handcrafted rules created by a (domain) professional. A rule could be, for instance, if a patient is below 30, and eats lots of junk food, the model should classify this patient as 'unfit':
 
-<img src="./images/UnhealthyPersonOutput.png" alt="Patient model output" width="500"/>
+<img src="./images/UnhealthyPersonOutput.png" alt="Patient model output" width="400"/>
 
 The problem with these rule-based system/Symbolic AI models is that they are rigid; the rules, and nothing else, determine if an action or inaction should be taken. Consequently, models who deploy this approach do not respond well to a changing environment. For instance, say all the major fast-food vendors have improved their menus in terms of health; on average, their food contains significantly more nutrients and less harmful fats than before. As a result, regularly eating fast food is not considered unhealthy anymore. However, your rule-based system/Symbolic AI model still thinks it is one of the decisive factors of an unhealthy lifestyle. Therefore, a patient who should be classified as 'fit' based on their junk food eating habits will be classified as 'unfit'.      
 
@@ -122,7 +122,7 @@ It is here where the other approaches, (classic) machine learning, and deep lear
 
 If we look at (classic) machine learning, we see it has a separate feature extraction and model building phase. Features are distinctive characteristics of input patterns that help in differentiating between the various output categories (i.e., 'fit' and 'unfit'). For example, feature extraction, executed by the data scientist, helps the machine learning model identify essential properties of input patterns such as regular exercise and eating junk food. Concerning model building, a machine learning model 'learns' from past data and adjusts its responses accordingly.  Initially, the model will misclassify patients such as Hans Janssen, but eventually, it will adjust its rules to account for the changed situation:
 
-<img src="./images/UnhealthyPersonOutputV2.png" alt="Patient model output" width="500"/>
+<img src="./images/UnhealthyPersonOutputV2.png" alt="Patient model output" width="400"/>
 
 Deep learning/Connectionist AI, completely automates the feature extraction and model building phase. The model, not the data scientist, engineers the features; they are 'learned' through evaluating past data, and are often perceived as uninformative from the human perspective due to their numerical and distributed nature. Remember, computers think in ones and zeros, while we humans tend to think in high-level concepts such as exercise and eating lots of fast food. Concerning model building, deep learning/Connectionist AI models work similarly to (classic) machine learning models. They both learn from past experiences.
 

@@ -105,7 +105,7 @@ Please refer to the Assessment Rubric in Microsoft Teams for more detailed infor
 - [DataLab 1: The Turing Test](../../Study%20Content/Artificial%20Intelligence/Week2Day2.html)
 
 ### Wednesday
-- [Taxonomy of AI (1)](../../Study%20Content/Digital%20Transformation/Scientific%20writing%202.html)
+- [Taxonomy of AI (1)](../../Study%20Content/Artificial%20Intelligence/Week2Day3.html)
 
 ### Thursday
 - [Taxonomy of AI (2) & Risk and benefits of AI](../../Study%20Content/Artificial%20Intelligence/Week2Day4.html)

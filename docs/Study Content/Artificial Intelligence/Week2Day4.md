@@ -1,5 +1,5 @@
 ---
-sort: 4
+sort: 9
 ---
 
 ## Taxonomy of AI (2) & Risk and benefits of AI

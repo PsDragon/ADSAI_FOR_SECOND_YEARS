@@ -8,11 +8,11 @@ __Staff members:__
 |---|---|---|---|---|
 | Bram Heijligers (Lecturer), MSc. <img src="./BramProfile.png" alt="Bram Heijligers profile picture" width="200"/> "Ik kwam, ik zag, ik at friet." |  Wed, Thur, Fri | Group 1, Year 1  | heijligers.b@buas.nl | Data Science, Human-Centered AI, Project-Management, Cognition, Research Methodology, Biometrics, Proffesional Competencies |
 | Irene van Blerck (Lecturer), MSc. <img src="./IreneProfile.jpg" alt="Irene van Blerck profile picture" width="200"/>   |  Tue, Wed, Thu, Fri |  Group 2, Year 1 |  blerck.i@buas.nl | Responsible AI, Computer vision |
-| Nitin Bushan (Lecturer), PhD.  |  Mon, Tue, Wed, Thu, Fri  | Group 3, Year 1 | bhushan.n@buas.nl |   |
+| Nitin Bhushan (Lecturer), PhD.  <img src="./NitinProfile.jpg" alt="Nitin Bhushan profile picture" width="200"/>  |  Mon, Tue, Wed, Thu, Fri  | Group 3, Year 1 | bhushan.n@buas.nl | Data Science and AI  |
 | Zhanna Kozlova (Lecturer), MA.  |   |  Group 1, Year 1 | kozlova.z@buas.nl  |   |
 | Alican Noyan (Lecturer), PhD. |   | Group 4, Year 1  |  noyan.a@buas.nl |  |
 | Dean van Aswegen (Lecturer), MSc. |   |  Group 5, Year 1 | aswegen.d@buas.nl |   |
-| Frank Peters (Program manager), PhD. | Mon, Tue, Wed, Thu |  NA | aswegen.d@buas.nl |   |
+| Frank Peters (Program manager), PhD. | Mon, Tue, Wed, Thu |  NA | peters.f@buas.nl |   |
 
 Kindly follow the Project Timeline below, this will guide you through what is expected of you on a daily basis.
 
@@ -32,7 +32,7 @@ The block is divided into two phases:
 
 In the first two weeks of Block A, you will acquire foundational knowledge and understanding of the theories, principles, methods, and techniques related to the field of AI. For example, you will be made familiar, with the philosophy, history, and taxonomy of AI, among others, by analysing the popular science fiction movie Minority Report.
 
-In DataLab 2, Week 3, you are required to give a 7-minute presentation, where you identify, and describe an AI topic in this movie, and place it within the Taxonomy of AI. Furthermore, you will need to evaluate the feasibility of the AI topic by critically assessing its possible application(s) within a real-life (business) setting. Lastly, in order to meet the information needs for the 'AI in Science Fiction' presentation, you will need to acquire, evaluate, and use information from various popular and/or scholarly sources, such as blogs and scientific journal articles.  
+In DataLab 2, Week 3, you are required to give a 7-minute presentation, where you identify, and describe an AI topic in this movie, and place it within the Taxonomy of AI. Furthermore, you will need to evaluate the feasibility of the AI topic by critically assessing its possible application(s) within a real-life (business) setting. Lastly, in order to meet the information needs for the 'AI in Science Fiction' presentation, you will need to acquire, evaluate, and use information from various popular and/or scholarly sources, such as blogs and scientific journal articles.
 
 #### __Deliverable(s)__
 

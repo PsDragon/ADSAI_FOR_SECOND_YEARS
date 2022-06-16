@@ -4,7 +4,6 @@ sort: 8
 
 ## Taxonomy of AI (1)
 
-
 In today's independent study material, you will be introduced to three types of data analysis methods - i.e. descriptive, diagnostic, and predictive. Furthermore, we will look at the different predictive modelling approaches, where we will focus on the concept of 'learning'.
 
 ## Learning objectives

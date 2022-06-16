@@ -8,7 +8,7 @@ Today, you will start your journey into the wonderful world of Artificial Intell
 
 We advise you to start early with the independent study exercises because we will cover quite a bit of material today!
 
-Make sure to hand in your homework exercises by the end of the day. For the time being, you can upload it to your Microsoft Teams environment. For details on availability, see Project Brief.
+Make sure to hand in your Preparation for DataLab 1, Week 1 exercises by the end of the day (Mandatory!). For the time being, you can upload it to your Microsoft Teams environment. For details on staff availability, see [Project Brief](https://adsai.buas.nl/Year1/BlockA/).
 
 ## Learning objectives
 

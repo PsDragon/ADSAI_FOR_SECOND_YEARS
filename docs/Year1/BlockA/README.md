@@ -113,7 +113,7 @@ Please refer to the Assessment Rubric in Microsoft Teams for more detailed infor
 ### Friday
 - [DataLab 2: Minority Report (2)](../../Study%20Content/Artificial%20Intelligence/Week2Day5.html)
 
-## Week 3: Data Science
+## Week 3: Introduction to Data Science
 
 ### Monday
 - [Quantifying our world into data](https://adsai.buas.nl/Study%20Content/DataScience/Quantifying%20our%20world%20into%20data.html)
@@ -131,7 +131,7 @@ Please refer to the Assessment Rubric in Microsoft Teams for more detailed infor
 ### Friday
 - [Datalab 01: Exploratory Data Analysis (EDA)](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_01_ExploratoryDataAnalysis.html)
 
-## Week 4: Data Science
+## Week 4: Introduction to Data Science
 
 ### Monday
 - [Introduction to Probability 1](https://adsai.buas.nl/Study%20Content/DataScience/IntroductionToProbability1.html)
@@ -148,7 +148,7 @@ Please refer to the Assessment Rubric in Microsoft Teams for more detailed infor
 ### Friday
 - [Datalab 03 Discussion](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_03_Discussion.html)
 
-## Week 5 : Data Science
+## Week 5: Introduction to Data Science
 
 ### Monday
 - [Reporting & visualisation - Overview](https://adsai.buas.nl/Study%20Content/DataScience/ReportingAndVisualisatingData.html)
@@ -165,7 +165,7 @@ Please refer to the Assessment Rubric in Microsoft Teams for more detailed infor
 ### Friday
 - [Datalab 05 Overview: Poster Presentation Day](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_05_PosterPresentationDay.html)
 
-## Week 6: Data Science
+## Week 6: Introduction to Data Science
 
 ### Monday
 - [Programming: A Primer](https://adsai.buas.nl/Study%20Content/Programming/1.StartingProgramming.html)

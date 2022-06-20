@@ -16,13 +16,15 @@ Each of the seven/eight weeks has a fixed structure: on Monday, Wednesday and Th
 | Dean van Aswegen (Lecturer), MSc. |   |  Group 5, Year 1 | aswegen.d@buas.nl |   |
 | Frank Peters (Program manager), PhD. | Mon, Tue, Wed, Thu |  NA | peters.f@buas.nl |   |
 
-### DataLab Attendance
+### DataLab Attendance & Preparation
 
 Regular attendance and punctuality in every DataLab is required of each student. A student who has incurred absences of more than 20% of total DataLab sessions (i.e. three DataLab sessions) in Block A shall not be given credit for the professional ILO 1.3.
 
 A student is considered late when they are not yet present during the Standup session, and until the fifteenth minute from the start of DalaLab. Three instances of lateness are counted as one absence.
 
-In case of absence, the student proposes and completes activities that are acceptable alternatives to the in-class learning activities.  
+In case of absence, the student needs to fill in the 'Class Attendance' form, and subsequently proposes and completes activities that are acceptable alternatives to the in-class learning activities.
+
+The DataLab preparation exercises listed on GitHub Classrooms should be uploaded to your personal Microsoft Teams environment before the start of the corresponding DataLab session. 
 
 ### Questions?
 

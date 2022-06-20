@@ -1,8 +1,10 @@
 # Block A - Business Understanding
 
+## General Information
+
 Each of the seven/eight weeks has a fixed structure: on Monday, Wednesday and Thursday you work individually on the development of basic skills, which are needed to execute the DataLab assignments.
 
-__Staff members:__
+### Staff Members
 
 | Name   |  Availability |  Mentor Group | Email  | Subject  |
 |---|---|---|---|---|
@@ -13,6 +15,20 @@ __Staff members:__
 | Alican Noyan (Lecturer), PhD. |   | Group 4, Year 1  |  noyan.a@buas.nl |  |
 | Dean van Aswegen (Lecturer), MSc. |   |  Group 5, Year 1 | aswegen.d@buas.nl |   |
 | Frank Peters (Program manager), PhD. | Mon, Tue, Wed, Thu |  NA | peters.f@buas.nl |   |
+
+### DataLab Attendance & Preparation
+
+Regular attendance and punctuality in every DataLab is required of each student. A student who has incurred absences of more than 20% of total DataLab sessions (i.e. three DataLab sessions) in Block A shall not be given credit for the professional ILO 1.3.
+
+A student is considered late when they are not yet present during the Standup session, and until the fifteenth minute from the start of DalaLab. Three instances of lateness are counted as one absence.
+
+In case of absence, the student needs to fill in the 'Class Attendance' form, and subsequently proposes and completes activities that are acceptable alternatives to the in-class learning activities.
+
+The DataLab preparation exercises listed on GitHub Classrooms should be uploaded to your personal Microsoft Teams environment before the start of the corresponding DataLab session. 
+
+### Questions?
+
+If you have questions or issues regarding the course material, please fill out the 'How Can We Help?' form under the section ['Ask me anything'](https://adsai.buas.nl/Contact%20Us/). A member of our teaching staff will respond as soon as possible.
 
 Kindly follow the Project Timeline below, this will guide you through what is expected of you on a daily basis.
 

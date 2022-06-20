@@ -103,7 +103,7 @@ think about AI.
 
 ## Project Deliverables
 
-Your final (**group**) deliverable is Data Management documentation which contains:
+Your final (**group**) deliverable is a Data Management documentation which contains:
 - [ ] description of the data collection process (which tools/instruments are used).
 - [ ] description of the data: what is the format (file-type) of the data.
 - [ ] a codebook describing variables.

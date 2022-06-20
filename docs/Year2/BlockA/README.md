@@ -10,6 +10,7 @@ while still allowing for creative freedom in proposing and implementing a soluti
 Select an approach that best fits your personal learning goals, investigate the requirements,
 and amaze us with your creative problem solving!
 
+<br>
 <figure>
     <img src=".\images\at.PNG" />
 </figure>

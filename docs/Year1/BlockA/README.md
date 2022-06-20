@@ -4,7 +4,7 @@
 
 Each of the seven/eight weeks has a fixed structure: on Monday, Wednesday and Thursday you work individually on the development of basic skills, which are needed to execute the DataLab assignments.
 
-### Staff members:
+### Staff Members
 
 | Name   |  Availability |  Mentor Group | Email  | Subject  |
 |---|---|---|---|---|
@@ -29,7 +29,6 @@ In case of absence, the student proposes and completes activities that are accep
 If you have questions or issues regarding the course material, please fill out the 'How Can We Help?' form under the section ['Ask me anything'](https://adsai.buas.nl/Contact%20Us/). A member of our teaching staff will respond as soon as possible.
 
 Kindly follow the Project Timeline below, this will guide you through what is expected of you on a daily basis.
-
 
 ***
 

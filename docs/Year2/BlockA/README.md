@@ -104,14 +104,14 @@ think about AI.
 ## Project Deliverables
 
 Your final (**group**) deliverable is Data Management documentation which contains:
-- [ ] a description of the data collection process (which tools/instruments are used).
-- [ ] a description of the data: what is the format (file-type) of the data.
-- [ ] a description of the data: a codebook describing variables.
-- [ ] a description of data storage protocol: file structure and filenames.
+- [ ] description of the data collection process (which tools/instruments are used).
+- [ ] description of the data: what is the format (file-type) of the data.
+- [ ] a codebook describing variables.
+- [ ] description of data storage protocol: file structure and filenames.
 
 
 
 Your final (**individual**) deliverables are:
-- [ ] A scientific paper documenting your findings (APA style, Latex formatted).
-- [ ] A conference poster
-- [ ] A conference presentation
+- [ ] technical report documenting your findings (APA style, Latex formatted).
+- [ ] conference poster
+- [ ] conference presentation

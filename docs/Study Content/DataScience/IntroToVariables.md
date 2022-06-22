@@ -52,15 +52,8 @@ So it's essentially a matrix is a table with values of the same type. It's excit
 And finally, there's the data frame which is similar to the matrix but can store different types of data in two dimensions.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9f2g7RN5N0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## 2) Workshop - Variables, Vectors and Dataframes
-
-Install the following course and do modules 1, 4, 6 and 7.
-
-```R
-  > swirl::install_course("R Programming")
-```
-
- If you have any questions, first, ask your peers before you ask us or notify us of any issues or questions you're having.
+## 2) Workshop - Variables and Data Transformation in Power BI
+Now it's time for the [the workshop part](https://www.datacamp.com/courses/introduction-to-power-bi) of this class to get acquainted with variables and data transformation in PowerBI. Click the link in the previous sentence to start with the online workshop. Complete the entire course and upload the certificate to github, reference the certificate in your learning log for this week.
 
 ## 3) Mock Assessment
 

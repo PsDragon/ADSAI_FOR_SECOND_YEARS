@@ -84,8 +84,8 @@ C) Questions: Defining phenomena as data
 
 Save the file as .txt or .pdf file to GitHub; we'll discuss it during Datalab tomorrow.
 
-## Next step: Introduction to PowerBI
-Now it's time for the [the workshop part](https://www.datacamp.com/courses/introduction-to-power-bi) of this class to get acquainted with PowerBI. Click the link in the previous sentence to start with the online workshop.
+## Workshop: Introduction to PowerBI
+Now it's time for the [the workshop part](https://www.datacamp.com/courses/introduction-to-power-bi) of this class to get acquainted with PowerBI. Click the link in the previous sentence to start with the online workshop. Complete the entire course and upload the certificate to github, reference the certificate in your learning log for this week.
 
 
 ## References:

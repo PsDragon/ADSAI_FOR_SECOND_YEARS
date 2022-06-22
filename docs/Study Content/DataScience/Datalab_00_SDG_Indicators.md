@@ -5,7 +5,7 @@ sort: 3
 
 We start with a short introduction to formulating a problem statement based on the given domain(s) of your SDG indicator(s). Subsequently, we will focus on putting our new knowledge into practice by forming a research question. Then, we will use both to create an introduction component for your data-lab project: the conference poster.
 
-## 0) Learning Objectives
+## Learning Objectives
 Enable you to:
 1. research your domain;
 2. write a problem statement;
@@ -17,10 +17,11 @@ Today we'll learn how to create the following components of any data science pro
 Table of contents:
 0. Mock-Assessment Review: 0.5 Hours
 1. Problem Statement: 2 hours
-2. Research Question: 1 hour
-3. Introduction: 2 hours
-4. Daily Reflection: From 16:00 to 17:00
-
+2. Guest Lecture SDG Indicators and buas: 11:00 - 12:00
+--- Lunch from 12:00 - 13:00 ---
+3. Research Question: 1 hour
+4. Introduction: 1.5 hours
+5. Daily Reflection: From 16:30 to 17:00
 
 Good luck!
 
@@ -91,8 +92,10 @@ Watch this if you feel like you need more information on how to form a problem s
 
 Note that we're not going to do extensive data engineering just yet :p, we are just conceptualising this block. However, later you may want to recommend a data processing pipeline and dashboard to monitor some real-world later in the project, depending on your problem statement.
 
+## 2) Guest Lecture on SDG Indicators in BUAS
+The SDG-Taskforce will come by and talk on how BUas approaches meeting the SDG-indicators
 
-# 2) Forming a Research question
+## 3) Forming a Research question
 Now, it's time for writing the research questions!
 
 **Step 1.** Please watch the following videos to collect the knowledge you'll need to apply:
@@ -105,7 +108,7 @@ Now, it's time for writing the research questions!
 
 
 
-# 3) Writing an introduction
+## 4) Writing an introduction
 **Step 1.** Watch the following video and note down which elements may be found in the introduction. You already define two fundamental elements: 1) **the problem** you're going to address and 2) you have your research question: **your purpose** is to find an answer to it.
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="640" height="360" src="https://www.linkedin.com/learning/embed/writing-a-business-report/writing-the-introduction?autoplay=false&claim=AQFKy-O8L5-H9QAAAXqg00zMi-6SEwsTPOIoVX8DozLvu5McOKIUsRH4szvoE-wuLOD5HfIF5IG2WTlQsi-gdWOhNRmFRY8VUAo6UE4ezvztxN1PcEKYVL_Gdz-SObadoy1rGZWY5PZ8hmWn4SwV9rVKKdd7TjDVC3q4y25E9UW4KKbeYIH9-qK0G_NiB_klNHiEM0bLZz1oGYC7Bb4aD859C5FyxlSV4eLrInep8nM9c61jySfBNJZu3eiFCQXQ-0kLNfXbRme8oucAdtfkqKvBuybsWaQEbClLuASw5tsBEO1Z8USGNH8lqHNcth_OsNTcZBH4jiXS5ZVdcR5ArxV_PYagqjdoHuPSj_pQjS8GlaUA16apR_86qwZX4mBKV9Md9dqP8JegLu8UClIvC92O-S-V5RKIGwa1p09Qk-I54qKsTK-wdv_hA9BvR6oYN2B1nWQEZWG16N2VMS3qfGJzpm3gNm51gq_CFiqctMjJnXz5khKT9BvauHihqCDgdWH6rACHdHWSqkTHm4_7rTVeRWHiiM3xFhiDOrhWZ3qN-5-4fAFmA6P-mZugIXNJmQFRSJoeaT_3N7U7P4njcfKVQVqPU9ZEe-tsaBxdpmuACcGzylbmCoeSagr37WhrrmR6oSmJOgSV3SW3rtcTtyuKHYi3Mz8xqSgKWe-XfPnKpKqzGkn3ZyXbSZWT92Uc2n0uUjhctwUkHEwi_760IRVpse6P_lcD-5CzeusHIjS9SQ&lipi=urn%3Ali%3Apage%3Ad_learning_content%3BHxusxfEjRCGjiH%2BeEDazGw%3D%3D&licu" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true" frameborder="0" style="position:absolute;width:100%;height:100%;left:0"></iframe></div><p><strong><a href="https://www.linkedin.com/learning/writing-a-business-report/writing-the-introduction?trk=embed_lil">Writing the introduction</a></strong> from <strong><a href="https://www.linkedin.com/learning/writing-a-business-report?trk=embed_lil">Writing a Business Report</a></strong> by <strong><a href="https://www.linkedin.com/learning/instructors/judy-steiner-williams?trk=embed_lil">Judy Steiner-Williams</a></strong></p>
 
@@ -113,10 +116,10 @@ Now, it's time for writing the research questions!
 
 **Step 3.** Save your poster and notes to your Github repository.
 
-# 4) In-Class discussion
-At 16:00, we'll all get together in Datalab to discuss our progress and reflect on today activities.
+## 4) In-Class discussion
+At 16:30, we'll all get together in Datalab to discuss our progress and reflect on today activities.
 
-Tomorrow, we're going to cover variables and data frames in R.
+Tomorrow, we're going to finish our introduction  and cover variables and data frames in PowerBI.
 
 
 ## Questions or issues?

@@ -4,31 +4,42 @@ sort: 1
 
 # Quantifying our World into Data
 
-We start off with a comfortable introduction to some basic concepts and tools. Today we will focus on how we can see and quantify our world into data. We are going to cover some basic concepts and apply those concepts to a mock assessment. In the workshop, you are introduced to R, an industry-standard tool for statistical programming.
+We start off with a comfortable introduction to some basic concepts and tools. Today we will focus on how we can see and quantify our world into data. We are going to cover some basic concepts and apply those concepts to a mock assessment. In the workshop, you are introduced to Power BI, an industry-standard tool for describing and visualizing data.
 
-## 0) Learning Objectives
+Make sure to hand in your Preparation for DataLab 5, Week 3 exercises by the end of the day (Mandatory!). Upload your work on github and insert the github link in your learning log for this week with a brief description. For details on staff availability, see [Project Brief](https://adsai.buas.nl/Year1/BlockA/).
+
+## Learning Objectives
 1. Enable you to quantify real-world phenomena and objects into data.
-2. Enable you to use R-studio
+2. Enable you to use Power-BI
 
-## 1) General lesson structure
-Each 6-8 hour self-study day is dedicated to a specific lesson which generally consists of the following components:
-2. lecture;
-3. workshop;
-4. mock-assessment.
+### Table of contents:
+1. Introduction to DS Science Kick-Off: 1 hour
+2. Mock-Assessment: 1 hour
+3. Workshop: 4 hours
 
-
-How each specific lesson is structured depends on the nature of the content and learning goals. Usually, these components can be found as separate Github pages, but these components can also be combined into 1, 2 or 3 pages. Today, for example, we will have a combined lecture & mock assessment of about 2-3 hours, after which we will have an introductory workshop of 1-2 hours.
-
-## 2) More info?
-Look at the creative brief for more info about the content or ask us during the Q&A at 16:00 today!
+### More info?
+Look at the [creative brief](https://adsai.buas.nl/Year1/BlockA/) for more info about the content or ask us during the Q&A in datalab tomorrow!
 
 #### Don't know a specific word?
-Just google it, you're here to learn and master the vocabulary after all!
+Don't worry about it and just google it! You're here to learn and expand your the vocabulary as part of your knowledge and skills!
 
-## 3) Watch or attend the opening lecture
+## Questions or issues?
+
+If you have questions or issues regarding the course material, please fill out the 'How Can We Help?' form under the section ['Ask me anything'](https://adsai.buas.nl/Contact%20Us/). A member of our teaching staff will respond as soon as possible.
+
+***
+
+
+## 0) More info?
+Look at the [creative brief](https://adsai.buas.nl/Year1/BlockA/) for more info about the content or ask us during the Q&A in datalab tomorrow!
+
+#### Don't know a specific word?
+Don't worry about it and just google it! You're here to learn and expand your the vocabulary as part of your knowledge and skills!
+
+## 1) Watch or attend the opening lecture
 
 ###Time:
-Monday the 20th of September at 9:00 o'clock in the morning.
+Monday the 19th of September at 10:00 o'clock in the morning.
 
 ###Place:
 Online on Microsoft Team: it should be on your Teams Calendar. If not, [click here](https://teams.microsoft.com/l/meetup-join/19%3a17PMQMfR4ntX_bdV9TDCQMIh5dTyPJibns2Pp1g76Os1%40thread.tacv2/1631095566063?context=%7b%22Tid%22%3a%220a33589b-0036-4fe8-a829-3ed0926af886%22%2c%22Oid%22%3a%225cef929d-ecf9-4fca-bf12-bc5ee065fc99%22%7d).
@@ -53,7 +64,7 @@ Anyway, now we got that clear:
 
 Every workshop includes a small mock assessment to prepare you for the actual assessment deliverable you'll create in Datalab. In Datalab, you and your peers will look at and assess one another's mock assessment to check if you have understood or mastered the learning objectives. So don't get frustrated if you cannot satisfyingly answer some questions or are struggling: we're just practising, reinforcing our knowledge retention and using community learning to reinforce the learning experience during Data Lab. The role of a univerisity is to provide a safe space to learn and fail :).
 
-A) Create a word file named 'MockAssessment_QuantifyingTheWorldInData',  where you answer the following questions:
+A) Create a text (e.g. microsoft word) file named 'MockAssessment_QuantifyingTheWorldInData',  where you answer the following questions:
 
 B) Questions: Defining objects as data
 
@@ -71,13 +82,11 @@ C) Questions: Defining phenomena as data
 3. Form a data-driven research question based on your variables and the description of the phenomena.
 
 
-Save the file to GitHub; we'll discuss it during Datalab tomorrow.
+Save the file as .txt or .pdf file to GitHub; we'll discuss it during Datalab tomorrow.
 
-## Next step: Introduction to R
-Now it's time for the [the workshop part](https://adsai.buas.nl/Study%20Content/DataScience/IntroToR.html) of this class to get acquainted with R. Click the link in the previous sentence or next page to continue.
+## Next step: Introduction to PowerBI
+Now it's time for the [the workshop part](https://www.datacamp.com/courses/introduction-to-power-bi) of this class to get acquainted with PowerBI. Click the link in the previous sentence to start with the online workshop.
 
-## Questions or issues?
-If you have any questions or issues regarding the course material, please first ask your peers or ask us in the daily Q&A at 16:00!
 
 ## References:
 - [Learning Statistics with R, by D. Navarro (2018)](https://learningstatisticswithr.com/)

@@ -30,6 +30,7 @@ Now, let's all find a partner (as in a classmate, not a date) and get our mock-a
 - Listening to one another critically and giving feedback as your partner goes along explaining.
 
 ## 1) Forming a Problem Statement
+Create a digital file to make notes for yourself: a Word file, .txt file, powerpoint; whatever you prefer to write in but upload it to your github and refer to it in your learning log for the data science ILO's.
 
 We start our project by focusing on creating value with our data science solution; that's what data science is about, after all. That begins with learning about how to form a problem statement. Next, we are going to apply the techniques below to fill in our problem statement. Part of that is exploring the domain(s) we are working in because a problem cannot exist without its context.
 
@@ -38,10 +39,9 @@ We start our project by focusing on creating value with our data science solutio
 
 Now that we have acquired the basics of forming a problem statement, it's essential to use it methodologically. Listing the different ways in which you can approach
 
-Create a file to make notes for yourself: a Word file, .txt file, a limestone tablet, or google documents file; whatever you prefer to write in.
 
 ### Excercise 1: Write down the different ways you can get started writing your problem statement.
-Hint: the answers are in the video above.
+Write it down in your note file using a bullet point list. Hint: the answers are in the video above.
 
 
 ### Excercise 2: Form a draft of your problem Statement

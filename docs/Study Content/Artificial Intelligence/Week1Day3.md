@@ -99,17 +99,15 @@ __1.2e__ Describe the procedure, and main objective of Turing's 'Imitation Game'
 
 Tomorrow, we will attend the Artificial Intelligence & The BUAS domains conference at the Chapel, from 9:00-16:00. It is a mandatory activity for all ADS&AI students. Thus, make sure you are available throughout the day.
 
-__Speakers:__
+| Speakers:   |
+|---|
+| 1. Sergey Patsko, PhD.  |
+| 2. Joost de Kruijf, MSc.  |   
+| 3. Bert Smit, MSc. |
+| 4. Carlos Santos, PhD  |  
+| 5. Marnix van Gisbergen, PhD. |   
 
-fgdfg
-gfgdgh
-hghdhg
-
-- [ ] Find background information on at least one of the abovementioned speakers:
-
-Department
-Research (e.g., domains, publications, etc.)
-Fun fact (Optional, bonus!)
+- [ ] Find background information on at least one of the abovementioned speakers: department, research (e.g., domains, publications, etc.), and fun fact (Optional, bonus!).
 
 - [ ] Please, read the [blog post](http://elisagranato.com/phd-tips-asking-a-question-after-a-seminar) on how to ask questions after a seminar/presentation/demo, etc., by Elisa Granato. She provides tips and tricks that, among others, can help you to overcome some of the anxiety you might experience when asking questions.
 

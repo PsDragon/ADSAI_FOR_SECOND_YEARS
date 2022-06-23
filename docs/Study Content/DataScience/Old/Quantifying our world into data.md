@@ -111,8 +111,6 @@ Tip: If you want to get a better understanding of the daily tasks and responsibi
 Look at the [creative brief](https://adsai.buas.nl/Year1/BlockA/) at point 2 for more info about the Power BI deliverable. Also check out the self-assessment slide to see how we're going to grade your deliverable! Any questions left? Ask us during the Q&A in datalab tomorrow!
 
 ## 4) Workshop: Introduction to PowerBI
-Businesses need data analysis more than ever. In this learning path, you will learn about the life and journey of a data analyst, the skills, tasks, and processes they go through in order to tell a story with data so trusted business decisions can be made. You will learn how the suite of Power BI tools and services are used by a data analyst to tell a compelling story through reports and dashboards, and the need for true BI in the enterprise.
-
 Let's start by installing the latest version of Power BI! [Click here!](https://powerbi.microsoft.com/en-gb/desktop/)
 
 Now it's time for the [the workshop part](https://www.datacamp.com/courses/introduction-to-power-bi) of this class to get acquainted with PowerBI. Click the link in the previous sentence to start with the online workshop. Complete the entire course and upload the certificate to github, reference the certificate in your learning log for this week.

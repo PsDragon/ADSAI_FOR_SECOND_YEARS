@@ -133,16 +133,16 @@ Please refer to the Assessment Rubric in Microsoft Teams for more detailed infor
 
 ### Monday
 - [Quantifying our world into data](https://adsai.buas.nl/Study%20Content/DataScience/Quantifying%20our%20world%20into%20data.html)
-- [Intro to R](https://adsai.buas.nl/Study%20Content/DataScience/IntroToR.html)
+
 
 ### Tuesday
 - [Datalab 00 Overview: SGD Indicators](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_00_SDG_Indicators.html)
 
 ### Wednesday
-- [Intro to variables](https://adsai.buas.nl/Study%20Content/DataScience/IntroToVariables.html)
+- [Intro to variables and data transformation](https://adsai.buas.nl/Study%20Content/DataScience/IntroToVariablesAndDataTransformation.html)
 
 ### Thursday
-- [Descriptive Analyses](https://adsai.buas.nl/Study%20Content/DataScience/DescriptiveAnalyses.html)
+- [Descriptive Analyses and Data Visualisation](https://adsai.buas.nl/Study%20Content/DataScience/DescriptiveAnalyses.html)
 
 ### Friday
 - [Datalab 01: Exploratory Data Analysis (EDA)](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_01_ExploratoryDataAnalysis.html)

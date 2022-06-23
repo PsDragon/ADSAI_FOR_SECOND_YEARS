@@ -3,7 +3,7 @@ sort: 3
 ---
 # Datalab 00: SDG indicators
 
-We start with a short introduction to formulating a problem statement based on the given domain(s) of your SDG indicator(s). Subsequently, we will focus on putting our new knowledge into practice by forming a research question. Then, we will use both to create an introduction component for your data-lab project: the Power BI Dashboard.
+We start with a short introduction to formulating a problem statement based on the given domain(s) of your SDG indicator(s). Subsequently, we will focus on putting our new knowledge into practice by forming a research question. Then, we will use both to create an introduction component for your data-lab project: the conference poster.
 
 ## Learning Objectives
 Enable you to:

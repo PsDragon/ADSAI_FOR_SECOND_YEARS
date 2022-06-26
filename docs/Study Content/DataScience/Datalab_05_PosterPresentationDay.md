@@ -32,7 +32,7 @@ Breda University of Applied Sciences has it's own taskforce. They'll come by and
 About 5 of you will present your posters in 3 rounds:
 - 13:00 – Conference Round 1
 - 14:00 – Conference Round 2
-- 15:00 – Conference Round 3 
+- 15:00 – Conference Round 3
 If you aren't presenting your poster, walk around and look at the posters of you classmates. Give one another feedback: this enables you to learn for eachothers achievements and mistakes!
 
 The SDG Taskforce and some of the other lecturers are present as well, and these will not know what your project is about. So be prepared to take them through it and answer their questions. In essence this translates to knowing what you are talking about with respect to the scope of your research project, so don't worry about this too much. It will, however, give you some valuable feedback on how to improve on your poster before you are officially assessed in week 9.

@@ -63,4 +63,7 @@ In case you have any questions, please first ask your peers or send us a message
 ## Resources:
 - [SDG database](https://unstats.un.org/sdgs/indicators/database/)
 - [SDG website](https://sdg-tracker.org/)
-- [Cheatsheets](https://www.rstudio.com/resources/cheatsheets/) - Specifically the dply, tidyr and ggplot2 spreadsheats.
+- [Descriptive Statistics, by Statistics LibreTexts)](https://statics.teams.cdn.office.net/evergreen-assets/safelinks/1/atp-safelinks.html?url=https%3A%2F%2Fstats.libretexts.org%2FBookshelves%2FIntroductory_Statistics%2FBook%253A_Introductory_Statistics_(OpenStax)%2F02%253A_Descriptive_Statistics)
+- [Graphing Distributions, by Statistics LibreTexts.)](https://statics.teams.cdn.office.net/evergreen-assets/safelinks/1/atp-safelinks.html?url=https%3A%2F%2Fstats.libretexts.org%2FBookshelves%2FIntroductory_Statistics%2FBook%253A_Introductory_Statistics_(Lane)%2F02%253A_Graphing_Distributions)
+-  [Descriptive Statistics, by Statistics LibreTexts)](https://statics.teams.cdn.office.net/evergreen-assets/safelinks/1/atp-safelinks.html?url=https%3A%2F%2Fstats.libretexts.org%2FBookshelves%2FIntroductory_Statistics%2FBook%253A_Introductory_Statistics_(Shafer_and_Zhang)%2F02%253A_Descriptive_Statistics)
+ - [Displaying and ANalysing Data with Graphs, by Statistics LibreTexts)](https://statics.teams.cdn.office.net/evergreen-assets/safelinks/1/atp-safelinks.html?url=https%3A%2F%2Fstats.libretexts.org%2FBookshelves%2FIntroductory_Statistics%2FBook%253A_Inferential_Statistics_and_Probability_-_A_Holistic_Approach_(Geraghty)%2F02%253A_Displaying_and_Analyzing_Data_with_Graphs)

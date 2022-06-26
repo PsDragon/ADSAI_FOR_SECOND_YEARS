@@ -53,6 +53,8 @@ Online on Microsoft Team: it should be on your Teams Calendar. If not, [click he
 - Evaluate: Justify a stand or decision
 - Create: Produce new or original work (although this is primarily done in projects though; because of workload considerations)
 
+
+
 <figure>
     <img src=".\assets\BloomsTaxonomy.png" />
     <figcaption>It's based on Bloom's Taxonomy, so be aware that these are usefull steps to solidify your learning and we'll integrate it whenever it fits: time and effort wise.</figcaption>
@@ -102,6 +104,9 @@ To successfully perform these tasks, a data analyst must have a broad skillset (
 - Data pipeline design
 - Data understanding and visualization (e.g. Power BI, tableau)
 - Machine learning
+- Data & AI in the Ethics and Legal context
+
+For the remainder of block A we will focus on data understanding and visualization (e.g. Power BI, Tableau), critical thinking and presentation skills.
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Tip: If you want to get a better understanding of the daily tasks and responsibilities of a data analyst, look up videos and articles with titles such as 'Day in a life of ...' In addition, the article <a href="https://careerfoundry.com/en/blog/data-analytics/whats-it-like-to-actually-be-a-data-analyst/">'What's it like to actually be a data analyst'</a> consists of an interview with a data analyst.

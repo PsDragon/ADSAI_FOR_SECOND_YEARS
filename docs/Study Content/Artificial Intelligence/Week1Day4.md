@@ -18,20 +18,14 @@ Tip: If you take notes during the presentation, it will be easier to formulate t
 
 ## DataLab preparation (Week 1, DataLab 2):
 
-The next DataLab session, will focus on strengthening our presentation skills. As part of the learning process, you will be asked to provide feedback on each other's presentations. There are many ways to give feedback. One simple yet effective method is the hamburger or sandwich model:
+The next DataLab session, we will focus on strengthening our presentation skills. As part of the learning process, you will be asked to participate in a in-class workshop. In order to participate in this workshop, you will need to have a topic for your presentation:  
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hDNde-Eub_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-*Video 1. What is Feedback Sandwich | Explained in 2 min.*
-
-- [ ] Watch the video below, and provide feedback to the presenter according to the sandwich/hamburger technique. Write your feedback down.
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nSGqp4-bZQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-*Video 2. Undergraduate Students Unwittingly Subjected to World's Worst Research Presentation.*
+- [ ] If you have not found, and described a 'milestone' in the history of AI yet, please do so by the end of the day (Exercise 1.1c, Wednesday, Week 1).
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Note: When you are finished with the independent study material, and still have some time left, try to apply your newly gained knowledge to the Creative Brief.
 </div> 
 
 ***
+
+

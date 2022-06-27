@@ -46,7 +46,7 @@ The block is divided into two phases:
 
 ### 1. Foundations of AI (Week 1-2)
 
-In the first two weeks of Block A, you will acquire foundational knowledge and understanding of the theories, principles, methods, and techniques related to the field of AI. For example, you will be made familiar, with the philosophy, history, and taxonomy of AI, among others, by analysing the popular science fiction movie Minority Report.
+In the first three weeks of Block A, you will acquire foundational knowledge and understanding of the theories, principles, methods, and techniques related to the field of AI. For example, you will be made familiar, with the philosophy, history, and taxonomy of AI, among others, by analysing the popular science fiction movie Minority Report.
 
 In DataLab 2, Week 3, you are required to give a 7-minute presentation, where you identify, and describe an AI topic in this movie, and place it within the Taxonomy of AI. Furthermore, you will need to evaluate the feasibility of the AI topic by critically assessing its possible application(s) within a real-life (business) setting. Lastly, in order to meet the information needs for the 'AI in Science Fiction' presentation, you will need to acquire, evaluate, and use information from various popular and/or scholarly sources, such as blogs and scientific journal articles.
 
@@ -110,7 +110,7 @@ Please refer to the Assessment Rubric in Microsoft Teams for more detailed infor
 - [Conference: Artificial Intelligence & The BUAS domains](../../Study%20Content/Artificial%20Intelligence/Week1Day4.html) (Location: BUAS Campus)
 
 ### Friday
-- [DataLab 2: Presenting](../../Study%20Content/Artificial%20Intelligence/Week1Day5.html)
+- [DataLab 2: Presenting (+ In-class workshop)](../../Study%20Content/Artificial%20Intelligence/Week1Day5.html)
 
 ## Week 2: Introduction to Artificial Intelligence
 
@@ -124,12 +124,29 @@ Please refer to the Assessment Rubric in Microsoft Teams for more detailed infor
 - [Taxonomy of AI (1)](../../Study%20Content/Artificial%20Intelligence/Week2Day3.html)
 
 ### Thursday
-- [Taxonomy of AI (2) & Risk and benefits of AI](../../Study%20Content/Artificial%20Intelligence/Week2Day4.html)
+- [Taxonomy of AI (2)](../../Study%20Content/Artificial%20Intelligence/Week2Day4.html)
 
 ### Friday
-- [DataLab 2: Minority Report (2)](../../Study%20Content/Artificial%20Intelligence/Week2Day5.html)
+- [DataLab 2: Feedback (+ In-class workshop)](../../Study%20Content/Artificial%20Intelligence/Week2Day5.html)
 
-## Week 3: Introduction to Data Science
+## Week 3: Introduction to Artificial Intelligence
+
+### Monday
+- [Taxonomy of AI (3)](../../Study%20Content/Artificial%20Intelligence/Week3Day1.html)
+
+### Tuesday
+- [DataLab 1: Minority Report (2)](../../Study%20Content/Artificial%20Intelligence/Week3Day2.html)
+
+### Wednesday
+- [Risk & Benefits of AI](../../Study%20Content/Artificial%20Intelligence/Week3Day3.html)
+
+### Thursday
+- [State-of-the-art AI & Minority Report (3)](../../Study%20Content/Artificial%20Intelligence/Week3Day4.html)
+
+### Friday
+- [DataLab 2: 'AI in Science Fiction' presentation](../../Study%20Content/Artificial%20Intelligence/Week3Day5.html)
+
+## Week 4: Introduction to Data Science
 
 ### Monday
 - [Quantifying our world into data](https://adsai.buas.nl/Study%20Content/DataScience/Quantifying%20our%20world%20into%20data.html)
@@ -147,7 +164,7 @@ Please refer to the Assessment Rubric in Microsoft Teams for more detailed infor
 ### Friday
 - [Datalab 01: Exploratory Data Analysis (EDA)](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_01_ExploratoryDataAnalysis.html)
 
-## Week 4: Introduction to Data Science
+## Week 5: Introduction to Data Science
 
 ### Monday
 - [Introduction to Probability 1](https://adsai.buas.nl/Study%20Content/DataScience/IntroductionToProbability1.html)
@@ -164,7 +181,7 @@ Please refer to the Assessment Rubric in Microsoft Teams for more detailed infor
 ### Friday
 - [Datalab 03 Discussion](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_03_Discussion.html)
 
-## Week 5: Introduction to Data Science
+## Week 6: Introduction to Data Science
 
 ### Monday
 - [Reporting & visualisation - Overview](https://adsai.buas.nl/Study%20Content/DataScience/ReportingAndVisualisatingData.html)

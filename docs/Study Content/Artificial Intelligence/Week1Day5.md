@@ -114,8 +114,6 @@ Each Friday, you will have the chance to familiarise yourself with the different
 
 __3.1a__ Find out what a typical work day looks like for a data scientist (e.g., daily tasks, and related skills, etc.).
 
-__3.1b__ Create an infographic where you display your findings of exercise 3.1a. You can use Google's [Jamboard](https://jamboard.google.com/) or a simple piece of paper for your infographic. Export/import your drawing to PNG, and upload it to your GitHub repository.
-
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Note: The Bronze Challenge for Block A is creating an infographic that provides an overview of the different roles that constitute a professional data team.
 </div>

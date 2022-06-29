@@ -46,9 +46,9 @@ The block is divided into two phases:
 
 ### 1. Foundations of AI (Week 1-3)
 
-In the first three weeks of Block A, you will acquire foundational knowledge and understanding of the theories, principles, methods, and techniques related to the field of AI. For example, you will be made familiar, with the philosophy, history, and taxonomy of AI, among others, by analysing the popular science fiction movie Minority Report.
+In the first three weeks of Block A, you will acquire foundational knowledge and understanding of the theories, principles, methods, and techniques related to the field of AI. For example, you will be made familiar with the philosophy, history, and taxonomy of AI, among others, by analysing the popular science fiction movie Minority Report. In addition, we will teach you essential soft skills, such as presenting and citing sources.
 
-In DataLab 2, Week 3, you are required to give a 7-minute presentation, where you identify, and describe an AI topic in this movie, and place it within the Taxonomy of AI. Furthermore, you will need to evaluate the feasibility of the AI topic by critically assessing its possible application(s) within a real-life (business) setting. Lastly, in order to meet the information needs for the 'AI in Science Fiction' presentation, you will need to acquire, evaluate, and use information from various popular and/or scholarly sources, such as blogs and scientific journal articles.
+In DataLab 2, Week 3, you are required to give a 7-minute presentation, where you identify, and describe an AI topic in this movie, and place it within the Taxonomy of AI. Furthermore, you will need to evaluate the feasibility of the AI topic by critically assessing its possible application(s) within a real-life (business) setting. Lastly, in order to meet the information needs for the 'AI in Science Fiction' presentation, you will need to acquire, evaluate, and use information from various popular and/or scholarly sources, such as blogs and scientific journal articles. The presentation will be recorded for grading purposes. 
 
 #### __Deliverable(s)__
 

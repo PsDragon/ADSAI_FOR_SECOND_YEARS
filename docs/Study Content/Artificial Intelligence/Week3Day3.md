@@ -2,15 +2,13 @@
 sort: 13
 ---
 
-## Risk & Benefits of AI
+## DataLab 2: Minority Report (2)
 
-
-In today's independent study material, you will learn to apply the practice of ethical reflecting, questioning, and decision-making within the field of AI. Furthermore, by the end of the day, you will be familiar with some of the risks and benefits associated with implementing AI technology in society.
+In today's DataLab session, you will have time to work on your 'AI in Science Fiction' presentation, and ask your peers and/or mentor for feedback.
 
 ## Learning objectives
 
-1. Apply the practice of ethical reflecting, questioning, and decision-making within the field of AI
-2. Identify, and explain the risks and benefits of AI by providing real-life implementations of corresponding technologies
+N.A.
 
 ## Questions or issues?
 
@@ -18,40 +16,25 @@ If you have questions or issues regarding the course material, please fill out t
 
 ***
 
-## 1) Introduction to data ethics
+## 1) Q&A and Standup
 
-__1a__ Read sub-chapters 1.4 and 1.5 of AIMA (p.45-52).
+__1a__ Ask questions regarding the independent study material.
 
-__1b__ Watch the TEDx talk 'The era of blind faith in big data must end' by Cathy O'Neill.
+__1b__ Answer the following questions:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_2u_eHHzRto?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- What did I work on yesterday (includes DataLab Preparation!)?
+- What am I working on today?
+- What issues are blocking me?
 
-*Video 1. TEDx talk 'The era of blind faith in big data must end' by Cathy O'Neill*
+***
 
-__1c__ In the video, she makes the following statement: 'Algorithms are opinions embedded in code'. What do you think she means with this statement, and what are the possible implications that could arise from it? Explain your answer.
+## 2) Creative Brief: Minority Report (4)
 
-__1d__ Read the module [Introduction to Data Ethics]('../../Study%20Content/Artificial%20Intelligence/documents/IntroToDataEthicsModule1.pdf'), and subsequently complete the exercises. Discuss your findings with a peer. Remember: There are no right or wrong answers here because many of the questions are open-ended, asking for personal reflection on values and professional goals, not factual assertions. 
+During this DataLab session, try to put the finishing touches on your presentation. Furthermore, use this day to discuss the content of the presentation with your peers (e.g., outline).
 
-## 2) Applied data ethics 
+<img src="./images/ElonMeme.jpg" alt="Elon Musk Meme" width="500"/>
 
-__2a__ In the article [How to make a chatbot that isn't racist or sexist](https://www.technologyreview.com/2020/10/23/1011116/chatbot-gpt3-openai-facebook-google-safety-fix-racist-sexist-language-ai/) Will Douglas Heaven presents three approaches to making chatbots safe for public use. List, and briefly describe these approaches, and explain why it is so difficult to stop a language model from generating offensive texts. Write your answer down.
-
-For details on GPT-3, see the video and article:
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_x9AwxfjxvE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-- [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf) (Optional, we will not ask you to read the 70+ pages...)
-
-__2b__ Find three newspaper articles on a risk and/or benefit associated with a domain and subdomain of AI (e.g., perception, computer vision, planning, natural language processing, searching, etc.), and fill in the table below:
-
-__Example:__ [China's hi-tech war on its Muslim minority](https://www.theguardian.com/news/2019/apr/11/china-hi-tech-war-on-muslim-minority-xinjiang-uighurs-surveillance-face-recognition) 
-
-| A. Organization/state/actor, etc.   |  B. AI topic |  C. AI domain & subdomain | D. Benefit/Risk  |
-|---|---|---|---|
-| 1. Chinese government  | Surveillance cameras equipped with facial recognition software  | Perception, computer vision, learning, and machine learning  | These AI technologies facilitate the prosecution of Uighurs by the Chinese government      |
-| 2.    |   |   |   |   |
-| 3.   |   |   |   |   |
-| 4.  |   |   |   |   |
+*Figure 1. Do not be this person...start early!*
 
 ***
 

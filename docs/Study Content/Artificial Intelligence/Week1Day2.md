@@ -2,14 +2,15 @@
 sort: 2
 ---
 
-## __History of AI__
+## __History of AI & GitHub (2)__
 
-Today's independent study material focusses on the history of AI. In particular, we will explore the famous article Computing Machinery and Intelligence by Alan Turing (1950). This is the first, and definitely not the last, research paper we are going to discuss in the program. As a data professional it is important to stay up to date with new developments in the field. Furthermore, it is good to be familiar with the seminal works of AI. One way of doing so, is reviewing these scholarly texts.
+Today's independent study material focuses on the history of AI. In particular, we will explore the famous article Computing Machinery and Intelligence by Alan Turing (1950). This is the first, and definitely not the last, research paper we will discuss in the program. As a data professional, it is important to stay up to date with new developments in the field. Furthermore, it is good to be familiar with the seminal works of AI. One way of doing so is by reviewing these scholarly texts. Finally, at the end of today, you will apply your newly gained knowledge of version control by making your first 'commit' to GitHub.  
 
 ## Learning objectives
 
-1. List, and describe key moments in the history of AI
-2. Explain the procedure, and main objective of Turing's 'Imitation Game'
+1. Implement version control using 'GitHub Desktop,' a Graphical User Interface for GitHub 
+2. List, and describe key moments in the history of AI
+3. Explain the procedure, and main objective of Turing's 'Imitation Game'
 
 ## Questions or issues?
 
@@ -17,9 +18,21 @@ If you have questions or issues regarding the course material, please fill out t
 
 ***
 
-## 1) History of Artificial Intelligence
+## 1) GitHub Desktop: Introduction to version control (2)
 
-### 1.1 Timeline
+Let us start creating a markdown file that we will use to store our answers to the DataLab preparation exercises. 
+
+__1a__ Create a markdown file (i.e., text file with extension '.md'), and save it with the name [**YourName_blockA_DataLabPreparation**]. 
+
+For instructions on how to create a markdown file in VSCode, see the video below:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DLLrcr9u_XI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*Video 1. How To Write and Preview Markdown In VScode.*
+
+## 2) History of Artificial Intelligence
+
+### 2.1 Timeline
 
 The early beginnings of AI, can be traced to the Ancient Greek period when philosophers started to describe human thinking as a symbolic system. Additionally, one of the first notions of a 'robot' can be found in Greek mythology:
 
@@ -31,19 +44,19 @@ However, the field of 'artificial intelligence' was not formally founded until 1
 
 After some setbacks in the 1970s and 1980s, also referred to as the AI winters, the field of AI has seen rapid advancements due to, among others, the introduction of deep learning, big data and artificial general intelligence in the early 2000s.
 
-__1.1a__ Watch the video on the History of AI by YouTube´s AI with Alex.
+__2.1a__ Watch the video on the History of AI by YouTube´s AI with Alex.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JjQGKSOTHa4?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Video 1. History of AI by YouTube´s AI with Alex.*
+*Video 2. History of AI by YouTube´s AI with Alex.*
 
-__1.1b__ Read the article ['The Ancient Quest for AI'](http://intelligentstory.com/the-quest-for-ai.html) by Valerie Morignat and/or Chapter 1.3 of AIMA (p.35-45).
+__2.1b__ Read the article ['The Ancient Quest for AI'](http://intelligentstory.com/the-quest-for-ai.html) by Valerie Morignat and/or Chapter 1.3 of AIMA (p.35-45).
 
-__1.1c__ Find, and describe one 'milestone' in the history of AI. Be creative, so no 'milestones' by Alan Turing! No worries, we are going to extensively discuss his accomplishments in DataLab 2 :smiley:
+__2.1c__ Find, and describe one 'milestone' in the history of AI. Be creative, so no 'milestones' by Alan Turing! No worries, we are going to extensively discuss his accomplishments in DataLab 1, Week 2 :smiley:
 
 ***
 
-### 1.2 Alan Turing 
+### 2.2 Alan Turing 
 
 The rise of artificial intelligence forces us to rethink what robots mean to society and what their role is to be. They are far better at arithmetic, but are they really as intelligent as us? What constitutes intelligence? And should we fear being replaced by these digital machines in the future? Alan Turing was the first to examine the relationship between humans and digital machines.
 
@@ -53,12 +66,7 @@ The rise of artificial intelligence forces us to rethink what robots mean to soc
 
 In the article Computing Machinery and Intelligence (1950), Turing lays the foundation for modern day AI. He introduces an behavioural test, the Turing Test, and discusses some objections raised in relation to this test. As a result of his contributions to the field, he also called one of the 'founding fathers' of AI.
 
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: If you are having difficulties reading the mathematical equations or understanding the main concept of a scholarly text, try to look for additional information online. YouTube (e.g.,
-<a href="https://www.youtube.com/c/K%C3%A1rolyZsolnai/featured">Two Minute Papers</a>), StackOverfow, Quora, and Medium are examples of webpages that can help you in analysing these sources of information.
-</div>
-
-__1.2b__ Besides the Turing Test, Alan Turing is renowned for his work on:
+__2.2b__ Besides the Turing Test, Alan Turing is renowned for his work on:
 \
 1.
 \
@@ -69,31 +77,36 @@ __1.2b__ Besides the Turing Test, Alan Turing is renowned for his work on:
 Fill in the blanks.
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #a94442; background-color: #f2dede; border-color: #ebccd1;">
-Alert: Whoever has the quirkiest fact on Alan Turing will receive a candy bar at the end of the workshop in DataLab 2.
+Alert: Whoever has the quirkiest fact on Alan Turing will receive a candy bar at the end of the workshop in DataLab 1, Week 2.
 </div>
 
-__1.2c__ Read Wikipedia's summary of [Computing Machinery and Intelligence](https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence#:~:text=Computing%20Machinery%20and%20Intelligence%20From%20Wikipedia%2C%20the%20free,as%20the%20Turing%20test%20to%20the%20general%20public.)
+__2.2c__ Read Wikipedia's summary of [Computing Machinery and Intelligence](https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence#:~:text=Computing%20Machinery%20and%20Intelligence%20From%20Wikipedia%2C%20the%20free,as%20the%20Turing%20test%20to%20the%20general%20public.)
 
-__1.2d__ Watch the video 'Turing Test: Can Machines Think?' by the highly popular podcast-making AI researcher Lex Fridman.
+__2.2d__ Watch the video 'Turing Test: Can Machines Think?' by the highly popular podcast-making AI researcher Lex Fridman.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MGW_Qcqr9eQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Video 2. 'Turing Test: Can Machines Think?' by Lex Fridman.*
+*Video 3. 'Turing Test: Can Machines Think?' by Lex Fridman.*
 
 Did you enjoy the summary and the video, and want to take a deeper dive into Turing's Computing Machinery and Intelligence? Check out the original article, which you can find, [here](https://academic.oup.com/mind/article/LIX/236/433/986238).
 
-__1.2e__ Describe the procedure, and main objective of Turing's 'Imitation Game'. Write your answer down
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Tip: If you are having difficulties reading the mathematical equations or understanding the main concept of a scholarly text, try to look for additional information online. YouTube (e.g.,
+<a href="https://www.youtube.com/c/K%C3%A1rolyZsolnai/featured">Two Minute Papers</a>), StackOverfow, Quora, and Medium are examples of webpages that can help you in analysing these sources of information.
+</div>
+
+__2.2e__ Describe the procedure, and main objective of Turing's 'Imitation Game'. Write your answer down
 
 ***
 
-## 2) Preparation for DataLab 1, Week 1
+## 3) Preparation for DataLab 1, Week 1
 
 - [ ] Go to BUas' [Meta Search Engine](https://eds.s.ebscohost.com/eds/search/basic?vid=6&sid=59355576-7a16-4eec-86aa-73f051f228f0%40redis), and find:
 
 1. A study skills book (e.g., presenting, writing, etc.) from the Library Collection
 2. An AI-related eBook from the Library Collection.
 
-Write down the title, author(s), accession number and publication year.
+Open your [**YourName_blockA_DataLabPreparation**] markdown file, and write down the title, author(s), accession number and publication year. Commit the changes, and push the markdown file to your personal BUas repository, which is listed [here](ADD LINK). 
 
 - [ ] Fill in your Work Log.
 - [ ] Set a goal for Week 1, and note it down in your Learning Log.  

@@ -126,8 +126,15 @@ __2g__ In Week 4, you will start to develop your own dashboard with Power BI. In
 
 Block B, will be all about predictive analytics. In particular, you will learn to model data using various machine learning algorithms, such as logistic regression and k-means clustering. This block, we will use to teach you the basics of descriptive and diagnostic analytics by analysing Sustainable Development Goals data with a dashboarding tool called Power BI. More on this next week!
 
+***
+
+## 3) DataLab preparation (Week 2, DataLab 1)
+
+- [ ] Search the Internet, and find out what the Loebner Prize is all about. Open your [**YourName_blockA_DataLabPreparation**] markdown file, and list at least three facts. Elaborate on your findings. Commit the changes, and push the markdown file to your personal BUas repository, which is listed [here](ADD LINK).
+
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Note: When you are finished with the independent study material, and still have some time left, try to apply your newly gained knowledge to the Creative Brief.
 </div>
+
 
 ***

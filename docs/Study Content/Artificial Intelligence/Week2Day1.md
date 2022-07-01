@@ -12,7 +12,7 @@ Today's independent study material focuses on intelligent agents, particularly c
 2. Explain what the Loebner Prize entails
 3. Provide an example of an intelligent agent, and give a PEAS description of the task environment
 4. Compare, and contrast the main (conversational) agent types/architectures
-5. Create a simple rule-based chatbot with Google Forms, and Fobio.io
+5. Create a simple rule-based chatbot with Google Forms, and Fobi.io
 
 ## Questions or issues?
 
@@ -109,12 +109,6 @@ __What is a flowchart?__
 > A flowchart is a diagram that depicts a process, system or computer algorithm. They are widely used in multiple fields to document, study, plan, improve and communicate often complex processes in clear, easy-to-understand diagrams. Flowcharts, sometimes spelled as flow charts, use rectangles, ovals, diamonds and potentially numerous other shapes to define the type of step, along with connecting arrows to define flow and sequence. They can range from simple, hand-drawn charts to comprehensive computer-drawn diagrams depicting multiple steps and routes ([Source](https://www.lucidchart.com/pages/what-is-a-flowchart-tutorial)).
 
 - ['What is a Flowchart' tutorial](https://www.lucidchart.com/pages/what-is-a-flowchart-tutorial) (Lucidchart)
-
-***
-
-## 2) Preparation for DataLab 1, Week 1
-
-- [ ] Search the Internet, and find out what the Loebner Prize is all about. List at least three facts. Elaborate on your findings.  
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Note: When you are finished with the independent study material, and still have some time left, try to apply your newly gained knowledge to the Creative Brief.

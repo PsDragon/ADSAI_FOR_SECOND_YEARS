@@ -99,7 +99,7 @@ __2.2e__ Describe the procedure, and main objective of Turing's 'Imitation Game'
 
 ***
 
-## 3) Preparation for DataLab 1, Week 1
+## 3) DataLab preparation (Week 1, DataLab 1)
 
 - [ ] Go to BUas' [Meta Search Engine](https://eds.s.ebscohost.com/eds/search/basic?vid=6&sid=59355576-7a16-4eec-86aa-73f051f228f0%40redis), and find:
 

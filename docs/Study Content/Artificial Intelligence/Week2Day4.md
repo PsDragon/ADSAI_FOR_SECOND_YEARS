@@ -113,7 +113,7 @@ __1g__ Can you think of a real-life scenario where an AI method that uses a symb
 
 The next DataLab session, we will focus on strengthening our feedback skills. As part of the learning process, you will be asked to participate in a in-class workshop.  
 
-- [ ] Watch the video below, and provide feedback to the presenter. List the feedback, and explain your approach. 
+- [ ] Watch the video below, and provide feedback to the presenter. Open your [**YourName_blockA_DataLabPreparation**] markdown file, and list the feedback, and explain your approach. Commit the changes, and push the markdown file to your personal BUas repository, which is listed [here](ADD LINK).
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nSGqp4-bZQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

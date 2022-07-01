@@ -82,12 +82,6 @@ __1c__ Let's test our newly gained knowledge by taking a short quiz!
 
 __1d__ Visualize the Taxonomy of AI by creating an infographic. You can use Google's [Jamboard](https://jamboard.google.com/) or a simple piece of paper for your infographic. Export/import your drawing to PNG, and upload it to your GitHub repository.
 
-***
-
-## DataLab preparation (Week 3, DataLab 1):
-
-- [ ] List, and briefly describe the relevant Taxonomy of AI domains, and subdomains for your chosen AI topic.
-
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Note: When you are finished with the independent study material, and still have some time left, try to apply your newly gained knowledge to the Creative Brief.
 </div> 

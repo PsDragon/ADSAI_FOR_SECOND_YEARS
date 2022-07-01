@@ -11,11 +11,10 @@ We advise you to start early with the independent study exercises because we wil
 ## Learning objectives
 
 1. Explain what version control is and why it can be useful
-2. Implement version control using 'GitHub Desktop,' a Graphical User Interface for GitHub
-3. Define the term 'artificial intelligence', 'weak AI', and 'strong AI'
-4. Provide examples of real-life and/or fictional AI applications
-5. Describe the procedure of the 'Chinese Room Experiment', and explain its objective
-6. Appropriately match the philosophy of AI terms to the corresponding philosophy of AI matrix quadrants
+2. Define the term 'artificial intelligence', 'weak AI', and 'strong AI'
+3. Provide examples of real-life and/or fictional AI applications
+4. Describe the procedure of the 'Chinese Room Experiment', and explain its objective
+5. Appropriately match the philosophy of AI terms to the corresponding philosophy of AI matrix quadrants
 
 ## Questions or issues?
 
@@ -28,7 +27,7 @@ At 9:00, we will have the Block A kick-off presentation at the BUas Campus (Loca
 
 ***
 
- ## 2) GitHub Desktop: Introduction to version control (1)
+ ## 2) GitHub Desktop: Introduction to version control ()
 
 Today, you will be introduced to the basics of version control, understand why it is useful and implement basic version control for a plain text document using GitHub Desktop.
 
@@ -284,7 +283,7 @@ We now have our remote changes synced back onto our computer.
 
 You can see from this view that text with changes highlighted in green or red. Red indicates where things have been removed while green indicates additions. This can be useful for viewing the edits you have made before making a commit and helps you spot whether all the changes are ones you want to commit. On the left you will see a history of the changes you have made. At the moment this is very brief but as you work on a project the history might become much longer. Being able to see the changes you have made at different stages can be very useful ([Source](https://programminghistorian.org/en/lessons/retired/getting-started-with-github-desktop)).
 
-__2.4a__ Install GitHub Desktop, and VSCode or another IDE/text editor on your local device. 
+__2.4a__ Install [GitHub Desktop](https://desktop.github.com/), and  [VSCode](https://code.visualstudio.com/) or another IDE/text editor on your local device. 
 
 ***
 

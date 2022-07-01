@@ -159,6 +159,10 @@ You can also add files to an existing repository on GitHub.com. Before you can a
 
 To clone a repository, open GitHub.com, and navigate to the main page of the repository. Above the list of files, click on the downward pointing arrow to 'Open with GitHub Desktop'. 
 
+![GitHub clone](./images/GitHubCloneOnline.gif)
+
+*Figure 4. GitHub add folder.*
+
 Once we have added our folder or existing repository from GitHub.com we will be able to see it in a list of repositories on the left column.
 
 If we choose the repository we just added we will see the files contained in that repository. From this menu we can choose which files we want to version control. (There might be times when we are working on projects in which files are produced which we don't need or want to version control.) On the right we will see the current document.
@@ -182,7 +186,7 @@ A **commit** tells Git that you made some changes which you want to record. Thou
 
 ![GitHub commit](./images/GitHubCommit.gif)
 
-*Figure 4. GitHub commit.*
+*Figure 5. GitHub commit.*
 
 To commit changes you must give a summary of the changes and include an optional message. It is important that you think carefully about when to make commits. The advantages of version control taking snapshots of your changes regularly relies on you making commits. It is often tempting to just commit changes when you have finished working on a document but this might not reflect when important changes occurred.
 
@@ -236,13 +240,13 @@ At the moment we are only recording our changes locally. We may be happy to only
 
 ![GitHub push](./images/GitHubPush.gif)
 
-*Figure 5. GitHub push.*
+*Figure 6. GitHub push.*
 
 Once you have 'published' your repository it will be viewable on your profile at GitHub's website. To quickly view your repository online you can use the repository menu and choose 'View on GitHub'. This will bring you to your repository online in your browser.
 
 ![View repository on GitHub.com](./images/GitHubViewOnGitHub.gif)
 
-*Figure 6. View repository on GitHub.*
+*Figure 7. View repository on GitHub.*
 
 You can now see your document in your online repository.
 
@@ -254,7 +258,7 @@ It is also possible to make a change to your repository on the web interface. Cl
 
 ![View file on GitHub.com](./images/GitHubViewDocumentOnline.gif)
 
-*Figure 7. View document on GitHub.*
+*Figure 8. View document on GitHub.*
 
 From the web interface you have a variety of options available to you, including viewing the history of changes, viewing the file in GitHub Desktop, and deleting it. You can also see some other options next to 'code'. These options will not be so important to begin with but you may want to use them in the future. For now we will try editing a file in the web interface and syncing these changes to our local repository.
 
@@ -262,19 +266,19 @@ Click on the edit option. You will now be able to edit the file and add some new
 
 ![Edit file on GitHub.com](./images/GitHubEditFile.gif)
 
-*Figure 8. Edit file on GitHub.*
+*Figure 9. Edit file on GitHub.*
 
 Once you have made some changes to your file, you will again see the option to commit changes at the bottom of the text entry box.
 
 ![Edit file on GitHub.com](./images/GitHubCommitOnline.gif)
 
-*Figure 9. Commit file on GitHub.*
+*Figure 10. Commit file on GitHub.*
 
 Once you have committed these changes they will be stored on the remote repository. To get them back onto our computer we need to sync our these changes. We will see the 'pull' button on GitHub Desktop. 
 
 ![GitHub pull](./images/GitHubSync.gif)
 
-*Figure 10. GitHub pull.*
+*Figure 11. GitHub pull.*
 
 We now have our remote changes synced back onto our computer.
 
@@ -306,7 +310,7 @@ In this section, you will be made familiar with the various definitions of AI, a
 
 <img src="./images/ai_russell_norvig.jpg" alt="Book Russell and Norvig" width="250"/>
 
-*Figure 11. Artificial Intelligence: A Modern Approach (Russell and Norvig, 2021).*
+*Figure 12. Artificial Intelligence: A Modern Approach (Russell and Norvig, 2021).*
 
 You can purchase the book or borrow it from BUas' library. The library currently has three copies available.
 
@@ -336,16 +340,16 @@ c) It is only possible for systems to demonstrate understanding
 \
 d) No machine can demonstrate genuine understanding
 
-__3.2f__ Connect the Post It notes (Fig 12.) to the relevant quadrant in the philosophy matrix (Fig 13.). For example, A = 1, 2, and  B = 3, 4, 5 etc. Elaborate on your choices.
+__3.2f__ Connect the Post It notes (Fig 13.) to the relevant quadrant in the philosophy matrix (Fig 14.). For example, A = 1, 2, and  B = 3, 4, 5 etc. Elaborate on your choices.
 
 <img src="./images/post_it.jpg" alt="Philosophy of AI Terms" width="400"/>
 
-*Figure 12. Post It notes with the philosophy of AI terms.*
+*Figure 13. Post It notes with the philosophy of AI terms.*
 \
 \
 <img src="./images/AI_matrix_v2.png" alt="Philosophy of AI Matrix" width="400"/>
 
-*Figure 13. Philosophy of AI matrix.*
+*Figure 14. Philosophy of AI matrix.*
 
 __3.2g__ After completing the readings and exercises of this section, would you provide the same answer to exercise 3.1b? Explain your answer.
 

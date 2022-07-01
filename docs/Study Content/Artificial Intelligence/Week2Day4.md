@@ -2,16 +2,16 @@
 sort: 9
 ---
 
-## Taxonomy of AI (2) & Risk and benefits of AI
+## Taxonomy of AI (2)
 
-
-In today's independent study material, you will learn to define the domains, and subdomains presented in the Taxonomy of AI. In addition, we will teach you how to connect these domains and subdomains to your chosen AI topic from the movie Minority Report. Furthermore, by the end of the day, you will be familiar with some of the risks and benefits associated with implementing AI technology in society.
+In today's independent study material, will look at the different predictive modelling approaches, where we will focus on the concept of 'learning'. 
 
 ## Learning objectives
 
-1. Define the domains, and subdomains presented in the Taxonomy of AI
-2. Connect AI topics from the movie Minority Report to relevant domains, and subdomains presented in the Taxonomy of AI
-3. Identify, and explain the risks and benefits of AI by providing a real-life implementations of corresponding technologies.
+
+1. Define the terms 'Symbolic AI', 'Machine learning', 'Connectionist AI', 'Inference', and 'Expert system'
+4. Explain the difference between 'supervised' and 'unsupervised' machine learning
+5. Provide at least one advantage, and one disadvantage of applying a rule-based systems/Symbolic AI, and deep learning/Connectionist AI predictive modeling approach
 
 ## Questions or issues?
 
@@ -19,112 +19,109 @@ If you have questions or issues regarding the course material, please fill out t
 
 ***
 
-## 1) Taxonomy of AI: Domains, subdomains, and keywords
+## 1) Predictive analytics: To learn or not to learn...
 
-Now that you have been introduced to some of AI's foundational theories, principles, techniques, and applications, we can use AI Watch's Taxonomy of AI to classify them by domain and subdomain.
+Artificial intelligence is a wide-ranging field of research that focuses on building intelligent machines capable of performing tasks that typically require human intelligence. In this section, we will take a look at the three main approaches to predictive modelling in the field of AI:
 
-> AI Watch is an initiative of the European Commission (EC) jointly developed by the EC Joint Research Centre (JRC) and the Directorate General for Communications Networks, Content and Technology (DG CONNECT).  
-AI Watch monitors industrial, technological and research capacity, policy initiatives in the Member States, uptake and technical developments of Artificial Intelligence and its impact in the economy, society and public services. It provides a number of analyses necessary to monitor and facilitate the implementation of the European Strategy for AI ([Source]()).
+<img src="./images/ParadigmsAI.png" alt="The field of AI" width="700"/> 
 
-__1a__ Carefully look at the Taxonomy of AI table (Figure 1.), and read the text below, which provides information on the different domains, and subdomains of the field of AI.
+*Figure 1. The field of AI.*
 
-<img src="./images/DomainsAI.png" alt="AI Domains" width="1000"/> \
-*Figure 1. AI domains, subdomains, and keywords based on AI Watch.*
+Rule-based systems/Symbolic AI also referred to as 'Good Old Fashioned AI,' states that '... all intelligent behaviour can be captured by a system that reasons logically from a set of facts and rules describing the domain' (Russel and Norvig, 2020). In contrast, (Classic) Machine learning and Deep learning/Connectionist AI do not require a symbolic representation. By feeding the systems with raw information, it can analyse and construct its own implicit knowledge, which in turn can be used to solve a data task, such as the one below.
 
-__Domain 1: Reasoning__
+#### Example: GP health check
 
-__Subdomains: Knowledge representation; Automated reasoning; Common sense reasoning__
+Imagine being a data scientist whose task is to develop an analytical model to assist GPs in assessing patients' overall health by predicting if they are 'fit' or 'unfit' based on a few health-related characteristics.
 
-The domain of reasoning tackles the way machines transform data into knowledge, or infer facts from data. Several classifications address knowledge representation and automated reasoning as a field of AI, to describe the process of justifying (reasoning) the available data and information, provide solutions and represent them efficiently, based on a set of symbolic rules (HLEG, 2019; Spanish RDI Strategy in Artificial Intelligence, 2019; National Strategy: France Monitoring Report, 2019; CB Insights, 2019; AI National Strategy: Germany, 2018; Working Paper for National Strategy: India, 2018; ETSI, 2018; National Strategy: France (Villani Mission), 2018; AI National Strategy: China, 2017; McCarthy, 2007; Nilsson, 1998).
+Before you can start to build your model, i.e., apply an algorithm to your dataset, you must select one of the three approaches:
 
-__Domain 2: Planning__
+<img src="./images/ParadigmsAILearning.jpg" alt="Types of predictive analytics (learning)" width="700"/> 
 
-__Subdomains: Planning and Scheduling; Searching; Optimisation__
+*Figure 2. Types of predictive analytics (learning).*
 
-The main purpose of automated planning concerns the design and execution of strategies (e.g., an organised set of actions) to carry out some activity, and typically performed by intelligent agents, autonomous robots and unmanned vehicles. Unlike classical control and classification problems, the solutions are complex and must be discovered and optimised in the multidimensional space. (HLEG, 2019; Spanish RDI Strategy in Artificial Intelligence, 2019; National Strategy: France Monitoring Report, 2019; CB Insights, 2019; AI National Strategy: Germany, 2018; McCarthy, 2007).
+Let us use the following patient record as input for our analytical model:
 
-__Domain 3: Learning__
+<img align="left" src="./images/UnhealthyPerson.jpg" alt="Patient record" width="400"/>
 
-__Subdomains: Machine Learning (ML)__
-By learning, we refer to the ability of systems to automatically learn, decide, predict, adapt and react to changes, improving from experience, without being explicitly programmed. ML is widely included in the vast majority of efforts to identify AI categories, as the basic algorithmic approach to achieve AI regardless the type of learning, namely reinforcement, supervised, semi-supervised, unsupervised (HLEG, 2019; Spanish RDI Strategy in Artificial Intelligence, 2019; StandICT.eu project, 2019; National Strategy: Denmark, 2019; National Strategy: France Monitoring report, 2019; Australia’s Ethic Framework Dawson et al., 2019; US Congressional Research Service, 2019; CB Insights, 2019; EC JRC Flagship report on AI, 2018; AI National Strategy: Germany, 2018; OECD, 2018; Tsinghua University, 2018; Working Paper for AI National Strategy: India, 2018; National Industrial Strategy: UK, 2018; 2017; AI National Strategy: France (Villani Mission), 2018; US Department of Defense, 2018; OECD, 2017; McKinsey, 2017; Stone et al.: AI100, 2016; McCarthy, 2007).
+&nbsp;&nbsp;&nbsp;Name: Hans Janssen <br>
+&nbsp;&nbsp;&nbsp;Age: 29 <br>
+&nbsp;&nbsp;&nbsp;Exercise: 0 hours per week <br>
+&nbsp;&nbsp;&nbsp;Food: every day a bowl of Brinta, and at least five times per week junk food <br>
+&nbsp;&nbsp;&nbsp;Work: at last 60 hours per week
 
-__Domain 4: Communication__
+<br clear="left"/>
 
-__Subdomains: Natural Language Processing (NLP)__
+*Figure 3. GP health check: 'Is a patient fit?'.*
 
-NLP, as the main task of communication, refers to the machine's ability to identify, process, understand and/or generate information in written and spoken human communications. It is considered as an AI subdomain from several national strategies and AI experts, encompassing applications such as text generation, text mining, classification, and machine translation (HLEG, 2019; Spanish RDI Strategy in Artificial Intelligence, 2019; National Strategy: Denmark, 2019; National Strategy: France Monitoring report, 2019; CB Insights, 2019; EC JRC Flagship report on AI, 2018; OECD, 2018; Tsinghua University, 2018; Working Paper for AI National Strategy: India, 2018; National Strategy: France (Villani Mission), 2018; US Department of Defense, 2018; AI National Strategy: Japan, 2017; AI National Strategy: China, 2017; McKinsey, 2017; Stone et al.: AI100, 2016; McCarthy, 2007)
+To determine if a patient is 'fit' or 'unfit,' you could create the following flowchart that shows the various outcomes from a series of decisions:
 
-__Domain 5: Perception__
+<img src="./images/DecisionTreeV2.jpg" alt="Decision Tree" width="600"/>
 
-__Subdomains: Computer vision; Audio processing__
+*Figure 4. Patient: Hans Janssen.*
 
-Perception refers to systems’ ability to become aware of their environment through the senses: vision, hearing, manipulation. etc., being vision and hearing the most developed areas in AI. Computer vision (CV) refers to activities that identify human faces and objects in digital images, as part of object-class detection. It is identified as one of the essential scientific fields with parts belonging to machine perception and, thus, AI. It is usually referred to as image pattern recognition for specific tasks, or as in a broader sense as machine vision, with applications on face and body recognition, video content recognition, 3D reconstruction, public safety and security, health etc. (HLEG, 2019; Spanish RDI Strategy in Artificial Intelligence, 2019; National Strategy: Denmark, 2019; Australia’s Ethic Framework Dawson et al., 2019; US Congressional Research Service, 2019; CB Insights, 2019; EC JRC Flagship report on AI, 2018; AI National Strategy: Germany, 2018; Tsinghua University, 2018; Working Paper for AI National Strategy: India, 2018; OECD, 2018; US Department of Defense, 2018; AI National Strategy: Japan, 2017; OECD, 2017; McKinsey, 2017; Stone et al.: AI100, 2016; McCarthy, 2007). Audio processing refers to AI systems allowing the perception or generation (synthesis) of audio signals, including speech, but also other sound material (e.g. environmental sounds, music). Speech or voice recognition, audio processing or sound technologies are also often proposed to be archived as an AI subdivision (AI4Belgium Report, 2019; COM(2018) 237 final; EC JRC Flagship report on AI, 2018; OECD, 2017, 2018; Tsinghua University, 2018; Working Paper for AI National Strategy: India, 2018; AI National Strategy: Japan, 2017; McCarthy, 2007).
+A flowchart or decision tree, such as the one depicted above, is a typical example of a rule-based system/Symbolic AI model; it requires handcrafted rules created by a (domain) professional. A rule could be, for instance, if a patient is below 30, and eats lots of junk food, the model should classify this patient as 'unfit':
 
-__Domain 6: Integration and Interaction__
+<img src="./images/UnhealthyPersonOutput.png" alt="Patient model output" width="400"/>
 
-__Subdomains: Multi-agent systems; Robotics and Automation; Connected and Automated vehicles (CAVs)__
+*Figure 5. Hans Janssen classified as 'Unfit' by the predictive model.*
 
-The transversal domain of Integration and Interaction addresses the combination of perception, reasoning, action, learning and interaction with the environment, as well as characteristics such as distribution, coordination, cooperation, autonomy, interaction and integration.. Robotics and Automation refers to activities related to application and research of the technological intelligent tools to assist or substitute human activity, or to enable actions that are not humanly possible (e.g. medical robots), to optimize technical limitations, labour or production costs. The CAVs subdomain regards technologies of autonomous vehicles, connected vehicles and driver assistance systems, considering all automation levels and all communication technologies (V2X). Multi-agent systems, Unmanned systems (CAVs, drones), as well as robotics and process automation (Application programming interface (API), robotic process automation for industrial, social and other uses) are also mentioned as separate intrinsic subdivisions of AI (HLEG, 2019; Spanish RDI Strategy in Artificial Intelligence, 2019; UNESCO, 2019; Australia’s Ethic Framework, 2019; National Strategy: Denmark, 2019; National Strategy: France Monitoring report, 2019; US Congressional Research Service, 2019; CB Insights, 2019; EC JRC Flagship report on AI, 2018; COM(2018) 237 final; AI National Strategy: Germany, 2018; Tsinghua University, 2018; Working Paper for AI National Strategy: India, 2018; National Industrial Strategy: UK, 2018; 2017; National Strategy: France (Villani Mission), 2018; Statista 2017; McKinsey, 2017; AI National Strategy: Japan, 2017; AI National Strategy: China, 2017; Stone et al.: AI100, 2016).
+The problem with these rule-based system/Symbolic AI models is that they are rigid; the rules, and nothing else, determine if an action or inaction should be taken. Consequently, models who deploy this approach do not respond well to a changing environment. For instance, say all the major fast-food vendors have improved their menus in terms of health; on average, their food contains significantly more nutrients and less harmful fats than before. As a result, regularly eating fast food is not considered unhealthy anymore. However, your rule-based system/Symbolic AI model still thinks it is one of the decisive factors of an unhealthy lifestyle. Therefore, a patient who should be classified as 'fit' based on their junk food eating habits will be classified as 'unfit'.      
 
-([Source](https://ai-watch.ec.europa.eu/publications/ai-watch-defining-artificial-intelligence-20_en))
+It is here where the other approaches, (classic) machine learning, and deep learning/Connectionist AI, come to the rescue. Although using different styles of learning, both 'learn' from the data that is fed to them.
 
-__1b__ Find information that can help you to connect the following AI applications, algorithms etc. to the relevant domains and subdomains presented in the Taxonomy of AI:
+If we look at (classic) machine learning, we see it has a separate feature extraction and model building phase. Features are distinctive characteristics of input patterns that help in differentiating between the various output categories (i.e., 'fit' and 'unfit'). For example, feature extraction, executed by the data scientist, helps the machine learning model identify essential properties of input patterns such as regular exercise and eating junk food. Concerning model building, a machine learning model 'learns' from past data and adjusts its responses accordingly.  Initially, the model will misclassify patients such as Hans Janssen, but eventually, it will adjust its rules to account for the changed situation:
 
-- ELIZA
-- Deep Blue
-- AlphaGo
-- AlexNet
-- GPT-3
-- Google's robot dog, Laikago
-- Tesla car
+<img src="./images/UnhealthyPersonOutputV2.png" alt="Patient model output" width="400"/>
 
-__1.1c__ Let's test our newly gained knowledge by taking a short quiz!
+*Figure 5. Hans Janssen classified as 'Fit' by the predictive model.*
 
-<iframe width="1280px" height="960px" src="https://forms.office.com/r/AbmyH44uYE?embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+Deep learning/Connectionist AI, completely automates the feature extraction and model building phase. The model, not the data scientist, engineers the features; they are 'learned' through evaluating past data, and are often perceived as uninformative from the human perspective due to their numerical and distributed nature. Remember, computers think in ones and zeros, while we humans tend to think in high-level concepts such as exercise and eating lots of fast food. Concerning model building, deep learning/Connectionist AI models work similarly to (classic) machine learning models. They both learn from past experiences.
 
-***
+To deepen our understanding, let us watch a couple of videos, and complete some exercises:
 
-## 2) Risks and benefits of AI
+__1a__ Watch the video 'What is Machine Learning?' by IBM.
 
-__2a__ Read sub-chapters 1.4 and 1.5 of AIMA (p.45-52).
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9gGnTQTYNaE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-__2b__ Find three newspaper articles on a risk associated with a domain or subdomain of AI (e.g. perception, computer vision, planning, natural language processing, searching etc.). Summarize the articles with a maximum of 200 words.
+*Video 1. 'What is Machine Learning?' by IBM.*
 
-__2c__ Watch the TEDx talk 'The era of blind faith in big data must end' by Cathy O'Neill.
+__1b__ Define the terms 'supervised' and 'unsupervised' learning. How do these types of machine learning differ from each other? Write your answer down.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_2u_eHHzRto?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+__1c__ Watch the video on symbolic AI by the YouTube channel CrashCourse.
 
-*Video 1. TEDx talk 'The era of blind faith in big data must end' by Cathy O'Neill*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WHCo4m2VOws?controls=0&amp;start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-__2d__ In the video she makes the following statement: 'Algorithms are opinions embedded in code'. What do you think she means with this statement, and what are the possible implications that could arise from it? Explain your answer.
+*Video 2. Symbolic AI by CrashCourse.*
 
-__2e__ In the article [How to make a chatbot that isn’t racist or sexist](https://www.technologyreview.com/2020/10/23/1011116/chatbot-gpt3-openai-facebook-google-safety-fix-racist-sexist-language-ai/) Will Douglas Heaven presents three approaches to making chatbots safe for public use. List, and briefly describe these approaches, and explain why it is so difficult to stop a language model from generating offensive texts. Write your answer down.
+__1d__ Define the terms 'inference', and 'expert system' (Be concise!).
 
-For details on GPT-3, see video and article below:
+__1e__ Are artificial neural networks (ANNs) similar to the human brain? Support your answer with arguments.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_x9AwxfjxvE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+__1f__ An ANN uses a a) symbolic or b) connectionist approach to AI? Select one of the options, and explain your choice.
 
-- [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf) (Optional, we will not ask you to read the 70+ pages...)
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Tip: Visit <a href="https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.12586&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false/">Tensorflow's Playground</a> to experiment with artificial neural networks (no code needed).
+</div>
 
-__2f__ Provide an AI topic (e.g., a hiring application that uses a machine learning algorithm), risk, benefit, accompanying AI domain, and subdomain per organization listed in the table:
+In the last couple of years, there has been a reappraisal of symbolic AI because, among others, it is less susceptible to the so called 'Problem of opacity'. Minsky defines the problem as follows: '... the knowledge embodied inside a network's numerical coefficients is not accessible outside that net.' (1991). In other words, it is difficult to know why these connectionist models do what they do or how they work.
 
-| A. Organization   |  B. AI topic |  C. AI domain & subdomain | D. Benefit  | E. Risk  |
-|---|---|---|---|---|
-| 1. Insurance company   |   |   |   |   |
-| 2. University    |   |   |   |   |
-| 3. Municipality  |   |   |   |   |
-| 4. Police  |   |   |   |   |
-| 5. Food retailer  |   |   |   |   |
-| 6. Car manufacturer  |   |   |   |   |
+__1g__ Can you think of a real-life scenario where an AI method that uses a symbolic approach would be more suited than a method that uses a connectionist approach? Explain your answer.
 
 ***
 
-## DataLab preparation (Week 2, DataLab 2):
+## 2) DataLab preparation (Week 2, DataLab 2):
 
-- [ ] List, and briefly describe the relevant Taxonomy of AI domains, and subdomains for your chosen AI topic.
+The next DataLab session, we will focus on strengthening our feedback skills. As part of the learning process, you will be asked to participate in a in-class workshop.  
+
+- [ ] Watch the video below, and provide feedback to the presenter. List the feedback, and explain your approach. 
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nSGqp4-bZQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*Video 3. Undergraduate Students Unwittingly Subjected to World's Worst Research Presentation.*
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Note: When you are finished with the independent study material, and still have some time left, try to apply your newly gained knowledge to the Creative Brief.
-</div>
+</div> 
 
 ***
+

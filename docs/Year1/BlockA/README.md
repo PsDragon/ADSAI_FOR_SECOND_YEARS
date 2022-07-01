@@ -141,10 +141,10 @@ You are encouraged to get the best out of yourself. Therefore, within the ADS&AI
 - [Taxonomy of AI (3)](../../Study%20Content/Artificial%20Intelligence/Week3Day1.html)
 
 ### Tuesday
-- [DataLab 1: Minority Report (2)](../../Study%20Content/Artificial%20Intelligence/Week3Day2.html)
+- [Risk & Benefits of AI](../../Study%20Content/Artificial%20Intelligence/Week3Day2.html)
 
 ### Wednesday
-- [Risk & Benefits of AI](../../Study%20Content/Artificial%20Intelligence/Week3Day3.html)
+- [DataLab 1: Minority Report (2)](../../Study%20Content/Artificial%20Intelligence/Week3Day3.html)
 
 ### Thursday
 - [State-of-the-art AI & Minority Report (3)](../../Study%20Content/Artificial%20Intelligence/Week3Day4.html)

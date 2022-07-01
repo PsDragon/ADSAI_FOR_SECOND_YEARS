@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-## __Philosophy AI__
+## __Philosophy AI & GitHub__
 
 Today, you will start your journey into the wonderful world of Artificial Intelligence :rainbow: :computer: During the first independent study day, you will dive into the foundational concepts of AI by examining its philosophy. In addition, you will receive instructions on how to work with GitHub, and the Work/Learning logs. 
 

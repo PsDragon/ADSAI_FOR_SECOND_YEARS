@@ -104,10 +104,10 @@ You are encouraged to get the best out of yourself. Therefore, within the ADS&AI
 ## Week 1: Introduction to Artificial Intelligence
 
 ### Monday
-- [Philosophy AI & GitHub](../../Study%20Content/Artificial%20Intelligence/Week1Day1.html)
+- [Philosophy AI & GitHub (1)](../../Study%20Content/Artificial%20Intelligence/Week1Day1.html)
 
 ### Tuesday
-- [History of AI](../../Study%20Content/Artificial%20Intelligence/Week1Day2.html)
+- [History of AI & GitHub (2)](../../Study%20Content/Artificial%20Intelligence/Week1Day2.html)
 
 ### Wednesday
 - [DataLab 1: Minority Report (1) & Information literacy](../../Study%20Content/Artificial%20Intelligence/Week1Day3.html)

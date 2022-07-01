@@ -2,15 +2,14 @@
 sort: 2
 ---
 
-## __DataLab 1: Minority Report (1) & Information literacy (1)__
+## __History of AI__
 
-In today's DataLab session, we will watch the movie Minority Report and subsequently start analyzing it for the assignment 'AI in Science Fiction' (i.e., presentation). Furthermore, we have prepared some material for you on the topic of information literacy (e.g., identifying useful information sources, choosing an appropriate citation style guide, etc.).
+Today's independent study material focusses on the history of AI. In particular, we will explore the famous article Computing Machinery and Intelligence by Alan Turing (1950). This is the first, and definitely not the last, research paper we are going to discuss in the program. As a data professional it is important to stay up to date with new developments in the field. Furthermore, it is good to be familiar with the seminal works of AI. One way of doing so, is reviewing these scholarly texts.
 
 ## Learning objectives
 
-1. Identify, and describe AI topics in the movie Minority Report.
-2. Evaluate the feasibility of the AI topic by critically assessing its possible application(s) within a real-life (business) setting.
-3. Acquire, evaluate, and use information from sources to meet the information needs for the Minority Report presentation assignment.
+1. List, and describe key moments in the history of AI
+2. Explain the procedure, and main objective of Turing's 'Imitation Game'
 
 ## Questions or issues?
 
@@ -18,88 +17,89 @@ If you have questions or issues regarding the course material, please fill out t
 
 ***
 
-## 1) Q&A and standup
+## 1) History of Artificial Intelligence
 
-__1a__ Ask questions regarding the independent study material.
+### 1.1 Timeline
 
-__1b__ Answer the following questions:
+The early beginnings of AI, can be traced to the Ancient Greek period when philosophers started to describe human thinking as a symbolic system. Additionally, one of the first notions of a 'robot' can be found in Greek mythology:
 
-- What did I work on yesterday (includes DataLab Preparation!)?
-- What am I working on today?
-- What issues are blocking me?
+> THE FIRST “ROBOT” to walk the earth—in ancient Greek mythology— was a bronze giant called Talos. Talos was an animated statue that guarded the island of Crete, one of three wondrous gifts fashioned by Hephaestus, god of the forge and patron of invention and technology. These marvels were commissioned by Zeus, for his son, Minos, the legendary first king of Crete. The other two gifts were a golden quiver of drone-like arrows that never missed their mark and Laelaps, a golden hound that always caught its prey. The bronze automaton Talos was charged with the task of defending Crete against pirates. Talos patrolled Minos’s kingdom by marching around the perimeter of the large island three times each day. As an animated metal machine in the form of a man, able to carry out complex human-like actions, Talos can be spoken of as an imagined android robot, an automaton “constructed to move on its own.” Designed and built by Hephaestus to repel invasions, Talos was “programmed” to spot strangers and pick up and hurl boulders to sink any foreign vessels that approached Crete’s shores. Talos possessed another capability too, modeled on a human trait. In close combat, the mechanical giant could perform a ghastly perversion of the universal gesture of human warmth, the embrace. With the ability to heat his bronze body red-hot, Talos would hug victims to his chest and roast them alive. (Mayor, 2018)
 
-***
+Throughout the centuries, scholars from various disciplines have made significant contributions to the field of AI. To name a few of them: al-Jazari, Leonardo Da Vinci, Ada Lovelace, Norbert Wiener, and Alan Turing.
 
-## 2) Creative Brief: Minority Report (1)
+However, the field of 'artificial intelligence' was not formally founded until 1956. It was at a conference, held at Dartmouth College, New Hampshire, were John McCarthy first coined the term 'artificial intelligence', which he defined as '... the science and engineering of making intelligent machines, especially intelligent computer programs' (Morignat, n.d.).  
 
-During the morning, you will be given the opportunity to watch Minority Report in the DataLab:
+After some setbacks in the 1970s and 1980s, also referred to as the AI winters, the field of AI has seen rapid advancements due to, among others, the introduction of deep learning, big data and artificial general intelligence in the early 2000s.
 
-- 9:30 - 11:30
+__1.1a__ Watch the video on the History of AI by YouTube´s AI with Alex.
 
-If you are unable to attend the movie screening, [Minority Report]( https://www.youtube.com/watch?v=msjM96zhles) is also available via YouTube (paid).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JjQGKSOTHa4?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<img src="./images/minority_report.jpg" alt="Minority Report" width="450"/> \
-*Figure 1. Minority Report.*
+*Video 1. History of AI by YouTube´s AI with Alex.*
 
-***
+__1.1b__ Read the article ['The Ancient Quest for AI'](http://intelligentstory.com/the-quest-for-ai.html) by Valerie Morignat and/or Chapter 1.3 of AIMA (p.35-45).
 
-## 3) Workshop: Information literacy
-
-> Information literacy is the ability to discover and use various types of information. It's an essential skill for navigating the information age. Watch this course to learn about strategies for finding information—from a library, archive, database, or the Internet—and the ethics of using it. Librarian Elsa Loftis discusses different types of resources and explains how to evaluate their usefulness and trustworthiness. She also shows how to avoid plagiarism and copyright infringement, and accurately cite sources ([Source](https://www.linkedin.com/learning/information-literacy/welcome?autoplay=true&resume=false&u=36359204)).
-
-__3a__ Complete the LinkedIn course [Information Literacy](https://www.linkedin.com/learning/information-literacy/welcome?autoplay=true&resume=false&u=36359204) (Optional). Unless you are a trained librarian or data professional, we highly recommend you to take the course. Rather read a book? Then, visit LibreTexts and use one of the books listed on the webpage [Research and Information Literacy](https://human.libretexts.org/Bookshelves/Research_and_Information_Literacy).
-
-__3b__ Identify, and select an AI related topic within one of the following BUAS domains:
-
-- Tourism
-- Logistics
-- Games
-
-Write your answer down.
-
-__Example:__ Autonomous shipping (BUAS domain: Logistics)
-
-__3a__ Find one scholarly source, and one popular source of information on your chosen AI topic. Tip: Use one of the search strategies presented in the Information Literacy course (e.g., Boolean searching).
-
-__3c__ Create an in-text, and bibliography citation for your popular, and scholarly source.
-
-__Example:__
-
-Scholarly source: [Towards Autonomous Shipping: Benefits and
-Challenges in the Field of Information Technology and
-Telecommunication](https://pdfs.semanticscholar.org/99a5/a8d00775e1adf5cac5c1d1c2b0a4b93d98e7.pdf?_ga=2.195360111.2114873160.1652959853-510087269.1652278776)
-
-Bibliography: Yanchin, I., & Petrov, O. (2020). Towards autonomous shipping: Benefits and challenges in the field of information technology and telecommunication. TransNav: International Journal on Marine Navigation and Safety of Sea Transportation, 14.
-
-In-text: (Yanchin and Petrov, 2020)
-
-Popular source: [Automated Marine Highways Are Key to a Nation’s Growth & Security](https://sea-machines.com/automated-marine-highways-are-key-to-a-nations-growth-security/)
-
-Bibliography: Automated Marine Highways Are Key to a Nation's Growth & Security. (2022, February 11). Automated Marine Highways Are Key to a Nation’s Growth & Security. https://sea-machines.com/automated-marine-highways-are-key-to-a-nations-growth-security/
-
-In-text: ("Automated Marine Highways Are Key to a Nation's Growth & Security," 2022)
-
-__3d__ Imagine writing a research report, and finding a quote similar to one below.
-
-> Much has been written about AI's potential to reflect both the best and the worst of humanity. For example, we have seen AI providing conversation and comfort to the lonely; we have also seen AI engaging in racial discrimination. Yet the biggest harm that AI is likely to do to individuals in the short term is job displacement, as the amount of work we can automate with AI is vastly bigger than before. As leaders, it is incumbent on all of us to make sure we are building a world in which every individual has an opportunity to thrive (Andrew Ng, Co-founder and led of Google Brain).
-
-After a thorough evaluation, you decide to include the quote in your report. List, and describe three approaches that help you incorporate the information correctly, thereby avoiding plagiarism. Write your answer down.
+__1.1c__ Find, and describe one 'milestone' in the history of AI. Be creative, so no 'milestones' by Alan Turing! No worries, we are going to extensively discuss his accomplishments in DataLab 2 :smiley:
 
 ***
 
-## 4) Creative Brief: Minority Report (2)
+### 1.2 Alan Turing 
 
-As part of the Project Brief you are required to give a
-7-minute presentation, where you identify, and describe an AI topic in the movie Minority Report, and place it within the Taxonomy of AI. Furthermore, you will need to evaluate the feasibility of the AI topic by critically assessing its possible application(s) within a real-life (business) setting. Lastly, in order to meet the information needs for the Minority Report presentation, you will need to acquire, evaluate, and use information from various popular and/or scholarly sources, such as blogs and scientific journal articles.
+The rise of artificial intelligence forces us to rethink what robots mean to society and what their role is to be. They are far better at arithmetic, but are they really as intelligent as us? What constitutes intelligence? And should we fear being replaced by these digital machines in the future? Alan Turing was the first to examine the relationship between humans and digital machines.
+
+<img src="./images/alan_turing.jpg" alt="Books banner" width="350"/>
+
+*Figure 1. Portrait of Alan Turing made up by binary numbers.*
+
+In the article Computing Machinery and Intelligence (1950), Turing lays the foundation for modern day AI. He introduces an behavioural test, the Turing Test, and discusses some objections raised in relation to this test. As a result of his contributions to the field, he also called one of the 'founding fathers' of AI.
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Note: You will be introduced to the Taxonomy of AI on Thursday.
+Tip: If you are having difficulties reading the mathematical equations or understanding the main concept of a scholarly text, try to look for additional information online. YouTube (e.g.,
+<a href="https://www.youtube.com/c/K%C3%A1rolyZsolnai/featured">Two Minute Papers</a>), StackOverfow, Quora, and Medium are examples of webpages that can help you in analysing these sources of information.
 </div>
 
-__But, where do I start...__
+__1.2b__ Besides the Turing Test, Alan Turing is renowned for his work on:
+\
+1.
+\
+2.
+\
+3.
 
-After watching Minority Report, ask yourself, 'What AI technologies, methods, and/or practices were depicted in the movie?'. When you have successfully identified an AI topic, search the internet for information that can be used as evidence to support your argument. [Google](https://www.google.com/) is often a good starting point. Other useful sources: [Papers with Code](https://paperswithcode.com/), [Nature](https://www.nature.com/), [Connected Papers](https://www.connectedpapers.com/), and [The Guardian](https://www.theguardian.com/international). Do not restrict yourself to one source; try looking for multiple sources to back your arguments. After successfully identifying and describing the AI topic, evaluate the feasibility by critically assessing its possible application(s) within a real-life (business) setting. For example, look for (company) blogs (e.g.,  Hitachi's [Industrial AI blog](https://www.hitachi.com/rd/sc/aiblog/index.html), [AI Trends](https://www.aitrends.com/), etc.) or periodicals that present, and discuss implementations of you chosen AI topic. Finally, choose a citation style guide, and reference your sources accordingly.
+Fill in the blanks.
 
-Good luck!
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #a94442; background-color: #f2dede; border-color: #ebccd1;">
+Alert: Whoever has the quirkiest fact on Alan Turing will receive a candy bar at the end of the workshop in DataLab 2.
+</div>
+
+__1.2c__ Read Wikipedia's summary of [Computing Machinery and Intelligence](https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence#:~:text=Computing%20Machinery%20and%20Intelligence%20From%20Wikipedia%2C%20the%20free,as%20the%20Turing%20test%20to%20the%20general%20public.)
+
+__1.2d__ Watch the video 'Turing Test: Can Machines Think?' by the highly popular podcast-making AI researcher Lex Fridman.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MGW_Qcqr9eQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*Video 2. 'Turing Test: Can Machines Think?' by Lex Fridman.*
+
+Did you enjoy the summary and the video, and want to take a deeper dive into Turing's Computing Machinery and Intelligence? Check out the original article, which you can find, [here](https://academic.oup.com/mind/article/LIX/236/433/986238).
+
+__1.2e__ Describe the procedure, and main objective of Turing's 'Imitation Game'. Write your answer down
+
+***
+
+## 2) Preparation for DataLab 1, Week 1
+
+- [ ] Go to BUas' [Meta Search Engine](https://eds.s.ebscohost.com/eds/search/basic?vid=6&sid=59355576-7a16-4eec-86aa-73f051f228f0%40redis), and find:
+
+1. A study skills book (e.g., presenting, writing, etc.) from the Library Collection
+2. An AI-related eBook from the Library Collection.
+
+Write down the title, author(s), accession number and publication year.
+
+- [ ] Fill in your Work Log.
+- [ ] Set a goal for Week 1, and note it down in your Learning Log.  
+
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Note: When you are finished with the independent study material, and still have some time left, try to apply your newly gained knowledge to the Creative Brief.
+</div>
 
 ***

@@ -180,7 +180,7 @@ To do this we need to **commit** our changes.
 
 A **commit** tells Git that you made some changes which you want to record. Though a **commit** seems similar to saving a file, there are different aims behind 'committing' changes compared to saving changes. Though people sometimes save different versions of a document, often you are saving a document merely to record the version as it is when it is saved. Saving the document means you can close the file and return to it in the same state later on. **Commits**, however, take a snapshot of the file at that point and allow you to document information about the changes made to the document.
 
-<img src="./images/GitHubCommit.jpg" alt="GitHub commit" width="800"/> 
+<img src="./images/GitHubCommit.jpg" alt="GitHub commit" width="1000"/> 
 
 *Figure 4. GitHub commit.*
 

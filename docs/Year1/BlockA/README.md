@@ -14,6 +14,7 @@ Each of the seven/eight weeks has a fixed structure: on Monday, Wednesday and Th
 | Zhanna Kozlova (Lecturer), MA. <img src="./ZhannaProfile.jpg" alt="Zhanna Kozlova profile picture" width="200"/>  |   |  Group 1, Year 1 | kozlova.z@buas.nl  |   |
 | Alican Noyan (Lecturer), PhD. |   | Group 4, Year 1  |  noyan.a@buas.nl |  |
 | Dean van Aswegen (Lecturer), MSc. |   |  Group 5, Year 1 | aswegen.d@buas.nl |   |
+| Gilmara Merrill (Lecturer), MA. |   |  Group 6, Year 1 |  |   |
 | Frank Peters (Program manager), PhD. | Mon, Tue, Wed, Thu |  NA | peters.f@buas.nl |   |
 
 ### DataLab Attendance & Preparation
@@ -91,6 +92,11 @@ In DataLab 2, Week 7, you are expected to provide a live demo of your dashboard 
 
 Please refer to the Assessment Rubric in Microsoft Teams for more detailed information.
 
+### Challenges 
+
+You are encouraged to get the best out of yourself. Therefore, within the ADS&AI program, we regularly allow you to push yourself further by giving you so-called bronze-silver-gold challenges. By achieving these, you can earn badges, which mark excellent students.
+
+
 ***
 
 # Project Timeline
@@ -98,13 +104,13 @@ Please refer to the Assessment Rubric in Microsoft Teams for more detailed infor
 ## Week 1: Introduction to Artificial Intelligence
 
 ### Monday
-- [Philosophy AI](../../Study%20Content/Artificial%20Intelligence/Week1Day1.html)
+- [Philosophy AI & GitHub](../../Study%20Content/Artificial%20Intelligence/Week1Day1.html)
 
 ### Tuesday
-- [DataLab 1: Minority Report (1) & Information literacy (1)](../../Study%20Content/Artificial%20Intelligence/Week1Day2.html)
+- [History of AI](../../Study%20Content/Artificial%20Intelligence/Week1Day2.html)
 
 ### Wednesday
-- [History of AI & Information literacy (2)](../../Study%20Content/Artificial%20Intelligence/Week1Day3.html)
+- [DataLab 1: Minority Report (1) & Information literacy](../../Study%20Content/Artificial%20Intelligence/Week1Day3.html)
 
 ### Thursday
 - [Conference: Artificial Intelligence & The BUAS domains](../../Study%20Content/Artificial%20Intelligence/Week1Day4.html) (Location: BUAS Campus)

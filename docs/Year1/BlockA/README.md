@@ -124,10 +124,10 @@ You are encouraged to get the best out of yourself. Therefore, within the ADS&AI
 - [Intelligent Agents & Conversational AI](../../Study%20Content/Artificial%20Intelligence/Week2Day1.html)
 
 ### Tuesday
-- [DataLab 1: The Turing Test](../../Study%20Content/Artificial%20Intelligence/Week2Day2.html)
+- [Taxonomy of AI (1)](../../Study%20Content/Artificial%20Intelligence/Week2Day2.html)
 
 ### Wednesday
-- [Taxonomy of AI (1)](../../Study%20Content/Artificial%20Intelligence/Week2Day3.html)
+- [DataLab 1: The Turing Test](../../Study%20Content/Artificial%20Intelligence/Week2Day3.html)
 
 ### Thursday
 - [Taxonomy of AI (2)](../../Study%20Content/Artificial%20Intelligence/Week2Day4.html)

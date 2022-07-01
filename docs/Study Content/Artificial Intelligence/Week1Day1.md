@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-## __Philosophy AI & GitHub__
+## __Philosophy AI & GitHub (1)__
 
 Today, you will start your journey into the wonderful world of Artificial Intelligence :rainbow: :computer: During the first independent study day, you will dive into the foundational concepts of AI by examining its philosophy. In addition, you will receive instructions on how to work with GitHub, and the Work/Learning logs. 
 
@@ -28,7 +28,7 @@ At 9:00, we will have the Block A kick-off presentation at the BUas Campus (Loca
 
 ***
 
- ## 2) GitHub Desktop: Introduction to version control
+ ## 2) GitHub Desktop: Introduction to version control (1)
 
 Today, you will be introduced to the basics of version control, understand why it is useful and implement basic version control for a plain text document using GitHub Desktop.
 
@@ -284,7 +284,7 @@ We now have our remote changes synced back onto our computer.
 
 You can see from this view that text with changes highlighted in green or red. Red indicates where things have been removed while green indicates additions. This can be useful for viewing the edits you have made before making a commit and helps you spot whether all the changes are ones you want to commit. On the left you will see a history of the changes you have made. At the moment this is very brief but as you work on a project the history might become much longer. Being able to see the changes you have made at different stages can be very useful ([Source](https://programminghistorian.org/en/lessons/retired/getting-started-with-github-desktop)).
 
-__2.4a__ Create a new text file (e.g., markdown file), and save it with the name [**YourName_blockA_DataLabPreparation**]. Henceforth, please use this document to commit, and push the completed DataLab preparation exercises to your personal GitHub page. 
+__2.4a__ Install GitHub Desktop, and VSCode or another IDE/text editor on your local device. 
 
 ***
 

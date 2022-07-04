@@ -56,10 +56,10 @@ Buas domains and guide stakeholders towards the best course of action.**
 </figure>
 <br>
 
-<mark>Please note that during weeks 1 to 4, you will work in a group. Weeks 4 to 7
-is individual work. This ensure that you can pool in resources for study design,
+> <mark>Please note that during weeks 1 to 4, you will work in a group. Weeks 4 to 7
+is individual work.</mark> <br> This ensures that you can pool in resources for study design,
 data collection, and data management; while allowing for individual preferences in
-data analyses and project dissemination.</mark>
+data analyses and project dissemination.
 
 The project timeline is aligned with the knowledge modules you will find on
 the ADSAI digital learning environment.

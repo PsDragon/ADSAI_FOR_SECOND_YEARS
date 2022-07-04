@@ -12,7 +12,7 @@ and amaze us with your creative problem solving!
 
 <br>
 <figure>
-    <img src=".\images\at.PNG" />
+    <img src=".\images\at.PNG"/>
 </figure>
 <br>
 
@@ -73,8 +73,8 @@ to perform a literature review and design hypotheses which you will then put
 to the test in the upcoming weeks.
 
 The knowledge modules linked to this phase are:<br>
-- [ ] [Foundations of Quantitative Research Design](https://www.linkedin.com/learning/academic-research-foundations-quantitative/welcome?autoplay=true&u=36359204) <br>
-- [ ] [Foundations of Qualitative Research Design](https://www.linkedin.com/learning/market-research-qualitative/the-power-of-qualitative-research?autoplay=true&u=36359204)
+- [ ] [Foundations of Quantitative Research Design](https://www.linkedin.com/learning/academic-research-foundations-quantitative/welcome?autoplay=true&u=36359204){:target="_blank"} <br>
+- [ ] [Foundations of Qualitative Research Design](https://www.linkedin.com/learning/market-research-qualitative/the-power-of-qualitative-research?autoplay=true&u=36359204){:target="_blank"}
 
 
 ### Week 2-4
@@ -88,9 +88,9 @@ Use these weeks to explore and analyse your data using statistical methods.
 
 The knowledge modules linked to this phase are:
 
-- [ ] [Quantitative Data Analysis: A Primer](../../Study%20Content/Statistical%20Inference/)
-- [ ] [Intermediate Statistics](https://www.linkedin.com/learning/statistics-foundations-2/welcome?autoplay=true&u=36359204)
-- [ ] [Advanced Statistics](https://www.linkedin.com/learning/statistics-foundations-3/welcome?autoplay=true&u=36359204)
+- [ ] [Quantitative Data Analysis: A Primer](../../Study%20Content/Statistical%20Inference/){:target="_blank"}
+- [ ] [Intermediate Statistics](https://www.linkedin.com/learning/statistics-foundations-2/welcome?autoplay=true&u=36359204){:target="_blank"}
+- [ ] [Advanced Statistics](https://www.linkedin.com/learning/statistics-foundations-3/welcome?autoplay=true&u=36359204){:target="_blank"}
 
 ### Week 7
 In this week, you are expected to report and present your project findings.
@@ -101,10 +101,10 @@ The knowledge modules linked to this phase are:
 ## Project Requirements
 
 Your project should:
-- [ ] use a validated scale to measure how staff and students
+- [ ] use a valid and reliable scale to measure how staff and students
 think about AI.
-- [ ] consist of quantitative as well as qualitative data.
-- [ ] adhere to the [Buas Data Management Protocol](https://edubuas.sharepoint.com/sites/researchdevelopment/SitePages/Datamanagement.aspx), in particular ensuring that your data is F.A.I.R.
+- [ ] consist of quantitative as well as qualitative data analysis component.
+- [ ] adhere to the [Buas Data Management Protocol](https://edubuas.sharepoint.com/sites/researchdevelopment/SitePages/Datamanagement.aspx){:target="_blank"}, in particular ensuring that your data is F.A.I.R.
 
 ## Project Deliverables
 

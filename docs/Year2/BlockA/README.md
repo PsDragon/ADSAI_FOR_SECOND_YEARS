@@ -52,7 +52,7 @@ Buas domains and guide stakeholders towards the best course of action.**
 ## Project timeline
 
 <figure>
-    <img src=".\images\phases.PNG" />
+    <img src=".\images\phases.png" />
 </figure>
 <br>
 

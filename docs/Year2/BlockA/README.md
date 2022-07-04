@@ -72,8 +72,9 @@ into how the different domains in Buas tend to think about AI (general attitudes
 to perform a literature review and design hypotheses which you will then put
 to the test in the upcoming weeks.
 
-The knowledge modules linked to this phase are:
-
+The knowledge modules linked to this phase are:<br>
+- [ ] [Foundations of Quantitative Research Design](https://www.linkedin.com/learning/academic-research-foundations-quantitative/welcome?autoplay=true&u=36359204) <br>
+- [ ] [Foundations of Qualitative Research Design](https://www.linkedin.com/learning/market-research-qualitative/the-power-of-qualitative-research?autoplay=true&u=36359204)
 
 
 ### Week 2-4
@@ -86,6 +87,10 @@ The knowledge modules linked to this phase are:
 Use these weeks to explore and analyse your data using statistical methods.
 
 The knowledge modules linked to this phase are:
+
+- [ ] [Quantitative Data Analysis: A Primer](../../Study%20Content/Statistical%20Inference/)
+- [ ] [Intermediate Statistics](https://www.linkedin.com/learning/statistics-foundations-2/welcome?autoplay=true&u=36359204)
+- [ ] [Advanced Statistics](https://www.linkedin.com/learning/statistics-foundations-3/welcome?autoplay=true&u=36359204)
 
 ### Week 7
 In this week, you are expected to report and present your project findings.

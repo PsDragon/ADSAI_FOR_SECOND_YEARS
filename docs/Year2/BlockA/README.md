@@ -111,7 +111,7 @@ think about AI.
 
 ## Project Deliverables
 
-Your final (<mark>**group**</mark>) deliverable is a Data Management documentation which contains:
+Your final (<mark>group</mark>) deliverable is a Data Management documentation which contains:
 - [ ] description of the data collection process (which tools/instruments are used).
 - [ ] description of the data: what is the format (file-type) of the data.
 - [ ] a codebook describing variables.
@@ -119,7 +119,7 @@ Your final (<mark>**group**</mark>) deliverable is a Data Management documentati
 
 
 
-Your final (<mark>**individual**</mark>) deliverables are:
+Your final (<mark>individual</mark>) deliverables are:
 - [ ] scientific report documenting your findings (APA style, Latex formatted).
 - [ ] conference poster and/or conference presentation
 

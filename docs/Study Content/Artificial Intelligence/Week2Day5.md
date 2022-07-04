@@ -77,9 +77,11 @@ __3. What could you have done better?__
 
 __4. What I think you could have done better?__
 
-*Peer 2 (mentor) may concur with peer 1, and adds additional comments on how they can improve.  
+*Peer 2 (mentor) may concur with peer 1, and adds additional comments on how they can improve.*  
 
 __2h__ In the bi-weekly formative feedback sessions between student and mentor, the teaching staff members deploy various feedback methods (e.g., the Pendleton model). Think about how you, as a student, can prepare for such as session. Write your findings down. 
+
+***
 
 ## 2) Creative Brief: Minority Report (6)
 

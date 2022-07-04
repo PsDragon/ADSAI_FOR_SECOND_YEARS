@@ -43,7 +43,7 @@ __2c__ Complete one of the following courses on the topic of feedback:
 
 - [Using Feedback to Drive Performance: Everything is feedback](https://www.linkedin.com/learning/using-feedback-to-drive-performance/everything-is-feedback?autoplay=true&u=36359204) (LinkedIn Learning course, Amber Vanderburg and Madecraft)
 
-- [Using Feedback to Drive Performance: Everything is feedback](https://www.linkedin.com/learning/using-feedback-to-drive-performance/everything-is-feedback?autoplay=true&u=36359204) (LinkedIn Learning course, Amber Vanderburg and Madecraft)
+- [Giving and Receiving Feedback: The art and science of feedback](https://www.linkedin.com/learning/giving-and-receiving-feedback/the-art-and-science-of-feedback-2?autoplay=true&u=36359204) (LinkedIn Course, Gemma Leigh Roberts)
 
 - [Giving Helpful Feedback, Week 1:Introduction to Giving Helpful Feedback and Positive Feedback](https://www.coursera.org/learn/feedback#syllabus) (Coursera course, Tracy Jennings)
 

@@ -97,6 +97,9 @@ In this week, you are expected to report and present your project findings.
 
 The knowledge modules linked to this phase are:
 
+- [ ] [Writing in Latex: A Primer](https://www.overleaf.com/learn/latex/Tutorials){:target="_blank"}
+- [ ] [Writing in the Sciences: Stanford](https://www.coursera.org/learn/sciwrite){:target="_blank"}
+
 
 ## Project Requirements
 
@@ -108,7 +111,7 @@ think about AI.
 
 ## Project Deliverables
 
-Your final (**group**) deliverable is a Data Management documentation which contains:
+Your final (<mark>**group**</mark>) deliverable is a Data Management documentation which contains:
 - [ ] description of the data collection process (which tools/instruments are used).
 - [ ] description of the data: what is the format (file-type) of the data.
 - [ ] a codebook describing variables.
@@ -116,7 +119,8 @@ Your final (**group**) deliverable is a Data Management documentation which cont
 
 
 
-Your final (**individual**) deliverables are:
-- [ ] technical report documenting your findings (APA style, Latex formatted).
-- [ ] conference poster
-- [ ] conference presentation
+Your final (<mark>**individual**</mark>) deliverables are:
+- [ ] scientific report documenting your findings (APA style, Latex formatted).
+- [ ] conference poster and/or conference presentation
+
+> The best conference poster will be invited to present their findings via a presentation.

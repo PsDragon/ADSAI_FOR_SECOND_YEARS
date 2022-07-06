@@ -4,7 +4,7 @@
 
 Each of the seven/eight weeks has a fixed structure: on Monday, Wednesday and Thursday you work individually on the development of basic skills, which are needed to execute the DataLab assignments.
 
-### Staff Members
+### Meet the Staff Members
 
 | Name   |  Availability |  Mentor Group | Email  | Subject  |
 |---|---|---|---|---|
@@ -94,8 +94,9 @@ Please refer to the Assessment Rubric in Microsoft Teams for more detailed infor
 
 ### Challenges 
 
-You are encouraged to get the best out of yourself. Therefore, within the ADS&AI program, we regularly allow you to push yourself further by giving you so-called bronze-silver-gold challenges. By achieving these, you can earn badges, which mark excellent students.
+You are encouraged to get the best out of yourself. Therefore, within the ADS&AI program, we regularly allow you to push yourself further by giving you so-called bronze-silver-gold challenges. By achieving these, you can earn badges for your GitHub page, which mark excellent students: 
 
+![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=goldmedal) ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=silvermedal) ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=bronzemedal)
 
 ***
 

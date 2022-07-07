@@ -34,13 +34,12 @@ Look at the [creative brief](https://adsai.buas.nl/Year1/BlockA/) for more info 
 #### Don't know a specific word?
 Don't worry about it and just google it! You're here to learn and expand your the vocabulary as part of your knowledge and skills!
 
-***
+
 ## 1) Data Science Introduction Lecture
-***
-Time:
+**Time:**
 Monday the 19th of September at 10:00 o'clock in the morning.
 
-Place:
+**Place:**
 Online on Microsoft Team: it should be on your Teams Calendar. If not, [click here](https://teams.microsoft.com/l/meetup-join/19%3a17PMQMfR4ntX_bdV9TDCQMIh5dTyPJibns2Pp1g76Os1%40thread.tacv2/1631095566063?context=%7b%22Tid%22%3a%220a33589b-0036-4fe8-a829-3ed0926af886%22%2c%22Oid%22%3a%225cef929d-ecf9-4fca-bf12-bc5ee065fc99%22%7d).
 ***
 ### Missed the lecture?

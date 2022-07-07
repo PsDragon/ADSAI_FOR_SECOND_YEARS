@@ -14,41 +14,26 @@ Enable you to understand, manipulate and create:
 5. Cleaning and transforming data.
 
 Table of contents:
-1. Introduction to concepts: 1 hour
-2. Workshop: 5 hours
-3. Mock-assessment: 1 hour
+1. Introduction to concepts: 0.5 hours
+2. Workshop: 5-6 hours
+3. Mock-assessment: 0.5 - 1 hour(s)
 
 ## Questions or issues?
-If you have any questions or issues regarding the course material, please first ask your peers or ask us in the daily Q&A at 16:00!
 
-Good luck!
+If you have questions or issues regarding the course material, please fill out the 'How Can We Help?' form under the section ['Ask me anything'](https://adsai.buas.nl/Contact%20Us/). A member of our teaching staff will respond as soon as possible.
+
+***
 
 
 ## 1) Introduction
-### 1.1 Variables
+
 Let's start with the most basic container for information: the variable. Essentially it's just a container that contains a value that can change depending on a given condition. The following video covers the fundamental concepts of variables from a mathematical perspective.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tHYis-DP0oU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The next video zooms into variables in the context of data & computer science; more specifically: how variables work in R.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZxV-kf0yBss" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-### 1.2 vectors
-Whereas a variable stores a single value, a vector stores multiple values of the same kind in one dimension.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w5dOALbZ9HE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### 1.2 Matrices
-Matrices store multiple (usually  numeric) values of the same type in *two* dimensions arranged into a fixed number of rows and columns. So every row, or observation or element, contains a value for every collum.
-
-The singular form of matrices is 'matrix'.
-
-![Enter the (data in the) matrix](https://media.makeameme.org/created/what-if-i-aac0fffe8b.jpg)
-
-So it's essentially a matrix is a table with values of the same type. It's exciting stuff the workshop will take you deeper down into.
-
+A variable can contain numerous data types and a data type is necessary whenever you are dealing with the data. Any data that is loaded needs a data type so that it helps the compiler to understand how the data entered is to be used. Power BI is no exception. It also has a particular set of data types. Here, the data type is defined for a particular column. You can choose to learn by doing and do the workshop below, or you can first read this short overview first](https://yodalearning.com/tutorials/power-bi-data-types/#1) if you prefer to get a clearer overview of different types of variables; which I'ld recommomend but up to you! 
 
 ## 2) Workshop - Variables and Data Transformation in Power BI
-Now it's time for the [the workshop part](https://www.datacamp.com/courses/introduction-to-power-bi) of this class to get acquainted with variables and data transformation in PowerBI. Click the link in the previous sentence to start with the online workshop. Complete the entire course and upload the certificate to github, reference the certificate in your learning log for this week.
+Now it's time for the workshop part of of this class to get acquainted with variables and data transformation in PowerBI. Click the links [Introduction to Power BI](https://www.datacamp.com/courses/introduction-to-power-bi) and [Introduction to DAX in Power BI](https://www.datacamp.com/courses/introduction-to-power-bi). Complete the both courses and upload the certificate to github, reference the certificate in your learning log for this week.
 
 ## 3) Mock Assessment
 
@@ -56,20 +41,16 @@ This mock assessment is about applying the concepts we learned today to a real-w
 
 Create an .pbix file called "VariablesMockAssessment" and follow these instructions:
 
-1. Create a variable called 'lunch' with a string describing an item you had for lunch: food only.
+1. Create a variable called 'lunch' with a text/string describing an item you had for lunch: food only.
 2. Delete the variable.
-3. Create a vector named 'drinks' containing all your drinks you ate today: as strings.
-4. Create a vector named 'foods' listing all the food you ate today; as strings.
+3. Create a vector named 'drinks' containing all your drinks you ate today: as text/strings.
+4. Create a vector named 'foods' listing all the food you ate today; as text/strings.
 5. Create a table/matrix containing the food and drinks you had today.
 6. Add the times; as numerical values, when you ate or drank something.
 
 Save your mock assessment to your GitHub repository and refer to it in your learning log. In Datalab you and your classmates are going to look at one another's scripts and run it.
 
 
-# 4) Daily Q&A
-At 16:00, there's a online meeting on our Microsoft Team Channel  you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
-
-Tomorrow we will cover descriptive analysis: what can we tell about the data by just looking at the data distribution and summary statistics?
 
 
 ## Resources

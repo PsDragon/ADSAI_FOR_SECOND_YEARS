@@ -15,10 +15,8 @@ Enable you to:
 Today we'll learn how to create the following components of any data science project. If you exceed the estimated duration for a given component and feel like you are squeezed for time, feel free to ask us for help!
 
 Table of contents:
-1. Problem Statement: 2 hours
-3. Research Question: 1 hour
-4. Introduction: 1.5 hours
-5. Daily Reflection: From 16:30 to 17:00
+1. Problem Statement: 3-4 hours
+2. Research Question: 3-4 hour
 
 Good luck!
 
@@ -84,17 +82,14 @@ Note: You have to log in to Linkedin LEARNING using your BUas credentials!.
 Or broaden your search:
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="640" height="360" src="https://www.linkedin.com/learning/embed/academic-research-foundations-quantitative/broaden-your-idea-to-a-research-topic?autoplay=false&claim=AQHerpncubnxTgAAAXqgvJdyrH9n_4m0bs_tJ42zInQU90vjR5urDifH8Ewk6Zu55a1jsla96sm6l8BuQMyukiE_9iSNKneJR6t7PhYoHeSvXWKw3HAGskU2bsPY3u_J9aSxJOLi7dfRU2PahbtqCl-w19DRgwDk8L_-2bmU8wP_23gsNjHnHya-YO8RKSNfkNNDI259DK5DTGKtlA_DWe2LL02TlD7kCX9lBymgjat17-PtGoIrsePb49OpMEDosgJV9Q-QeqlTEdno0oJv6xpWOmyiZZ9CQ7KEeqv_gNyT3eJyg-40aFDwIIMTDUPaUIS7bkBzbfknjUcXxBGUb-LHgs2_bYFHNrHsL5arY9k1-2M21AfTVMhWc_ZscK25fGb_FbdP9XumRhuH3xk9gLIdFPQqaB_MRIoJJ355QLUl42Zjv3UhXUgIiYAch6D9DyQtOjqaoNgLqqaoInHW2zOoUpM02dWNF0xzasTIbbSVAAz26GvEfWk4tQSxuu6dGobTMu6iyd1lcDnIeEyJGBIepxhsuqFjFuSsLowL9VHvSro7-l3phcRLk-SZtwA2DTiXIFDYguDD5iFqMpWWSJ88nZduOXNqII_fIYQe5Z6qxxXWMVsynvfvxe6JcXTZqSWBtlYT1_ZERNEMANdg5jPzR-sdd5JUB1lhuHQ_VhgqmPg00WFnQa99x8oodrARC84y-N5dV8QhZpXxDmAPjzWoxBD7TLaPyc00SYfGrEtCYw&lipi=urn%3Ali%3Apage%3Ad_learning_content%3BueJYCfoVRcCpoT4cO7nhog%3D%3D&licu" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true" frameborder="0" style="position:absolute;width:100%;height:100%;left:0"></iframe></div><p><strong><a href="https://www.linkedin.com/learning/academic-research-foundations-quantitative/broaden-your-idea-to-a-research-topic?trk=embed_lil">Broaden your idea to a research topic</a></strong> from <strong><a href="https://www.linkedin.com/learning/academic-research-foundations-quantitative?trk=embed_lil">Academic Research Foundations: Quantitative</a></strong> by <strong><a href="https://www.linkedin.com/learning/instructors/rolin-moe?trk=embed_lil">Rolin Moe</a></strong></p>
 
-**Step 4.** Form your problem statement and write it down in your conference poster.
+**Step 4.** Form your problem statement and write it down in your notes.
 
 Watch this if you feel like you need more information on how to form a problem statement.
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="640" height="360" src="https://www.linkedin.com/learning/embed/apache-spark-essential-training-big-data-engineering/problem-statement?autoplay=false&claim=AQF0XpZezLbvZQAAAXqgvSTwe9Nl1HW9J2Q8iq2FGT-xzUFOfI_kfXyZrIIifjvWzvnKmpthbWZxgALMw2mg1QxTSfpz_ScCb2Eb7ZiX0K3RsYisxzfRHEQVKfidqQpNeBrgrLoe3R1hgvwIzbk4dGK_wNajl0rnc48lDP83ujk-6m8F0W_QVWPzSqwohnf32yN5UU0WUmcZktWi0SrKsK2nOPuX7o4qndk0kfFHT4_EsQbMsdWxPCigllcqldxZtKlqwC0d2LnIA6tzEqBXju6P97q98sxooECjeHsT_pYX3pTDT9VioK7pH-1onNN9qQj-DOnVN1EgM5tiGjCPL9gWF05mmtN4H0ELccXcbLMf1kLG8GDIRs6UwL4POhp2XRkyoe3s1RJmq7geloRVUcHZ1F_tJECrHiszFL0ss1oyET0AeKySPB7d6xdX5ce7d7X8sAZ3C_N0kZK_bClkeHGu3fMU0xDzwvUO64YLRPKJQFvtevnaeJZTwZOO1WMgOHbjDZJxxfp8xQN0C4Uwn5w6D4t8d4ltyO98Q0XVWouMgqrIu5pR6efFA638qZquzE27yhP5aHGMH1OzXbeuOW0uj5GUVOF9NE0JlXDk-duzYR9X5uIL2kDAphi-FGt3-MdIIst6LvgeQ4VoI-FuJU1skib3KuYGXqW6OTiCrr42oI2M-0EyUMMVRLK5sKpMGz_1qo74ZqB1-yW4TyDl8QdvP7rDGlaZh4T1_8TSVa3bfg&lipi=urn%3Ali%3Apage%3Ad_learning_content%3BkQHKtjeiR%2BWacY1bxXsmUw%3D%3D&licu" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true" frameborder="0" style="position:absolute;width:100%;height:100%;left:0"></iframe></div><p><strong><a href="https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering/problem-statement?trk=embed_lil">Problem statement</a></strong> from <strong><a href="https://www.linkedin.com/learning/apache-spark-essential-training-big-data-engineering?trk=embed_lil">Apache Spark Essential Training: Big Data Engineering</a></strong> by <strong><a href="https://www.linkedin.com/learning/instructors/kumaran-ponnambalam?trk=embed_lil">Kumaran Ponnambalam</a></strong></p>
 
 Note that we're not going to do extensive data engineering just yet :p, we are just conceptualising this block. However, later you may want to recommend a data processing pipeline and dashboard to monitor some real-world later in the project, depending on your problem statement.
 
-## 2) Guest Lecture on SDG Indicators in BUAS
-The SDG-Taskforce will come by and talk on how BUas approaches meeting the SDG-indicators
-
-## 3) Forming a Research question
+## 2) Forming a Research question
 Now, it's time for writing the research questions!
 
 **Step 1.** Please watch the following videos to collect the knowledge you'll need to apply:
@@ -105,7 +100,7 @@ Now, it's time for writing the research questions!
 
 **Step 2.** Form your research question and write it down in your conference posters. Note down the type of research question you're asking. Make sure it is concise, specific and simple!
 
-**Step 3.** Save your work and push it to your Github repository.
+**Step 3.** Save your notes and push it to your Github repository.
 
 
 ## Questions or issues?

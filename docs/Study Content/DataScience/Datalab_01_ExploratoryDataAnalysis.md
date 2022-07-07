@@ -14,7 +14,8 @@ Enable you to:
 
 Table of contents:
 0. Mock-Assessment Review: 0.5 Hours
-2. Exploratory Data Analysis on SDG Indicators dataset: 7 hours
+1. Exploratory Data Analysis workshop: 2-3 Hours
+2. Exploratory Data Analysis on SDG Indicators dataset: 5.5- 6.5 hours
 3. Day reflection: 16:30 - 17:00
 
 ## 0) Mock-Assessment review: Variables and Descriptive data
@@ -22,18 +23,20 @@ Now, let's all find a partner (as in a classmate, not in a romantic sense) and g
 - Simply showing one another how you created your variables, vectors and data frame for the Intro to Variables mock assessment. Or what you did and did not manage; we're in a safe space to learn, and not succeeding is part of that :).
 - Showing one another your calculations and solutions for parts A and B of the Descriptive Analyses mock assessment.
 
-## 1) Project Brief part: Exploratory Data Analysis
-NDuring the workshop we have learned all EDA techniques we could need to address your problem statement. Which means that now we can continue working on the project brief.
+## 1) Exploratory Data Analysis - Workshop
+Let's start by doing a workshop, specifically the [Exploratory Data Analysis course](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-power-bi)!
+
+## 2) Exploratory Data Analysis on SDG Indicators dataset - Project Brief part
+During the workshop we have learned all EDA techniques we could need to address your problem statement. Which means that now we can continue working on the project brief.
 
 **Step 1.** Open your Power BI Dashboard Template and inspect the EDA Methodology section. Then, save the poster to your "DataScience1_Dashboard" GitHub repository and be sure to save and upload your file regularly. Now look at the feedback you have received on your dashboard by navigating to your GitHub repository and clicking on the 'Pull requests' header. There should be a feedback thread over there.
 
 **Step 2.** Get your notes from the last data lab and read the Introduction you wrote for the poster. Then, go to the [SDG website](https://sdg-tracker.org/) and make **a selection of the variables** you think are interesting in the context of the problem statement.
 
 
-
 **Step 3.** Download the **relevant** [SDG data](https://unstats.un.org/sdgs/indicators/database/) and create a dataset which **only contains the variables you selected** (apart from identifier data such as the year or geographic area). Then, save the dataset as a CSV file to your "DataScience1_Dashboard" repository.
 
-Now open the poster and write the Data Selection Section.
+Now open your dashboard and write the Data Selection Section.
 
 
 **Step 4.** Open PowerBI and generate descriptive statistics for each variable and save all the results in a table. Then export the table as a .jpeg file and save it to your GitHub repository.
@@ -46,13 +49,13 @@ Now, open the dashboard and write the Data Cleaning Sections.
 2. Histogram
 3. Boxplot
 
-Now open the poster and write the Data Selection and Data Visualisation Sections. Save your script on your GitHub repository and name it aptly: e.g. "SDGIndicatorExploratoryDataAnalysis".
+Now open the dashboard and write the Data Selection and Data Visualisation Sections. Save your script on your GitHub repository and name it aptly: e.g. "SDGIndicatorExploratoryDataAnalysis".
 
 **Step. 6.** Read and potentially iterate on your poster, then save your poster to your GitHub repository!
 
 
 ## 2)  In-Class discussion
-At 16:30, we'll all get together in Datalab to discuss our progress and reflect on today activities.
+At 16:30, we'll all get together in our mentor group to discuss our progress and reflect on today activities.
 
 Next week we're going to cover some fundamental concepts of probability theory. It's much more fun than it sounds, I promise. :p
 

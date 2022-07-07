@@ -1,10 +1,10 @@
 ---
-sort: 7
+sort: 5
 ---
 
 # Datalab 01: Exploratory Data Analysis
 
-This data-lab day will focus on Exploratory Data Analysis (EDA). First, we will download data suiting our problem statement. Then, we will work on the project brief, specifically the EDA methodology section, and apply descriptive analyses to generate descriptive statistics and visualisations to populate (= fill) the EDA Methodology tab of our Power BI dashboard of our data-lab project.
+This data-lab day will focus on preparing our data for doing an Exploratory Data Analysis (EDA). First, we will download data suiting our problem statement. Then, we will work on the project brief, specifically the EDA methodology section, and apply our data transformtion, preparation and cleaning skills to get our data in so we can do descriptive analyses to generate descriptive statistics and visualisations to populate (= fill) the EDA Methodology tab of our Power BI dashboard of our data-lab project.
 
 ## Learning Objectives
 Enable you to:
@@ -23,11 +23,11 @@ Now, let's all find a partner (as in a classmate, not in a romantic sense) and g
 - Simply showing one another how you created your variables, vectors and data frame for the Intro to Variables mock assessment. Or what you did and did not manage; we're in a safe space to learn, and not succeeding is part of that :).
 - Showing one another your calculations and solutions for parts A and B of the Descriptive Analyses mock assessment.
 
-## 1) Exploratory Data Analysis - Workshop
-Let's start by doing a workshop, specifically the [Exploratory Data Analysis course](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-power-bi)!
+## 1) Exploratory Data Analysis: Data Preperation - Workshop
+Let's start by doing a workshop, specifically the [Data Preparation course](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-power-bi)!
 
-## 2) Exploratory Data Analysis on SDG Indicators dataset - Project Brief part
-During the workshop we have learned all EDA techniques we could need to address your problem statement. Which means that now we can continue working on the project brief.
+## 2) Exploratory Data Analysis: Data Preparation on SDG Indicators dataset - Project Brief part
+During the workshop we have learned all EDA techniques regarding data preparation we could need to address your problem statement. Which means that now we can continue working on the project brief.
 
 **Step 1.** Open your Power BI Dashboard Template and inspect the EDA Methodology section. Then, save the poster to your "DataScience1_Dashboard" GitHub repository and be sure to save and upload your file regularly. Now look at the feedback you have received on your dashboard by navigating to your GitHub repository and clicking on the 'Pull requests' header. There should be a feedback thread over there.
 

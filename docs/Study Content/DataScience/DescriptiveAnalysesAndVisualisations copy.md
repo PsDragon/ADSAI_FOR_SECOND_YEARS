@@ -1,8 +1,8 @@
 ---
-sort: 7
+sort: 6
 ---
 
-# Descriptive Analyses & Visualisations 2
+# Descriptive Analyses & Visualisations 1
 
 Now that we're familiar with handling data in Power BI, it's time we start to really understand and convey our understanding; describe it. That's why we will cover descriptive statistics and visualising descriptive data; commonly refered to as doing a Exploratory Data Analysis (EDA). Subsequently, in the workshop, we will briefly focus on data cleaning, specifically getting and cleaning data, crucial for data lab tomorrow. For the rest of the workshop, we will practice doing exploratory data analyses wherefore descriptive statistics and visualisations are fundamental.
 
@@ -29,23 +29,20 @@ If you have questions or issues regarding the course material, please fill out t
 
 ## 1) Introduction
 First, we will explore how we can describe and interpret our raw data without analysing any causal relationships. In other words, we're going to look at what we can tell about the data by itself.
+"Descriptive statistics are brief descriptive [coefficients](https://youtu.be/V3HejxzKIR8) that summarise a given data set, which can be either a representation of the entire or a sample of a population. Descriptive statistics can be divided into measures of central tendency and measures of variability (or spread)." ([investopedia, Retrieved 14-07-2021](https://www.investopedia.com/terms/d/descriptive_statistics.asp))
 
-### Data Visualisation
-It's really helpful to visualise data: most people intuitively know how to read a graph but don't have a clue when given the same scientific relationships in writing or math. Visualising data allows us to use more of our sensory capacity, enabling us to learn and understand data better. Of all the data your 5 senses provides, the data your eyes provides is by far the richest dataset (80% of all sensory data used for cognitive processing).
+### Measures of Central tendency
+These essentially describe the center of the dataset:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kn83BA7cRNM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Better yet is multi-modal perception of information; or data. Essentially, this is a fancy way of saying that you learn better if the information is presented in multiple ways and through multiple senses. Animation and text: multiple ways of saying the same thing. Animation and narration: multiple senses are giving the same or complementary information. Multi-modal perception is scientifically proven to improve learning and understanding. A prime example in data visualisations is explicitly allowing viewers to use their spatial awareness to understand concepts: like graphs or charts. Therefore, the visual presentation of data is a game-changer to get a better understanding and intuitive feel of the data.
 
+### Measures of Spread (or Variability)
+Which describe the dispersion with the dataset:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R4yfNi_8Kqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![Renee Decartes enjoying his chill life in Amsterdam](http://static1.squarespace.com/static/51b10198e4b00987e7d6891b/51b10199e4b00987e7d68923/5259a2c6e4b0107b3307992d/1508313165899/CkcQMCeWsAAkjdf.jpg?format=1500w)
-
-We (mostly) have Renee Descartes with his [cartesian coordinate system](https://en.wikipedia.org/wiki/Cartesian_coordinate_system) to thank for graphical representations of data as we know today: enabling us to use algebra to describe geometry. Or in other words: translate numbers using math into a shape to represent the information contained in the data.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hEWY6kkBdpo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMkllhBI91Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 2) Workshop
-Now it's time for the [the workshop part](https://app.datacamp.com/learn/courses/data-visualization-in-power-bi) of this class to get acquainted with performing an EDA. We do this by solving a use case for which we have to do understand, clean, transform and visualise the data in a dashboard. Click the link in the previous sentence to start with the online workshop. Complete the entire course and upload the certificate to github, reference the certificate in your learning log for this week.
+Now it's time for the [the workshop part](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-power-bi) of this class to get acquainted with performing an EDA. We do this by solving a use case for which we have to do understand, clean, transform and visualise the data in a dashboard. Click the link in the previous sentence to start with the online workshop. Complete the entire course and upload the certificate to github, reference the certificate in your learning log for this week.
 
 If you get stuck, first ask your peers and then us!
 

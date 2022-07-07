@@ -1,14 +1,14 @@
 ---
-sort: 12
+sort: 13
 ---
 
-# Datalab 03: Discussion
+# Datalab 04: Discussion
 
 This data-lab day will focus on describing and understanding the data on a deeper level: interpreting the data distribution and the summary statics in the context of our research question. Then we will propose an analysis to answer that research question.
 
 Learning objectives:
 - understanding and interpreting real-world descriptive Datalab;
-- judge which analysis is best suited to address a research challenge.
+- judge which analysis is best suited to address a research question.
 
 
 Table of contents:
@@ -25,9 +25,9 @@ Get together with a group of 5 and take turns answering the following questions:
 - Are there any impediments in your way?
 
 ## 0) Mock Assessment recap
-Now, let's all find a partner and get our mock-assessments out and discuss them. Specifically, analyse and evaluate one another's answers to the questions. If you both have the same answers, you're done. If not, then try to see who is right by explaining it to one another. If you both don't have an answer on a particular question; ask your instructor(s) in Datalab.
+Now, let's all find a partner and get our 3 mock-assessments out and discuss them. Specifically, analyse and evaluate one another's answers to the questions. If you both have the same answers, you're done. If not, then try to see who is right by explaining it to one another. If you both don't have an answer on a particular question; ask your instructor(s) in Datalab.
 
-## 1) Feedback on poster
+## 1) Feedback on dashboard
 Now look at the feedback you have received on your poster by navigating to your GitHub repository and clicking on the 'Pull requests' header. There should be a feedback thread over there. Process the feedback and then continue as described below.
 
 ## 2) Considerations in interpreting the data

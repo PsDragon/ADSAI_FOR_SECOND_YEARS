@@ -3,18 +3,20 @@ sort: 11
 ---
 
 # Intro to Probability 2
-This page continues to build your foundational knowledge of probability theory. Yesterday, we introduced the foundational concepts, and today we will continue to put our new knowledge into practice by doing 4 more modules of a swirl course. Finally, in the mock assessment, we'll do our first correlational analysis by hand!
+This page continues to build your foundational knowledge of probability theory. Yesterday, we introduced the foundational concepts, and today we will continue to put our new knowledge into practice by doing another case study. Finally, in the mock assessment, we'll do our first correlational analysis by hand!
 
 Learning objectives:
-Build upon the basic understanding of data representations by learning to create data visualisations which are:
+Enable you to understand and/or apply:
+0. knowledge learned in previous modules
 1. expected values;
 2. variance;
-3. common distributions.
+3. common distributions;
+to a guided case study.
 
 
 Table of contents:
-1. Workshop: 3 hours
-3. Mock Assessment: 2 hours
+1. Workshop: 3-4 hours
+3. Mock Assessment: 1-2 hours
 
 ## Questions or issues?
 If you have any questions or issues regarding the course material, please first ask your peers or ask us in the daily Q&A at 16:00!
@@ -23,11 +25,10 @@ Good luck!
 
 
 ## 0) Workshop
-Download the R swirl course [Statistical_Inference](https://github.com/swirldev/swirl_courses) by running the following code in the R-studio console:
-```R
-swirl::install_course("Statistical_Inference")
-```
-Complete modules 5 to 7. Makes sure to examine the PowerPoint presentations the course asks you to open; it's useful to have different explanations of the same thing. It helps you learn: neurons that wire together, fire together. In essence, consuming multiple examples enables you to connect concepts in your brain, making it easier to recall that information.
+Now it's time for the [the workshop part](https://app.datacamp.com/learn/courses/case-study-analyzing-customer-churn-in-power-bi) of this class to practise our recently acquired skills in Power BI by doing a case study. We do this by solving a use case for which we have to do understand, clean, transform and visualise the data in a dashboard. Complete the entire course and upload the certificate to github, reference the certificate in your learning log for this week.
+
+If you get stuck, first ask your peers and then us!
+
 
 ## 1) Mock Assessment
 The variance, unlike the mean, is a measure of variability. Meaning, it captures the amount of [spread within a variable or data set](https://youtu.be/R4yfNi_8Kqw). Measures of variability are often reported alongside measures of central tendency. Meaning, the variance is typically taken with the mean or the median, as this helps form a greater picture of what the data set looks like. Below are the formulas for the variance:
@@ -71,10 +72,10 @@ B | 634 | 42 | 2300
 
 Photograph your calculations, name them "VarianceMockAssessment1" (if you have more photos, continue the count: e.g. 2,3,4) and upload them to your github repo.
 
-# 3) Daily Q&A
-At 16:00, there's an online meeting on our Microsoft Team Channel  you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
+# 2) Time left? 
+Work on your dashboards!
 
-That's it for today! Tomorrow we're going to discuss our mock assessment with our classmates and learn how to analyse different relationships between variables.
+That's it for today! Tomorrow we're going to learn how to analyse different relationships between variables.
 
 
 ## Resources

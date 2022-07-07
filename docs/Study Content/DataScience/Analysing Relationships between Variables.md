@@ -1,10 +1,10 @@
 ---
-sort: 11
+sort: 12
 ---
 
 # Analysing Relationships between Variables
 
-We start by a brief refresher to sigma notations and by revisiting correlation and applying it. Then, we're going to take a deep dive into measures of association by doing the Codecademy course into hypothesis testing in R. There's no mock assessment since we'll need our time for the course. Still, we'll apply our new knowledge tomorrow in class!
+We start by a brief refresher to correlation and applying it. Then, we're going to take a deep dive into measures of association by doing the Datacamp course into hypothesis testing in R. There's no mock assessment since we'll need our time for the course. Still, we'll apply our new knowledge tomorrow in class!
 
 Learning objectives:
 - Correlations;
@@ -26,16 +26,27 @@ If you have any questions or issues regarding the course material, please first 
 Good luck!
 
 
-## 0) Correlations
+## 0) Workshop
+First, it's time for the [the workshop part](https://app.datacamp.com/learn/courses/intermediate-data-modeling-in-power-bi) of this class to expand our data modeling skills in Power BI so we can better write the discussion section. Complete the entire course and upload the certificate to github, reference the certificate in your learning log for this week.
+
+If you get stuck, first ask your peers and then us!
+Correlations
 In this video, we will talk about data relationships and what we can learn from them. We'll focus on correlation, a coefficient that measures how two variables "move" together. We'll also introduce some good statistical terms you've probably heard of, like regression coefficient, correlation coefficient (r), and r^2. But first, we'll need to introduce a helpful way to represent continuous bivariate data - the scatter plot. The scatter plot has been called "the most useful invention in the history of statistical graphics", but that doesn't necessarily mean it can tell us everything. For example, just because two data sets move together doesn't necessarily mean one CAUSES the other. This gives us one of the essential tenets of statistics: correlation does not imply causation.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GtV-VYdNt_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The purpose of your data science project is not to do a correlational analysis in R yourself: the goal is to suggest an analysis based on your research question and data. But, if you want to go more in-depth into correlation and play around in R, I suggest doing [these excercises](https://www.r-bloggers.com/2017/04/correlation-and-correlogram-exercises/). Next year, we're going to advance our knowledge of statistics and go into hypothesis testing; for now you should just know what it means if variables are correlated.
 
-## 1) Mock assessment 1
- Create an R Script called "CorrelationMockAssessment" and save it to your repository.
+## 1) Correlations
+In this video, we will talk about data relationships and what we can learn from them. We'll focus on correlation, a coefficient that measures how two variables "move" together. We'll also introduce some good statistical terms you've probably heard of, like regression coefficient, correlation coefficient (r), and r^2. But first, we'll need to introduce a helpful way to represent continuous bivariate data - the scatter plot. The scatter plot has been called "the most useful invention in the history of statistical graphics", but that doesn't necessarily mean it can tell us everything. For example, just because two data sets move together doesn't necessarily mean one CAUSES the other. This gives us one of the essential tenets of statistics: correlation does not imply causation.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GtV-VYdNt_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
- Now, look at the following table. It displays the age and glucose level of a given subject.
+The purpose of your data science project is not to do a correlational analysis in R yourself: the goal is to suggest an analysis based on your research question and data. But, if you want to go more in-depth into correlation and play around in R, I suggest doing [these excercises](https://www.r-bloggers.com/2017/04/correlation-and-correlogram-exercises/). You can also follow [this step plan for Power BI](https://www.mssqltips.com/sqlservertip/5197/correlation-analysis-using-correlation-plot-in-power-bi-desktop/. Next year, we're going to advance our knowledge of statistics and go into hypothesis testing; for now you should just know what it means if variables are correlated.
+
+
+### A) Mock assessment 1
+ Create an Power BI file called "CorrelationMockAssessment" and save it to your repository, or a piece of paper..
+
+ 1. Now, look at the following table. It displays the age and glucose level of a given subject.
 
 | Subject | Age (X) | Glucose Level (Y) |
 | ------- | -------- | ------------------- |
@@ -46,7 +57,9 @@ The purpose of your data science project is not to do a correlational analysis i
 | 5 | 57 | 87 |
 | 6 | 59 | 81 |
 
- 1. Use [this artcile](https://www.statology.org/correlation-coefficient-by-hand/) article to calculate the Pearson Correlation Coefficient between Age X and Glucose Level Y by hand, or in R using [operators only](https://www.datamentor.io/r-programming/operator/). If you do it by hand, upload a foto of your written calculations to GitHUb instead of a script.
+**Create a table for the data if using Power BI.&&
+
+ 1. Use [this artcile](https://www.statology.org/correlation-coefficient-by-hand/) article to **calculate the Pearson Correlation Coefficient between Age X and Glucose Level Y** by hand, or [in Power BI using DAX](https://www.youtube.com/watch?v=xtRXakHARZg&ab_channel=Curbal) or . If you do it by hand, upload a foto of your written calculations to GitHUb instead of a .pbix file.
 
 Save the file to your GitHub repository when you're done.
 
@@ -54,23 +67,20 @@ Save the file to your GitHub repository when you're done.
 Today we're going to introduce one of the most flexible statistical tools - the General Linear Model (or GLM). GLMs allow us to create many different models to help describe the world - you see them a lot in science, economics, and politics. For example, today we're going to build a hypothetical model to look at the relationship between likes and comments on a trending YouTube video using the Regression Model. We'll be introducing other popular models over the next few episodes.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WWqE7YHR4Jc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Download the R swirl course [Regression_Models](https://github.com/swirldev/swirl_courses) by running the following code in the R-studio console:
-```R
-swirl::install_course("Regression_Models")
-```
-Complete module 1.
 
-## 3) Mock Assessment 2
- Create an R Script called "LinearRegressionMockAssessment" and save it to the GitHUb Classroom folder of the same name in your repository:
+### B) Mock Assessment 2
+ Create an .pbix file called "LinearRegressionMockAssessment" and save it to your the GitHUb.
 
 Now we're going to try to develop some analyses we can apply on our SDG Indicator dataset: preferably the data you use for your own project.
 1. Formulate and justify a linear regression analysis in less than 150 words. So, we're only asking you for a comment regarding this one.
 
-Bonus points if you actually run the analysis in R and deliver working code.
+Bonus points if you actually [model the analysis in Power BI](https://iterationinsights.com/article/linear-regression-in-power-bi/).
 
 
-# 4) Daily Q&A
-At 16:00, there's an online meeting on our Microsoft Team Channel  you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
+
+## Preparation for next datalab:
+- Mock-assessment 1 from yesterday
+- Mock-assessment 1 & 2 of today finished.
 
 Tomorrow we're going to cover writing a discussion section for our conference dashboard!
 

@@ -1,5 +1,5 @@
 ---
-sort: 8
+sort: 9
 ---
 
 # Introduction to Probability 1
@@ -16,8 +16,8 @@ Enable you to understand and/or apply:
 5. randomness;
 
 Table of contents:
-1. Introduction to concepts: 2 hour
-2. Workshop: 5 hours
+1. Introduction to concepts: 2-3 hours
+2. Workshop: 4-5 hours
 
 ### Questions or issues?
 If you have any questions or issues regarding the course material, please first ask your peers or ask us in the daily Q&A at 16:00!
@@ -61,17 +61,14 @@ That's it for now; let's continue with some interactive exercises!
 
 
 
-### 1) Workshop
-Download the R swirl course [Statistical_Inference](https://github.com/swirldev/swirl_courses/tree/master/Statistical_Inference) by running the following code in the R-studio console:
-```R
-swirl::install_course("Statistical_Inference")
-```
-Complete modules 1 to 4. Makes sure to open the Power Point presentations the course asks you to open; it's helpful to have different explanations of the same thing. In addition, it helps you learn: neurons that wire together, fire together. In essence, consuming multiple examples enables you to connect concepts in your brain, making it easier to recall.
+## 1) Workshop
+Now it's time for the [the workshop part](https://app.datacamp.com/learn/courses/case-study-analyzing-job-market-data-in-power-bi) of this class to practise our recently acquired skills in Power BI by doing a case study. We do this by solving a use case for which we have to do understand, clean, transform and visualise the data in a dashboard. Complete the entire course and upload the certificate to github, reference the certificate in your learning log for this week.
 
-# 2) Daily Q&A
-At 16:00, there's an online meeting on our Microsoft Team Channel  you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
+If you get stuck, first ask your peers and then us!
 
-Tomorrow, we will create some cool data visualisations for the findings section of our conference poster!
+## 2) Up Next
+
+Tomorrow, we will create some cool data visualisations for the findings section of our dashboard!
 
 
 ## Resources

@@ -22,6 +22,12 @@ Feel free to ask for personal feedback during Datalab: from 9:00 to 16:00, in pe
 
 Good luck!
 
+### Stand-up
+Get together with a group of 5 and take turns answering the following questions:
+- What did you do yesterday?
+- What will you do today?
+- Are there any impediments in your way?
+
 ## 0) Mock Assessment Recap
 Now, let's all find a partner and open your pre-mock assessment poster and our post-mock asessement poster respectively. Show them to your partner and explain the improvements you made, why you made them and how you made them. You analyse and evaluate one another's work: specifically the choices, the execution and the story they tell with their data visualisations.
 

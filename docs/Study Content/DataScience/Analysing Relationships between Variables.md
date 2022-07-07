@@ -72,7 +72,7 @@ Bonus points if you actually run the analysis in R and deliver working code.
 # 4) Daily Q&A
 At 16:00, there's an online meeting on our Microsoft Team Channel  you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
 
-Tomorrow we're going to cover writing a discussion section for our conference poster!
+Tomorrow we're going to cover writing a discussion section for our conference dashboard!
 
 
 ## Resources

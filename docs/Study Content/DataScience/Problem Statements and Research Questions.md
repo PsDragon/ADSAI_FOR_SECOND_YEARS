@@ -43,7 +43,7 @@ Write it down in your note file using a bullet point list. Hint: the answers are
 
 
 ### Excercise 2: Form a draft of your problem Statement
-**Step 1.** Download and inspect the [conference poster template](https://github.com/BredaUniversityADSAI/ADS-AI/blob/ea5c8a2b9f040ff12d5d7b2646e3e34928466d5b/docs/Study%20Content/DataScience/assets/DS1-AssesmentPoster_Template_StudentVersion.pptx). Save it to your GitHub repository and name it aptly:  "SDGIndicatorConferencePoster_YourNameHere".
+**Step 1.** Download and inspect the [dashboard template](https://github.com/BredaUniversityADSAI/ADS-AI/blob/ea5c8a2b9f040ff12d5d7b2646e3e34928466d5b/docs/Study%20Content/DataScience/assets/DS1-AssesmentPoster_Template_StudentVersion.pptx). Save it to your GitHub repository and name it aptly:  "SDGIndicatorsDashboard_YourNameHere".
 
 **Step 2.**
 Research the domain, the SDG Indicators. Before diving in the online documentation, I would recommend watching all videos below. Feel free to skip one of the first two introductions if you prefer reading; don't skip the technical one.
@@ -55,7 +55,7 @@ An easy introduction into the topic. If you cringe too much on TED talks, feel f
 ### SDG introduction to data scientists
 Data scientiest on a conference in canada are introduced to SDG's.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0XTBYMfZyrM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-After 12 minutes in he starts to talk about national collaboration and development examples which you can skip. It may be interesting later though as you make recommendations in your conference poster.
+After 12 minutes in he starts to talk about national collaboration and development examples which you can skip. It may be interesting later though as you make recommendations in your dashboard.
 
 ### A more technical introduction
 Specifically, watch until the 5th minute; the part about using it for a business is not vital but may inspire your problem statement.
@@ -98,7 +98,7 @@ Now, it's time for writing the research questions!
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="640" height="360" src="https://www.linkedin.com/learning/embed/academic-research-foundations-quantitative/how-to-write-a-research-question?autoplay=false&claim=AQEVfN-9_xXKHgAAAXqgxbLc633aPlZLt-gZWTSSSFWQFDT9XOKHCac8znMTGawdZroczJEop3zvZSeWEAk1wg_KS_womeZOhSARpI9LdCXzI0gWUYpYOjJ9Pxt3oL_XGjMFFxLIYh7-nvts8vU3b_VLmGVNXRuWoy1Vlw2YLZC1OT2WmBRKgoSOUvSvGEfKi2f7vEeG2G97AYRBhiaiMDo8BOCiXBL6j2LMS2E5Lp-GwqoM7F5kXo97ZEIfnJQE8frDsfUgw3HV11lO5V_1oUZ_BNDnxm4rXJpckhafh7xEH7ZhDHWext_7k_SOR5_ldUMGimMw7jM1sQQd3UjlJgVVgrw81Z_EkXbpQJ0MANsqE-8UabqYS9p8I47Z_ii-Oy3H8Xf5xKWiJPY7ElDc86HqG-8P8MkfNfL3KHgEVWNB3Z4-jSlZx0YwErfyaLUu7JbBPlNil2MFzAyjKXkNedctn44K4llcCyBMMyNY3ThtvpzfGByDz1VvsnWE3amB3WF2HFLBkJRuuplO5i5m9JrFLBEo-2V7d0ponOT8ks6NbQl2nyucqb4Va-pw_H-ulO7xzXL9eS4agyKuFBAyJlXW95hogpy1Xbkv5VKQDPxKtsjkAtOK5yPnnZWIwIiygHhL25xU9lo5Jioesn-jtmHsQe50Y94FbG45NEWEwgcKbu7vgkt6p4YX7k46qS-cWXKhar482jBTzORo0YcyzHY4afhZ1M267SbHE2Y-PIDszA&lipi=urn%3Ali%3Apage%3Ad_learning_content%3BbKBJjKygQ9eeXomVJ01cJg%3D%3D&licu" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true" frameborder="0" style="position:absolute;width:100%;height:100%;left:0"></iframe></div><p><strong><a href="https://www.linkedin.com/learning/academic-research-foundations-quantitative/how-to-write-a-research-question?trk=embed_lil">How to write a research question</a></strong> from <strong><a href="https://www.linkedin.com/learning/academic-research-foundations-quantitative?trk=embed_lil">Academic Research Foundations: Quantitative</a></strong> by <strong><a href="https://www.linkedin.com/learning/instructors/rolin-moe?trk=embed_lil">Rolin Moe</a></strong></p>
 
-**Step 2.** Form your research question and write it down in your conference posters. Note down the type of research question you're asking. Make sure it is concise, specific and simple!
+**Step 2.** Form your research question and write it down in your dashboard. Note down the type of research question you're asking. Make sure it is concise, specific and simple!
 
 **Step 3.** Save your notes and push it to your Github repository.
 

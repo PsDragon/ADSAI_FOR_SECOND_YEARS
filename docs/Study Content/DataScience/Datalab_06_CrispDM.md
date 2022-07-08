@@ -1,5 +1,5 @@
 ---
-sort: 15
+sort: 18
 ---
 
 # Datalab 06: CRISP-DM
@@ -74,7 +74,7 @@ Tip: Get the silver challenge by helping your peers! E.g. by proofreading their 
 </div>
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: Get the Gold challenge by actually doing a correlational or linear regression analysis in Power BI. For this challenge you'll have to find a way to do that without any instruction from us! Make sure to reference that instruction and evidence you analysis in your dashboard and learning log!</a> article.
+Tip: Get the Gold challenge by actually doing a correlational or linear regression analysis in Power BI. For this challenge you'll have to find a way to do that without any instruction from us! Make sure to reference that instruction and evidence you analysis in your dashboard and learning log!
 </div>
 
 ## 5) In-Class discussion

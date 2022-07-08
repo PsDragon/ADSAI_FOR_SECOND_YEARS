@@ -34,9 +34,13 @@ Now, let's all find a partner and get our 3 mock-assessments out and discuss the
 Now it's time to gather the feedback on your dashboard. Ask you mentor(s) to provide you with feedback or to book a slot so they can provide you with feedback your progression. Record the feedback with action points in your notes file and then continue with the next section or go ahead and make changes to your dashboard.
 
 ## 2) Considerations in interpreting the data
-Now, it's time to put all the knowledge we gained into practice by writing the discussion section of our Conference Poster!
+Now, it's time to put all the knowledge we gained into practice by writing the discussion section of our dashboard!
 
-***Open your conference poster and inspect the Discussion section. Next, open R-studio and open your script.***
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Tip: Domain knowledge is ofter key to interpretating the data! Get your research out again and connect the dots! Make sure to reference them in your dashboard and make sure to evidence your knowledge-sharing/help in your learning- and worklog!
+</div>
+
+***Open your dashboard and inspect the Discussion section. Next, open R-studio and open your script.***
 
 We start with considering the distribution of the data, the summary statistics and data visualisations. What do they tell us about themselves? How do they relate to the research question?
 1. Give an unbiased report of the possible considerations (e.g. Missing data, distribution, collection concerns, domain problems etc.) in interpreting the findings of the EDA.
@@ -49,17 +53,15 @@ Now that we have interpreted the data distribution and summary statistics, it's 
 
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: Get the silver challenge by helping your peers! E.g. by proofreading their dashboard. They may return the favour, and you both get a better learning experience! Make sure to evidence your knowledge-sharing/help in your learning- and worklog!
+Tip: Get the Gold challenge by actually doing a correlational or linear regression analysis in Power BI. For this challenge you'll have to find a way to do that without any instruction from us! Make sure to reference that instruction and evidence you analysis in your dashboard and learning log!</a> article.
 </div>
+
 
 ## 4) In-Class discussion
 At 16:00, we'll all get together in Datalab to discuss our progress and reflect on today activities.
 
 Next week, we will start diving into reporting and data visualisation practices.
 
-
-## Questions or issues?
-If you have any questions, please first ask your peers or send us a message on teams instead!
 
 
 ## Resources

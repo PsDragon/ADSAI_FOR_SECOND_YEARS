@@ -8,9 +8,9 @@ Today's independent study material focuses on the history of AI. In particular, 
 
 ## Learning objectives
 
-1. Implement version control using 'GitHub Desktop,' a Graphical User Interface for GitHub 
-2. List, and describe key moments in the history of AI
-3. Explain the procedure, and main objective of Turing's 'Imitation Game'
+1. List, and describe key moments in the history of AI
+2. Explain the procedure, and main objective of Turing's 'Imitation Game'
+3. Implement version control using 'GitHub Desktop,' a Graphical User Interface for GitHub 
 
 ## Questions or issues?
 
@@ -18,21 +18,9 @@ If you have questions or issues regarding the course material, please fill out t
 
 ***
 
-## 1) GitHub Desktop: Introduction to version control (2)
+## 1) History of Artificial Intelligence
 
-Let us start creating a markdown file that we will use to store our answers to the DataLab preparation exercises. 
-
-__1a__ Create a markdown file (i.e., text file with extension '.md'), and save it with the name [**YourName_blockA_DataLabPreparation**]. 
-
-For instructions on how to create a markdown file in VSCode, see the video below:
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DLLrcr9u_XI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-*Video 1. How To Write and Preview Markdown In VScode.*
-
-## 2) History of Artificial Intelligence
-
-### 2.1 Timeline
+### 1.1 Timeline
 
 The early beginnings of AI, can be traced to the Ancient Greek period when philosophers started to describe human thinking as a symbolic system. Additionally, one of the first notions of a 'robot' can be found in Greek mythology:
 
@@ -40,33 +28,31 @@ The early beginnings of AI, can be traced to the Ancient Greek period when philo
 
 Throughout the centuries, scholars from various disciplines have made significant contributions to the field of AI. To name a few of them: al-Jazari, Leonardo Da Vinci, Ada Lovelace, Norbert Wiener, and Alan Turing.
 
-However, the field of 'artificial intelligence' was not formally founded until 1956. It was at a conference, held at Dartmouth College, New Hampshire, were John McCarthy first coined the term 'artificial intelligence', which he defined as '... the science and engineering of making intelligent machines, especially intelligent computer programs' (Morignat, n.d.).  
+However, the field of 'artificial intelligence' was not formally founded until 1956. It was at a conference, held at Dartmouth College, New Hampshire, were John McCarthy first coined the term 'artificial intelligence', which he defined as '... the science and engineering of making intelligent machines, especially intelligent computer programs' ([Source](http://intelligentstory.com/the-quest-for-ai.html)).  
 
 After some setbacks in the 1970s and 1980s, also referred to as the AI winters, the field of AI has seen rapid advancements due to, among others, the introduction of deep learning, big data and artificial general intelligence in the early 2000s.
 
-__2.1a__ Watch the video on the History of AI by YouTube´s AI with Alex.
+__1.1a__ Watch the video on the History of AI by YouTube´s AI with Alex.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JjQGKSOTHa4?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="896" height="504" src="https://www.youtube.com/embed/JjQGKSOTHa4?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Video 2. History of AI by YouTube´s AI with Alex.*
+*Video 1. History of AI by YouTube´s AI with Alex.*
 
-__2.1b__ Read the article ['The Ancient Quest for AI'](http://intelligentstory.com/the-quest-for-ai.html) by Valerie Morignat and/or Chapter 1.3 of AIMA (p.35-45).
+__1.1b__ Read the article ['The Ancient Quest for AI'](http://intelligentstory.com/the-quest-for-ai.html) by Valerie Morignat and/or Chapter 1.3 of AIMA (p.35-45).
 
-__2.1c__ Find, and describe one 'milestone' in the history of AI. Be creative, so no 'milestones' by Alan Turing! No worries, we are going to extensively discuss his accomplishments in DataLab 1, Week 2 :smiley:
+__1.1c__ Find, and describe one 'milestone' in the history of AI. Be creative, so no 'milestones' by Alan Turing! No worries, we are going to extensively discuss his accomplishments in DataLab 1, Week 2 :smiley:
 
-***
-
-### 2.2 Alan Turing 
+### 1.2 Alan Turing 
 
 The rise of artificial intelligence forces us to rethink what robots mean to society and what their role is to be. They are far better at arithmetic, but are they really as intelligent as us? What constitutes intelligence? And should we fear being replaced by these digital machines in the future? Alan Turing was the first to examine the relationship between humans and digital machines.
 
-<img src="./images/alan_turing.jpg" alt="Books banner" width="350"/>
+<img src="./images/alan_turing.jpg" alt="Books banner" width="500"/>
 
 *Figure 1. Portrait of Alan Turing made up by binary numbers.*
 
 In the article Computing Machinery and Intelligence (1950), Turing lays the foundation for modern day AI. He introduces an behavioural test, the Turing Test, and discusses some objections raised in relation to this test. As a result of his contributions to the field, he also called one of the 'founding fathers' of AI.
 
-__2.2b__ Besides the Turing Test, Alan Turing is renowned for his work on:
+__1.2b__ Besides the Turing Test, Alan Turing is renowned for his work on:
 \
 1.
 \
@@ -80,9 +66,9 @@ Fill in the blanks.
 Alert: Whoever has the quirkiest fact on Alan Turing will receive a candy bar at the end of the workshop in DataLab 1, Week 2.
 </div>
 
-__2.2c__ Read Wikipedia's summary of [Computing Machinery and Intelligence](https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence#:~:text=Computing%20Machinery%20and%20Intelligence%20From%20Wikipedia%2C%20the%20free,as%20the%20Turing%20test%20to%20the%20general%20public.)
+__1.2c__ Read Wikipedia's summary of [Computing Machinery and Intelligence](https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence#:~:text=Computing%20Machinery%20and%20Intelligence%20From%20Wikipedia%2C%20the%20free,as%20the%20Turing%20test%20to%20the%20general%20public.)
 
-__2.2d__ Watch the video 'Turing Test: Can Machines Think?' by the highly popular podcast-making AI researcher Lex Fridman.
+__1.2d__ Watch the video 'Turing Test: Can Machines Think?' by the highly popular podcast-making AI researcher Lex Fridman.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MGW_Qcqr9eQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -95,7 +81,21 @@ Tip: If you are having difficulties reading the mathematical equations or unders
 <a href="https://www.youtube.com/c/K%C3%A1rolyZsolnai/featured">Two Minute Papers</a>), StackOverfow, Quora, and Medium are examples of webpages that can help you in analysing these sources of information.
 </div>
 
-__2.2e__ Describe the procedure, and main objective of Turing's 'Imitation Game'. Write your answer down
+__1.2e__ Describe the procedure, and main objective of Turing's 'Imitation Game'. Write your answer down
+
+***
+
+## 2) GitHub Desktop: Introduction to version control (2)
+
+Let us start creating a markdown file that we will use to store our answers to the DataLab preparation exercises. 
+
+__2a__ Create a markdown file (i.e., text file with extension '.md'), and save it with the name [**YourName_blockA_DataLabPreparation**]. 
+
+For instructions on how to create a markdown file in VSCode, see the video below:
+
+<iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/DLLrcr9u_XI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*Video 2. How To Write and Preview Markdown In VScode.*
 
 ***
 

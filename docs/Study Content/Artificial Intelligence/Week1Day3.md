@@ -39,18 +39,38 @@ During the morning, you will be given the opportunity to watch Minority Report i
 
 If you are unable to attend the movie screening, [Minority Report]( https://www.youtube.com/watch?v=msjM96zhles) is also available via YouTube (paid).
 
-<img src="./images/minority_report.jpg" alt="Minority Report" width="450"/> \
+<img src="./images/minority_report.jpg" alt="Minority Report" width="500"/> \
 *Figure 1. Minority Report.*
 
 ***
 
-## 3) Workshop: Information literacy
+## 3) A Day in a life of ... 
+
+> Data-driven organization. You’ve likely heard this buzz phrase hundreds of times. But what does it really mean? And who are people who make data useful? ([Source](https://www.youtube.com/watch?v=m5hLUknIi5c)).
+
+<iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/m5hLUknIi5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*Video 1. Roles in Data Science Teams by AltexSoft.*
+
+Each Tuesday, you will have the chance to familiarise yourself with the different roles that constitute a professional data team. This week focuses on the data scientist.
+
+### 3.1 Data scientist
+
+__3.1a__ Find out what a typical work day looks like for a data scientist (e.g., daily tasks, and related skills, etc.).
+
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Note: The Bronze Challenge for Block A is creating an infographic that provides an overview of the different roles that constitute a professional data team.
+</div>
+
+***
+
+## 4) Workshop: Information literacy
 
 > Information literacy is the ability to discover and use various types of information. It's an essential skill for navigating the information age. Watch this course to learn about strategies for finding information—from a library, archive, database, or the Internet—and the ethics of using it. Librarian Elsa Loftis discusses different types of resources and explains how to evaluate their usefulness and trustworthiness. She also shows how to avoid plagiarism and copyright infringement, and accurately cite sources ([Source](https://www.linkedin.com/learning/information-literacy/welcome?autoplay=true&resume=false&u=36359204)).
 
-__3a__ Complete the LinkedIn course [Information Literacy](https://www.linkedin.com/learning/information-literacy/welcome?autoplay=true&resume=false&u=36359204) (Optional). Unless you are a trained librarian or data professional, we highly recommend you to take the course. Rather read a book? Then, visit LibreTexts and use one of the books listed on the webpage [Research and Information Literacy](https://human.libretexts.org/Bookshelves/Research_and_Information_Literacy).
+__4a__ Complete the LinkedIn course [Information Literacy](https://www.linkedin.com/learning/information-literacy/welcome?autoplay=true&resume=false&u=36359204) (Optional). Unless you are a trained librarian or data professional, we highly recommend you to take the course. Rather read a book? Then, visit LibreTexts and use one of the books listed on the webpage [Research and Information Literacy](https://human.libretexts.org/Bookshelves/Research_and_Information_Literacy).
 
-__3b__ Identify, and select an AI related topic within one of the following BUAS domains:
+__4b__ Identify, and select an AI related topic within one of the following BUAS domains:
 
 - Tourism
 - Logistics
@@ -60,9 +80,9 @@ Write your answer down.
 
 __Example:__ Autonomous shipping (BUAS domain: Logistics)
 
-__3a__ Find one scholarly source, and one popular source of information on your chosen AI topic. Tip: Use one of the search strategies presented in the Information Literacy course (e.g., Boolean searching).
+__4c__ Find one scholarly source, and one popular source of information on your chosen AI topic. Tip: Use one of the search strategies presented in the Information Literacy course (e.g., Boolean searching).
 
-__3c__ Create an in-text, and bibliography citation for your popular, and scholarly source.
+__4d__ Create an in-text, and bibliography citation for your popular, and scholarly source.
 
 __Example:__
 
@@ -80,13 +100,13 @@ Bibliography: Automated Marine Highways Are Key to a Nation's Growth & Security.
 
 In-text: ("Automated Marine Highways Are Key to a Nation's Growth & Security," 2022)
 
-__3d__ Imagine writing a research report, and finding a quote similar to one below.
+__4e__ Imagine writing a research report, and finding a quote similar to one below.
 
 > Much has been written about AI's potential to reflect both the best and the worst of humanity. For example, we have seen AI providing conversation and comfort to the lonely; we have also seen AI engaging in racial discrimination. Yet the biggest harm that AI is likely to do to individuals in the short term is job displacement, as the amount of work we can automate with AI is vastly bigger than before. As leaders, it is incumbent on all of us to make sure we are building a world in which every individual has an opportunity to thrive (Andrew Ng, Co-founder and led of Google Brain).
 
 After a thorough evaluation, you decide to include the quote in your report. List, and describe three approaches that help you incorporate the information correctly, thereby avoiding plagiarism. Write your answer down.
 
-__3e__ Reading scholarly text can be complex at first, but when you get the hang of it, you will most likely enjoy reading them because they often provide valuable new insights that you can use for your projects. The following guide shows you how to effectively read a research article by applying a practical and efficient three-pass method. Please, describe the three-pass procedure. Write your answer down.
+__4f__ Reading scholarly text can be complex at first, but when you get the hang of it, you will most likely enjoy reading them because they often provide valuable new insights that you can use for your projects. The following guide shows you how to effectively read a research article by applying a practical and efficient three-pass method. Please, describe the three-pass procedure. Write your answer down.
 
 - [How to read a paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
 
@@ -94,13 +114,11 @@ __3e__ Reading scholarly text can be complex at first, but when you get the hang
 Note: As you might have noticed, Computing Machinery and Intelligence (Turing, 1950) does not look like your typical data science or artificial intelligence research article. It is missing headings such as 'Introduction', 'Experiments', and/or 'Conclusion'. A good example of a traditional artificial intelligence (i.e., computer vision) article can be found, <a href="./documents/YOLO_paper.pdf">here</a>.
 </div>
 
-
 ***
 
-## 4) Creative Brief: Minority Report (2)
+## 5) Creative Brief: Minority Report (2)
 
-As part of the Project Brief you are required to give a
-7-minute presentation, where you identify, and describe an AI topic in the movie Minority Report, and place it within the Taxonomy of AI. Furthermore, you will need to evaluate the feasibility of the AI topic by critically assessing its possible application(s) within a real-life (business) setting. Lastly, in order to meet the information needs for the Minority Report presentation, you will need to acquire, evaluate, and use information from various popular and/or scholarly sources, such as blogs and scientific journal articles.
+As part of the Project Brief you are required to give a 7-minute presentation, where you identify, and describe an AI topic in the movie Minority Report, and place it within the Taxonomy of AI (i.e. domains, and subdomains). Furthermore, you will need to evaluate the feasibility of the AI topic by critically assessing its possible application(s) within a real-life (business) setting. Lastly, in order to meet the information needs for the Minority Report presentation, you will need to acquire, evaluate, and use information from various popular and/or scholarly sources, such as blogs and scientific journal articles.
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Note: You will be introduced to the Taxonomy of AI on Thursday.

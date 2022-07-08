@@ -72,7 +72,7 @@ __Presentation tools:__
 
 Want to go beyond the traditional slide-based presentation (e.g., PowerPoint)? Make sure to check out the software package Prezi:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SWeXc0nwObc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/SWeXc0nwObc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Video 1. How to make a Prezi presentation.*
 
@@ -82,15 +82,13 @@ Want to go beyond the traditional slide-based presentation (e.g., PowerPoint)? M
 Note: Please, inform your mentor when you finished preparing the presentation, they will arrange a group (maximum of 5 students) for you, so you can proceed with the next step, - i.e., delivering your presentation, and providing feedback to your peers.
 </div>
 
-***
-
 ### 2.2 Delivering a presentation
 
 <img src="./images/PowerpointMeme.jpg" alt="PowerPoint meme" width="400"/>
 
 *Figure 2. Please, do not do this...*
 
-__2.2a__ Deliver your presentation to a small group of peers, and use the sandwich/hamburger model when providing feedback to each group member.
+__2.2a__ Deliver your presentation to a small group of peers, and provide feedback to each group member.
 
 ***
 
@@ -100,22 +98,3 @@ After finishing the in-class exercises, try to apply your newly gained knowledge
 
 ***
 
-## 4) A Day in a life of ... (Optional)
-
-> Data-driven organization. You’ve likely heard this buzz phrase hundreds of times. But what does it really mean? And who are people who make data useful? ([Source](https://www.youtube.com/watch?v=m5hLUknIi5c)).
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/m5hLUknIi5c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-*Video 2. Roles in Data Science Teams by AltexSoft.*
-
-Each Friday, you will have the chance to familiarise yourself with the different roles that constitute a professional data team. This week focuses on the data scientist.
-
-### 3.1 Data scientist
-
-__3.1a__ Find out what a typical work day looks like for a data scientist (e.g., daily tasks, and related skills, etc.).
-
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Note: The Bronze Challenge for Block A is creating an infographic that provides an overview of the different roles that constitute a professional data team.
-</div>
-
-***

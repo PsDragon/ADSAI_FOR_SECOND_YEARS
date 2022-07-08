@@ -76,7 +76,7 @@ __1b__ Find information that can help you to connect the following AI applicatio
 - Google's robot dog, Laikago
 - Tesla car
 
-__1c__ Let's test our newly gained knowledge by taking a short quiz!
+__1c__ Let us test our newly gained knowledge by taking a short quiz!
 
 <iframe width="1280px" height="960px" src="https://forms.office.com/r/AbmyH44uYE?embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 

@@ -56,7 +56,7 @@ Now, let's all find a partner (as in a classmate, not a date) and get our mock-a
 
 **Step 2.** Decide what information the reader needs to know and write the introduction in your Power BI Dashboard by using [this template](https://edubuas.sharepoint.com/:u:/t/ADSAI2022-23/EUkrCupe6d9KjA4hanX3TtMBLJbITDYQIQA_teg2pRzERw?e=TLOETq).
 
-**Step 3.** Save your dashboard and notes to your Github repository.
+**Step 3.** Save your dashboard and notes to your Github repository. If your files are too large for Github; upload them to your personal [Sharepoint](www.edubuas.sharepoint.com) folder. Only files on github and sharepoint (team, outlook also upload to sharepoint) are considered for grading. 
 
 **Step 4.** Done early? Help your peers finish 
 

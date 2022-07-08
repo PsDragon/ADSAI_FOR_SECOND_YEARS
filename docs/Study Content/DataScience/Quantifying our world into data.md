@@ -5,7 +5,7 @@ sort: 1
 # Quantifying our World into Data
 We start off with a comfortable introduction to some basic concepts and tools. Today we will focus on how we can see and quantify our world into data. We are going to cover some basic concepts and apply those concepts to a mock assessment. In the workshop, you are introduced to Power BI, an industry-standard tool for describing and visualizing data.
 
-Make sure to hand in your Preparation for DataLab 5, Week 3 exercises by the end of the day (Mandatory!). Upload your work on github and insert the github link in your learning log for this week with a brief description. For details on staff availability, see [Project Brief](https://adsai.buas.nl/Year1/BlockA/).
+Make sure to hand in your Preparation for DataLab 5, Week 3 exercises by the end of the day (Mandatory!). Upload your work on github and insert the github link in your learning log for this week with a brief description. If your files are too large for Github; upload them to [Sharepoint](www.edubuas.sharepoint.com) . Only files on github and sharepoint (team, outlook also upload to sharepoint) are considered for grading. For details on staff availability, see [Project Brief](https://adsai.buas.nl/Year1/BlockA/).
 
 ## Learning Objectives
 1. Enable you to quantify real-world phenomena and objects into data.

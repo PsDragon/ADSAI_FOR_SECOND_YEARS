@@ -65,7 +65,7 @@ Now, open the dashboard and write the Data Cleaning Sections.
 
 Now open the dashboard and write the Data Selection and Data Visualisation Sections. Save your script on your GitHub repository and name it aptly: e.g. "SDGIndicatorExploratoryDataAnalysis".
 
-**Step. 6.** Read and potentially iterate on your dashboard, then save your dashboard to your GitHub repository!
+**Step. 6.** Read and potentially iterate on your dashboard, then save your dashboard to your GitHub repository! If your files are too large for Github; upload them to your personal [Sharepoint](www.edubuas.sharepoint.com) folder. Only files on github and sharepoint (team, outlook also upload to sharepoint) are considered for grading. 
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Tip: Get the silver challenge by helping your peers! E.g. by proofreading their dashboard. They may return the favour, and you both get a better learning experience! Make sure to evidence your knowledge-sharing/help in your learning- and worklog!

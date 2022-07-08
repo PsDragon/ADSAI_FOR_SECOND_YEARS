@@ -6,11 +6,11 @@ sort: 8
 
 In today's DataLab session, we will perform an experiment called the Turing Test. A quick refresher:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3wLqsRLvV-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/3wLqsRLvV-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Video 1. The Turing test: Can a computer pass for a human? - Alex Gendler.*
 
-So, our goal for today is to pass the Turing Test... Yes, Loebner prize
+So, our goal for today is to see if there are any freely available chatbots that can pass the Turing Test :dizzy_face: 
 
 After the workshop you have time to work on the independent study material or creative brief, and/or ask the lecturers for feedback.
 
@@ -96,11 +96,25 @@ Tip: Try to come up with a set of possible weak points of the Turing Test
 
 *Figure 1. Turing Test, and the existential crisis...*
 
-In-class experiment, instructions by lecturer.  
+In-class experiment, instructions by mentor.  
 
 ***
 
-## 3) Creative Brief: Minority Report (4)
+## 3) A Day in a life of ... 
+
+Each Friday, you will have the chance to familiarise yourself with the different roles that constitute a professional data team. This week focuses on the data engineer.
+
+### 3.1 Data/ML engineer
+
+__3.1a__ Find out what a typical work day looks like for a data/ML engineer (e.g., daily tasks, and related skills, etc.).
+
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Note: The Bronze Challenge for Block A is creating an infographic that provides an overview of the different roles that constitute a professional data team.
+</div>
+
+***
+
+## 4) Creative Brief: Minority Report (4)
 
 After finishing the in-class exercises, try to apply your newly gained knowledge to the Creative Brief. For example, you can investigate if the movie depicts any applications of conversational AI. If so, what are the technologies that drive these applications? Would you consider them 'intelligent'? Etc.
 

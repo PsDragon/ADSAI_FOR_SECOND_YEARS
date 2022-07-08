@@ -86,15 +86,15 @@ Save the file as .txt or .pdf file to GitHub; we'll discuss it during Datalab to
 
 ## 3) What will you be doing for Data Science?
 
-You will start on your path to becoming a data analyst by **learning how to describe, visualise and understand data**. A data analyst serves as a gatekeeper of the organization’s data collection, ensuring that the stakeholders can make informed decisions based on accurate, correct, and complete data.
+You will start on your path to becoming a data proffesional by **learning how to describe, visualise and understand data**. The data proffesionals serve the gatekeepers of the organization’s data collection, ensuring that the stakeholders can make informed decisions based on accurate, correct, and complete data.
 
 <img src="./images/data_analyst.jpg" alt="Data analyst" width="600"/>
 
-*Figure 1. What does a data analyst do?*
+*Figure 1. What does a data proffesional do?*
 
-The responsibilities of a data analyst are generally varied, challenging, and fun. One day you might be pre-processing (e.g. transforming, cleaning etc.) data with SQL, another day you might participate in a stakeholder alignment session (e.g. establishing key performance indicators), another day you might be visualising that key performance indicator in Power BI or apply a simple ML model in Python or R to a dataset.
+The responsibilities and roles of a data proffesionals are generally varied, challenging, and fun. One day you might be pre-processing (e.g. transforming, cleaning etc.) data with SQL, another day you might participate in a stakeholder alignment session (e.g. establishing key performance indicators), another day you might be visualising that key performance indicator in Power BI or apply a simple ML model in Python or R to a dataset.
 
-To successfully perform these tasks, a data analyst must have a broad skillset (i.e. jack-of-all-trades), which includes but is not limited to:
+To successfully perform these tasks, a data proffesional must have a broad foundation, which includes but is not limited to:
 
 - Critical thinking
 - Presentation skills
@@ -105,7 +105,7 @@ To successfully perform these tasks, a data analyst must have a broad skillset (
 - Machine learning
 - Data & AI in the Ethics and Legal context
 
-For the remainder of block A we will focus on data understanding and visualization (e.g. Power BI, Tableau), critical thinking and presentation skills.
+For the remainder of block A we will focus on data understanding and visualization (e.g. Power BI), critical thinking and presentation skills and adress the rest of these topics over the next two years..
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Tip: If you want to get a better understanding of the daily tasks and responsibilities of a data analyst, look up videos and articles with titles such as 'Day in a life of ...' In addition, the article <a href="https://careerfoundry.com/en/blog/data-analytics/whats-it-like-to-actually-be-a-data-analyst/">'What's it like to actually be a data analyst'</a> consists of an interview with a data analyst.
@@ -117,8 +117,13 @@ Look at the [creative brief](https://adsai.buas.nl/Year1/BlockA/) at point 2 for
 ## 4) Workshop: Introduction to PowerBI
 Businesses need data analysis more than ever. In this learning path, you will learn about the life and journey of a data analyst, the skills, tasks, and processes they go through in order to tell a story with data so trusted business decisions can be made. You will learn how the suite of Power BI tools and services are used by a data analyst to tell a compelling story through reports and dashboards, and the need for true BI in the enterprise.
 
+### Installing
 Let's start by installing the latest version of Power BI! [Click here!](https://powerbi.microsoft.com/en-gb/desktop/)
 
+### Logging in
+To log into [datacamp](www.datacamp.com), use your BUas credentials (e.g. 123456@buas.nl, PasswordExample_007).
+
+### The doing part
 Now it's time for the [the workshop part](https://www.datacamp.com/courses/introduction-to-power-bi) of this class to get acquainted with PowerBI. Click the link in the previous sentence to start with the online workshop. Complete the entire course and upload the certificate to github, reference the certificate in your learning log for this week.
 
 ## Questions or issues?

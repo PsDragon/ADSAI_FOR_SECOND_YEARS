@@ -89,6 +89,10 @@ Create appropriate graphical representations and tables of your data to fill the
 Tip: Having troubling choosing the right visualisations for research questions? Maybe this 30 minute lecture about different types of charts can help you chart your course (haha).
 </div>
 
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Tip: Get the silver challenge by helping your peers! E.g. by proofreading their dashboard. They may return the favour, and you both get a better learning experience! Make sure to evidence your knowledge-sharing/help in your learning- and worklog!
+</div>
+
 # 2) In-Class discussion
 At 16:30, we'll all get together in Datalab to discuss our progress and reflect on today activities.
 

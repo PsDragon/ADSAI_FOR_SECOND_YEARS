@@ -111,7 +111,7 @@ You are encouraged to get the best out of yourself. Therefore, within the ADS&AI
 - [History of AI & GitHub (2)](../../Study%20Content/Artificial%20Intelligence/Week1Day2.html)
 
 ### Wednesday
-- [DataLab 1: Minority Report (1) & Information literacy](../../Study%20Content/Artificial%20Intelligence/Week1Day3.html)
+- [DataLab 1: Minority Report (1) & Information literacy (+ Guest lecture)](../../Study%20Content/Artificial%20Intelligence/Week1Day3.html)
 
 ### Thursday
 - [Conference: Artificial Intelligence & The BUAS domains](../../Study%20Content/Artificial%20Intelligence/Week1Day4.html) (Location: BUAS Campus)
@@ -128,7 +128,7 @@ You are encouraged to get the best out of yourself. Therefore, within the ADS&AI
 - [Taxonomy of AI (1)](../../Study%20Content/Artificial%20Intelligence/Week2Day2.html)
 
 ### Wednesday
-- [DataLab 1: The Turing Test](../../Study%20Content/Artificial%20Intelligence/Week2Day3.html)
+- [DataLab 1: The Turing Test (+ Guest lecture)](../../Study%20Content/Artificial%20Intelligence/Week2Day3.html)
 
 ### Thursday
 - [Taxonomy of AI (2)](../../Study%20Content/Artificial%20Intelligence/Week2Day4.html)
@@ -145,7 +145,7 @@ You are encouraged to get the best out of yourself. Therefore, within the ADS&AI
 - [Risk & Benefits of AI](../../Study%20Content/Artificial%20Intelligence/Week3Day2.html)
 
 ### Wednesday
-- [DataLab 1: Minority Report (2)](../../Study%20Content/Artificial%20Intelligence/Week3Day3.html)
+- [DataLab 1: Minority Report (2) (+ Guest lecture)](../../Study%20Content/Artificial%20Intelligence/Week3Day3.html)
 
 ### Thursday
 - [State-of-the-art AI & Minority Report (3)](../../Study%20Content/Artificial%20Intelligence/Week3Day4.html)

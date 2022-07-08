@@ -35,7 +35,7 @@ Artificial intelligence (AI) has seen a rapid rise in popularity. Research into 
 
 __2.1a__ Watch the TEDx talk 'Understanding Artificial Intelligence and Its Future' by Neil Nie.
 
-<iframe width="1120" height="630" src="https://www.youtube.com/embed/SN2BZswEWUA?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="896" height="504" src="https://www.youtube.com/embed/SN2BZswEWUA?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Video 1. TEDx talk 'Understanding Artificial Intelligence and Its Future' by Neil Nie.*
 

@@ -2,7 +2,7 @@
 sort: 15
 ---
 
-# Datalab 05: Conclusion and Referencing
+# Datalab 05: Conclusion and Storytelling with Data
 
 We've now learned everything we needed to know in order to finish our first data science project. All that's left is writing the conclusion and referencing any sources you may have used, like the webpage of the SDG indicators where you got your data. Once you're finished, you can use the remainder of your time to brush up on your dashboard or revisit part of the analysis like data visualisation or interpretation.
 
@@ -39,6 +39,8 @@ Now it's time to gather the feedback on your dashboard. Ask you mentor(s) to pro
 
 ## 2) Data-Driven Story Telling Fundamentals
 Take place from 10:00 - 12:00 in the Datalab!
+
+***
 
 ## 3) Write the Conclusion
 Now, let's write the conclusion of your dashboard. You have gone through all the steps. You know what to do next and why that's what you need to do. That essentially involves communicating:

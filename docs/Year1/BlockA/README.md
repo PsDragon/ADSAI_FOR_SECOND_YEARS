@@ -8,7 +8,7 @@ Each of the seven/eight weeks has a fixed structure: on Monday, Wednesday and Th
 
 | Name   |  Availability |  Mentor Group | Email  | Subject  |
 |---|---|---|---|---|
-| Bram Heijligers (Lecturer), MSc. <img src="./BramProfile.jpg" alt="Bram Heijligers profile picture" width="200"/> |  Wed, Thur, Fri | Group 1, Year 1  | heijligers.b@buas.nl | Data Science & Professional Competencies|
+| Bram Heijligers (Lecturer), MSc. <img src="./BramProfile.jpg" alt="Bram Heijligers profile picture" width="200"/> |  Wed, Thur, Fri | Group 1, Year 1  | heijligers.b@buas.nl | Data Science |
 | Irene van Blerck (Lecturer), MSc. <img src="./IreneProfile.jpg" alt="Irene van Blerck profile picture" width="200"/>   |  Tue, Wed, Thu, Fri |  Group 2, Year 1 |  blerck.i@buas.nl | Responsible AI, Computer vision |
 | Nitin Bhushan (Lecturer), PhD.  <img src="./NitinProfile.jpg" alt="Nitin Bhushan profile picture" width="200"/>  |  Mon, Tue, Wed, Thu, Fri  | Group 3, Year 1 | bhushan.n@buas.nl | Data Science and AI  |
 | Zhanna Kozlova (Lecturer), MA. <img src="./ZhannaProfile.jpg" alt="Zhanna Kozlova profile picture" width="200"/>  |   |  Group 1, Year 1 | kozlova.z@buas.nl  |   |
@@ -162,87 +162,69 @@ You are encouraged to get the best out of yourself. Therefore, within the ADS&AI
 
 
 ### Tuesday
-- [Datalab 00 Overview: SGD Indicators](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_00_SDG_Indicators.html)
+- [Problem Statements and Research Questions](https://adsai.buas.nl/Study%20Content/DataScience/Problem%20Statements%20and%20Research%20Questions.html)
 
 ### Wednesday
-- [Intro to variables and data transformation](https://adsai.buas.nl/Study%20Content/DataScience/IntroToVariablesAndDataTransformation.html)
+- [Datalab 00: SGD Indicators](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_00_SDG_Indicators.html)
 
 ### Thursday
-- [Descriptive Analyses and Data Visualisation](https://adsai.buas.nl/Study%20Content/DataScience/DescriptiveAnalyses.html)
+- [Intro to variables and data transformation](https://adsai.buas.nl/Study%20Content/DataScience/IntroToVariablesAndDataTransformation.html)
 
 ### Friday
-- [Datalab 01: Exploratory Data Analysis (EDA)](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_01_ExploratoryDataAnalysis.html)
+- [Datalab 01: Exploratory Data Analysis (EDA)](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_01_ExploratoryDataAnalysis1.html)
 
 ## Week 5: Introduction to Data Science
 
 ### Monday
+- [Descriptive Analyses and Data Visualisation 1](https://adsai.buas.nl/Study%20Content/DataScience/DescriptiveAnalyses.html)
+
+### Tuesday
+- [Descriptive Analyses and Data Visualisation 2](https://adsai.buas.nl/Study%20Content/DataScience/DescriptiveAnalyses.html)
+
+### Wednesday
+- [Datalab 02: Exploratory Data Analysis (EDA)](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_02_ExploratoryDataAnalysis2.html)
+
+### Thursday
 - [Introduction to Probability 1](https://adsai.buas.nl/Study%20Content/DataScience/IntroductionToProbability1.html)
 
-### Tuesday
-- [Datalab 02: Findings](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_02_Findings_and_VisualisingDataInR.html)
+### Friday
+- [Datalab 03: Findings & Data Visualisations](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_03_Findings_and_VisualisingData.html)
 
-### Wednesday
+## Week 6: Introduction to Data Science
+
+### Monday
 - [Introduction to Probability 2](https://adsai.buas.nl/Study%20Content/DataScience/IntroductionToProbability2.html)
 
-### Thursday
+### Tuesday
 - [Analysing Relationships between Variables](https://adsai.buas.nl/Study%20Content/DataScience/Analysing%20Relationships%20between%20Variables.html)
 
-### Friday
-- [Datalab 03 Discussion](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_03_Discussion.html)
+### Wednesday
+- [Datalab 04 Discussion](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_04_Discussion.html)
 
-## Week 6: Introduction to Data Science
-
-### Monday
+### Thursday
 - [Reporting & visualisation - Overview](https://adsai.buas.nl/Study%20Content/DataScience/ReportingAndVisualisatingData.html)
 
-### Tuesday
-- [Datalab 04 Overview: Conclusion & References](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_04_Conclusion.html)
+### Friday
+- [Datalab 05: Conclusion & Storytelling with Data](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_05_Conclusion.html)
 
-### Wednesday
+## Week 7: Introduction to Data Science
+
+### Monday
 - [Explanatory Vs Predictive Modelling](https://adsai.buas.nl/Study%20Content/DataScience/Explanatory%20Versus%20Predictive%20Modelling.html)
 
-### Thursday
+
+### Tuesday
 - [Block A recap](https://adsai.buas.nl/Study%20Content/DataScience/BlockA_Recap.html)
 
-### Friday
-- [Datalab 05 Overview: Poster Presentation Day](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_05_PosterPresentationDay.html)
-
-## Week 6: Introduction to Data Science
-
-### Monday
-- [Programming: A Primer](https://adsai.buas.nl/Study%20Content/Programming/1.StartingProgramming.html)
-- [Setting up your development environment](https://adsai.buas.nl/Study%20Content/Programming/2.SetupIDE.html)
-- [Python foundation](https://adsai.buas.nl/Study%20Content/Programming/3.Python%20foundations.html)
-
-### Tuesday
-- [Data Lab: Python foundation](https://adsai.buas.nl/Study%20Content/Programming/4.DataLabPR1.html)
 
 ### Wednesday
-- [Python data types & data structures](https://adsai.buas.nl/Study%20Content/Programming/5.Python%20data%20types%20and%20data%20structures.html)
+- [Datalab 06: CRISP-DM](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_06_CrispDM.html)
 
 ### Thursday
-- [Python: Pandas](https://adsai.buas.nl/Study%20Content/Programming/6.Getting%20Started%20with%20Pandas.html)
-- [Introduction to Python NumPy](https://adsai.buas.nl/Study%20Content/Programming/7.Python%20Numpy.html)
+Submit your dashboards today before 17:00 CEST.
 
 ### Friday
-- [Data Lab: Python Pandas & NumPy](https://adsai.buas.nl/Study%20Content/Programming/8.DataLabPR2.html)
+- [Datalab 07: Dashboard Presentation Day](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_07_DashboardPresentationDay.html)
 
-## Week 7: Wrap-up
-
-### Monday
-
-- [Image Processing in Python](https://adsai.buas.nl/Study%20Content/Programming/9.Python%20Image%20Processing.html)
-
-### Tuesday
-- [Data Lab: Image Steganography](https://adsai.buas.nl/Study%20Content/Programming/10.DataLabPR3.html)
-
-### Wednesday
-- [Advanced Numpy: Broadcasting & Vectorizing](https://adsai.buas.nl/Study%20Content/Programming/11.AdvancedNumpy.html)
-
-### Thursday
-- [Python:Data visualization](https://adsai.buas.nl/Study%20Content/Programming/12.Data%20visualization%20in%20Python.html)
-
-### Friday
-- [Data Lab: Image Steganography](https://adsai.buas.nl/Study%20Content/Programming/13.DataLabPR4.html)
 
 ***

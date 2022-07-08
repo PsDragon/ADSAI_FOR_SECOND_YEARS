@@ -28,15 +28,15 @@ Today, you are going to explore the concept of the intelligent agent, which can 
 
 <img src="./images/roomba.jpg" alt="Roomba" width="450"/>
 
-*Figure 2. Roomba's death by toilet paper...*
+*Figure 1. Roomba's death by toilet paper...*
 
 __1.1a__ Read chapter 2 of AIMA (p.55-80).
 
 __1.1b__ Watch the video on Deep Blue by IBM.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KFSVZlkHHmM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="896" height="504" src="https://www.youtube.com/embed/KFSVZlkHHmM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Video 2. Deep Blue*
+*Video 1. Deep Blue*
 
 __1.1c__ IBM's Deep Blue uses a a) symbolic or b) connectionist approach to AI? Select one of the options, and explain your choice.
 
@@ -62,11 +62,9 @@ __1.1f__ Compare and contrast the following agent types:
 
 Explain your answer.
 
-***
-
 ### 1.2 Conversational AI
 
-Conversational agents, also referred to as chatbots, are software applications that mimic human behaviour (i.e. written or spoken speech) with the means to stimulate an interaction with a real person. If you have ever used an customer service live chat, you probably have interacted with such an conversational agent. It is estimated that by 2022, 75% to 90% of customer service inquiries are processed by bots operating on conversational AI technology (CNBC, May 9, 2017). It is fair to say, chatbots are here to stay.
+Conversational agents, also referred to as chatbots, are software applications that mimic human behavior (i.e. written or spoken speech) with the means to stimulate an interaction with a real person. If you have ever used an customer service live chat, you probably have interacted with such an conversational agent. It is estimated that by 2022, 75% to 90% of customer service inquiries are processed by bots operating on conversational AI technology ([Source](https://www.cnbc.com/2017/05/09/chatbots-expected-to-cut-business-costs-by-8-billion-by-2022.html?&qsearchterm=chatbots)). It is fair to say, chatbots are here to stay.
 
 __1.2a__ Watch video on chatbots and virtual agents by Angela Wick.
 
@@ -82,7 +80,7 @@ __1.2d__ List, and describe the advantages and disadvantages of using the follow
 
 __1.2e__ Watch the video about ELIZA, the first chatbot, which Joseph Weizenbaum developed at MIT's Computerized Reasoning Laboratory in 1964.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RMK9AphfLco" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/RMK9AphfLco" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Video 3. Before Siri and Alexa, there was ELIZA.*
 
@@ -92,7 +90,7 @@ __1.2f__ Create a simple, code-free, rule-based chatbot with [Google Forms](http
 
 For a complete tutorial on how to create your chatbot, see video below:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hdiaN-7EHAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/hdiaN-7EHAk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Video 4. Fobi.io -Create Chatbots with Google Forms.*
 
@@ -100,7 +98,7 @@ Congratulations you have created your first [algorithm](https://www.britannica.c
 
 Want to make it a bit more challenging? Try to visualize your chatbot's algorithm in a flowchart:
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SWRDqTx8d4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/SWRDqTx8d4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Video 5. Introduction to Creating Flowcharts.*
 

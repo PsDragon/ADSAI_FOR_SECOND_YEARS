@@ -31,11 +31,11 @@ __1a__ Although the terms 'data', 'information', and 'knowledge' are often used 
 Tip: Use the incognito mode of your browser to freely access blogs posted on popular AI/Data Science websites, such as medium.com, and towardsdatascience.com.
 </div>
 
-__1a__ Watch the video on data information, and knowledge by Charlie Broomfield. 
+__1b__ Watch the video on data information, and knowledge by Charlie Broomfield. 
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QsP5WGv0aQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/QsP5WGv0aQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Video 1. Theory 1 Topic 4.1.1 Data Information and Knowledge. 
+*Video 1. Theory 1 Topic 4.1.1 Data Information and Knowledge.*
 
 Now, let us take a closer look at the DIKW pyramid, and complete an exercise to deepen our understanding of the aforementioned concepts.
 
@@ -43,7 +43,7 @@ Now, let us take a closer look at the DIKW pyramid, and complete an exercise to 
 
 *Figure 1. DIKW pyramid.*
 
-__1b__ Provide two additional examples, where you specify the four DIKW stages: 
+__1c__ Provide two additional examples, where you specify the four DIKW stages: 
 
 | A. Example  |  B. Data |  C. Information  | D. Knowledge | E. Wisdom |
 |---|---|---|---|---|
@@ -52,6 +52,8 @@ __1b__ Provide two additional examples, where you specify the four DIKW stages:
 | 3.   |   |   |   |   | | 
 
 Fill in the blank spots. 
+
+***
 
 ## 2) Data analysis methods
 
@@ -80,7 +82,7 @@ Let us say you work as an emergency room doctor in a hospital, and you, on avera
 
 __2a__ Watch the video What is Descriptive Analytics? - Data Science Wednesday by Decisive Data.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cHGhSj_Ax-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/cHGhSj_Ax-0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Video 2. What is Descriptive Analytics? - Data Science Wednesday.*
 
@@ -90,7 +92,7 @@ __Tools:__ Power BI, Excel, R, Python, etc.
 
 __2b__ Watch the video What is Diagnostic Analytics? - Data Science Wednesday by Decisive Data.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/BPshmz9qxxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/BPshmz9qxxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Video 3. What is Diagnostic Analytics? - Data Science Wednesday.*
 
@@ -102,7 +104,7 @@ __Technique:__ Machine learning
 
 __2c__ Watch the video The Fundamentals of Predictive Analytics - Data Science Wednesday by Decisive Data.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4y6fUC56KPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/4y6fUC56KPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Video 4. The Fundamentals of Predictive Analytics - Data Science Wednesday.*
 
@@ -114,7 +116,7 @@ __Technique:__ Statistical modelling
 
 __2d__ Watch the video What is Prescriptive Analytics? - Data Science Wednesday by Decisive Data.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/046dYegfGrc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/046dYegfGrc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Video 5. What is Prescriptive Analytics? - Data Science Wednesday.*
 
@@ -135,6 +137,5 @@ Block B, will be all about predictive analytics. In particular, you will learn t
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Note: When you are finished with the independent study material, and still have some time left, try to apply your newly gained knowledge to the Creative Brief.
 </div>
-
 
 ***

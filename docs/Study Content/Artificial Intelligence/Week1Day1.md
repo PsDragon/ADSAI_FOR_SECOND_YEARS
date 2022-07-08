@@ -23,7 +23,7 @@ If you have questions or issues regarding the course material, please fill out t
 ***
 ## 1) Lecture: Block A kick-off
 
-At 13:30, we will have the Block A kick-off presentation at the BUas Campus (Location to be further specified). Here, you will receive information regarding studying at BUas, and the day-to-day activities of the ADS&AI educational program. 
+At 13:30, we will have the Block A kick-off presentation at the BUas Campus (Lecture hall: Fe1.018). Here, you will receive information regarding studying at BUas, and the day-to-day activities of the ADS&AI educational program. 
 
 ***
 
@@ -35,7 +35,7 @@ Artificial intelligence (AI) has seen a rapid rise in popularity. Research into 
 
 __2.1a__ Watch the TEDx talk 'Understanding Artificial Intelligence and Its Future' by Neil Nie.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SN2BZswEWUA?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1120" height="630" src="https://www.youtube.com/embed/SN2BZswEWUA?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Video 1. TEDx talk 'Understanding Artificial Intelligence and Its Future' by Neil Nie.*
 
@@ -47,7 +47,7 @@ __2.1c__ Give three examples of AI applications. You can choose real-life exampl
 
 In this section, you will be made familiar with the various definitions of AI, and its related fields (e.g., cognitive science). The information required to complete this section successfully, can (to a greater extent) be found in the book Artificial Intelligence: A Modern Approach by Russell and Norvig (2021)<sup>[1](#footnote_1)</sup>. You will be using this specific book throughout the program.
 
-<img src="./images/ai_russell_norvig.jpg" alt="Book Russell and Norvig" width="250"/>
+<img src="./images/ai_russell_norvig.jpg" alt="Book Russell and Norvig" width="300"/>
 
 *Figure 1. Artificial Intelligence: A Modern Approach (Russell and Norvig, 2021).*
 
@@ -90,7 +90,9 @@ __2.2f__ Connect the Post It notes (Fig 2.) to the relevant quadrant in the phil
 
 *Figure 3. Philosophy of AI matrix.*
 
-__3.2g__ After completing the readings and exercises of this section, would you provide the same answer to exercise 3.1b? Explain your answer.
+__3.2g__ After completing the readings and exercises of this section, would you provide the same answer to exercise 2.1b? Explain your answer.
+
+***
 
  ## 3) GitHub Desktop: Introduction to version control (1)
 
@@ -214,7 +216,7 @@ There are a number of different ways to **add** files for GitHub Desktop to trac
 
 You can also add files to an existing repository on GitHub.com. Before you can add a new file, you need to clone the repository to your local device. Cloning a repository pulls down a full copy of all the repository data that GitHub.com has at that point in time, including all versions of every file and folder for the project.
 
-To clone a repository, open GitHub.com, and navigate to the main page of the repository. Above the list of files, click on the downward pointing arrow to 'Open with GitHub Desktop'. 
+To clone a repository, open GitHub.com, and navigate to the main page of the repository. Above the list of files, click on the downward pointing arrow to 'Open with GitHub Desktop' ([Source](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)). 
 
 ![GitHub clone](./images/GitHubCloneOnline.gif)
 
@@ -344,6 +346,8 @@ You can see from this view that text with changes highlighted in green or red. R
 Material in this section has been adapted from [Getting Started With GitHub Desktop](https://programminghistorian.org/en/lessons/retired/getting-started-with-github-desktop) is licensed under CC BY 4.0. 
 
 __3.4a__ Install [GitHub Desktop](https://desktop.github.com/), and  [VSCode](https://code.visualstudio.com/) or another IDE/text editor on your local device. 
+
+__3.4b__ Activate your GitHub account for Block A (For instructions see email!). 
 
 ***
 

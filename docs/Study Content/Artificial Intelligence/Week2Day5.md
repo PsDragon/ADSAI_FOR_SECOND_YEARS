@@ -47,17 +47,17 @@ __2c__ Complete one of the following courses on the topic of feedback:
 
 - [Giving Helpful Feedback, Week 1:Introduction to Giving Helpful Feedback and Positive Feedback](https://www.coursera.org/learn/feedback#syllabus) (Coursera course, Tracy Jennings)
 
-__2b__ Watch the video below, and provide feedback to the presenter according to the sandwich/hamburger model. List the feedback, and explain your approach.
+__2d__ Watch the video below, and provide feedback to the presenter according to the sandwich/hamburger model. List the feedback, and explain your approach.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nSGqp4-bZQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/nSGqp4-bZQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Video 1. Undergraduate Students Unwittingly Subjected to World's Worst Research Presentation.*
 
-__2e__ Compare your answer to exercise 2b with the feedback given by two of your peers. Is the feedback similar, or does it differ across peers? Elaborate on your findings. 
+__2e__ Compare your answer to exercise 2d with the feedback given by two of your peers. Is the feedback similar, or does it differ across peers? Elaborate on your findings. 
 
-__2f__ Watch the video 'Run, hide, or say thank you: when faced with feedback, what do you do?' by Joy Mayer. Summarize the main points presented in the video (Maximum of 150 words). 
+__2f__ Watch the video 'Run, hide, or say thank you: when faced with feedback, what do you do?' by Joy Mayer. Summarize the main points presented in the video (maximum of 150 words). 
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/b0bS4xJiEU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/b0bS4xJiEU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Video 2. 'Run, hide, or say thank you: when faced with feedback, what do you do?'*
 
@@ -83,22 +83,8 @@ __2h__ In the bi-weekly formative feedback sessions between student and mentor, 
 
 ***
 
-## 2) Creative Brief: Minority Report (6)
+## 2) Creative Brief: Minority Report (5)
 
 The goal of this DataLab is to get familiar with various feedback methods. During the 'AI in Science Fiction' presentation you will be asked to provide constructive feedback to your peers. By the end of the day, try to list at least one element, related to the presentation, you want to receive feedback on. Furthermore, read through the peer feedback [template]('./documents/AnonymousPeerReviewForm.pdf'), which we will use during the 'AI in Science Fiction' presentation. 
-
-***
-
-## 3) A Day in a life of ... (Optional)
-
-Each Friday, you will have the chance to familiarise yourself with the different roles that constitute a professional data team. This week focuses on the data engineer.
-
-### 3.1 Data/ML engineer
-
-__3.1a__ Find out what a typical work day looks like for a data/ML engineer (e.g., daily tasks, and related skills, etc.).
-
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Note: The Bronze Challenge for Block A is creating an infographic that provides an overview of the different roles that constitute a professional data team.
-</div>
 
 ***

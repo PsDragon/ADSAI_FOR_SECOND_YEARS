@@ -8,7 +8,7 @@ In the morning, you will have time to finish your 'AI in Science Fiction' presen
 
 ## Learning objectives
 
-1. Describe the main tasks, skills, and responsibilities of an analytics translator/data consultant
+1. N.A.
 
 ## Questions or issues?
 
@@ -28,8 +28,7 @@ __1b__ Answer the following questions:
 
 ***
 
-## 2) Creative Brief: Minority Report (5)
-
+## 2) Creative Brief: Minority Report (7)
 
 The goal of this DataLab is to finalize the presentation. For example, if you have not added references, visual elements, etc., to your presentation, please, do so before 13:00. 
 
@@ -37,7 +36,7 @@ The goal of this DataLab is to finalize the presentation. For example, if you ha
 Tip: If you are feeling anxious, stressed out, etc., take a stroll around campus or do some breathing exercises (See video 1). 
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LBbQK2HIvvI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/LBbQK2HIvvI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Video 1. Breathing Through Exams: A Breathing Practice to Focus and Calm Stress.*
 
@@ -196,15 +195,3 @@ __Group 6 (Mentor: Gilmara Merrill)__
 Recording (for mentors): [How to test and use your webcam in Windows 10, with the Camera app](https://www.digitalcitizen.life/how-use-camera-app-windows-10-your-webcam/)
 
 ***
-
-## 3) A Day in a life of ... (Optional)
-
-Each Friday, you will have the chance to familiarise yourself with the different roles that constitute a professional data team. This week focuses on the analytics translator/data consultant
-
-### 3.1 Analytics translator/Data consultant
-
-__3.1a__ Find out what a typical work day looks like for a analytics translator/data consultant (e.g., daily tasks, and related skills, etc.).
-
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Note: The Bronze Challenge for Block A is creating an infographic that provides an overview of the different roles that constitute a professional data team.
-</div>

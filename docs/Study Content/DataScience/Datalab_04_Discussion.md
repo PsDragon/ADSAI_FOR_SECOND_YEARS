@@ -16,13 +16,16 @@ Table of contents:
 2. Project: 7 hours (but probably much shorter; 8 hours is the allocated time)
 
 
-Good luck!
+### Questions or issues?
+If you have any questions or issues regarding the course material, please first ask your peers or ask a member of staff if you can't figure it out together!
 
 ### Stand-up
 Get together with a group of 5 and take turns answering the following questions:
 - What did you do yesterday?
 - What will you do today?
 - Are there any impediments in your way?
+
+Good luck!
 
 ## 0) Mock Assessment recap
 Now, let's all find a partner and get our 3 mock-assessments out and discuss them. Specifically, analyse and evaluate one another's answers to the questions. If you both have the same answers, you're done. If not, then try to see who is right by explaining it to one another. If you both don't have an answer on a particular question; ask your instructor(s) in Datalab.

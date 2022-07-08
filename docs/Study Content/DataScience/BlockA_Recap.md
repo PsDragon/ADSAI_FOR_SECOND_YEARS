@@ -11,9 +11,10 @@ Please follow the links below to continue the class:
 1. Workshop: 6 hours
 
 ## Questions or issues?
-If you have any questions or issues regarding the course material, please first ask your peers or ask us in the daily Q&A at 16:00!
 
-Good luck!
+If you have questions or issues regarding the course material, please fill out the 'How Can We Help?' form under the section ['Ask me anything'](https://adsai.buas.nl/Contact%20Us/). A member of our teaching staff will respond as soon as possible.
+
+***
 
 
 
@@ -21,8 +22,7 @@ Good luck!
 [Go to codecademy](https://www.codecademy.com/learn/learn-statistics-with-r) and log in with your BUAS credential. The course will reinforce the core data science learning objectives for this block.
 **The course on hypothesis testing is not part of our year 1 curriculum** so I wouldn't do that one just yet. We'll go into that in year 2.
 
-# 1) Daily Q&A
-At 16:00, there's an online meeting on our Microsoft Team Channel  you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
+
 
 ## The end!
 Tomorrow we will have some time to work on the conference poster and then at 13:00 you'll have the poster demonstration. This is a formative assessment on your conference poster meaning that you are given a chance to collect feedback and reflect: you are not assessed for a grade, that takes place in week 9.

@@ -18,13 +18,16 @@ Table of contents:
 1. Workshop: 3 hours
 2. Project: 5 hours
 
-Good luck!
+### Questions or issues?
+If you have any questions or issues regarding the course material, please first ask your peers or ask a member of staff if you can't figure it out together!
 
 ### Stand-up
 Get together with a group of 5 and take turns answering the following questions:
 - What did you do yesterday?
 - What will you do today?
 - Are there any impediments in your way?
+
+Good luck!
 
 ## 0) Peer-review
 Open your notes file and be ready to take notes. Take a loot at one another's dashboards and help your peer understand what you did and where you're going with your dashboard. Note down all valuable feedback in your notes file and upload it to your github repository once finished and reference it in your learning log for this week.

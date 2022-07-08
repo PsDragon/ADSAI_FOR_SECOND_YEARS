@@ -18,15 +18,16 @@ Please follow the links below to continue the class:
 3. Referencing: 1 hour
 4. CRISP-DM: 1 hour; potentially more depending on your project
 
-Feel free to ask for personal feedback during Datalab: from 9:00 to 16:00, in person or online.
-
-Good luck!
+### Questions or issues?
+If you have any questions or issues regarding the course material, please first ask your peers or ask a member of staff if you can't figure it out together!
 
 ### Stand-up
 Get together with a group of 5 and take turns answering the following questions:
 - What did you do yesterday?
 - What will you do today?
 - Are there any impediments in your way?
+
+Good luck!
 
 ## 0) Mock Assessment Recap
 Now, let's all find a partner and open your pre-mock assessment poster and our post-mock asessement poster respectively. Show them to your partner and explain the improvements you made, why you made them and how you made them. You analyse and evaluate one another's work: specifically the choices, the execution and the story they tell with their data visualisations.

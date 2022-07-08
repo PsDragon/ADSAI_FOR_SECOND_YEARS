@@ -23,13 +23,16 @@ Table of contents:
 4. Discuss introductions with mentor group: 1.5 hours
 5. Daily Reflection: From 16:30 to 17:00
 
+### Questions or issues?
+If you have any questions or issues regarding the course material, please first ask your peers or ask a member of staff if you can't figure it out together!
+
+### Stand-up
+Get together with a group of 5 and take turns answering the following questions:
+- What did you do yesterday?
+- What will you do today?
+- Are there any impediments in your way?
+
 Good luck!
-
-## Questions or issues?
-
-If you have questions or issues regarding the course material, please fill out the 'How Can We Help?' form under the section ['Ask me anything'](https://adsai.buas.nl/Contact%20Us/). A member of our teaching staff will respond as soon as possible.
-
-***
 
 ## 0) Mock-Assessment review: Quantifying our World into Data
 Now, let's all find a partner (as in a classmate, not a date) and get our mock-assessments out (assuming you made them) and discuss them. Specifically, analyse and evaluate one another work by listening to one another critically and giving feedback as your partner goes along explaining:

@@ -8,21 +8,24 @@ This page introduces you to the fundamentals of probability theory. First, we st
 
 ## Learning Objectives:
 Enable you to understand and/or apply:
-0. data distributions:
-1. addition rule;
-2. multiplication rules;
-3. conditional probability;
-4. law of Large Numbers;
-5. randomness;
+0. knowledge learned in previous modules
+1. data distributions:
+2. addition rule;
+3. multiplication rules;
+4. conditional probability;
+5. law of Large Numbers;
+6. randomness;
+to a guided case study.
 
 Table of contents:
 1. Introduction to concepts: 2-3 hours
 2. Workshop: 4-5 hours
 
-### Questions or issues?
-If you have any questions or issues regarding the course material, please first ask your peers or ask us in the daily Q&A at 16:00!
+## Questions or issues?
 
-Good luck!
+If you have questions or issues regarding the course material, please fill out the 'How Can We Help?' form under the section ['Ask me anything'](https://adsai.buas.nl/Contact%20Us/). A member of our teaching staff will respond as soon as possible.
+
+***
 
 
 

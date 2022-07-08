@@ -18,11 +18,17 @@ Table of contents:
 2. Exploratory Data Analysis on SDG Indicators dataset: 5.5- 6.5 hours
 3. Day reflection: 16:30 - 17:00
 
+### Questions or issues?
+If you have any questions or issues regarding the course material, please first ask your peers or ask a member of staff if you can't figure it out together!
+
 ### Stand-up
 Get together with a group of 5 and take turns answering the following questions:
 - What did you do yesterday?
 - What will you do today?
 - Are there any impediments in your way?
+
+Good luck!
+
 
 ## 0) Mock-Assessment review: Variables and Descriptive data
 Now, let's all find a partner (as in a classmate, not in a romantic sense) and get our mock-assessments out (assuming you made them :p) and discuss them. Specifically, analyse and evaluate one another work by:
@@ -67,8 +73,7 @@ At 16:30, we'll all get together in our mentor group to discuss our progress and
 Next week we're going to cover some fundamental concepts of probability theory. It's much more fun than it sounds, I promise. :p
 
 
-## Questions or issues?
-In case you have any questions, please first ask your peers or send us a message on teams instead! We're available on working days from 9:00 tot 17:00.
+
 
 ## Resources:
 - [SDG database](https://unstats.un.org/sdgs/indicators/database/)

@@ -19,9 +19,10 @@ Table of contents:
 3. Mock Assessment: 1-2 hours
 
 ## Questions or issues?
-If you have any questions or issues regarding the course material, please first ask your peers or ask us in the daily Q&A at 16:00!
 
-Good luck!
+If you have questions or issues regarding the course material, please fill out the 'How Can We Help?' form under the section ['Ask me anything'](https://adsai.buas.nl/Contact%20Us/). A member of our teaching staff will respond as soon as possible.
+
+***
 
 
 ## 0) Workshop

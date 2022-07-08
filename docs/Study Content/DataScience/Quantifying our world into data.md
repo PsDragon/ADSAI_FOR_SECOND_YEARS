@@ -121,6 +121,12 @@ Let's start by installing the latest version of Power BI! [Click here!](https://
 
 Now it's time for the [the workshop part](https://www.datacamp.com/courses/introduction-to-power-bi) of this class to get acquainted with PowerBI. Click the link in the previous sentence to start with the online workshop. Complete the entire course and upload the certificate to github, reference the certificate in your learning log for this week.
 
+## Questions or issues?
+
+If you have questions or issues regarding the course material, please fill out the 'How Can We Help?' form under the section ['Ask me anything'](https://adsai.buas.nl/Contact%20Us/). A member of our teaching staff will respond as soon as possible.
+
+***
+
 
 
 ## References:

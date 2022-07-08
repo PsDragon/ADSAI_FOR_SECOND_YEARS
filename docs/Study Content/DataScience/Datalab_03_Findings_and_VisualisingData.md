@@ -15,8 +15,9 @@ Build upon the basic understanding of data representations by learning to create
 
 Table of contents:
 0. Peer-review: 1 hour
-1. Workshop: 3 hours
-2. Project: 5 hours
+1. Feedback: .5 hours
+2. Workshop: 3 hours
+3. Project: 4.5 hours
 
 ### Questions or issues?
 If you have any questions or issues regarding the course material, please first ask your peers or ask a member of staff if you can't figure it out together!
@@ -32,11 +33,9 @@ Good luck!
 ## 0) Peer-review
 Open your notes file and be ready to take notes. Take a loot at one another's dashboards and help your peer understand what you did and where you're going with your dashboard. Note down all valuable feedback in your notes file and upload it to your github repository once finished and reference it in your learning log for this week.
 
-## Workshop part: Exploratory Data Analyses
-
 
 ## 1) First things second
-Before starting, look at the feedback you have received on your dashboard by navigating to your GitHub repository and clicking on the ‘Pull requests' header. There should be a feedback thread over there. Process the feedback and then continue as described below.
+It's time to gather the feedback on your dashboard. Ask you mentor(s) to provide you with feedback or to book a slot so they can provide you with feedback your progression. Record the feedback with action points in your notes file and then continue with the next section or go ahead and make changes to your dashboard.
 
 For those of you who haven't done so already: start uploading your files to our GitHub repository. That way, you never lose (too much) of your work, and we can also help you from a distance if there's something which you can't resolve or don't understand! :)
 

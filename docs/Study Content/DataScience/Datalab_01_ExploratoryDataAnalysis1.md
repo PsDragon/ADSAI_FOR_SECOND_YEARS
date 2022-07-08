@@ -35,6 +35,7 @@ Now, let's all find a partner (as in a classmate, not in a romantic sense) and g
 - Simply showing one another how you created your variables, vectors and data frame for the Intro to Variables mock assessment. Or what you did and did not manage; we're in a safe space to learn, and not succeeding is part of that :).
 - Showing one another your calculations and solutions for parts A and B of the Descriptive Analyses mock assessment.
 
+
 ## 1) Exploratory Data Analysis: Data Preperation - Workshop
 Let's start by doing a workshop, specifically the [Data Preparation course](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-power-bi)!
 
@@ -66,6 +67,9 @@ Now open the dashboard and write the Data Selection and Data Visualisation Secti
 
 **Step. 6.** Read and potentially iterate on your dashboard, then save your dashboard to your GitHub repository!
 
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Tip: Get the silver challenge by helping your peers! E.g. by proofreading their dashboard. They may return the favour, and you both get a better learning experience! Make sure to evidence your knowledge-sharing/help in your learning- and worklog!
+</div>
 
 ## 2)  In-Class discussion
 At 16:30, we'll all get together in our mentor group to discuss our progress and reflect on today activities.

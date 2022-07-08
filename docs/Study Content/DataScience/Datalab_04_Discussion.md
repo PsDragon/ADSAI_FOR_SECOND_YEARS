@@ -31,7 +31,7 @@ Good luck!
 Now, let's all find a partner and get our 3 mock-assessments out and discuss them. Specifically, analyse and evaluate one another's answers to the questions. If you both have the same answers, you're done. If not, then try to see who is right by explaining it to one another. If you both don't have an answer on a particular question; ask your instructor(s) in Datalab.
 
 ## 1) Feedback on dashboard
-Now look at the feedback you have received on your poster by navigating to your GitHub repository and clicking on the 'Pull requests' header. There should be a feedback thread over there. Process the feedback and then continue as described below.
+Now it's time to gather the feedback on your dashboard. Ask you mentor(s) to provide you with feedback or to book a slot so they can provide you with feedback your progression. Record the feedback with action points in your notes file and then continue with the next section or go ahead and make changes to your dashboard.
 
 ## 2) Considerations in interpreting the data
 Now, it's time to put all the knowledge we gained into practice by writing the discussion section of our Conference Poster!
@@ -49,7 +49,7 @@ Now that we have interpreted the data distribution and summary statistics, it's 
 
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: If you are done early, look if you can iterate on your poster. If you want to go the extra mile and learn some extra fancy data visualisations skills: do modules 8, 9 and potentially 10 as well of the Exploratory Data Analysis course in Swirl. But please by all means note that you are not expected to do these modules: we offer extra content for those who crave it.
+Tip: Get the silver challenge by helping your peers! E.g. by proofreading their dashboard. They may return the favour, and you both get a better learning experience! Make sure to evidence your knowledge-sharing/help in your learning- and worklog!
 </div>
 
 ## 4) In-Class discussion

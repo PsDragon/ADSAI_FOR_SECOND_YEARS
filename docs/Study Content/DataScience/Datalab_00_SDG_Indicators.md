@@ -60,6 +60,9 @@ Now, let's all find a partner (as in a classmate, not a date) and get our mock-a
 
 **Step 4.** Done early? Help your peers finish 
 
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Tip: Get the silver challenge by helping your peers! E.g. by proofreading their introduction! They may return the favour, and you both get a better learning experience! Make sure to evidence your knowledge-sharing/help in your learning- and worklog!
+</div>
 
 ## 2) In-Class discussion
 At 14:30, you will get together with your mentor group to present your:

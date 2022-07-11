@@ -30,7 +30,7 @@ Here are some articles that describe the role in a bit more detail:
 [A day in the life of an Analytics Translator](https://www.jads.nl/guest-blog-harm-bodewes/){:target="_blank"}
 
 
-## Creative Brief
+## Creative Brief: AI at BUAS
 
 Advances in artificial intelligence (AI) is predicted to impact nearly all
 domain of the Breda University of Applied Sciences (Buas). While there is no debate
@@ -47,7 +47,7 @@ and identifying opportunities to include AI in the curriculum of these domains.
 **Your goal for this block is to use quantitative and qualitative methods to
 explore and understand (staff and student)
 attitudes, knowledge, acceptance, and perceived impact of AI across
-Buas domains and guide stakeholders towards the best course of action.**
+Buas domains and guide stakeholders towards the best course of action regarding AI at Buas.**
 
 ## Project timeline
 
@@ -70,15 +70,19 @@ followed by a mini-conference in AI. This conference will provide you with insig
 into how the different domains in Buas tend to think about AI (general attitudes,
  acceptance, percepetion, knowledge etc.). Use this week
 to perform a literature review and design hypotheses which you will then put
-to the test in the upcoming weeks.
+to the test in the upcoming weeks. Further, as your final deliverable includes a technical report, 
+please ensure that you learn the fundamentals of scientific writing using Latex.
 
 The knowledge modules linked to this phase are:<br>
 - [ ] [Foundations of Quantitative Research Design](https://www.linkedin.com/learning/academic-research-foundations-quantitative/welcome?autoplay=true&u=36359204){:target="_blank"} <br>
 - [ ] [Foundations of Qualitative Research Design](https://www.linkedin.com/learning/market-research-qualitative/the-power-of-qualitative-research?autoplay=true&u=36359204){:target="_blank"}
+- [ ] [Writing in the Sciences: Stanford](https://www.coursera.org/learn/sciwrite){:target="_blank"}
+- [ ] [Writing in Latex: A Primer](https://www.overleaf.com/learn/latex/Tutorials){:target="_blank"}
+
 
 
 ### Week 2-4
-Use these weeks to design your study, gather your data, and ensure that you
+Use these weeks to design your study, gather your quantitative and qualitative data, and ensure that you
 have a strategy for data management.
 
 The knowledge modules linked to this phase are:
@@ -94,12 +98,6 @@ The knowledge modules linked to this phase are:
 
 ### Week 7
 In this week, you are expected to report and present your project findings.
-
-The knowledge modules linked to this phase are:
-
-- [ ] [Writing in Latex: A Primer](https://www.overleaf.com/learn/latex/Tutorials){:target="_blank"}
-- [ ] [Writing in the Sciences: Stanford](https://www.coursera.org/learn/sciwrite){:target="_blank"}
-
 
 ## Project Requirements
 
@@ -120,7 +118,11 @@ Your final (<mark>group</mark>) deliverable is a Data Management documentation w
 
 
 Your final (<mark>individual</mark>) deliverables are:
-- [ ] scientific report documenting your findings (APA style, Latex formatted).
+- [ ] scientific report (5000 words) documenting your findings (APA style, Latex formatted).
 - [ ] conference poster and/or conference presentation
 
 > The best conference poster will be invited to present their findings via a presentation.
+
+## Resources
+[1] https://governanceai.github.io/US-Public-Opinion-Report-Jan-2019/executive-summary.html <br>
+[2] https://openstax.org/books/introductory-statistics/pages/1-introduction 

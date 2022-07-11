@@ -211,18 +211,18 @@ You are encouraged to get the best out of yourself. Therefore, within the ADS&AI
 ## Week 7: Introduction to Data Science
 
 ### Monday
-- [Explanatory Vs Predictive Modelling](https://adsai.buas.nl/Study%20Content/DataScience/Explanatory%20Versus%20Predictive%20Modelling.html)
+- [Explanatory Vs Predictive Modelling + more Reporting!](https://adsai.buas.nl/Study%20Content/DataScience/Explanatory%20Versus%20Predictive%20Modelling.html)
 
 
 ### Tuesday
-- [Block A recap](https://adsai.buas.nl/Study%20Content/DataScience/BlockA_Recap.html)
+- [User-Experience Design in Power BI](https://adsai.buas.nl/Study%20Content/DataScience/User-Experience%20Design%20in%20Power%20BI.html)
 
 
 ### Wednesday
 - [Datalab 06: CRISP-DM](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_06_CrispDM.html)
 
 ### Thursday
-Submit your dashboards today before 17:00 CEST.
+- [AdvancedPowerBI](https://adsai.buas.nl/Study%20Content/DataScience/BlockA_Recap.html)
 
 ### Friday
 - [Datalab 07: Dashboard Presentation Day](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_07_DashboardPresentationDay.html)

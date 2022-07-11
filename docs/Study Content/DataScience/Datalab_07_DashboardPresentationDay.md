@@ -1,15 +1,140 @@
 ---
-sort: 17
+sort: 20
 ---
 
-# Datalab 05: Dashboard Presentation Day
+# Datalab 05: SDG Dashboard Conference
 
-Today we're doing a formative assessment of the dashboard presentations. You can come in at 10:00 instead of 9:00 in our Data Lab room **(Hn0.015).**, which is where the conference takes place. At 12:45 today, the conference is kicked-off by the SDG taskforce with a presentation. Then at 13:00, we start the presentations, and you're expected to present your own dashboard.
+Today we're doing a formative assessment of the dashboards by presenting them at a conference. We start at 9:00 in our Data Lab room **(Hn0.015).**, which is where the conference takes place. At 9:30 today, the conference is kicked-off by dr. Frank Peters himself, and you're expected to present your own dashboard. During the day we will rotate places every 1,5 hours.
 
-## 10:00 - 11:45 Dashboard Presenation tips & setting up
-We will give you some tips on your dashboard in the form of a presentation, and down below. We'll also explain a bit about the process and scientific conferences. Then we'll go an hang-up the first round of dashboard. :)
 
-### Some tips which aren't on the slides
+If you aren't presenting your dashboard, walk around and look at the dashboard of you classmates. Give one another feedback: this enables you to learn for eachothers achievements and mistakes!
+
+The SDG Taskforce and some of the other lecturers are present as well, and these will not know what your project is about. So be prepared to take them through it and answer their questions. In essence this translates to knowing what you are talking about with respect to the scope of your research project, so don't worry about this too much. It will, however, give you some valuable feedback on how to improve on your dashboard before you are officially assessed in week 9.
+
+
+## 9:15 - 10:45 Dashboard Presenation Group 1
+| A. Student |  B.Timeslot |  
+|---|---|---|
+| 1.    |   |   |   
+| 2.   |   |   |      
+| 3.  |   |   |   
+| 4.    |   |   |   
+| 5.   |   |   |      
+| 6.  |   |   | 
+| 7.    |   |   |   
+| 8.   |   |   |      
+| 9.  |   |   |    
+| 10.    |   |   |   
+| 11.   |   |   |      
+| 12.  |   |   |   
+| 13.    |   |   |   
+| 14.   |   |   |      
+| 15.  |   |   | 
+| 16.    |   |   |   
+| 17.   |   |   |      
+| 18.  |   |   | 
+| 19.   |   |   |      
+| 20.  |   |   |  
+| 21.    |   |   |   
+| 22.   |   |   |      
+| 23.  |   |   | 
+| 24.   |   |   |      
+| 25.  |   |   |  
+
+## 11:00 - 12:30 Dashboard Presenation Group 2
+| A. Student |  B.Timeslot |  
+|---|---|---|
+| 1.    |   |   |   
+| 2.   |   |   |      
+| 3.  |   |   |   
+| 4.    |   |   |   
+| 5.   |   |   |      
+| 6.  |   |   | 
+| 7.    |   |   |   
+| 8.   |   |   |      
+| 9.  |   |   |    
+| 10.    |   |   |   
+| 11.   |   |   |      
+| 12.  |   |   |   
+| 13.    |   |   |   
+| 14.   |   |   |      
+| 15.  |   |   | 
+| 16.    |   |   |   
+| 17.   |   |   |      
+| 18.  |   |   | 
+| 19.   |   |   |      
+| 20.  |   |   |  
+| 21.    |   |   |   
+| 22.   |   |   |      
+| 23.  |   |   | 
+| 24.   |   |   |      
+| 25.  |   |   |  
+
+
+## 12:30 - 13:00 Lunchtime
+No explanation need but be back in time. If you present your dashboard at 13:00, feel free to take a break at 13:00 and but be back at 12:45 to setup your dashboard presentation.
+
+## 13:00 - 14:30 Dashboard Presenation Group 2
+| A. Student |  B.Timeslot |  
+|---|---|---|
+| 1.    |   |   |   
+| 2.   |   |   |      
+| 3.  |   |   |   
+| 4.    |   |   |   
+| 5.   |   |   |      
+| 6.  |   |   | 
+| 7.    |   |   |   
+| 8.   |   |   |      
+| 9.  |   |   |    
+| 10.    |   |   |   
+| 11.   |   |   |      
+| 12.  |   |   |   
+| 13.    |   |   |   
+| 14.   |   |   |      
+| 15.  |   |   | 
+| 16.    |   |   |   
+| 17.   |   |   |      
+| 18.  |   |   | 
+| 19.   |   |   |      
+| 20.  |   |   |  
+| 21.    |   |   |   
+| 22.   |   |   |      
+| 23.  |   |   | 
+| 24.   |   |   |      
+| 25.  |   |   |  
+
+## 14:45 - 16:15 Dashboard Presenation Group 2
+| A. Student |  B.Timeslot |  
+|---|---|---|
+| 1.    |   |   |   
+| 2.   |   |   |      
+| 3.  |   |   |   
+| 4.    |   |   |   
+| 5.   |   |   |      
+| 6.  |   |   | 
+| 7.    |   |   |   
+| 8.   |   |   |      
+| 9.  |   |   |    
+| 10.    |   |   |   
+| 11.   |   |   |      
+| 12.  |   |   |   
+| 13.    |   |   |   
+| 14.   |   |   |      
+| 15.  |   |   | 
+| 16.    |   |   |   
+| 17.   |   |   |      
+| 18.  |   |   | 
+| 19.   |   |   |      
+| 20.  |   |   |  
+| 21.    |   |   |   
+| 22.   |   |   |      
+| 23.  |   |   | 
+| 24.   |   |   |      
+| 25.  |   |   |  
+
+
+
+### Some extra tips
 If an attendee or classmate asks you something, you don't know just say: "That's interesting; maybe we could look into that in future analyses."
 Sometimes the things they say are simply too big in scope or addressing a different research question: they're asking what they find interesting. Then you can say something like:
 
@@ -22,28 +147,10 @@ or
 
 Expectation management is an essential skill for most jobs, and ours all the more due to the complexity of the challenges we're working with: you can't always properly estimate when you will be ready or whether it will work. So it's important to keep expectations realistic when you are presenting your dashboard to your stakeholders. Later in the program, we will go into these project and team-related skills; for now, it's just meant to help your present.
 
-## 11:45 - 12:45 Lunchtime
-No explanation need but be back in time.
-
-## 12:45 - 13:00 SDG Taskforce presentation
-Breda University of Applied Sciences has it's own taskforce. They'll come by and tell you a bit about them and engage you in a Q&A. Afterwards they'll attend the conference as an interested party!
-
-## 13:00 - 16:00 Dashboard representations
-About 5 of you will present your dashboard in 3 rounds:
-- 13:00 – Conference Round 1
-- 14:00 – Conference Round 2
-- 15:00 – Conference Round 3
-If you aren't presenting your dashboard, walk around and look at the dashboard of you classmates. Give one another feedback: this enables you to learn for eachothers achievements and mistakes!
-
-The SDG Taskforce and some of the other lecturers are present as well, and these will not know what your project is about. So be prepared to take them through it and answer their questions. In essence this translates to knowing what you are talking about with respect to the scope of your research project, so don't worry about this too much. It will, however, give you some valuable feedback on how to improve on your dashboard before you are officially assessed in week 9.
-
-The course instructors (Nitin & Bram) will give you feedback based on the content of your dashboard which will be usefull to adjust your dashboard before you hand it in for grading in week 8 at 17:00 on GitHub.
-
 
 ## The end
 That was all for Data Science 1! Hopefully you enjoyed the course and feel like you are well on your way to become a Data Scientist!
 
 If you have any feedback or suggestions, please mail Bram on: heijligers.b@buas.nl
 
-## Questions or issues?
-In case you have any questions, please first ask your peers or send us a message on teams instead!
+!

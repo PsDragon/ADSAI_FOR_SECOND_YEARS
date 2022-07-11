@@ -43,7 +43,7 @@ Write it down in your note file using a bullet point list. Hint: the answers are
 
 
 ### Excercise 2: Form a draft of your problem Statement
-**Step 1.** Download and inspect the [dashboard template](https://github.com/BredaUniversityADSAI/ADS-AI/blob/ea5c8a2b9f040ff12d5d7b2646e3e34928466d5b/docs/Study%20Content/DataScience/assets/DS1-AssesmentPoster_Template_StudentVersion.pptx). Save it to your GitHub repository and name it aptly:  "SDGIndicatorsDashboard_YourNameHere". If your files are too large for Github; upload them to your personal [Sharepoint](www.edubuas.sharepoint.com) folder. Only files on github and sharepoint (team, outlook also upload to sharepoint) are considered for grading. 
+**Step 1.** Download and inspect the [dashboard template](https://github.com/BredaUniversityADSAI/ADS-AI/blob/5bf562ad056760e036d9c6d9170de2415dd4b0f6/docs/Study%20Content/DataScience/assets/Templates/DS1_Dashboard_StudentTemplate.pbix). Save it to your GitHub repository and name it aptly:  "SDGIndicatorsDashboard_YourNameHere". If your files are too large for Github; upload them to your personal [Sharepoint](www.edubuas.sharepoint.com) folder. Only files on github and sharepoint (team, outlook also upload to sharepoint) are considered for grading. 
 
 **Step 2.**
 Research the domain, the SDG Indicators. Before diving in the online documentation, I would recommend watching all videos below. Feel free to skip one of the first two introductions if you prefer reading; don't skip the technical one.

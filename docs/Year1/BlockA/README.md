@@ -90,7 +90,8 @@ In DataLab 2, Week 7, you are expected to provide a live demo of your dashboard 
 -  A Power BI dashboard in .pbix-format
 -  A 7-minute live demo of the Power BI dashboard
 
-Please refer to the Assessment Rubric in Microsoft Teams for more detailed information.
+__7. __Criteria__
+Please refer to [student template dashboard]() and the Assessment Rubric in Microsoft Teams for more detailed information on grading criteria.
 
 ### Challenges 
 

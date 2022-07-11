@@ -81,7 +81,7 @@ To deepen our understanding, let us watch a couple of videos, and complete some 
 
 __1a__ Watch the video 'What is Machine Learning?' by IBM.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9gGnTQTYNaE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/9gGnTQTYNaE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Video 1. 'What is Machine Learning?' by IBM.*
 
@@ -89,7 +89,7 @@ __1b__ Define the terms 'supervised' and 'unsupervised' learning. How do these t
 
 __1c__ Watch the video on symbolic AI by the YouTube channel CrashCourse.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WHCo4m2VOws?controls=0&amp;start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="896" height="504" src="https://www.youtube.com/embed/WHCo4m2VOws?controls=0&amp;start=2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Video 2. Symbolic AI by CrashCourse.*
 

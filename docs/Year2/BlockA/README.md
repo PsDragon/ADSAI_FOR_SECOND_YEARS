@@ -68,8 +68,27 @@ the ADSAI digital learning environment.
 The block begins with a block kickoff
 followed by a mini-conference in AI. This conference will provide you with insights
 into how the different domains in Buas tend to think about AI (general attitudes,
- acceptance, percepetion, knowledge etc.). Use this week
-to perform a literature review and design hypotheses which you will then put
+ acceptance, percepetion, knowledge etc.). 
+
+> 8 September, Chapel, Buas <br>
+Student conference: AI Applied to Buas Domains. <br>
+
+
+
+| Time  | Speaker | Topic |
+| ------------- | ------------- |------------- |
+| 09:00  | | Walk-in|
+| 09:20  | Frank Peters | Kick-off|
+| 09:30  | Sergey Patsko | Designing Business cases for AI|
+| 10:30  |Joost de Kruif| The use of data in mobility |
+| 11:30  || Coffee Break |
+| 12:00  |Bert Smit| Data and AI in Hotel & Facility Management |
+| 13:00  || Lunch Break|
+| 14:00  |Carlos Santos| Virtual Humans & AI |
+| 15:30  |Marnix van Gisbergen| How AI changes the media landscape|
+| 16:00  || Closing|
+
+Use this week to perform a literature review and design hypotheses which you will then put
 to the test in the upcoming weeks. Further, as your final deliverable includes a technical report, 
 please ensure that you learn the fundamentals of scientific writing using Latex.
 
@@ -79,11 +98,10 @@ The knowledge modules linked to this phase are:<br>
 - [ ] [Writing in the Sciences: Stanford](https://www.coursera.org/learn/sciwrite){:target="_blank"}
 - [ ] [Writing in Latex: A Primer](https://www.overleaf.com/learn/latex/Tutorials){:target="_blank"}
 
-
+You are expected to start drafting a research proposal individually by the end of Week 1.
 
 ### Week 2-4
-Use these weeks to design your study, gather your quantitative and qualitative data, and ensure that you
-have a strategy for data management.
+Use week 2s to design your study and submit your research proposal. Once your proposal is approved, as a team, gather your quantitative and qualitative data, and ensure that you have a strategy for data management.
 
 The knowledge modules linked to this phase are:
 
@@ -109,7 +127,7 @@ think about AI.
 
 ## Project Deliverables
 
-Your final (<mark>group</mark>) deliverable is a Data Management documentation which contains:
+Your final (<mark>group</mark>) deliverable is a Data Management plan which contains:
 - [ ] description of the data collection process (which tools/instruments are used).
 - [ ] description of the data: what is the format (file-type) of the data.
 - [ ] a codebook describing variables.
@@ -118,7 +136,8 @@ Your final (<mark>group</mark>) deliverable is a Data Management documentation w
 
 
 Your final (<mark>individual</mark>) deliverables are:
-- [ ] scientific report (5000 words) documenting your findings (APA style, Latex formatted).
+- [ ] a research proposal detailing your research plan (1000 words) documenting your findings (APA style, Latex formatted).
+- [ ] scientific report (5000 words) documenting your complete research cycle (introduction, methods, results, discussion; APA style, Latex formatted).
 - [ ] conference poster and/or conference presentation
 
 > The best conference poster will be invited to present their findings via a presentation.

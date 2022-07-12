@@ -102,7 +102,7 @@ The knowledge modules linked to this phase are:<br>
 You are expected to start drafting a research proposal individually by the end of Week 1.
 
 ### Week 2-4
-Use week 2s to design your study and submit your research proposal. Once your proposal is approved, as a team, gather your quantitative and qualitative data, and ensure that you have a strategy for data management.
+Use week 2 to design your study and submit your research proposal. Once your proposal is approved, as a team, gather your quantitative and qualitative data in week 3 and 4, ensuring that you have a strategy for data management.
 
 The knowledge modules linked to this phase are:
 

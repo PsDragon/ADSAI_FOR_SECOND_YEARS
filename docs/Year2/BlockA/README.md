@@ -77,20 +77,22 @@ Student conference: AI Applied to Buas Domains. <br>
 
 | Time  | Speaker | Topic |
 | ------------- | ------------- |------------- |
-| 09:00  | | Walk-in|
+| 09:00  |------------------- | Walk-in|
 | 09:20  | Frank Peters | Kick-off|
 | 09:30  | Sergey Patsko | Designing Business cases for AI|
 | 10:30  |Joost de Kruif| The use of data in mobility |
-| 11:30  || Coffee Break |
+| 11:30  |-------------------| Coffee Break |
 | 12:00  |Bert Smit| Data and AI in Hotel & Facility Management |
-| 13:00  || Lunch Break|
+| 13:00  |-------------------| Lunch Break|
 | 14:00  |Carlos Santos| Virtual Humans & AI |
 | 15:30  |Marnix van Gisbergen| How AI changes the media landscape|
-| 16:00  || Closing|
+| 16:00  |-------------------| Closing|
 
 Use this week to perform a literature review and design hypotheses which you will then put
 to the test in the upcoming weeks. Further, as your final deliverable includes a technical report, 
-please ensure that you learn the fundamentals of scientific writing using Latex.
+please ensure that you learn the fundamentals of scientific writing using Latex. 
+
+> Please ensure that you have also reviewed the assessement rubrik, and contact your lecturers in case of any queries.
 
 The knowledge modules linked to this phase are:<br>
 - [ ] [Foundations of Quantitative Research Design](https://www.linkedin.com/learning/academic-research-foundations-quantitative/welcome?autoplay=true&u=36359204){:target="_blank"} <br>
@@ -120,10 +122,10 @@ In this week, you are expected to report and present your project findings.
 ## Project Requirements
 
 Your project should:
-- [ ] use a valid and reliable scale to measure how staff and students
-think about AI.
-- [ ] consist of quantitative as well as qualitative data analysis component.
-- [ ] adhere to the [Buas Data Management Protocol](https://edubuas.sharepoint.com/sites/researchdevelopment/SitePages/Datamanagement.aspx){:target="_blank"}, in particular ensuring that your data is F.A.I.R.
+- [ ] use a valid and reliable instrument to measure how staff and students
+think about AI, in particular their attitudes, acceptance, and perceived impact of AI.
+- [ ] consist of quantitative as well as qualitative design component.
+- [ ] adhere to the [Buas Data Management Protocol](https://edubuas.sharepoint.com/sites/researchdevelopment/SitePages/Datamanagement.aspx){:target="_blank"}.
 
 ## Project Deliverables
 

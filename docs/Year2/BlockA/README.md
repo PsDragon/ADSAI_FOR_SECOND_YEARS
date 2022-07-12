@@ -95,8 +95,7 @@ please ensure that you learn the fundamentals of scientific writing using Latex.
 > Please ensure that you have also reviewed the assessement rubrik, and contact your lecturers in case of any queries.
 
 The knowledge modules linked to this phase are:<br>
-- [ ] [Foundations of Quantitative Research Design](https://www.linkedin.com/learning/academic-research-foundations-quantitative/welcome?autoplay=true&u=36359204){:target="_blank"} <br>
-- [ ] [Foundations of Qualitative Research Design](https://www.linkedin.com/learning/market-research-qualitative/the-power-of-qualitative-research?autoplay=true&u=36359204){:target="_blank"}
+
 - [ ] [Writing in the Sciences: Stanford](https://www.coursera.org/learn/sciwrite){:target="_blank"}
 - [ ] [Writing in Latex: A Primer](https://www.overleaf.com/learn/latex/Tutorials){:target="_blank"}
 
@@ -106,6 +105,9 @@ You are expected to start drafting a research proposal individually by the end o
 Use week 2s to design your study and submit your research proposal. Once your proposal is approved, as a team, gather your quantitative and qualitative data, and ensure that you have a strategy for data management.
 
 The knowledge modules linked to this phase are:
+
+- [ ] [Foundations of Quantitative Research Design](https://www.linkedin.com/learning/academic-research-foundations-quantitative/welcome?autoplay=true&u=36359204){:target="_blank"} <br>
+- [ ] [Foundations of Qualitative Research Design](https://www.linkedin.com/learning/market-research-qualitative/the-power-of-qualitative-research?autoplay=true&u=36359204){:target="_blank"}
 
 ### Week 5-6
 Use these weeks to explore and analyse your data using statistical methods.

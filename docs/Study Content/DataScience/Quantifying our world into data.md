@@ -118,7 +118,7 @@ Look at the [creative brief](https://adsai.buas.nl/Year1/BlockA/) at point 2 for
 Businesses need data analysis more than ever. In this learning path, you will learn about the life and journey of a data analyst, the skills, tasks, and processes they go through in order to tell a story with data so trusted business decisions can be made. You will learn how the suite of Power BI tools and services are used by a data analyst to tell a compelling story through reports and dashboards, and the need for true BI in the enterprise.
 
 ### Installing
-Let's start by installing the latest version of Power BI! [Click here!](https://powerbi.microsoft.com/en-gb/desktop/)
+Let's start by installing the latest version of Power BI! [Click here!](https://powerbi.microsoft.com/en-gb/desktop/) Here's an [example of a dashboard](https://community.powerbi.com/t5/Data-Stories-Gallery/Analyzing-the-UN-s-Sustainable-Development-Goals-at-Gartner-Data/m-p/2527235) made by a pro within our topic!
 
 ### Logging in
 To log into [datacamp](www.datacamp.com), use your BUas credentials (e.g. 123456@buas.nl, PasswordExample_007).

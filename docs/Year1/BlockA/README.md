@@ -90,7 +90,7 @@ In DataLab 2, Week 7, you are expected to provide a live demo of your dashboard 
 -  A Power BI dashboard in .pbix-format
 -  A 7-minute live demo of the Power BI dashboard
 
-__7. __Criteria__
+__7. Criteria__
 Please refer to [student template dashboard](https://github.com/BredaUniversityADSAI/ADS-AI/blob/5bf562ad056760e036d9c6d9170de2415dd4b0f6/docs/Study%20Content/DataScience/assets/Templates/DS1_Dashboard_StudentTemplate.pbix) and the Assessment Rubric in Microsoft Teams for more detailed information on grading criteria.
 
 ### Challenges 
@@ -211,18 +211,18 @@ You are encouraged to get the best out of yourself. Therefore, within the ADS&AI
 ## Week 7: Introduction to Data Science
 
 ### Monday
-- [Explanatory Vs Predictive Modelling](https://adsai.buas.nl/Study%20Content/DataScience/Explanatory%20Versus%20Predictive%20Modelling.html)
+- [Explanatory Vs Predictive Modelling + more Reporting!](https://adsai.buas.nl/Study%20Content/DataScience/Explanatory%20Versus%20Predictive%20Modelling.html)
 
 
 ### Tuesday
-- [Block A recap](https://adsai.buas.nl/Study%20Content/DataScience/BlockA_Recap.html)
+- [User-Experience Design in Power BI](https://adsai.buas.nl/Study%20Content/DataScience/User-Experience%20Design%20in%20Power%20BI.html)
 
 
 ### Wednesday
 - [Datalab 06: CRISP-DM](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_06_CrispDM.html)
 
 ### Thursday
-Submit your dashboards today before 17:00 CEST.
+- [AdvancedPowerBI](https://adsai.buas.nl/Study%20Content/DataScience/BlockA_Recap.html)
 
 ### Friday
 - [Datalab 07: Dashboard Presentation Day](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_07_DashboardPresentationDay.html)

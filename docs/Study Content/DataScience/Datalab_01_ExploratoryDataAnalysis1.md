@@ -42,7 +42,7 @@ Let's start by doing a workshop, specifically the [Data Preparation course](http
 ## 2) Exploratory Data Analysis: Data Preparation on SDG Indicators dataset - Project Brief part
 During the workshop we have learned all EDA techniques regarding data preparation we could need to address your problem statement. Which means that now we can continue working on the project brief.
 
-**Step 1.** Open your Power BI Dashboard Template and inspect the EDA Methodology section. Then, save the dashboard to your "DataScience1_Dashboard" GitHub repository and be sure to save and upload your file regularly. Now look at the feedback you have received on your dashboard by navigating to your GitHub repository and clicking on the 'Pull requests' header. There should be a feedback thread over there.
+**Step 1.** Open your Power BI Dashboard and inspect the EDA Methodology section. Then, save the dashboard to your "DataScience1_Dashboard" GitHub repository and be sure to save and upload your file regularly. Now look at the feedback you have received on your dashboard by navigating to your GitHub repository and clicking on the 'Pull requests' header. There should be a feedback thread over there.
 
 **Step 2.** Get your notes from the last data lab and read the Introduction you wrote for the dashboard. Then, go to the [SDG website](https://sdg-tracker.org/) and make **a selection of the variables** you think are interesting in the context of the problem statement.
 

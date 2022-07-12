@@ -145,5 +145,5 @@ Your final (<mark>individual</mark>) deliverables are:
 > The best conference poster will be invited to present their findings via a presentation.
 
 ## Resources
-[1] https://governanceai.github.io/US-Public-Opinion-Report-Jan-2019/executive-summary.html <br>
+[1] (https://governanceai.github.io/US-Public-Opinion-Report-Jan-2019/executive-summary.htm) <br>
 [2] https://openstax.org/books/introductory-statistics/pages/1-introduction 

@@ -19,11 +19,33 @@ Each of the seven/eight weeks has a fixed structure: on Monday, Wednesday and Th
 
 ### DataLab Attendance & Preparation
 
-Regular attendance and punctuality in every DataLab is required of each student. A student who has incurred absences of more than two DataLab sessions in Block A shall not be given credit for the professional ILO 1.3.
+Regular attendance and punctuality in every DataLab is required of each student (by default from 9:00 to 17:00). A student who has incurred absences of more than two DataLab sessions without a valid reason throughout the block shall not be given credit, which means you need to retake the entire block next year; alternatively you can object via the board of examiners to your automatic grading suspension.
 
-A student is considered late when they are not yet present during the Standup session, and until the fifteenth minute from the start of DataLab. Three instances of lateness are counted as one absence.
+A student is considered late when they are not yet present during the Standup session, and until the fifteenth minute from the start of DataLab (9:15) Two instances of lateness are counted as one absence.
 
-In case of absence, the student needs to fill in the 'Class Attendance' form, and subsequently proposes and completes activities that are acceptable alternatives to the in-class learning activities. For more details, contact your mentor.
+In case of absence, the student needs to fill in the 'Class Absence' form in a timely manner, and subsequently proposes and completes activities that are acceptable alternatives to the in-class learning activities. For more details, contact your mentor.
+
+*__Good__* excuses to miss DataLab:
+
+- Personal illness
+- Family emergency
+- Death of a loved one
+- Medical appointment
+- Public transportation issue
+- Car (or Other) Accident
+- Etc.
+
+*__Bad__* excuses to miss DataLab:
+
+- Oversleeping
+- Being hangover
+- Having no babysitter for your rabbit, dog, cat, etc.
+- Boyband breakups and/or related drama
+- A birthday party for a four-legged pal
+- Having no clean underwear to put on
+- Going to the beach because a doctor said that you needed more vitamin D
+- The universe telling you to take a day off
+- Etc.
 
 The DataLab preparation exercises listed on GitHub Classrooms should be uploaded to your personal GitHub page before the start of the corresponding DataLab session.
 

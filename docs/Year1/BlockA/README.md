@@ -13,7 +13,7 @@ Each of the seven/eight weeks has a fixed structure: on Monday, Wednesday and Th
 | Nitin Bhushan (Lecturer), PhD.  <img src="./NitinProfile.jpg" alt="Nitin Bhushan profile picture" width="200"/>  |  Mon, Tue, Wed, Thu, Fri  | Group 3, Year 1 | bhushan.n@buas.nl | Data Science and AI  |
 | Zhanna Kozlova (Lecturer), MA. <img src="./ZhannaProfile.jpg" alt="Zhanna Kozlova profile picture" width="200"/>  |   |  Group 1, Year 1 | kozlova.z@buas.nl  |   |
 | Alican Noyan (Lecturer), PhD. |   | Group 4, Year 1  |  noyan.a@buas.nl |  |
-| Dean van Aswegen (Lecturer), MSc. |   |  Group 5, Year 1 | aswegen.d@buas.nl |   |
+| Dean van Aswegen (Lecturer), MSc. <img src="./DeanProfile.jpg" alt="Dean van Aswegen profile picture" width="200"/>|   |  Group 5, Year 1 | aswegen.d@buas.nl |   |
 | Gilmara Merrill (Lecturer), MA. |   |  Group 6, Year 1 |  |   |
 | Frank Peters (Program manager), PhD. | Mon, Tue, Wed, Thu |  NA | peters.f@buas.nl |   |
 

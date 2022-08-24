@@ -8,7 +8,7 @@ In today's DataLab session, we will focus on strengthening our presentation skil
 
 > You can be the best data scientist — if you can't present your findings in a meaningful, engaging and memorable way — you won't make any impact. Simple as that. I mean, you don't have to be the next Steve Jobs… but you have to be a good enough presenter to let everyone in management understand the key takeaways of your data projects ([Source](https://data36.com/soft-skills-data-scientist/)).
 
-To prepare you for the informative speech, i.e., the presentation 'AI in Science Fiction', we created a couple of in-class exercises. Because, we all know:
+To prepare you for the informative speech, i.e., the presentation 'AI in Science Fiction', we created a couple of in-class exercises and a workshop. Because, we all know:
 
 <img src="./images/PracticeMakesPerfect.jpg" alt="Practice makes perfect meme" width="400"/>
 
@@ -81,13 +81,24 @@ Want to go beyond the traditional slide-based presentation (e.g., PowerPoint)? M
 Note: Please, inform your mentor when you finished preparing the presentation, they will arrange a group (maximum of 5 students) for you, so you can proceed with the next step, - i.e., delivering your presentation, and providing feedback to your peers.
 </div>
 
-### 2.2 Delivering a presentation
+### 2.2 Delivering a presentation 
+
+After the lunch break, you will participate in a workshop by Bert Heesakkers, where you, among others, will deliver your speech to a small group of peers. 
 
 <img src="./images/PowerpointMeme.jpg" alt="PowerPoint meme" width="400"/>
 
 *Figure 2. Please, do not do this...*
 
-__2.2a__ Deliver your presentation to a small group of peers, and provide feedback to each group member.
+__Schedule:__
+
+| A. Mentor Group |  B.Timeslot |  
+|---|---|
+| 1.  Bram Heijligers & Zhanna Kozlova  | 12:00 - 12:45 |     
+| 2.  Irene van Blerck |  13:00 - 13:45 |        
+| 3.  Alican Noyan |  14:00 - 14:45 |     
+| 4.  Dean van Aswegen  | 15:00 - 15:45  |     
+| 5.  Gilmara Merrill | 16:00 -16:45  |         
+
 
 ***
 

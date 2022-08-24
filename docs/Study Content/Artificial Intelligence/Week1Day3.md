@@ -33,7 +33,7 @@ __1b__ Answer the following questions:
 
 ## 2) Creative Brief: Minority Report (1)
 
-During the morning, you will be given the opportunity to watch Minority Report in the DataLab:
+During the morning, you will be given the opportunity to watch Minority Report in Lecture Hall Fe1.018:
 
 - 9:30 - 11:30
 
@@ -52,7 +52,7 @@ If you are unable to attend the movie screening, [Minority Report]( https://www.
 
 *Video 1. Roles in Data Science Teams by AltexSoft.*
 
-Each Tuesday, you will have the chance to familiarise yourself with the different roles that constitute a professional data team. This week focuses on the data scientist.
+Each Wednesday, you will have the chance to familiarise yourself with the different roles that constitute a professional data team. This week focuses on the data scientist. __From 15:00-16:00 there will be a guest lecture by Willem van der Geest (Fe1.018)__. Afterwards, there is time to for asking questions.  
 
 ### 3.1 Data scientist
 
@@ -61,6 +61,8 @@ __3.1a__ Find out what a typical work day looks like for a data scientist (e.g.,
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Note: The Bronze Challenge for Block A is creating an infographic that provides an overview of the different roles that constitute a professional data team.
 </div>
+
+__3.1b__ Come up with at least one question for the guest lecturer Willem van der Geest concerning his work as a data scientist. 
 
 ***
 

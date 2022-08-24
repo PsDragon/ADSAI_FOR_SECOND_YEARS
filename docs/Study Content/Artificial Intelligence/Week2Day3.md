@@ -10,9 +10,9 @@ In today's DataLab session, we will perform an experiment called the Turing Test
 
 *Video 1. The Turing test: Can a computer pass for a human? - Alex Gendler.*
 
-So, our goal for today is to see if there are any freely available chatbots that can pass the Turing Test :dizzy_face: 
+So, our goal for today is to see if there are any freely available chatbots that can pass the Turing Test :dizzy_face: Furthermore,  we will have a guest lecture by Lars van Geet, regarding his work as an analytics translator. 
 
-After the workshop you have time to work on the independent study material or creative brief, and/or ask the lecturers for feedback.
+Between the workshop and the guest lecture you have time to work on the independent study material or creative brief, and/or ask the lecturers for feedback. 
 
 ## Learning objectives
 
@@ -20,6 +20,7 @@ After the workshop you have time to work on the independent study material or cr
 2. Identify, and describe the characteristics of 'human' intelligence
 3. Devise a strategy to fool the 'judges'/interrogators in the Turing Test
 4. Conduct the Turing Test with a group of peers
+5. Describe the main tasks, skills, and responsibilities of an analytics translator
 
 ## Questions or issues?
 
@@ -102,11 +103,14 @@ In-class experiment, instructions by mentor.
 
 ## 3) A Day in a life of ... 
 
-Each Friday, you will have the chance to familiarise yourself with the different roles that constitute a professional data team. This week focuses on the data engineer.
+Each Wednesday, you will have the chance to familiarise yourself with the different roles that constitute a professional data team. This week focuses on the analytics translator. __From 15:00-16:00 there will be a guest lecture by Lars van Geet (Fe1.018)__. Afterwards, there is time to for asking questions.  
 
-### 3.1 Data/ML engineer
+### 3.1 Analytics translator
 
-__3.1a__ Find out what a typical work day looks like for a data/ML engineer (e.g., daily tasks, and related skills, etc.).
+__3.1a__ Find out what a typical work day looks like for a analytics translator (e.g., daily tasks, and related skills, etc.).
+
+__3.1b__ Come up with at least one question for the guest lecturer Lars van Geet concerning his work as an analytics translator. 
+
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Note: The Bronze Challenge for Block A is creating an infographic that provides an overview of the different roles that constitute a professional data team.

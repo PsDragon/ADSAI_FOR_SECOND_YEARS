@@ -89,7 +89,7 @@ __1.2e__ Describe the procedure, and main objective of Turing's 'Imitation Game'
 
 Let us start creating a markdown file that we will use to store our answers to the DataLab preparation exercises. 
 
-__2a__ Create a markdown file (i.e., text file with extension '.md'), and save it with the name [**YourName_blockA_DataLabPreparation**]. 
+__2a__ Create a markdown file (i.e., text file with extension '.md'), and save it with the name [**YourName_BlockA_DataLabPreparation**]. 
 
 For instructions on how to create a markdown file in VSCode, see the video below:
 
@@ -106,7 +106,7 @@ For instructions on how to create a markdown file in VSCode, see the video below
 1. A study skills book (e.g., presenting, writing, etc.) from the Library Collection
 2. An AI-related eBook from the Library Collection.
 
-Open your [**YourName_blockA_DataLabPreparation**] markdown file, and write down the title, author(s), accession number and publication year. Commit the changes, and push the markdown file to your personal BUas repository, which is listed [here](ADD LINK). 
+Open your [**YourName_BlockA_DataLabPreparation**] markdown file, and write down the title, author(s), accession number and publication year. Commit the changes, and push the markdown file to your personal BUas repository, which is listed [here](ADD LINK). 
 
 - [ ] Fill in your Work Log.
 - [ ] Set a goal for Week 1, and note it down in your Learning Log.  

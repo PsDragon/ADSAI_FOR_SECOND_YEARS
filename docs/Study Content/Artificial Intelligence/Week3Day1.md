@@ -80,7 +80,7 @@ __1c__ Let us test our newly gained knowledge by taking a short quiz!
 
 <iframe width="1280px" height="960px" src="https://forms.office.com/r/AbmyH44uYE?embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
-__1d__ Visualize the Taxonomy of AI by creating an infographic. You can use Google's [Jamboard](https://jamboard.google.com/) or a simple piece of paper for your infographic. Export/import your drawing to PNG, and upload it to your GitHub repository.
+__1d__ Visualize the Taxonomy of AI (e.g., domains, subdomains) by creating an infographic. You can use Google's [Jamboard](https://jamboard.google.com/) or a simple piece of paper for your infographic. Export/import your drawing to PNG, and upload it to your GitHub repository.
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Note: When you are finished with the independent study material, and still have some time left, try to apply your newly gained knowledge to the Creative Brief.

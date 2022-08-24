@@ -23,7 +23,6 @@ These exercises will, among others, help you structure your speech and reduce so
 3. List, and describe techniques to make informative speeches interesting, coherent, and memorable
 4. Write an outline for an informative speech
 5. Confidently deliver a informative speech to peers, and teaching staff members
-6. Describe the main tasks, skills, and responsibilities of a data scientist
 
 ## Questions or issues?
 

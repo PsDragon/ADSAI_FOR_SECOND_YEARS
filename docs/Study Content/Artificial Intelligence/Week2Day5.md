@@ -13,7 +13,6 @@ To prepare you for the informative speech, i.e., the presentation 'AI in Science
 
 1. List, and describe the feedback types, and models presented in the article How to give and receive feedback effectively by Hardavell et al., (2017)
 2. Provide constructive feedback (to a peer) by deploying the hamburger/sandwich, and Pendleton feedback model 
-3. Describe the main tasks, skills, and responsibilities of a data/ML engineer
 
 ## Questions or issues?
 
@@ -85,6 +84,6 @@ __2h__ In the bi-weekly formative feedback sessions between student and mentor, 
 
 ## 2) Creative Brief: Minority Report (5)
 
-The goal of this DataLab is to get familiar with various feedback methods. During the 'AI in Science Fiction' presentation you will be asked to provide constructive feedback to your peers. By the end of the day, try to list at least one element, related to the presentation, you want to receive feedback on. Furthermore, read through the peer feedback [template]('./documents/AnonymousPeerReviewForm.pdf'), which we will use during the 'AI in Science Fiction' presentation. 
+The goal of this DataLab is to get familiar with various feedback methods. During the 'AI in Science Fiction' presentation you will be asked to provide constructive feedback to your peers. By the end of the day, try to list at least one element, related to the presentation, you want to receive feedback on. Furthermore, read through the peer feedback <a href="./documents/AnonymousPeerReviewForm.pdf">template</a>, which we will use during the 'AI in Science Fiction' presentation. 
 
 ***

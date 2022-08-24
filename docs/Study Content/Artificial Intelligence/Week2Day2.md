@@ -39,7 +39,7 @@ __1b__ Watch the video on data information, and knowledge by Charlie Broomfield.
 
 Now, let us take a closer look at the DIKW pyramid, and complete an exercise to deepen our understanding of the aforementioned concepts.
 
-<img src="./images/DIKW.jpg" alt="Doctors emergency room" width="600"/>
+<img src="./images/DIKW.jpg" alt="DIKW" width="600"/>
 
 *Figure 1. DIKW pyramid.*
 
@@ -78,7 +78,9 @@ However, you cannot successfully perform a predictive analysis before you have c
 
 Let us say you work as an emergency room doctor in a hospital, and you, on average, treat ten patients daily. Suddenly, the number of patients admitted to the emergency room rises starkly.
 
-*__Descriptive analytics__* would help you explain what happened by effectively visualizing comprehensive, accurate, and real-time data. Tools: Power BI, Tableau, Excel, SQL, etc.
+*__Descriptive analytics__* would help you explain what happened by effectively visualizing comprehensive, accurate, and real-time data. 
+
+__Tools: Power BI, Tableau, Excel, SQL, etc.__
 
 __2a__ Watch the video What is Descriptive Analytics? - Data Science Wednesday by Decisive Data.
 
@@ -132,7 +134,7 @@ Block B, will be all about predictive analytics. In particular, you will learn t
 
 ## 3) DataLab preparation (Week 2, DataLab 1)
 
-- [ ] Search the Internet, and find out what the Loebner Prize is all about. Open your [**YourName_blockA_DataLabPreparation**] markdown file, and list at least three facts. Elaborate on your findings. Commit the changes, and push the markdown file to your personal BUas repository, which is listed [here](ADD LINK).
+- [ ] Search the Internet, and find out what the Loebner Prize is all about. Open your [**YourName_BlockA_DataLabPreparation**] markdown file, and list at least three facts. Elaborate on your findings. Commit the changes, and push the markdown file to your personal BUas repository, which is listed [here](ADD LINK).
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Note: When you are finished with the independent study material, and still have some time left, try to apply your newly gained knowledge to the Creative Brief.

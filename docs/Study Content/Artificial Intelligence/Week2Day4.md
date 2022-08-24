@@ -4,7 +4,7 @@ sort: 9
 
 ## Taxonomy of AI (2)
 
-In today's independent study material, will look at the different predictive modelling approaches, where we will focus on the concept of 'learning'. 
+In today's independent study material, we will look at the different predictive modelling approaches, where we will focus on the concept of 'learning'. 
 
 ## Learning objectives
 
@@ -46,7 +46,7 @@ Let us use the following patient record as input for our analytical model:
 &nbsp;&nbsp;&nbsp;Name: Hans Janssen <br>
 &nbsp;&nbsp;&nbsp;Age: 29 <br>
 &nbsp;&nbsp;&nbsp;Exercise: 0 hours per week <br>
-&nbsp;&nbsp;&nbsp;Food: every day a bowl of Brinta, and at least five times per week junk food <br>
+&nbsp;&nbsp;&nbsp;Food: every day a bowl of [Brinta](https://ifunny.co/picture/breakfast-in-the-netherlands-starterpack-peanut-cheese-not-just-for-b46QlAY89?s=cl), and at least five times per week junk food <br>
 &nbsp;&nbsp;&nbsp;Work: at last 60 hours per week
 
 <br clear="left"/>

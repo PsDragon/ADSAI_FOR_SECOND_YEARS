@@ -92,7 +92,7 @@ __Group 2 (Mentor: Irene van Blerck)__
 | 19.   |   |   |      
 | 20.  |   |   |      
 
-__Group 3 (Mentor: Nitin Bhushan)__
+__Group 3 (Mentor: Alican Noyan)__
 
 | A. Student |  B.Timeslot |  
 |---|---|---|
@@ -117,7 +117,7 @@ __Group 3 (Mentor: Nitin Bhushan)__
 | 19.   |   |   |      
 | 20.  |   |   |  
 
-__Group 4 (Mentor: Alican Noyan)__
+__Group 4 (Mentor: Dean van Aswegen)__
 
 | A. Student |  B.Timeslot |  
 |---|---|---|
@@ -142,32 +142,7 @@ __Group 4 (Mentor: Alican Noyan)__
 | 19.   |   |   |      
 | 20.  |   |    |  
 
-__Group 5 (Mentor: Dean van Aswegen)__
-
-| A. Student |  B.Timeslot |  
-|---|---|---|
-| 1.    |   |   |   
-| 2.   |   |   |      
-| 3.  |   |   |   
-| 4.    |   |   |   
-| 5.   |   |   |      
-| 6.  |   |   | 
-| 7.    |   |   |   
-| 8.   |   |   |      
-| 9.  |   |   |    
-| 10.    |   |   |   
-| 11.   |   |   |      
-| 12.  |   |   |   
-| 13.    |   |   |   
-| 14.   |   |   |      
-| 15.  |   |   | 
-| 16.    |   |   |   
-| 17.   |   |   |      
-| 18.  |   |   | 
-| 19.   |   |   |      
-| 20.  |   |   |  
-
-__Group 6 (Mentor: Gilmara Merrill)__
+__Group 5 (Mentor: Gilmara Merrill)__
 
 | A. Student |  B.Timeslot |  
 |---|---|---|

@@ -4,7 +4,7 @@ sort: 3
 
 ## __DataLab 1: Minority Report (1) & Information literacy__
 
-In today's DataLab session, we will watch the movie Minority Report and subsequently start analyzing it for the assignment 'AI in Science Fiction' (i.e., presentation). Furthermore, we have prepared some material for you on the topic of information literacy (e.g., identifying useful information sources, choosing an appropriate citation style guide, etc.).
+In today's DataLab session, we will watch the movie Minority Report and subsequently start analyzing it for the assignment 'AI in Science Fiction' (i.e., presentation). Furthermore, we have prepared some material for you on the topic of information literacy (e.g., identifying useful information sources, choosing an appropriate citation style guide, etc.). Lastly, we will have a guest lecture by Willem van der Geest, regarding his work as a data scientist. 
 
 ## Learning objectives
 
@@ -12,6 +12,7 @@ In today's DataLab session, we will watch the movie Minority Report and subseque
 2. Evaluate the feasibility of the AI topic by critically assessing its possible application(s) within a real-life (business) setting
 3. Acquire, evaluate, and use information from sources to meet the information needs for the Minority Report presentation assignment
 4. Effectively read a research paper by applying Keshav's three-pass method
+5. Describe the main tasks, skills, and responsibilities of a data scientist
 
 ## Questions or issues?
 

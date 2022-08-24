@@ -32,7 +32,7 @@ In case of absence, the student needs to fill in the 'Class Absence' form in a t
 - Death of a loved one
 - Medical appointment
 - Public transportation issue
-- Car (or Other) Accident
+- Car (or Other) accident
 - Etc.
 
 *__Bad__* excuses to miss DataLab:

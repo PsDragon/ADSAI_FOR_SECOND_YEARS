@@ -94,7 +94,7 @@ __3.2g__ After completing the readings and exercises of this section, would you 
 
 ***
 
- ## 3) GitHub Desktop: Introduction to version control (1)
+## 3) GitHub Desktop: Introduction to version control (1)
 
 Today, you will be introduced to the basics of version control, understand why it is useful and implement basic version control for a plain text document using GitHub Desktop.
 
@@ -158,7 +158,7 @@ Dropbox, Google Drive and other services offer some form of version control in t
 
 ### 3.3 Getting started
 
-GitHub Desktop will allow us to easily start using version control. GitHub Desktop offers a Graphical User Interface (GUI) to use Git. A GUI allows users to interact with a program using a visual interface rather than relying on text commands. Though there are some potential advantages to using the command line version of Git in the long run, using a GUI can reduce the learning curve of using version control and Git. If you decide you are interested in using the command line you can find more resources at the end of the lesson.
+GitHub Desktop will allow us to easily start using version control. GitHub Desktop offers a Graphical User Interface (GUI) to use Git. A GUI allows users to interact with a program using a visual interface rather than relying on text commands. Though there are some potential advantages to using the command line version of Git in the long run, using a GUI can reduce the learning curve of using version control and Git. 
 
 #### 3.3.1 A note on terminology
 
@@ -188,7 +188,7 @@ Although there are many benefits to writing our documents in plain text files we
 
 Markdown is a way of including formatting into a plain text document. You may have come across HTML or LaTeX in the past. These markup languages also express information about the formatting and structure of plain text. Markdown, however, tries to minimize the syntax. This makes it easier to focus on the content of writing without the markup getting in the way---hence the name 'markdown.'
 
-The Markdown syntax will not be covered in this lesson in order to keep the length short. However, it makes sense to explore Markdown once you have gone through this lesson and are comfortable with the basics of version control. GitHub integrates its own version of Markdown syntax. If you add Markdown syntax to documents you version control with GitHub Desktop these will be rendered on the GitHub website. Arguably the best way to learn Markdown is to begin using it. The [Getting Started with Markdown](/lessons/getting-started-with-markdown) lesson by Sarah Simpkin provides an overview of Markdown.
+GitHub integrates its own version of Markdown syntax. If you add Markdown syntax to documents you version control with GitHub Desktop these will be rendered on the GitHub website. Arguably the best way to learn Markdown is to begin using it. 
 
 #### 3.4.1 Text editors
 
@@ -202,7 +202,7 @@ We can begin with a very simple document.
 Hello world!
 ```
 
-Include the above text or something similar in a new plain text document. Once you have done this save the file with a file extension '.md'. This is the most popular file extension used for markdown files though others are sometimes used. Make sure that it is saved in plain text format in a new folder. Sometimes your text editor will default to Rich Text Format. You should be able to change this in the preferences or options of your chosen text editor. Make sure to name the file and folder with something meaningful. This may seem slightly confusing. The '.md' file extension lets GitHub (and other software) know that we are using markdown syntax. However, we still want to ensure that the encoding of the file is in 'plain text'. Once you are setup with a text editor you like then the encoding of documents will not usually be an issue.
+You can include the above text or something similar in a new plain text document. Once you have done this you can save the file with a file extension '.md'. This is the most popular file extension used for markdown files though others are sometimes used. Make sure that it is saved in plain text format in a new folder. Sometimes your text editor will default to Rich Text Format. You should be able to change this in the preferences or options of your chosen text editor. Make sure to name the file and folder with something meaningful. This may seem slightly confusing. The '.md' file extension lets GitHub (and other software) know that we are using markdown syntax. However, we still want to ensure that the encoding of the file is in 'plain text'. Once you are setup with a text editor you like then the encoding of documents will not usually be an issue.
 
 To most effectively use Git to version control it is important to organize projects in folders. Git tracks the contents of a folder by creating a **repository** in the folder. The repository is made up of all the files in the folder that are 'watched' for changes by Git. It is best to create one repository for each major project you are working on, i.e., one repository for an article, one for a book, and one for some code you are developing. These folders are like the normal folders you would have on your computer for different projects, though the files in the folders have to be deliberately added to the repository in order to be version controlled.
 
@@ -224,18 +224,18 @@ To clone a repository, open GitHub.com, and navigate to the main page of the rep
 
 Once we have added our folder or existing repository from GitHub.com we will be able to see it in a list of repositories on the left column.
 
-If we choose the repository we just added we will see the files contained in that repository. From this menu we can choose which files we want to version control. (There might be times when we are working on projects in which files are produced which we don't need or want to version control.) On the right we will see the current document.
+If we choose the repository we just added we will see the files contained in that repository. From this menu we can choose which files we want to version control. (There might be times when we are working on projects in which files are produced which we do not need or want to version control.) On the right we will see the current document.
 
 If we show hidden folders in the folder, you will see that the folder contains an extra folder with the name '.git'. This folder is how GitHub desktop tracks changes we make within our version controlled folder whether these changes be adding new files or modifying existing ones.
 
-Let us go back to the document in our text editor and add something new.
+We can go back to the document in our text editor and add something new. For example:
 
 ```
 Hello world!
 a second line
 ```
 
-Save the changes to your file and go back to GitHub Desktop. You will see that these new lines of text appear. This lets us know that GitHub is able to see changes in your file but at the moment these changes have not been recorded in an official 'snapshot' of your repository.
+You can save the changes to your file and go back to GitHub Desktop. You will then see that these new lines of text appear. This lets us know that GitHub is able to see changes in your file but at the moment these changes have not been recorded in an official 'snapshot' of your repository.
 
 To do this we need to **commit** our changes.
 

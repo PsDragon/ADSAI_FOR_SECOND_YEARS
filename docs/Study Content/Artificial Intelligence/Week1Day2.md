@@ -70,7 +70,7 @@ __1.2c__ Read Wikipedia's summary of [Computing Machinery and Intelligence](http
 
 __1.2d__ Watch the video 'Turing Test: Can Machines Think?' by the highly popular podcast-making AI researcher Lex Fridman.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MGW_Qcqr9eQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="896" height="504" src="https://www.youtube.com/embed/MGW_Qcqr9eQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Video 3. 'Turing Test: Can Machines Think?' by Lex Fridman.*
 

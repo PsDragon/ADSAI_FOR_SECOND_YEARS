@@ -99,6 +99,10 @@ Tip: Try to come up with a set of possible weak points of the Turing Test
 
 In-class experiment, instructions by mentor.  
 
+__Material:__
+
+Lecturer instructions and questions & answers template can be found in Microsoft Teams.
+
 ***
 
 ## 3) A Day in a life of ... 

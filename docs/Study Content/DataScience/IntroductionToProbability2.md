@@ -3,7 +3,7 @@ sort: 11
 ---
 
 # Intro to Probability 2
-This page continues to build your foundational knowledge of probability theory. Yesterday, we introduced the foundational concepts, and today we will continue to put our new knowledge into practice by doing another case study. Finally, in the mock assessment, we'll do our first correlational analysis by hand!
+This page continues to build your foundational knowledge of probability theory. Yesterday, we introduced the foundational concepts, and today we will continue to put our new knowledge into practice by doing another case study. Finally, in the Datalab Preparation, we'll do our first correlational analysis by hand!
 
 Learning objectives:
 Enable you to understand and/or apply:
@@ -16,7 +16,7 @@ to a guided case study.
 
 Table of contents:
 1. Workshop: 3-4 hours
-3. Mock Assessment: 1-2 hours
+3. Datalab Preparation: 1-2 hours
 
 ## Questions or issues?
 
@@ -31,7 +31,7 @@ Now it's time for the [the workshop part](https://app.datacamp.com/learn/courses
 If you get stuck, first ask your peers and then us!
 
 
-## 1) Mock Assessment
+## 1) Datalab Preparation
 The variance, unlike the mean, is a measure of variability. Meaning, it captures the amount of [spread within a variable or data set](https://youtu.be/R4yfNi_8Kqw). Measures of variability are often reported alongside measures of central tendency. Meaning, the variance is typically taken with the mean or the median, as this helps form a greater picture of what the data set looks like. Below are the formulas for the variance:
 
 <figure>
@@ -71,7 +71,7 @@ Data set | Mean | SD | Sample Size |
 A | 715 | 55 | 1500 |
 B | 634 | 42 | 2300
 
-Photograph your calculations, name them "VarianceMockAssessment1" (if you have more photos, continue the count: e.g. 2,3,4) and upload them to your github repo.
+Photograph your calculations, name them "VarianceDatalabPreparation1" (if you have more photos, continue the count: e.g. 2,3,4) and upload them to your github repo.
 
 # 2) Time left? 
 Work on your dashboards!

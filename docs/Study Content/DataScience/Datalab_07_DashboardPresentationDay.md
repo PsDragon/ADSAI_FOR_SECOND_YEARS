@@ -2,7 +2,7 @@
 sort: 20
 ---
 
-# Datalab 05: SDG Dashboard Conference
+# Datalab 07: SDG Dashboard Conference
 
 Today we're doing a formative assessment of the dashboards by presenting them at a conference. We start at 9:00 in our Data Lab room **(Hn0.015).**, which is where the conference takes place. At 9:30 today, the conference is kicked-off by dr. Frank Peters himself, and you're expected to present your own dashboard. During the day we will rotate places every 1,5 hours.
 

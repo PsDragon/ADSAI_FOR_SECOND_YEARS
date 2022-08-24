@@ -16,7 +16,7 @@ Enable you to understand, manipulate and create:
 Table of contents:
 1. Introduction to concepts: 0.5 hours
 2. Workshop: 5-6 hours
-3. Mock-assessment: 0.5 - 1 hour(s)
+3. Datalab Preparation: 0.5 - 1 hour(s)
 
 ## Questions or issues?
 
@@ -35,11 +35,11 @@ A variable can contain numerous data types and a data type is necessary whenever
 ## 2) Workshop - Variables and Data Transformation in Power BI
 Now it's time for the workshop part of of this class to get acquainted with variables and data transformation in PowerBI. Click the links [Introduction to Power BI](https://www.datacamp.com/courses/introduction-to-power-bi) and [Introduction to DAX in Power BI](https://www.datacamp.com/courses/introduction-to-power-bi). Complete the both courses and upload the certificate to github, reference the certificate in your learning log for this week.
 
-## 3) Mock Assessment
+## 3) Datalab Preparation
 
-This mock assessment is about applying the concepts we learned today to a real-world situation. Today we're interested in your day, what did you have for lunch and breakfast for example? You can also come up with some food or drink items instead if, for example, you didn't eat anything yet. Sounds straightforward, right? So let's get started!
+This Datalab Preparation is about applying the concepts we learned today to a real-world situation. Today we're interested in your day, what did you have for lunch and breakfast for example? You can also come up with some food or drink items instead if, for example, you didn't eat anything yet. Sounds straightforward, right? So let's get started!
 
-Create an .pbix file called "VariablesMockAssessment" and follow these instructions:
+Create an .pbix file called "VariablesDatalabPreparation" and follow these instructions:
 
 1. Create a variable called 'lunch' with a text/string describing an item you had for lunch: food only.
 2. Delete the variable.
@@ -48,7 +48,7 @@ Create an .pbix file called "VariablesMockAssessment" and follow these instructi
 5. Create a table/matrix containing the food and drinks you had today.
 6. Add the times; as numerical values, when you ate or drank something.
 
-Save your mock assessment to your GitHub repository and refer to it in your learning log. In Datalab you and your classmates are going to look at one another's scripts and run it.
+Save your Datalab Preparation to your GitHub repository and refer to it in your learning log. In Datalab you and your classmates are going to look at one another's scripts and run it.
 
 
 

@@ -14,7 +14,7 @@ Enable you to:
 Please follow the links below to continue the class:
 1. Lecture: 3 hours (2* 1.5 hours)
 2. More learning on visualisations: Optional
-3. Mock-Assessment: 5 (on your own discretion)
+3. Datalab Preparation: 5 (on your own discretion) hours
 
 ## Questions or issues?
 
@@ -39,7 +39,7 @@ Save both your certificates to your GitHub repository and refer to it in your le
 ## 2) Power BI: Advanced data visualisations
 Now, the following videos, tutorials and courses allow you to go further than we ask if you fancy doing so. But by no means feel obliged to; we can't make it more clear than that: no pressure :). In the end, it's more important that you finish your dashboard and make sure that is all finished! And, you also need to have plenty of time to do fun stuff in your free time: a top priority as a student!
 
-If you don't feel like it, continue to the mock assignment, otherwise, anyway, here are our suggestions:
+If you don't feel like it, continue to the Datalab Preparation, otherwise, anyway, here are our suggestions:
 
 0. The learning path [Visualize data in Power BI](https://docs.microsoft.com/en-us/learn/paths/visualize-data-power-bi/) by microsoft is a great step-by-step guide which rewards you with a certificate and very useful and widely applicable!;
 1. [Advanced Visualization Techniques For Power BI - Brand New Course](https://www.youtube.com/watch?v=wq6dY0bgRcE&ab_channel=EnterpriseDNA);
@@ -52,12 +52,12 @@ Tip: Get the Gold challenge by actually doing a correlational or linear regressi
 
 
 
-## 3) Mock Assessment
-Create an Power BI file called "DataVisualisationMockAssessment". Here you should note down any improvement you make as a comment. Before you do so Create a second version with is called "PRE_DataVisualisationMockAssessment". This is the old one for comparison. You can also copy and paste bits of the internet to brush up your visualisation or to refer to as inspiration.
+## 3) Datalab Preparation
+Create an Power BI file called "DataVisualisationDatalabPreparation". Here you should note down any improvement you make as a comment. Before you do so Create a second version with is called "PRE_DataVisualisationDatalabPreparation". This is the old one for comparison. You can also copy and paste bits of the internet to brush up your visualisation or to refer to as inspiration.
 
 Look at the data visualisations you made for the conference dashboard. Do you see anything you'd like to change? Anything that could help you tell a better story using the data? You can also change the dashboard layout if it helps you to tell a better story.
 
-Done? Create a third version with is called "POST_DataVisualisationMockAssessment" and upload your 3 files + any additiona ones to your GitHub repository.
+Done? Create a third version with is called "POST_DataVisualisationDatalabPreparation" and upload your 3 files + any additiona ones to your GitHub repository.
 
 
 Tomorrow, we will work on our conclusion section.

@@ -15,7 +15,7 @@ Enable you to:
 Today we'll learn how to create the following components of any data science project. If you exceed the estimated duration for a given component and feel like you are squeezed for time, feel free to ask us for help!
 
 Table of contents:
-0. Mock-Assessment Review: 0.5 Hours
+0. Datalab Preparation Review: 0.5 Hours
 1. Introduction: 2 hours
 2. Guest Lecture SDG Indicators and buas: 11:00 - 12:00
 --- Lunch from 12:00 - 13:00 ---
@@ -34,8 +34,8 @@ Get together with a group of 5 and take turns answering the following questions:
 
 Good luck!
 
-## 0) Mock-Assessment review: Quantifying our World into Data
-Now, let's all find a partner (as in a classmate, not a date) and get our mock-assessments out (assuming you made them) and discuss them. Specifically, analyse and evaluate one another work by listening to one another critically and giving feedback as your partner goes along explaining:
+## 0) Datalab Preparation review; Quantifying our World into Data, and; Problems Statements & Research Questions
+Now, let's all find a partner (as in a classmate, not a date) and get our Datalab Preparation files out (assuming you made them) and discuss them. Specifically, analyse and evaluate one another work by listening to one another critically and giving feedback as your partner goes along explaining:
 1. What you identified and deconstructed as an object and phenomena and try to justify the decisions you made.
 2. What problem statement and research question you created and why you choose this topic. Try to test one another's ideas actively using constructive questions.
 3. (optional:) Iterate on your problem statement and research question. When done, commit your changes to your Github respository.

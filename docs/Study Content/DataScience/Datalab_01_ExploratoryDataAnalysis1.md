@@ -13,7 +13,7 @@ Enable you to:
 3. write a basic EDA methodology.
 
 Table of contents:
-0. Mock-Assessment Review: 0.5 Hours
+0. Datalab Preparation Review: 0.5 Hours
 1. Exploratory Data Analysis workshop: 2-3 Hours
 2. Exploratory Data Analysis on SDG Indicators dataset: 5.5- 6.5 hours
 3. Day reflection: 16:30 - 17:00
@@ -30,10 +30,10 @@ Get together with a group of 5 and take turns answering the following questions:
 Good luck!
 
 
-## 0) Mock-Assessment review: Variables and Descriptive data
-Now, let's all find a partner (as in a classmate, not in a romantic sense) and get our mock-assessments out (assuming you made them :p) and discuss them. Specifically, analyse and evaluate one another work by:
-- Simply showing one another how you created your variables, vectors and data frame for the Intro to Variables mock assessment. Or what you did and did not manage; we're in a safe space to learn, and not succeeding is part of that :).
-- Showing one another your calculations and solutions for parts A and B of the Descriptive Analyses mock assessment.
+## 0) Datalab Preparation review: Variables and Descriptive data
+Now, let's all find a partner (as in a classmate, not in a romantic sense) and get our Datalab Preparation files out (assuming you made them :p) and discuss them. Specifically, analyse and evaluate one another work by:
+- Simply showing one another how you created your variables, vectors and data frame for the Intro to Variables Datalab Preparation. Or what you did and did not manage; we're in a safe space to learn, and not succeeding is part of that :).
+- Showing one another your calculations and solutions for parts A and B of the Descriptive Analyses Datalab Preparation.
 
 
 ## 1) Exploratory Data Analysis: Data Preperation - Workshop

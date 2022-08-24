@@ -15,7 +15,7 @@ Fundamentals of Exploratory Data Analysis, specifically you will learn to unders
 Table of contents:
 1. Introduction: 1 hour
 2. Workshop: 6 hours
-3. Mock-Assignment: 0.5 hours
+3. Datalab Preparation: 0.5 hours
 
 
 Good luck!

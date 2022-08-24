@@ -4,7 +4,7 @@ sort: 12
 
 # Analysing Relationships between Variables
 
-We start by a brief refresher to correlation and applying it. Then, we're going to take a deep dive into measures of association by doing the Datacamp course into hypothesis testing in R. There's no mock assessment since we'll need our time for the course. Still, we'll apply our new knowledge tomorrow in class!
+We start by a brief refresher to correlation and applying it. Then, we're going to take a deep dive into measures of association by doing the Datacamp course into hypothesis testing in R. There's are 2 Datalab Preparation sections this time to prepare us for applying our new knowledge tomorrow in class!
 
 Learning objectives:
 - Correlations;
@@ -14,9 +14,9 @@ Learning objectives:
 
 Please follow the links below to continue the class:
 1. Correlations: .5 hours
-2. Mock-Assessment 1: 1 hour
+2. Datalab Preparation 1: 1 hour
 3. Regression: 2 hours
-2. Mock-Assessment 2: 1 hour
+2. Datalab Preparation 2: 1 hour
 
 
 ## Questions or issues?
@@ -43,8 +43,8 @@ In this video, we will talk about data relationships and what we can learn from 
 The purpose of your data science project is not to do a correlational analysis in R yourself: the goal is to suggest an analysis based on your research question and data. But, if you want to go more in-depth into correlation and play around in R, I suggest doing [these excercises](https://www.r-bloggers.com/2017/04/correlation-and-correlogram-exercises/). You can also follow [this step plan for Power BI](https://www.mssqltips.com/sqlservertip/5197/correlation-analysis-using-correlation-plot-in-power-bi-desktop/. Next year, we're going to advance our knowledge of statistics and go into hypothesis testing; for now you should just know what it means if variables are correlated.
 
 
-### A) Mock assessment 1
- Create an Power BI file called "CorrelationMockAssessment" and save it to your repository, or a piece of paper..
+### A) Datalab Preparation 1
+ Create an Power BI file called "CorrelationDatalabPreparation" and save it to your repository, or a piece of paper..
 
  1. Now, look at the following table. It displays the age and glucose level of a given subject.
 
@@ -69,7 +69,7 @@ Today we're going to introduce one of the most flexible statistical tools - the 
 
 
 ### B) Mock Assessment 2
- Create an .pbix file called "LinearRegressionMockAssessment" and save it to your the GitHUb.
+ Create an .pbix file called "LinearRegressionDatalabPreparation" and save it to your the GitHUb.
 
 Now we're going to try to develop some analyses we can apply on our SDG Indicator dataset: preferably the data you use for your own project.
 1. Formulate and justify a linear regression analysis in less than 150 words. So, we're only asking you for a comment regarding this one.
@@ -79,8 +79,8 @@ Bonus points if you actually [model the analysis in Power BI](https://iterationi
 
 
 ## Preparation for next datalab:
-- Mock-assessment 1 from yesterday
-- Mock-assessment 1 & 2 of today finished.
+- Datalab Preparation 1 from yesterday
+- Datalab Preparation 1 & 2 of today finished.
 
 Tomorrow we're going to cover writing a discussion section for our conference dashboard!
 

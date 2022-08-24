@@ -12,7 +12,7 @@ We've now learned everything we needed to know in order to finish our first data
 3. understand the CRISP-DM.
 
 Please follow the links below to continue the class:
-0. Mock Assessment Recap: 0.5 hours
+0. Datalab Preparation Review: 0.5 hours
 1. Feedback on dashboard: 0.5 hours
 2. 10:00 - 12:00: Data-Driven Story Telling Fundamentals
 2. Conclusion: 2 hours
@@ -29,8 +29,8 @@ Get together with a group of 5 and take turns answering the following questions:
 
 Good luck!
 
-## 0) Mock Assessment Recap
-Now, let's all find a partner and open your pre-mock assessment dashboard and our post-mock asessement dashboard respectively. Show them to your partner and explain the improvements you made, why you made them and how you made them. You analyse and evaluate one another's work: specifically the choices, the execution and the story they tell with their data visualisations.
+## 0) Datalab Preparation Review
+Now, let's all find a partner and open the version of your dashboard before you made the changes made during the Datalab Preparation session, and also open our post-Datalab Preparation dashboard. Show them to your partner and explain the improvements you made, why you made them and how you made them. You analyse and evaluate one another's work: specifically the choices, the execution and the story they tell with their data visualisations.
 
 ## 1) Feedback on dashboard
 Now it's time to gather the feedback on your dashboard. Ask you mentor(s) to provide you with feedback or to book a slot so they can provide you with feedback your progression. Record the feedback with action points in your notes file and then make changes to your dashboard or watch the video below and see if you can iterate on your dashboard further before continueing writing the conclusion!

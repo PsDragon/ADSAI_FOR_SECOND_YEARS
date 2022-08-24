@@ -13,7 +13,7 @@ Enable you to:
 3. write a basic EDA methodology.
 
 Table of contents:
-0. Mock-Assessment Review: 0.5 Hours
+0. Datalab Preparation Review: 0.5 Hours
 1. Exploratory Data Analysis workshop: 2-3 Hours
 2. Exploratory Data Analysis on SDG Indicators dataset: 5.5- 6.5 hours
 3. Day reflection: 16:30 - 17:00
@@ -29,7 +29,8 @@ Get together with a group of 5 and take turns answering the following questions:
 
 Good luck!
 
-
+## 0) Datalab Preparation review
+Now, let's all find a partner (as in a classmate, not in a romantic sense) and get our Datalab Preparation out (assuming you made them :p) and discuss them. Specifically, analyse and evaluate one another work and provide feedback. Make sure to record your feedback in your learning log!
 
 ## 1) Exploratory Data Analysis: Data Preparation on SDG Indicators dataset - Project Brief part
 During the workshop we have learned all EDA techniques regarding data preparation we could need to address your problem statement. Which means that now we can continue working on the project brief.

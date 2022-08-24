@@ -29,7 +29,7 @@ Good luck!
 
 ## 1) Feedback on dashboard
 Now, your mentor should gather your group and get you a nice screen. Then in alphabetical order you will present your dashboard by means of a walkthrough and your peers and mentors will provide you with questions and feedback. Make sure to keep your file for taking notes at the ready and record all important feedback you need to act on! 
-Now, let's all find a partner and open your pre-mock assessment dashboard and our post-mock asessement dashboard respectively. If you get any action points from your mentor, you should try to incorperate it into your final dashboard before **(coming) Thursday of week 7 at 17:00!**
+If you get any action points from your mentor or peers, you should try to incorperate it into your final dashboard before **(coming) Thursday of week 7 at 17:00!**
 
 
 

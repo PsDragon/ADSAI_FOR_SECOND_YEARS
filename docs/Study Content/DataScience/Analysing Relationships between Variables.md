@@ -30,9 +30,6 @@ If you have questions or issues regarding the course material, please fill out t
 First, it's time for the [the workshop part](https://app.datacamp.com/learn/courses/intermediate-data-modeling-in-power-bi) of this class to expand our data modeling skills in Power BI so we can better write the discussion section. Complete the entire course and upload the certificate to github, reference the certificate in your learning log for this week.
 
 If you get stuck, first ask your peers and then us!
-Correlations
-In this video, we will talk about data relationships and what we can learn from them. We'll focus on correlation, a coefficient that measures how two variables "move" together. We'll also introduce some good statistical terms you've probably heard of, like regression coefficient, correlation coefficient (r), and r^2. But first, we'll need to introduce a helpful way to represent continuous bivariate data - the scatter plot. The scatter plot has been called "the most useful invention in the history of statistical graphics", but that doesn't necessarily mean it can tell us everything. For example, just because two data sets move together doesn't necessarily mean one CAUSES the other. This gives us one of the essential tenets of statistics: correlation does not imply causation.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GtV-VYdNt_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The purpose of your data science project is not to do a correlational analysis in R yourself: the goal is to suggest an analysis based on your research question and data. But, if you want to go more in-depth into correlation and play around in R, I suggest doing [these excercises](https://www.r-bloggers.com/2017/04/correlation-and-correlogram-exercises/). Next year, we're going to advance our knowledge of statistics and go into hypothesis testing; for now you should just know what it means if variables are correlated.
 
@@ -68,7 +65,7 @@ Today we're going to introduce one of the most flexible statistical tools - the 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WWqE7YHR4Jc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### B) Mock Assessment 2
+### B) Datalab Preparation 2
  Create an .pbix file called "LinearRegressionDatalabPreparation" and save it to your the GitHUb.
 
 Now we're going to try to develop some analyses we can apply on our SDG Indicator dataset: preferably the data you use for your own project.
@@ -79,8 +76,8 @@ Bonus points if you actually [model the analysis in Power BI](https://iterationi
 
 
 ## Preparation for next datalab:
-- Datalab Preparation 1 from yesterday
-- Datalab Preparation 1 & 2 of today finished.
+- Datalab Preparation 1 from yesterday;
+- Datalab Preparation 2 & 3 of today.
 
 Tomorrow we're going to cover writing a discussion section for our conference dashboard!
 

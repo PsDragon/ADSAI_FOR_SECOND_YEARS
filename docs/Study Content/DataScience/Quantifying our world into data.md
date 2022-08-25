@@ -5,7 +5,7 @@ sort: 1
 # Quantifying our World into Data
 We start off with a comfortable introduction to some basic concepts and tools. Today, we will focus on how we can see and quantify our world into data. We are going to cover some basic concepts and apply those concepts to a mock assessment called Datalab Preparation. In the workshop you are introduced to Power BI: an industry-standard tool for describing and visualizing data.
 
-Make sure to hand in your Preparation for DataLab 5, Week 3 exercises by the end of the day (Mandatory!). Upload your work on github and insert the github link in your learning log for this week with a brief description. If your files are too large for Github; upload them to [Sharepoint](www.edubuas.sharepoint.com) . Only files on github and sharepoint (team, outlook also upload to sharepoint) are considered for grading. For details on staff availability, see the [Project Brief](https://adsai.buas.nl/Year1/BlockA/).
+Make sure to hand in your Preparation for DataLab 5, Week 3 exercises by the end of the day (Mandatory!). Upload your work on github and insert the github link in your learning log for this week with a brief description. If your files are too large for Github; upload them to Sharepoint via teams or using: www.edubuas.sharepoint.com. Only files on github and sharepoint (team, outlook also upload to sharepoint) are considered for grading. For details on staff availability, see the [Project Brief](https://adsai.buas.nl/Year1/BlockA/).
 
 ## Learning Objectives
 1. Enable you to quantify real-world phenomena and objects into data.
@@ -34,13 +34,6 @@ Look at the [creative brief](https://adsai.buas.nl/Year1/BlockA/) for more info 
 
 
 ## 1) Data Science Introduction Lecture
-**Time:**
-Monday the 19th of September at 10:00 o'clock in the morning.
-
-**Place:**
-Online on Microsoft Team: it should be on your Teams Calendar. If not, [click here](https://teams.microsoft.com/l/meetup-join/19%3a17PMQMfR4ntX_bdV9TDCQMIh5dTyPJibns2Pp1g76Os1%40thread.tacv2/1631095566063?context=%7b%22Tid%22%3a%220a33589b-0036-4fe8-a829-3ed0926af886%22%2c%22Oid%22%3a%225cef929d-ecf9-4fca-bf12-bc5ee065fc99%22%7d).
-***
-### Missed the lecture?
 **It is available [here](https://edubuas.sharepoint.com/:v:/s/2021-22AFGA1.P1ADSAI/EddFYP70KktJnK76DoEJjNwBqWguSJjUSILHBRc-Gfm93A?e=hj1VG8) now!** And, [Here is the link to the slides in case you want those too.](https://edubuas.sharepoint.com/sites/2021-22AFGA1.P1ADSAI/Shared%20Documents/General/Recordings/DS1%20-%20Lecture%201;%20The%20world%20in%20data.ppsx)
 
 ## 2) Preparation for DataLab 5, Week 3: 

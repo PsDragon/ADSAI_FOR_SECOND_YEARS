@@ -199,10 +199,10 @@ You are encouraged to get the best out of yourself. Therefore, within the ADS&AI
 ## Week 5: Introduction to Data Science
 
 ### Monday
-- [DescriptiveAnalysesAndVisualisations1](https://adsai.buas.nl/Study%20Content/DataScience/DescriptiveAnalyses.html)
+- [Descriptive Analyses and Visualisations 1](https://adsai.buas.nl/Study%20Content/DataScience/DescriptiveAnalysesAndVisualisations1.html)
 
 ### Tuesday
-- [DescriptiveAnalysesAndVisualisations2](https://adsai.buas.nl/Study%20Content/DataScience/DescriptiveAnalyses.html)
+- [Descriptive Analyses and Visualisations 2](https://adsai.buas.nl/Study%20Content/DataScience/DescriptiveAnalysesAndVisualisations2.html)
 
 ### Wednesday
 - [Datalab 02: Exploratory Data Analysis (EDA)](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_02_ExploratoryDataAnalysis2.html)
@@ -244,7 +244,7 @@ You are encouraged to get the best out of yourself. Therefore, within the ADS&AI
 - [Datalab 06: CRISP-DM](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_06_CrispDM.html)
 
 ### Thursday
-- [AdvancedPowerBI](https://adsai.buas.nl/Study%20Content/DataScience/AdvancedPowerBI.html)
+- [Extra: Advanced Power BI](https://adsai.buas.nl/Study%20Content/DataScience/AdvancedPowerBI.html)
 
 ### Friday
 - [Datalab 07: Dashboard Presentation Day](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_07_DashboardPresentationDay.html)

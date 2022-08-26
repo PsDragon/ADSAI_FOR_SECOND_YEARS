@@ -15,6 +15,7 @@ Each of the seven/eight weeks has a fixed structure: on Monday, Wednesday and Th
 | Dean van Aswegen (Lecturer), MSc. <img src="./DeanProfile.jpg" alt="Dean van Aswegen profile picture" width="200"/>|   |  Block A, Group 4, Year 1 | aswegen.d@buas.nl |   |
 | Gilmara Merrill (Lecturer), MA. |   | Block A, Group 5, Year 1 |  |   |
 | Nitin Bhushan (Lecturer), PhD.  <img src="./NitinProfile.jpg" alt="Nitin Bhushan profile picture" width="200"/>  |  Mon, Tue, Wed, Thu, Fri  | Block A, Group 1, Year 2 | bhushan.n@buas.nl | Data Science and AI  |
+| Bert Heesakkers (Lecturer), MSc. | NA | Workshops | heesakkers.b@buas.nl |   |
 | Frank Peters (Program manager), PhD. | Mon, Tue, Wed, Thu |  NA | peters.f@buas.nl |   |
 
 ### DataLab Attendance & Preparation

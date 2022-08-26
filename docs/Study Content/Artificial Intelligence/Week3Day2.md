@@ -29,7 +29,7 @@ __1b__ Watch the TEDx talk 'The era of blind faith in big data must end' by Cath
 
 __1c__ In the video, she makes the following statement: 'Algorithms are opinions embedded in code'. What do you think she means with this statement, and what are the possible implications that could arise from it? Explain your answer.
 
-__1d__ Read the module [Introduction to Data Ethics]('../../Study%20Content/Artificial%20Intelligence/documents/IntroToDataEthicsModule1.pdf'), and subsequently complete the exercises. Discuss your findings with a peer. Remember: There are no right or wrong answers here because many of the questions are open-ended, asking for personal reflection on values and professional goals, not factual assertions. 
+__1d__ Read the module <a href="./documents/IntroToDataEthicsModule1.pdf">Introduction to Data Ethics</a>, and subsequently complete the exercises. Discuss your findings with a peer. Remember: There are no right or wrong answers here because many of the questions are open-ended, asking for personal reflection on values and professional goals, not factual assertions. 
 
 ***
 

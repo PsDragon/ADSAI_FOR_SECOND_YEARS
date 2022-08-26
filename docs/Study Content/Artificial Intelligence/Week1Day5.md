@@ -52,7 +52,7 @@ __2.1b__ What is an informative speech? And what are the four types described in
 
 __2.1c__ What makes an informative speech interesting, coherent, and memorable? List, and describe at least one technique.
 
-__2.1d__ Prepare a 5-minute informative speech where you present your history of AI 'milestone':
+__2.1d__ Prepare a 3-minute informative speech where you present your history of AI 'milestone':
   - Create an outline for your presentation
   - Think about the tool(s) that you would like to use for your presentation (e.g. PowerPoint, whiteboard etc.)
   - Practice your presentation (this includes timing it!)
@@ -93,11 +93,11 @@ __Schedule:__
 
 | A. Mentor Group |  B.Timeslot |  
 |---|---|
-| 1.  Bram Heijligers & Zhanna Kozlova  | 12:00 - 12:45 |     
-| 2.  Irene van Blerck |  13:00 - 13:45 |        
-| 3.  Alican Noyan |  14:00 - 14:45 |     
-| 4.  Dean van Aswegen  | 15:00 - 15:45  |     
-| 5.  Gilmara Merrill | 16:00 -16:45  |         
+| 1.  Bram Heijligers & Zhanna Kozlova  | 12:00 - 13:00 |     
+| 2.  Irene van Blerck |  13:00 - 14:00 |        
+| 3.  Alican Noyan |  14:00 - 15:00 |     
+| 4.  Dean van Aswegen  | 15:00 - 16:00  |     
+| 5.  Gilmara Merrill | 16:00 - 17:00  |         
 
 
 ***

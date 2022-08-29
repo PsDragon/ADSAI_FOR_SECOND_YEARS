@@ -12,7 +12,7 @@ Each of the seven/eight weeks has a fixed structure: on Monday, Wednesday and Th
 | Zhanna Kozlova (Lecturer), MA. <img src="./ZhannaProfile.jpg" alt="Zhanna Kozlova profile picture" width="200"/>  |   |  Block A, Group 1, Year 1 | kozlova.z@buas.nl  |   |
 | Irene van Blerck (Lecturer), MSc. <img src="./IreneProfile.jpg" alt="Irene van Blerck profile picture" width="200"/>   |  Tue, Wed, Thu, Fri | Block A, Group 2, Year 1 |  blerck.i@buas.nl | Responsible AI, Computer vision |
 | Alican Noyan (Lecturer), PhD.<img src="./AlicanProfile.jpg" alt="Alican Noyan profile picture" width="200"/>|  Mon, Wed, Thu, Fri  | Block A, Group 3, Year 1  |  noyan.a@buas.nl | Data Science |
-| Dean van Aswegen (Lecturer), MSc. <img src="./DeanProfile.jpg" alt="Dean van Aswegen profile picture" width="200"/>| Mon, Tues, Wed, Thur, Fri  |  Block A, Group 4, Year 1 | aswegen.d@buas.nl |   |
+| Dean van Aswegen (Lecturer), MSc. <img src="./DeanProfile.jpg" alt="Dean van Aswegen profile picture" width="200"/>| Mon, Tues, Wed, Thur, Fri  |  Block A, Group 4, Year 1 | aswegen.d@buas.nl | Data Science and AI |
 | Gilmara Merrill (Lecturer), MA. |   | Block A, Group 5, Year 1 |  |   |
 | Nitin Bhushan (Lecturer), PhD.  <img src="./NitinProfile.jpg" alt="Nitin Bhushan profile picture" width="200"/>  |  Mon, Tue, Wed, Thu, Fri  | Block A, Group 1, Year 2 | bhushan.n@buas.nl | Data Science and AI  |
 | Bert Heesakkers (Lecturer), MSc. | NA | Workshops | heesakkers.b@buas.nl |   |
@@ -24,7 +24,7 @@ Regular attendance and punctuality in every DataLab is required of each student 
 
 A student is considered late when they are not yet present during the Standup session, and until the fifteenth minute from the start of DataLab (9:15) Two instances of lateness are counted as one absence.
 
-In case of absence, the student needs to fill in the 'Class Absence' form in a timely manner, and subsequently proposes and completes activities that are acceptable alternatives to the in-class learning activities. For more details, contact your mentor.
+In case of absence, the student needs to fill in the 'Class Absence' ['form'] (https://forms.office.com/Pages/ResponsePage.aspx?id=m1gzCjYA6E-oKT7Qkmr4hrVYkvxK4R5DrlSvaiqq5E9UQ0QzT0kySFFHTDNHWjdIMkZZWExNRERSWi4u) in a timely manner, and subsequently proposes and completes activities that are acceptable alternatives to the in-class learning activities. For more details, contact your mentor.
 
 *__Good__* excuses to miss DataLab:
 

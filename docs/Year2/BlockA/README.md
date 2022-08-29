@@ -62,7 +62,7 @@ data collection, and data management; while allowing for individual preferences 
 data analyses and project dissemination.
 
 The project timeline is aligned with the knowledge modules you will find on
-the ADSAI digital learning environment. A proposed [day-by-day timeline can be found here]() if you find that helpful.
+the ADSAI digital learning environment. A proposed [day-by-day timeline can be found here](https://github.com/BredaUniversityADSAI/ADS-AI/blob/a9ba05679849e27a208eae8579058b8b42fc8f79/docs/Study%20Content/Research%20Methodology/Y2blockA_PlanningProposal.xlsx) if you find that helpful.
 
 
 ### Week 1

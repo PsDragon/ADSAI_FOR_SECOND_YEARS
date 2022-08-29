@@ -3,14 +3,22 @@ sort: 2
 ---
 
 # 1. Research Methodology
-To gain a new understanding for a given business or academic problem an analytics translator will use quantitative and qualitative research methods of various kinds to attempt to create some new understanding which contributes to a solution. These research methods consist of a study design and data management method to systematically gain new understanding in an efficient, valid, ethicial and safe manner. 
+To gain a new understanding for a given business or academic problem an **analytics translator** will use quantitative and qualitative research methods of various kinds to attempt to create some new understanding which contributes to a solution. These research methods consist of a study design and data management method to systematically gain new understanding in an efficient, valid, ethicial and safe manner. 
 
 ## What are we going to do?
-For our research problem we’re going to collect and utilize both qualitative and quantitative data by hosting interviews and collecting questionnaire responses.
+For our research problem we’re going to collect and utilize both qualitative and quantitative data by hosting interviews and collecting questionnaire responses. 
 
 ## How are we going to do it?
 By designing a study which includes an experiment. 
 **Study Design** is all about collecting and analysing data in an efficient, valid and ethical way. To start designing a study systematically we first need to form research questions based on our research problem, from the research questions we can then from hypotheses. To answer our hypotheses we then need to create a hypothesis-drive research tool; a questionnaire and interview, for which we come up with a data analysis approach. Once we’ve done that we finish our design for the whole data handling cycle by creating a plan to set up our study, collect the data and evaluate the quality of the data. 
+
+The knowledge modules are:
+
+- [ ] [Research Methods:](https://www.coursera.org/learn/research-methods){:target="_blank"} <br> Complete the first 3 week modules and take a screenshot of each completed quiz; your score does not count towards your final grade, and attach it to your learning log. Do the week 4 module on Thursday the 15th of September, reflect on your research design in your learning log in separate slide and iterate on it accordingly.
+- [ ] [Qualitative Methods:](https://www.coursera.org/learn/quantitative-methods){:target="_blank"} Complete the first 6 week modules and take a screenshot of each completed quiz; your score does not count towards your final grade, and attach it to your learning log. 
+- [ ] Qualitative Methods: Covered by a Guest Lecture by Shima Rezaeirashnoo on Monday Week 2 from 10:00 - 12:00 and workshops on both datalab days in week 2.
+
+A proposed [day-by-day timeline can be found here]() if you find that helpful.
 
 Because our study involves humans, we also need to consider the ethical aspects of our study which means:
 -	[Applying for a BUas Ethics Review](https://docs.google.com/document/d/166AeV0NsMyyLlpPOaeC1Xo0bSvLRM_HN?rtpof=true&authuser=bram.heijligers%40gmail.com&usp=drive_fs)

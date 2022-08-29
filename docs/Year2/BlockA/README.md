@@ -32,8 +32,8 @@ Here are some articles that describe the role in a bit more detail:
 
 ## Creative Brief: AI at BUAS
 
-Advances in artificial intelligence (AI) is predicted to impact nearly all
-domain of the Breda University of Applied Sciences (Buas). While there is no debate
+Advances in artificial intelligence (AI) are predicted to impact nearly all
+domains of the Breda University of Applied Sciences (Buas). While there is no debate
 about the positive effects AI may have on these domains,
 the technology entails risks and disruptions that warrant attention.
 While the management of Buas have begun to discuss AI and it’s applications
@@ -62,7 +62,8 @@ data collection, and data management; while allowing for individual preferences 
 data analyses and project dissemination.
 
 The project timeline is aligned with the knowledge modules you will find on
-the ADSAI digital learning environment.
+the ADSAI digital learning environment. A proposed [day-by-day timeline can be found here]() if you find that helpful.
+
 
 ### Week 1
 The block begins with a block kickoff
@@ -99,6 +100,7 @@ The knowledge modules linked to this phase are:<br>
 - [ ] [Writing in the Sciences: Stanford](https://www.coursera.org/learn/sciwrite){:target="_blank"}
 - [ ] [Writing in Latex: A Primer](https://www.overleaf.com/learn/latex/Tutorials){:target="_blank"}
 
+
 You are expected to start drafting a research proposal individually by the end of Week 1.
 
 ### Week 2-4
@@ -106,8 +108,9 @@ Use week 2 to design your study and submit your research proposal. Once your pro
 
 The knowledge modules linked to this phase are:
 
-- [ ] [Foundations of Quantitative Research Design](https://www.linkedin.com/learning/academic-research-foundations-quantitative/welcome?autoplay=true&u=36359204){:target="_blank"} <br>
-- [ ] [Foundations of Qualitative Research Design](https://www.linkedin.com/learning/market-research-qualitative/the-power-of-qualitative-research?autoplay=true&u=36359204){:target="_blank"}
+- [ ] [Research Methods:](https://www.coursera.org/learn/research-methods){:target="_blank"} <br> Complete the first 3 week modules and take a screenshot of each completed quiz; your score does not count towards your final grade, and attach it to your learning log. Do the week 4 module on Thursday the 15th of September, reflect on your research design in your learning log in separate slide and iterate on it accordingly.
+- [ ] [Qualitative Methods:](https://www.coursera.org/learn/quantitative-methods){:target="_blank"} Complete the first 6 week modules and take a screenshot of each completed quiz; your score does not count towards your final grade, and attach it to your learning log. 
+- [ ] Qualitative Methods: Covered by a Guest Lecture by Shima Rezaeirashnoo on Monday Week 2 from 10:00 - 12:00 and workshops on both datalab days in week 2.
 
 ### Week 5-6
 Use these weeks to explore and analyse your data using statistical methods.
@@ -152,7 +155,7 @@ Your final (<mark>individual</mark>) deliverables are:
 
 
 ## Medal Challenges
-The medal courses for this block have been specifically selected to help boost your portfolio and extend your knowledge and expertise: actually getting your paper published. This would be the logical next step after doing a sociological research; whether you found what you were looking for or not!
+The medal courses for this block have been specifically selected to help boost your portfolio and extend your knowledge and expertise: actually getting your paper published. This would be the logical next step after doing a sociological research; whether you found what you were looking for or not! You can complete these challenges as a group or individually, and you can also finish them after the initial deadline!
 
 Your final (<mark>group</mark>) deliverable is a Data Management plan which contains:
 - [ ] Bronze medal: [Do part 1 of this course.](https://masterclasses.nature.com/online-course-in-scientific-writing-and-publishing/16507840?gclid=CjwKCAjw3qGYBhBSEiwAcnTRLhQOvV1NOUWlpNpbw0x9o5IdW8Q5P0v0AtFzxng2DIe28BHb-eM9YBoCOiwQAvD_BwE) For those of you unaware; Nature is the most prestigues scientific journal out there and just having their name somewhere on you CV/Linkedin will already help you gain attention!.

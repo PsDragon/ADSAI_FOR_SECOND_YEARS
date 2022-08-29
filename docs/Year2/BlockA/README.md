@@ -149,3 +149,12 @@ Your final (<mark>individual</mark>) deliverables are:
 ## Resources
 [1] (https://governanceai.github.io/US-Public-Opinion-Report-Jan-2019/executive-summary.htm) <br>
 [2] https://openstax.org/books/introductory-statistics/pages/1-introduction 
+
+
+## Medal Challenges
+The medal courses for this block have been specifically selected to help boost your portfolio and extend your knowledge and expertise: actually getting your paper published. This would be the logical next step after doing a sociological research; whether you found what you were looking for or not!
+
+Your final (<mark>group</mark>) deliverable is a Data Management plan which contains:
+- [ ] Bronze medal: [Do part 1 of this course.](https://masterclasses.nature.com/online-course-in-scientific-writing-and-publishing/16507840?gclid=CjwKCAjw3qGYBhBSEiwAcnTRLhQOvV1NOUWlpNpbw0x9o5IdW8Q5P0v0AtFzxng2DIe28BHb-eM9YBoCOiwQAvD_BwE) For those of you unaware; Nature is the most prestigues scientific journal out there and just having their name somewhere on you CV/Linkedin will already help you gain attention!.
+- [ ] Silver medal: [Do part 2 of this course.](https://masterclasses.nature.com/online-course-in-scientific-writing-and-publishing/16507840?gclid=CjwKCAjw3qGYBhBSEiwAcnTRLhQOvV1NOUWlpNpbw0x9o5IdW8Q5P0v0AtFzxng2DIe28BHb-eM9YBoCOiwQAvD_BwE)
+- [ ] Gold medal: 1) Choose a [academic conference](https://en.wikipedia.org/wiki/Academic_conference) to publish your paper in; 2) confer with your mentor about the suitability of the conference; 3) prepare a draft according to their formatting standards; 4) Get your paper checked by your mentor; 5) Potentially iterate based on feedback; 6) submit your draft to the selected conference.

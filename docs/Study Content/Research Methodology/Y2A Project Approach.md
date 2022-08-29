@@ -1,8 +1,8 @@
 ---
-sort: 1
+sort: 2
 ---
 
-# 1. Research Methodology: A Primer
+# 1. Research Methodology
 To gain a new understanding for a given business or academic problem an analytics translator will use quantitative and qualitative research methods of various kinds to attempt to create some new understanding which contributes to a solution. These research methods consist of a study design and data management method to systematically gain new understanding in an efficient, valid, ethicial and safe manner. 
 
 ## What are we going to do?
@@ -26,6 +26,5 @@ Following your research methodology doesn’t just mean writing and executing a 
 
 After this module, you will be able to:
 - [ ] ....
-
 
 

@@ -52,6 +52,13 @@ These excercise often also function as building blocks for your final project! T
 </figure>
 <br>
 
+
+<figure>
+    <img src=".\assets\BloomsTaxonomy.png" />
+    <figcaption>It's based on Bloom's Taxonomy, so be aware that these are usefull steps to solidify your learning and we'll integrate it whenever it fits: time and effort wise.</figcaption>
+</figure>
+<br>
+
 Anyway, now we got that clear:
 
 Every workshop includes a small datalab preparation section in the form of a mock-assessment to prepare you for the actual assessment deliverable you'll create in Datalab. In Datalab, you and your peers will look at and assess one another's mock assessments to check if you have understood or mastered the learning objectives. So don't get frustrated if you cannot satisfyingly answer some questions or are struggling: we're just practising, reinforcing our knowledge retention and using community learning to reinforce the learning experience during Data Lab. The role of a univerisity is to provide a safe space to learn and fail after all :)!

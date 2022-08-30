@@ -29,7 +29,8 @@ Because our study involves humans, we also need to consider the ethical aspects 
 Data Management:
 In order to design and implement research studies which include active data collection for hypothesis testing and problem solving we need to develop and implement a Data Management Plan (DMP). Developing a DMP means considering all potential risks and uses of the data and design rules ad procedures to accommodate those risks and uses. Implementing means actually managing the data within the organisation, and storing and handling it safely according to the DMP you have set out. An organisation conducting research like Breda University of Applied Sciences usually has a dedicated plan to deal with Research Data because this is effective and ethical; furthermore it is legally mandated by the European Union so it's an actual legal requirement. Create a Data Management Plan using the [Research Data Management Guide](https://edubuas.sharepoint.com/sites/researchdevelopment/SitePages/Datamanagement.aspx) of Breda University of Applied Sciences. 
 
-Realizing the data project [@Nitin professional ILO? It's not in the assessment rubric; should we put it in or shall I delete this whole section? I think it would be more ecological valid if they actually have a project management component as ILO right?]:
+Realizing the data project:
+[@Nitin professional ILO? It's not in the assessment rubric; should we put it in or shall I delete this whole section? I think it would be more ecological valid if they actually have a project management component as ILO right?]
 Following your research methodology doesn’t just mean writing and executing a study design and data management plan! It also means managing the project and team in order to realize the project goals; in order words managing the human and organisational aspect of the project!
 
 

@@ -47,14 +47,16 @@ These excercise often also function as building blocks for your final project! T
 
 
 <figure>
-    <img src=".\assets\BloomsTaxonomy.png"/>
+    <img src=".\assets\CRISP-DM.png"/>
     <figcaption>It's based on Bloom's Taxonomy, so be aware that these are usefull steps to solidify your learning and we'll integrate it whenever it fits: time and effort wise.</figcaption>
 </figure>
 <br>
 
+<img src="./assets/BloomsTaxonomy.png" alt="It's based on Bloom's Taxonomy, so be aware that these are usefull steps to solidify your learning and we'll integrate it whenever it fits: time and effort wise." width="400"/>
+
 
 <figure>
-    <img src=".\assets\BloomsTaxonomy.png" />
+    <img src="./assets/BloomsTaxonomy.png" />
     <figcaption>It's based on Bloom's Taxonomy, so be aware that these are usefull steps to solidify your learning and we'll integrate it whenever it fits: time and effort wise.</figcaption>
 </figure>
 <br>

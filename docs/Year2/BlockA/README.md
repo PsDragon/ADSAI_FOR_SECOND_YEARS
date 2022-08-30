@@ -25,7 +25,7 @@ and to a large extent, decision making.
 Here are some articles that describe the role in a bit more detail:
 
 [McKinsey](https://www.mckinsey.com/business-functions/quantumblack/our-insights/analytics-translator){:target="_blank"} <br>
-[GoDataDriven](https://godatadriven.com/careers/analytics-translator/){:target="_blank"} <br>
+[GoDataDriven](https://godatadriven.com/topic/analytics-translator/){:target="_blank"} <br>
 [Ortec](https://ortec.com/en/news-more/insights/era-analytics-translator){:target="_blank"} <br>
 [A day in the life of an Analytics Translator](https://www.jads.nl/guest-blog-harm-bodewes/){:target="_blank"}
 

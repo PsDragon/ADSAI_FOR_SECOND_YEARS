@@ -2,7 +2,7 @@
 sort: 2
 ---
 
-# 1. Research Methodology
+# 1. Y1A Project Approach
 To gain a new understanding for a given business or academic problem an **analytics translator** will use quantitative and qualitative research methods of various kinds to attempt to create some new understanding which contributes to a solution. These research methods consist of a study design and data management method to systematically gain new understanding in an efficient, valid, ethicial and safe manner. 
 
 ## What are we going to do?
@@ -18,7 +18,7 @@ The knowledge modules are:
 - [ ] [Qualitative Methods:](https://www.coursera.org/learn/quantitative-methods){:target="_blank"} Complete the first 6 week modules and take a screenshot of each completed quiz; your score does not count towards your final grade, and attach it to your learning log. 
 - [ ] Qualitative Methods: Covered by a Guest Lecture by Shima Rezaeirashnoo on Monday Week 2 from 10:00 - 12:00 and workshops on both datalab days in week 2.
 
-A proposed [day-by-day timeline can be found here]() if you find that helpful.
+A proposed [day-by-day timeline can be found here](https://github.com/BredaUniversityADSAI/ADS-AI/blob/a9ba05679849e27a208eae8579058b8b42fc8f79/docs/Study%20Content/Research%20Methodology/Y2blockA_PlanningProposal.xlsx) if you find that helpful.
 
 Because our study involves humans, we also need to consider the ethical aspects of our study which means:
 -	[Applying for a BUas Ethics Review](https://docs.google.com/document/d/166AeV0NsMyyLlpPOaeC1Xo0bSvLRM_HN?rtpof=true&authuser=bram.heijligers%40gmail.com&usp=drive_fs)

@@ -135,3 +135,9 @@ Good luck!
 
 ***
 
+## 6) Brainstorm: Review
+
+__6a__ Discuss the word cloud, created during the kick-off presentation of Block A, together with your mentor group.  
+
+***
+

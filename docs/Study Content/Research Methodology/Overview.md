@@ -21,4 +21,4 @@ Most of these material are used in courses, others however are extracurriculary 
 -   [Research Data management Guide](https://edubuas.sharepoint.com/sites/researchdevelopment/SitePages/Datamanagement.aspx) describes how to create a Data Management Plan and conduct data stewardship procedures within the BUas academic environment.
 
 ## Books
-- Creswell, J. W., & Poth, C. N. (2016). Qualitative inquiry and research design: Choosing among five approaches. Sage publications. ([Version 2 is available in the library](https://search.library.buas.nl/cgi-bin/koha/opac-detail.pl?biblionumber=10404))
+- Creswell, J. W., & Creswell, J. D. (2017). Research design: Qualitative, quantitative, and mixed methods approaches. Sage publications. ([Version 2 is available in the library](https://search.library.buas.nl/cgi-bin/koha/opac-detail.pl?biblionumber=10404))

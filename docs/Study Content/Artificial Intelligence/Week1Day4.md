@@ -4,7 +4,7 @@ sort: 4
 
 ## 1) Conference: Artificial Intelligence & The BUAS domains
 
-Today, we will attend the Artificial Intelligence & the BUAS domains conference at the Chapel (Hs0.022), from 9:00-16:00. It is a mandatory activity for all ADS&AI students. Thus, make sure you are available throughout the day.
+Today, we will attend the Artificial Intelligence & the BUAS domains conference, which will provide you with insights into how the different domains in BUas tend to think about AI (general attitudes, acceptance, perception, knowledge etc.). 
 
 <img src="./images/Conference.jpg" alt="Conference" width="550"/>
 

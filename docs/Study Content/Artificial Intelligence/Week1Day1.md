@@ -347,8 +347,6 @@ Material in this section has been adapted from [Getting Started With GitHub Desk
 
 __3.4a__ Install [GitHub Desktop](https://desktop.github.com/), and  [VSCode](https://code.visualstudio.com/) or another IDE/text editor on your local device. 
 
-__3.4b__ Activate your GitHub account for Block A (For instructions see email!). 
-
 ***
 
 ## __Footnote(s)__

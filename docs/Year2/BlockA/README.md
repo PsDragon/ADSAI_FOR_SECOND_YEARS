@@ -110,16 +110,18 @@ The knowledge modules linked to this phase are:
 
 - [ ] [Research Methods:](https://www.coursera.org/learn/research-methods){:target="_blank"} <br> Complete the first 3 week modules and take a screenshot of each completed quiz; your score does not count towards your final grade, and attach it to your learning log. Do the week 4 module on Thursday the 15th of September, reflect on your research design in your learning log in separate slide and iterate on it accordingly.
 - [ ] [Qualitative Methods:](https://www.coursera.org/learn/quantitative-methods){:target="_blank"} Complete the first 6 week modules and take a screenshot of each completed quiz; your score does not count towards your final grade, and attach it to your learning log. 
-- [ ] Qualitative Methods: Covered by a Guest Lecture by Shima Rezaeirashnoo on Monday Week 2 from 10:00 - 12:00 and workshops on both datalab days in week 2.
+- [ ] Qualitative Methods: Covered by a Guest Lecture by Shima Rezaeirashnoo on Monday Week 2 from 10:00 - 12:00 and workshops on both datalab days in week 2. Attendance is mandatory and recorded. In case of absence, contact your mentor for a valid leave of absence and an alternative knowledge module.
 
 ### Week 5-6
-Use these weeks to explore and analyse your data using statistical methods.
+Use these weeks to explore and analyse your data using statistical methods. 
 
 The knowledge modules linked to this phase are:
 
 - [ ] [Quantitative Data Analysis: A Primer](../../Study%20Content/Statistical%20Inference/){:target="_blank"}
 - [ ] [Intermediate Statistics](https://www.linkedin.com/learning/statistics-foundations-2/welcome?autoplay=true&u=36359204){:target="_blank"}
 - [ ] [Advanced Statistics](https://www.linkedin.com/learning/statistics-foundations-3/welcome?autoplay=true&u=36359204){:target="_blank"}
+
+During these weeks you should make sure to manage your data according to your data management plan and evidence this accordingly.
 
 ### Week 7
 In this week, you are expected to report and present your project findings.
@@ -134,30 +136,32 @@ think about AI, in particular their attitudes, acceptance, and perceived impact 
 
 ## Project Deliverables
 
-Your final (<mark>group</mark>) deliverable is a Data Management plan which contains:
+Your final (<mark>group</mark>) deliverable is a [Data Management plan](https://edubuas.sharepoint.com/sites/researchdevelopment/SitePages/Datamanagement.aspx) which contains:
 - [ ] description of the data collection process (which tools/instruments are used).
 - [ ] description of the data: what is the format (file-type) of the data.
 - [ ] a codebook describing variables.
 - [ ] description of data storage protocol: file structure and filenames.
+- [ ] any supplemantary requirements stated by the [BUas Research Data Mangement Guide](https://edubuas.sharepoint.com/sites/researchdevelopment/SitePages/Datamanagement.aspx).
 
 
 
 Your final (<mark>individual</mark>) deliverables are:
 - [ ] a research proposal detailing your research plan (1000 words) documenting your findings (APA style, Latex formatted).
 - [ ] scientific report (5000 words) documenting your complete research cycle (introduction, methods, results, discussion; APA style, Latex formatted).
-- [ ] conference poster and/or conference presentation
+- [ ] conference poster and/or conference presentation.
 
 > The best conference poster will be invited to present their findings via a presentation.
 
 ## Resources
-[1] (https://governanceai.github.io/US-Public-Opinion-Report-Jan-2019/executive-summary.htm) <br>
+[1] https://governanceai.github.io/US-Public-Opinion-Report-Jan-2019/executive-summary.htm <br>
 [2] https://openstax.org/books/introductory-statistics/pages/1-introduction 
+[3] Creswell, J. W., & Poth, C. N. (2016). Qualitative inquiry and research design: Choosing among five approaches. Sage publications. ([Version 2 is available in the library](https://search.library.buas.nl/cgi-bin/koha/opac-detail.pl?biblionumber=10404))
+
 
 
 ## Medal Challenges
 The medal courses for this block have been specifically selected to help boost your portfolio and extend your knowledge and expertise: actually getting your paper published. This would be the logical next step after doing a sociological research; whether you found what you were looking for or not! You can complete these challenges as a group or individually, and you can also finish them after the initial deadline!
 
-Your final (<mark>group</mark>) deliverable is a Data Management plan which contains:
 - [ ] Bronze medal: [Do part 1 of this course.](https://masterclasses.nature.com/online-course-in-scientific-writing-and-publishing/16507840?gclid=CjwKCAjw3qGYBhBSEiwAcnTRLhQOvV1NOUWlpNpbw0x9o5IdW8Q5P0v0AtFzxng2DIe28BHb-eM9YBoCOiwQAvD_BwE) For those of you unaware; Nature is the most prestigues scientific journal out there and just having their name somewhere on you CV/Linkedin will already help you gain attention!.
 - [ ] Silver medal: [Do part 2 of this course.](https://masterclasses.nature.com/online-course-in-scientific-writing-and-publishing/16507840?gclid=CjwKCAjw3qGYBhBSEiwAcnTRLhQOvV1NOUWlpNpbw0x9o5IdW8Q5P0v0AtFzxng2DIe28BHb-eM9YBoCOiwQAvD_BwE)
 - [ ] Gold medal: 1) Choose a [academic conference](https://en.wikipedia.org/wiki/Academic_conference) to publish your paper in; 2) confer with your mentor about the suitability of the conference; 3) prepare a draft according to their formatting standards; 4) Get your paper checked by your mentor; 5) Potentially iterate based on feedback; 6) submit your draft to the selected conference.

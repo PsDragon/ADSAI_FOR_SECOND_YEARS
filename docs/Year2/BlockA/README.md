@@ -41,7 +41,7 @@ more frequently, the general attitudes and sentiment of the various domains
 are yet to be taken into account.  It is vital to understand how these domains
 think about AI and understand factors that influence the acceptance of AI in
 these domains. Such understanding is essential to crafting informed policy
-and identifying opportunities to include AI in the curriculum of these domains.
+and identifying opportunities to include AI in the curriculum of these domains. For an example of how this understanding is gained, and why research skills are essential, click [here](https://governanceai.github.io/US-Public-Opinion-Report-Jan-2019/executive-summary.html).
 
 
 **Your goal for this block is to use quantitative and qualitative methods to
@@ -146,17 +146,28 @@ Your final (<mark>group</mark>) deliverable is a [Data Management plan](https://
 
 
 Your final (<mark>individual</mark>) deliverables are:
+<<<<<<< Updated upstream
 - [ ] a research proposal detailing your research plan (1000 words) documenting your findings (APA style, Latex formatted).
 - [ ] scientific report (5000 words) documenting your complete research cycle (introduction, methods, results, discussion; APA style, Latex formatted).
 - [ ] conference poster and/or conference presentation.
+=======
+- [ ] a research proposal detailing your research plan (max 1000 words) documenting your research question and study design (APA style, Latex formatted).
+- [ ] scientific report (max 5000 words) documenting your complete research cycle (introduction, methods, results, discussion; APA style, Latex formatted).
+- [ ] conference poster and/or conference presentation
+>>>>>>> Stashed changes
 
 > The best conference poster will be invited to present their findings via a presentation.
 
 ## Resources
+<<<<<<< Updated upstream
 [1] https://governanceai.github.io/US-Public-Opinion-Report-Jan-2019/executive-summary.htm <br>
 [2] https://openstax.org/books/introductory-statistics/pages/1-introduction 
 [3] Creswell, J. W., & Poth, C. N. (2016). Qualitative inquiry and research design: Choosing among five approaches. Sage publications. ([Version 2 is available in the library](https://search.library.buas.nl/cgi-bin/koha/opac-detail.pl?biblionumber=10404))
 
+=======
+[1] [Artificial Intelligence: American Attitudes and Trends](https://governanceai.github.io/US-Public-Opinion-Report-Jan-2019/executive-summary.html) <br>
+[2] [OpenStax Online Textbook](https://openstax.org/books/introductory-statistics/pages/1-introduction) 
+>>>>>>> Stashed changes
 
 
 ## Medal Challenges

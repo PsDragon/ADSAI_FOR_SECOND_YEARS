@@ -65,7 +65,7 @@ So try to be creative, and come up with a couple of questions yourself!
 
 It can be difficult to choose a suitable chart to represent (a subset of) your data. From experience, I can tell you that an average data science/business intelligence/artificial intelligence project involves quite some trial and error (one of the reasons that makes our work so much fun, if you ask me :nerd_face:). Nevertheless, a solid theoretical background (e.g. in fields such as statistics, ML, UX design etc.) can give you the edge over a data professional that lacks such a foundation. In practice, it can be the difference between delivering an 'okay' dashboard or a dashboard that conveys a compelling data story to a client.
 
-<img src="./images/chart_suggestion.jpg" alt="Books banner" width="1200"/>
+<img src="./assets/chart_suggestion.jpg" alt="Books banner" width="1200"/>
 
 *Figure 2. General chart type choser.*
 

@@ -156,6 +156,7 @@ Your final (<mark>individual</mark>) deliverables are:
 [1] [Artificial Intelligence: American Attitudes and Trends](https://governanceai.github.io/US-Public-Opinion-Report-Jan-2019/executive-summary.html) <br>
 [2] [OpenStax Online Textbook](https://openstax.org/books/introductory-statistics/pages/1-introduction) <br>
 [3] Creswell, J. W., & Poth, C. N. (2016). Qualitative inquiry and research design: Choosing among five approaches. Sage publications. ([Version 2 is available in the library](https://search.library.buas.nl/cgi-bin/koha/opac-detail.pl?biblionumber=10404))<br>
+[4] [Overleaf APA6 template](https://www.overleaf.com/latex/templates/your-apa6-style-manuscript/kngbbqpypjcq)<br>
 
 
 ## Medal Challenges

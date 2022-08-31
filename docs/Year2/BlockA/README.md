@@ -141,8 +141,6 @@ Your final (<mark>group</mark>) deliverable is a [Data Management plan](https://
 - [ ] description of the data: what is the format (file-type) of the data.
 - [ ] a codebook describing variables.
 - [ ] description of data storage protocol: file structure and filenames.
-- [ ] any supplemantary requirements stated by the [BUas Research Data Mangement Guide](https://edubuas.sharepoint.com/sites/researchdevelopment/SitePages/Datamanagement.aspx).
-
 
 
 Your final (<mark>individual</mark>) deliverables are:

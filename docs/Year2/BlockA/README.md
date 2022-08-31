@@ -146,15 +146,10 @@ Your final (<mark>group</mark>) deliverable is a [Data Management plan](https://
 
 
 Your final (<mark>individual</mark>) deliverables are:
-<<<<<<< Updated upstream
-- [ ] a research proposal detailing your research plan (1000 words) documenting your findings (APA style, Latex formatted).
-- [ ] scientific report (5000 words) documenting your complete research cycle (introduction, methods, results, discussion; APA style, Latex formatted).
-- [ ] conference poster and/or conference presentation.
-=======
 - [ ] a research proposal detailing your research plan (max 1000 words) documenting your research question and study design (APA style, Latex formatted).
 - [ ] scientific report (max 5000 words) documenting your complete research cycle (introduction, methods, results, discussion; APA style, Latex formatted).
 - [ ] conference poster and/or conference presentation
->>>>>>> Stashed changes
+
 
 > The best conference poster will be invited to present their findings via a presentation.
 

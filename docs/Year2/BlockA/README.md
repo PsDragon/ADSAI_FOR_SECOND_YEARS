@@ -159,18 +159,14 @@ Your final (<mark>individual</mark>) deliverables are:
 > The best conference poster will be invited to present their findings via a presentation.
 
 ## Resources
-<<<<<<< Updated upstream
-[1] https://governanceai.github.io/US-Public-Opinion-Report-Jan-2019/executive-summary.htm <br>
-[2] https://openstax.org/books/introductory-statistics/pages/1-introduction 
-[3] Creswell, J. W., & Poth, C. N. (2016). Qualitative inquiry and research design: Choosing among five approaches. Sage publications. ([Version 2 is available in the library](https://search.library.buas.nl/cgi-bin/koha/opac-detail.pl?biblionumber=10404))
 
-=======
 [1] [Artificial Intelligence: American Attitudes and Trends](https://governanceai.github.io/US-Public-Opinion-Report-Jan-2019/executive-summary.html) <br>
 [2] [OpenStax Online Textbook](https://openstax.org/books/introductory-statistics/pages/1-introduction) 
->>>>>>> Stashed changes
+[3] Creswell, J. W., & Poth, C. N. (2016). Qualitative inquiry and research design: Choosing among five approaches. Sage publications. ([Version 2 is available in the library](https://search.library.buas.nl/cgi-bin/koha/opac-detail.pl?biblionumber=10404))<br>
 
 
 ## Medal Challenges
+
 The medal courses for this block have been specifically selected to help boost your portfolio and extend your knowledge and expertise: actually getting your paper published. This would be the logical next step after doing a sociological research; whether you found what you were looking for or not! You can complete these challenges as a group or individually, and you can also finish them after the initial deadline!
 
 - [ ] Bronze medal: [Do part 1 of this course.](https://masterclasses.nature.com/online-course-in-scientific-writing-and-publishing/16507840?gclid=CjwKCAjw3qGYBhBSEiwAcnTRLhQOvV1NOUWlpNpbw0x9o5IdW8Q5P0v0AtFzxng2DIe28BHb-eM9YBoCOiwQAvD_BwE) For those of you unaware; Nature is the most prestigues scientific journal out there and just having their name somewhere on you CV/Linkedin will already help you gain attention!.

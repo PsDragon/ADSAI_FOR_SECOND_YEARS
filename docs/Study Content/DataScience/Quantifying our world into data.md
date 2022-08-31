@@ -47,7 +47,7 @@ These excercise often also function as building blocks for your final project! T
 
 
 <figure>
-    <img src=".\assets\BloomsTaxonomy.png" />
+    <img src="./assets/BloomsTaxonomy.png" />
     <figcaption>It's based on Bloom's Taxonomy, so be aware that these are usefull steps to solidify your learning and we'll integrate it whenever it fits: time and effort wise.</figcaption>
 </figure>
 <br>
@@ -80,7 +80,7 @@ Save the file as .txt or .pdf file to GitHub; we'll discuss it during Datalab to
 
 You will start on your path to becoming a data proffesional by **learning how to describe, visualise and understand data**. The data proffesionals serve the gatekeepers of the organization’s data collection, ensuring that the stakeholders can make informed decisions based on accurate, correct, and complete data.
 
-<img src=".\docs\Study Content\Business Intelligence\images\data_analyst.jpg" alt="Data analyst" width="600"/>
+<img src="./docs/Study Content/Business Intelligence/images/data_analyst.jpg" alt="Data analyst" width="600"/>
 
 *Figure 1. What does a data proffesional do?*
 

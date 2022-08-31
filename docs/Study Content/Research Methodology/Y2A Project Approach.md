@@ -18,7 +18,7 @@ The mandatory knowledge modules are:
 - [ ] [Qualitative Methods:](https://www.coursera.org/learn/quantitative-methods){:target="_blank"} Complete the first 6 week modules and take a screenshot of each completed quiz; your score does not count towards your final grade, and attach it to your learning log. 
 - [ ] Qualitative Methods: Covered by a Guest Lecture by Shima Rezaeirashnoo on Monday Week 2 from 10:00 - 12:00 and workshops on both datalab days in week 2.
 
-A proposed [day-by-day timeline can be found here](https://github.com/BredaUniversityADSAI/ADS-AI/blob/a9ba05679849e27a208eae8579058b8b42fc8f79/docs/Study%20Content/Research%20Methodology/Y2blockA_PlanningProposal.xlsx) if you find that helpful.
+A proposed [day-by-day timeline can be found here](https://edubuas.sharepoint.com/:x:/r/teams/2022-23AFGA2.P1ADSAI/Class%20Materials/Y2blockA_PlanningProposal.xlsx?d=wdec80798c0834878afba8fdb85d7c82d&csf=1&web=1&e=LP7dmD) if you find that helpful.
 
 Because our study involves humans, we also need to consider the ethical aspects of our study which means:
 -	[Applying for a BUas Ethics Review](https://docs.google.com/document/d/166AeV0NsMyyLlpPOaeC1Xo0bSvLRM_HN?rtpof=true&authuser=bram.heijligers%40gmail.com&usp=drive_fs);

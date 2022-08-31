@@ -15,10 +15,11 @@ Most of these material are used in courses, others however are extracurriculary 
 
 
 ## Templates
--	[Applying for a BUas Ethics Review](https://docs.google.com/document/d/166AeV0NsMyyLlpPOaeC1Xo0bSvLRM_HN?rtpof=true&authuser=bram.heijligers%40gmail.com&usp=drive_fs)
--	[Writing a Informed Consent](https://docs.google.com/document/d/166IJ62T9OEnrNnJgmgAH2aiSS-mM6Uzd?rtpof=true&authuser=bram.heijligers%40gmail.com&usp=drive_fs); and distributing it to the participant(s)
--	[Writing a Research Information Letter](https://docs.google.com/document/d/16AFZ7TrJ9ociGr6-D0dHLyiFe2WT_2L5?rtpof=true&authuser=bram.heijligers%40gmail.com&usp=drive_fs); and distributing it to the participant(s) before data collection
+-	[BUas Ethics Review](https://docs.google.com/document/d/166AeV0NsMyyLlpPOaeC1Xo0bSvLRM_HN?rtpof=true&authuser=bram.heijligers%40gmail.com&usp=drive_fs)
+-	[Letter of Informed Consent](https://docs.google.com/document/d/166IJ62T9OEnrNnJgmgAH2aiSS-mM6Uzd?rtpof=true&authuser=bram.heijligers%40gmail.com&usp=drive_fs); and distributing it to the participant(s)
+-	[Research Information Letter](https://docs.google.com/document/d/16AFZ7TrJ9ociGr6-D0dHLyiFe2WT_2L5?rtpof=true&authuser=bram.heijligers%40gmail.com&usp=drive_fs); and distributing it to the participant(s) before data collection
 -   [Research Data management Guide](https://edubuas.sharepoint.com/sites/researchdevelopment/SitePages/Datamanagement.aspx) describes how to create a Data Management Plan and conduct data stewardship procedures within the BUas academic environment.
+- [ ] [Codebook](https://github.com/BredaUniversityADSAI/ADS-AI/blob/f020e08818bb64486e784e2447334fb866ee1df9/docs/Study%20Content/Research%20Methodology/Assets/Codebook_Template.md). 
 
 ## Books
 - Creswell, J. W., & Creswell, J. D. (2017). Research design: Qualitative, quantitative, and mixed methods approaches. Sage publications. ([Version 2 is available in the library](https://search.library.buas.nl/cgi-bin/koha/opac-detail.pl?biblionumber=10404))

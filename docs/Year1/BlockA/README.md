@@ -24,7 +24,7 @@ Regular attendance and punctuality in every DataLab is required of each student 
 
 A student is considered late when they are not yet present during the Standup session, and until the fifteenth minute from the start of DataLab (9:15) Two instances of lateness are counted as one absence.
 
-In case of absence, the student needs to fill in the 'Class Absence' [form](https://forms.office.com/r/68ZpKfhjeX) in a timely manner, and subsequently proposes and completes activities that are acceptable alternatives to the in-class learning activities. For more details, contact your mentor.
+In case of absence, the student needs to fill in the 'DataLab Absence' [form](https://adsai.buas.nl/Contact%20Us/DataLabAttendance.html) in a timely manner, and subsequently proposes and completes activities that are acceptable alternatives to the in-class learning activities. For more details, contact your mentor.
 
 *__Good__* excuses to miss DataLab:
 
@@ -52,7 +52,7 @@ The DataLab preparation exercises listed on GitHub Classrooms should be uploaded
 
 ### Questions?
 
-If you have questions or issues regarding the course material, please fill out the 'How Can We Help?' form under the section ['Ask me anything'](https://adsai.buas.nl/Contact%20Us/). A member of our teaching staff will respond as soon as possible.
+If you have questions or issues regarding the course material, please fill out the 'Ask me Anything?' [form](https://adsai.buas.nl/Contact%20Us/AskMeAnything.html). A member of our teaching staff will respond as soon as possible.
 
 Kindly follow the Project Timeline below, this will guide you through what is expected of you on a daily basis.
 

@@ -52,7 +52,7 @@ Buas domains and guide stakeholders towards the best course of action regarding 
 ## Project timeline
 
 <figure>
-    <img src=".\images\phases.png"/>
+    <img src="./images/phases.png"/>
 </figure>
 <br>
 
@@ -146,7 +146,7 @@ think about AI, in particular their attitudes, acceptance, and perceived impact 
 Your final (<mark>group</mark>) deliverable is a [Data Management plan](https://edubuas.sharepoint.com/sites/researchdevelopment/SitePages/Datamanagement.aspx) which contains:
 - [ ] description of the data collection process (which tools/instruments are used).
 - [ ] description of the data: what is the format (file-type) of the data.
-- [ ] a codebook describing variables.
+- [ ] [a codebook describing variables](https://github.com/BredaUniversityADSAI/ADS-AI/blob/f020e08818bb64486e784e2447334fb866ee1df9/docs/Study%20Content/Research%20Methodology/Assets/Codebook_Template.md). 
 - [ ] description of data storage protocol: file structure and filenames.
 
 

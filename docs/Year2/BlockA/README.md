@@ -52,7 +52,7 @@ Buas domains and guide stakeholders towards the best course of action regarding 
 ## Project timeline
 
 <figure>
-    <img src="./images/phases.png"/>
+    <img src=".\images\phases.png"/>
 </figure>
 <br>
 
@@ -93,7 +93,7 @@ Use this week to perform a literature review and design hypotheses which you wil
 to the test in the upcoming weeks. Further, as your final deliverable includes a technical report, 
 please ensure that you learn the fundamentals of scientific writing using Latex. 
 
-> Please ensure that you have also reviewed the assessement rubrik, and contact your lecturers in case of any queries.
+> Please ensure that you have also reviewed the assessement rubric, and contact your lecturers in case of any queries.
 
 The knowledge modules linked to this phase are:<br>
 

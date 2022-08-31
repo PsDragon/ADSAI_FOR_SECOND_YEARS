@@ -33,7 +33,7 @@ General description of the file including:
  - Variables present in the dataset
 
 
-###Variable 1 (repeat this section for all variables in the dataset)
+### Variable 1 (repeat this section for all variables in the dataset)
 Short description in bullet points of what the variable describes including but not limited to:
  - Name of the variable
  - What the variable represents
@@ -45,11 +45,11 @@ Short description in bullet points of what the variable describes including but 
  - In case names follow some schema, describe how entries were constructed (for example time-body-gyroscope-z has 4 levels of descriptors. Describe these 4 levels). 
 
 
-####Notes on variable 1:
+#### Notes on variable 1:
 If available, some additional notes on the variable not covered elsewehere. If no notes are present leave this section out.
 
-##Sources
+## Sources
 Sources you used if any, otherise leave out.
 
-##Annex
+## Annex
 If you have any other information which is important to mentoin but not covered by the template.

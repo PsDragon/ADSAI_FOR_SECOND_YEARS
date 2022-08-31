@@ -118,10 +118,12 @@ Use these weeks to explore and analyse your data using statistical methods.
 The knowledge modules linked to this phase are:
 
 - [ ] [Quantitative Data Analysis: A Primer](../../Study%20Content/Statistical%20Inference/){:target="_blank"}
+
+If you wish to go deeper into the world of inferential statistics, here are some resources that you may find useful.
 - [ ] [Intermediate Statistics](https://www.linkedin.com/learning/statistics-foundations-2/welcome?autoplay=true&u=36359204){:target="_blank"}
 - [ ] [Advanced Statistics](https://www.linkedin.com/learning/statistics-foundations-3/welcome?autoplay=true&u=36359204){:target="_blank"}
 
-During these weeks you should make sure to manage your data according to your data management plan and evidence this accordingly.
+In addition, during these weeks you should make sure to manage your data according to your data management plan and evidence this accordingly.
 
 ### Week 7
 In this week, you are expected to report and present your project findings.

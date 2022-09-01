@@ -17,11 +17,9 @@ Today we'll learn how to create the following components of any data science pro
 Table of contents:
 0. Datalab Preparation Review: 0.5 Hours
 1. Introduction: 2 hours
-2. Guest Lecture SDG Indicators and buas: 11:00 - 12:00
---- Lunch from 12:00 - 13:00 ---
-3. Write first draft introduction: 1.5 hours
-4. Discuss introductions with mentor group: 1.5 hours
-5. Daily Reflection: From 16:30 to 17:00
+2. Write first draft introduction: 2.5 hours
+3. Discuss introductions with mentor group: 1.5 hours
+4. Daily Reflection: From 16:30 to 17:00
 
 ### Questions or issues?
 If you have any questions or issues regarding the course material, please first ask your peers or ask a member of staff if you can't figure it out together!

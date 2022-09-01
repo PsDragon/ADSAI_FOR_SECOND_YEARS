@@ -80,7 +80,7 @@ Save the file as .txt or .pdf file to GitHub; we'll discuss it during Datalab to
 
 You will start on your path to becoming a data proffesional by **learning how to describe, visualise and understand data**. The data proffesionals serve the gatekeepers of the organization’s data collection, ensuring that the stakeholders can make informed decisions based on accurate, correct, and complete data.
 
-<img src="./docs/Study Content/Business Intelligence/images/data_analyst.jpg" alt="Data analyst" width="600"/>
+<img src="./assets/data_analyst.jpg" alt="Data analyst" width="600"/>
 
 *Figure 1. What does a data proffesional do?*
 

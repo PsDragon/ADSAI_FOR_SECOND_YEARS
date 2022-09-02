@@ -166,10 +166,10 @@ One of the trickiest aspects of using GitHub is the new terminology. Some of the
 
 #### 3.3.2 Register for a GitHub account
 
-Since we are going to be using GitHub we will need to register for an account at [GitHub](https://github.com/) if we don't already have one.
+Since we are going to be using GitHub we will need to register for an account at [GitHub](https://github.com/).
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Note: For each block, we will create a personal GitHub account for you. 
+Note: For details on creating a GitHub account and connecting it to your BUas block repository, see email with the subject: 'LMS Access and Github account Instructions'.    
 </div>
 
 ![GitHub repository](./images/GitHubRepo.gif)

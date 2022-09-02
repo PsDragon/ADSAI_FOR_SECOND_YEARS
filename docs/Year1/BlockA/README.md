@@ -20,7 +20,7 @@ Each of the seven/eight weeks has a fixed structure: on Monday, Wednesday and Th
 
 ### DataLab Attendance & Preparation
 
-Regular attendance and punctuality in every DataLab is required of each student (by default from 9:00 to 17:00). A student who has incurred absences of more than two DataLab sessions without a valid reason throughout the block shall not be given credit, which means you need to retake the entire block next year; alternatively you can object via the board of examiners to your automatic grading suspension.
+Regular attendance and punctuality in every DataLab is required of each student (by default from 9:00 to 17:00). A student who has incurred absences of more than two DataLab sessions without a valid reason throughout the block shall not be given credit, which means you need to retake the entire block; alternatively you can object via the Board of Examiners to your automatic grading suspension.
 
 A student is considered late when they are not yet present during the Standup session, and until the fifteenth minute from the start of DataLab (9:15) Two instances of lateness are counted as one absence.
 

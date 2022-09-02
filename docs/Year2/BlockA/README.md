@@ -41,7 +41,9 @@ more frequently, the general attitudes and sentiment of the various domains
 are yet to be taken into account.  It is vital to understand how these domains
 think about AI and understand factors that influence the acceptance of AI in
 these domains. Such understanding is essential to crafting informed policy
-and identifying opportunities to include AI in the curriculum of these domains. For an example of how this understanding is gained, and why research skills are essential, click [here](https://governanceai.github.io/US-Public-Opinion-Report-Jan-2019/executive-summary.html).
+and identifying opportunities to include AI in the curriculum of these domains and help prepare students for the rise of AI in their domains.
+
+For an example of how this understanding is gained, and why research skills are essential, click [here](https://universitybusiness.co.uk/comment/preparing-students-for-an-ai-future/) and [here](https://governanceai.github.io/US-Public-Opinion-Report-Jan-2019/executive-summary.html). 
 
 
 **Your goal for this block is to use quantitative and qualitative methods to

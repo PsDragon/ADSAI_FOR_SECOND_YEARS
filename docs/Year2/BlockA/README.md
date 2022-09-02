@@ -90,7 +90,11 @@ Student conference: AI Applied to Buas Domains. <br>
 | 16:00  |-------------------| Closing|
 
 Use this week to perform a literature review and design hypotheses which you will then put
-to the test in the upcoming weeks. Further, as your final deliverable includes a technical report, 
+to the test in the upcoming weeks. 
+
+To learn more about how to conduct a literature review, please visit the [Information Skills Toolbox](https://buas.libguides.com/toolboxENG) offered by the BUas Library.
+
+Further, as your final deliverable includes a technical report, 
 please ensure that you learn the fundamentals of scientific writing using Latex. 
 
 > Please ensure that you have also reviewed the assessement rubric, and contact your lecturers in case of any queries.

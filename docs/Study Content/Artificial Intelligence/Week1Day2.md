@@ -101,7 +101,7 @@ For instructions on how to create a markdown file in VSCode, see the video below
 
 ## 3) DataLab preparation (Week 1, DataLab 1)
 
-- [ ] Go to BUas' [Meta Search Engine](https://eds.s.ebscohost.com/eds/search/basic?vid=6&sid=59355576-7a16-4eec-86aa-73f051f228f0%40redis), and find:
+- [ ] Go to BUas' [metasearch engine](https://www.buas.nl/library/library-metasearch), and find:
 
 1. A study skills book (e.g., presenting, writing, etc.) from the Library Collection
 2. An AI-related eBook from the Library Collection.

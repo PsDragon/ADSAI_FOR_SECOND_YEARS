@@ -106,7 +106,7 @@ For instructions on how to create a markdown file in VSCode, see the video below
 1. A study skills book (e.g., presenting, writing, etc.) from the Library Collection
 2. An AI-related eBook from the Library Collection.
 
-Open your [**YourName_BlockA_DataLabPreparation**] markdown file, and write down the title, author(s), accession number and publication year. Commit the changes, and push the markdown file to your personal BUas repository, which is listed [here](ADD LINK). 
+Open your [**YourName_BlockA_DataLabPreparation**] markdown file, and write down the title, author(s), accession number and publication year. Commit the changes, and push the markdown file to your personal BUas repository.
 
 - [ ] Fill in your Work Log.
 - [ ] Set a goal for Week 1, and note it down in your Learning Log.  

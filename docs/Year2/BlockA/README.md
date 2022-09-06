@@ -165,7 +165,7 @@ Your final (<mark>individual</mark>) deliverables are:
 The medal courses for this block have been specifically selected to help boost your portfolio and extend your knowledge and expertise. You can complete these challenges as a group or individually, and you can also finish them after the initial deadline!
 
 <figure>
-    <img src="./images/medals.png"/>
+    <img src="./images/medals.PNG"/>
 </figure>
 <br>
 

@@ -30,7 +30,7 @@ If you have questions or issues regarding the course material, please fill out t
 
 ***
 
-## 1) Q&A and Standup
+## 1) Q&A and Standup (9:15-9:30)
 
 __1a__ Ask questions regarding the independent study material.
 
@@ -42,9 +42,9 @@ __1b__ Answer the following questions:
 
 ***
 
-## 2) Workshop: Presenting
+## 2) Workshop: Presenting (9:30-17:00)
 
-### 2.1 Preparing a presentation
+### 2.1 Preparing a presentation 
 
 __2.1a__ Read [Chapter 15](https://socialsci.libretexts.org/Bookshelves/Communication/Public_Speaking/Public_Speaking_(The_Public_Speaking_Project)/15%3A_Informative_Speaking) of the book Public Speaking by The Public Speaking Project. This particular chapter will teach you how to create and deliver an informative speech.
 
@@ -77,9 +77,11 @@ Want to go beyond the traditional slide-based presentation (e.g., PowerPoint)? M
 
 - [Prezi Essential Training](https://www.linkedin.com/learning/prezi-essential-training-8334259/break-out-of-linear-presentations-with-prezi?autoplay=true&u=36359204) (LinkedIn Learning course, Garrick Chow)
 
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #a94442; background-color: #f2dede; border-color: #ebccd1;">
-Note: Please, inform your mentor when you finished preparing the presentation, they will arrange a group (maximum of 5 students) for you, so you can proceed with the next step, - i.e., delivering your presentation, and providing feedback to your peers.
-</div>
+***
+
+## Lunch break (12:00-13:00)
+
+***
 
 ### 2.2 Delivering a presentation 
 
@@ -102,7 +104,7 @@ __Schedule:__
 
 ***
 
-## 3) Creative Brief: Minority Report (3)
+## 3) Creative Brief: Minority Report (3) (13:00-17:00)
 
 After finishing the in-class exercises, try to apply your newly gained knowledge to the Creative Brief. For example, you could create an outline for your 'AI in Science Fiction' presentation, and discuss its content with your peers and/or mentor.
 

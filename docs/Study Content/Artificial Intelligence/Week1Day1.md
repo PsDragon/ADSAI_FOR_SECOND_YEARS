@@ -90,7 +90,7 @@ __2.2f__ Connect the Post It notes (Fig 2.) to the relevant quadrant in the phil
 
 *Figure 3. Philosophy of AI matrix.*
 
-__3.2g__ After completing the readings and exercises of this section, would you provide the same answer to exercise 2.1b? Explain your answer.
+__2.2g__ After completing the readings and exercises of this section, would you provide the same answer to exercise 2.1b? Explain your answer.
 
 ***
 

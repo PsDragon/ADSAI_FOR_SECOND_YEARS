@@ -160,14 +160,6 @@ Your final (<mark>individual</mark>) deliverables are:
 
 > The best conference poster will be invited to present their findings via a presentation.
 
-## Resources
-
-[1] [Artificial Intelligence: American Attitudes and Trends](https://governanceai.github.io/US-Public-Opinion-Report-Jan-2019/executive-summary.html) <br>
-[2] [OpenStax Online Textbook](https://openstax.org/books/introductory-statistics/pages/1-introduction) <br>
-[3] Creswell, J. W., & Poth, C. N. (2016). Qualitative inquiry and research design: Choosing among five approaches. Sage publications. ([Versions 2](https://search.library.buas.nl/cgi-bin/koha/opac-detail.pl?biblionumber=10404) and 5 are available in the library)<br>
-[4] [Overleaf APA6 template](https://www.overleaf.com/latex/templates/your-apa6-style-manuscript/kngbbqpypjcq)<br>
-
-
  ## Medal Challenges
 
 The medal courses for this block have been specifically selected to help boost your portfolio and extend your knowledge and expertise. You can complete these challenges as a group or individually, and you can also finish them after the initial deadline!
@@ -181,3 +173,12 @@ The medal courses for this block have been specifically selected to help boost y
 - [ ] Bronze medal: [Do part 1 of this course.]() 
 - [ ] Silver medal: [Do part 2 of this course.]()
 - [ ] Gold medal: 1) Choose a [academic conference](https://en.wikipedia.org/wiki/Academic_conference) to publish your paper in; 2) confer with your mentor about the suitability of the conference; 3) prepare a draft according to their formatting standards; 4) Get your paper checked by your mentor; 5) Potentially iterate based on feedback; 6) submit your draft to the selected conference. -->
+
+## Resources
+
+[1] [Artificial Intelligence: American Attitudes and Trends](https://governanceai.github.io/US-Public-Opinion-Report-Jan-2019/executive-summary.html) <br>
+[2] [OpenStax Online Textbook](https://openstax.org/books/introductory-statistics/pages/1-introduction) <br>
+[3] Creswell, J. W., & Poth, C. N. (2016). Qualitative inquiry and research design: Choosing among five approaches. Sage publications. ([Versions 2](https://search.library.buas.nl/cgi-bin/koha/opac-detail.pl?biblionumber=10404) and 5 are available in the library)<br>
+[4] [Overleaf APA6 template](https://www.overleaf.com/latex/templates/your-apa6-style-manuscript/kngbbqpypjcq)<br>
+
+

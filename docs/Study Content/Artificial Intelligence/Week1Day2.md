@@ -52,7 +52,7 @@ The rise of artificial intelligence forces us to rethink what robots mean to soc
 
 In the article Computing Machinery and Intelligence (1950), Turing lays the foundation for modern day AI. He introduces an behavioural test, the Turing Test, and discusses some objections raised in relation to this test. As a result of his contributions to the field, he also called one of the 'founding fathers' of AI.
 
-__1.2b__ Besides the Turing Test, Alan Turing is renowned for his work on:
+__1.2a__ Besides the Turing Test, Alan Turing is renowned for his work on:
 \
 1.
 \
@@ -66,9 +66,9 @@ Fill in the blanks.
 Alert: Whoever has the quirkiest fact on Alan Turing will receive a candy bar at the end of the workshop in DataLab 1, Week 2.
 </div>
 
-__1.2c__ Read Wikipedia's summary of [Computing Machinery and Intelligence](https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence#:~:text=Computing%20Machinery%20and%20Intelligence%20From%20Wikipedia%2C%20the%20free,as%20the%20Turing%20test%20to%20the%20general%20public.)
+__1.2b__ Read Wikipedia's summary of [Computing Machinery and Intelligence](https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence#:~:text=Computing%20Machinery%20and%20Intelligence%20From%20Wikipedia%2C%20the%20free,as%20the%20Turing%20test%20to%20the%20general%20public.)
 
-__1.2d__ Watch the video 'Turing Test: Can Machines Think?' by the highly popular podcast-making AI researcher Lex Fridman.
+__1.2c__ Watch the video 'Turing Test: Can Machines Think?' by the highly popular podcast-making AI researcher Lex Fridman.
 
 <iframe width="896" height="504" src="https://www.youtube.com/embed/MGW_Qcqr9eQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -81,7 +81,7 @@ Tip: If you are having difficulties reading the mathematical equations or unders
 <a href="https://www.youtube.com/c/K%C3%A1rolyZsolnai/featured">Two Minute Papers</a>), StackOverfow, Quora, and Medium are examples of webpages that can help you in analysing these sources of information.
 </div>
 
-__1.2e__ Describe the procedure, and main objective of Turing's 'Imitation Game'. Write your answer down
+__1.2d__ Describe the procedure, and main objective of Turing's 'Imitation Game'. Write your answer down
 
 ***
 

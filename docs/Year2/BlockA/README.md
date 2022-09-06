@@ -172,6 +172,6 @@ Your final (<mark>individual</mark>) deliverables are:
 
 The medal courses for this block have been specifically selected to help boost your portfolio and extend your knowledge and expertise: actually getting your paper published. This would be the logical next step after doing a sociological research; whether you found what you were looking for or not! You can complete these challenges as a group or individually, and you can also finish them after the initial deadline!
 
-- [ ] Bronze medal: [Do part 1 of this course.](https://masterclasses.nature.com/online-course-in-scientific-writing-and-publishing/16507840?gclid=CjwKCAjw3qGYBhBSEiwAcnTRLhQOvV1NOUWlpNpbw0x9o5IdW8Q5P0v0AtFzxng2DIe28BHb-eM9YBoCOiwQAvD_BwE) For those of you unaware; Nature is the most prestigues scientific journal out there and just having their name somewhere on you CV/Linkedin will already help you gain attention!.
-- [ ] Silver medal: [Do part 2 of this course.](https://masterclasses.nature.com/online-course-in-scientific-writing-and-publishing/16507840?gclid=CjwKCAjw3qGYBhBSEiwAcnTRLhQOvV1NOUWlpNpbw0x9o5IdW8Q5P0v0AtFzxng2DIe28BHb-eM9YBoCOiwQAvD_BwE)
+- [ ] Bronze medal: [Do part 1 of this course.]() 
+- [ ] Silver medal: [Do part 2 of this course.]()
 - [ ] Gold medal: 1) Choose a [academic conference](https://en.wikipedia.org/wiki/Academic_conference) to publish your paper in; 2) confer with your mentor about the suitability of the conference; 3) prepare a draft according to their formatting standards; 4) Get your paper checked by your mentor; 5) Potentially iterate based on feedback; 6) submit your draft to the selected conference. -->

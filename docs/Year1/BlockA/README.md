@@ -13,6 +13,7 @@ Each of the seven/eight weeks has a fixed structure: on Monday, Wednesday and Th
 | Gilmara Merrill (Lecturer), MSc. <img src="./GilmaraProfile.png" alt="Gilmara Merrill profile picture" width="200"/> | Wed, Fri | Block A, Group 3 (1FAI-05), Year 1 | merrill.g@buas.nl | Digital Transformation & Change Management |
 | Irene van Blerck (Lecturer), MSc. <img src="./IreneProfile.jpg" alt="Irene van Blerck profile picture" width="200"/>   |  Tue, Wed, Thu, Fri | Block A, Group 4 (1FAI-02), Year 1 |  blerck.i@buas.nl | Responsible AI, Computer vision |
 | Bram Heijligers (Lecturer), MSc. <img src="./BramProfile.jpg" alt="Bram Heijligers profile picture" width="200"/> |  Wed, Thur, Fri | Block A, Group 5 (1FAI-03), Year 1  | heijligers.b@buas.nl | Data Science |
+| Zhanna Kozlova (Lecturer), MA. <img src="./ZhannaProfile.jpg" alt="Zhanna Kozlova profile picture" width="200"/>  |   |  Block A, Group 5 (1FAI-03), Year 1 | kozlova.z@buas.nl  |   
 | Nitin Bhushan (Lecturer), PhD.  <img src="./NitinProfile.jpg" alt="Nitin Bhushan profile picture" width="200"/>  |  Mon, Wed, Thu, Fri  | Block A, Group 1, Year 2 | bhushan.n@buas.nl | Data Science and AI  |
 | Bert Heesakkers (Lecturer), MSc. <img src="./BertProfile.png" alt="Bert Heesakkers profile picture" width="200"/> | NA | Workshops | heesakkers.b@buas.nl |   |
 | Frank Peters (Program manager), PhD. <img src="./FrankProfile.jpeg" alt="Frank Peters profile picture" width="200"/> | Mon, Tue, Wed, Thu |  NA | peters.f@buas.nl |   |

@@ -143,7 +143,7 @@ You are encouraged to get the best out of yourself. Therefore, within the ADS&AI
 - [Conference: Artificial Intelligence & The BUAS domains](../../Study%20Content/Artificial%20Intelligence/Week1Day4.html) (Location: BUAS Campus)
 
 ### Friday
-- [DataLab 2: Presenting (+ In-class workshop)](../../Study%20Content/Artificial%20Intelligence/Week1Day5.html)
+- [DataLab 2: Presenting](../../Study%20Content/Artificial%20Intelligence/Week1Day5.html)
 
 ## Week 2: Introduction to Artificial Intelligence
 

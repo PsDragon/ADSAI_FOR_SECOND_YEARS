@@ -14,7 +14,7 @@ To prepare you for the informative speech, i.e., the presentation 'AI in Science
 
 *Figure 1. Sad, but true...*
 
-These exercises will, among others, help you structure your speech and reduce some of the stage fright you might have. Lastly, we kindly ask you to turn on your camera during the online Microsoft Team meeting(s). 
+These exercises will, among others, help you structure your speech and reduce some of the stage fright you might have. Lastly, we kindly ask you to turn on your camera during the online Microsoft Team meeting(s).
 
 ## Learning objectives
 
@@ -32,7 +32,7 @@ If you have questions or issues regarding the course material, please fill out t
 
 ## 1) Q&A and Standup (9:15-9:30)
 
-<mark>Please, join your Microsoft Teams mentor group meeting, so we can start with the Q&A and Standup.</mark> 
+<mark>You will receive a Microsoft Teams call from your mentor at 9:15.</mark> 
 
 __1a__ Ask questions regarding the independent study material.
 
@@ -45,8 +45,6 @@ __1b__ Answer the following questions:
 ***
 
 ## 2) Work and Learning Log (9:30-10:00)
-
-<mark>Please, join the Microsoft Teams year 1 meeting, so we can start with Work and Learning Log review.</mark> 
 
 In-class review, instructions by lecturer.
 
@@ -87,33 +85,27 @@ Want to go beyond the traditional slide-based presentation (e.g., PowerPoint)? M
 
 - [Prezi Essential Training](https://www.linkedin.com/learning/prezi-essential-training-8334259/break-out-of-linear-presentations-with-prezi?autoplay=true&u=36359204) (LinkedIn Learning course, Garrick Chow)
 
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #a94442; background-color: #f2dede; border-color: #ebccd1;">
+Note: Please, inform your mentor when you are finished with preparing your presentation, they will arrange a group of students for you, so you can proceed with the next step, - i.e.,  presenting your history of AI 'milestone', and providing feedback to your peers.
+</div>
+
 ***
 
 ## Lunch break (12:00-13:00)
 
 ***
 
-### 3.2 Delivering a presentation (14:00-16:00)
+### 3.2 Delivering a presentation (14:00-15:00)
 
 <img src="./images/PowerpointMeme.jpg" alt="PowerPoint meme" width="400"/>
 
 *Figure 2. Please, do not do this...*
 
-__3.2a__ Make a recording of your presentation, and upload it to your personal Microsoft Teams environment:
-
-![Upload presentation video to personal Microsoft Teams environment](./images/MicrosoftTeamsUpload.gif)
-
-*Figure 3. Upload presentation video to personal Microsoft Teams environment.*
-
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #a94442; background-color: #f2dede; border-color: #ebccd1;">
-Note: Please, inform your mentor (via the mentor group Microsoft Teams meeting) when you finished recording the presentation, they will arrange a group of students for you, so you can proceed with the next step, - i.e., watching the presentations, and providing feedback to your peers.
-</div>
-
-__3.2b__ Watch the presentation videos of your fellow group members (via sharing your screen in a Microsoft Teams meeting), and fill in the feedback forms, which you can find <a href="./documents/PeerReviewFormforStudentPresentations.pdf">here</a>.
+__3.2a__ Present your history of AI 'milestone', and fill in the peer feedback forms, which you can find <a href="./documents/PeerReviewFormforStudentPresentations.pdf">here</a>.  
 
 ***
 
-## 4) Creative Brief: Minority Report (3) (16:00-17:00)
+## 4) Creative Brief: Minority Report (3) (15:00-17:00)
 
 After finishing the in-class exercises, try to apply your newly gained knowledge to the Creative Brief. For example, you could create an outline for your 'AI in Science Fiction' presentation, and discuss its content with your peers and/or mentor.
 

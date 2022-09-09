@@ -2,21 +2,19 @@
 sort: 15
 ---
 
-# Datalab 05: Conclusion and Storytelling with Data
+# Datalab 05: Presenting and Storytelling with Data
 
 We've now learned everything we needed to know in order to finish our first data science project. All that's left is writing the conclusion and referencing any sources you may have used, like the webpage of the SDG indicators where you got your data. Once you're finished, you can use the remainder of your time to brush up on your dashboard or revisit part of the analysis like data visualisation or interpretation.
 
 ## Learning Objectives
-1. write a conclusion;
-2. reference your sources;
-3. understand the CRISP-DM.
+1. Learn Data-Driven Story Telling Fundamentals;
+2. Practise on your presentation skills.
 
 Please follow the links below to continue the class:
 0. Datalab Preparation Review: 0.5 hours
 1. Feedback on dashboard: 0.5 hours
-2. 10:00 - 12:00: Data-Driven Story Telling Fundamentals
-2. Conclusion: 2 hours
-3. Referencing: 1 hour
+2. 10:00 - 12:00: Data-Driven Story Telling Fundamentals Lecture
+2. 13:00 - 17:00: Presentation Skill Workshop
 
 ### Questions or issues?
 If you have any questions or issues regarding the course material, please first ask your peers or ask a member of staff if you can't figure it out together!
@@ -38,19 +36,13 @@ Now it's time to gather the feedback on your dashboard. Ask you mentor(s) to pro
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AwMFhyH7_5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 2) Data-Driven Story Telling Fundamentals
-Take place from 10:00 - 12:00 in the Datalab!
+Workshop take place from 10:00 - 12:00 in the Datalab!
 
 ***
 
-## 3) Write the Conclusion
-Now, let's write the conclusion of your dashboard. You have gone through all the steps. You know what to do next and why that's what you need to do. That essentially involves communicating:
-- A summary of the problem and research question: the problem makes a case for the research question;
-- What the data implies based on your Exploratory Data Analysis;
-- How to proceed or what to consider.
+## 3) Presentation Skills Workshop
+Workshop take place from 13:00 - 17:00 in the Datalab!
 
-
-## 4) Referencing
-You already learned how to refer to sources using APA citation in Digital Transformation. If you need a refresher, look at [Scientific Writing 2](https://adsai.buas.nl/Study%20Content/Digital%20Transformation/Scientific%20writing%202.html). They're some good APA referencing tools available. [Google Scholar]() is a good one. The [Scribbr Citation Tool](https://www.scribbr.com/apa-citation-generator/) also seems to be good. There are other tools available as well. We're going to cite any sources used for our data science project in the conference dashboard.
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Tip: Get the Gold challenge by actually doing a correlational or linear regression analysis in Power BI. For this challenge you'll have to find a way to do that without any instruction from us! Make sure to reference that instruction and evidence you analysis in your dashboard and learning log!</a> article.

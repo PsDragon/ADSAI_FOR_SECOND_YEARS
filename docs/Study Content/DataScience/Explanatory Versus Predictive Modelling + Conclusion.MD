@@ -1,7 +1,7 @@
 ---
 sort: 16
 ---
-# Explanatory versus Predictive Modelling Approach + more Reporting
+# Explanatory versus Predictive Modelling Approach + Conclusion
 Today we will review different types of analyses; and all the different terms people like to give them (that's a downside of an emerging field; R.I.P. us). We're also going to look at what constitutes a good or bad prediction. So, today we'll explore some theoretical concepts and allow you to form a clearer picture of what constitutes data science. Therefore, we won't do a mock assignment as we don't apply this theory to our dashboard directly. You can, however, use your improved vocabulary to supplement the discussion and conclusion section of your dashboard.
 
 Learning objectives:
@@ -10,11 +10,15 @@ Learning objectives:
 - understanding the difference between descriptive, predictive and explanatory analysis;
 - understanding what Big Data is;
 - making good and bad predictions.
+- write a conclusion;
+- reference your sources;
 
 Table of contents:
 0. Difference between descriptive, predictive and explanatory analysis: 2 hours (Optional)
-4. Good and bad predictions: 0.5 hours
-5. Workshop on reporting: 5.5 - 7.5 hours
+1. Good and bad predictions: 0.5 hours
+2. Workshop on reporting: 5.5 hours
+3. Conclusion: 1 hour
+4. Referencing: 1 hour
 
 ## Questions or issues?
 
@@ -47,8 +51,22 @@ We're going to take a look at some of the times we've used statistics to gaze in
 Time for the [the workshop part](https://app.datacamp.com/learn/courses/report-design-in-power-bi) of this class to expand our data reporting skills in Power BI so we can better write the and report your results. Complete the entire course and upload the certificate to github, reference the certificate in your learning log for this week.
 
 
-## 3) Work on dashboard
-Use your extra time to start working on your dashboard! Remember that on Wednesday we have a mock-presentation to practise and gather feedback, whereas the actual final presentation is this Friday! Remember that **the deadline for handing in the Dashboard is Thursday of week 7 at 17:00!**
+
+## 3) Write the Conclusion
+Now, let's write the conclusion of your dashboard. You have gone through all the steps. You know what to do next and why that's what you need to do. That essentially involves communicating:
+- A summary of the problem and research question: the problem makes a case for the research question;
+- What the data implies based on your Exploratory Data Analysis;
+- How to proceed or what to consider.
+
+
+## 4) Referencing - Preparation for next DataLab!
+You already learned how to refer to sources using APA citation in Digital Transformation. If you need a refresher, look at [Scientific Writing 2](https://adsai.buas.nl/Study%20Content/Digital%20Transformation/Scientific%20writing%202.html). They're some good APA referencing tools available. [Google Scholar]() is a good one. The [Scribbr Citation Tool](https://www.scribbr.com/apa-citation-generator/) also seems to be good. There are other tools available as well. We're going to cite any sources used for our data science project in the conference dashboard.
+
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Tip: Get the Gold challenge by actually doing a correlational or linear regression analysis in Power BI. For this challenge you'll have to find a way to do that without any instruction from us! Make sure to reference that instruction and evidence you analysis in your dashboard and learning log!</a> article.
+</div>
+
+Remember that **the deadline for handing in the Dashboard is Thursday of week 7 at 17:00!**
 
 ## Up Next
 Tomorrow we will look into user-experience design and work on our dashboard presentation for wednesday (mock-presentation to gather feedback).

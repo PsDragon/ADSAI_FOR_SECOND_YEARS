@@ -7,10 +7,13 @@ sort: 18
 We've now created the first full version of our dashboard! Today is all about gathering feedback on your dashboard and iterating on it using the CRISP-DM. Great job if you managed to finish your dashboard in time! If you're not there yet, don't worry; gathering feedback today is important as well even if you're not finished yet! Once you're finished, you can use the remainder of your time to brush up on your conference dashboard or revisit part of the analysis like data visualisation or interpretation.
 
 ## Learning Objectives
-1. understand and apply the CRISP-DM.
+1. Analyse conclusions and references;
+2. understand how you can improve on your own conclusion and references;
+2. understand and apply the CRISP-DM.
 
 Please follow the links below to continue the class:
-1. Feedback on Poster: 3 hours
+0. Stand-up: .25 hours
+1. Feedback on Dashbaord & Datalab Preparation: 2.5 hours
 2. CRISP-DM: 5 hour; potentially more depending on your project
 
 ## Questions or issues?
@@ -30,6 +33,9 @@ Good luck!
 ## 1) Feedback on dashboard
 Now, your mentor should gather your group and get you a nice screen. Then in alphabetical order you will present your dashboard by means of a walkthrough and your peers and mentors will provide you with questions and feedback. Make sure to keep your file for taking notes at the ready and record all important feedback you need to act on! 
 If you get any action points from your mentor or peers, you should try to incorperate it into your final dashboard before **(coming) Thursday of week 7 at 17:00!**
+
+### How? 
+You will start the walkthrough by going through the entire dashboard starting at the introduction and ending at the conclusion; where the conclusion and references will be of specific interest as these are receiving feedback for the first time.
 
 
 

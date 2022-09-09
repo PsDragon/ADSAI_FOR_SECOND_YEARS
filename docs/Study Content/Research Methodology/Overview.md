@@ -22,4 +22,9 @@ Most of these material are used in courses, others however are extracurriculary 
 - [ ] [Codebook](https://github.com/BredaUniversityADSAI/ADS-AI/blob/f020e08818bb64486e784e2447334fb866ee1df9/docs/Study%20Content/Research%20Methodology/Assets/Codebook_Template.md). 
 
 ## Books
+### Quantitative
 - Creswell, J. W., & Creswell, J. D. (2017). Research design: Qualitative, quantitative, and mixed methods approaches. Sage publications. ([Version 2 is available in the library](https://search.library.buas.nl/cgi-bin/koha/opac-detail.pl?biblionumber=10404))
+
+### Qualitative:
+- Lapan, Stephen D., Quartaroli, MarryLynn T. and Riemer, Frances J., (2012), Qualitative research: an introduction to methods and designs,  San Francisco, Calif : Jossey-Bass. (Available in the Library)
+- Creswell, John W., Creswell,David J., (2018) Research Design: Qualitative, Quantitative, and Mixed Methods Approaches, Thousand Oaks, California: SAGE Publications, Inc. (Available in the Library)

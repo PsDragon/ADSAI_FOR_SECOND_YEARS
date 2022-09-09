@@ -116,7 +116,7 @@ The knowledge modules linked to this phase are:
 
 - [ ] [Research Methods:](https://www.coursera.org/learn/research-methods){:target="_blank"} <br> Complete the first 3 week modules and take a screenshot of each completed quiz; your score does not count towards your final grade, and attach it to your learning log. Do the week 4 module on Thursday the 15th of September, reflect on your research design in your learning log in separate slide and iterate on it accordingly.
 - [ ] [Quantitative Methods:](https://www.coursera.org/learn/quantitative-methods){:target="_blank"} Complete the first 6 week modules and take a screenshot of each completed quiz; your score does not count towards your final grade, and attach it to your learning log. 
-- [ ] Qualitative Methods: Covered by a Guest Lecture by Shima Rezaei Rashnoodi on Monday Week 2 from 10:00 - 12:00; check your calendar for the location, and a workshop on Friday in datalab days in week 2. Attendance is mandatory and recorded. In case of absence, contact your mentor for a valid leave of absence and an alternative knowledge module.
+- [ ] Qualitative Methods: Covered by a Guest Lecture by Shima Rezaei Rashnoodi on Monday Week 3 from 10:00 - 12:00; check your calendar for the location, and a workshop on Friday in datalab days in week 3. Attendance is mandatory and recorded. In case of absence, contact your mentor for a valid leave of absence and an alternative knowledge module.
 
 
 ### Week 5-6

@@ -27,4 +27,3 @@ Most of these material are used in courses, others however are extracurriculary 
 
 ### Qualitative:
 - Lapan, Stephen D., Quartaroli, MarryLynn T. and Riemer, Frances J., (2012), Qualitative research: an introduction to methods and designs,  San Francisco, Calif : Jossey-Bass. (Available in the Library)
-- Creswell, John W., Creswell,David J., (2018) Research Design: Qualitative, Quantitative, and Mixed Methods Approaches, Thousand Oaks, California: SAGE Publications, Inc. (Available in the Library)

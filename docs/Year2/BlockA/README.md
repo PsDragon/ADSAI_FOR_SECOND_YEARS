@@ -181,6 +181,6 @@ The medal courses for this block have been specifically selected to help boost y
 [3] Creswell, J. W., & Poth, C. N. (2016). Qualitative inquiry and research design: Choosing among five approaches. Sage publications. ([Versions 2](https://search.library.buas.nl/cgi-bin/koha/opac-detail.pl?biblionumber=10404) and 5 are available in the library)<br>
 [4] [Overleaf APA6 template](https://www.overleaf.com/latex/templates/your-apa6-style-manuscript/kngbbqpypjcq)<br>
 [5] Lapan, Stephen D., Quartaroli, MarryLynn T. and Riemer, Frances J., (2012), Qualitative research: an introduction to methods and designs,  San Francisco, Calif : Jossey-Bass. (Available in the Library)
-[6] Creswell, John W., Creswell,David J., (2018) Research Design: Qualitative, Quantitative, and Mixed Methods Approaches, Thousand Oaks, California: SAGE Publications, Inc. (Available in the Library)
+
 
 

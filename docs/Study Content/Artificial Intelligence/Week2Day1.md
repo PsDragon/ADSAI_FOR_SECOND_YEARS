@@ -38,9 +38,7 @@ __1.1b__ Watch the video on Deep Blue by IBM.
 
 *Video 1. Deep Blue*
 
-__1.1c__ IBM's Deep Blue uses a a) symbolic or b) connectionist approach to AI? Select one of the options, and explain your choice.
-
-__1.1d__ Two intelligent agents are playing chess with a clock. One of them is called 'Deep Blue', while the other is called Gary Kasparov. Roughly specify the task environment for Deep Blue (this means you will have to specifying each letter in PEAS), and determine each of the following properties of this task environment:
+__1.1c__ Two intelligent agents are playing chess with a clock. One of them is Deep Blue, while the other is Gary Kasparov. Roughly specify the task environment for Deep Blue (this means you will have to specifying each letter in PEAS), and determine each of the following properties of this task environment:
 
 1. a) Fully observable or b) partially observable
 2. a) Deterministic or b) stochastic
@@ -51,9 +49,9 @@ __1.1d__ Two intelligent agents are playing chess with a clock. One of them is c
 
 Explain your answer.
 
-__1.1e__ Provide an example of an intelligent agent, and give a PEAS description of the task environment, and characterize it in terms of the properties listed in Section 2.3.2 (p. 117) in AIMA.
+__1.1d__ Provide an example of an intelligent agent, and give a PEAS description of the task environment, and characterize it in terms of the properties listed in Section 2.3.2 (p. 117) in AIMA.
 
-__1.1f__ Compare and contrast the following agent types:
+__1.1e__ Compare and contrast the following agent types:
 
 - Simple reflex
 - Model-based reflex
@@ -84,9 +82,20 @@ __1.2e__ Watch the video about ELIZA, the first chatbot, which Joseph Weizenbaum
 
 *Video 3. Before Siri and Alexa, there was ELIZA.*
 
+__1.2f__ ELIZA is an example of a ...
+
+a) rule-based chatbot
+\
+b) retrieval-based chatbot
+\
+c) generative chatbot
+
+Select the correct statement, and elaborate on your choice. 
+
+
 Now, it is time to develop your own chatbot...
 
-__1.2f__ Create a simple, code-free, rule-based chatbot with [Google Forms](https://docs.google.com/forms/u/0/), and [Fobi.io](https://fobi.io/). If you are new to Google Forms, check out the tutorial [Get started with Forms](https://support.google.com/a/users/answer/9302965?hl=en&visit_id=637898380966613309-4095149186&ref_topic=9296604&rd=1).
+__1.2g__ Create a simple, code-free, rule-based chatbot with [Google Forms](https://docs.google.com/forms/u/0/), and [Fobi.io](https://fobi.io/). If you are new to Google Forms, check out the tutorial [Get started with Forms](https://support.google.com/a/users/answer/9302965?hl=en&visit_id=637898380966613309-4095149186&ref_topic=9296604&rd=1).
 
 For a complete tutorial on how to create your chatbot, see video below:
 

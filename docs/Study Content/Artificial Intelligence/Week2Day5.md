@@ -100,6 +100,6 @@ __Schedule:__
 
 ## 3) Creative Brief: Minority Report (5)
 
-The goal of this DataLab is to get familiar with various feedback methods. During the 'AI in Science Fiction' presentation you will be asked to provide constructive feedback to your peers. By the end of the day, try to list at least one element, related to the presentation, you want to receive feedback on. Furthermore, read through the peer feedback <a href="./documents/AnonymousPeerReviewForm.pdf">template</a>, which we will use during the 'AI in Science Fiction' presentation. 
+The goal of this DataLab is to get familiar with various feedback methods. During the 'AI in Science Fiction' presentation you will be asked to provide constructive feedback to your peers. By the end of the day, try to list at least one element, related to the presentation, you want to receive feedback on. Furthermore, read through the peer feedback <a href="./documents/PeerReviewFormforStudentPresentations.pdf">template</a>, which we will use during the 'AI in Science Fiction' presentation. 
 
 ***

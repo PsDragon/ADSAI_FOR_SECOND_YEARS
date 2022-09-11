@@ -40,6 +40,15 @@ __1.1b__ Watch the video on Deep Blue by IBM.
 
 __1.1c__ Two intelligent agents are playing chess with a clock. One of them is Deep Blue, while the other is Gary Kasparov. Roughly specify the task environment for Deep Blue (this means you will have to specifying each letter in PEAS), and determine each of the following properties of this task environment:
 
+__Specifying the task environment:__
+
+1. Performance measure: ...
+2. Environment: ...
+3. Actuators: ...
+4. Sensors: ...
+
+__Properties of task environments:__
+
 1. a) Fully observable or b) partially observable
 2. a) Deterministic or b) stochastic
 3. a) Episodic or b) sequential
@@ -49,7 +58,7 @@ __1.1c__ Two intelligent agents are playing chess with a clock. One of them is D
 
 Explain your answer.
 
-__1.1d__ Provide an example of an intelligent agent, and give a PEAS description of the task environment, and characterize it in terms of the properties listed in Section 2.3.2 (p. 117) in AIMA.
+__1.1d__ Provide an example of an intelligent agent, and give a PEAS description of the task environment, and characterize it in terms of the task properties listed in Section 2.3.2 (p. 61) in AIMA.
 
 __1.1e__ Compare and contrast the following agent types:
 

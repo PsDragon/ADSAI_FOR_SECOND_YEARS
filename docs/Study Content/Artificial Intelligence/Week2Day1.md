@@ -47,7 +47,7 @@ __Specifying the task environment:__
 3. Actuators: ...
 4. Sensors: ...
 
-__Properties of task environments:__
+__Properties of the task environment:__
 
 1. a) Fully observable or b) partially observable
 2. a) Deterministic or b) stochastic

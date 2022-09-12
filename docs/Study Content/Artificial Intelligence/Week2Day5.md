@@ -5,9 +5,7 @@ sort: 10
 ## DataLab 2: Feedback
 
 
-In today's DataLab session, we will focus on strengthening our feedback skills, which will help us identify and develop each other's strengths and weaknesses. 
-
-To prepare you for the informative speech, i.e., the presentation 'AI in Science Fiction', we created a couple of in-class exercises. These will, among others, help you to provide constructive feedback to your peers during the presentation. 
+In today's DataLab session, we will focus on strengthening our feedback skills, which will help us identify and develop each other's strengths and weaknesses. To prepare you for the informative speech, i.e., the presentation 'AI in Science Fiction', we created a couple of in-class exercises. These will, among others, help you to provide constructive feedback to your peers during the presentation. Furthermore, today you will have your bi-weekly formative feedback session with your mentor (Further details to follow, see Microsoft Teams).
 
 ## Learning objectives
 

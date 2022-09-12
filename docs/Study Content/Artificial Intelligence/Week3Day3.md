@@ -8,7 +8,7 @@ In today's DataLab session, you will have time to work on your 'AI in Science Fi
 
 ## Learning objectives
 
-1. Describe the main tasks, skills, and responsibilities of a data/ML engineer
+1. Describe the main tasks, skills, and responsibilities of a data analyst
 
 ## Questions or issues?
 
@@ -30,11 +30,14 @@ __1b__ Answer the following questions:
 
 ## 2) A Day in a life of ... 
 
-Each Wednesday, you will have the chance to familiarise yourself with the different roles that constitute a professional data team. This week focuses on the data analyst. __From 15:00-16:00 there will be a guest lecture by Max Poirault (Fe1.018)__. Afterwards, there is time to for asking questions.   
+Each Wednesday, you will have the chance to familiarise yourself with the different roles that constitute a professional data team. This week focuses on the data analyst. <mark>From 15:00-16:00 there will be a guest lecture by Max Poirault (Fe1.018)</mark>. Afterwards, there is time to for asking questions.   
 
 ### 2.1 Data analyst
 
 __2.1a__ Find out what a typical work day looks like for a data analyst (e.g., daily tasks, and related skills, etc.).
+
+__2.1b__ Come up with at least one question for the guest lecturer Max Poirault concerning his work as a data analyst.  
+
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Note: The Bronze Challenge for Block A is creating an infographic that provides an overview of the different roles that constitute a professional data team.

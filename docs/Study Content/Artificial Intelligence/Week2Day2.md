@@ -80,7 +80,7 @@ Let us say you work as an emergency room doctor in a hospital, and you, on avera
 
 *__Descriptive analytics__* would help you explain what happened by effectively visualizing comprehensive, accurate, and real-time data. 
 
-__Tools: Power BI, Tableau, Excel, SQL, etc.__
+__Tools:__ Power BI, Tableau, Excel, SQL, etc.
 
 __2a__ Watch the video What is Descriptive Analytics? - Data Science Wednesday by Decisive Data.
 

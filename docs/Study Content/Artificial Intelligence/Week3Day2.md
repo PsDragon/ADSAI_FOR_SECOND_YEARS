@@ -58,7 +58,10 @@ __Example:__ [China's hi-tech war on its Muslim minority](https://www.theguardia
 
 ## 3) DataLab preparation (Week 3, DataLab 1):
 
-- [ ] Open your [**YourName_BlockA_DataLabPreparation**] markdown file, and list, and briefly describe the relevant Taxonomy of AI domains, and subdomains for your chosen AI topic. Commit the changes, and push the markdown file to your personal BUas repository, which is listed [here](ADD LINK).
+- [ ] Open your [**YourName_BlockA_DataLabPreparation**] markdown file, and list, and briefly describe the relevant Taxonomy of AI domains, and subdomains for your chosen AI topic. Commit the changes, and push the markdown file to your personal BUas repository.
+- [ ] Make a test video recording for the 'AI in Science Fiction' presentation, and upload it to your personal BUas repository. 
+
+<iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/G3Cytlicv8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Note: When you are finished with the independent study material, and still have some time left, try to apply your newly gained knowledge to the Creative Brief.

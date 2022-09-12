@@ -179,7 +179,7 @@ The medal courses for this block have been specifically selected to help boost y
 [1] [Artificial Intelligence: American Attitudes and Trends](https://governanceai.github.io/US-Public-Opinion-Report-Jan-2019/executive-summary.html) <br>
 [2] [OpenStax Online Textbook](https://openstax.org/books/introductory-statistics/pages/1-introduction) <br>
 [3] Creswell, J. W., & Poth, C. N. (2016). Qualitative inquiry and research design: Choosing among five approaches. Sage publications. ([Versions 2](https://search.library.buas.nl/cgi-bin/koha/opac-detail.pl?biblionumber=10404) and 5 are available in the library)<br>
-[4] [Overleaf APA6 template](https://www.overleaf.com/latex/templates/your-apa6-style-manuscript/kngbbqpypjcq)<br>
+[4] [Overleaf APA7 template](https://www.overleaf.com/latex/templates/template-and-sample-for-authoring-apa7-manuscripts/pvhtwcrvcmsp)<br>
 [5] Lapan, Stephen D., Quartaroli, MarryLynn T. and Riemer, Frances J., (2012), Qualitative research: an introduction to methods and designs,  San Francisco, Calif : Jossey-Bass. (Available in the Library)
 
 

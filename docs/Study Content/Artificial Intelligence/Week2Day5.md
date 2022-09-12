@@ -20,7 +20,7 @@ If you have questions or issues regarding the course material, please fill out t
 
 ***
 
-## 1) Q&A and Standup
+## 1) Q&A and Standup (9:15-9:30)
 
 __1a__ Ask questions regarding the independent study material.
 
@@ -32,9 +32,9 @@ __1b__ Answer the following questions:
 
 ***
 
-## 2) Workshop: Feedback
+## 2) Workshop: Feedback (9:30-17:00)
 
-### 2.1 Theory: How to give, and receive feedback?
+### 2.1 Theory: How to give, and receive feedback? (9:30-12:00)
 
 __2.1a__ Read the article [How to give and receive feedback effectively](https://breathe.ersjournals.com/content/breathe/13/4/327.full.pdf) by Hardavell et al., (2017). Although originally written for healthcare professionals, it is still relevant for us, ADS&AI students,  because it provides general guidelines on how to effectively provide, and receive feedback.   
 
@@ -82,9 +82,15 @@ __4. What I think you could have done better?__
 
 __2.1h__ In the bi-weekly formative feedback sessions between student and mentor, the teaching staff members deploy various feedback methods (e.g., the Pendleton model). Think about how you, as a student, can prepare for such as session. Write your findings down. 
 
-### 2.2 Practice time!
+***
 
-After the lunch break, you will participate in a workshop by Bert Heesakkers, where you have the chance put your newly gained knowledge on giving, and receiving feedback into practice. 
+## Lunch break (12:00-13:00)
+
+***
+
+### 2.2 Practice time! (12:00-17:00)
+
+After the lunch break, you will participate in a workshop by Bert Heesakkers (Hn0.015), where you have the chance put your newly gained knowledge on giving, and receiving feedback into practice. 
 
 __Schedule:__
 
@@ -94,7 +100,7 @@ __Schedule:__
 | 2.  Irene van Blerck |  13:00 - 13:45 |        
 | 3.  Alican Noyan |  14:00 - 14:45 |     
 | 4.  Dean van Aswegen  | 15:00 - 15:45  |     
-| 5.  Gilmara Merrill | 16:00 -16:45  |         
+| 5.  Gilmara Merrill | 16:00 - 16:45  |         
 
 ***
 

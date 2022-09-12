@@ -28,7 +28,7 @@ If you have questions or issues regarding the course material, please fill out t
 
 ***
 
-## 1) Q&A and Standup
+## 1) Q&A and Standup (9:15-9:30)
 
 __1a__ Ask questions regarding the independent study material.
 
@@ -40,9 +40,9 @@ __1b__ Answer the following questions:
 
 ***
 
-## 2) Workshop: The Turing Test
+## 2) Workshop: The Turing Test (9:30-12:00)
 
-### 2.1 Chatbots
+### 2.1 Chatbots (9:30-10:00)
 
 __2.1a__ Find a general purpose/universal chatbot that is accessible via a weblink, and answer the following questions:
 
@@ -56,7 +56,7 @@ Example: [Cleverbot](https://www.cleverbot.com/) (Carpenter, 1997).
 
 ***
 
-### 2.2  Strategy
+### 2.2  Strategy (10:00-11:00)
 
 Before we conduct the Turing Test, we need to devise a strategy to convince the 'judges'/interrogators that our chatbot is not a machine but a real human being. Together with your fellow group members you are going to develop such a strategy by drawing up a setting, and its corresponding conditions and questions. After the experiment, we will find out which group passed the test, and which group failed the test.
 
@@ -91,7 +91,7 @@ Tip: Try to come up with a set of possible weak points of the Turing Test
 
 ***
 
-### 2.3 Turing Test
+### 2.3 Turing Test (11:00-12:00)
 
 <img src="./images/turing_test_comic.png" alt="Turing Test" width="400"/>
 
@@ -105,9 +105,13 @@ Lecturer instructions and questions & answers template can be found in Microsoft
 
 ***
 
-## 3) A Day in a life of ... 
+## Lunch break (12:00-13:00)
 
-Each Wednesday, you will have the chance to familiarise yourself with the different roles that constitute a professional data team. This week focuses on the analytics translator. __From 15:00-16:00 there will be a guest lecture by Lars van Geet (Fe1.018)__. Afterwards, there is time to for asking questions.  
+***
+
+## 3) A Day in a life of ... (13:00-13:30)
+
+Each Wednesday, you will have the chance to familiarise yourself with the different roles that constitute a professional data team. This week focuses on the analytics translator. <mark>From 15:00-16:00 there will be a guest lecture by Lars van Geet (Fe1.018).</mark> Afterwards, there is time to for asking questions.  
 
 ### 3.1 Analytics translator
 
@@ -122,7 +126,7 @@ Note: The Bronze Challenge for Block A is creating an infographic that provides 
 
 ***
 
-## 4) Creative Brief: Minority Report (4)
+## 4) Creative Brief: Minority Report (4) (13:30-17:00)
 
 After finishing the in-class exercises, try to apply your newly gained knowledge to the Creative Brief. For example, you can investigate if the movie depicts any applications of conversational AI. If so, what are the technologies that drive these applications? Would you consider them 'intelligent'? Etc.
 

@@ -40,7 +40,7 @@ Struggling to read these (scientific) blogs, try to read a blog on a novel AI al
 
 *Figure 1. Two Minute Papers.*
 
-__1c__ Select three videos from [Two Minute Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai), and summarize their content in a maximum of 600 words.  
+__1c__ Select three videos from [Two Minute Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai), and summarize their content in a maximum of 300 words.  
 
 For example, check out their awesome video on OpenAI's Dall-E 2:
 
@@ -56,7 +56,7 @@ Note: To create your own DALL-E (mini) artwork, visit <a href="https://huggingfa
 
 ## 2) DataLab preparation (Week 3, DataLab 2):
 
-- [ ] Open your [**YourName_BlockA_DataLabPreparation**] markdown file, and list at least one element, related to the 'AI in Science Fiction' presentation, you wish to receive feedback on. Commit the changes, and push the markdown file to your personal BUas repository, which is listed [here](ADD LINK).
+- [ ] Open your [**YourName_BlockA_DataLabPreparation**] markdown file, and list at least one element, related to the 'AI in Science Fiction' presentation, you wish to receive feedback on. Commit the changes, and push the markdown file to your personal BUas repository.
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Note: When you are finished with the independent study material, and still have some time left, try to apply your newly gained knowledge to the Creative Brief.

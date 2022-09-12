@@ -167,6 +167,5 @@ __Group 5 (Mentor: Gilmara Merrill)__
 | 19.   |   |   |      
 | 20.  |   |   |  
 
-Recording (for mentors): [How to test and use your webcam in Windows 10, with the Camera app](https://www.digitalcitizen.life/how-use-camera-app-windows-10-your-webcam/)
 
 ***

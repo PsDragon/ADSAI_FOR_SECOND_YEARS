@@ -52,7 +52,7 @@ Note: The Bronze Challenge for Block A is creating an infographic that provides 
 
 ***
 
-## 4) Creative Brief: Minority Report (6) (11:00 - 17:00)
+## 4) Creative Brief: Minority Report (6) (11:00-17:00)
 
 During this DataLab session, try to put the finishing touches on your presentation. Furthermore, use this day to discuss the content of the presentation with your peers (e.g., outline).
 
@@ -63,7 +63,7 @@ During this DataLab session, try to put the finishing touches on your presentati
 
 ***
 
-## Lunch break (12:00 - 13:00)
+## Lunch break (12:00-13:00)
 
 ***
 

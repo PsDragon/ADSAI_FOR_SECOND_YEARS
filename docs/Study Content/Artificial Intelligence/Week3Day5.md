@@ -16,7 +16,7 @@ If you have questions or issues regarding the course material, please fill out t
 
 ***
 
-## 1) Q&A and Standup
+## 1) Q&A and Standup (9:15-9:30)
 
 __1a__ Ask questions regarding the independent study material.
 
@@ -28,7 +28,7 @@ __1b__ Answer the following questions:
 
 ***
 
-## 2) Creative Brief: Minority Report (7)
+## 2) Creative Brief: Minority Report (7) (9:30-12:00)
 
 The goal of this DataLab is to finalize the presentation. For example, if you have not added references, visual elements, etc., to your presentation, please, do so before 13:00. 
 
@@ -39,6 +39,12 @@ Tip: If you are feeling anxious, stressed out, etc., take a stroll around campus
 <iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/LBbQK2HIvvI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Video 1. Breathing Through Exams: A Breathing Practice to Focus and Calm Stress.*
+
+***
+
+## Lunch break (12:00-13:00)
+
+***
 
 ### Presentation:
 

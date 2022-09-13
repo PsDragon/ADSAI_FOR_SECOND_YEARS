@@ -10,7 +10,7 @@ In today's DataLab session, we will perform an experiment called the Turing Test
 
 *Video 1. The Turing test: Can a computer pass for a human? - Alex Gendler.*
 
-So, our goal for today is to see if there are any freely available chatbots that can pass the Turing Test :dizzy_face: Furthermore,  we will have a guest lecture by Lars van Geet, regarding his work as an analytics translator. 
+Furthermore,  we will have a guest lecture by Lars van Geet, regarding his work as an analytics translator. 
 
 Between the workshop and the guest lecture you have time to work on the independent study material or creative brief, and/or ask the lecturers for feedback. 
 
@@ -18,7 +18,7 @@ Between the workshop and the guest lecture you have time to work on the independ
 
 1. Find a general purpose/universal chatbot that is accessible via a weblink
 2. Identify, and describe the characteristics of 'human' intelligence
-3. Devise a Turing Test strategy to help identify the 'machine'
+3. Devise a Turing Test strategy to correctly identify the machine, and human
 4. Conduct the Turing Test with a group of peers
 5. Describe the main tasks, skills, and responsibilities of an analytics translator
 
@@ -58,7 +58,7 @@ Example: [Cleverbot](https://www.cleverbot.com/) (Carpenter, 1997).
 
 ### 2.2  Strategy (10:00-11:00)
 
-Before we conduct the Turing Test, we need to devise a strategy that will enable us to 'expose' the machine. Together with your fellow group members, you will develop such a strategy by drawing up a setting, its corresponding conditions, and questions. After the experiment, we will see which group succeeded, and which failed in the quest to identify the chatbot. 
+Before we conduct the Turing Test, we need to devise a strategy that will enable us to 'expose' the machine. Together with your fellow group members, you will develop such a strategy by drawing up a setting, its corresponding conditions, and questions. After the experiment, we will see which group succeeded, and which failed in the quest to identify both the chatbot, and human correctly. 
 
 __2.2a__ How to tell the difference between a robot and a human?
 
@@ -74,12 +74,13 @@ Can a robot:
 If answered with 'no', to what extent do you think robots will be able to his in the future?
 
 Questions to think about:
+
 - What characterizes us as being human?
 - How would you define intelligence
 - Can a machine/robot/computer be considered intelligent?
 - Can a machine/robot/computer think for itself?
 
-__2.2b__ Devise a strategy to identify the 'machine'. Incorporate the following elements:
+__2.2b__ Devise a strategy, and incorporate the following elements:
 
 - Setting (e.g. discussion between two students during a political theory class)
 - Conditions (e.g. show sense of morality)

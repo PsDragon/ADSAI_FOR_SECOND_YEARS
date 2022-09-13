@@ -18,7 +18,7 @@ Between the workshop and the guest lecture you have time to work on the independ
 
 1. Find a general purpose/universal chatbot that is accessible via a weblink
 2. Identify, and describe the characteristics of 'human' intelligence
-3. Devise a strategy to fool the 'judges'/interrogators in the Turing Test
+3. Devise a Turing Test strategy to help identify the 'machine'
 4. Conduct the Turing Test with a group of peers
 5. Describe the main tasks, skills, and responsibilities of an analytics translator
 
@@ -58,7 +58,7 @@ Example: [Cleverbot](https://www.cleverbot.com/) (Carpenter, 1997).
 
 ### 2.2  Strategy (10:00-11:00)
 
-Before we conduct the Turing Test, we need to devise a strategy to convince the 'judges'/interrogators that our chatbot is not a machine but a real human being. Together with your fellow group members you are going to develop such a strategy by drawing up a setting, and its corresponding conditions and questions. After the experiment, we will find out which group passed the test, and which group failed the test.
+Before we conduct the Turing Test, we need to devise a strategy that will enable us to 'expose' the machine. Together with your fellow group members, you will develop such a strategy by drawing up a setting, its corresponding conditions, and questions. After the experiment, we will see which group succeeded, and which failed in the quest to identify the chatbot. 
 
 __2.2a__ How to tell the difference between a robot and a human?
 
@@ -79,7 +79,7 @@ Questions to think about:
 - Can a machine/robot/computer be considered intelligent?
 - Can a machine/robot/computer think for itself?
 
-__2.2b__ Devise a strategy to fool the 'machines'. Incorporate the following elements:
+__2.2b__ Devise a strategy to identify the 'machine'. Incorporate the following elements:
 
 - Setting (e.g. discussion between two students during a political theory class)
 - Conditions (e.g. show sense of morality)

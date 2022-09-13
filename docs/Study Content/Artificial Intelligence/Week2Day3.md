@@ -79,7 +79,7 @@ Questions to think about:
 - Can a machine/robot/computer be considered intelligent?
 - Can a machine/robot/computer think for itself?
 
-__2.2b__ Devise a strategy to fool the 'judges'/interrogators. Incorporate the following elements:
+__2.2b__ Devise a strategy to fool the 'machines'. Incorporate the following elements:
 
 - Setting (e.g. discussion between two students during a political theory class)
 - Conditions (e.g. show sense of morality)

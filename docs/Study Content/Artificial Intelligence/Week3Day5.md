@@ -28,7 +28,13 @@ __1b__ Answer the following questions:
 
 ***
 
-## 2) Creative Brief: Minority Report (7) (9:30-12:00)
+## 2) Review study material (Week 3) (9:30-10:30)
+
+For details regarding prerequisites, contact mentor. 
+
+***
+
+## 3) Creative Brief: Minority Report (7) (9:30-12:00)
 
 The goal of this DataLab is to finalize the presentation. For example, if you have not added references, visual elements, etc., to your presentation, please, do so before 13:00. 
 

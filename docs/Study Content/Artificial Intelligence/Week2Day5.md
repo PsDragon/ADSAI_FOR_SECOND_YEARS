@@ -94,7 +94,7 @@ __3.1h__ In the bi-weekly formative feedback sessions between student and mentor
 
 ### 3.2 Practice time! (12:00-17:00)
 
-After the lunch break, you will participate in a workshop by Bert Heesakkers (Hn0.015), where you have the chance put your newly gained knowledge on giving, and receiving feedback into practice. 
+After the lunch break, you will participate in a workshop by Bert Heesakkers (Fs2.007), where you have the chance put your newly gained knowledge on giving, and receiving feedback into practice. 
 
 __Schedule:__
 

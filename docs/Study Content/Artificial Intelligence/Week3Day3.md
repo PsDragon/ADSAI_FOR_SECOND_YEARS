@@ -60,6 +60,36 @@ During this DataLab session, try to put the finishing touches on your presentati
 
 *Figure 1. Do not be this person...start early!*
 
+__Tips:__
+
+- Time your presentation
+- Create [cue cards](https://www.hema.nl/feest/wenskaarten-uitnodigingen/correspondentiekaarten-a6---50-stuks-14176310.html) for your presentation notes
+- Do not discuss the complete plot of Minority Report in your presentation
+- Elaborate on the statements you make in the presentation. For example, 'My [AI topic] can be linked to [Taxonomy of AI domain(s), and subdomain(s)], because [Explanation]'
+- Use multiple sources to back your arguments with
+
+__How do I provide evidence for ILO 3.1?__
+
+To provide evidence for ILO 3.1, you must explain why you meet a certain grading criterion. For example, to meet the criterion of 'Insufficient', you also have to provide proof of meeting the previous criteria, - i.e.,'Poor'. 
+
+<img src="./images/ILOLearningLogExample.png" alt="ILO section Learning Log" width="1000"/>
+
+*Figure 2. Example of ILO section in the Learning Log by Lisa.*
+
+As evidence of meeting the criteria of ILO 3.1, you can use the video recording of your presentation and the presentation slides (e.g., PowerPoint):
+
+- Poor: My presentation took 6:32 minutes, see my video recording.  
+
+- Insufficient: I was able to identify, and describe an AI topic (i.e., military robot) within the movie Minority Report, see minutes 1:45 - 2:32 of the video recording and slide 1 of my presentation. Additionally, I was able to connect my [AI topic] to the [Taxonomy of AI domain(s), and subdomain(s)], see minutes 3:00 - 4:25 of the video recording and slides 2-3 of my presentation. 
+
+You can find the [video recording](), and [slides]() of my presentation on my personal BUas [repository](). 
+
+Etc.
+
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Note: You are free to change the layout of the Learning Log (e.g., change colors, add additional slides, add text boxes, etc.). 
+</div>
+
 
 ***
 

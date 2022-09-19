@@ -58,7 +58,7 @@ __Example:__ [China's hi-tech war on its Muslim minority](https://www.theguardia
 
 ## 3) DataLab preparation (Week 3, DataLab 1):
 
-- [ ] Open your [**YourName_BlockA_DataLabPreparation**] markdown file, and list, and briefly describe the relevant Taxonomy of AI domains, and subdomains for your chosen AI topic. Commit the changes, and push the markdown file to your personal BUas repository.
+- [ ] Open your [**YourName_BlockA_DataLabPreparation**] markdown file, and list, and briefly describe the relevant Taxonomy of AI domains, and subdomains for your chosen AI topic. Furthermore, write down the name and student number of a peer who is willing to help you with your presentation on Friday (e.g., help you navigate through the presentation slides, can make an additional video recording of the presentation, if necessary.). Commit the changes, and push the markdown file to your personal BUas repository.
 - [ ] Make a test video recording for the 'AI in Science Fiction' presentation, and upload it to your personal BUas repository. 
 
 <iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/G3Cytlicv8Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

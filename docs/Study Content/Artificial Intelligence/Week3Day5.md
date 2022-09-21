@@ -4,7 +4,7 @@ sort: 15
 
 ## DataLab 2: 'AI in Science Fiction' presentation
 
-In the morning, you will have time to finish your 'AI in Science Fiction' presentation. <mark>The slides of your presentation need to be committed, and pushed to GitHub no later than 13:00 </mark>. After lunch, you will deliver your presentation to peers and teaching staff members.  
+In the morning, you will have time to finish your 'AI in Science Fiction' presentation. <mark>The slides of your presentation need to be committed, and pushed to the GitHub folder 'Deliverables' no later than 13:00 </mark>. After lunch, you will deliver your presentation to peers and teaching staff members.  
 
 ## Learning objectives
 
@@ -50,7 +50,7 @@ Tip: If you are feeling anxious, stressed out, etc., take a stroll around campus
 
 ## Lunch break (12:00-13:00)
 
-Do not forget to commit, and push your presentation slides to your personal BUas repository. 
+Do not forget to commit, and push your presentation slides to your personal BUas repository ('Deliverables' folder). 
 
 ***
 

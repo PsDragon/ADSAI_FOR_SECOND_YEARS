@@ -10,7 +10,7 @@ Each of the seven/eight weeks has a fixed structure: on Monday, Wednesday and Th
 |---|---|---|---|---|
 | Dean van Aswegen (Lecturer), MSc. <img src="./DeanProfile.jpg" alt="Dean van Aswegen profile picture" width="200"/>| Mon, Tues, Wed, Thur, Fri  |  Block A, Group 1 (1FAI-01), Year 1 | aswegen.d@buas.nl | Data Science and AI | 
 | Alican Noyan (Lecturer), PhD.<img src="./AlicanProfile.jpg" alt="Alican Noyan profile picture" width="200"/>|  Mon, Wed, Thu, Fri  | Block A, Group 2 (1FAI-04), Year 1  |  noyan.a@buas.nl | Data Science |
-| Gilmara Merrill (Lecturer), MSc. <img src="./GilmaraProfile.png" alt="Gilmara Merrill profile picture" width="200"/> | Wed, Fri | Block A, Group 3 (1FAI-05), Year 1 | merrill.g@buas.nl | Digital Transformation & Change Management |
+| Gilmara Merrill (Lecturer), MSc. <img src="./GilmaraProfile.png" alt="Gilmara Merrill profile picture" width="200"/> | Wed, Thu, Fri | Block A, Group 3 (1FAI-05), Year 1 | merrill.g@buas.nl | Digital Transformation & Change Management |
 | Irene van Blerck (Lecturer), MSc. <img src="./IreneProfile.jpg" alt="Irene van Blerck profile picture" width="200"/>   |  Tue, Wed, Thu, Fri | Block A, Group 4 (1FAI-02), Year 1 |  blerck.i@buas.nl | Responsible AI, Computer vision |
 | Bram Heijligers (Lecturer), MSc. <img src="./BramProfile.jpg" alt="Bram Heijligers profile picture" width="200"/> |  Wed, Thur, Fri | Block A, Group 5 (1FAI-03), Year 1  | heijligers.b@buas.nl | Data Science |
 | Zhanna Kozlova (Lecturer), MA. <img src="./ZhannaProfile.jpg" alt="Zhanna Kozlova profile picture" width="200"/>  |   |  Block A, Group 5 (1FAI-03), Year 1 | kozlova.z@buas.nl  |   

@@ -56,7 +56,7 @@ Note: To create your own DALL-E (mini) artwork, visit <a href="https://huggingfa
 
 ## 2) DataLab preparation (Week 3, DataLab 2):
 
-- [ ] Open your [**YourName_BlockA_DataLabPreparation**] markdown file, and list at least one element, related to the 'AI in Science Fiction' presentation, you wish to receive feedback on. Commit the changes, and push the markdown file to your personal BUas repository.
+- [ ] Open your [**YourName_BlockA_DataLabPreparation**] markdown file, and list one point, regarding your presentation skills, you wish to receive feedback on after the 'AI in Science Fiction' presentation. Commit the changes, and push the markdown file to your personal BUas repository.
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Note: When you are finished with the independent study material, and still have some time left, try to apply your newly gained knowledge to the Creative Brief.

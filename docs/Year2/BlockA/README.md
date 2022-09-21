@@ -130,7 +130,7 @@ If you wish to go deeper into the world of inferential statistics, here are some
 - [ ] [Intermediate Statistics](https://www.linkedin.com/learning/statistics-foundations-2/welcome?autoplay=true&u=36359204){:target="_blank"}
 - [ ] [Advanced Statistics](https://www.linkedin.com/learning/statistics-foundations-3/welcome?autoplay=true&u=36359204){:target="_blank"}
 
-In addition, during these weeks you should make sure to manage your data according to your data management plan and evidence this accordingly.
+In addition, during these weeks you should make sure to manage your data according to the [BUas data management plan](https://buas.libguides.com/rdm/dmp) and evidence this accordingly.
 
 ### Week 7
 In this week, you are expected to report and present your project findings.
@@ -141,11 +141,11 @@ Your project should:
 - [ ] use a valid and reliable instrument to measure how staff and students
 think about AI, in particular their attitudes, acceptance, and perceived impact of AI.
 - [ ] consist of quantitative as well as qualitative design component.
-- [ ] adhere to the [Buas Data Management Protocol](https://edubuas.sharepoint.com/sites/researchdevelopment/SitePages/Datamanagement.aspx){:target="_blank"}.
+- [ ] adhere to the [Buas Data Management Protocol](https://eur04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fbuas.libguides.com%2Frdm%2F&amp;data=05%7C01%7Cbhushan.n%40buas.nl%7C4ed2eff45e2d4b7f4e3708da9adcc744%7C0a33589b00364fe8a8293ed0926af886%7C0%7C0%7C637992570267015436%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=ca6ub%2B8SNA6LqsOxGD92%2FS%2Bfbwqj47X7xhfgMajGeLo%3D&amp;reserved=0){:target="_blank"}.
 
 ## Project Deliverables
 
-Your final (<mark>group</mark>) deliverable is a [Data Management plan](https://edubuas.sharepoint.com/sites/researchdevelopment/SitePages/Datamanagement.aspx) which contains:
+Your final (<mark>group</mark>) deliverable is a [Data Management plan](https://buas.libguides.com/rdm/dmp) which contains:
 - [ ] description of the data collection process (which tools/instruments are used).
 - [ ] description of the data: what is the format (file-type) of the data.
 - [ ] [a codebook describing variables](https://github.com/BredaUniversityADSAI/ADS-AI/blob/f020e08818bb64486e784e2447334fb866ee1df9/docs/Study%20Content/Research%20Methodology/Assets/Codebook_Template.md). 
@@ -155,12 +155,13 @@ Your final (<mark>group</mark>) deliverable is a [Data Management plan](https://
 Your final (<mark>individual</mark>) deliverables are:
 - [ ] a research proposal detailing your research plan (max 1000 words) documenting your research question and study design (APA style, Latex formatted).
 - [ ] scientific report (max 5000 words) documenting your complete research cycle (introduction, methods, results, discussion; APA style, Latex formatted).
-- [ ] conference poster and/or conference presentation.
+- [ ] conference presentation.
 
 
-> The best conference poster will be invited to present their findings via a presentation.
+> The best presentations will be invited to present their findings to the domain heads via a presentation.
+<br>
 
- ## Medal Challenges
+ ### Medal Challenges
 
 The medal courses for this block have been specifically selected to help boost your portfolio and extend your knowledge and expertise. You can complete these challenges as a group or individually, and you can also finish them after the initial deadline!
 
@@ -180,7 +181,8 @@ The medal courses for this block have been specifically selected to help boost y
 [2] [OpenStax Online Textbook](https://openstax.org/books/introductory-statistics/pages/1-introduction) <br>
 [3] Creswell, J. W., & Poth, C. N. (2016). Qualitative inquiry and research design: Choosing among five approaches. Sage publications. ([Versions 2](https://search.library.buas.nl/cgi-bin/koha/opac-detail.pl?biblionumber=10404) and 5 are available in the library)<br>
 [4] [Overleaf APA7 template](https://www.overleaf.com/latex/templates/template-and-sample-for-authoring-apa7-manuscripts/pvhtwcrvcmsp)<br>
-[5] Lapan, Stephen D., Quartaroli, MarryLynn T. and Riemer, Frances J., (2012), Qualitative research: an introduction to methods and designs,  San Francisco, Calif : Jossey-Bass. (Available in the Library)
+[5] Lapan, Stephen D., Quartaroli, MarryLynn T. and Riemer, Frances J., (2012), Qualitative research: an introduction to methods and designs,  San Francisco, Calif : Jossey-Bass. (Available in the Library)<br>
+[6] [BUas Data Management Protocol](https://eur04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fbuas.libguides.com%2Frdm%2F&amp;data=05%7C01%7Cbhushan.n%40buas.nl%7C4ed2eff45e2d4b7f4e3708da9adcc744%7C0a33589b00364fe8a8293ed0926af886%7C0%7C0%7C637992570267015436%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=ca6ub%2B8SNA6LqsOxGD92%2FS%2Bfbwqj47X7xhfgMajGeLo%3D&amp;reserved=0)
 
 
 

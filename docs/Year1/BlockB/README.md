@@ -1,13 +1,13 @@
 # Block B - Data Understanding and Preparation
 
-Each of the 8 weeks has a fixed structure : on Monday, Wednesday and Thursday you work individually on the development of basic skills, which are needed to execute the DataLab assignments. Kindly follow the table of content below, this will guide you through what is expected of you on a daily basis.
+Each of the 8 weeks has a fixed structure : on Monday, Tuesday and Thursday you work individually on the development of basic skills, which are needed to execute the DataLab assignments (Wednesday and Friday). 
+Kindly follow the table of contents below, this will guide you through what is expected of you on a daily basis.
 
 ## Project Based Learning - Creative Brief
-In block A, you explored various themes around digital transformation and critically examined applications of AI and digital technologies to existing businesses processes. In this block, you will take on a more hands-on approach towards improving a business process using digital transformation. In particular, you will explore one specific role within the theme of digitalisation - **the data analyst** – and help the municipality of Oosterhout improve their business processes using data, mathematics, and machine learning.
+In block A, you explored various themes around digital transformation such as business intelligence using Power BI; and critically examined applications of AI and digital technologies to existing businesses processes. In this block, you will take on a more hands-on approach towards improving a business process using digital transformation. In particular, you will explore one specific role within the theme of digitalisation - **the data analyst** – and help **Banijai** improve their business processes using data, mathematics, and machine learning.
 
-One of the key responsibilities of the municipality of Oosterhout (henceforth the client) is youth care. While Dutch children are among the happiest and healthiest in the world, there are still many children that need extra support and care. To ensure a youth care system that is more efficient, coherent and cost-effective, the client has chosen to digitalize their existing youth care process.
 
-> The client has approached you – the data analyst – with the aim to discover more efficient (in cost and time) ways of delivering youth care.
+> The client has approached you – the data analyst – with the aim to <add use case here>
 
 At the beginning of the project, you will be introduced to the use-case by a data analyst from one of the municipalities. You can consult the client’s data analyst if you have any questions or wish to deepen your understanding of the use-case.
 Please refer to the project brief for more detailed information.
@@ -20,160 +20,149 @@ Please refer to the project brief for more detailed information.
 </figure>
 <br>
 
-- [Business Intelligence](../../Study%20Content/Business%20Intelligence/BusinessIntelligenceBlockBVersion3.html)
-- [Mathematics](../../Study%20Content/Mathematics%20I/5.%20DataLab2.html)
+- [Marketing Analytics & Intelligence](../../Study%20Content/Business%20Intelligence/BusinessIntelligenceBlockBVersion3.html)
+- [Programming in Python](../../Study%20Content/Mathematics%20I/5.%20DataLab2.html)
 - [Machine Learning](https://adsai.buas.nl/Study%20Content/Introduction%20to%20Machine%20Learning/Assignment.html)
 - [Ethics and Legal Frameworks](../../Study%20Content/Digital%20Transformation/Ethics%20&%20Law.html)
 
 # Block Outline
 
-# Week 1 : Business Intelligence (SQL)
+# Week 1: Programming in Python 
 
 ## Monday
-[Data engineering: Data architecture & Pipeline design](../../Study%20Content/Business%20Intelligence/DataArchitecturePipelineDesign.html)
-<br>[SQL: Data Definition Language (DDL) clauses 1 & Data Manipulation Language (DML) clauses](../../Study%20Content/Business%20Intelligence/SQL_DDL1_DML.html)
-<br>[Markdown template (optional)](../../Study%20Content/Business%20Intelligence/homework_markdown_template.html)
+- [Programming: a primer](../../Study%20Content/Programming/1.StartingProgramming.html)
+- [Setting up your development environment](../../Study%20Content/Programming/2.SetupIDE.html)
+- [Python for AI and Data ScienceI](../../Study%20Content/Programming/3.Python%20foundations.html)
 
 ## Tuesday
-[DataLab: Research design, EDA, and codebook](../../Study%20Content/Business%20Intelligence/DataLab1_SQL_ResearchDesignEDACodebook.html)
+- [Python for AI and Data Science II](../../Study%20Content/Programming/3.Python%20foundations.html)
+- [Python: Coding standards and reproducible data science](../../Study%20Content/Programming/14.Python%20PEP8.html)
 
 ## Wednesday
-[SQL: Data Query Language (DQL) clauses](../../Study%20Content/Business%20Intelligence/SQL_DQL.html)
+- [Data Lab 1: Python Foundation exercises](../../Study%20Content/Programming/4.DataLabPR1.html)
+
 
 ## Thursday
-[SQL: Data Definition Language (DDL) clauses 2](../../Study%20Content/Business%20Intelligence/SQL_DDL2.html)
+- [Python data types & data structures I](../../Study%20Content/Programming/5.Python%20data%20types%20and%20data%20structures.html)
+
 
 ## Friday
-[DataLab: Database & SQL assignment](../../Study%20Content/Business%20Intelligence/DataLab2_SQL_Assignment.html)
+- [Python data types & data structures II](../../Study%20Content/Programming/5.Python%20data%20types%20and%20data%20structures.html)
 
-# Week 2 : Digital Transformation & Artificial Intelligence
 
-## Monday
-[Ethics & Law (1): Introduction to DEDA Framework. Preparation for debates: Ethical Decision-Making.](../../Study%20Content/Digital%20Transformation/Ethics%20&%20Law%201.html)
-
-## Tuesday
-[DataLab: Debates: Ethical Decision-Making](../../Study%20Content/Digital%20Transformation/DataLab%201.html)
-
-## Wednesday
-[Ethics & Law (2): Ethical Guidelines for Statistical Practice. Introduction to GDPR.](../../Study%20Content/Digital%20Transformation/Ethics%20&%20Law%202.html)
-
-## Thursday
-[Ethics & Law (3): Preparation for debates: Can AI Systems Be Ethical?](../../Study%20Content/Digital%20Transformation/Ethics%20&%20Law%203.html)
-
-## Friday
-[DataLab: Debates: Can AI Systems Be Ethical?](../../Study%20Content/Digital%20Transformation/DataLab%202.html)
-
-# Week 3 : Business Intelligence (Power BI)
+# Week 2 : Ethics & Marketing Analytics
 
 ## Monday
-[Getting started with Power BI & Prepare data for analysis with Power BI](../../Study%20Content/Business%20Intelligence/DataPrepaparationCleanTransformLoadPowerBI.html)
+
 
 ## Tuesday
-[DataLab: Data wrangling & UX design in Power BI](../../Study%20Content/Business%20Intelligence/DataLab1_DataWranglingUXDesignPowerBI.html)
-
-## Wednesday
-[Data modeling in Power BI](../../Study%20Content/Business%20Intelligence/ModelDataPowerBI.html)
-
-## Thursday
-[Data visualization in Power BI](../../Study%20Content/Business%20Intelligence/VisualizeDataPowerBI.html)
-
-## Friday
-[DataLab: Basic visuals & DAX in Power BI](../../Study%20Content/Business%20Intelligence/DataLab2_CreatingVisualsDAXPowerBI.html)
-
-# Week 4 : Business Intelligence (Power BI) & Machine Learning
-
-## Monday
-[Data analysis & Managing workspaces/datasets in Power BI](../../Study%20Content/Business%20Intelligence/DataAnalysisManagingWorkspacesDatasetsPowerBI.html)
-
-## Tuesday
-[DataLab: Advanced visuals & Analyzing data in Power BI](../../Study%20Content/Business%20Intelligence/DataLab3_AnalyzingDataPowerBI.html)
-
-## Wednesday
-[Supervised and Unsupervised Learning](../../Study%20Content/Introduction%20to%20Machine%20Learning/SupervisedAndUnsupervisedLearning.html)
-
-## Thursday
-[Regression Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/RegressionAlgorithms.html)
-
-## Friday
-[DataLab: Regression Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab00_RegressionAnalyses.html)
-
-# Week 5 : Machine Learning and Mathematics
-
-## Monday
-[Introduction to Linear Algebra](../../Study%20Content/Mathematics%20I/1.%20Introduction%20to%20Linear%20Algebra.html)
-
-## Tuesday
-[DataLab: Implementing elementary operations on matrices using Python](../../Study%20Content/Mathematics%20I/2.%20DataLab1.html)
-
-## Wednesday
-[Linear algebra applied to Linear Systems](../../Study%20Content/Mathematics%20I/3.%20Linear%20Algebra%20applied%20to%20Linear%20Systems.html)
-
-## Thursday
-[Classifications Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/ClassificationAlgorithms.html)
-
-## Friday
-DAY OFF: CHRISTMAS HOLIDAYS! :D
-
-# Week 6 : Machine Learning and Mathematics
-
-## Monday
-[Linear Algebra and Linear models (least squares)](https://adsai.buas.nl/Study%20Content/Mathematics%20I/4.%20Linear%20Algebra%20and%20(linear)%20Regressions.html)
-
-## Tuesday
-Because of the online teaching situation, we’re forced to change our schedule around a bit. Datalab will still follow it’s normal structure but we’re going to use this Datalab day to make sure we have week 4 and 5 properly covered. Therefore, after the Q&A, we do our week 5 Math Datalab day and in the afternoon we will finish week 4’s machine learning Datalab day for those who haven’t finished it yet. Furthermore, from 10:00 till 16:00 we will have some brief one-on-one meetings to check everyone's progress where we'll ask you to show your learning log and project progress thus far. The schedule will therefore be as follows:
-
-### *Schedule*
-- 9:00 – 9:30	Stand-up in breakout rooms
-- 9:30 – 10:00	Q&A
-- 10:00 – 12:30	[DataLab: Implementing elementary operations on matrices using Python](../../Study%20Content/Mathematics%20I/2.%20DataLab1.html)
-- 12:30 – 13:30	Lunch
-- 13:30 – 16:00	[DataLab: Regression Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab00_RegressionAnalyses.html); continue where you left off last time!
-- 16:00 – 16:30 	Day evaluation
-- 16:30 – 17:00	Fill in your Work- & Learning log
 
 
 ## Wednesday
-[Decision Trees](../../Study%20Content/Introduction%20to%20Machine%20Learning/DecisionTrees.html)
+
 
 ## Thursday
-[Supervised Learning: a Recap](https://adsai.buas.nl/Study%20Content/Introduction%20to%20Machine%20Learning/SupervisedLearningRecap.html)
+
 
 ## Friday
-- [DataLab: Classification Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab01_ClassificationAnalyses.html)
 
 
-# Week 7: Machine Learning and Mathematics
+# Week 3 : Data processing in Python
 
 ## Monday
-[Matrix Factorization: PCA Algorithm](../../Study%20Content/Mathematics%20I/6.%20Image%20Processing%20using%20Linear%20Algebra%20I.html)
+
 
 ## Tuesday
-[DataLab: Normal equations for linear regression](../../Study%20Content/Mathematics%20I/5.%20DataLab2.html)
+
 
 ## Wednesday
-[Matrix operations on images: Convolution & Kernels](../../Study%20Content/Mathematics%20I/8.%20Linear%20Algebra%20and%20Image%20Processing%20II.html)
+
 
 ## Thursday
-[Clustering: K-Means - Unsupervised Machine Learning ](../../Study%20Content/Introduction%20to%20Machine%20Learning/ClusteringK-Means.html)
+
 
 ## Friday
-- [DataLab: Clustering Analyses](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab03_ClusteringAnalyses.html)
-- [DataLab: Tree based Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab02_TreeBasedAnalyses.html)
+
+
+# Week 4 : Machine Learning
+
+## Monday
+
+
+## Tuesday
+
+
+## Wednesday
+
+
+## Thursday
+
+
+## Friday
+
+
+# Week 5 : Machine Learning 
+
+## Monday
+
+
+## Tuesday
+
+
+## Wednesday
+
+
+## Thursday
+
+
+## Friday
+
+
+# Week 6 : Machine Learning 
+
+## Monday
+
+## Tuesday
+
+## Wednesday
+
+
+## Thursday
+
+
+## Friday
+
+
+# Week 7: Technical Writing
+
+## Monday
+
+
+## Tuesday
+
+
+## Wednesday
+
+
+## Thursday
+
+
+## Friday
 
 
 # Week 8 : Business Case Preparation
 
 ## Monday
-[Apply ML to Oosterhout]
+
 
 ## Tuesday
-[DataLab: Apply ML to Oosterhout]
+
 
 ## Wednesday
-[Prepare business case presentation]
+
 
 ## Thursday
-[Prepare business case presentation]
+
 
 ## Friday
-[DataLab: Business case presentation]
+

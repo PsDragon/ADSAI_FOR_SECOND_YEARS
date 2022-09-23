@@ -17,6 +17,7 @@ Today we'll learn how to create the following components of any data science pro
 Table of contents:
 1. Problem Statement: 3-4 hours
 2. Research Question: 3-4 hour
+
 **Both of these componenent are mandatory preparation for Datalab tomorrow so make sure to upload them to Github and to reference them in your learning log for this week!**
 
 Good luck!

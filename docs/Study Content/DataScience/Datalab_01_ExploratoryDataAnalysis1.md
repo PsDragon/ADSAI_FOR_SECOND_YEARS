@@ -22,7 +22,7 @@ Table of contents:
 If you have any questions or issues regarding the course material, please first ask your peers or ask a member of staff if you can't figure it out together!
 
 ### Stand-up
-Get together with a group of 5 and take turns answering the following questions:
+Get together with your mentor group, a student will lead the session, and take turns answering the following questions:
 - What did you do yesterday?
 - What will you do today?
 - Are there any impediments in your way?
@@ -31,7 +31,7 @@ Good luck!
 
 
 ## 0) Datalab Preparation review: Variables and Descriptive data
-Now, let's all find a partner (as in a classmate, not in a romantic sense) and get our Datalab Preparation files out (assuming you made them :p) and discuss them. Specifically, analyse and evaluate one another work by:
+Now, let's all find 5 partners from our mentor group and get our Datalab Preparation files out (assuming you made them :p) and discuss them. Specifically, analyse and evaluate one another work by:
 - Simply showing one another how you created your variables, vectors and data frame for the Intro to Variables Datalab Preparation. Or what you did and did not manage; we're in a safe space to learn, and not succeeding is part of that :).
 - Showing one another your calculations and solutions for parts A and B of the Descriptive Analyses Datalab Preparation.
 
@@ -71,7 +71,7 @@ Now open the dashboard and write the Data Selection and Data Visualisation Secti
 Tip: Get the silver challenge by helping your peers! E.g. by proofreading their dashboard. They may return the favour, and you both get a better learning experience! Make sure to evidence your knowledge-sharing/help in your learning- and worklog!
 </div>
 
-## 2)  In-Class discussion
+## 2)  Mentor-Group discussion
 At 16:30, we'll all get together in our mentor group to discuss our progress and reflect on today activities.
 
 Next week we're going to cover some fundamental concepts of probability theory. It's much more fun than it sounds, I promise. :p

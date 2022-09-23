@@ -20,7 +20,7 @@ Table of contents:
 If you have any questions or issues regarding the course material, please first ask your peers or ask a member of staff if you can't figure it out together!
 
 ### Stand-up
-Get together with a group of 5 and take turns answering the following questions:
+Get together with your mentor group, a student will lead the session, and take turns answering the following questions:
 - What did you do yesterday?
 - What will you do today?
 - Are there any impediments in your way?
@@ -28,7 +28,7 @@ Get together with a group of 5 and take turns answering the following questions:
 Good luck!
 
 ## 0) Datalab Preparation Review
-Now, let's all find a partner and get our 3 Datalab Preparation files out and discuss them. Specifically, analyse and evaluate one another's answers to the questions. If you both have the same answers, you're done. If not, then try to see who is right by explaining it to one another. If you both don't have an answer on a particular question; ask your instructor(s) in Datalab.
+Now, let's all find 5 partners from our mentor group and get our 3 Datalab Preparation files out and discuss them. Specifically, analyse and evaluate one another's answers to the questions. If you both have the same answers, you're done. If not, then try to see who is right by explaining it to one another. If you both don't have an answer on a particular question; ask your instructor(s) in Datalab.
 
 ## 1) Feedback on dashboard
 Now it's time to gather the feedback on your dashboard. Ask you mentor(s) to provide you with feedback or to book a slot so they can provide you with feedback your progression. Record the feedback with action points in your notes file and then continue with the next section or go ahead and make changes to your dashboard.
@@ -58,7 +58,7 @@ Tip: Get the Gold challenge by actually doing a correlational or linear regressi
 
 
 ## 4) In-Class discussion
-At 16:00, we'll all get together in Datalab to discuss our progress and reflect on today activities.
+At 16:00, we'll all (entire Year 1) get together in Datalab to discuss our progress and reflect on today activities.
 
 Next week, we will start diving into reporting and data visualisation practices.
 

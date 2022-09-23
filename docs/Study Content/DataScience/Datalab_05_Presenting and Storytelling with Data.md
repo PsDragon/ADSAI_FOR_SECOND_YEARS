@@ -20,7 +20,7 @@ Please follow the links below to continue the class:
 If you have any questions or issues regarding the course material, please first ask your peers or ask a member of staff if you can't figure it out together!
 
 ### Stand-up
-Get together with a group of 5 and take turns answering the following questions:
+Get together with your mentor group, your mentor will pick a student to lead the session, and take turns answering the following questions:
 - What did you do yesterday?
 - What will you do today?
 - Are there any impediments in your way?
@@ -28,7 +28,7 @@ Get together with a group of 5 and take turns answering the following questions:
 Good luck!
 
 ## 0) Datalab Preparation Review
-Now, let's all find a partner and open the version of your dashboard before you made the changes made during the Datalab Preparation session, and also open our post-Datalab Preparation dashboard. Show them to your partner and explain the improvements you made, why you made them and how you made them. You analyse and evaluate one another's work: specifically the choices, the execution and the story they tell with their data visualisations.
+Now, let's all find 3 partners and open the version of your dashboard before you made the changes made during the Datalab Preparation session, and also open our post-Datalab Preparation dashboard. Show them to your partner and explain the improvements you made, why you made them and how you made them. You analyse and evaluate one another's work: specifically the choices, the execution and the story they tell with their data visualisations.
 
 ## 1) Feedback on dashboard
 Now it's time to gather the feedback on your dashboard. Ask you mentor(s) to provide you with feedback or to book a slot so they can provide you with feedback your progression. Record the feedback with action points in your notes file and then make changes to your dashboard or watch the video below and see if you can iterate on your dashboard further before continueing writing the conclusion!

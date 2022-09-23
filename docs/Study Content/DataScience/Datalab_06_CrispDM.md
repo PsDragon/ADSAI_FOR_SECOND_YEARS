@@ -23,7 +23,7 @@ If you have questions or issues regarding the course material, please fill out t
 ***
 
 ### Stand-up
-Get together with a group of 5 and take turns answering the following questions:
+Get together with your mentor group, a student will lead the session, and take turns answering the following questions:
 - What did you do yesterday?
 - What will you do today?
 - Are there any impediments in your way?
@@ -31,12 +31,24 @@ Get together with a group of 5 and take turns answering the following questions:
 Good luck!
 
 ## 1) Feedback on dashboard
-Now, your mentor should gather your group and get you a nice screen. Then in alphabetical order you will present your dashboard by means of a walkthrough and your peers and mentors will provide you with questions and feedback. Make sure to keep your file for taking notes at the ready and record all important feedback you need to act on! 
+Now, your mentor should gather your group and get you a nice screen. Then in alphabetical order you will present your dashboard by means of a walkthrough. Your peers and mentors will provide you with questions and feedback. Make sure to keep your file for taking notes at the ready and record all important feedback you need to act on! 
 If you get any action points from your mentor or peers, you should try to incorperate it into your final dashboard before **(coming) Thursday of week 7 at 17:00!**
 
-### How? 
+### How to present? 
 You will start the walkthrough by going through the entire dashboard starting at the introduction and ending at the conclusion; where the conclusion and references will be of specific interest as these are receiving feedback for the first time.
 
+Your mentor will provide each of you with a QR code which your peers can scan. The link takes them to a questionnaire which they can fill in to provide you with feedback. The questions corresponds to the assessment form so it can give you a relieable estimate of the quality of your dashboard presentation and which improvement points still remain! The result of all the feedback is delivered to you in the form of a fancy data report!
+
+
+<figure>
+    <img src=".\assets\DS report example.png" />
+    <figcaption>SDG Indicators by Goal (Source: Our World In Data)</figcaption>
+</figure>
+<br>
+
+
+### How to provide feedback? 
+Scan the QR-code of the student who is presenting and fill in the questionnaire to provide them with feedback! Don't hesitate to ask questions in person after or during th presentation.
 
 
 
@@ -71,7 +83,7 @@ Tip: Get the Gold challenge by actually doing a correlational or linear regressi
 </div>
 
 ## 5) In-Class discussion
-At 16:30, we'll all get together in Datalab to discuss our progress and reflect on today activities.
+At 16:30, we'll all get together in Datalab to reflect back on the block all together!.
 
 Tomorrow, we will just work on our dashboard and provide with some more advanced Power BI material!
 

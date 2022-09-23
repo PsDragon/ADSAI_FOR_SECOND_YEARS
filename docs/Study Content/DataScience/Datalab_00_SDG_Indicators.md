@@ -25,7 +25,7 @@ Table of contents:
 If you have any questions or issues regarding the course material, please first ask your peers or ask a member of staff if you can't figure it out together!
 
 ### Stand-up
-Get together with a group of 5 and take turns answering the following questions:
+Get together with your mentor group, a student will lead the session, and take turns answering the following questions:
 - What did you do yesterday?
 - What will you do today?
 - Are there any impediments in your way?
@@ -33,7 +33,7 @@ Get together with a group of 5 and take turns answering the following questions:
 Good luck!
 
 ## 0) Datalab Preparation review; Quantifying our World into Data, and; Problems Statements & Research Questions
-Now, let's all find a partner (as in a classmate, not a date) and get our Datalab Preparation files out (assuming you made them) and discuss them. Specifically, analyse and evaluate one another work by listening to one another critically and giving feedback as your partner goes along explaining:
+Now, let's all find 5 partners from our mentor group and get our Datalab Preparation files out (assuming you made them) and discuss them. Specifically, analyse and evaluate one another work by listening to one another critically and giving feedback as your partner goes along explaining:
 1. What you identified and deconstructed as an object and phenomena and try to justify the decisions you made.
 2. What problem statement and research question you created and why you choose this topic. Try to test one another's ideas actively using constructive questions.
 3. (optional:) Iterate on your problem statement and research question. When done, commit your changes to your Github respository.
@@ -63,12 +63,14 @@ Now, let's all find a partner (as in a classmate, not a date) and get our Datala
 Tip: Get the silver challenge by helping your peers! E.g. by proofreading their introduction! They may return the favour, and you both get a better learning experience! Make sure to evidence your knowledge-sharing/help in your learning- and worklog!
 </div>
 
-## 2) In-Class discussion
+## 2) Mentor Group discussion
 At 14:30, you will get together with your mentor group to present your:
 1. Problem statement
 2. Research Question
 3. Introduction
 
+
+## 3) In-Class discussion
 After which we will discuss our progress and reflect on today's activities.
 
 Tomorrow, we're going to finish our introduction and cover variables and data frames in PowerBI.

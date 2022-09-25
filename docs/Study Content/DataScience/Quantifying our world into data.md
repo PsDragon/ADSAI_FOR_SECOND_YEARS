@@ -34,7 +34,7 @@ Look at the [creative brief](https://adsai.buas.nl/Year1/BlockA/) for more info 
 
 
 ## 1) Data Science Introduction Lecture
-**It is available [here](https://edubuas.sharepoint.com/:v:/s/2021-22AFGA1.P1ADSAI/EddFYP70KktJnK76DoEJjNwBqWguSJjUSILHBRc-Gfm93A?e=hj1VG8) now!** And, [Here is the link to the slides in case you want those too.](https://edubuas.sharepoint.com/sites/2021-22AFGA1.P1ADSAI/Shared%20Documents/General/Recordings/DS1%20-%20Lecture%201;%20The%20world%20in%20data.ppsx)
+**It is available [here](https://github.com/BredaUniversityADSAI/ADS-AI/blob/326523f60f5ef35e603eab424e35cd18b985562d/docs/Study%20Content/DataScience/assets/DS1%20-%20Lecture%201;%20The%20world%20in%20data.ppsx) now!** And, [Here is the link to the slides in case you want those too.](https://edubuas.sharepoint.com/sites/2021-22AFGA1.P1ADSAI/Shared%20Documents/General/Recordings/DS1%20-%20Lecture%201;%20The%20world%20in%20data.ppsx)
 
 ## 2) Preparation for DataLab 5, Week 3: 
 **Mock-Assessments** like this test your knowledge and skills but **are not graded in any way.** Instead, they are small exercises which; similar to real assessments, test your capacity to use your knowledge:

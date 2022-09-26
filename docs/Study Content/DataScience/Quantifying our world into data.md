@@ -117,7 +117,7 @@ Businesses need data analysis more than ever. In this learning path, you will le
 Let's start by installing the latest version of Power BI! [Click here!](https://powerbi.microsoft.com/en-gb/desktop/) Here's an [example of a dashboard](https://community.powerbi.com/t5/Data-Stories-Gallery/Analyzing-the-UN-s-Sustainable-Development-Goals-at-Gartner-Data/m-p/2527235) made by a pro within our topic!
 
 ### Logging in
-To log into [datacamp](www.datacamp.com), use your BUas credentials (e.g. 123456@buas.nl, PasswordExample_007).
+To log into [datacamp](https://www.datacamp.com/courses/introduction-to-power-bi), use your BUas credentials (e.g. 123456@buas.nl, PasswordExample_007).
 
 ### The doing part
 Now it's time for the [the workshop part](https://www.datacamp.com/courses/introduction-to-power-bi) of this class to get acquainted with PowerBI. Click the link in the previous sentence to start with the online workshop. Complete the entire course and upload the certificate to github, reference the certificate in your learning log for this week.

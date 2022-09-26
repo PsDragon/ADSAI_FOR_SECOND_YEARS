@@ -26,7 +26,7 @@ Datacamp, and virtually every other online learning platform, creates learning p
 ## 1) Proposed Workshop: Intermediate Data Modeling in Power BI
 The bachelor program also hands out medal for those who are willing to go the extra mile. For this block, the gold medal condition is doing a valid correlational or regression analysis in Power BI. If you are up for it, do the workshop: [Intermediate Data Modeling in Power BI](https://app.datacamp.com/learn/courses/intermediate-data-modeling-in-power-bi) and apply a data modelling method to your dashboard!
 
-## 2) Optional: Interesting Resources
+## 2) Optional: Getting more advanced
 You can look at these if you want to explain more aspects of the data! (and if you crave a sneak peak in Year 2).
 
 ### Distributions: The Shape of Data

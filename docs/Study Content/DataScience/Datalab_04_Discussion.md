@@ -40,7 +40,7 @@ Now, it's time to put all the knowledge we gained into practice by writing the d
 Tip: Domain knowledge is ofter key to interpretating the data! Get your research out again and connect the dots! Make sure to reference them in your dashboard and make sure to evidence your knowledge-sharing/help in your learning- and worklog!
 </div>
 
-***Open your dashboard and inspect the Discussion section. Next, open R-studio and open your script.***
+***Open your dashboard and inspect the Discussion section.***
 
 We start with considering the distribution of the data, the summary statistics and data visualisations. What do they tell us about themselves? How do they relate to the research question?
 1. Give an unbiased report of the possible considerations (e.g. Missing data, distribution, collection concerns, domain problems etc.) in interpreting the findings of the EDA.

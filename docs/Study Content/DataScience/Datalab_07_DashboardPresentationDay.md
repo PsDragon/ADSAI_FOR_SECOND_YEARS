@@ -43,6 +43,4 @@ Expectation management is an essential skill for most jobs, and ours all the mor
 ## The end
 That was all for Data Science 1! Hopefully you enjoyed the course and feel like you are well on your way to become a Data Scientist!
 
-If you have any feedback or suggestions, please mail Bram on: heijligers.b@buas.nl
-
-!
+If you have any feedback or suggestions, please mail Bram on: heijligers.b@buas.nl!

@@ -31,7 +31,7 @@ Good luck!
 Now, let's all find 3 partners and open the version of your dashboard before you made the changes made during the Datalab Preparation session, and also open our post-Datalab Preparation dashboard. Show them to your partner and explain the improvements you made, why you made them and how you made them. You analyse and evaluate one another's work: specifically the choices, the execution and the story they tell with their data visualisations.
 
 ## 1) Feedback on dashboard
-Now it's time to gather the feedback on your dashboard. Ask you mentor(s) to provide you with feedback or to book a slot so they can provide you with feedback your progression. Record the feedback with action points in your notes file and then make changes to your dashboard or watch the video below and see if you can iterate on your dashboard further before continueing writing the conclusion!
+Now it's time to gather the feedback on your dashboard. Ask you mentor(s) to provide you with feedback or to book a slot so they can provide you with feedback your progression. Record the feedback with action points in your notes file and then make changes to your dashboard or see if you can iterate on your dashboard another way!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AwMFhyH7_5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

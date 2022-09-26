@@ -41,7 +41,7 @@ Your mentor will provide each of you with a QR code which your peers can scan. T
 
 
 <figure>
-    <img src=".\assets\DS report example.png" />
+    <img src=".\assets\DS report example.jpg" />
     <figcaption>SDG Indicators by Goal (Source: Our World In Data)</figcaption>
 </figure>
 <br>

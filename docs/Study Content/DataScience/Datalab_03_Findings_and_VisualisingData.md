@@ -96,7 +96,7 @@ Tip: Get the silver challenge by helping your peers! E.g. by proofreading their 
 # 2) Mentor-Group discussion
 At 16:30, we'll all get together in our mentor groups to discuss our progress and reflect on today activities.
 
-Tomorrow, we're going to continue with probability theory.
+Tomorrow, we're going to continue with variability and do another case-study.
 
 
 ## Questions or issues?

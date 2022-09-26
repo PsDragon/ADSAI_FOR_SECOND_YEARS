@@ -37,7 +37,7 @@ The purpose of your data science project is not to do a correlational analysis i
 In this video, we will talk about data relationships and what we can learn from them. We'll focus on correlation, a coefficient that measures how two variables "move" together. We'll also introduce some good statistical terms you've probably heard of, like regression coefficient, correlation coefficient (r), and r^2. But first, we'll need to introduce a helpful way to represent continuous bivariate data - the scatter plot. The scatter plot has been called "the most useful invention in the history of statistical graphics", but that doesn't necessarily mean it can tell us everything. For example, just because two data sets move together doesn't necessarily mean one CAUSES the other. This gives us one of the essential tenets of statistics: correlation does not imply causation.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GtV-VYdNt_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The purpose of your data science project is not to do a correlational analysis in R yourself: the goal is to suggest an analysis based on your research question and data. But, if you want to go more in-depth into correlation and play around in R, I suggest doing [these excercises](https://www.r-bloggers.com/2017/04/correlation-and-correlogram-exercises/). You can also follow [this step plan for Power BI](https://www.mssqltips.com/sqlservertip/5197/correlation-analysis-using-correlation-plot-in-power-bi-desktop/. Next year, we're going to advance our knowledge of statistics and go into hypothesis testing; for now you should just know what it means if variables are correlated.
+The purpose of your data science project is not to do a correlational analysis in R yourself: the goal is to suggest an analysis based on your research question and data. But, if you want to go more in-depth into correlation and play around in Power BI, I suggest following [this step plan for Power BI](https://www.mssqltips.com/sqlservertip/5197/correlation-analysis-using-correlation-plot-in-power-bi-desktop/.) Next year, we're going to advance our knowledge of statistics and go into hypothesis testing; for now you should just know what it means if variables are correlated.
 
 
 ### A) Datalab Preparation 1
@@ -56,12 +56,12 @@ The purpose of your data science project is not to do a correlational analysis i
 
 **Create a table for the data if using Power BI.&&
 
- 1. Use [this artcile](https://www.statology.org/correlation-coefficient-by-hand/) article to **calculate the Pearson Correlation Coefficient between Age X and Glucose Level Y** by hand, or [in Power BI using DAX](https://www.youtube.com/watch?v=xtRXakHARZg&ab_channel=Curbal) or . If you do it by hand, upload a foto of your written calculations to GitHUb instead of a .pbix file.
+ 1. Use [this artcile](https://www.statology.org/correlation-coefficient-by-hand/) article to **calculate the Pearson Correlation Coefficient between Age X and Glucose Level Y** by hand, or [in Power BI using DAX](https://www.youtube.com/watch?v=xtRXakHARZg&ab_channel=Curbal) or, if you do it by hand, upload a foto of your written calculations to GitHUb/your Learning Log instead of a .pbix file.
 
 Save the file to your GitHub repository when you're done.
 
 ## 2) Intro to Regression
-Today we're going to introduce one of the most flexible statistical tools - the General Linear Model (or GLM). GLMs allow us to create many different models to help describe the world - you see them a lot in science, economics, and politics. For example, today we're going to build a hypothetical model to look at the relationship between likes and comments on a trending YouTube video using the Regression Model. We'll be introducing other popular models over the next few episodes.
+Today we're going to introduce one of the most flexible statistical tools - the Linear Model (or LM). GLMs allow us to create many different models to help describe the world - you see them a lot in science, economics, and politics. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WWqE7YHR4Jc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 

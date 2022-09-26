@@ -2,7 +2,7 @@
 sort: 9
 ---
 
-# Ca
+# Case-Study
 Today, we will apply our skills learned so far to a case study. This will help you with your own research and getting it into a dashboard!. There is no datalab preparation apart from doing this course. Instead, though, we will apply our knowledge in tomorrow's Datalab.
 
 

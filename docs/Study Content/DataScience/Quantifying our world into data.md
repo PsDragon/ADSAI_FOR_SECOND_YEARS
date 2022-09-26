@@ -29,14 +29,14 @@ If you have questions or issues regarding the course material you can't solve by
 
 
 ## More info?
-Look at the [creative brief](https://adsai.buas.nl/Year1/BlockA/) for more info about the content or ask us during the Q&A in datalab tomorrow!
+Look at the [creative brief](https://adsai.buas.nl/Year1/BlockA/) for more info about the content or ask us during the Q&A in datalab coming wednesday!
 
 
 
 ## 1) Data Science Introduction Lecture
-**It is available [here](https://github.com/BredaUniversityADSAI/ADS-AI/blob/326523f60f5ef35e603eab424e35cd18b985562d/docs/Study%20Content/DataScience/assets/DS1%20-%20Lecture%201;%20The%20world%20in%20data.ppsx) now!** And, [Here is the link to the slides in case you want those too.](https://edubuas.sharepoint.com/sites/2021-22AFGA1.P1ADSAI/Shared%20Documents/General/Recordings/DS1%20-%20Lecture%201;%20The%20world%20in%20data.ppsx)
+**It is available [here](https://edubuas-my.sharepoint.com/:v:/g/personal/heijligers_b_buas_nl/Eb6flCtL--VKgi0U8WmH-7YBj3k3EaH2miHe7lKhKZZF-A?e=MddKQn) now!** And, [Here is the link to the slides in case you want those too.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/326523f60f5ef35e603eab424e35cd18b985562d/docs/Study%20Content/DataScience/assets/DS1%20-%20Lecture%201;%20The%20world%20in%20data.ppsx)
 
-## 2) Preparation for DataLab 5, Week 3: 
+## 2) Preparation for DataLab: 
 **Mock-Assessments** like this test your knowledge and skills but **are not graded in any way.** Instead, they are small exercises which; similar to real assessments, test your capacity to use your knowledge:
 - Apply: use your knowledge in new situations
 - Analyze: draw connections among ideas
@@ -100,7 +100,7 @@ To successfully perform these tasks, a data proffesional must have a broad found
 For the remainder of block A we will focus on data understanding and visualization (e.g. Power BI), critical thinking and presentation skills and adress the rest of these topics over the next two years...
 
 Now I can imagine there's some confusion regarding the difference between a data scientist and artificial intelligence. How are they actually distinct, or are they even? In truth there's a lot of overlap and the terms are changing as the industry changes. However, the main distinction in the field lies in that a data proffesional just works with data to solves problems and can use virtually any (valid) tool to solve the problem whereas a more advance data proffesional who does more advanced analysis is usually called a data scientist. He's actively doing research and modelling the data in order to get to some understanding or insight about the data. A data scientist can also apply machine and deep learning to solve different problems whereas a regular data proffesional; like a data analyst, cannot. 
-But then what is the difference between a data scientist and an AI specialist like an AI scientist or engineer? Well, in truth it depends a lot on the context; the company and problem. But usually a an AI specialist is solely concerned with applying an AI algorith; applying machine or deep learning, in order to solve some problem and is usually concerned with a lot of active tuning and maintainace of the algorithm!
+But then what is the difference between a data scientist and an AI specialist like an AI scientist or engineer? Well, in truth it depends a lot on the context; the company and problem. But usually a an AI specialist is solely concerned with applying an AI algorithm; applying machine or deep learning, in order to solve some problem and is usually concerned with a lot of active tuning and maintainace of the algorithm!
 
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">

@@ -32,8 +32,8 @@ Good luck!
 
 ## 0) Datalab Preparation review: Variables and Descriptive data
 Now, let's all find 5 partners from our mentor group and get our Datalab Preparation files out (assuming you made them :p) and discuss them. Specifically, analyse and evaluate one another work by:
-- Simply showing one another how you created your variables, vectors and data frame for the Intro to Variables Datalab Preparation. Or what you did and did not manage; we're in a safe space to learn, and not succeeding is part of that :).
-- Showing one another your calculations and solutions for parts A and B of the Descriptive Analyses Datalab Preparation.
+- Simply showing one another how you created your variables, vectors and data frame for the Intro to Variables Datalab Preparation.
+
 
 
 ## 1) Exploratory Data Analysis: Data Preperation - Workshop

@@ -83,7 +83,7 @@ The block starts with a kick-off lecture.
 - Image dataset 
 - Python file (.py extension)
 - Github folders with README.md
-- Report (Maximum of 3000 words)
+- Technical Report (Maximum of 3000 words)
 
 ***
 

@@ -70,6 +70,12 @@ The block starts with a kick-off lecture.
 
 ## Project Requirements
 
+### Computer Vision Task
+
+### Robotics and Reinforcement Learning Task
+
+### Report
+
 ***
 
 ## Project Deliverable(s)

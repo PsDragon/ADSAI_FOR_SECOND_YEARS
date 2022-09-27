@@ -74,7 +74,7 @@ The block starts with a kick-off lecture.
 
 ### Robotics and Reinforcement Learning Task
 
-### Report
+### Technical Report
 
 ***
 

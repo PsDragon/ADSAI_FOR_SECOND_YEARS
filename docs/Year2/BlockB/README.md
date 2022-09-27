@@ -35,18 +35,32 @@ The block starts with a kick-off lecture.
 - Business understanding
 - Data collection
 - Data management
+- Robotic Simulation
 
-### Week 2-3
+### Week 2
 
+- Machine vision
+- Computer vision
 - Data annotation
 
-### Week 4-5
+### Week 3
 
+- Computer vision
 - Data modeling 
+
+### Week 4
+
+- Robotics
+- Control theory
+
+### Week 5
+
+- Control with computer vision
+- Reinforcement learning
 
 ### Week 6-7
 
-- Robotics/Reinforcement learning
+- Reinforcement learning
 
 ### Week 8 
 

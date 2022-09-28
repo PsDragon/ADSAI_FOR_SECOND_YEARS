@@ -74,7 +74,7 @@ C) Questions: Defining phenomena as data
 3. Form a data-driven research question based on your variables and the description of the phenomena.
 
 
-Save the file as .txt or .pdf file to GitHub; we'll discuss it during Datalab tomorrow.
+Save the file as .txt or .pdf file to GitHub; we'll discuss it during Datalab.
 
 ## 3) What will you be doing for Data Science?
 

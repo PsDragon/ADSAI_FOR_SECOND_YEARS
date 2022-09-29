@@ -33,7 +33,7 @@ Let's start with the most basic container for information: the variable. Essenti
 A variable can contain numerous data types and a data type is necessary whenever you are dealing with the data. Any data that is loaded needs a data type so that it helps the compiler to understand how the data entered is to be used. Power BI is no exception. It also has a particular set of data types. Here, the data type is defined for a particular column. You can choose to learn by doing and do the workshop below, or you can first read this short overview first](https://yodalearning.com/tutorials/power-bi-data-types/#1) if you prefer to get a clearer overview of different types of variables; which I'ld recommomend but up to you! 
 
 ## 2) Workshop - Variables and Data Transformation in Power BI
-Now it's time for the workshop part of of this class to get acquainted with variables and data transformation in PowerBI. Click the links [Introduction to Power BI](https://www.datacamp.com/courses/introduction-to-power-bi) and [Introduction to DAX in Power BI](https://www.datacamp.com/courses/introduction-to-power-bi). Complete the both courses and upload the certificate to github, reference the certificate in your learning log for this week.
+Now it's time for the workshop part of of this class to get acquainted with variables and data transformation in PowerBI. Click the links [Introduction to Power BI](https://www.datacamp.com/courses/introduction-to-power-bi) and [Introduction to DAX in Power BI](https://www.datacamp.com/courses/introduction-to-dax-in-power-bi). Complete the both courses and upload the certificate to github, reference the certificate in your learning log for this week.
 
 ## 3) Datalab Preparation
 

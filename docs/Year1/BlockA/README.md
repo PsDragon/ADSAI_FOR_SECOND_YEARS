@@ -20,11 +20,11 @@ Each of the seven/eight weeks has a fixed structure: on Monday, Wednesday and Th
 
 ### DataLab Attendance & Preparation
 
-Regular attendance and punctuality in every DataLab is required of each student (by default from 9:00 to 17:00). A student who has incurred absences of more than two DataLab sessions without a valid reason throughout the block shall not be given credit, which means you need to retake the entire block; alternatively you can object via the Board of Examiners to your automatic grading suspension.
+Regular attendance and punctuality in every DataLab is required of each student (by default from 9:00 to 17:00). A student who has incurred absences of more than two DataLab sessions without a valid reason throughout the block shall not be given credit for the ILO 1.3.
 
 A student is considered late when they are not yet present during the Standup session, and until the fifteenth minute from the start of DataLab (9:15) Two instances of lateness are counted as one absence.
 
-In case of absence, the student needs to fill in the 'DataLab Absence' [form](https://adsai.buas.nl/Contact%20Us/DataLabAttendance.html) in a timely manner, and subsequently proposes and completes activities that are acceptable alternatives to the in-class learning activities. For more details, contact your mentor.
+In case of absence, the student needs to fill in the 'DataLab Absence' [form](https://adsai.buas.nl/Contact%20Us/DataLabAttendance.html) in a timely manner (before 12:00, preferably before the start of the DataLab session), and subsequently proposes and completes activities that are acceptable alternatives to the in-class learning activities. For more details, contact your mentor.
 
 *__Good__* excuses to miss DataLab:
 

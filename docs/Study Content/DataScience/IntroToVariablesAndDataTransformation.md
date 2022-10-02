@@ -41,12 +41,13 @@ This Datalab Preparation is about applying the concepts we learned today to a re
 
 Create an .pbix file called "VariablesDatalabPreparation" and follow these instructions:
 
-1. Create a variable called 'lunch' with a text/string describing an item you had for lunch: food only.
-2. Delete the variable.
-3. Create a vector named 'drinks' containing all your drinks you ate today: as text/strings.
-4. Create a vector named 'foods' listing all the food you ate today; as text/strings.
-5. Create a table/matrix containing the food and drinks you had today.
-6. Add the times; as numerical values, when you ate or drank something.
+1. Create a variable called 'lunch' of a text/string type describing the item you had for lunch as values within the variable: food only.
+2. Create a variable named 'foods' of a text/string type listing all the food you ate today as values within the variable.
+3. Create a variable named 'drinks' of a text/string type containing all your drinks you ate today as values within the variable.
+4. Delete the variable 'lunch'.
+5. Create a table containing the food and drinks you had today.
+6. Add the times; as time values, for when you ate or drank something.
+7. Add the order; as numerical values, for when you ate or drank something.
 
 Save your Datalab Preparation to your GitHub repository and refer to it in your learning log. In Datalab you and your classmates are going to look at one another's scripts and run it.
 

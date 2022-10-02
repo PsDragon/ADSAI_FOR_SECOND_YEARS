@@ -45,15 +45,12 @@ We (mostly) have Renee Descartes with his [cartesian coordinate system](https://
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HMkllhBI91Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 2) Workshop
-Now it's time for the [the workshop part](https://app.datacamp.com/learn/courses/data-visualization-in-power-bi) of this class to get acquainted with performing an EDA. We do this by solving a use case for which we have to do understand, clean, transform and visualise the data in a dashboard. Click the link in the previous sentence to start with the online workshop. Complete the entire course and upload the certificate to github, reference the certificate in your learning log for this week.
+Now that we're familliar with handling and explorting data; doing an EDA, it's time we learn to convey our data understanding better by learning about data visualisation.Click here for the [the workshop on Data Visualisation in Power BI](https://app.datacamp.com/learn/courses/data-visualization-in-power-bi). We do this by solving a use case for which we have to do understand, clean, transform and visualise the data in a dashboard. Click the link in the previous sentence to start with the online workshop. Complete the entire course and upload the certificate to github, reference the certificate in your learning log for this week.
 
 If you get stuck, first ask your peers and then us!
 
 ## 3) Datalab Prepration
 For datalab tomorrow, you'll need to have finished all workshop modules up to this point. Make sure you all uploaded all certificates to github and referred to it in your learning log!
-
-## The End
-That was it for today; tomorrow, we'll continue until module 10. Then we'll look further into data visualisations specifically.
 
 
 ## Resources

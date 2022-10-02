@@ -4,13 +4,13 @@ sort: 8
 
 # Datalab 02: Exploratory Data Analysis 2
 
-This data-lab day will focus on preparing our data for doing an Exploratory Data Analysis (EDA). First, we will download data suiting our problem statement. Then, we will work on the project brief, specifically the EDA methodology section, and apply our data transformtion, preparation and cleaning skills to get our data in so we can do descriptive analyses to generate descriptive statistics and visualisations to populate (= fill) the EDA Methodology tab of our Power BI dashboard of our data-lab project.
+This data-lab day will focus on doing our Exploratory Data Analysis (EDA). First, we will download data suiting our problem statement and prepare our data; if you haven't dones so already. Then, we will work on the project brief, specifically the EDA methodology section, and apply our data transformtion, preparation and cleaning skills to get our data in. That way we can do first draft of descriptive analyses to generate descriptive statistics and visualisations to populate (= fill) the EDA Methodology tab of our Power BI dashboard.
 
 ## Learning Objectives
 Enable you to:
-1. generate descriptive statistics;
-2. generate descriptive visualisations;
-3. write a basic EDA methodology.
+1. generate descriptive statistics for a use-case;
+2. generate descriptive visualisations for a use-case;
+3. write a basic EDA methodology for a use-case.
 
 Table of contents:
 0. Datalab Preparation Review: 0.5 Hours
@@ -30,22 +30,21 @@ Get together with your mentor group, a student will lead the session, and take t
 Good luck!
 
 ## 0) Datalab Preparation review
-Now, let's all find 5 partners from our mentor group and get our Datalab Preparation out and discuss them. Specifically, discuss the things you were struggeling with. Make sure to record your feedback in your learning log!
+Now, let's all form groups of 5 (or less) from our mentor group and get our Datalab Preparation out; meaning our certificates to show to your mentors, and discuss them. Specifically, discuss the things you were struggeling with in the courses. Make sure to record your notes and any feedback in your learning log!
 
-## 1) Exploratory Data Analysis: Data Preparation on SDG Indicators dataset - Project Brief part
-During the workshop we have learned all EDA techniques regarding data preparation we could need to address your problem statement. Which means that now we can continue working on the project brief.
+## 1) Exploratory Data Analysis: SDG Indicators for the project brief
+During the workshop we have learned all EDA techniques regarding data preparation we could need to address your problem statement. Which means that now we can continue working on the project brief. If you need a refresher, go back to previous self-study and datalab days to familliarize yourself with the steps; potentially revisit some course or videos.
 
-**Step 1.** Open your Power BI Dashboard and inspect the EDA Methodology section. Then, save the dashboard to your "DataScience1_Dashboard" GitHub repository and be sure to save and upload your file regularly. Now look at the feedback you have received on your dashboard by navigating to your GitHub repository and clicking on the 'Pull requests' header. There should be a feedback thread over there.
+**Step 1.** Get your notes from the last data lab and read the Introduction you wrote for the dashboard, iterate if you think you need to. Then, if you need to collect (more) data, go to the [SDG website](https://sdg-tracker.org/) and make **a selection of the variables** you think are interesting in the context of the problem statement.
 
-**Step 2.** Get your notes from the last data lab and read the Introduction you wrote for the dashboard. Then, go to the [SDG website](https://sdg-tracker.org/) and make **a selection of the variables** you think are interesting in the context of the problem statement.
+**Step 2.** Open your Power BI Dashboard and inspect the EDA Methodology section. If you have any notes or feedback (e.g. in your learning log) iterate where you deem neccesary on the EDA section. Then, save your dashboard to your GitHub repository; be sure to save and upload your file regularly.
+
+**Step 3.** Download the **relevant** [SDG data](https://unstats.un.org/sdgs/indicators/database/) and create a dataset which **only contains the variables you selected** (apart from identifier data such as the year or geographic area). Then, save the dataset as a CSV file to your repository.
+
+Now open your dashboard and write the 'Data Selection' Section.
 
 
-**Step 3.** Download the **relevant** [SDG data](https://unstats.un.org/sdgs/indicators/database/) and create a dataset which **only contains the variables you selected** (apart from identifier data such as the year or geographic area). Then, save the dataset as a CSV file to your "DataScience1_Dashboard" repository.
-
-Now open your dashboard and write the Data Selection Section.
-
-
-**Step 4.** Open PowerBI and generate descriptive statistics for each variable and save all the results in a table. Then export the table as a .jpeg file and save it to your GitHub repository.
+**Step 4.** Open PowerBI and generate descriptive statistics for each variable and save all the results in a table. Then export the table as a .jpeg file, save it to your GitHub repository, and put it in your learning log.
 
 Now, open the dashboard and write the Data Cleaning Sections.
 
@@ -56,9 +55,9 @@ Now, open the dashboard and write the Data Cleaning Sections.
 2. Histogram;
 3. Boxplot.
 
-Now open the dashboard and write the Data Selection and Data Visualisation Sections. Save your script on your GitHub repository and name it aptly: e.g. "SDGIndicatorExploratoryDataAnalysis". 
+Now open the dashboard and write the Data Selection and Data Visualisation Sections. Be aware that you have creative freedom to shape your dashboad! More specificallyare free to change the formatting and lay-out of the poster as long as you are able to demonstrate what part of your dashboard meets which assessment criteria in your learning log (So the evidence slides for ILO 4.1 and 4.2)! Answering the question in the template is a sure way to get there! 
 
-**Step. 6.** Read and potentially iterate on your dashboard, then save your dashboard to your GitHub repository! If your files are too large for Github; upload them to your personal folder on [Sharepoint](www.edubuas.sharepoint.com) . Only files on github and sharepoint (team, outlook also upload to sharepoint) are considered for grading. 
+**Step. 6.** Read and potentially iterate on your dashboard, then save your dashboard to your GitHub repository! If your files are too large for Github; upload them to your personal folder on [Sharepoint](www.edubuas.sharepoint.com) . Only files on github and sharepoint (team, outlook also upload to sharepoint) are eligible for grading by policy (so no google drive, dropbox etc.). 
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Tip: Get the silver challenge by helping your peers! E.g. by proofreading their dashboard. They may return the favour, and you both get a better learning experience! Make sure to evidence your knowledge-sharing/help in your learning- and worklog!
@@ -67,8 +66,7 @@ Tip: Get the silver challenge by helping your peers! E.g. by proofreading their 
 ## 2)  In-Class discussion
 At 16:30, we'll all get together in our mentor group to discuss our progress and reflect on today activities.
 
-Next week we're going to cover some fundamental concepts of probability theory. It's much more fun than it sounds, I promise. :p
-
+Tomorrow, we're going to hone our skills some more by doing a case study. You'll likely find some interesting techniques and lenses to transfer to you own SDG data analysis!
 
 
 ## Resources:

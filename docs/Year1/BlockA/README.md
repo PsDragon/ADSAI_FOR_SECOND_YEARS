@@ -209,7 +209,7 @@ You are encouraged to get the best out of yourself. Therefore, within the ADS&AI
 - [Datalab 02: Exploratory Data Analysis (EDA)](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_02_ExploratoryDataAnalysis2.html)
 
 ### Thursday
-- [Introduction to Probability 1](https://adsai.buas.nl/Study%20Content/DataScience/IntroductionToProbability1.html)
+- [Case Study](https://adsai.buas.nl/Study%20Content/DataScience/Case_Study.html)
 
 ### Friday
 - [Datalab 03: Findings & Data Visualisations](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_03_Findings_and_VisualisingData.html)

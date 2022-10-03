@@ -50,7 +50,7 @@ Now that we're familliar with handling and explorting data; doing an EDA, it's t
 If you get stuck, first ask your peers and then us!
 
 ## 3) Datalab Prepration
-For datalab tomorrow, you'll need to have finished all workshop modules up to this point. Make sure you all uploaded all certificates to github and referred to it in your learning log!
+For the upcoming datalab, you'll need to have finished all workshop modules up to this point. Make sure you all uploaded all certificates to github and referred to it in your learning log!
 
 
 ## Resources

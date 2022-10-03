@@ -47,7 +47,7 @@ Now it's time for the [the workshop part](https://app.datacamp.com/learn/courses
 If you get stuck, first ask your peers and [then us!](https://adsai.buas.nl/Contact%20Us/)
 
 ## 3) Datalab Prepration
-For datalab tomorrow, you'll need to have finished all workshop modules up to this point. Make sure you all uploaded all certificates to github and referred to it in your learning log!
+For the upcoming datalab, you'll need to have finished all workshop modules up to this point. Make sure you all uploaded all certificates to github and referred to it in your learning log!
 
 
 

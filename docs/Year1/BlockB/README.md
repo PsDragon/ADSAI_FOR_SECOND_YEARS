@@ -35,19 +35,20 @@ Please refer to the project brief for more detailed information.
 - [Python for AI and Data ScienceI](../../Study%20Content/Programming/3.Python%20foundations.html)
 
 ## Tuesday
-- [Python for AI and Data Science II](../../Study%20Content/Programming/3.Python%20foundations.html)
-- [Python: Coding standards and reproducible data science](../../Study%20Content/Programming/14.Python%20PEP8.html)
+- [Python data types & data structures I](../../Study%20Content/Programming/5.Python%20data%20types%20and%20data%20structures.html)
+
 
 ## Wednesday
 - [Data Lab 1: Python Foundation exercises](../../Study%20Content/Programming/4.DataLabPR1.html)
 
 
 ## Thursday
-- [Python data types & data structures I](../../Study%20Content/Programming/5.Python%20data%20types%20and%20data%20structures.html)
+- [Python data types & data structures II](../../Study%20Content/Programming/5.Python%20data%20types%20and%20data%20structures.html)
+- [Python: Coding standards and reproducible data science](../../Study%20Content/Programming/14.Python%20PEP8.html)
 
 
 ## Friday
-- [Python data types & data structures II](../../Study%20Content/Programming/5.Python%20data%20types%20and%20data%20structures.html)
+- [Python data types & data structures II](../../Study%20Content/Programming/8.DataLabPR2.html)
 
 
 # Week 2 : Ethics & Marketing Analytics

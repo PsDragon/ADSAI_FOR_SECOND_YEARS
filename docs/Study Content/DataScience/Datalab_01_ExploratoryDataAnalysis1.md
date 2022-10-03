@@ -37,7 +37,7 @@ Now, let's all find 5 partners from our mentor group and get our Datalab Prepara
 
 
 ## 1) Exploratory Data Analysis: Data Preperation - Workshop
-Let's start by doing a workshop, specifically the [Data Preparation course](https://app.datacamp.com/learn/courses/exploratory-data-analysis-in-power-bi)!
+Let's start by doing a workshop, specifically the [Data Preparation course](https://app.datacamp.com/learn/courses/data-preparation-in-power-bi)!
 
 ## 2) Exploratory Data Analysis: Data Preparation on SDG Indicators dataset - Project Brief part
 During the workshop we have learned all EDA techniques regarding data preparation we could need to address your problem statement. Which means that now we can continue working on the project brief.
@@ -47,7 +47,7 @@ During the workshop we have learned all EDA techniques regarding data preparatio
 **Step 2.** Get your notes from the last data lab and read the Introduction you wrote for the dashboard. Then, go to the [SDG website](https://sdg-tracker.org/) and make **a selection of the variables** you think are interesting in the context of the problem statement.
 
 
-**Step 3.** Download the **relevant** [SDG data](https://unstats.un.org/sdgs/indicators/database/) and create a dataset which **only contains the variables you selected** (apart from identifier data such as the year or geographic area). Then, save the dataset as a CSV file to your "DataScience1_Dashboard" repository.
+**Step 3.** Download the **relevant** [SDG data](https://unstats.un.org/sdgs/dataportal/) and create a dataset which **only contains the variables you selected** (apart from identifier data such as the year or geographic area). Then, save the dataset as a CSV file to your "DataScience1_Dashboard" repository.
 
 Now open your dashboard and write the Data Selection Section.
 

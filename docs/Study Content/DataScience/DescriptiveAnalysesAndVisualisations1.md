@@ -4,7 +4,7 @@ sort: 6
 
 # Descriptive Analyses & Visualisations 1
 
-Now that we're familiar with handling data in Power BI, it's time we start to really understand and convey our understanding; describe it. That's why we will cover descriptive statistics and visualising descriptive data; commonly refered to as doing a Exploratory Data Analysis (EDA). Subsequently, in the workshop, we will briefly focus on data cleaning, specifically getting and cleaning data, crucial for data lab tomorrow. For the rest of the workshop, we will practice doing exploratory data analyses wherefore descriptive statistics and visualisations are fundamental.
+Now that we're familiar with handling data in Power BI, it's time we start to really understand and convey our data understanding; describe it. That's why we will cover descriptive statistics and visualising descriptive data; commonly refered to as doing a Exploratory Data Analysis (EDA). Subsequently, in the workshop, we will briefly focus on data preparation, specifically getting and cleaning data, crucial for data lab tomorrow. For the rest of the workshop, we will practice doing exploratory data analyses wherefore descriptive statistics and visualisations are fundamental.
 
 ## 0) Learning Objectives
 Fundamentals of Exploratory Data Analysis, specifically you will learn to understand and apply:

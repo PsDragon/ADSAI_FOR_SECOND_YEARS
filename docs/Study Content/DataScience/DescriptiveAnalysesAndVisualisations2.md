@@ -4,7 +4,7 @@ sort: 7
 
 # Descriptive Analyses & Visualisations 2
 
-Now that we're familiar with handling data in Power BI, it's time we start to really understand and convey our understanding; describe it. That's why we will cover descriptive statistics and visualising descriptive data; commonly refered to as doing a Exploratory Data Analysis (EDA). Subsequently, in the workshop, we will briefly focus on data cleaning, specifically getting and cleaning data, crucial for data lab tomorrow. For the rest of the workshop, we will practice doing exploratory data analyses wherefore descriptive statistics and visualisations are fundamental.
+Now that we're familiar with handling data in Power BI, it's time we start to really understand and convey our data understanding; describe it. That's why we will cover descriptive statistics and visualising descriptive data; a crucial part of doing an Exploratory Data Analysis (EDA). Subsequently, in the workshop, we will focus on describing the data by visualising it.
 
 ## 0) Learning Objectives
 Fundamentals of Exploratory Data Analysis, specifically you will learn to understand and apply:
@@ -15,7 +15,7 @@ Fundamentals of Exploratory Data Analysis, specifically you will learn to unders
 Table of contents:
 1. Introduction: 1 hour
 2. Workshop: 6 hours
-3. Datalab Preparation: 0.5 hours
+3. Datalab Preparation: - hours
 
 
 Good luck!
@@ -31,21 +31,21 @@ If you have questions or issues regarding the course material, please fill out t
 First, we will explore how we can describe and interpret our raw data without analysing any causal relationships. In other words, we're going to look at what we can tell about the data by itself.
 
 ### Data Visualisation
-It's really helpful to visualise data: most people intuitively know how to read a graph but don't have a clue when given the same scientific relationships in writing or math. Visualising data allows us to use more of our sensory capacity, enabling us to learn and understand data better. Of all the data your 5 senses provides, the data your eyes provides is by far the richest dataset (80% of all sensory data used for cognitive processing).
+It's really helpful to visualise data: most people intuitively know how to read a graph but don't have a clue when given the same scientific relationships in writing or mathematical equations. Visualising data allows us to use more of our sensory capacity, enabling us to learn and understand data better. Of all the data your 5 senses provide to your brain, your eyes provide by far the richest dataset (80% of all sensory data used by the brain for cognitive processing).
 
 Better yet is multi-modal perception of information; or data. Essentially, this is a fancy way of saying that you learn better if the information is presented in multiple ways and through multiple senses. Animation and text: multiple ways of saying the same thing. Animation and narration: multiple senses are giving the same or complementary information. Multi-modal perception is scientifically proven to improve learning and understanding. A prime example in data visualisations is explicitly allowing viewers to use their spatial awareness to understand concepts: like graphs or charts. Therefore, the visual presentation of data is a game-changer to get a better understanding and intuitive feel of the data.
 
 
 ![Renee Decartes enjoying his chill life in Amsterdam](http://static1.squarespace.com/static/51b10198e4b00987e7d6891b/51b10199e4b00987e7d68923/5259a2c6e4b0107b3307992d/1508313165899/CkcQMCeWsAAkjdf.jpg?format=1500w)
 
-We (mostly) have Renee Descartes with his [cartesian coordinate system](https://en.wikipedia.org/wiki/Cartesian_coordinate_system) to thank for graphical representations of data as we know today: enabling us to use algebra to describe geometry. Or in other words: translate numbers using math into a shape to represent the information contained in the data.
+We (mostly) have Renee Descartes with his [cartesian coordinate system](https://en.wikipedia.org/wiki/Cartesian_coordinate_system) to thank for graphical representations of data as we know today: enabling us to use algebra to describe geometry. Or in other words: translate numbers using math into a shape to represent the information contained in the data. Below are two great explainers about data visualisation, watch them before starting the workshop!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hEWY6kkBdpo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HMkllhBI91Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 2) Workshop
-Now that we're familliar with handling and explorting data; doing an EDA, it's time we learn to convey our data understanding better by learning about data visualisation.Click here for the [the workshop on Data Visualisation in Power BI](https://app.datacamp.com/learn/courses/data-visualization-in-power-bi). We do this by solving a use case for which we have to do understand, clean, transform and visualise the data in a dashboard. Click the link in the previous sentence to start with the online workshop. Complete the entire course and upload the certificate to github, reference the certificate in your learning log for this week.
+Now that we're familliar with handling and exploring data; doing an EDA, it's time we learn to convey our data understanding better by learning how to make good data visualisations. Click here for the [the workshop on Data Visualisation in Power BI](https://app.datacamp.com/learn/courses/data-visualization-in-power-bi). Complete the entire course and upload the certificate to github, reference the certificate in your learning log for this week.
 
 If you get stuck, first ask your peers and then us!
 

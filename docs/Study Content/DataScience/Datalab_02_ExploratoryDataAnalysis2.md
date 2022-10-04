@@ -62,7 +62,7 @@ When you're done, save your dashboard to your GitHub repository!
 When you're done, save your dashboard to your GitHub repository! If your files are too large for Github; upload them to your personal folder on [Sharepoint](www.edubuas.sharepoint.com) . Only files on github and sharepoint (team, outlook also upload to sharepoint) are eligible for grading by policy (so no google drive, dropbox etc.). 
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: Get the silver challenge by helping your peers! E.g. by proofreading their dashboard. They may return the favour, and you both get a better learning experience! Make sure to evidence your knowledge-sharing/help in your learning- and worklog!
+Tip: Get evidence for the 'Excellent' condition of ILO 1.3 by helping your peers! E.g. by proofreading their dashboard. They may return the favour, and you both get a better learning experience! Make sure to evidence your knowledge-sharing/help in your learning- and worklog!
 </div>
 
 ## 2)  In-Class discussion

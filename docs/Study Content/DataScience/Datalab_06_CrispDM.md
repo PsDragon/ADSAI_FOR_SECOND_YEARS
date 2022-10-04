@@ -75,7 +75,7 @@ Run through your Power BI file, run it and re-evaluate it for each of the steps 
 
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: Get the silver challenge by helping your peers! E.g. by proofreading their dashboard. They may return the favour, and you both get a better learning experience! Make sure to evidence your knowledge-sharing/help in your learning- and worklog!
+Tip: Tip: Get evidence for the 'Excellent' condition of ILO 1.3 by helping your peers! E.g. by proofreading their dashboard. They may return the favour, and you both get a better learning experience! Make sure to evidence your knowledge-sharing/help in your learning- and worklog!
 </div>
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">

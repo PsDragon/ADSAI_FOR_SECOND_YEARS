@@ -4,7 +4,7 @@ sort: 8
 
 # Datalab 02: Exploratory Data Analysis 2
 
-This data-lab day will focus on doing our Exploratory Data Analysis (EDA). First, we will download data suiting our problem statement and prepare our data; if you haven't done so already. Then, we will work on the project brief, specifically the EDA methodology section, and apply our data transformtion, preparation and cleaning skills to get our data in. After that we can do first draft of descriptive analyses to generate descriptive statistics and visualisations to populate (= fill) the EDA Methodology tab of our Power BI dashboard!
+This data-lab day will focus on doing our Exploratory Data Analysis (EDA) for our dashboard project. First, we will download data suiting our problem statement and prepare our data; if you haven't done so already. Then, we will work on the project brief, specifically the EDA methodology section, and apply our data transformtion, preparation and cleaning skills to our data where needed. After that we can do first draft of descriptive analyses to generate descriptive statistics and visualisations to populate (= fill) the EDA Methodology tab of our Power BI dashboard!
 
 ## Learning Objectives
 Enable you to:
@@ -31,8 +31,9 @@ Good luck!
 ## 0) Datalab Preparation review
 Now, let's all form groups of 5 (or less) from our mentor group and get our Datalab Preparation out; meaning our certificates to show to your mentors, and discuss them with your peers. Specifically, discuss the things you were struggeling with in the courses. Make sure to record your notes and any feedback in your learning log!
 
+
 ## 1) Exploratory Data Analysis: SDG Indicators for the project brief
-During the workshop we have learned all EDA techniques regarding data preparation and EDA we could need to address your problem statement. Which means that now we can continue working on the project brief. If you need a refresher, go back to previous self-study and datalab days to familliarize yourself with the steps; potentially revisit some course or videos.
+Today we continue workin on our EDA! During the workshop we have learned all EDA techniques regarding data preparation and EDA we could need to address your problem statement. Which means that now we can continue working on the project brief. If you need a refresher, go back to the previous self-study and datalab days to familliarize yourself with the steps; potentially revisit some courses or videos. You can iterate on your intro; included your problem statement and research question, based on the available/found data as well; science is often iterative!
 
 **Step 1.** Get your notes from the last data lab and read the Introduction you wrote for the dashboard, iterate if you think you need to. Then, if you need to collect (more) data, go to the [SDG website](https://sdg-tracker.org/) and make **a selection of the variables** you think are interesting in the context of your problem statement.
 
@@ -54,12 +55,12 @@ Now, open the dashboard and write the Data Cleaning Sections.
 2. Histogram;
 3. Boxplot.
 
-Now open the dashboard and write the Data Selection and Data Visualisation Sections. Be aware that you have creative freedom to shape your dashboad! More specificallyare free to change the formatting and lay-out of the poster as long as you are able to demonstrate what part of your dashboard meets which assessment criteria in your learning log (So the evidence slides for ILO 4.1 and 4.2)! Answering the question in the template is a sure way to get there! 
+Now open the dashboard and write the Data Selection and Data Visualisation Sections. Be aware that you have creative freedom to shape your dashboad! More specificallyare free to change the formatting and lay-out of the poster as long as you are able to demonstrate what part of your dashboard meets which assessment criteria in your learning log (So the evidence slides for ILO 4.1 and 4.2)! Answering the questions in the template is a sure way to get there! 
 
 When you're done, save your dashboard to your GitHub repository! 
 
 **Step. 6.** Read and potentially iterate on your dashboard! Iterating; assesing what could be improved and making those changes, can be done in many ways and there's not a single right way! Maybe you want to narrow down which graphs you use to describe the characteristics of your data. Or maybe you want to use different data visualisations to convey your data understanding. You can also ask some peers for feedback, record it and your findings in you learning log and iterate on your dashboard like that. 
-When you're done, save your dashboard to your GitHub repository! If your files are too large for Github; upload them to your personal folder on [Sharepoint](www.edubuas.sharepoint.com) . Only files on github and sharepoint (team, outlook also upload to sharepoint) are eligible for grading by policy (so no google drive, dropbox etc.). 
+When you're done, save your dashboard to your GitHub repository! If your files are too large for Github; upload them to your personal folder on [Sharepoint](www.edubuas.sharepoint.com) . Only files on github and sharepoint (team, outlook also upload to sharepoint) are eligible for grading by academy policy (so no google drive, dropbox etc.). 
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Tip: Get evidence for the 'Excellent' condition of ILO 1.3 by helping your peers! E.g. by proofreading their dashboard. They may return the favour, and you both get a better learning experience! Make sure to evidence your knowledge-sharing/help in your learning- and worklog!

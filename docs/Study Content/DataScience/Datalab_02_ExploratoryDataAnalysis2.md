@@ -14,8 +14,9 @@ Enable you to:
 
 Table of contents:
 0. Datalab Preparation Review: 0.5 Hours
-1. Exploratory Data Analysis on SDG Indicators: 7 hours
-2. Day reflection: 16:30 - 17:00
+1. Exploratory Data Analysis on SDG Indicators: 5.5 hours
+2. A day in the life of a Data Engineer: 14:30 - 16:00
+3. Day reflection: 16:30 - 17:00
 
 ### Questions or issues?
 If you have any questions or issues regarding the course material, please first ask your peers or ask a member of staff if you can't figure it out together!
@@ -66,9 +67,20 @@ When you're done, save your dashboard to your GitHub repository! If your files a
 Tip: Get evidence for the 'Excellent' condition of ILO 1.3 by helping your peers! E.g. by proofreading their dashboard. They may return the favour, and you both get a better learning experience! Make sure to evidence your knowledge-sharing/help in your learning- and worklog!
 </div>
 
-## 2) A Day in a life of a Data Engineer (9:30-10:00)
+## 2) A Day in a life of a Data Engineer (14:30-15:00)
 
-Each Wednesday, you will have the chance to familiarise yourself with the different roles that constitute a professional data team. This week focuses on the data analyst. <mark>From 15:00-16:00 there will be a guest lecture by Jason Harty (Fe1.018)</mark>. Afterwards, there is time to for asking questions.   
+Each Wednesday, you will have the chance to familiarise yourself with the different roles that constitute a professional data team. This week focuses on the data analyst. <mark>From 15:00-16:00 there will be a guest lecture by Jason Harty (Fe1.018)</mark>. Afterwards, there is time to for asking questions. 
+
+### 2.1 Data Engineer
+
+__2.1a__ Find out what a typical work day looks like for a data Engineer (e.g., daily tasks, and related skills, etc.).
+
+__2.1b__ Come up with at least one question for the guest lecturer Max Poirault concerning his work as a data analyst.  
+
+
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Note: The Bronze Challenge for Block A is creating an infographic that provides an overview of the different roles that constitute a professional data team.
+</div>
 
 ## 3)  In-Class discussion
 At 16:30, we'll all get together in our mentor group to discuss our progress and reflect on today activities.

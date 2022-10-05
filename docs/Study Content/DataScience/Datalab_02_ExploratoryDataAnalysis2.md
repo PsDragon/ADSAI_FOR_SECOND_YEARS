@@ -66,7 +66,11 @@ When you're done, save your dashboard to your GitHub repository! If your files a
 Tip: Get evidence for the 'Excellent' condition of ILO 1.3 by helping your peers! E.g. by proofreading their dashboard. They may return the favour, and you both get a better learning experience! Make sure to evidence your knowledge-sharing/help in your learning- and worklog!
 </div>
 
-## 2)  In-Class discussion
+## 2) A Day in a life of a Data Engineer (9:30-10:00)
+
+Each Wednesday, you will have the chance to familiarise yourself with the different roles that constitute a professional data team. This week focuses on the data analyst. <mark>From 15:00-16:00 there will be a guest lecture by Jason Harty (Fe1.018)</mark>. Afterwards, there is time to for asking questions.   
+
+## 3)  In-Class discussion
 At 16:30, we'll all get together in our mentor group to discuss our progress and reflect on today activities.
 
 Tomorrow, we're going to hone our skills some more by doing a case study. You'll likely find some interesting techniques and lenses to transfer to you own SDG data analysis!

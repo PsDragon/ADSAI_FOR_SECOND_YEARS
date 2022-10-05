@@ -5,6 +5,7 @@ In Block B, which spans eight weeks, you will explore one specific role within a
 
 - Computer vision; Object detection (e.g., YOLO, Faster-RCNN, etc.)
 - Reinforcement learning (e.g., )
+- Cognition: models of perception, decision-making and action within situational context.
 - MLOps (e.g., bash scripting, model registry, etc.) 
 
 ***
@@ -29,7 +30,7 @@ In the past five years, leading companies like Philips and Nokia have started in
 
 *Figure 1. WWA employers working on robot arm.*
 
-WWA, a regional SME in manufacturing-process automation,  hereafter the client, has approached you as an – Artificial Intelligence Researcher – to digitilize its business processes by designing and developing a practical, Industry 4.0, robotics application that can perform bin picking by applying (advanced) reinforcement and computer vision algorithms. 
+WWA, a regional SME in manufacturing-process automation,  hereafter the client, has approached you as an – Artificial Intelligence Researcher – to digitilize its business processes by designing and developing a practical, Industry 4.0, robotics application that can perform bin picking by applying (advanced) reinforcement, cognitive models and computer vision algorithms. 
 
 Good luck!
 
@@ -40,6 +41,7 @@ The project timeline is aligned with the knowledge modules you will find in the 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Note: During Weeks 1-2, you will work in a project group, Weeks 3-8 are devoted to individual work. This ensures that you can pool resources for data collection, and data management; while allowing for individual preferences in data analyses and project dissemination. 
 </div>
+
 
 ### Week 1
 
@@ -104,5 +106,7 @@ The block starts with a kick-off lecture.
 You are encouraged to get the best out of yourself. Therefore, within the ADS&AI program, we regularly allow you to push yourself further by giving you so-called bronze-silver-gold challenges. By achieving these, you can earn badges for your GitHub page, which mark excellent students: 
 
 ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=bronzemedal) ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=silvermedal) ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=goldmedal)
+
+MEDAL SUGGESTION: Robot Controller can sense, anticipate, plan and respond to changing situational conditions using reinforcement learning.
 
 *** 

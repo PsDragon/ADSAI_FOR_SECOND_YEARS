@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# 1. Overview & Sources
+# 1. Research Metholodgy: Overview & Sources
 To gain a new understanding for a given business or academic problem a data proffesional will use quantitative and qualitative research methods of various kinds to attempt to create some new understanding which contributes to a solution. These research methods consist of a study design and data management method to systematically gain new understanding in an efficient, valid, ethicial and safe manner. 
 
 

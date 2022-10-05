@@ -1,3 +1,4 @@
+
 # Block B - Artificial Intelligence Scientist - Vision & Robotics
 
 In Block B, which spans eight weeks, you will explore one specific role within a professional data team - The Artificial Intelligence Researcher. During the block, you will work on a Computer vision and Robotics themed real-use case. The research topics include, but are not limited to:
@@ -5,6 +6,18 @@ In Block B, which spans eight weeks, you will explore one specific role within a
 - Computer vision; Object detection (e.g., YOLO, Faster-RCNN, etc.)
 - Reinforcement learning (e.g., )
 - MLOps (e.g., bash scripting, model registry, etc.) 
+
+***
+
+### Staff Members
+
+| Name   |  Availability |  Week | Email  | Subject  |
+|---|---|---|---|---|
+| Dean van Aswegen (Lecturer, Mentor), MSc. <img src="./DeanProfile.jpg" alt="Dean van Aswegen profile picture" width="200"/>| Mon, Tues, Wed, Thur, Fri  |  Weeks 4-8 | aswegen.d@buas.nl | Robotics & Reinforcement learning | 
+| Alican Noyan (Lecturer), PhD.<img src="./AlicanProfile.jpg" alt="Alican Noyan profile picture" width="200"/>|  Mon, Wed, Thu, Fri  | Week 2 |  noyan.a@buas.nl | Traditional computer vision |
+| Irene van Blerck (Lecturer, Mentor), MSc. <img src="./IreneProfile.jpg" alt="Irene van Blerck profile picture" width="200"/>   |  Tue, Wed, Thu, Fri | Weeks 1-3, 8 |  blerck.i@buas.nl | Data collection/annotation & DL computer vision |
+| Bram Heijligers (Lecturer), MSc. <img src="./BramProfile.jpg" alt="Bram Heijligers profile picture" width="200"/> |  Wed, Thur, Fri | Week 1  | heijligers.b@buas.nl | Data management & Cognition | 
+| Frank Peters (Program manager), PhD. <img src="./FrankProfile.jpeg" alt="Frank Peters profile picture" width="200"/> | Mon, Tue, Wed, Thu |  NA | peters.f@buas.nl | NA  |
 
 ***
 
@@ -25,28 +38,27 @@ Good luck!
 The project timeline is aligned with the knowledge modules you will find in the ADS&AI digital learning environment.
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Note: During Weeks 1-3, you will work in a project group, Weeks 4-7 are devoted to individual work. This ensures that you can pool resources for data collection, and data management; while allowing for individual preferences in data analyses and project dissemination.
+Note: During Weeks 1-2, you will work in a project group, Weeks 3-8 are devoted to individual work. This ensures that you can pool resources for data collection, and data management; while allowing for individual preferences in data analyses and project dissemination. 
 </div>
 
 ### Week 1
 
 The block starts with a kick-off lecture. 
 
-- Business understanding
-- Data collection
-- Data management
-- Robotic Simulation
+- [Field trip: WWA]()
+- [Data collection]()
+- [Data management]()
 
 ### Week 2
 
-- Machine vision
-- Computer vision
-- Data annotation
+- [Introduction to traditional/DL computer vision]()
+- [Traditional computer vision]()
+- [DL computer vision (1)]()
+- [Data annotation]()
 
 ### Week 3
 
-- Computer vision
-- Data modeling 
+- [DL computer vision (2)]()
 
 ### Week 4
 
@@ -56,11 +68,11 @@ The block starts with a kick-off lecture.
 ### Week 5
 
 - Control with computer vision
-- Reinforcement learning
+- Reinforcement learning (1)
 
 ### Week 6-7
 
-- Reinforcement learning
+- Reinforcement learning (2)
 
 ### Week 8 
 

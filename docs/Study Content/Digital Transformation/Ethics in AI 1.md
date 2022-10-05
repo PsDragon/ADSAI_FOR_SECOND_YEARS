@@ -2,7 +2,7 @@
 sort: 4
 ---
 
-## __Ethics & Law (1): Introduction to DEDA Framework. Preparation for debates: Ethical Decision-Making.__
+## __Ethics in AI (1): Introduction into Ethics.__
 \
 <img src="./images/datalab_banner.jpg" alt="Books banner" width="600"/>
 

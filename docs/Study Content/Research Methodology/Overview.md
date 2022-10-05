@@ -19,7 +19,7 @@ Most of these material are used in courses, others however are extracurriculary 
 -	[Letter of Informed Consent](https://docs.google.com/document/d/166IJ62T9OEnrNnJgmgAH2aiSS-mM6Uzd?rtpof=true&authuser=bram.heijligers%40gmail.com&usp=drive_fs); and distributing it to the participant(s)
 -	[Research Information Letter](https://docs.google.com/document/d/16AFZ7TrJ9ociGr6-D0dHLyiFe2WT_2L5?rtpof=true&authuser=bram.heijligers%40gmail.com&usp=drive_fs); and distributing it to the participant(s) before data collection
 -   [Research Data management Guide](https://edubuas.sharepoint.com/sites/researchdevelopment/SitePages/Datamanagement.aspx) describes how to create a Data Management Plan and conduct data stewardship procedures within the BUas academic environment.
-- [ ] [Codebook](https://github.com/BredaUniversityADSAI/ADS-AI/blob/f020e08818bb64486e784e2447334fb866ee1df9/docs/Study%20Content/Research%20Methodology/Assets/Codebook_Template.md). 
+-   [Codebook](https://github.com/BredaUniversityADSAI/ADS-AI/blob/f020e08818bb64486e784e2447334fb866ee1df9/docs/Study%20Content/Research%20Methodology/Assets/Codebook_Template.md). 
 
 ## Books
 ### Quantitative

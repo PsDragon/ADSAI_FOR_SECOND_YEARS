@@ -229,7 +229,7 @@ You are encouraged to get the best out of yourself. Therefore, within the ADS&AI
 - [Reporting & visualisation - Overview](https://adsai.buas.nl/Study%20Content/DataScience/ReportingAndVisualisatingData.html)
 
 ### Friday
-- [Datalab 05: Conclusion & Storytelling with Data](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_05_Conclusion.html)
+- [Datalab 05: Presenting & Storytelling with Data](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_05_Presenting%20and%20Storytelling%20with%20Data.html)
 
 ## Week 7: Introduction to Data Science
 

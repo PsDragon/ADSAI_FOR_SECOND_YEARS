@@ -3,7 +3,7 @@ sort: 11
 ---
 
 # Variability
-This page builds your foundational knowledge of variability. Yesterday, we introduced the foundational concepts, and today we will continue to put our new knowledge into practice by doing another case study. Finally, in the Datalab Preparation, we'll do our first correlational analysis by hand!
+This page builds your foundational knowledge of variability. First though, we will do another case study to bolter our data understanding. Then we'll  Finally, in the Datalab Preparation, we'll do our first correlational analysis by hand!
 
 Learning objectives:
 Enable you to understand and/or apply:
@@ -32,7 +32,7 @@ If you get stuck, first ask your peers and then us!
 
 
 ## 1) Datalab Preparation
-The variance, unlike the mean, is a measure of variability. Meaning, it captures the amount of [spread within a variable or data set](https://youtu.be/R4yfNi_8Kqw). Measures of variability are often reported alongside measures of central tendency. Meaning, the variance is typically taken with the mean or the median, as this helps form a greater picture of what the data set looks like. Below are the formulas for the variance:
+The variance, unlike the mean, is a measure of variability. Meaning, it captures the amount of [spread within a variable or data set](https://youtu.be/R4yfNi_8Kqw). Take a look at [Descriptive Analyses and Visualisations 1](https://adsai.buas.nl/Study%20Content/DataScience/DescriptiveAnalysesAndVisualisations1.html?highlight=variability) again for a refresher. Measures of variability are often reported alongside measures of central tendency. Meaning, the variance is typically taken with the mean or the median, as this helps form a greater picture of what the data set looks like. Below are the formulas for the variance:
 
 <figure>
     <img src=".\assets\VarianceFormulas.jpg" />

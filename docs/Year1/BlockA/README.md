@@ -217,7 +217,7 @@ You are encouraged to get the best out of yourself. Therefore, within the ADS&AI
 ## Week 6: Introduction to Data Science
 
 ### Monday
-- [Introduction to Probability 2](https://adsai.buas.nl/Study%20Content/DataScience/IntroductionToProbability2.html)
+- [Variability](https://adsai.buas.nl/Study%20Content/DataScience/Variability.html)
 
 ### Tuesday
 - [Analysing Relationships between Variables](https://adsai.buas.nl/Study%20Content/DataScience/Analysing%20Relationships%20between%20Variables.html)

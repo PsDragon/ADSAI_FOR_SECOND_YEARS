@@ -16,8 +16,8 @@ Build upon the basic understanding of data representations by learning to create
 Table of contents:
 0. Peer-review: 1 hour
 1. Feedback: .5 hours
-2. Workshop: 3 hours
-3. Project: 4.5 hours
+2. Project: 5 hours
+3. Mentor-Group discussion: 0.5 hours
 
 ### Questions or issues?
 If you have any questions or issues regarding the course material, please first ask your peers or ask a member of staff if you can't figure it out together!
@@ -35,9 +35,9 @@ Make groups of 5 peers within your mentor groups. Open your notes file and be re
 
 
 ## 1) Feedback Session
-It's time to gather the feedback on your dashboard. Today you'll have a feedback session so you have a chance to collect some expert feedback! If you have any question for you mentor on your work or want their subjective opinion your dashboard specicifcally, prepare to ask such (a) question(s). Record the feedback with action points in your notes file and then continue with the next section or go ahead and make changes to your dashboard.
+It's time to gather the feedback on your dashboard. Today you'll have a feedback session so you have a chance to collect some expert feedback! If you have any question for you mentor on your work or want their subjective opinion your dashboard specicifcally, prepare to ask such questions. Record the feedback with action points in your notes file and then continue with the next section or go ahead and make changes to your dashboard.
 
-For those of you who haven't done so already: start uploading your files to our GitHub repository. That way, you never lose (too much) of your work, and we can also help you from a distance if there's something which you can't resolve or don't understand! :)
+For those of you who haven't done so already: start uploading your files to your GitHub repository. That way, you never lose (too much) of your work, and we can also help you from a distance if there's something which you can't resolve or don't understand! :)
 
 
 ### 2) Research Questions & Visualizations in Power BI
@@ -86,16 +86,15 @@ Create appropriate graphical representations and tables of your data to fill the
 ***
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: Having troubling choosing the right visualisations for research questions? Maybe <a href="( https://app.powerbi.com/view?r=eyJrIjoiZmI4NGU2YjktZjMxYy00OTllLWI1MmYtMjlhMzZiMjgxMDlmIiwidCI6ImFmZGIzOGQ2LTI0MTgtNDQyYS1hMDI1LWYwODY3MWYzMDRjYiIsImMiOjZ9&pageName=ReportSection2cf0ed0792d577e77531">this dashboard</a> can inspire you! Or perhaps <a href="( https://mindmajix.com/power-bi-visualization-types">you're more of a video tutorial</a> enthousiast? . Or maybe <a href="( https://mindmajix.com/power-bi-visualization-types">this blog post</a> on different types of charts can help you chart your course (haha).
+Tip: Having troubling choosing the right visualisations for research questions? Maybe <a href="( https://app.powerbi.com/view?r=eyJrIjoiZmI4NGU2YjktZjMxYy00OTllLWI1MmYtMjlhMzZiMjgxMDlmIiwidCI6ImFmZGIzOGQ2LTI0MTgtNDQyYS1hMDI1LWYwODY3MWYzMDRjYiIsImMiOjZ9&pageName=ReportSection2cf0ed0792d577e77531">this dashboard</a> can inspire you! Or perhaps <a href="( https://www.youtube.com/c/GuyinaCube">you're more of a video tutorial</a> enthousiast? . Or maybe <a href="( https://mindmajix.com/power-bi-visualization-types">this blog post</a> on different types of charts can help you chart your course (haha).
 </div>
 
-https://www.youtube.com/c/GuyinaCube
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Tip: Tip: Get evidence for the 'Excellent' condition of ILO 1.3 by helping your peers! E.g. by proofreading their dashboard. They may return the favour, and you both get a better learning experience! Make sure to evidence your knowledge-sharing/help in your learning- and worklog!
 </div>
 
-# 2) Mentor-Group discussion
+# 3) Mentor-Group discussion
 At 16:30, we'll all get together in our mentor groups to discuss our progress and reflect on today activities.
 
 Tomorrow, we're going to continue with variability and do another case-study to further reinforce our knowledge; all of this capacity to understand and describe data is fundamental to everything else you'll learn the coming 4 years!

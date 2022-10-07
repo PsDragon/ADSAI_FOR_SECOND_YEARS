@@ -61,7 +61,11 @@ The purpose of your data science project is not to do a correlational analysis i
 Save the file to your GitHub repository when you're done.
 
 ## 2) Intro to Regression
+<<<<<<< Updated upstream
 Today we're going to introduce one of the most flexible statistical tools - the Linear Model (or LM). GLMs allow us to create many different models to help describe the world - you see them a lot in science, economics, and politics. 
+=======
+Today we're going to introduce one of the most flexible statistical tools - the Linear Model (or LM). LMs allow us to create many different models to help describe the world - you see them a lot in science, economics, and politics. For example, today we're going to build a hypothetical model to look at the relationship between likes and comments on a trending YouTube video using the Regression Model. We'll be introducing other popular models over the next few episodes.
+>>>>>>> Stashed changes
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WWqE7YHR4Jc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 

@@ -34,8 +34,13 @@ Good luck!
 Make groups of 5 peers within your mentor groups. Open your notes file and be ready to take notes. Take a loot at one another's dashboards and help your peer understand what you did and where you're going with your dashboard. Note down all valuable feedback in your notes file and upload it to your github repository once finished and reference it in your learning log for this week.
 
 
+<<<<<<< Updated upstream
 ## 1) Feedback Session
 It's time to gather the feedback on your dashboard. Today you'll have a feedback session so you have a chance to collect some expert feedback! If you have any question for you mentor on your work or want their subjective opinion your dashboard specicifcally, prepare to ask such questions. Record the feedback with action points in your notes file and then continue with the next section or go ahead and make changes to your dashboard.
+=======
+## 1) First things second
+It's time to gather the feedback on your dashboard if you feel that's valuable. If so ask you mentor(s) to provide you with feedback: book a slot with them so they can provide you with feedback your progression. Record the feedback with action points in your notes file and then continue with the next section or go ahead and make changes to your dashboard.
+>>>>>>> Stashed changes
 
 For those of you who haven't done so already: start uploading your files to your GitHub repository. That way, you never lose (too much) of your work, and we can also help you from a distance if there's something which you can't resolve or don't understand! :)
 

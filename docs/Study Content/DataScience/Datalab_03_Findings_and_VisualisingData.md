@@ -91,7 +91,7 @@ Create appropriate graphical representations and tables of your data to fill the
 ***
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: Having troubling choosing the right visualisations for research questions? Maybe <a href="( https://app.powerbi.com/view?r=eyJrIjoiZmI4NGU2YjktZjMxYy00OTllLWI1MmYtMjlhMzZiMjgxMDlmIiwidCI6ImFmZGIzOGQ2LTI0MTgtNDQyYS1hMDI1LWYwODY3MWYzMDRjYiIsImMiOjZ9&pageName=ReportSection2cf0ed0792d577e77531">this dashboard</a> can inspire you! Or perhaps <a href="( https://www.youtube.com/c/GuyinaCube">you're more of a video tutorial</a> enthousiast? . Or maybe <a href="( https://mindmajix.com/power-bi-visualization-types">this blog post</a> on different types of charts can help you chart your course (haha).
+Tip: Having troubling choosing the right visualisations for research questions? Maybe <a href="(https://app.powerbi.com/view?r=eyJrIjoiZmI4NGU2YjktZjMxYy00OTllLWI1MmYtMjlhMzZiMjgxMDlmIiwidCI6ImFmZGIzOGQ2LTI0MTgtNDQyYS1hMDI1LWYwODY3MWYzMDRjYiIsImMiOjZ9&pageName=ReportSection2cf0ed0792d577e77531">this dashboard</a> can inspire you! Or perhaps <a href="(https://www.youtube.com/c/GuyinaCube">you're more of a video tutorial</a> enthousiast? . Or maybe <a href="(https://mindmajix.com/power-bi-visualization-types">this blog post</a> on different types of charts can help you chart your course (haha).
 </div>
 
 

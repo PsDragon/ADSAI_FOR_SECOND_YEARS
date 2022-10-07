@@ -75,7 +75,7 @@ It can be difficult to choose a suitable chart to represent (a subset of) your d
 *Figure 2. General chart type choser.*
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: Thursday's independent study day material focused on creating visualizations. Want a refresher of the different visuals that are available in Power BI? Read Microsoft's <a href="( https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-types-for-reports-and-q-and-a">Visualization types in Power BI</a> article.
+Tip: Want a refresher of the different visuals that are available in Power BI? Read Microsoft's <a href="( https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-types-for-reports-and-q-and-a">Visualization types in Power BI</a> article.
 </div>
 
 __4a__ Load your dashboard .pbix file in Power BI.
@@ -91,7 +91,7 @@ Create appropriate graphical representations and tables of your data to fill the
 ***
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: Having troubling choosing the right visualisations for research questions? Maybe <a href="(https://app.powerbi.com/view?r=eyJrIjoiZmI4NGU2YjktZjMxYy00OTllLWI1MmYtMjlhMzZiMjgxMDlmIiwidCI6ImFmZGIzOGQ2LTI0MTgtNDQyYS1hMDI1LWYwODY3MWYzMDRjYiIsImMiOjZ9&pageName=ReportSection2cf0ed0792d577e77531">this dashboard</a> can inspire you! Or perhaps <a href="(https://www.youtube.com/c/GuyinaCube">you're more of a video tutorial</a> enthousiast? . Or maybe <a href="(https://mindmajix.com/power-bi-visualization-types">this blog post</a> on different types of charts can help you chart your course (haha).
+Tip: Having troubling choosing the right visualisations for research questions? Maybe <a href="( https://app.powerbi.com/view?r=eyJrIjoiZmI4NGU2YjktZjMxYy00OTllLWI1MmYtMjlhMzZiMjgxMDlmIiwidCI6ImFmZGIzOGQ2LTI0MTgtNDQyYS1hMDI1LWYwODY3MWYzMDRjYiIsImMiOjZ9&pageName=ReportSection2cf0ed0792d577e77531">this dashboard</a> can inspire you! Or perhaps <a href="( https://www.youtube.com/c/GuyinaCube">you're more of a video tutorial</a> enthousiast? Or maybe <a href="( https://mindmajix.com/power-bi-visualization-types">this blog post</a> on different types of charts can help you chart your course (haha).
 </div>
 
 

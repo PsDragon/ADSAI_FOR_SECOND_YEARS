@@ -11,19 +11,28 @@ If you aren't presenting your dashboard, walk around and look at the dashboard o
 
 The SDG Taskforce and some of the other lecturers are present as well, and these will not know what your project is about. So be prepared to take them through it and answer their questions. In essence this translates to knowing what you are talking about with respect to the scope of your research project, so don't worry about this too much. It will, however, give you some valuable feedback on how to improve on your dashboard before you are officially assessed in week 9.
 
-## 9:00 - 9:30 Setting up of Dashboard Group 1, 2, 3 (half of group)
-
-
-## 9:30 - 12:00 Dashboard Presenation Group 1, 2, 3 (half of group)
+## Round 1
+- 9:00 - 9:15 Setting up of Dashboards Group 1
+- 9:15 - 10:30 Dashboard Presenation Group 1
 Walk around, scan the QR codes of your peers and provide them with feedback!
 
+## Round 2
+- 10:30 - 10:45 Setting up of Dashboard Group 2
+
+## 10:45 - 12:00 Dashboard Presenation Group 2
+Walk around, scan the QR codes of your peers and provide them with feedback!
 
 ## 12:00 - 13:00 Lunchtime
 No explanation need but be back in time. If you present your dashboard at 13:00, feel free to take a break at 13:00 and but be back at 12:45 to setup your dashboard presentation.
 
-## 12:00 - 13:00 Setting up of Dashboard Group 3 (half of group), 4, 5
+## 13:15 - 13:00 Setting up of Dashboard Group 3
 
-## 12:30 - 16:00 Dashboard Presenation Group 3 (half of group), 4, 5
+## 13:15 - 14:30 Dashboard Presenation Group 3
+Walk around, scan the QR codes of your peers and provide them with feedback!
+
+## 14:30 - 14:45 Setting up of Dashboard Group 4
+
+## 14:45 - 16:00 Dashboard Presenation Group 4
 Walk around, scan the QR codes of your peers and provide them with feedback!
 
 ### Some extra tips

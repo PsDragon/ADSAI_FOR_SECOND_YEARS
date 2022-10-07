@@ -75,7 +75,8 @@ It can be difficult to choose a suitable chart to represent (a subset of) your d
 *Figure 2. General chart type choser.*
 
 ***
-Tip: Want a refresher of the different visuals that are available in Power BI? Read Microsoft's [Visualization types in Power BI](https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-types-for-reports-and-q-and-a)article.
+**Tip:** Want a refresher of the different visuals that are available in Power BI? Read Microsoft's [Visualization types in Power BI](https://docs.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-types-for-reports-and-q-and-a)article.
+
 ***
 
 __4a__ Load your dashboard .pbix file in Power BI.
@@ -90,14 +91,12 @@ Create appropriate graphical representations and tables of your data to fill the
 
 ***
 
-
-###Tips: 
-Having troubling choosing the right visualisations for research questions? 
+**More tips:** Having troubling choosing the right visualisations for research questions? 
 - Maybe [this dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmI4NGU2YjktZjMxYy00OTllLWI1MmYtMjlhMzZiMjgxMDlmIiwidCI6ImFmZGIzOGQ2LTI0MTgtNDQyYS1hMDI1LWYwODY3MWYzMDRjYiIsImMiOjZ9&pageName=ReportSection2cf0ed0792d577e77531) can inspire you! 
 - Or perhaps you're more of a [video tutorial](https://www.youtube.com/c/GuyinaCube) enthousiast? 
 - Or maybe [this blog post](https://mindmajix.com/power-bi-visualization-types) on different types of charts can help you chart your course (haha).
 
-
+***
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Tip: Get evidence for the 'Excellent' condition of ILO 1.3 by helping your peers! E.g. by proofreading their dashboard. They may return the favour, and you both get a better learning experience! Make sure to evidence your knowledge-sharing/help in your learning- and worklog!

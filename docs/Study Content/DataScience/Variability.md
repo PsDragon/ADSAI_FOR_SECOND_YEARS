@@ -42,7 +42,7 @@ The variance, unlike the mean, is a measure of variability. Meaning, it captures
 
 Take a piece of paper and calculate the following by hand:
 
-1. Given the following information, find the **population variance**.
+1) Given the following information, find the **population variance**.
 
 | Measure | Value |
 | ------- | -------- |
@@ -50,7 +50,7 @@ Take a piece of paper and calculate the following by hand:
 | μ | 4 |
 
 
-2. Find the **sample variance** for age(i) of the following data:
+2) Find the **sample variance** for age(i) of the following data:
 
 | Subject | Age (i) |
 | ------- | -------- |
@@ -64,7 +64,7 @@ Take a piece of paper and calculate the following by hand:
 
 Hint: What is the mean? Where do we plug it in? And what do we do then with that sigma notation, or sum notation, we learned last week?
 
-3. Calculate the **sample variance** of the data sets given the following information:
+3) Calculate the **sample variance** of the data sets given the following information:
 
 Data set | Mean | SD | Sample Size |
 | ------- | -------- | -------- | -------- |

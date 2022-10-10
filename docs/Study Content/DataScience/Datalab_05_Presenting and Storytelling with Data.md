@@ -33,7 +33,7 @@ Now, let's all find 1 (or 2) partner(s) and open 'PRE_DataVisualisationDatalabPr
 ## 1) Data-Driven Story Telling Fundamentals
 Workshop take place from 10:00 - 12:00 in the Datalab!
 
-***
+
 
 ## 2) Presentation Skills Workshop
 Workshop take place from 13:00 - 17:00 in the Datalab!

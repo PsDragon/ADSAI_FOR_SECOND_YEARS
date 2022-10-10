@@ -29,7 +29,7 @@ Open your dashboard and save it as 'PRE_UX_Dashboard', upload it to github and e
 
 Finally, rename your dashboard back to it's original name ('SDGIndicatorsDashboard_YourNameHere', your name obviously goes somewhere here...) and upload it to github.
 
-Also fill in your worklog! If your worklog and learninglog are lacking, work on them now; they're vital pieces of evidence without which you can't be graded! Remember that **the deadline for handing in the Dashboard is Thursday of week 7 at 17:00!**
+Also fill in your worklog! If your worklog and learninglog are lacking, work on them now; they're vital pieces of evidence without which you can't be graded! Remember that **the deadline for handing in the Dashboard is Friday of week 7 at 17:00!**
 
 ## Datalab Preparation
 - Conclusion section first draft

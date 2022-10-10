@@ -4,19 +4,19 @@ sort: 12
 
 # Analysing Relationships between Variables
 
-We start by a brief refresher to correlation and applying it. Then, we're going to take a deep dive into measures of association by doing the Datacamp course into hypothesis testing in R. There's are 2 Datalab Preparation sections this time to prepare us for applying our new knowledge tomorrow in class!
+We start by a expanding on our knowledge of correlations and applying it. Then, we're going to dive deeper into measures of association by doing a Datacamp course on modelling data. There's are 2 Datalab Preparation sections this time to prepare us for applying our new knowledge tomorrow in class; discussing our findings and proposing an analysis to perform on the data!
 
 Learning objectives:
+- Modelling data in Power BI
 - Correlations;
 - Regression analyses.
 
 
 
 Please follow the links below to continue the class:
-1. Correlations: .5 hours
-2. Datalab Preparation 1: 1 hour
-3. Regression: 2 hours
-2. Datalab Preparation 2: 1 hour
+0. Workshop: 3 hours
+1. Correlations - Datalab Preparation 1: 1.5 hour
+2. Regression - Datalab Preparation 2: 1.5 hour
 
 
 ## Questions or issues?
@@ -31,17 +31,17 @@ First, it's time for the [the workshop part](https://app.datacamp.com/learn/cour
 
 If you get stuck, first ask your peers and then us!
 
-The purpose of your data science project is not to do a correlational analysis yourself: the goal is to suggest an analysis based on your research question and data. Next year, we're going to advance our knowledge of statistics and go into hypothesis testing; for now you should just know what it means if variables are correlated.
+The purpose of your data science project is not to do a correlational or regression analysis yourself: the goal is to suggest an analysis based on your research question and data. Next year, we're going to advance our knowledge of statistics and go into hypothesis testing; for now you should just know what it means if variables are correlated or have a linear relationship.
 
 ## 1) Correlations
 In this video, we will talk about data relationships and what we can learn from them. We'll focus on correlation, a coefficient that measures how two variables "move" together. We'll also introduce some good statistical terms you've probably heard of, like regression coefficient, correlation coefficient (r), and r^2. But first, we'll need to introduce a helpful way to represent continuous bivariate data - the scatter plot. The scatter plot has been called "the most useful invention in the history of statistical graphics", but that doesn't necessarily mean it can tell us everything. For example, just because two data sets move together doesn't necessarily mean one CAUSES the other. This gives us one of the essential tenets of statistics: correlation does not imply causation.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GtV-VYdNt_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The purpose of your data science project is not to do a correlational analysis in R yourself: the goal is to suggest an analysis based on your research question and data. But, if you want to go more in-depth into correlation and play around in Power BI, I suggest following [this step plan for Power BI](https://www.mssqltips.com/sqlservertip/5197/correlation-analysis-using-correlation-plot-in-power-bi-desktop/.) Next year, we're going to advance our knowledge of statistics and go into hypothesis testing; for now you should just know what it means if variables are correlated.
+The purpose of your data science project is not to do a correlational analysis in Power BI yourself: the goal is to suggest an analysis based on your research question and data. But, if you want to go more in-depth into correlation and play around in Power BI, I suggest following [this step plan for Power BI](https://www.mssqltips.com/sqlservertip/5197/correlation-analysis-using-correlation-plot-in-power-bi-desktop/.) Next year, we're going to advance our knowledge of statistics and go into hypothesis testing; for now you should just know what it means if variables are correlated.
 
 
-### A) Datalab Preparation 1
- Create an Power BI file called "CorrelationDatalabPreparation" and save it to your repository, or a piece of paper..
+## Datalab Preparation 1
+Get a piece of paper to write on, or create an Power BI file called "CorrelationDatalabPreparation" and save it to your repository.
 
  1. Now, look at the following table. It displays the age and glucose level of a given subject.
 
@@ -54,34 +54,33 @@ The purpose of your data science project is not to do a correlational analysis i
 | 5 | 57 | 87 |
 | 6 | 59 | 81 |
 
-**Create a table for the data if using Power BI.&&
+**Create a table for the data if you're using Power BI.
 
- 1. Use [this artcile](https://www.statology.org/correlation-coefficient-by-hand/) article to **calculate the Pearson Correlation Coefficient between Age X and Glucose Level Y** by hand, or [in Power BI using DAX](https://www.youtube.com/watch?v=xtRXakHARZg&ab_channel=Curbal) or, if you do it by hand, upload a foto of your written calculations to GitHUb/your Learning Log instead of a .pbix file.
+ 2. Use [this artcile](https://www.statology.org/correlation-coefficient-by-hand/) article to **calculate the Pearson Correlation Coefficient between Age X and Glucose Level Y** by hand, or [in Power BI using DAX](https://www.youtube.com/watch?v=xtRXakHARZg&ab_channel=Curbal). If you do it by hand, upload a foto of your written calculations to GitHUb/your Learning Log instead of a .pbix file but make sure to name the image file: 'CorrelationDatalabPreparation'.
 
-Save the file to your GitHub repository when you're done.
+Now we're going to try to develop a correlational analysis we can apply on our SDG Indicator dataset: preferably on the data you use for your own project and related to your problem statement.
+3. Formulate and justify a correlational analysis in less than 150 words. So, we're only asking you for a written proposal, not executing the analysis but feel free to challenge yourself! Doing the actual analysis is part of the Gold Medal for this block after all!
+
+Save the file(s) to your GitHub repository when you're done.
 
 ## 2) Intro to Regression
-<<<<<<< Updated upstream
-Today we're going to introduce one of the most flexible statistical tools - the Linear Model (or LM). GLMs allow us to create many different models to help describe the world - you see them a lot in science, economics, and politics. 
-=======
-Today we're going to introduce one of the most flexible statistical tools - the Linear Model (or LM). LMs allow us to create many different models to help describe the world - you see them a lot in science, economics, and politics. For example, today we're going to build a hypothetical model to look at the relationship between likes and comments on a trending YouTube video using the Regression Model. We'll be introducing other popular models over the next few episodes.
->>>>>>> Stashed changes
+Today we're going to introduce one of the most flexible statistical tools - the Linear Model (or LM). LMs allow us to create many different models to help describe the world - you see them a lot in science, economics, and politics. A  linear model allows us to describe a relationship where one variable; the predictor (or independent) variable, is predicting an increase or decrease in another variable; the outcome (or dependent) variable. As an example the video below discusses a hypothetical model to look at the relationship between likes and comments on a trending YouTube video using the Regression Model. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WWqE7YHR4Jc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-### B) Datalab Preparation 2
- Create an .pbix file called "LinearRegressionDatalabPreparation" and save it to your the GitHUb.
+## Datalab Preparation 2
+Get a piece of paper to write on, create an .pbix file called "LinearRegressionDatalabPreparation" and save it to your the GitHUb.
 
 Now we're going to try to develop some analyses we can apply on our SDG Indicator dataset: preferably the data you use for your own project.
-1. Formulate and justify a linear regression analysis in less than 150 words. So, we're only asking you for a comment regarding this one.
+1. Formulate and justify a linear regression analysis in less than 150 words. So, we're only asking you for a written proposal, not executing the analysis but feel free to challenge yourself! Doing the actual analysis is part of the Gold Medal for this block after all!
 
 Bonus points if you actually [model the analysis in Power BI](https://iterationinsights.com/article/linear-regression-in-power-bi/).
 
 
 
 ## Preparation for next datalab:
-- Datalab Preparation 1 from yesterday;
-- Datalab Preparation 2 & 3 of today.
+- Datalab Preparation on variability from yesterday;
+- Datalab Preparation 1 & 2 of today.
 
 Tomorrow we're going to cover writing a discussion section for our conference dashboard!
 

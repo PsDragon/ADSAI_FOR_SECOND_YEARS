@@ -49,7 +49,7 @@ The block starts with a kick-off lecture.
 
 - [Field trip: WWA]()
 - [Data collection]()
-- [Data management](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html): This block don't work with humans or animals but with robots which makes our lives much easier! Therefore, we don't need to bother ourselves with a letter of informed consent or a research information letter. For this block we need to use and fill in the following templates: [ ] BUas Ethics Review; [ ] Research Data Management Guide; [ ] Codebook. *This is a group deliverable*, so you can all hand-in the same files; and evidence that you did follow through with you Research Data Management Plan & Procedures described in there. Make sure that you contribute to each of these deliverables and are able to evidence this!
+- [Data management](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html): In this block we don't work with humans or animals but with robots which makes our lives much easier! Therefore, we don't need to bother ourselves with a letter of informed consent or a research information letter. For this block we need to use and fill in the following templates: [ ] BUas Ethics Review; [ ] Research Data Management Guide; [ ] Codebook. *This is a group deliverable*, so you can all hand-in the same files; and evidence that you did follow through with you Research Data Management Plan & Procedures described in there. Make sure that you contribute to each of these deliverables and are able to evidence this!
 
 ### Week 2
 

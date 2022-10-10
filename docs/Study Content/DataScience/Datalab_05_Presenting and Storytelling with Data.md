@@ -27,7 +27,7 @@ Get together with your mentor group, your mentor will pick a student to lead the
 Good luck!
 
 ## 0) Datalab Preparation Review
-Now, let's all find 1 (or 2) partner and open 'PRE_DataVisualisationDatalabPreparation' (the version of your dashboard before you made the changes/improvement suggestions of yesterday). Also open 'DataVisualisationDatalabPreparation' to view the dashboard which contains our improvements and suggestions for that. Show them to your partner and explain the improvements you made, why you made them and how you made them. You will analyse and evaluate one another's work: specifically the choices, the execution and the story they tell with their data visualisations. Record the feedback with action points in your notes file and then make changes to your dashboard or see if you can iterate on your dashboard another way!
+Now, let's all find 1 (or 2) partner(s) and open 'PRE_DataVisualisationDatalabPreparation' (the version of your dashboard before you made the changes/improvement suggestions of yesterday). Also open 'DataVisualisationDatalabPreparation' to view the dashboard which contains our improvements and suggestions for that. Show them to your partner and explain the improvements you made, why you made them and how you made them. You will analyse and evaluate one another's work: specifically the choices, the execution and the story they tell with their data visualisations. Record the feedback with action points in your notes file and then make changes to your dashboard or see if you can iterate on your dashboard another way!
 
 
 ## 1) Data-Driven Story Telling Fundamentals

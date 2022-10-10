@@ -3,14 +3,15 @@ sort: 19
 ---
 
 # Advanced Power BI
-Today, we primarily work on our dashboard to **finish and hand it in before 17:00 today!** However, there is much more to learn in Power BI! Becoming an advanced Power BI user is optional ofcourse but will gain you skills and a certificate which can help you with your future career!
+Today, we primarily work on our dashboard to **finish and present it tomorrow at the SDG conference in the Production House (Fs3.002)!** However, there is much more to learn in Power BI! Becoming an advanced Power BI user is optional ofcourse but will gain you skills and a certificate which can help you with your future career!
 
-If you still need to work on your dashboard, do this instead. Remember that **the deadline for handing in the Dashboard is Today (Thursday of week 7) at 17:00!** If you feel like you don't need to recap or need some time off, today is a good day for that. You should take some time to recharge if you feel like it :)
+If you still need to work on your dashboard, do this instead. Remember that **the deadline for handing in the Dashboard is Friday of week 7) at 17:00!** If you feel like you don't need to recap or need some time off, today is a good day for that. You should take some time to recharge if you feel like you're well prepared :).
 
-Please follow the links below to continue the class:
-0. Carreer track: 
+Today, there are 3 proposed activities:
+0. Completing the Data Analyst carreer track: ? hours
 1. Proposed workshop: 3 hours
-2. Working on Dashboard: - 
+2. Optional but recommended: Getting more advanced
+3. Working on Dashboard: - 
 
 ## Questions or issues?
 
@@ -20,13 +21,13 @@ If you have questions or issues regarding the course material, please fill out t
 
 
 
-## 0) Carreer track
+## 0) Data Analyst Carreer track
 Datacamp, and virtually every other online learning platform, creates learning paths you can follow in order to gain a specific skillset. Usually these paths come with a certificate and by doing all the courses on datacamp you have already the Power BI Fundamental certificate (or: Statement of Accomlishment)! You can get an advanced one as well if you enjoy Power BI and want to become a data analyst. Here you can see [the carreer path if you want to become an advanced Power BI user!](https://app.datacamp.com/learn/career-tracks/data-analyst-in-power-bi).
 
 ## 1) Proposed Workshop: Intermediate Data Modeling in Power BI
 The bachelor program also hands out medal for those who are willing to go the extra mile. For this block, the gold medal condition is doing a valid correlational or regression analysis in Power BI. If you are up for it, do the workshop: [Intermediate Data Modeling in Power BI](https://app.datacamp.com/learn/courses/intermediate-data-modeling-in-power-bi) and apply a data modelling method to your dashboard!
 
-## 2) Optional: Getting more advanced
+## 2) Optional but recommended: Getting more advanced
 You can look at these if you want to explain more aspects of the data! (and if you crave a sneak peak in Year 2).
 
 ### Distributions: The Shape of Data
@@ -35,7 +36,7 @@ When collecting data to make observations about the world, it usually just isn't
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bPFNxD3Yg6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-Today is the day we finally talk about the normal distribution! The normal distribution is incredibly important in statistics because distributions of means are normally distributed even if populations aren't. We'll get into why this is so - due to the Central Limit Theorem - but it's useful because it allows us to make comparisons between different groups even if we don't know the underlying distribution of the population being studied.
+Today is the day we finally talk about the normal distribution! It's exciting stuff to any data scientist! The normal distribution is incredibly important in statistics because distributions of means are normally distributed even if populations aren't. We'll get into why this is so - due to the Central Limit Theorem - but it's useful because it allows us to make comparisons between different groups even if we don't know the underlying distribution of the population being studied.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rBjft49MAO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -46,7 +47,7 @@ Now, we're going to begin our journey into probabilities. We'll talk about how t
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OyddY7DlV58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-This film will introduce you to bayesian statistics and demonstrate how this new approach to statistics has revolutionized the field from artificial intelligence and clinical trials to how your computer filters spam! We'll also discuss the Law of Large Numbers and how we can use simulations to help us better understand the "rules" of our data, even if we don't know the equations that define those rules.  But, don't worry, learning Bayesesian statistics is not part of this course.
+This film will introduce you to bayesian statistics and demonstrate how this new approach to statistics has revolutionized the field from artificial intelligence and clinical trials to how your computer filters spam! We'll also discuss the Law of Large Numbers and how we can use simulations to help us better understand the "rules" of our data, even if we don't know the equations that define those rules.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oZCskBpHWyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -61,12 +62,12 @@ There are many events in life that we just can’t predict, but just because som
 
 
 ## 3) Work on Dashboard
-Doesn't really need explaining right? Make any changes you still need to, especially those from feedback gathered from your mentors (or other lecturing staff) yesterday! Remember to save your changes to github and your learning log! Also fill in your worklog! If your worklog and learninglog are lacking, work on them now; they're vital pieces of evidence without which you can't be graded! Remember that **the deadline for handing in the Dashboard is Thursday of week 7 at 17:00!**
+Doesn't really need explaining right? Make any changes you still need to, especially those from feedback gathered from your mentors (or other lecturing staff) yesterday! Remember to save your changes to github and your learning log! Also fill in your worklog! If your worklog and learninglog are lacking, work on them now; they're vital pieces of evidence without which you can't be graded! Remember that **the deadline for handing in the Dashboard is Friday of week 7 at 17:00!**
 
 
 
 ## The end!
-Tomorrow we will have the dashboard demonstration, here you'll get to stand next to your dashboard and present it to class!
+Tomorrow we will have the SDG Conference where you will host your dashboard presentation, here you'll get to stand next to your dashboard and present it to class in a conference styled fashion! The client; the SDG HUB from BUas will be there to provide feedback! Feedback will be provided using the questionnaire we used last wednesday but is also delivered orally ofcourse! Be prepared tomorrow to record this feedback in your learning log, it's great help your reflect and improve on yourself for next block!
 
 
 

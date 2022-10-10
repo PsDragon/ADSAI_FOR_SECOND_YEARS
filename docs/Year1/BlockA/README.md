@@ -234,7 +234,7 @@ You are encouraged to get the best out of yourself. Therefore, within the ADS&AI
 ## Week 7: Introduction to Data Science
 
 ### Monday
-- [Explanatory Vs Predictive Modelling + more Reporting!](https://adsai.buas.nl/Study%20Content/DataScience/Explanatory%20Versus%20Predictive%20Modelling.html)
+- [Explanatory Vs Predictive Modelling + Writing a Conclusion](https://adsai.buas.nl/Study%20Content/DataScience/Explanatory%20Versus%20Predictive%20Modelling%20+%20Conclusion.html)
 
 
 ### Tuesday

@@ -4,15 +4,15 @@ sort: 18
 
 # Datalab 06: CRISP-DM
 
-We've now created the first full version of our dashboard! Today is all about gathering feedback on your dashboard and iterating on it using the CRISP-DM. Great job if you managed to finish your dashboard in time! If you're not there yet, don't worry; gathering feedback today is important as well even if you're not finished yet! Once you're finished, you can use the remainder of your time to brush up on your conference dashboard or revisit part of the analysis like data visualisation or interpretation.
+We've now created the first full version of our dashboard! Today is all about gathering feedback on your dashboard and iterating on it using the CRISP-DM. Great job if you managed to finish your dashboard in time! If you're not there yet, don't worry; gathering feedback today is important as well even if you're not finished yet! Once you're finished, you can use the remainder of your time to brush up on your conference dashboard or revisit parts of the analysis like data visualisations or the interpretation of your findings.
 
 ## Learning Objectives
-1. Analyse conclusions and references;
-2. understand how you can improve on your own conclusion and references;
+1. Analyse and iterate on your work;
+2. understand how you can write and improve on your own conclusion and references;
 2. understand and apply the CRISP-DM.
 
 Please follow the links below to continue the class:
-0. Stand-up: .25 hours
+0. Stand-up: 15 minutes
 1. Feedback on Dashbaord & Datalab Preparation: 2.5 hours
 2. CRISP-DM: 5 hour; potentially more depending on your project
 
@@ -22,7 +22,7 @@ If you have questions or issues regarding the course material, please fill out t
 
 ***
 
-### Stand-up
+### 0) Stand-up
 Get together with your mentor group, a student will lead the session, and take turns answering the following questions:
 - What did you do yesterday?
 - What will you do today?
@@ -31,29 +31,28 @@ Get together with your mentor group, a student will lead the session, and take t
 Good luck!
 
 ## 1) Feedback on dashboard
-Now, your mentor should gather your group and get you a nice screen. Then in alphabetical order you will present your dashboard by means of a walkthrough. Your peers and mentors will provide you with questions and feedback. Make sure to keep your file for taking notes at the ready and record all important feedback you need to act on! 
-If you get any action points from your mentor or peers, you should try to incorperate it into your final dashboard before **(coming) Thursday of week 7 at 17:00!**
+Now, your mentor should gather your group and find your group a nice screen. Then in alphabetical order you will present your dashboard by means of a walkthrough presentation. Your peers and mentors will provide you with questions and feedback. Make sure to keep your file for taking notes at the ready and record all important feedback you need to act on! 
+If you get any action points from your mentor in your learning log or your peers using the questionnaire, you should try to incorperate it into your final dashboard before **(coming) Thursday of week 7 at 17:00!**. 
+
 
 ### How to present? 
-You will start the walkthrough by going through the entire dashboard starting at the introduction and ending at the conclusion; where the conclusion and references will be of specific interest as these are receiving feedback for the first time.
+You will start the walkthrough presentation by going through the entire dashboard starting at the introduction and ending at the conclusion; How you tell the rest of you data-driven story is up to you! The conclusion and references will be of specific interest as these are receiving feedback for the first time. 
 
-Your mentor will provide each of you with a QR code which your peers can scan. The link takes them to a questionnaire which they can fill in to provide you with feedback. The questions corresponds to the assessment form so it can give you a relieable estimate of the quality of your dashboard presentation and which improvement points still remain! The result of all the feedback is delivered to you in the form of a fancy data report!
+Your mentor will provide each of you with a QR code which your peers can scan. The link takes them to a questionnaire which they can fill in to provide you with feedback. The questions corresponds to the assessment form for the ILO so it can give you a relieable estimate of the quality of your dashboard presentation and which improvement points still remain! The result of all the feedback is delivered to you after lunch in the form of a fancy data report (see example below)!
 
 
 <figure>
     <img src=".\assets\DS report example.jpg" />
-    <figcaption>SDG Indicators by Goal (Source: Our World In Data)</figcaption>
+    <figcaption>An example of how the questionnaire results look like for a single ILO criteria</figcaption>
 </figure>
 <br>
 
 
 ### How to provide feedback? 
-Scan the QR-code of the student who is presenting and fill in the questionnaire to provide them with feedback! Don't hesitate to ask questions in person after or during th presentation.
-
+Scan the QR-code of the student who is presenting and fill in the questionnaire to provide them with feedback! Don't hesitate to ask questions in person after or during the presentation.
 
 
 ## 2) Iterating using the CRISP-DM
-
 The CRoss Industry Standard Process for Data Mining (CRISP-DM) is a process model with six phases that naturally describes the data science life cycle. It’s like a set of guardrails to help you plan, organize, and implement your data science (or machine learning) project.
 
 1. Business understanding – What does the business need?
@@ -73,19 +72,20 @@ Watch the following video:
 
 Run through your Power BI file, run it and re-evaluate it for each of the steps in the CRISP-DM. If you want you can already propose step 4,5 and 6 in your discussion section but this is optional. Look at your dashboard and visualisations to see if there's anything that needs to be updated.
 
+Next, take a good look at the data report from the questionnaire your peers filled in! Which ILO criteria are still in doubt of being met? What can you do to improve your chances of meeting them?
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Tip: Tip: Get evidence for the 'Excellent' condition of ILO 1.3 by helping your peers! E.g. by proofreading their dashboard. They may return the favour, and you both get a better learning experience! Make sure to evidence your knowledge-sharing/help in your learning- and worklog!
 </div>
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: Get the Gold challenge by actually doing a correlational or linear regression analysis in Power BI. For this challenge you'll have to find a way to do that without any instruction from us! Make sure to reference that instruction and evidence you analysis in your dashboard and learning log!
+Tip: Get the Gold challenge by actually doing a correlational or linear regression analysis in Power BI. For this challenge you'll have to find a way to do that without any assistance from us! We provided you with some tutorials on the 'Analysing Relationships between Variables' page you could use. Make sure to reference which instruction you used and evidence your analysis in your dashboard and learning log!
 </div>
 
 ## 5) In-Class discussion
 At 16:30, we'll all get together in Datalab to reflect back on the block all together!.
 
-Tomorrow, we will just work on our dashboard and provide with some more advanced Power BI material!
+Tomorrow, we will just work on our dashboard and provide with some more advanced but optional Power BI material!
 
 
 

@@ -3,7 +3,7 @@ sort: 11
 ---
 
 # Variability
-This page builds your foundational knowledge of variability. First though, we will do another case study to bolter our data understanding. Then we'll  Finally, in the Datalab Preparation, we'll do our first correlational analysis by hand!
+This page builds your foundational knowledge of variability. First though, we will do another case study to bolster our data understanding. Then we'll  Finally, in the Datalab Preparation, we'll do our first correlational analysis by hand!
 
 Learning objectives:
 Enable you to understand and/or apply:

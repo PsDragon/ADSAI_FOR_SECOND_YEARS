@@ -12,10 +12,10 @@ Enable you to:
 2. make compellingly data visualisations.
 
 Please follow the links below to continue the class:
-0. Workshop - data reports in general: 1.5 hours
-1. Workshop - data report in Power BI: 1.5 hours
+0. Workshop - data reporting in general: 1.5 hours
+1. Workshop - data reporting in Power BI: 1.5 hours
 2. More learning on visualisations: Optional
-3. Datalab Preparation: 5 (on your own discretion) hours
+3. Datalab Preparation: 5 hours (on your own discretion)
 
 ## Questions or issues?
 
@@ -27,7 +27,7 @@ Good luck!
 
 
 ## 0) Workshop: How do we generally report and visualise our data?
-Well, essentially, you want to present your data, model (in future project you'll always have some model you made using the data), and information in such a way that it convinces the target audience. So let’s start by do the **entire** course below. It explains in detail how to present your data; by telling a story:
+Well, essentially, you want to present your data, model (in future project you'll always have some model or algorithm which uses the data to reveal new insights), and information in such a way that it convinces the target audience. So let’s start by do the **entire** course below. It explains in detail how to present your data; by telling a story:
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="640" height="360" src="https://www.linkedin.com/learning/embed/learning-data-science-tell-stories-with-data/welcome?autoplay=false&claim=AQGLF8kjasMeUAAAAXuen5TSfhdh2cAnvMoTsvO52lYxxEb4n7Lygsq8xgWVc_t2uKuHWUouAfnbN-YZ2Or60T165YU6VLzBCBvpYTn_P7dOlCJRoAVJ-JJ8yldYWuk1v_lKzTu1GpQzzTuF1ZeNKT6MwFX_Oi691AqGuZOivDa49QpPKPpOKon-v-KsCIHbgJJVTW6VtpRbB89ZboYvRGmkUJ5ede3tplOLocmHOWtbgzbZcA041klfxZa-9zzTyzS0crqn-vFaIfJCcgssS17v8L7U6nsFgRhozesQJnxU9aELJmxp73k0N0_6mIIt4d2ucwto-bsGBvVZYPC_cGJKXM2RTs5clYbZqdYyTcNjR7QjM31Vhp_cSzsHzYX2KC-N1tWplU5zR8dFoRUviI6JbgAe9gbS0MAuhWblCAdAn8rewXw6tTfdfLFjJu0fkRjZ6yR37oAZwuf-XMDb_N2uXKNdAwDoF8Jc5dIBAGiFAAVXtGR4NLfuzHb6b7Hjs16BiU7SRWmTcUEcwNfQ8vVmRG1d61T4mkAqQlkyDq5xa-8qdVxgYRGKefkOliHUPG6D889Qzf82LJh8cCtCCdghQXr0tDhVAKrRRVZTBEg0As2WDfbDhYrchMkbJR3aq0twDECCb_S8FYTeaUgEFKHoVgVaMU7m4LcIcouQegttP-JLLJGYO3pFZZbbBHcQWn7494g3KmXgk1CgrTMFe_FAEM9DVvH2h80rSQJX9PM3aA&lipi=urn%3Ali%3Apage%3Ad_learning_content%3Bs0uW2hImQlqa7OO2gkel9Q%3D%3D&licu" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true" frameborder="0" style="position:absolute;width:100%;height:100%;left:0"></iframe></div><p><strong><a href="https://www.linkedin.com/learning/learning-data-science-tell-stories-with-data/welcome?trk=embed_lil">Welcome</a></strong> from <strong><a href="https://www.linkedin.com/learning/learning-data-science-tell-stories-with-data?trk=embed_lil">Learning Data Science: Tell Stories With Data</a></strong> by <strong><a href="https://www.linkedin.com/learning/instructors/doug-rose?trk=embed_lil">Doug Rose</a></strong></p>
 
 ## 1) Workshop: How do we report and visualise our data in Power BI?
@@ -39,9 +39,9 @@ Save both your certificates to your GitHub repository and refer to it in your le
 
 
 ## 2) Power BI: Advanced data visualisations
-The following videos, tutorials and courses allow you to learn more about data visualisations. Further than we ask of you for the purpose of passing the creative brief. So dive into this material if you fancy doing so but by no means feel obliged to; we can't make it more clear than that: no pressure :). In the end, it's more important that you finish your dashboard and make sure that is all finished! And, you also need to have plenty of time to do fun stuff in your free time: a top priority as a student!
+The following videos, tutorials and courses allow you to learn more about data visualisations. These go aboven and beyond what we ask of you for the purpose of passing the creative brief. So dive into this material if you fancy doing so but by no means feel obliged to; we can't make it more clear than that: no pressure :). In the end, it's more important that you finish your dashboard and make sure that is all finished! And, you also need to have plenty of time to do fun stuff in your free time: a top priority as a student!
 
-If you don't feel like it, continue to the Datalab Preparation, otherwise, anyway, here are our suggestions:
+If you don't feel like it, continue to the Datalab Preparation. Otherwise, here are our suggestions:
 
 0. The learning path [Visualize data in Power BI](https://docs.microsoft.com/en-us/learn/paths/visualize-data-power-bi/) by microsoft is a great step-by-step guide which rewards you with a certificate and very useful and widely applicable!;
 1. [Advanced Visualization Techniques For Power BI - Brand New Course](https://www.youtube.com/watch?v=wq6dY0bgRcE&ab_channel=EnterpriseDNA);
@@ -49,18 +49,18 @@ If you don't feel like it, continue to the Datalab Preparation, otherwise, anywa
 3. [A walk through of Power BI most advanced features through Star Wars data - Gil Raviv](https://www.youtube.com/watch?v=r0Qk5V8dvgg&ab_channel=MicrosoftPowerBI)
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: Get the Gold challenge by actually doing a correlational or linear regression analysis in Power BI. For this challenge you'll have to find a way to do that without any assistance from us! We provided you with some tutorials yesterday you could use. Make sure to reference which instruction you used and evidence your analysis in your dashboard and learning log!
+Tip: Get the Gold challenge by actually doing a correlational or linear regression analysis in Power BI. For this challenge you'll have to find a way to do that without any assistance from us! We provided you with some tutorials on the 'Analysing Relationships between Variables' page you could use. Make sure to reference which instruction you used and evidence your analysis in your dashboard and learning log!
 </div>
 
 
 
 
 ## 3) Datalab Preparation
-By now you probably noticed that the template you are given doesn't neccesarily make for a good data report in Power BI. It matches all the criteria and learning objectives for Data Science fundamentals which is key and you have to meet those but it makes it challenging to create a dashboard which both tells a good story using the data and meet those criteria. So that's today's challenge: try to marry both of those goals!
+By now you probably noticed that the template you are given doesn't neccesarily make for a good data report in Power BI. It matches all the criteria and learning objectives for Data Science fundamentals which is key and you have to meet those. However, it makes it challenging to create a dashboard which both tells a good story using the data and meet those criteria. So that's today's challenge: try to marry both of those goals!
 
 1. Open your dashboard and save it as a Power BI file called "PRE_DataVisualisationDatalabPreparation" to your Github. Now, save the same dashboard as a Power BI file called "DataVisualisationDatalabPreparation" to your Github. Here you should note down any improvement you propose or make as comments. The first one is the old one for comparison. You can also copy and paste bits of the internet to brush up your visualisation or to refer to as inspiration by linking those webpages or refering to specific articles/books.
 
-2. Look at the data visualisations you made for the conference dashboard. Do you see anything you'd like to change? Anything that could help you tell a better story using the data? How do you meet the creative brief requirements but still tell a good story using your data? Take a look at ILO 4.1 and 4.2 to estimate how well you're doing and how you can meet those requirements! You can also change the dashboard layout if it helps you to tell a better story.
+2. Look at the data visualisations you made for your dashboard. Do you see anything you'd like to change? Anything that could help you tell a better story using the data? How do you meet the creative brief requirements but still tell a good story using your data? Take a look at ILO 4.1 and 4.2 to estimate how well you're doing and how you can meet those requirements! You can also change the dashboard layout if it helps you to tell a better story.
 
 Done? Upload your 2 files + any additional ones to your GitHub repository.
 

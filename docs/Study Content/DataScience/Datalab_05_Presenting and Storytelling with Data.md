@@ -40,7 +40,7 @@ Workshop take place from 13:00 - 17:00 in the Datalab!
 
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: Get the Gold challenge by actually doing a correlational or linear regression analysis in Power BI. For this challenge you'll have to find a way to do that without any assistance from us! We provided you with some tutorials yesterday you could use. Make sure to reference which instruction you used and evidence your analysis in your dashboard and learning log!
+Tip: Get the Gold challenge by actually doing a correlational or linear regression analysis in Power BI. For this challenge you'll have to find a way to do that without any assistance from us! We provided you with some tutorials on the 'Analysing Relationships between Variables' page you could use. Make sure to reference which instruction you used and evidence your analysis in your dashboard and learning log!
 </div>
 
 

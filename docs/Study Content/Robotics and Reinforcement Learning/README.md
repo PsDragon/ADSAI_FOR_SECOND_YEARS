@@ -2,6 +2,6 @@
 sort: 1
 ---
 
-# Responsible and Explainable AI
+# Robotics and Reinforcement Learning
 
 {% include list.liquid all=true %}

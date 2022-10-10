@@ -27,7 +27,7 @@ If you have questions or issues regarding the course material, please fill out t
 
 
 ## 0) Workshop
-First, it's time for the [the workshop part](https://app.datacamp.com/learn/courses/intermediate-data-modeling-in-power-bi) of this class to expand our data modeling skills in Power BI so we can better write the discussion section. Complete the entire course and upload the certificate to github, reference the certificate in your learning log for this week.
+First, it's time for the [the workshop part](https://app.datacamp.com/learn/courses/data-modeling-in-power-bi) of this class to expand our data modeling skills in Power BI so we can better write the discussion section. Complete the entire course and upload the certificate to github, reference the certificate in your learning log for this week.
 
 If you get stuck, first ask your peers and then us!
 

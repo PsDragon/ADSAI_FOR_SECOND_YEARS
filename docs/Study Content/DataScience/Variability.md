@@ -46,8 +46,8 @@ Take a piece of paper and calculate the following by hand:
 
 | Measure | Value |
 | ------- | -------- |
-| σ2	| 50 |
-| μ | 4 |
+| μ	| 50 |
+| σ | 4 |
 
 
 2) Find the **sample variance** for age(i) of the following data:

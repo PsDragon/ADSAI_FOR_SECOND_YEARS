@@ -14,7 +14,7 @@ In Block B, which spans eight weeks, you will explore one specific role within a
 
 | Name   |  Availability |  Week | Email  | Subject  |
 |---|---|---|---|---|
-| Dean van Aswegen (Lecturer, Mentor), MSc. <img src="./images/DeanProfile.jpg" alt="Dean van Aswegen profile picture" width="200"/>| Mon, Tues, Wed, Thur, Fri  |  Weeks 4-8 | aswegen.d@buas.nl | Robotics & Reinforcement learning | 
+| Dean van Aswegen (Lecturer, Mentor) <img src="./images/DeanProfile.jpg" alt="Dean van Aswegen profile picture" width="200"/> | Mon, Tues, Wed, Thur, Fri  |  Weeks 4-8 | aswegen.d@buas.nl | Robotics & Reinforcement learning | 
 | Alican Noyan (Lecturer), PhD.<img src="./images/AlicanProfile.jpg" alt="Alican Noyan profile picture" width="200"/>|  Mon, Wed, Thu, Fri  | Week 2 |  noyan.a@buas.nl | Traditional computer vision |
 | Irene van Blerck (Lecturer, Mentor), MSc. <img src="./images/IreneProfile.jpg" alt="Irene van Blerck profile picture" width="200"/>   |  Tue, Wed, Thu, Fri | Weeks 1-3, 8 |  blerck.i@buas.nl | Data collection/annotation & DL computer vision |
 | Bram Heijligers (Lecturer), MSc. <img src="./images/BramProfile.jpg" alt="Bram Heijligers profile picture" width="200"/> |  Wed, Thur, Fri | Week 1  | heijligers.b@buas.nl | Data management & Cognition | 
@@ -89,6 +89,25 @@ The block starts with a kick-off lecture.
 ### Computer Vision Task
 
 ### Robotics and Reinforcement Learning Task
+
+### _Implement baseline controller_
+
+Use traditional control methods combined with computer vision to create a controller for a simulated robotic arm to enable it to perform a pick and place task.
+The arm needs to: 
+- Locate objects in its workspace 
+- Classify the objects 
+- Place the objects in a specific area based on the classification 
+    
+### _Investigate the feasibility of the application of reinforcement learning to the pick and place task_
+
+Create and compare different reinforcement learning controllers using different: 
+- models 
+- action spaces
+- observation spaces
+- hyperpameters 
+- reward fucntions
+
+  
 
 ### Technical Report
 

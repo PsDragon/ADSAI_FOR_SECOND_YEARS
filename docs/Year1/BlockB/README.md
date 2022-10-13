@@ -146,11 +146,47 @@ Workload: 42m 10s
 **DataLab Preparation 2:** Preparing relevant questions to the Banijay stakeholders ahead of tomorrow’s site-visit. 
  
 
-## Wednesday
+## Wednesday 23rd Nov/22 From BUas to Bajinay Amsterdam (10 am to 1 pm) BUas Room: Fe1.017 (from 3 pm to 5 pm) 
 
+**Site-visit:** Bajinay studios in Amsterdam (from 10 am to 1 pm at Banijay. Lunch will be provided by the client. Meet at BUas at 07.30 for 08 am prompt departure.) 
+ 
+The client presents the Creative Brief and students have a chance to ask relevant questions.  
+ 
+**DataLab** (3-5pm at BUas): Banijay Project Brief applied to the AI Canvas (Working in small groups to fill in the AI Canvas). 
 
-## Thursday
+## Thursday 24th Nov/22 Home study 
 
+Day 2 of ethics: Ethical and legal issues in big data and marketing, GDPR, Ethical guidelines for statistical practice. 
+ 
+**Assignments: **
+
+**Read:** Bad Data Visualization, 5 Examples of Misleading Data https://online.hbs.edu/blog/post/bad-data-visualization
+
+**Read:** Data Storytelling, How To Effectively Tell A Story With Data https://online.hbs.edu/blog/post/data-storytelling
+
+**Online Course 6:** Listen to the Data Storytelling Basics Podcast https://www.linkedin.com/learning/data-storytelling-basics
+Workload: 1h 6m 
+ 
+**Answer** the Quiz.  
+
+**Online Course 7:** Intermediate - Data Visualization for Data Analysis and Analytics https://www.linkedin.com/learning/data-visualization-for-data-analysis-and-analytics
+Workload: 1h 40m 
+ 
+**Try 1** of the platforms mentioned on the Social Media Analytics Tools on this link and use it for social media sentiment analysis. https://blog.hootsuite.com/social-media-analytics/
+
+**Complete the Bonus Courses Below:** (The Certificate is paid for and is not necessary, a screenshot of the completion page is enough)
+ 
+**NLP: Twitter Sentiment Analysis ** https://www.coursera.org/projects/twitter-sentiment-analysis
+Workload: 2h 
+ 
+**Entity and Sentiment Analysis with the Natural Language API ** https://www.coursera.org/projects/googlecloud-entity-and-sentiment-analysis-with-the-natural-language-api-yxxmm
+Workload: 40m  
+
+**Sentimental Analysis on COVID-19 Tweets using Python https://www.coursera.org/projects/sentimental-anlysis-on-covid-19-tweets-using-python?action=enroll
+**
+Workload: 1h 
+
+**Fill in the Mind Map and the Design Thinking Brainstorm Worksheet ** for tomorrow’s DataLab “Design Thinking” workshop (If you have questions or doubts, refer to the Online Course 1 (LinkedIn Learning) - Stay Competitive Using Design Thinking https://www.linkedin.com/learning/paths/stay-competitive-using-design-thinking, or the “Ask Me Anything” form https://forms.office.com/pages/responsepage.aspx?id=m1gzCjYA6E-oKT7Qkmr4hrVYkvxK4R5DrlSvaiqq5E9UQ0dKREhaNzVNVTY4VjAzSUVJWDlQMkI4Qi4u). 
 
 ## Friday
 

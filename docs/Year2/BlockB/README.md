@@ -145,6 +145,16 @@ DataLab 2:
 
 ### Computer Vision Task
 
+In the first three weeks of Block B, you will acquire foundational knowledge and understanding of the theories, principles, methods, and techniques related to the field of computer vision. For example, you will be made familiar with various object detection algorithms, which deploy a traditional or deep learning-based approach to localizing and classifying objects in visual media. In addition, we will teach you to apply these algorithms to annotated image datasets comprised of either real-life or synthetic data. 
+
+To solve the project's computer vision task, you need to:
+
+- Create three (3) annotated image datasets for object detection;
+- Explore the (meta)data, and subsequently assess its quality;
+- Identify, and select appropriate object detection algorithms to solve the computer vision task;
+- Build, (train), and evaluate a traditional and deep learning-based object detection algorithm
+- Incorporate your research findings in a technical report
+
 ### Robotics and Reinforcement Learning Task
 
 ### _Implement baseline controller_

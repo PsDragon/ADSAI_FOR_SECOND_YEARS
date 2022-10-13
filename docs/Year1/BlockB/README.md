@@ -7,7 +7,7 @@ Kindly follow the table of contents below, this will guide you through what is e
 In block A, you explored various themes around digital transformation such as business intelligence using Power BI; and critically examined applications of AI and digital technologies to existing businesses processes. In this block, you will take on a more hands-on approach towards improving a business process using digital transformation. In particular, you will explore one specific role within the theme of digitalisation - **the Data Analyst** – and help **Banijay** improve their business processes using data, mathematics, and machine learning.
 
 
-> The client, Banjay Group (../../https://banijaybenelux.com/), has approached you – the Data Analyst – with the aim to analyse their current TV viewership metrics and present a plan to improve their data usage (with multiple sources) and ultimately, increase their TV ratings. 
+> The client, Banjay Group https://banijaybenelux.com/, has approached you – the Data Analyst – with the aim to analyse their current TV viewership metrics and present a plan to improve their data usage (with multiple sources) and ultimately, increase their TV ratings. 
  
 Below you will find the project requirements, but there will be an opportunity for you to clarify any questions you may have about the project directly with a stakeholder from Banijay during the **project kick off meeting on Wednesday 23rd November 2022 **(trip details to follow).
 
@@ -83,20 +83,20 @@ Creative Brief and Deliverables (Working on deliverables using examples: Dashboa
 AI Ethics: Ethical challenges of AI, ethical AI in practice. 
 Watch: A video by Nitin, Zhanna and Gilmara introducing the Banijay Creative Brief, deliverables and requirements for medals.  
  
-**Read** (for the Banijay Assignment, Nielsen Blog, 2016): Using Machine Learning to Predict Future TV Ratings In An Evolving Media Landscape (../../https://www.nielsen.com/insights/2016/using-machine-learning-to-predict-future-tv-ratings-in-an-evolving-media-landscape/)
+**Read** (for the Banijay Assignment, Nielsen Blog, 2016): Using Machine Learning to Predict Future TV Ratings In An Evolving Media Landscape https://www.nielsen.com/insights/2016/using-machine-learning-to-predict-future-tv-ratings-in-an-evolving-media-landscape/
  
-**Read** (for the Banijay Assignment, Nielsen Report, 2017): Using Machine Learning To Predict Future TV Ratings (../../https://www.nielsen.com/wp-content/uploads/sites/2/2019/04/using-machine-learning-to-predict-future-tv-ratings.pdf)
+**Read** (for the Banijay Assignment, Nielsen Report, 2017): Using Machine Learning To Predict Future TV Ratings https://www.nielsen.com/wp-content/uploads/sites/2/2019/04/using-machine-learning-to-predict-future-tv-ratings.pdf
  
-**Online Course 1: **Writing A Business Report (../../https://www.linkedin.com/learning/writing-a-business-report)
+**Online Course 1: **Writing A Business Report https://www.linkedin.com/learning/writing-a-business-report
 Workload: 1h 57m 
  
 **Answer – Quiz **
  
-**Read** (Harvard Business School Online): 4 Ways To Improve Your Analytical Skills (../../https://online.hbs.edu/blog/post/how-to-improve-analytical-skills)
+**Read** (Harvard Business School Online): 4 Ways To Improve Your Analytical Skills https://online.hbs.edu/blog/post/how-to-improve-analytical-skills
  
 **Answer – Quiz **
  
-**Online Course 2** (LinkedIn Learning) - Stay Competitive Using Design Thinking (../../https://www.linkedin.com/learning/paths/stay-competitive-using-design-thinking)
+**Online Course 2** (LinkedIn Learning) - Stay Competitive Using Design Thinking https://www.linkedin.com/learning/paths/stay-competitive-using-design-thinking
 Workload: 11h 38m 
 (To be completed by Thursday 24th Nov/22, ahead of the Friday 25th Nov/22 DataLab.) 
   
@@ -105,39 +105,39 @@ Workload: 11h 38m
 
 **Assignments: **
  
-**Online Course 3** (LinkedIn Learning): Beginner and Intermediate - Customer Insights and Consumer Analytics for Organizations: Tools and Analysis: Using customer analytics (../../https://www.linkedin.com/learning/customer-insights-and-consumer-analytics-for-organizations-tools-and-analysis) 
+**Online Course 3** (LinkedIn Learning): Beginner and Intermediate - Customer Insights and Consumer Analytics for Organizations: Tools and Analysis: Using customer analytics https://www.linkedin.com/learning/customer-insights-and-consumer-analytics-for-organizations-tools-and-analysis 
 Workload: 1h 8m 
 (To be completed by Thursday 24th Nov/22, ahead of the Friday 25th Nov/22 DataLab.) 
 
-**Online Course 4** (LinkedIn Learning): Beginner and Intermediate Level - Predictive Analytics Essential Training: Estimating and Ensuring ROI (../../https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi) 
+**Online Course 4** (LinkedIn Learning): Beginner and Intermediate Level - Predictive Analytics Essential Training: Estimating and Ensuring ROI https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi 
 Workload: 51m 10s 
 (To be completed by Thursday 24th Nov/22, ahead of the Friday 25th Nov/22 DataLab.) 
  
  **Read **(Harvard Business School Online): 4 Types of Data Analytics To Improve Decision Making (Descriptive, Diagnostic, Predictive, Prescriptive Analytics) 
- (../../https://online.hbs.edu/blog/post/types-of-data-analysis)
+ https://online.hbs.edu/blog/post/types-of-data-analysis
 Answer – Quiz 
 
-**Online Course 5** (LinkedIn Learning): Intermediate Level - Business Analytics Foundations: Descriptive, Exploratory, and Explanatory Analytics (../../https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics)
+**Online Course 5** (LinkedIn Learning): Intermediate Level - Business Analytics Foundations: Descriptive, Exploratory, and Explanatory Analytics https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics
 Workload: 41m 28s 
  
 (To be completed by Thursday 24th Nov/22, ahead of the Friday 25th Nov/22 DataLab.) 
 
-**Online Course 6** (LinkedIn Learning): Intermediate Level - Business Analytics Foundations: Predictive, Prescriptive, and Experimental Analytics (../../https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics) 
+**Online Course 6** (LinkedIn Learning): Intermediate Level - Business Analytics Foundations: Predictive, Prescriptive, and Experimental Analytics https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics 
 Workload: 42m 10s 
 
 **Answer – Quiz **
  
-**Read** (Harvard Business School Online): What’s The Difference Between Data Analytics & Data Science? (../../https://online.hbs.edu/blog/post/data-analytics-vs-data-science) 
+**Read** (Harvard Business School Online): What’s The Difference Between Data Analytics & Data Science? https://online.hbs.edu/blog/post/data-analytics-vs-data-science 
  
 **Answer – Quiz **
 
-**Read** (Harvard Business School Online): 4 Examples of Business Analytics In Action (../../https://online.hbs.edu/blog/post/business-analytics-examples) 
+**Read** (Harvard Business School Online): 4 Examples of Business Analytics In Action https://online.hbs.edu/blog/post/business-analytics-examples 
  
 **Read **(PDF): Predictive Analytics – 182 Examples of Predictive Analytics, A Cross-Industry Compendium of Mini-Case Studies, Eric Siegel, 2013 
 
-**Watch:** Cutting Edge Predictive Analytics - Eric Siegel (22m 53s) (../../https://youtu.be/dqjQxT5T0qc) 
+**Watch:** Cutting Edge Predictive Analytics - Eric Siegel (22m 53s) https://youtu.be/dqjQxT5T0qc 
 
-**Read and Watch **(Harvard Business Review and Eric Siegel, 2017): Putting Predictive Analytics to Work (../../https://hbr.org/webinar/2017/09/putting-predictive-analytics-to-work)
+**Read and Watch **(Harvard Business Review and Eric Siegel, 2017): Putting Predictive Analytics to Work https://hbr.org/webinar/2017/09/putting-predictive-analytics-to-work
  
 **Answer – Quiz **
  
@@ -146,7 +146,7 @@ Workload: 42m 10s
 **DataLab Preparation 2:** Preparing relevant questions to the Banijay stakeholders ahead of tomorrow’s site-visit. 
  
 
-## Wednesday 23rd Nov/22 From BUas to Bajinay Amsterdam (10 am to 1 pm) BUas Room: Fe1.017 (from 3 pm to 5 pm) 
+## Wednesday 23rd Nov/22 From BUas to Bajinay Amsterdam (10 am to 1 pm) and back at BUas (from 3 pm to 5 pm) 
 
 **Site-visit:** Bajinay studios in Amsterdam (from 10 am to 1 pm at Banijay. Lunch will be provided by the client. Meet at BUas at 07.30 for 08 am prompt departure.) 
  
@@ -190,103 +190,191 @@ Workload: 1h
 
 ## Friday
 
+**Lab Exercise 1:** Ethics exercises. 
+ 
+ 
+**DataLab 2:** Workshop (small groups): Design Thinking (Gilmara) - 14h to 17h. 
+ 
+ 
+**Formative feedback session I **
 
 # Week 3 : Data processing in Python
 
-## Monday
+## Monday - 28th Nov/22, Home study 
+ 
+Python: Pandas 
 
+## Tuesday - 29th Nov/22, Home study 
 
-## Tuesday
+Python: Advanced Pandas and Matplotlib 
 
+## Wednesday - 30th Nov/22, DataLab 
 
-## Wednesday
+DataLab: Python EDA and data pre-processing 
 
+## Thursday - 1st Dec/22, Home study 
 
-## Thursday
+Python: Scraping web data 
 
+## Friday - 2nd Dec/22, DataLab 
 
-## Friday
-
+Project Brief: Scraping Twitter Data and Analyses 
 
 # Week 4 : Machine Learning
 
-## Monday
+## Monday - 5th Dec/22, Home study 
 
+Introduction to Machine Learning: Supervised & Unsupervised Learning  
+The Modelling Pipeline 
 
-## Tuesday
+## Tuesday - 6th Dec/22, Home study 
 
+Evaluating Machine Learning algorithms: Bias and Variance 
+Classification Algorithms 
 
-## Wednesday
+## Wednesday - 7th Dec/22, DataLab 
 
+Project Brief: Classification 
 
-## Thursday
+## Thursday - 8th Dec/22, Homes study 
 
+Regression algorithms 
 
-## Friday
+## Friday - 9th Dec/22, DataLab 
 
+**Project Brief:** Regression 
+**Guest Lecture and Q&A with Banijay Data Scientist ** (from 3 pm to 5 pm) 
 
 # Week 5 : Machine Learning 
 
-## Monday
+## Monday - 12th Dec/22, Home study  
 
+Tree-based algorithms 
 
-## Tuesday
+## Tuesday - 13th Dec/22, Home study 
 
+Tree-based algorithms cont. 
 
-## Wednesday
+## Wednesday - 14th Dec/22, DataLab 
 
+**Project Brief:** Tree-based algorithms 
+**Guest lecture on Data Driven Marketing by Fingerspitz **
 
-## Thursday
+## Thursday - 15th Dec/22, Home study 
 
+Tuning Tree-based algorithms 
 
-## Friday
+## Friday - 16th Dec/22, DataLab 
 
+**Project Brief:** Tree-based algorithms 
+**Formative feedback session II **
 
 # Week 6 : Machine Learning 
 
-## Monday
+## Monday - 19th Dec/22, Home study 
 
-## Tuesday
+Clustering algorithms 
 
-## Wednesday
+## Tuesday - 20th Dec/22, Home study 
+
+Clustering algorithms cont. 
+
+## Wednesday - 21stDec/22, Data Lab 
+
+**Project Brief: **Clustering analyses 
+
+## Thursday - 22nd Dec/22, Home study
+
+Clustering algorithms: Evaluating Clustering Algorithms 
+
+## Friday - 23rd Dec/22, DataLab 
+
+**Project Brief:** Clustering analyses cont. 
+
+# Week 7: Dashboard, Reporting, and Presentation
+
+## Monday - 9th Jan/23, Home study  
+
+**Assignments: **
+ 
+**Read the Paper** (PDF): Social Media's Impact on the Consumer Mindset: When to Use Which Sentiment Extraction Tool? 
+ 
+**Quiz **
+
+**Online Course 8: ** Intermediate - Data Dashboards in Power BI: Power BI ecosystem https://www.linkedin.com/learning/data-dashboards-in-power-bi
+Workload: 4h 52m 
+  
+Create a PowerBI Data Dashboard for the Banijay project. 
+
+## Tuesday - 10th Jan/23, Home study 
+
+**Assignments: ** 
+ 
+**Complete** the Banijay business case presentation, report and dashboard. 
+ 
+ 
+**Submit **the Banijay business case presentation, report and dashboard for individual feedback. 
+ 
+ 
+**DataLab Preparation** (Bert): Bring one object of our preference from your home. 
+
+## Wednesday - 11th Jan/23, DataLab 
+
+**DataLab Preparation** (Bert): Make sure you bring one object of our preference from your home.  
+ 
+**Workshop **(Bert): Presentation (pitching) Skills, theory and practice.  
+
+## Thursday - 12th Jan/22, Home study 
 
 
-## Thursday
+## Friday - 13th Jan/23, DataLab
 
-
-## Friday
-
-
-# Week 7: Technical Writing
-
-## Monday
-
-
-## Tuesday
-
-
-## Wednesday
-
-
-## Thursday
-
-
-## Friday
+**Lab Exercise** (Bert/Gil): Practicing the Banijay presentation (2 minutes executive summary to “sell” the idea to Banijay stakeholders) and getting feedback on the Banijay presentation and dashboard (to be recorded).  
+ 
+**Formative feedback session III **
 
 
 # Week 8 : Business Case Preparation
 
-## Monday
+## Monday - 16th Jan/23, Home study 
 
+**Programming in Python: **Advanced Topics 
+ 
+**Assignments: **
+ 
+**Online Course 10: **Tableau 10 Essential Training https://www.linkedin.com/learning/tableau-10-essential-training
+Workload: 4h 41m 
+ 
+**Create **a Tableau Data Dashboard for the Banijay project. 
 
-## Tuesday
+## Tuesday - 17th Jan/23, Home study 
 
+**Machine Learning:** Advanced Topics 
+ 
+**Assignments:   **
+ 
+**Online Course 11:** Google Data Analytics Capstone: Complete A Case Study https://www.coursera.org/learn/google-data-analytics-capstone#syllabus
+Workload: 9 hours 
+ 
 
-## Wednesday
+## Wednesday - 18th Jan/23, DataLab 
 
+**DataLab:** Work on the project brief.  
+  
+**Presentation practice **– 3 minutes each and feedback from the Group mentor.  
 
-## Thursday
+## Thursday - 19th Jan/23, Home study 
 
+**Assignments: **
+ 
+**Online Course 11:** Data Visualization: Storytelling https://www.linkedin.com/learning/data-visualization-storytelling
+Workload: 1h 34m 
+ 
+**Practice** the Banijay presentation and record yourself. Upload the video to GitHub. 
+ 
+**Submit** the Banijay presentation, dashboard and report.  
 
-## Friday
+## Friday - 20th Jan/23, DataLab  
 
+**Project Dissemination ** 
+**Presenting (all students)** **the Banijay business case** presentation, report and dashboard (to be recorded also). 

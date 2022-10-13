@@ -79,6 +79,9 @@ DataLab 2:
 
 DataLab 1:
 
+- [ ] Create two (2) annotated image datasets with the real-life data ('easy', and 'difficult' object detection task)
+- [ ] Create one (1) annotated image dataset with the synthetic data ('easy' object detection task)
+- [ ] Demonstrate foundational knowledge and understanding of the theories, principles, methods, and techniques related to the subfield of object detection by summarizing, and critically evaluating some of its seminal works.
 
 DataLab 2:
  

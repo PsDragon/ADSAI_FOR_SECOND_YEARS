@@ -13,17 +13,25 @@ Below you will find the project requirements, but there will be an opportunity f
 
 
 ## Creative Brief Requirements:
-With a view to enabling Banijay’s stakeholders to achieve the desired TV ratings, a successful project will meet the following requirements:  
+With a view to enabling Banijay’s stakeholders to achieve the desired TV ratings, a successful project will meet the following **requirements**:  
  
-Become familiar with various data sets: TV viewer ratings per minute/SKO for op-1, per target group (the key KPI/dependent variable); Aggregate (average) per fragment (Banijay to provide the dataset); Twitter data feed and trending topics using the public API (to be scrapped by students/ data to be will provided to students and the Academic software license); Tweepy (via API) vs twint (url scrape) (data governance): engagement metrics (facts); Sentiment analysis (hugging face); Content Data (provided by Hans Bouwknecht and Banijay); Dimensions (host couples/ key topics per fragment); key topics per fragment (Provided by Banijay); plus any additional and relevant data students can find (knmi). The datasets provided will be in .csv and .json formats. 
-Investigate viewer ratings from daily talk shows and proactively research possible causes for its ongoing fluctuations.  
-Analyse how the relationship between higher and lower TV ratings is correlated with social media engagement (primarily using Twitter data).  
-Make Twitter data predictive during daytime.  
-Include content data related to topics discussed in the show.  
-Create a descriptive analysis that explains the correlation between ratings and social media engagement of the selected TV show (Op1) during live transmission.  
-Evaluate daytime topic engagement on Twitter and the ratings of items with the same topics in the TV show in the evening.   
-Present a dashboard that contains insights regarding the relationship between social media sentiment and Twitter traffic and ratings.   
-Predict/Forecast the success of the selected TV show in the evening basing your decision on Twitter engagement based on the topics posted on the same day.  
+- Become familiar with various data sets: TV viewer ratings per minute/SKO for op-1, per target group (the key KPI/dependent variable); Aggregate (average) per fragment (Banijay to provide the dataset); Twitter data feed and trending topics using the public API (to be scrapped by students/ data to be will provided to students and the Academic software license); Tweepy (via API) vs twint (url scrape) (data governance): engagement metrics (facts); Sentiment analysis (hugging face); Content Data (provided by Hans Bouwknecht and Banijay); Dimensions (host couples/ key topics per fragment); key topics per fragment (Provided by Banijay); plus any additional and relevant data students can find (knmi). The datasets provided will be in .csv and .json formats. 
+
+- Investigate viewer ratings from daily talk shows and proactively research possible causes for its ongoing fluctuations.  
+
+- Analyse how the relationship between higher and lower TV ratings is correlated with social media engagement (primarily using Twitter data).  
+
+- Make Twitter data predictive during daytime.  
+
+- Include content data related to topics discussed in the show.  
+
+- Create a descriptive analysis that explains the correlation between ratings and social media engagement of the selected TV show (Op1) during live transmission.  
+
+- Evaluate daytime topic engagement on Twitter and the ratings of items with the same topics in the TV show in the evening.   
+
+- Present a dashboard that contains insights regarding the relationship between social media sentiment and Twitter traffic and ratings.   
+
+- Predict/Forecast the success of the selected TV show in the evening basing your decision on Twitter engagement based on the topics posted on the same day.  
 
 **Knowledge Modules:** In this Block, you'll need to complete Knowledge Modules to help you gain the expertise and skills required to solve the Banijay Project Brief.
 

@@ -9,7 +9,7 @@ In block A, you explored various themes around digital transformation such as bu
 
 > The client, Banjay Group, has approached you – the Data Analyst – with the aim to <The client, Banjay Group has approached you – the Data Scientist/Analyst – with the aim to analyse their current TV viewership metrics and present a plan to improve their data usage (with multiple sources) and ultimately, increase their TV ratings. 
  
-Below you will find the project requirements, but there will be an opportunity for you to clarify any questions you may have about the project directly with a stakeholder from Banijay during the project kick off meeting on Wednesday 23rd November 20220 (trip details to follow).>
+Below you will find the project requirements, but there will be an opportunity for you to clarify any questions you may have about the project directly with a stakeholder from Banijay during the **project kick off meeting on Wednesday 23rd November 2022 **(trip details to follow).>
 
 
 ## Creative Brief Requirements:
@@ -25,6 +25,8 @@ Evaluate daytime topic engagement on Twitter and the ratings of items with the s
 Present a dashboard that contains insights regarding the relationship between social media sentiment and Twitter traffic and ratings.   
 Predict/Forecast the success of the selected TV show in the evening basing your decision on Twitter engagement based on the topics posted on the same day.  
 
+**Knowledge Modules:** In this Block, you'll need to complete Knowledge Modules to help you gain the expertise and skills required to solve the Banijay Project Brief.
+
 <figure>
     <img src=".\phases.PNG" />
     <figcaption>Please click the links below to view more detailed requirements</figcaption>
@@ -38,34 +40,62 @@ Predict/Forecast the success of the selected TV show in the evening basing your 
 
 # Block Outline
 
-# Week 1: Programming in Python 
+# Week 1: Block B Kickoff, Banijay Kickoff & Programming in Python 
 
-## Monday
+## Monday - 14th Nov/22 Kick off on BUas Campus
 - [Programming: a primer](../../Study%20Content/Programming/1.StartingProgramming.html)
 - [Setting up your development environment](../../Study%20Content/Programming/2.SetupIDE.html)
 - [Python for AI and Data ScienceI](../../Study%20Content/Programming/3.Python%20foundations.html)
 
-## Tuesday
+## Tuesday - Tuesday 15th Nov/22, Home study 
 - [Python data types & data structures I](../../Study%20Content/Programming/5.Python%20data%20types%20and%20data%20structures.html)
 
 
-## Wednesday
+## Wednesday - 16th Nov/22, DataLab Day
 - [Data Lab 1: Python Foundation exercises](../../Study%20Content/Programming/4.DataLabPR1.html)
 
 
-## Thursday
+## Thursday - 17th Nov/22, Home study  
 - [Python data types & data structures II](../../Study%20Content/Programming/5.Python%20data%20types%20and%20data%20structures.html)
 - [Python: Coding standards and reproducible data science](../../Study%20Content/Programming/14.Python%20PEP8.html)
 
 
-## Friday
+## Friday - 18th Nov/22, DataLab Day  
 - [Python data types & data structures II](../../Study%20Content/Programming/8.DataLabPR2.html)
 
 
-# Week 2 : Ethics & Marketing Analytics
+# Week 2 : Ethics & Data Analytics
 
-## Monday
+## Monday 21st Nov/22, Home study 
 
+- Creative Brief Introduction: Banijay Group – Predicting TV Ratings (See the PPT Presentation) 
+Creative Brief and Deliverables (Working on deliverables using examples: Dashboard, report and presentation).
+
+Day 1 of Ethics: Introduction into ethics: definition of ethics, ethics strategic benefit, ethics and business, frameworks and models for making ethical decisions. 
+AI Ethics: Ethical challenges of AI, ethical AI in practice. 
+Watch: A video by Nitin, Zhanna and Gilmara introducing the Banijay Creative Brief, deliverables and requirements for medals.  
+ 
+Read (for the Banijay Assignment, Nielsen Blog, 2016): Using Machine Learning to Predict Future TV Ratings In An Evolving Media Landscape (https://www.nielsen.com/insights/2016/using-machine-learning-to-predict-future-tv-ratings-in-an-evolving-media-landscape/)
+ 
+Read (for the Banijay Assignment, Nielsen Report, 2017): Using Machine Learning To Predict Future TV Ratings 
+(https://www.nielsen.com/wp-content/uploads/sites/2/2019/04/using-machine-learning-to-predict-future-tv-ratings.pdf)
+ 
+Online Course 1: Writing A Business Report 
+(https://www.linkedin.com/learning/writing-a-business-report)
+Workload: 1h 57m 
+ 
+Answer – Quiz 
+ 
+Read (Harvard Business School Online): 4 Ways To Improve Your Analytical Skills 
+(https://online.hbs.edu/blog/post/how-to-improve-analytical-skills)
+ 
+Answer – Quiz 
+ 
+Online Course 2 (LinkedIn Learning) - Stay Competitive Using Design Thinking 
+(https://www.linkedin.com/learning/paths/stay-competitive-using-design-thinking)
+Workload: 11h 38m 
+(To be completed by Thursday 24th Nov/22, ahead of the Friday 25th Nov/22 DataLab.) 
+  
 
 ## Tuesday
 

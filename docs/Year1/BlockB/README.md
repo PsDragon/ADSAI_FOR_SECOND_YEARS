@@ -9,7 +9,7 @@ In block A, you explored various themes around digital transformation such as bu
 
 > The client, Banjay Group, has approached you – the Data Analyst – with the aim to <The client, Banjay Group has approached you – the Data Scientist/Analyst – with the aim to analyse their current TV viewership metrics and present a plan to improve their data usage (with multiple sources) and ultimately, increase their TV ratings. 
  
-Below you will find the project requirements, but there will be an opportunity for you to clarify any questions you may have about the project directly with a stakeholder from Banijay during the **project kick off meeting on Wednesday 23rd November 2022 **(trip details to follow).>
+Below you will find the project requirements, but there will be an opportunity for you to clarify any questions you may have about the project directly with a stakeholder from Banijay during the **project kick off meeting on Wednesday 23rd November 2022 **(trip details to follow).
 
 
 ## Creative Brief Requirements:

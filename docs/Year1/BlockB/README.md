@@ -83,20 +83,20 @@ Day 1 of Ethics: Introduction into ethics: definition of ethics, ethics strategi
 AI Ethics: Ethical challenges of AI, ethical AI in practice. 
 Watch: A video by Nitin, Zhanna and Gilmara introducing the Banijay Creative Brief, deliverables and requirements for medals.  
  
-Read (for the Banijay Assignment, Nielsen Blog, 2016): Using Machine Learning to Predict Future TV Ratings In An Evolving Media Landscape [https://www.nielsen.com/insights/2016/using-machine-learning-to-predict-future-tv-ratings-in-an-evolving-media-landscape/]
+Read (for the Banijay Assignment, Nielsen Blog, 2016): Using Machine Learning to Predict Future TV Ratings In An Evolving Media Landscape (../../https://www.nielsen.com/insights/2016/using-machine-learning-to-predict-future-tv-ratings-in-an-evolving-media-landscape/)
  
-Read (for the Banijay Assignment, Nielsen Report, 2017): Using Machine Learning To Predict Future TV Ratings [https://www.nielsen.com/wp-content/uploads/sites/2/2019/04/using-machine-learning-to-predict-future-tv-ratings.pdf]
+Read (for the Banijay Assignment, Nielsen Report, 2017): Using Machine Learning To Predict Future TV Ratings (../../https://www.nielsen.com/wp-content/uploads/sites/2/2019/04/using-machine-learning-to-predict-future-tv-ratings.pdf)
  
-Online Course 1: Writing A Business Report [https://www.linkedin.com/learning/writing-a-business-report]
+Online Course 1: Writing A Business Report (../../https://www.linkedin.com/learning/writing-a-business-report)
 Workload: 1h 57m 
  
 Answer – Quiz 
  
-Read (Harvard Business School Online): 4 Ways To Improve Your Analytical Skills [https://online.hbs.edu/blog/post/how-to-improve-analytical-skills]
+Read (Harvard Business School Online): 4 Ways To Improve Your Analytical Skills (../../https://online.hbs.edu/blog/post/how-to-improve-analytical-skills)
  
 Answer – Quiz 
  
-Online Course 2 (LinkedIn Learning) - Stay Competitive Using Design Thinking [https://www.linkedin.com/learning/paths/stay-competitive-using-design-thinking]
+Online Course 2 (LinkedIn Learning) - Stay Competitive Using Design Thinking (../../https://www.linkedin.com/learning/paths/stay-competitive-using-design-thinking)
 Workload: 11h 38m 
 (To be completed by Thursday 24th Nov/22, ahead of the Friday 25th Nov/22 DataLab.) 
   
@@ -105,39 +105,39 @@ Workload: 11h 38m
 
 **Assignments: **
  
-Online Course 3 (LinkedIn Learning): Beginner and Intermediate - Customer Insights and Consumer Analytics for Organizations: Tools and Analysis: Using customer analytics [https://www.linkedin.com/learning/customer-insights-and-consumer-analytics-for-organizations-tools-and-analysis] 
+Online Course 3 (LinkedIn Learning): Beginner and Intermediate - Customer Insights and Consumer Analytics for Organizations: Tools and Analysis: Using customer analytics (../../https://www.linkedin.com/learning/customer-insights-and-consumer-analytics-for-organizations-tools-and-analysis) 
 Workload: 1h 8m 
 (To be completed by Thursday 24th Nov/22, ahead of the Friday 25th Nov/22 DataLab.) 
 
-Online Course 4 (LinkedIn Learning): Beginner and Intermediate Level - Predictive Analytics Essential Training: Estimating and Ensuring ROI [https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi] 
+Online Course 4 (LinkedIn Learning): Beginner and Intermediate Level - Predictive Analytics Essential Training: Estimating and Ensuring ROI (../../https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi) 
 Workload: 51m 10s 
 (To be completed by Thursday 24th Nov/22, ahead of the Friday 25th Nov/22 DataLab.) 
  
  Read (Harvard Business School Online): 4 Types of Data Analytics To Improve Decision Making (Descriptive, Diagnostic, Predictive, Prescriptive Analytics) 
- [https://online.hbs.edu/blog/post/types-of-data-analysis]
+ (../../https://online.hbs.edu/blog/post/types-of-data-analysis)
 Answer – Quiz 
 
-Online Course 5 (LinkedIn Learning): Intermediate Level - Business Analytics Foundations: Descriptive, Exploratory, and Explanatory Analytics [https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics]
+Online Course 5 (LinkedIn Learning): Intermediate Level - Business Analytics Foundations: Descriptive, Exploratory, and Explanatory Analytics (../../https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics)
 Workload: 41m 28s 
  
 (To be completed by Thursday 24th Nov/22, ahead of the Friday 25th Nov/22 DataLab.) 
 
-Online Course 6 (LinkedIn Learning): Intermediate Level - Business Analytics Foundations: Predictive, Prescriptive, and Experimental Analytics [https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics] 
+Online Course 6 (LinkedIn Learning): Intermediate Level - Business Analytics Foundations: Predictive, Prescriptive, and Experimental Analytics (../../https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics) 
 Workload: 42m 10s 
 
 Answer – Quiz 
  
-Read (Harvard Business School Online): What’s The Difference Between Data Analytics & Data Science? [https://online.hbs.edu/blog/post/data-analytics-vs-data-science] 
+Read (Harvard Business School Online): What’s The Difference Between Data Analytics & Data Science? (../../https://online.hbs.edu/blog/post/data-analytics-vs-data-science) 
  
 Answer – Quiz 
 
-Read (Harvard Business School Online): 4 Examples of Business Analytics In Action [https://online.hbs.edu/blog/post/business-analytics-examples] 
+Read (Harvard Business School Online): 4 Examples of Business Analytics In Action (../../https://online.hbs.edu/blog/post/business-analytics-examples) 
  
 Read (PDF): Predictive Analytics – 182 Examples of Predictive Analytics, A Cross-Industry Compendium of Mini-Case Studies, Eric Siegel, 2013 
 
-Watch: Cutting Edge Predictive Analytics - Eric Siegel (22m 53s) [https://youtu.be/dqjQxT5T0qc] 
+Watch: Cutting Edge Predictive Analytics - Eric Siegel (22m 53s) (../../https://youtu.be/dqjQxT5T0qc) 
 
-Read and Watch (Harvard Business Review and Eric Siegel, 2017): Putting Predictive Analytics to Work [https://hbr.org/webinar/2017/09/putting-predictive-analytics-to-work]
+Read and Watch (Harvard Business Review and Eric Siegel, 2017): Putting Predictive Analytics to Work (../../https://hbr.org/webinar/2017/09/putting-predictive-analytics-to-work)
  
 Answer – Quiz 
  

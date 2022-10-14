@@ -143,7 +143,7 @@ Workload: 42m 10s
 
 **Watch:** [Cutting Edge Predictive Analytics - Eric Siegel](https://youtu.be/dqjQxT5T0qc) (22m 53s) 
 
-**Read and Watch **(Harvard Business Review and Eric Siegel, 2017): [Putting Predictive Analytics to Work(https://hbr.org/webinar/2017/09/putting-predictive-analytics-to-work)
+**Read and Watch **(Harvard Business Review and Eric Siegel, 2017): [Putting Predictive Analytics to Work](https://hbr.org/webinar/2017/09/putting-predictive-analytics-to-work)
  
 **Answer – Quiz **
  

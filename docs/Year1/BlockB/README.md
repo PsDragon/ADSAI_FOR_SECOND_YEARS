@@ -251,7 +251,7 @@ Regression algorithms
 ## Friday - 9th Dec/22, DataLab 
 
 **Project Brief:** Regression 
-**Guest Lecture and Q&A with Banijay Data Scientist ** (from 3 pm to 5 pm) 
+**Guest Lecture and Q&A with Banijay Data Scientist** (from 3 pm to 5 pm) 
 
 # Week 5 : Machine Learning 
 
@@ -266,7 +266,7 @@ Tree-based algorithms cont.
 ## Wednesday - 14th Dec/22, DataLab 
 
 **Project Brief:** Tree-based algorithms 
-**Guest lecture on Data Driven Marketing by Fingerspitz **
+**Guest lecture on Data Driven Marketing by Fingerspitz**
 
 ## Thursday - 15th Dec/22, Home study 
 
@@ -333,7 +333,34 @@ Create a PowerBI Data Dashboard for the Banijay project.
 **Workshop**(Bert): Presentation (pitching) Skills, theory and practice.  
 
 ## Thursday - 12th Jan/22, Home study 
-
+ 
+**Assignment:**
+ 
+**Research ** how the companies below are using multiple sources of data and answer the related Quiz: 
+ 
+[Branch International (Finance)](https://branch.co) 
+[Boston Consulting Group](https://www.bcg.com) 
+[Snowflake Computing](https://www.snowflake.com/en/) 
+[Intelligent Waves](https://intelligentwaves.com) 
+[Zego (Insurer)](https://www.zego.com) 
+[Hyundai](https://www.hyundai.com/nl.html?gclid=EAIaIQobChMI0Mm9noHb-gIVF9J3Ch36MA3REAAYASAAEgJNRvD_BwE) 
+[Target](https://www.target.com) 
+[Meta](https://about.meta.com) 
+[WarnerMedia](https://www.warnermedia.com/us) 
+[Amazon](https://www.amazon.com) 
+ 
+**Quiz 1**
+ 
+**Read** (PDF): Managing Marketing Decision-Making with Sentiment Analysis: An Evaluation of the Main Product Features Using Text Data Mining 
+ 
+**Quiz 2**
+ 
+**Online Course 9:** Get Started With Tableau 
+ Workload: 2h 
+ 
+**Adjust** the Banijay business case presentation, report and dashboard according to feedback. 
+ 
+**DataLab Preparation:** Upload the presentation for tomorrow and show certificates of online courses 8 and 9.  
 
 ## Friday - 13th Jan/23, DataLab
 
@@ -375,9 +402,11 @@ Workload: 9 hours
 
 **Assignments: **
  
-**Online Course 11:[** Data Visualization: Storytelling](https://www.linkedin.com/learning/data-visualization-storytelling)
+**Online Course 12:[** Data Visualization: Storytelling](https://www.linkedin.com/learning/data-visualization-storytelling)
 Workload: 1h 34m 
  
+**DataLab Preparation:** Show certificates of online courses 10, 11 and 12.
+
 **Practice** the Banijay presentation and record yourself. Upload the video to GitHub. 
  
 **Submit** the Banijay presentation, dashboard and report.  

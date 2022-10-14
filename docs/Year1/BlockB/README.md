@@ -305,14 +305,14 @@ Clustering algorithms: Evaluating Clustering Algorithms
 
 **Assignments:**
  
-**Read the Paper** (PDF): Social Media's Impact on the Consumer Mindset: When to Use Which Sentiment Extraction Tool? 
+**Read the Paper** (PDF): [Social Media's Impact on the Consumer Mindset: When to Use Which Sentiment Extraction Tool?](https://github.com/BredaUniversityADSAI/ADS-AI/blob/main/docs/Year1/BlockB/Block%20B%20Analytics%20PDFs/Social%20Media_Impact%20on%20the%20Consumer%20Mindset_When%20to%20Use%20Which%20Sentiment%20Extraction_Tool.pdf) 
  
 **Quiz**
 
 **Online Course 8:** Intermediate - [Data Dashboards in Power BI: Power BI ecosystem](https://www.linkedin.com/learning/data-dashboards-in-power-bi)
 Workload: 4h 52m 
   
-Create a PowerBI Data Dashboard for the Banijay project. 
+**Create ** a PowerBI Data Dashboard for the Banijay project. 
 
 ## Tuesday - 10th Jan/23, Home study 
 

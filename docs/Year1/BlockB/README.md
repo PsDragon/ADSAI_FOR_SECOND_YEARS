@@ -8,7 +8,7 @@ In block A, you explored various themes around digital transformation such as bu
 
 > The client, [Banjay Group](https://banijaybenelux.com/), has approached you – the Data Analyst – with the aim to analyse their current TV viewership metrics and present a plan to improve their data usage (with multiple sources) and ultimately, increase their TV ratings. 
  
-Below you will find the **project requirements**, but there will be an opportunity for you to clarify any questions you may have about the project directly with a stakeholder from Banijay during the **project kick off meeting on Wednesday 23rd November 2022 **(trip details to follow).
+Below you will find the **project requirements**, but there will be an opportunity for you to clarify any questions you may have about the project directly with a stakeholder from Banijay during the **project kick off meeting on Wednesday 23rd November 2022** (trip details to follow).
 
 
 ## Creative Brief Requirements:
@@ -89,7 +89,7 @@ Watch: A video by Nitin, Zhanna and Gilmara introducing the Banijay Creative Bri
 **Online Course 1:** [Writing A Business Report](https://www.linkedin.com/learning/writing-a-business-report)
 Workload: 1h 57m 
  
-**Answer – Quiz **
+**Answer – Quiz**
  
 **Read** (Harvard Business School Online): [4 Ways To Improve Your Analytical Skills](https://online.hbs.edu/blog/post/how-to-improve-analytical-skills)
  
@@ -139,11 +139,11 @@ Workload: 42m 10s
 
 **Read** (Harvard Business School Online): [4 Examples of Business Analytics In Action](https://online.hbs.edu/blog/post/business-analytics-examples) 
  
-**Read **(PDF): Predictive Analytics – 182 Examples of Predictive Analytics, A Cross-Industry Compendium of Mini-Case Studies, Eric Siegel, 2013 
+**Read** (PDF): Predictive Analytics – 182 Examples of Predictive Analytics, A Cross-Industry Compendium of Mini-Case Studies, Eric Siegel, 2013 
 
 **Watch:** [Cutting Edge Predictive Analytics - Eric Siegel](https://youtu.be/dqjQxT5T0qc) (22m 53s) 
 
-**Read and Watch **(Harvard Business Review and Eric Siegel, 2017): [Putting Predictive Analytics to Work](https://hbr.org/webinar/2017/09/putting-predictive-analytics-to-work)
+**Read and Watch** (Harvard Business Review and Eric Siegel, 2017): [Putting Predictive Analytics to Work](https://hbr.org/webinar/2017/09/putting-predictive-analytics-to-work)
  
 **Answer – Quiz**
  
@@ -154,7 +154,7 @@ Workload: 42m 10s
 
 ## Wednesday 23rd Nov/22 From BUas to Bajinay Amsterdam (10 am to 1 pm) and back at BUas (from 3 pm to 5 pm) 
 
-**Site-visit:** Bajinay studios in Amsterdam (from 10 am to 1 pm at Banijay. Lunch will be provided by the client. Meet at BUas at 07.30 for 08 am prompt departure.) 
+**Site-visit:** Bajinay studios in Amsterdam (from 10 am to 1 pm at Banijay. Lunch will be provided by the client. Meet at BUas at 07.30 for 08 am prompt departure) 
  
 The client presents the Creative Brief and students have a chance to ask relevant questions.  
  
@@ -287,7 +287,7 @@ Clustering algorithms cont.
 
 ## Wednesday - 21stDec/22, Data Lab 
 
-**Project Brief: **Clustering analyses 
+**Project Brief:** **Clustering analyses**
 
 ## Thursday - 22nd Dec/22, Home study
 
@@ -305,7 +305,7 @@ Clustering algorithms: Evaluating Clustering Algorithms
  
 **Read the Paper** (PDF): Social Media's Impact on the Consumer Mindset: When to Use Which Sentiment Extraction Tool? 
  
-**Quiz **
+**Quiz**
 
 **Online Course 8:** Intermediate - [Data Dashboards in Power BI: Power BI ecosystem](https://www.linkedin.com/learning/data-dashboards-in-power-bi)
 Workload: 4h 52m 
@@ -337,7 +337,7 @@ Create a PowerBI Data Dashboard for the Banijay project.
 
 **Lab Exercise** (Bert/Gil): Practicing the Banijay presentation (2 minutes executive summary to “sell” the idea to Banijay stakeholders) and getting feedback on the Banijay presentation and dashboard (to be recorded).  
  
-**Formative feedback session III **
+**Formative feedback session III**
 
 
 # Week 8 : Business Case Preparation
@@ -367,7 +367,7 @@ Workload: 9 hours
 
 **DataLab:** Work on the project brief.  
   
-**Presentation practice **– 3 minutes each and feedback from the Group mentor.  
+**Presentation practice**– 3 minutes each and feedback from the Group mentor.  
 
 ## Thursday - 19th Jan/23, Home study 
 

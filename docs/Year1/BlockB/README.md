@@ -85,7 +85,7 @@ Watch: A video by Nitin, Zhanna and Gilmara introducing the Banijay Creative Bri
  
 **Read** (for the Banijay Assignment, Nielsen Blog, 2016): [Using Machine Learning to Predict Future TV Ratings In An Evolving Media Landscape](https://www.nielsen.com/insights/2016/using-machine-learning-to-predict-future-tv-ratings-in-an-evolving-media-landscape/)
  
-**Read** (for the Banijay Assignment, Nielsen Report, 2017): [Using Machine Learning To Predict Future TV Ratings(https://www.nielsen.com/wp-content/uploads/sites/2/2019/04/using-machine-learning-to-predict-future-tv-ratings.pdf)
+**Read** (for the Banijay Assignment, Nielsen Report, 2017): [Using Machine Learning To Predict Future TV Ratings](https://www.nielsen.com/wp-content/uploads/sites/2/2019/04/using-machine-learning-to-predict-future-tv-ratings.pdf)
  
 **Online Course 1: **[Writing A Business Report](https://www.linkedin.com/learning/writing-a-business-report)
 Workload: 1h 57m 

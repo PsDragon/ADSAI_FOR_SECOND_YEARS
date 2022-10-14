@@ -100,6 +100,13 @@ Workload: 1h 57m
 Workload: 11h 38m 
 (To be completed by Thursday 24th Nov/22, ahead of the Friday 25th Nov/22 DataLab.) 
   
+Watch -  What is Social Network Analysis? https://youtu.be/xT3EpF2EsbQ
+ 
+Read – How To Get Started With Social Network Analysis https://towardsdatascience.com/how-to-get-started-with-social-network-analysis-6d527685d374
+ 
+Read The 13 Best Social Media Analytics Tools to Use in 2022 https://brand24.com/blog/best-social-media-analytics-tools/
+ 
+**Find a Social Network Analysis** website or software and: **1. Describe** the interactions between viewers of the Banijay TV content, **2. Identify** influencers, **3. Determine** the information diffusion pattern you found between viewers. 
 
 ## Tuesday 22nd Nov/22, Home study 
 

@@ -83,28 +83,28 @@ Creative Brief and Deliverables (Working on deliverables using examples: Dashboa
 AI Ethics: Ethical challenges of AI, ethical AI in practice. 
 Watch: A video by Nitin, Zhanna and Gilmara introducing the Banijay Creative Brief, deliverables and requirements for medals.  
  
-**Read** (for the Banijay Assignment, Nielsen Blog, 2016): Using Machine Learning to Predict Future TV Ratings In An Evolving Media Landscape https://www.nielsen.com/insights/2016/using-machine-learning-to-predict-future-tv-ratings-in-an-evolving-media-landscape/
+**Read** (for the Banijay Assignment, Nielsen Blog, 2016): [Using Machine Learning to Predict Future TV Ratings In An Evolving Media Landscape](https://www.nielsen.com/insights/2016/using-machine-learning-to-predict-future-tv-ratings-in-an-evolving-media-landscape/)
  
-**Read** (for the Banijay Assignment, Nielsen Report, 2017): Using Machine Learning To Predict Future TV Ratings https://www.nielsen.com/wp-content/uploads/sites/2/2019/04/using-machine-learning-to-predict-future-tv-ratings.pdf
+**Read** (for the Banijay Assignment, Nielsen Report, 2017): [Using Machine Learning To Predict Future TV Ratings(https://www.nielsen.com/wp-content/uploads/sites/2/2019/04/using-machine-learning-to-predict-future-tv-ratings.pdf)
  
-**Online Course 1: **Writing A Business Report https://www.linkedin.com/learning/writing-a-business-report
+**Online Course 1: **[Writing A Business Report](https://www.linkedin.com/learning/writing-a-business-report)
 Workload: 1h 57m 
  
 **Answer – Quiz **
  
-**Read** (Harvard Business School Online): 4 Ways To Improve Your Analytical Skills https://online.hbs.edu/blog/post/how-to-improve-analytical-skills
+**Read** (Harvard Business School Online): [4 Ways To Improve Your Analytical Skills](https://online.hbs.edu/blog/post/how-to-improve-analytical-skills)
  
 **Answer – Quiz **
  
-**Online Course 2** (LinkedIn Learning) - Stay Competitive Using Design Thinking https://www.linkedin.com/learning/paths/stay-competitive-using-design-thinking
+**Online Course 2** (LinkedIn Learning) - [Stay Competitive Using Design Thinking](https://www.linkedin.com/learning/paths/stay-competitive-using-design-thinking)
 Workload: 11h 38m 
 (To be completed by Thursday 24th Nov/22, ahead of the Friday 25th Nov/22 DataLab.) 
   
-Watch -  What is Social Network Analysis? https://youtu.be/xT3EpF2EsbQ
+**Watch -**  [What is Social Network Analysis?](https://youtu.be/xT3EpF2EsbQ)
  
-Read – How To Get Started With Social Network Analysis https://towardsdatascience.com/how-to-get-started-with-social-network-analysis-6d527685d374
+**Read – **[How To Get Started With Social Network Analysis](https://towardsdatascience.com/how-to-get-started-with-social-network-analysis-6d527685d374)
  
-Read The 13 Best Social Media Analytics Tools to Use in 2022 https://brand24.com/blog/best-social-media-analytics-tools/
+**Read** - [The 13 Best Social Media Analytics Tools to Use in 2022](https://brand24.com/blog/best-social-media-analytics-tools/)
  
 **Find a Social Network Analysis** website or software and: **1. Describe** the interactions between viewers of the Banijay TV content, **2. Identify** influencers, **3. Determine** the information diffusion pattern you found between viewers. 
 
@@ -112,39 +112,39 @@ Read The 13 Best Social Media Analytics Tools to Use in 2022 https://brand24.com
 
 **Assignments: **
  
-**Online Course 3** (LinkedIn Learning): Beginner and Intermediate - Customer Insights and Consumer Analytics for Organizations: Tools and Analysis: Using customer analytics https://www.linkedin.com/learning/customer-insights-and-consumer-analytics-for-organizations-tools-and-analysis 
+**Online Course 3** (LinkedIn Learning): [Beginner and Intermediate - Customer Insights and Consumer Analytics for Organizations: Tools and Analysis: Using customer analytics](https://www.linkedin.com/learning/customer-insights-and-consumer-analytics-for-organizations-tools-and-analysis) 
 Workload: 1h 8m 
 (To be completed by Thursday 24th Nov/22, ahead of the Friday 25th Nov/22 DataLab.) 
 
-**Online Course 4** (LinkedIn Learning): Beginner and Intermediate Level - Predictive Analytics Essential Training: Estimating and Ensuring ROI https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi 
+**Online Course 4** (LinkedIn Learning): [Beginner and Intermediate Level - Predictive Analytics Essential Training: Estimating and Ensuring ROI](https://www.linkedin.com/learning/predictive-analytics-essential-training-estimating-and-ensuring-roi) 
 Workload: 51m 10s 
 (To be completed by Thursday 24th Nov/22, ahead of the Friday 25th Nov/22 DataLab.) 
  
- **Read **(Harvard Business School Online): 4 Types of Data Analytics To Improve Decision Making (Descriptive, Diagnostic, Predictive, Prescriptive Analytics) 
- https://online.hbs.edu/blog/post/types-of-data-analysis
-Answer – Quiz 
+ **Read **(Harvard Business School Online): [4 Types of Data Analytics To Improve Decision Making (Descriptive, Diagnostic, Predictive, Prescriptive Analytics)](https://online.hbs.edu/blog/post/types-of-data-analysis)
+ 
+**Answer – Quiz** 
 
-**Online Course 5** (LinkedIn Learning): Intermediate Level - Business Analytics Foundations: Descriptive, Exploratory, and Explanatory Analytics https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics
+**Online Course 5** (LinkedIn Learning): [Intermediate Level - Business Analytics Foundations: Descriptive, Exploratory, and Explanatory Analytics](https://www.linkedin.com/learning/business-analytics-foundations-descriptive-exploratory-and-explanatory-analytics)
 Workload: 41m 28s 
  
 (To be completed by Thursday 24th Nov/22, ahead of the Friday 25th Nov/22 DataLab.) 
 
-**Online Course 6** (LinkedIn Learning): Intermediate Level - Business Analytics Foundations: Predictive, Prescriptive, and Experimental Analytics https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics 
+**Online Course 6** (LinkedIn Learning): [Intermediate Level - Business Analytics Foundations: Predictive, Prescriptive, and Experimental Analytics](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics) 
 Workload: 42m 10s 
 
 **Answer – Quiz **
  
-**Read** (Harvard Business School Online): What’s The Difference Between Data Analytics & Data Science? https://online.hbs.edu/blog/post/data-analytics-vs-data-science 
+**Read** (Harvard Business School Online): [What’s The Difference Between Data Analytics & Data Science(https://online.hbs.edu/blog/post/data-analytics-vs-data-science)
  
 **Answer – Quiz **
 
-**Read** (Harvard Business School Online): 4 Examples of Business Analytics In Action https://online.hbs.edu/blog/post/business-analytics-examples 
+**Read** (Harvard Business School Online): [4 Examples of Business Analytics In Action](https://online.hbs.edu/blog/post/business-analytics-examples) 
  
 **Read **(PDF): Predictive Analytics – 182 Examples of Predictive Analytics, A Cross-Industry Compendium of Mini-Case Studies, Eric Siegel, 2013 
 
-**Watch:** Cutting Edge Predictive Analytics - Eric Siegel (22m 53s) https://youtu.be/dqjQxT5T0qc 
+**Watch:** [Cutting Edge Predictive Analytics - Eric Siegel](https://youtu.be/dqjQxT5T0qc) (22m 53s) 
 
-**Read and Watch **(Harvard Business Review and Eric Siegel, 2017): Putting Predictive Analytics to Work https://hbr.org/webinar/2017/09/putting-predictive-analytics-to-work
+**Read and Watch **(Harvard Business Review and Eric Siegel, 2017): [Putting Predictive Analytics to Work(https://hbr.org/webinar/2017/09/putting-predictive-analytics-to-work)
  
 **Answer – Quiz **
  
@@ -167,33 +167,33 @@ Day 2 of ethics: Ethical and legal issues in big data and marketing, GDPR, Ethic
  
 **Assignments: **
 
-**Read:** Bad Data Visualization, 5 Examples of Misleading Data https://online.hbs.edu/blog/post/bad-data-visualization
+**Read:** [Bad Data Visualization, 5 Examples of Misleading Data](https://online.hbs.edu/blog/post/bad-data-visualization)
 
-**Read:** Data Storytelling, How To Effectively Tell A Story With Data https://online.hbs.edu/blog/post/data-storytelling
+**Read:** [Data Storytelling, How To Effectively Tell A Story With Data](https://online.hbs.edu/blog/post/data-storytelling)
 
-**Online Course 6:** Listen to the Data Storytelling Basics Podcast https://www.linkedin.com/learning/data-storytelling-basics
+**Online Course 6:** [Listen to the Data Storytelling Basics Podcast](https://www.linkedin.com/learning/data-storytelling-basics)
 Workload: 1h 6m 
  
 **Answer** the Quiz.  
 
-**Online Course 7:** Intermediate - Data Visualization for Data Analysis and Analytics https://www.linkedin.com/learning/data-visualization-for-data-analysis-and-analytics
+**Online Course 7:** Intermediate - [Data Visualization for Data Analysis and Analytics](https://www.linkedin.com/learning/data-visualization-for-data-analysis-and-analytics)
 Workload: 1h 40m 
  
-**Try 1** of the platforms mentioned on the Social Media Analytics Tools on this link and use it for social media sentiment analysis. https://blog.hootsuite.com/social-media-analytics/
+**Try 1** [of the platforms mentioned on the Social Media Analytics Tools on this link and use it for social media sentiment analysis](https://blog.hootsuite.com/social-media-analytics/)
 
 **Complete the Bonus Courses Below:** (The Certificate is paid for and is not necessary, a screenshot of the completion page is enough)
  
-**NLP: Twitter Sentiment Analysis ** https://www.coursera.org/projects/twitter-sentiment-analysis
+**[NLP: Twitter Sentiment Analysis**](https://www.coursera.org/projects/twitter-sentiment-analysis)
 Workload: 2h 
  
-**Entity and Sentiment Analysis with the Natural Language API ** https://www.coursera.org/projects/googlecloud-entity-and-sentiment-analysis-with-the-natural-language-api-yxxmm
+**[Entity and Sentiment Analysis with the Natural Language API **](https://www.coursera.org/projects/googlecloud-entity-and-sentiment-analysis-with-the-natural-language-api-yxxmm)
 Workload: 40m  
 
-**Sentimental Analysis on COVID-19 Tweets using Python https://www.coursera.org/projects/sentimental-anlysis-on-covid-19-tweets-using-python?action=enroll
+**[Sentimental Analysis on COVID-19 Tweets using Python](https://www.coursera.org/projects/sentimental-anlysis-on-covid-19-tweets-using-python?action=enroll)
 **
 Workload: 1h 
 
-**Fill in the Mind Map and the Design Thinking Brainstorm Worksheet ** for tomorrow’s DataLab “Design Thinking” workshop (If you have questions or doubts, refer to the Online Course 1 (LinkedIn Learning) - Stay Competitive Using Design Thinking https://www.linkedin.com/learning/paths/stay-competitive-using-design-thinking, or the “Ask Me Anything” form https://forms.office.com/pages/responsepage.aspx?id=m1gzCjYA6E-oKT7Qkmr4hrVYkvxK4R5DrlSvaiqq5E9UQ0dKREhaNzVNVTY4VjAzSUVJWDlQMkI4Qi4u). 
+**Fill in the Mind Map and the Design Thinking Brainstorm Worksheet ** for tomorrow’s DataLab “Design Thinking” workshop (If you have questions or doubts, refer to the Online Course 1 (LinkedIn Learning) - [Stay Competitive Using Design Thinking(https://www.linkedin.com/learning/paths/stay-competitive-using-design-thinking), or the [Ask Me Anything form](https://forms.office.com/pages/responsepage.aspx?id=m1gzCjYA6E-oKT7Qkmr4hrVYkvxK4R5DrlSvaiqq5E9UQ0dKREhaNzVNVTY4VjAzSUVJWDlQMkI4Qi4u) 
 
 ## Friday
 
@@ -308,7 +308,7 @@ Clustering algorithms: Evaluating Clustering Algorithms
  
 **Quiz **
 
-**Online Course 8: ** Intermediate - Data Dashboards in Power BI: Power BI ecosystem https://www.linkedin.com/learning/data-dashboards-in-power-bi
+**Online Course 8: ** Intermediate - [Data Dashboards in Power BI: Power BI ecosystem](https://www.linkedin.com/learning/data-dashboards-in-power-bi)
 Workload: 4h 52m 
   
 Create a PowerBI Data Dashboard for the Banijay project. 
@@ -349,7 +349,7 @@ Create a PowerBI Data Dashboard for the Banijay project.
  
 **Assignments: **
  
-**Online Course 10: **Tableau 10 Essential Training https://www.linkedin.com/learning/tableau-10-essential-training
+**Online Course 10: [**Tableau 10 Essential Training](https://www.linkedin.com/learning/tableau-10-essential-training)
 Workload: 4h 41m 
  
 **Create **a Tableau Data Dashboard for the Banijay project. 
@@ -360,7 +360,7 @@ Workload: 4h 41m
  
 **Assignments:   **
  
-**Online Course 11:** Google Data Analytics Capstone: Complete A Case Study https://www.coursera.org/learn/google-data-analytics-capstone#syllabus
+**Online Course 11:[** Google Data Analytics Capstone: Complete A Case Study](https://www.coursera.org/learn/google-data-analytics-capstone#syllabus)
 Workload: 9 hours 
  
 
@@ -374,7 +374,7 @@ Workload: 9 hours
 
 **Assignments: **
  
-**Online Course 11:** Data Visualization: Storytelling https://www.linkedin.com/learning/data-visualization-storytelling
+**Online Course 11:[** Data Visualization: Storytelling](https://www.linkedin.com/learning/data-visualization-storytelling)
 Workload: 1h 34m 
  
 **Practice** the Banijay presentation and record yourself. Upload the video to GitHub. 

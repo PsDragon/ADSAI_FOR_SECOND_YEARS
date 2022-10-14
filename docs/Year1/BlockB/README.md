@@ -194,6 +194,8 @@ Workload: 1h
 
 **Fill in the Mind Map and the Design Thinking Brainstorm Worksheet** for tomorrow’s DataLab “Design Thinking” workshop (If you have questions or doubts, refer to the Online Course 1 (LinkedIn Learning) - [Stay Competitive Using Design Thinking(https://www.linkedin.com/learning/paths/stay-competitive-using-design-thinking), or the [Ask Me Anything form](https://forms.office.com/pages/responsepage.aspx?id=m1gzCjYA6E-oKT7Qkmr4hrVYkvxK4R5DrlSvaiqq5E9UQ0dKREhaNzVNVTY4VjAzSUVJWDlQMkI4Qi4u) 
 
+**DataLab Preparation:** Show all certificates for the online courses 1, 2, 3, 4, 5, 6 and 7.  
+
 ## Friday
 
 **Lab Exercise 1:** Ethics exercises. 

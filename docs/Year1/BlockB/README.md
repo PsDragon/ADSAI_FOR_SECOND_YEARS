@@ -7,7 +7,7 @@ Kindly follow the table of contents below, this will guide you through what is e
 In block A, you explored various themes around digital transformation such as business intelligence using Power BI; and critically examined applications of AI and digital technologies to existing businesses processes. In this block, you will take on a more hands-on approach towards improving a business process using digital transformation. In particular, you will explore one specific role within the theme of digitalisation - **the Data Analyst** – and help **Banijay** improve their business processes using data, mathematics, and machine learning.
 
 
-> The client, Banjay Group https://banijaybenelux.com/, has approached you – the Data Analyst – with the aim to analyse their current TV viewership metrics and present a plan to improve their data usage (with multiple sources) and ultimately, increase their TV ratings. 
+> The client, [Banjay Group](https://banijaybenelux.com/), has approached you – the Data Analyst – with the aim to analyse their current TV viewership metrics and present a plan to improve their data usage (with multiple sources) and ultimately, increase their TV ratings. 
  
 Below you will find the project requirements, but there will be an opportunity for you to clarify any questions you may have about the project directly with a stakeholder from Banijay during the **project kick off meeting on Wednesday 23rd November 2022 **(trip details to follow).
 

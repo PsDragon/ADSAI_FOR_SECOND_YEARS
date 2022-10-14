@@ -139,7 +139,7 @@ Workload: 42m 10s
 
 **Read** (Harvard Business School Online): [4 Examples of Business Analytics In Action](https://online.hbs.edu/blog/post/business-analytics-examples) 
  
-**Read** (PDF): Predictive Analytics – 182 Examples of Predictive Analytics, A Cross-Industry Compendium of Mini-Case Studies, Eric Siegel, 2013 
+**Read** (PDF): [Predictive Analytics – 182 Examples of Predictive Analytics, A Cross-Industry Compendium of Mini-Case Studies, Eric Siegel, 2013](https://github.com/BredaUniversityADSAI/ADS-AI/blob/main/docs/Year1/BlockB/Block%20B%20Analytics%20PDFs/Predictive_Analytics_Siegel.pdf) 
 
 **Watch:** [Cutting Edge Predictive Analytics - Eric Siegel](https://youtu.be/dqjQxT5T0qc) (22m 53s) 
 

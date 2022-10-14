@@ -119,7 +119,7 @@ Workload: 1h 8m
 Workload: 51m 10s 
 (To be completed by Thursday 24th Nov/22, ahead of the Friday 25th Nov/22 DataLab.) 
  
- **Read **(Harvard Business School Online): [4 Types of Data Analytics To Improve Decision Making (Descriptive, Diagnostic, Predictive, Prescriptive Analytics)](https://online.hbs.edu/blog/post/types-of-data-analysis)
+ **Read** (Harvard Business School Online): [4 Types of Data Analytics To Improve Decision Making (Descriptive, Diagnostic, Predictive, Prescriptive Analytics)](https://online.hbs.edu/blog/post/types-of-data-analysis)
  
 **Answer – Quiz** 
 

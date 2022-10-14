@@ -6,8 +6,7 @@ Kindly follow the table of contents below, this will guide you through what is e
 ## Project Based Learning - Creative Brief
 In block A, you explored various themes around digital transformation such as business intelligence using Power BI; and critically examined applications of AI and digital technologies to existing businesses processes. In this block, you will take on a more hands-on approach towards improving a business process using digital transformation. In particular, you will explore one specific role within the theme of digitalisation - **the Data Analyst** – and help **Banijay** improve their business processes using data, mathematics, and machine learning.
 
-
-> **The client, [Banjay Group]**(https://banijaybenelux.com/), has approached you – the Data Analyst – with the aim to analyse their current TV viewership metrics and present a plan to improve their data usage (with multiple sources) and ultimately, increase their TV ratings. 
+> The client, [Banjay Group](https://banijaybenelux.com/), has approached you – the Data Analyst – with the aim to analyse their current TV viewership metrics and present a plan to improve their data usage (with multiple sources) and ultimately, increase their TV ratings. 
  
 Below you will find the **project requirements**, but there will be an opportunity for you to clarify any questions you may have about the project directly with a stakeholder from Banijay during the **project kick off meeting on Wednesday 23rd November 2022 **(trip details to follow).
 
@@ -17,13 +16,13 @@ With a view to enabling Banijay’s stakeholders to achieve the desired TV ratin
  
 - **Become familiar** with various data sets: TV viewer ratings per minute/SKO for op-1, per target group (the key KPI/dependent variable); Aggregate (average) per fragment (Banijay to provide the dataset); Twitter data feed and trending topics using the public API (to be scrapped by students/ data to be will provided to students and the Academic software license); Tweepy (via API) vs twint (url scrape) (data governance): engagement metrics (facts); Sentiment analysis (hugging face); Content Data (provided by Hans Bouwknecht and Banijay); Dimensions (host couples/ key topics per fragment); key topics per fragment (Provided by Banijay); plus any additional and relevant data students can find (knmi). The datasets provided will be in .csv and .json formats. 
 
-- **Investigate ** viewer ratings from daily talk shows and proactively research possible causes for its ongoing fluctuations.  
+- **Investigate** viewer ratings from daily talk shows and proactively research possible causes for its ongoing fluctuations.  
 
 - **Analyse** how the relationship between higher and lower TV ratings is correlated with social media engagement (primarily using Twitter data).  
 
 - **Make** Twitter data predictive during daytime.  
 
-- **Include **content data related to topics discussed in the show.  
+- **Include** content data related to topics discussed in the show.  
 
 - **Create** a descriptive analysis that explains the correlation between ratings and social media engagement of the selected TV show (Op1) during live transmission.  
 

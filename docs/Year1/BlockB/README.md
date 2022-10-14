@@ -86,22 +86,22 @@ Watch: A video by Nitin, Zhanna and Gilmara introducing the Banijay Creative Bri
  
 **Read** (for the Banijay Assignment, Nielsen Report, 2017): [Using Machine Learning To Predict Future TV Ratings](https://www.nielsen.com/wp-content/uploads/sites/2/2019/04/using-machine-learning-to-predict-future-tv-ratings.pdf)
  
-**Online Course 1: **[Writing A Business Report](https://www.linkedin.com/learning/writing-a-business-report)
+**Online Course 1:** [Writing A Business Report](https://www.linkedin.com/learning/writing-a-business-report)
 Workload: 1h 57m 
  
 **Answer – Quiz **
  
 **Read** (Harvard Business School Online): [4 Ways To Improve Your Analytical Skills](https://online.hbs.edu/blog/post/how-to-improve-analytical-skills)
  
-**Answer – Quiz **
+**Answer – Quiz**
  
 **Online Course 2** (LinkedIn Learning) - [Stay Competitive Using Design Thinking](https://www.linkedin.com/learning/paths/stay-competitive-using-design-thinking)
 Workload: 11h 38m 
 (To be completed by Thursday 24th Nov/22, ahead of the Friday 25th Nov/22 DataLab.) 
   
-**Watch -**  [What is Social Network Analysis?](https://youtu.be/xT3EpF2EsbQ)
+**Watch-** [What is Social Network Analysis?](https://youtu.be/xT3EpF2EsbQ)
  
-**Read – **[How To Get Started With Social Network Analysis](https://towardsdatascience.com/how-to-get-started-with-social-network-analysis-6d527685d374)
+**Read –** [How To Get Started With Social Network Analysis](https://towardsdatascience.com/how-to-get-started-with-social-network-analysis-6d527685d374)
  
 **Read** - [The 13 Best Social Media Analytics Tools to Use in 2022](https://brand24.com/blog/best-social-media-analytics-tools/)
  
@@ -109,7 +109,7 @@ Workload: 11h 38m
 
 ## Tuesday 22nd Nov/22, Home study 
 
-**Assignments: **
+**Assignments:**
  
 **Online Course 3** (LinkedIn Learning): [Beginner and Intermediate - Customer Insights and Consumer Analytics for Organizations: Tools and Analysis: Using customer analytics](https://www.linkedin.com/learning/customer-insights-and-consumer-analytics-for-organizations-tools-and-analysis) 
 Workload: 1h 8m 
@@ -131,11 +131,11 @@ Workload: 41m 28s
 **Online Course 6** (LinkedIn Learning): [Intermediate Level - Business Analytics Foundations: Predictive, Prescriptive, and Experimental Analytics](https://www.linkedin.com/learning/business-analytics-foundations-predictive-prescriptive-and-experimental-analytics) 
 Workload: 42m 10s 
 
-**Answer – Quiz **
+**Answer – Quiz**
  
 **Read** (Harvard Business School Online): [What’s The Difference Between Data Analytics & Data Science(https://online.hbs.edu/blog/post/data-analytics-vs-data-science)
  
-**Answer – Quiz **
+**Answer – Quiz**
 
 **Read** (Harvard Business School Online): [4 Examples of Business Analytics In Action](https://online.hbs.edu/blog/post/business-analytics-examples) 
  
@@ -145,7 +145,7 @@ Workload: 42m 10s
 
 **Read and Watch **(Harvard Business Review and Eric Siegel, 2017): [Putting Predictive Analytics to Work](https://hbr.org/webinar/2017/09/putting-predictive-analytics-to-work)
  
-**Answer – Quiz **
+**Answer – Quiz**
  
 **DataLab Preparation 1:** Technical Writing (Word/ Latex/APA) 
  
@@ -164,7 +164,7 @@ The client presents the Creative Brief and students have a chance to ask relevan
 
 Day 2 of ethics: Ethical and legal issues in big data and marketing, GDPR, Ethical guidelines for statistical practice. 
  
-**Assignments: **
+**Assignments:**
 
 **Read:** [Bad Data Visualization, 5 Examples of Misleading Data](https://online.hbs.edu/blog/post/bad-data-visualization)
 
@@ -192,7 +192,7 @@ Workload: 40m
 **
 Workload: 1h 
 
-**Fill in the Mind Map and the Design Thinking Brainstorm Worksheet ** for tomorrow’s DataLab “Design Thinking” workshop (If you have questions or doubts, refer to the Online Course 1 (LinkedIn Learning) - [Stay Competitive Using Design Thinking(https://www.linkedin.com/learning/paths/stay-competitive-using-design-thinking), or the [Ask Me Anything form](https://forms.office.com/pages/responsepage.aspx?id=m1gzCjYA6E-oKT7Qkmr4hrVYkvxK4R5DrlSvaiqq5E9UQ0dKREhaNzVNVTY4VjAzSUVJWDlQMkI4Qi4u) 
+**Fill in the Mind Map and the Design Thinking Brainstorm Worksheet** for tomorrow’s DataLab “Design Thinking” workshop (If you have questions or doubts, refer to the Online Course 1 (LinkedIn Learning) - [Stay Competitive Using Design Thinking(https://www.linkedin.com/learning/paths/stay-competitive-using-design-thinking), or the [Ask Me Anything form](https://forms.office.com/pages/responsepage.aspx?id=m1gzCjYA6E-oKT7Qkmr4hrVYkvxK4R5DrlSvaiqq5E9UQ0dKREhaNzVNVTY4VjAzSUVJWDlQMkI4Qi4u) 
 
 ## Friday
 
@@ -202,7 +202,7 @@ Workload: 1h
 **DataLab 2:** Workshop (small groups): Design Thinking (Gilmara) - 14h to 17h. 
  
  
-**Formative feedback session I **
+**Formative feedback session I**
 
 # Week 3 : Data processing in Python
 
@@ -273,7 +273,7 @@ Tuning Tree-based algorithms
 ## Friday - 16th Dec/22, DataLab 
 
 **Project Brief:** Tree-based algorithms 
-**Formative feedback session II **
+**Formative feedback session II**
 
 # Week 6 : Machine Learning 
 
@@ -301,25 +301,25 @@ Clustering algorithms: Evaluating Clustering Algorithms
 
 ## Monday - 9th Jan/23, Home study  
 
-**Assignments: **
+**Assignments:**
  
 **Read the Paper** (PDF): Social Media's Impact on the Consumer Mindset: When to Use Which Sentiment Extraction Tool? 
  
 **Quiz **
 
-**Online Course 8: ** Intermediate - [Data Dashboards in Power BI: Power BI ecosystem](https://www.linkedin.com/learning/data-dashboards-in-power-bi)
+**Online Course 8:** Intermediate - [Data Dashboards in Power BI: Power BI ecosystem](https://www.linkedin.com/learning/data-dashboards-in-power-bi)
 Workload: 4h 52m 
   
 Create a PowerBI Data Dashboard for the Banijay project. 
 
 ## Tuesday - 10th Jan/23, Home study 
 
-**Assignments: ** 
+**Assignments:** 
  
 **Complete** the Banijay business case presentation, report and dashboard. 
  
  
-**Submit **the Banijay business case presentation, report and dashboard for individual feedback. 
+**Submit** the Banijay business case presentation, report and dashboard for individual feedback. 
  
  
 **DataLab Preparation** (Bert): Bring one object of our preference from your home. 
@@ -328,7 +328,7 @@ Create a PowerBI Data Dashboard for the Banijay project.
 
 **DataLab Preparation** (Bert): Make sure you bring one object of our preference from your home.  
  
-**Workshop **(Bert): Presentation (pitching) Skills, theory and practice.  
+**Workshop**(Bert): Presentation (pitching) Skills, theory and practice.  
 
 ## Thursday - 12th Jan/22, Home study 
 
@@ -346,9 +346,9 @@ Create a PowerBI Data Dashboard for the Banijay project.
 
 **Programming in Python: **Advanced Topics 
  
-**Assignments: **
+**Assignments:**
  
-**Online Course 10: [**Tableau 10 Essential Training](https://www.linkedin.com/learning/tableau-10-essential-training)
+**Online Course 10:** [Tableau 10 Essential Training](https://www.linkedin.com/learning/tableau-10-essential-training)
 Workload: 4h 41m 
  
 **Create **a Tableau Data Dashboard for the Banijay project. 
@@ -357,9 +357,9 @@ Workload: 4h 41m
 
 **Machine Learning:** Advanced Topics 
  
-**Assignments:   **
+**Assignments:**
  
-**Online Course 11:[** Google Data Analytics Capstone: Complete A Case Study](https://www.coursera.org/learn/google-data-analytics-capstone#syllabus)
+**Online Course 11:** [Google Data Analytics Capstone: Complete A Case Study](https://www.coursera.org/learn/google-data-analytics-capstone#syllabus)
 Workload: 9 hours 
  
 

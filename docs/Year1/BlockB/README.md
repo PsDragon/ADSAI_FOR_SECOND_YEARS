@@ -336,7 +336,7 @@ Workload: 4h 52m
  
 **Assignment:**
  
-**Research ** how the companies below are using multiple sources of data and answer the related Quiz: 
+**Research** how the companies below are using multiple sources of data and answer the related Quiz: 
  
 [Branch International (Finance)](https://branch.co) 
 [Boston Consulting Group](https://www.bcg.com) 
@@ -351,7 +351,7 @@ Workload: 4h 52m
  
 **Quiz 1**
  
-**Read** (PDF): Managing Marketing Decision-Making with Sentiment Analysis: An Evaluation of the Main Product Features Using Text Data Mining 
+**Read** (PDF): [Managing Marketing Decision-Making with Sentiment Analysis: An Evaluation of the Main Product Features Using Text Data Mining](https://github.com/BredaUniversityADSAI/ADS-AI/blob/main/docs/Year1/BlockB/Block%20B%20Analytics%20PDFs/Managing%20Marketing%20Decision-Making%20with%20Sentiment%20Analysis.pdf) 
  
 **Quiz 2**
  

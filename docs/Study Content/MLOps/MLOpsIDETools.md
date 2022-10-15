@@ -2,7 +2,7 @@
 sort: 2
 ---
 
-# ICT Setup: IDE & MLOps Tools 
+# IDE & MLOps Tools 
 
 In this knowledge module, you will find a list of online resources on the topics of coding practices for Data Science/AI, IDEs, and MLOps tools for experiment tracking and management. 
 

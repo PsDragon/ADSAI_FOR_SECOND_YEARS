@@ -48,6 +48,7 @@ Note: During Weeks 1-2, you will work in a project group, Weeks 3-8 are devoted 
 The block starts with a kick-off lecture. 
 
 - [Field trip: WWA]()
+- [ICT setup](../../Study%20Content/MLOps/MLOps1.html)
 - [WSL2 Setup](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/WSL2.html)
 - [Robotic Simulation Primer](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/Robotic%20Simulation%20Primer.html)
 - [Data collection]()
@@ -88,7 +89,7 @@ DataLab 2:
 
 ### Week 3
 
-- [DL computer vision (2)]()
+- [DL computer vision (2)](../../Study%20Content/Computer%Vision/DLComputerVision1b.html)
 
 #### <mark>DataLab preparation (individual)</mark>
 

@@ -50,6 +50,8 @@ With a view to enabling Banijay’s stakeholders to achieve the desired TV ratin
 # Week 1: Block B Kickoff, Banijay Kickoff & Programming in Python 
 
 ## Monday - 14th Nov/22 Kick off on BUas Campus
+- Creative Brief Introduction: Banijay Group – Predicting TV Ratings 
+- Creative Brief and Deliverables (Dashboard, report and presentation) 
 - [Programming: a primer](../../Study%20Content/Programming/1.StartingProgramming.html)
 - [Setting up your development environment](../../Study%20Content/Programming/2.SetupIDE.html)
 - [Python for AI and Data ScienceI](../../Study%20Content/Programming/3.Python%20foundations.html)

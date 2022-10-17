@@ -77,8 +77,8 @@ With a view to enabling Banijay’s stakeholders to achieve the desired TV ratin
 
 ## Monday 21st Nov/22, Home study 
 
-**Day 1 of Ethics: **Introduction into ethics: definition of ethics, ethics strategic benefit, ethics and business, frameworks and models for making ethical decisions. 
-AI ethics: ethical challenges of AI, ethical AI in practice. 
+**Day 1 of Ethics:** Introduction into ethics: definition of ethics, ethics strategic benefit, ethics and business, frameworks and models for making ethical decisions. 
+AI Ethics: Ethical challenges of AI, ethical AI in practice. 
 
 [**Business Reporting**](https://github.com/BredaUniversityADSAI/ADS-AI/blob/main/docs/Study%20Content/Digital%20Transformation/Business%20Reporting.md)
 

@@ -154,9 +154,9 @@ Workload: 42m 10s
 **DataLab Preparation 2:** Preparing relevant questions to the Banijay stakeholders ahead of tomorrow’s site-visit. 
  
 
-## Wednesday 23rd Nov/22 From BUas to Bajinay Amsterdam (10 am to 1 pm) and back at BUas (from 3 pm to 5 pm) 
+## Wednesday 23rd Nov/22 From BUas to Banijay Amsterdam (10 am to 1 pm) and back at BUas (from 3 pm to 5 pm) 
 
-**Site-visit:** Bajinay studios in Amsterdam (from 10 am to 1 pm at Banijay. Lunch will be provided by the client. Meet at BUas at 07.30 for 08 am prompt departure) 
+**Site-visit:** Banijay studios in Amsterdam (from 10 am to 1 pm at Banijay. Lunch will be provided by the client. Meet at BUas at 07.30 for 08 am prompt departure) 
  
 The client presents the Creative Brief and students have a chance to ask relevant questions.  
  

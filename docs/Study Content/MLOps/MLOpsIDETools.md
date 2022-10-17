@@ -8,7 +8,7 @@ In this knowledge module, you will find a list of online resources on the topics
 
 ***
 
-## From Jupyter notebook to Python scripts
+## 1. From Jupyter notebook to Python scripts
 
 Until now, you have primarily written your Python code in a Jupyter notebook in either Anaconda or Google Collaboratory. From this block onwards, we will start incorporating Python scripts (i.e., files with .py extension) and an [Integrated Development Environment (IDE)](https://www.codecademy.com/article/what-is-an-ide) into our workflow. So, why would you want to switch from Jupyter notebooks to scripts? Notebooks are helpful when you perform an EDA or another small coding experiment, but when it comes to developing production-ready ML products, they present a couple of serious drawbacks compared to simple Python scripts. 
 
@@ -38,7 +38,7 @@ Interested in writing your own production code in Python using [Object Oriented 
 
 ***
 
-# MLOps Tools: Experiment Tracking & Management 
+## 2. MLOps Tools: Experiment Tracking & Management 
 
 To track and manage your experiments, you can deploy a Machine Learning Operations (MLOps) tool. These tools help you, among others, to log parameter settings and store model outputs. One of the more well-known tools is Tensorflow's [Tensorboard](https://www.tensorflow.org/tensorboard). Other popular tools include [Clear ML](https://clear.ml/docs/latest/) and [Weights & Biases](https://wandb.ai/site), for which the latter is often referred to as WandB.  
 

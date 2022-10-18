@@ -17,8 +17,8 @@ In Block B, which spans eight weeks, you will explore one specific role within a
 | Dean van Aswegen (Mentor) <img src="./images/DeanProfile.jpg" alt="Dean van Aswegen profile picture" width="200"/> | Mon, Tues, Wed, Thur, Fri  |  Weeks 4-8 | aswegen.d@buas.nl | Robotics & Reinforcement learning | 
 | Alican Noyan (Lecturer), PhD.<img src="./images/AlicanProfile.jpg" alt="Alican Noyan profile picture" width="200"/>|  Mon, Wed, Thu, Fri  | Week 2 |  noyan.a@buas.nl | Traditional computer vision |
 | Irene van Blerck (Mentor), MSc. <img src="./images/IreneProfile.jpg" alt="Irene van Blerck profile picture" width="200"/> |  Tue, Wed, Thu, Fri | Weeks 1-3, 8 |  blerck.i@buas.nl | Data collection/annotation & DL computer vision |
-| Bram Heijligers (Lecturer), MSc. <img src="./images/BramProfile.jpg" alt="Bram Heijligers profile picture" width="200"/> |  Wed, Thur, Fri | Week 1  | heijligers.b@buas.nl | Data management & Cognition | 
-| Frank Peters, PhD. <img src="./images/FrankProfile.jpeg" alt="Frank Peters profile picture" width="200"/> | Mon, Tue, Wed, Thu |  NA | peters.f@buas.nl | NA  |
+| Bram Heijligers (Lecturer), MSc. <img src="./images/BramProfile.jpg" alt="Bram Heijligers profile picture" width="200"/> |  Wed, Thur, Fri | Week 1 & 5 | heijligers.b@buas.nl | Cognition & Data Management | 
+| Frank Peters, PhD. <img src="./images/FrankProfile.jpeg" alt="Frank Peters profile picture" width="200"/> | Mon, Tue, Wed, Thu |  Omnipresent | peters.f@buas.nl | Supreme Leader of the ADSAI Department, A.K.A. 'El Patron'  |
 
 ***
 
@@ -30,7 +30,7 @@ In the past five years, leading companies like Philips and Nokia have started in
 
 *Figure 1. WWA employers working on robot arm.*
 
-[WWA](https://www.wwa.nl/), a regional SME in manufacturing-process automation,  hereafter the client, has approached you as an – Artificial Intelligence Researcher – to digitilize its business processes by designing and developing a practical, Industry 4.0, robotics application that can perform bin picking by applying (advanced) reinforcement, cognitive models and computer vision algorithms. 
+[WWA](https://www.wwa.nl/), a regional SME in manufacturing-process automation,  hereafter the client, has approached you as an – Artificial Intelligence Researcher – to digitilize its business processes by designing and developing a practical, Industry 4.0, robotics application that can perform bin picking by applying cognitive models, and(advanced) reinforcement learning and computer vision algorithms. 
 
 Good luck!
 
@@ -184,16 +184,35 @@ Create and compare different reinforcement learning controllers using different:
 
 ***
 
+### BUas Ethics Review
+- Fill in [the template]()
+- Get accepted
+
+### Research Data Management Plan
+- Follows [BUas guidelines](https://edubuas.sharepoint.com/sites/researchdevelopment/SitePages/Datamanagement.aspx)
+- Follow your planned procedures
+- Excecuted procedures ensured adhering to F.A.I.R. principles
+
+### Codebook
+- Fill in [the template](https://github.com/BredaUniversityADSAI/ADS-AI/blob/f020e08818bb64486e784e2447334fb866ee1df9/docs/Study%20Content/Research%20Methodology/Assets/Codebook_Template.md)
+- Meet the criteria set in the template
+
 ## Project Deliverable(s)
 
 __Group:__
 
 - Three (3) annotated image datasets for object detection
 - GitHub folders with README.md
+- [BUas Ethics Review](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html#templates)
+- [Research Data Management Plan](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html#templates)
+- [Codebook](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html#templates)
 
 __Individual:__
 
 - Technical report
+- Object detection algorithm
+- Reinforcement learning model
+- Robot controller
 
 <mark>For details, see self-assessment rubric.</mark>
 

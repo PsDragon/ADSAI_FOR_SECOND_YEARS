@@ -6,7 +6,7 @@ sort: 1
 
 ## What is cognition?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R-sVnmmw6WY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-Note that learning is actually a big part of cognition; after all what good is processing information if you don't learn; store information to interact more efficiently with your environment (intelligence = efficient environmental interaction), from it? But psychology views things a bit differently sometimes: it's a young evolving field like AI and Data Science!
+Note that learning is actually a big part of cognition; after all what good is processing information if you don't learn; store information to interact more efficiently with your environment (intelligence = efficient environmental interaction given some goal ~), from it? But psychology views things a bit differently sometimes: it's a young evolving field like AI and Data Science!
 
 ## And where did it come from and how does it relate to AI?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AeoyzqmyWug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

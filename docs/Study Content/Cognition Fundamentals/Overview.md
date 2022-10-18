@@ -7,8 +7,10 @@ sort: 1
 ## What is cognition?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R-sVnmmw6WY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## And where did it come from?
+## And where did it come from and how does it relate to AI?
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AeoyzqmyWug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Note that [the cognitive revolution was a wide phenomena](https://en.wikipedia.org/wiki/Cognitive_revolution) but he is a proffessor at Harvard so who can blame him for doing some marketing?
+
 
 ## Cognitive Robotics:
 Cognitive robots achieve their goals by perceiving their environment, paying attention to the events that matter, planning what to do, anticipating the outcome of their actions and the actions of other agents, and learning from the resultant interaction. They deal with the inherent uncertainty of natural environments by continually learning, reasoning, sharing their knowledge and making decision based on that knowledge.

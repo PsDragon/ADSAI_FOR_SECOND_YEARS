@@ -31,15 +31,19 @@ Get together with your mentor group, a student will lead the session, and take t
 Good luck!
 
 ## 1) Feedback on dashboard
-Now, your mentor should gather your group and find your group a nice screen. Then in alphabetical order you will present your dashboard by means of a walkthrough presentation. Your peers and mentors will provide you with questions and feedback. Make sure to keep your file for taking notes at the ready and record all important feedback you need to act on! 
-If you get any action points from your mentor in your learning log or your peers using the questionnaire, you should try to incorperate it into your final dashboard before **(coming) Thursday of week 7 at 17:00!**. 
+Now, your mentor will gather your group and find your group a nice screen. Then in alphabetical order you will present your dashboard, which you can do in two ways:
+- **giving a demo**; a unguided approach where the audience is invited to operate the dashboard themselves. Here the user navigates through the dashboard which means he will write his own data-driven story to an extent and it's your dashboard design which guides and forms their story. You are encouraged to explain aspects of the dashboard along the way and suggest actions (e.g. click on this page/tickbox/bar) for the user to take.
+- **giving a walkthrough**; where you go through the entire dashboard starting at the introduction and ending at the conclusion to recap; How you tell the rest of you data-driven story is up to you! It's like a regular presentation but then instead of slides you have the pages of your dashboard to show.
 
+The main focus of the data-driven story is the problem and the solution; the discussion, where you propose an analysis (or discuss the one you made) and it's implications, consideration and potential next steps. The conclusion and references are of specific interest as these are receiving feedback for the first time. 
 
-### How to present? 
-You will start the walkthrough presentation by going through the entire dashboard starting at the introduction and ending at the conclusion; How you tell the rest of you data-driven story is up to you! The conclusion and references will be of specific interest as these are receiving feedback for the first time. 
+### How to provide feedback? 
+Scan the QR-code of the student who is presenting and fill in the questionnaire to provide them with feedback! Don't hesitate to ask questions in person after or during the presentation.
 
+### Collecting feedback
 Your mentor will provide each of you with a QR code which your peers can scan. The link takes them to a questionnaire which they can fill in to provide you with feedback. The questions corresponds to the assessment form for the ILO so it can give you a relieable estimate of the quality of your dashboard presentation and which improvement points still remain! The result of all the feedback is delivered to you after lunch in the form of a fancy data report (see example below)!
 
+Your peers and mentors will provide you with questions and feedback using the questionnaire but also in person. Make sure to keep your file for taking notes at the ready and record all important feedback you need to act on! If you get any action points from your mentor in your learning log or your peers using the questionnaire, you should refer to it in your learning log and try to incorperate it into your final dashboard before **(coming) Thursday of week 7 at 17:00!**. 
 
 <figure>
     <img src=".\assets\DS report example.jpg" />
@@ -48,8 +52,6 @@ Your mentor will provide each of you with a QR code which your peers can scan. T
 <br>
 
 
-### How to provide feedback? 
-Scan the QR-code of the student who is presenting and fill in the questionnaire to provide them with feedback! Don't hesitate to ask questions in person after or during the presentation.
 
 
 ## 2) Iterating using the CRISP-DM
@@ -65,12 +67,14 @@ The CRoss Industry Standard Process for Data Mining (CRISP-DM) is a process mode
 \
 <img src="./assets/CRISP-DM.png"/>
 
-In our project, we only go to step 4, asking ourselves: What modelling technique should we apply? We don't actually model our data, evaluate our model or deploy our data science solution. We'll do these steps in the different projects throughout the year.
+As you can see, step 1 clearly corresponds to the introduction section of our dashboard. While the EDA section (whether you create that in your dashboard or learning log) corresponds to step 2 and 3; it's common to switch back and forther between the EDA (data understanding and preparation) and modelling stage as you can see by the arrows going both ways. In our project, we only go to step 4; the discussion section in your template which is based on our 'findings' from the EDA, asking ourselves: What modelling technique should we apply? We don't actually model our data, evaluate our model or deploy our data science solution (unless you're more abitious). We'll do these steps in the different projects in the upcoming blocks throughout the year.
+
+So by meeting the steps in the dashboard template that you are given, you're automatically following the CRISP-DM approach! And, if you also manage to anticipate which steps to take next in your research; including steps 1 - 4 (e.g. collect more data on important factors, gain more business understanding to adress the problem) you are automatically apllying for the excellent criteria of ILO 4.1!
 
 Watch the following video:
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="640" height="360" src="https://www.linkedin.com/learning/embed/data-science-for-java-developers/crisp-dm-the-data-science-cycle?autoplay=false&claim=AQE7aNB0gsHrKgAAAXuehqfAMTIXw27ZETDk3v0n1ILbxgFR2EOcIxEpRz03FiIL4XLyHalA4ZJ36lGceHRjW7TPal_znC2dUvH76UCG363f60c2K1FwsVYdBHs4rUkiErgU-pMlHhQ0L56Z9ENgLmirSzdAQyPY2ATPF_aay-IyNh8KN5t_3Au1y7_O6oTQxehIxhQ6-4yLlqq78IOXzWSSLlcTPd8vkAqcnNI8X3hsu70GTIdR-m-mna9WUgzv0nmDdFbh7rBBB3hUTBflJpMrN5PhUR1W4uc6MlCcBXSzobvxegnf8YRGg_KK-Vv4K9hi-YF0AfzxFcjRk1NsvXRFxS0rksHa02VLxvI-lWPE7rs7xPua3Wz63qjj1NlTFhQ8M87N2DY3OajUN0AEbbk6R2Hn1iVg1R7spxMNiOcwWm5g0hH7LtYvM_rIoZmsxoUlYRSKyJGd4HktJXvjPx0Cyp0jJWv-VafYsLDpvHQ37ZhRVR0sN4A44XWQMRcZ84Y3Ub8vXv-v0zz7lgsf-Y2-yGPETdfEusC7lzCoxMcToFqvenZX7asL8D6CS4lxDPxcHzbMZZ5wuqXIDT5MK7hKAY5IuK9HCgf02YMKXDRkzc_5Ru5xDuX8OXliQXxhTi8q01T8NfuVC_QMluI2EnA2nuNYU0MT5qxPIo8HrWf1QtGcHucLJoJRlGN5RCMUUFpCue-7qNZcOs5YXqoTlhDL3nk2Db1EUb-fW153sudFh_ZKnoQ&lipi=urn%3Ali%3Apage%3Ad_learning_content%3BtSYxLf9mSWO8dG4Yt8KSVQ%3D%3D&licu" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true" frameborder="0" style="position:absolute;width:100%;height:100%;left:0"></iframe></div><p><strong><a href="https://www.linkedin.com/learning/data-science-for-java-developers/crisp-dm-the-data-science-cycle?trk=embed_lil">CRISP-DM: The data science cycle</a></strong> from <strong><a href="https://www.linkedin.com/learning/data-science-for-java-developers?trk=embed_lil">Data Science for Java Developers</a></strong> by <strong><a href="https://www.linkedin.com/learning/instructors/shaun-wassell?trk=embed_lil">Shaun Wassell</a></strong></p>
 
-Run through your Power BI file, run it and re-evaluate it for each of the steps in the CRISP-DM. If you want you can already propose step 4,5 and 6 in your discussion section but this is optional. Look at your dashboard and visualisations to see if there's anything that needs to be updated.
+Run through your Power BI file, run it and re-evaluate it for each of the steps in the CRISP-DM. If you want you can already propose step 5 and 6 in your discussion section but this is optional. Look at your dashboard and visualisations to see if there's anything that needs to be updated.
 
 Next, take a good look at the data report from the questionnaire your peers filled in! Which ILO criteria are still in doubt of being met? What can you do to improve your chances of meeting them?
 

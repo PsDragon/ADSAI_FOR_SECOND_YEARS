@@ -146,8 +146,9 @@ DataLab 2:
 *** 
 
 ## Project Requirements
+Consider each of these task as mandatory to complete your project:
 
-### Computer Vision Task
+### Computer Vision
 
 In the first three weeks of Block B, you will acquire foundational knowledge and understanding of the theories, principles, methods, and techniques related to the field of computer vision. For example, you will be made familiar with various object detection algorithms, which deploy a traditional or deep learning-based approach to localizing and classifying objects in visual media. In addition, we will teach you to apply these algorithms to annotated image datasets comprised of either real-life or synthetic data. 
 
@@ -159,7 +160,7 @@ To solve the project's computer vision task, you need to:
 - Build, (train), and evaluate a traditional and deep learning-based object detection algorithm
 - Incorporate your research findings in a technical report
 
-### Robotics and Reinforcement Learning Task
+### Robotics and Reinforcement Learning
 
 ### _Implement baseline controller_
 
@@ -178,24 +179,37 @@ Create and compare different reinforcement learning controllers using different:
 - hyperpameters 
 - reward fucntions
 
-  
+### Cognition
+Complete the cognition task by using cognitive theory and cognitive models to **conceptualize**, build (implemented in the 'Computer Vision' task & 'Robotics and Reinforcement Learning' task) and **improve on** the application.
+
+Evidence in technical report, and integrate in object detection algorithm:
+- Identifies appropriate perceptual features for object detection. (ILO 3.2 - Sufficient)
+- Identifies required prior-knowledge for contextualising object detection. (ILO 3.2 - Good)
+- Uses cognitive models of pattern recognition to improve feature and/or object detection. (ILO 3.2 - Excellent)
+
+Evidence in technical report, and integrate in robotic controller & reinforcement learning algorithm:
+- Identifies relevant environmental input required for situational awareness & setup for processing said input. (ILO 4.1 - Poor & Insufficient)
+- The robot controller can respond to different situational conditions using formal logic. (ILO 4.1 - Excellent)
+- Identifies relevant environmental input required for RL & setup for processing said input. (ILO 4.2 - Poor & Insufficient)
+- Suggestions for model improvement, real-world implementation, knowledge acquisition and decision-making are made. (ILO 4.2 - Excellent)
 
 ### Technical Report
 
-***
 
 ### BUas Ethics Review
-- Fill in [the template]()
-- Get accepted
+- Fill in [the template](https://github.com/BredaUniversityADSAI/ADS-AI/blob/28e3a92cda22e9942aa90bb4178cceeaca0eef7f/docs/Study%20Content/Research%20Methodology/Assets/BUas%20Research%20Ethics%20Review%20Application%20Form-H%202022.docx). (ILO 2.1 - Poor)
+- [Submit review and get accepted](https://edubuas.sharepoint.com/sites/researchdevelopment/SitePages/BUas-Research-Ethics-Review-Board.aspx). (ILO 2.1 - Insufficient & Sufficient)
 
 ### Research Data Management Plan
-- Follows [BUas guidelines](https://edubuas.sharepoint.com/sites/researchdevelopment/SitePages/Datamanagement.aspx)
-- Follow your planned procedures
-- Excecuted procedures ensured adhering to F.A.I.R. principles
+- Follows [BUas guidelines](https://edubuas.sharepoint.com/sites/researchdevelopment/SitePages/Datamanagement.aspx). (ILO 3.1 - Sufficient)
+- Follow your planned procedures as demonstrated by your data storage. (ILO 3.1 - Good)
+- Excecuted procedures ensured adhering to F.A.I.R. principles as demonstrated by your data storage. (ILO 3.1 - Excellent)
 
 ### Codebook
-- Fill in [the template](https://github.com/BredaUniversityADSAI/ADS-AI/blob/f020e08818bb64486e784e2447334fb866ee1df9/docs/Study%20Content/Research%20Methodology/Assets/Codebook_Template.md)
-- Meet the criteria set in the template
+- Fill in [the template](https://github.com/BredaUniversityADSAI/ADS-AI/blob/f020e08818bb64486e784e2447334fb866ee1df9/docs/Study%20Content/Research%20Methodology/Assets/Codebook_Template.md) (ILO 3.1 - Insufficient)
+- Meet the criteria set in the template. (ILO 3.1 - Sufficient, ILO 3.2 - Poor)
+
+***
 
 ## Project Deliverable(s)
 

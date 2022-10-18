@@ -14,10 +14,10 @@ In Block B, which spans eight weeks, you will explore one specific role within a
 
 | Name   |  Availability |  Week | Email  | Subject  |
 |---|---|---|---|---|
-| Dean van Aswegen (Mentor) <img src="./images/DeanProfile.jpg" alt="Dean van Aswegen profile picture" width="200"/> | Mon, Tues, Wed, Thur, Fri  |  Weeks 4-8 | aswegen.d@buas.nl | Robotics & Reinforcement learning | 
+| Dean van Aswegen (Mentor) <img src="./images/DeanProfile.jpg" alt="Dean van Aswegen profile picture" width="200"/> | Mon, Tue, Wed, Thu, Fri  |  Weeks 4-8 | aswegen.d@buas.nl | Robotics & Reinforcement learning | 
 | Alican Noyan (Lecturer), PhD.<img src="./images/AlicanProfile.jpg" alt="Alican Noyan profile picture" width="200"/>|  Mon, Wed, Thu, Fri  | Week 2 |  noyan.a@buas.nl | Traditional computer vision |
 | Irene van Blerck (Mentor), MSc. <img src="./images/IreneProfile.jpg" alt="Irene van Blerck profile picture" width="200"/> |  Tue, Wed, Thu, Fri | Weeks 1-3, 8 |  blerck.i@buas.nl | Data collection/annotation & DL computer vision |
-| Bram Heijligers (Lecturer), MSc. <img src="./images/BramProfile.jpg" alt="Bram Heijligers profile picture" width="200"/> |  Wed, Thur, Fri | Week 1 & 5 | heijligers.b@buas.nl | Cognition & Data Management | 
+| Bram Heijligers (Lecturer), MSc. <img src="./images/BramProfile.jpg" alt="Bram Heijligers profile picture" width="200"/> |  Wed, Thu, Fri | Week 1 & 5 | heijligers.b@buas.nl | Cognition & Data Management | 
 | Frank Peters, PhD. <img src="./images/FrankProfile.jpeg" alt="Frank Peters profile picture" width="200"/> | Mon, Tue, Wed, Thu |  Omnipresent | peters.f@buas.nl | Supreme Leader of the ADSAI Department, A.K.A. 'El Patron'  |
 
 ***

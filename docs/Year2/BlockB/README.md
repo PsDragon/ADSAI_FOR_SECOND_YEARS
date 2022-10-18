@@ -30,7 +30,7 @@ In the past five years, leading companies like Philips and Nokia have started in
 
 *Figure 1. WWA employers working on robot arm.*
 
-WWA, a regional SME in manufacturing-process automation,  hereafter the client, has approached you as an – Artificial Intelligence Researcher – to digitilize its business processes by designing and developing a practical, Industry 4.0, robotics application that can perform bin picking by applying (advanced) reinforcement, cognitive models and computer vision algorithms. 
+[WWA](https://www.wwa.nl/), a regional SME in manufacturing-process automation,  hereafter the client, has approached you as an – Artificial Intelligence Researcher – to digitilize its business processes by designing and developing a practical, Industry 4.0, robotics application that can perform bin picking by applying (advanced) reinforcement, cognitive models and computer vision algorithms. 
 
 Good luck!
 
@@ -47,7 +47,7 @@ Note: During Weeks 1-2, you will work in a project group, Weeks 3-8 are devoted 
 
 The block starts with a kick-off lecture. 
 
-- [Field trip: WWA]()
+- <mark>Field trip (WWA): 15th of November, 10:00-12:00 (Further details will follow).</mark>
 - [ICT setup](../../Study%20Content/MLOps/MLOps1.html)
 - [WSL2 Setup](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/WSL2.html)
 - [Robotic Simulation Primer](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/Robotic%20Simulation%20Primer.html)

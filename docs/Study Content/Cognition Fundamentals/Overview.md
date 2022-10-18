@@ -2,9 +2,13 @@
 sort: 1
 ---
 
-# 1. Cognition: Overview & Sources
-Some intro info
+# 1. Cognition Fundamentals: Overview & Sources
 
+## What is cognition?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R-sVnmmw6WY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## And where did it come from?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AeoyzqmyWug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Cognitive Robotics:
 Cognitive robots achieve their goals by perceiving their environment, paying attention to the events that matter, planning what to do, anticipating the outcome of their actions and the actions of other agents, and learning from the resultant interaction. They deal with the inherent uncertainty of natural environments by continually learning, reasoning, sharing their knowledge and making decision based on that knowledge.
@@ -22,6 +26,11 @@ Cognitive robots achieve their goals by perceiving their environment, paying att
 3. [Learning & Decision-making - Self-study material]()
 4. [Decision-making & Actions - Self-study material]()
 5. [Decision-making & Actions - Datalab material]()
+
+
+## Cognition for Natural Language Proccessing (Y2C)
+6. [Cognitive Models of Language Learning]()
+
 
 ## Templates & Models
 -	[Working Memory](https://docs.google.com/document/d/166AeV0NsMyyLlpPOaeC1Xo0bSvLRM_HN?rtpof=true&authuser=bram.heijligers%40gmail.com&usp=drive_fs); and how to use it ...

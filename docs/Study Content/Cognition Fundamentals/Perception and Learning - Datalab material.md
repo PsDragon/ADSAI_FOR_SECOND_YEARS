@@ -2,7 +2,7 @@
 sort: 3
 ---
 
-# 1. Perception - Datalab
+# 1. Perception & Learning - Datalab
 
 ## Learning Objectives: 
 1. Identify appropriate perceptual features for object detection.

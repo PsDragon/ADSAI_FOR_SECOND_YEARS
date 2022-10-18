@@ -24,9 +24,9 @@ Some challenges related to the 'High Robustness to Intraclass Variations' branch
 
 <img src="./images/ObjectDetectionChallengesTaxonomyExamples.png" alt="Taxonomy of object detection challenges examples" width="600"/>
 
-*Figure 2. Examples of challenges related to High Robustness to Intraclass Variations by Liu et al. (2019).*
+*Figure 2. Examples of challenges related to 'High Robustness to Intraclass Variations' by Liu et al. (2019).*
 
-In our use case, we will most likely face challenges presented in the branch 'High Robustness to Intraclass Variations'. Problems related to 'High Distictiveness' and 'High efficiency' become more prominent when working with a large number of classes, complex environments (e.g., multiple backgrounds), and large datasets (See, Figure 1.). 
+In our use case, we will most likely face challenges presented in the branch 'High Robustness to Intraclass Variations'. Problems related to 'High Distictiveness' and 'High Efficiency' become more prominent when working with a large number of classes, complex environments (e.g., multiple backgrounds), and large datasets (See, Figure 1.). 
 
 __Nice, that you listed all these challenges, but we just need to know how many training images we need to get a good-performing model...__
 
@@ -47,9 +47,9 @@ The number of data instances needed to train a good object detection model depen
 
 > A human can probably quickly learn to distinguish between beer and wine, with just a few samples. He will have to try different wines quite more often to distinguish between 5-6 different sorts of red wines, and for many humans it will be challenging to learn to distinguish between 50 different flavors of red wines. At least one will have to practice a lot. Similarly, neural networks would quickly be able to distinguish between elephants and cats, but they would need many more samples to classify 30 different animals ([Source](https://cloud.google.com/vision/automl/object-detection/docs/prepare)).
 
-The researchers at Google recommend having '... at least 100 training samples per class if you have distinctive and few classes, and more than 200 training samples if the classes are more nuanced and you have more than 50 different classes'([Source](https://cloud.google.com/vision/automl/object-detection/docs/prepare)).
+The researchers at Google recommend having '... at least 100 training samples per class if you have distinctive and few classes, and more than 200 training samples if the classes are more nuanced and you have more than 50 different classes' ([Source](https://cloud.google.com/vision/automl/object-detection/docs/prepare)).
 
-Joseph Redmon one of the creators of the YOLO algorithm, even states that you need a minimum of 2000 * number of classes for your model to reach optimal accuracy: 
+Joseph Redmon one of the creators of the original YOLO algorithm, even states that you need a minimum of 2000 * number of classes for your model to reach optimal accuracy: 
 
 > For each object which you want to detect - there must be at least 1 similar object in the Training dataset with about the same: shape, side of object, relative size, angle of rotation, tilt, illumination. So desirable that your training dataset include images with objects at different: scales, rotations, lightings, from different sides, on different backgrounds - you should preferably have 2000 different images for each class or more, and you should train 2000*classes iterations or more ([Source](https://github.com/AlexeyAB/darknet#how-to-improve-object-detection)). 
 
@@ -135,6 +135,8 @@ Remember, for this project, we need to create two real-life image datasets:
 __1. 'Easy' object detection task__
 
 - 3-5 classes representing a geometric shape (e.g., green cube, yellow cube, red pyramid, etc.).
+- Background: Box/bin
+- 'Scraping' the web for images is not allowed! You will have to generate the images yourself. 
 
 One way to create these objects is by applying origami techniques to a piece of paper:
 
@@ -144,14 +146,14 @@ One way to create these objects is by applying origami techniques to a piece of 
 
 Keep in mind, this dataset should be created in such a way that it can be recreated in a robotic simulation environment. So, no complex geometric figures, please! 
 
-__2. 'Difficult' object detection task__
-
-There are no requirements regarding this dataset; feel free to select the type, and/or number of classes. 
-
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Tip: <a href="https://www.dvdvideosoft.com/products/dvd/Free-Video-to-JPG-Converter.htm">Free Video to JPG Converter</a>, an open-source software package, 
-will enable you to create a video and convert it into a collection of images.
+will enable you to create a video and convert it into a collection of images. 
 </div>
+
+__2. 'Difficult' object detection task__
+
+There are no requirements regarding this dataset; feel free to select the type, and/or number of classes, background(s), etc. 
 
 ### 1.4 Synthetic image dataset 
 

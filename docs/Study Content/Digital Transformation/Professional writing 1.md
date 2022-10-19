@@ -77,6 +77,7 @@ Create a folder on GitHub and store all the checklists and hand-outs.
 
 ## __Literature__
 American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.)
+American Psychological Association. (2021, September 8). *Instructional aids.* American Psychological Association. Retrieved October 19, 2022, from https://apastyle.apa.org/instructional-aids 
 
 George Mason University Writing Center. (2017). *Reducing informality in academic writing.* https://d101vc9winf8ln.cloudfront.net/documents/26773/original/Reducing_Informality_in_Academic_WritingATI.pdf?1565036151
 

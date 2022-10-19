@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-## __Professional writing (2): Citation & Mechanics of style of effective writing.__
+## __Professional writing (2): Citation.__
 \
 <img src="./images/books_banner.png" alt="Books banner" width="600">
 

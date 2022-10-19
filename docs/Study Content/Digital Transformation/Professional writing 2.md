@@ -20,6 +20,17 @@ __Make sure to upload all the answers to the questions listed below to your GitH
 
 Besides of writing correctly, it's very important to be able to cite correctly. In this section, you will learn everything about citations using APA. At the end of this section, you are expected to complete a quiz to check your knowledge. 
 
+__2a__ Watch video about plagiarism. This video will inform you about when to cite in order to avoid plagiarism.Keep in mind, that plagiarism is not allowed within our educational institution. In case of plagiarism, students might face serious circumstances.
+
+<!-- blank line -->
+<figure class="video_container">
+<iframe width="560" height="315" src="www.youtube.com/embed/Pmab92ghG0M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
+
+*Video 1. 'What is plagiarism and how to avoid it' by Brock University Library.*
+
+__2b__
 
 __2a__ Read carefully the Publication Manual of the APA style guide 7.
 

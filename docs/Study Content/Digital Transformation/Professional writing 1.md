@@ -28,6 +28,8 @@ Before we begin acquiring new skills, it's important to highlight that during to
 
 *Video 1. 'What is APA and why should you learn to use it?' by MadeEZ4U.*
 
+__2a__ Check information about general APA guidelines by clicking [this link](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/general_format.html).
+
 ***
 
 ### 3. Writing style
@@ -71,7 +73,9 @@ __4b__ Read information from [the checklist](https://apastyle.apa.org/instructio
 
 ### 4. Homework
 
-Create a folder on GitHub and store all the checklists and hand-outs. 
+__4a__ Create a folder on GitHub and store all the checklists and hand-outs. 
+
+__4b__ Create an APA title page for the report you are writing for this block.  Upload the title page to GitHub.
 
 ***
 

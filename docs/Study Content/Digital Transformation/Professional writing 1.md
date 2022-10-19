@@ -42,11 +42,11 @@ __3c__ Read [the hand-out on Reducing Informality in Academic Writing](https://d
 
 __3e__ Download and read [the hand-out on Linking Words](https://www.smart-words.org/linking-words/linking-words.pdf). The hand-out will help you with writing your final report.
 
-__3f__ Download and read [the hand-out on Abbreviations Guide](https://apastyle.apa.org/instructional-aids/abbreviations-guide.pdf)
+__3f__ Download and read [the hand-out on Abbreviations Guide](https://apastyle.apa.org/instructional-aids/abbreviations-guide.pdf).
 
-__3g__ Download and read [Numbers and Statistics Guide](https://apastyle.apa.org/instructional-aids/numbers-statistics-guide.pdf)
+__3g__ Download and read [Numbers and Statistics Guide](https://apastyle.apa.org/instructional-aids/numbers-statistics-guide.pdf).
 
-__3h__ Download and read [Transitions Guide ](https://apastyle.apa.org/instructional-aids/style-transitions-guide.pdf)
+__3h__ Download and read [Transitions Guide ](https://apastyle.apa.org/instructional-aids/style-transitions-guide.pdf).
 
 ***
 

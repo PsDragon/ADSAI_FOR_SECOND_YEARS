@@ -2,18 +2,23 @@
 sort: 1
 ---
 
-## __Scientific writing (2): Citation & Mechanics of style of effective writing.__
+## __Professional writing (2): Citation & Mechanics of style of effective writing.__
 \
 <img src="./images/books_banner.png" alt="Books banner" width="600">
 
 ### 1. Introduction
-Today you will continue developing scientific writing skills. The topics of today are Citation & Mechanics of style of effective writing.
+
+Today you will continue developing your writing skills. The topics of today are Citation & Mechanics of style of effective writing.
 By the end of  today, we expect you to complete all the readings and finish the exercises. It will help you to prepare for the final assignment.  
 
-If you have questions regarding the study material, you can send us an email or attend the Q&A session at the end of each self-study day. During the Q&A session, we will extensively discuss the independent study material. For details on availability see Project Brief.
+If you have questions or issues regarding the course material, please fill out the 'Ask me Anything?' [form](https://adsai.buas.nl/Contact%20Us/AskMeAnything.html). A member of our teaching staff will respond as soon as possible.
+
+__Make sure to upload all the answers to the questions listed below to your GitHub account.__
 
 ***
 ### 2. Citation
+
+
 
 __2a__ Read carefully the Publication Manual of the APA style guide 7.
 
@@ -165,20 +170,9 @@ __3a__	Read the chapter 6 of APA 7th Edition (2020). The chapter 6 provides with
 
 ***
 
-### 4. Reflection and Q&A (16:00-17:00)
+### 4. Additional resources
 
-__4a__ Ask question(s) related to the independent study material.
 
-__4b__ Choose, and provide an answer to at least of the following questions:
-
-1. What surprised you today, and why?
-2. What is the most important thing you learned today? Why do you think so?
-3. What do you want to learn more about, and why?
-4. When were you the most creative, and why do you think that is?
-5. What made you curious today? How does learning feel different when you are curious?
-6. When were you at your best today, and why?
-7. (Assuming we were studying the same thing and you could decide and have access to anything), where would you start tomorrow? Why?
-8. What can/should you do with what you know?
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Tip: the exercise is format-free, meaning you can answer in any way or form you see suited. Make a drawing, write a piece of text, create a video, etc.

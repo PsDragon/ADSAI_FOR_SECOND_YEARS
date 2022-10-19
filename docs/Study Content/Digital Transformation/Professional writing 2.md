@@ -25,7 +25,7 @@ __2a__ Watch video about plagiarism. This video will inform you about when to ci
 
 <!-- blank line -->
 <figure class="video_container">
-<iframe width="560" height="315" src="www.youtube.com/embed/Pmab92ghG0M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Pmab92ghG0M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 <!-- blank line -->
 
@@ -68,7 +68,7 @@ __2g__ Dowmload and check [Common Reference Examples Guide](https://apastyle.apa
 
 ### 3. Exercise to check your knowledge
 
-__3a__ Complete an exercise on APA style to check your knowledge and understanding. __Make sure to upload this exercise to GitHub__
+__3a__ Complete an exercise on APA style to check your knowledge and understanding. __Make sure to upload this exercise to GitHub.__
 
 __Find the Citation Error__
 
@@ -109,7 +109,7 @@ ___●	Catch the Error and Correct the Mistake #9___
 Most experts believed the effects would be disastrous (NIMH 2017). For example, 8 of those surveyed believed supplies would run out within 24 hours. Not surprisingly, only 2 out of 15 thought survival was possible after thirty-six hours.
       __(Assume NIMH is introduced here for the first time)__
 
-__3b__ Compare your answers and read the explanations
+__3b__ Compare your answers and read the explanations.
 
 ___●	Catch the Error and Correct the Mistake #1___
 

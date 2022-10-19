@@ -69,10 +69,6 @@ __4b__ Read information from [the checklist](https://apastyle.apa.org/instructio
 
 ***
 
-### 4. Citations
-
-Besides of writing correctly, it's very important to be able to cite correctly. In this section, you will learn everything about citations using APA. At the end of this section, you are expected to complete a quiz to check your knowledge. 
-
 ### 4. Homework
 
 Create a folder on GitHub and store all the checklists and hand-outs. 

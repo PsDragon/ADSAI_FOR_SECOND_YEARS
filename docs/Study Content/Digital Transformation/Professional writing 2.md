@@ -18,6 +18,7 @@ __Make sure to upload all the answers to the questions listed below to your GitH
 ***
 ### 2. Citation
 
+Besides of writing correctly, it's very important to be able to cite correctly. In this section, you will learn everything about citations using APA. At the end of this section, you are expected to complete a quiz to check your knowledge. 
 
 
 __2a__ Read carefully the Publication Manual of the APA style guide 7.

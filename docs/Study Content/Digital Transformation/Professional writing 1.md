@@ -58,7 +58,7 @@ __4a__ Watch a video on Bias-free language
 
 <!-- blank line -->
 <figure class="video_container">
-<iframe width="560" height="315" src="www.youtube.com/embed/xCsRIVpvYAo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xCsRIVpvYAo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 <!-- blank line -->
 

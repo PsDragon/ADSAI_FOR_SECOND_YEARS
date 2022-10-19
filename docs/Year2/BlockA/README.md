@@ -155,10 +155,9 @@ Your final (<mark>group</mark>) deliverable is a [Data Management plan](https://
 Your final (<mark>individual</mark>) deliverables are:
 - [ ] a research proposal detailing your research plan (max 1000 words) documenting your research question and study design (APA style, Latex formatted).
 - [ ] scientific report (max 5000 words) documenting your complete research cycle (introduction, methods, results, discussion; APA style, Latex formatted).
-- [ ] conference presentation.
 
 
-> The best presentations will be invited to present their findings to the domain heads via a presentation.
+> The best papers will be invited to present their findings to the domain heads via a presentation.
 <br>
 
  ### Medal Challenges

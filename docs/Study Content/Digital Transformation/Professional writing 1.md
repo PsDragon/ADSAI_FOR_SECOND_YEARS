@@ -25,7 +25,8 @@ Before we begin acquiring new skills, it's important to highlight that during to
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u_fq8CyaPMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 <!-- blank line -->
-*Video 1. "What is APA and why should you learn to use it?" by MadeEZ4U.*
+
+*Video 1. 'What is APA and why should you learn to use it?' by MadeEZ4U.*
 
 ***
 
@@ -49,9 +50,22 @@ __3h__ Download and read [Transitions Guide ](https://apastyle.apa.org/instructi
 
 ***
 
-### 3. Bias-Free Language
+### 4. Bias-Free Language
 
-__3a__ Read the chapter 5 of APA 7th Edition (2020). The chapter 5 presents bias-free guidelines that will teach you to write reports with inclusivity and respect.
+Bias-free language is a language that is sensitive to gender, race, age, disability, class, or sexual orientation.It is crucial to use language that is clear, objective, and stereotype-free. Bias-free language does not discriminate and contains all readers in a fair and friendly manner.
+
+__4a__ Watch a video on Bias-free language
+
+<!-- blank line -->
+<figure class="video_container">
+<iframe width="560" height="315" src="www.youtube.com/embed/xCsRIVpvYAo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
+
+*Video 2. 'Bias-Free Language in APA-Style Academic Writing' by David S. Murphy, Ph.D.*
+
+__4b__ Read information from [the checklist](https://apastyle.apa.org/instructional-aids/publication-manual-formatting-checklist.pdf) on bias-free language (page 3). This information will teach you to write reports with inclusivity and respect.
+
 
 ***
 

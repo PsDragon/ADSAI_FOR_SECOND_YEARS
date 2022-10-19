@@ -16,6 +16,7 @@ If you have questions or issues regarding the course material, please fill out t
 __Make sure to upload all the answers to the questions listed below to your GitHub account.__
 
 ***
+
 ### 2. Citation
 
 Besides of writing correctly, it's very important to be able to cite correctly. In this section, you will learn everything about citations using APA. At the end of this section, you are expected to complete a quiz to check your knowledge. 
@@ -30,11 +31,44 @@ __2a__ Watch video about plagiarism. This video will inform you about when to ci
 
 *Video 1. 'What is plagiarism and how to avoid it' by Brock University Library.*
 
-__2b__
+__2b__ Watch video by Purdue OWL on in-text citations.
 
-__2a__ Read carefully the Publication Manual of the APA style guide 7.
+<!-- blank line -->
+<figure class="video_container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yi6GXPhybs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
 
-__2b__ Complete an exercise on APA style to check your knowledge and understanding.
+*Video 2. 'APA 7th Edition: In-Text Citations' by Purdue OWL.*
+
+__2c__ Watch video by Purdue OWL on References (Part I).
+
+<!-- blank line -->
+<figure class="video_container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qQ0iUeUxazM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
+
+*Video 3. 'APA 7th Edition: References | Part I' by Purdue OWL.*
+
+__2d__ Watch video by Purdue OWL on References (Part II).
+
+<figure class="video_container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7FXMuW0qY9k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
+
+*Video 4. 'APA 7th Edition: References | Part II' by Purdue OWL.*
+
+__2e__ Read carefully the Publication Manual of the [APA style guide 7](https://edubuas.sharepoint.com/:b:/t/Generalstudyinformation-ADSAI/EYvzFl4xwBJKpb4MAesICs8BxyRs0WkYM3UBYcgaUyn6pg?e=wzaEyi).
+
+__2f__ Download and check [Reference Guide for Journal Articles, Books, and Edited Book Chapters](https://apastyle.apa.org/instructional-aids/reference-guide.pdf)
+
+__2g__ Dowmload and check [Common Reference Examples Guide](https://apastyle.apa.org/instructional-aids/reference-examples.pdf)
+
+### 3. Exercise to check your knowledge
+
+__3a__ Complete an exercise on APA style to check your knowledge and understanding. __Make sure to upload this exercise to GitHub__
 
 __Find the Citation Error__
 
@@ -75,7 +109,7 @@ ___●	Catch the Error and Correct the Mistake #9___
 Most experts believed the effects would be disastrous (NIMH 2017). For example, 8 of those surveyed believed supplies would run out within 24 hours. Not surprisingly, only 2 out of 15 thought survival was possible after thirty-six hours.
       __(Assume NIMH is introduced here for the first time)__
 
-__2c__ Compare your answers and read the explanations
+__3b__ Compare your answers and read the explanations
 
 ___●	Catch the Error and Correct the Mistake #1___
 
@@ -115,7 +149,7 @@ __REVISED__
 
 ●	Duberman et al. (2019) determined that violent video games create aggression in adolescents.
 
-●	Explanation: “et al.” is used in-text citations for works with three or more authors.
+●	Explanation: __“et al.”__ is used in-text citations for works with three or more authors.
 
 ●	Parenthetical citation would be: (Duberman et al., 2019).
 
@@ -145,8 +179,7 @@ ___●	Catch the Error and Correct the Mistake #6___
 
   __REVISED__
 
-  ●	Bretschneider, J. G., & McCoy, N. L. (2020). 	Social media habits of 65-75-year-olds.
-         Journal of Communication, 14, 343-350.
+  ●	Bretschneider, J. G., & McCoy, N. L. (2020). 	Social media habits of 65-75-year-olds. *Journal of Communication*, 14, 343-350.
 
   ●	Explanation: 1) only initials for first names; 2) year in parentheses followed by period; 3) lower case in article title; 4) italicize journal name and capitalize first letters; 5) no “Vol.,” just italicize; 6) no “pp.”; 7) hanging indent.
 
@@ -156,15 +189,14 @@ ___●	Catch the Error and Correct the Mistake #8___
 
   __REVISED__
 
-  ●	Hashimoto, T. (2010, March 13). Seeing red in November. Newsweek, 199, 23.
-    Hashimoto, Thomas. (March 13, 2010, p. 23). Seeing Red in November. Newsweek, vol. 199.
-
+  ●	Hashimoto, T. (2010, March 13). Seeing red in November. *Newsweek*, 199, 23.
+    
   ●	Explanation: Only initial for first name. Year comes first, then comma, then month and day, all in parentheses. Title of magazine is italicized, followed by comma, volume number italicized, then page number(s). Hanging indent.
 
 ___●	Catch the Error and Correct the Mistake #9___   
 
   Most experts believed the effects would be disastrous (NIMH 2017). For example, 8 of those surveyed believed supplies would run out within 24 hours. Not surprisingly, only 2 out of 15 thought survival was possible after thirty-six hours.
-      (Assume NIMH is introduced here for the first time.)
+  (Assume NIMH is introduced here for the first time.)
 
  __REVISED__
 
@@ -172,18 +204,13 @@ ___●	Catch the Error and Correct the Mistake #9___
 
  ●	Explanation: Number and abbreviation rules.
 
-__2c__ Please go to Microsoft Word and use APA template for your assignment
+
+***
+### 3. Additional resources
+
 
 
 ***
-### 3. Mechanics of style
-
-__3a__	Read the chapter 6 of APA 7th Edition (2020). The chapter 6 provides with the information about mechanics  of  style that include  punctuation, capitalization, abbreviations, numbers, and statistics in text.
-
-***
-
-### 4. Additional resources
-
 
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">

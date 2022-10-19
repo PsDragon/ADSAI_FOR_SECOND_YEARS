@@ -14,11 +14,11 @@ In Block B, which spans eight weeks, you will explore one specific role within a
 
 | Name   |  Availability |  Week | Email  | Subject  |
 |---|---|---|---|---|
-| Dean van Aswegen (Mentor) <img src="./images/DeanProfile.jpg" alt="Dean van Aswegen profile picture" width="200"/> | Mon, Tues, Wed, Thur, Fri  |  Weeks 4-8 | aswegen.d@buas.nl | Robotics & Reinforcement learning | 
+| Dean van Aswegen (Mentor) <img src="./images/DeanProfile.jpg" alt="Dean van Aswegen profile picture" width="200"/> | Mon, Tue, Wed, Thu, Fri  |  Weeks 4-8 | aswegen.d@buas.nl | Robotics & Reinforcement learning | 
 | Alican Noyan (Lecturer), PhD.<img src="./images/AlicanProfile.jpg" alt="Alican Noyan profile picture" width="200"/>|  Mon, Wed, Thu, Fri  | Week 2 |  noyan.a@buas.nl | Traditional computer vision |
 | Irene van Blerck (Mentor), MSc. <img src="./images/IreneProfile.jpg" alt="Irene van Blerck profile picture" width="200"/> |  Tue, Wed, Thu, Fri | Weeks 1-3, 8 |  blerck.i@buas.nl | Data collection/annotation & DL computer vision |
-| Bram Heijligers (Lecturer), MSc. <img src="./images/BramProfile.jpg" alt="Bram Heijligers profile picture" width="200"/> |  Wed, Thur, Fri | Week 1  | heijligers.b@buas.nl | Data management & Cognition | 
-| Frank Peters, PhD. <img src="./images/FrankProfile.jpeg" alt="Frank Peters profile picture" width="200"/> | Mon, Tue, Wed, Thu |  NA | peters.f@buas.nl | NA  |
+| Bram Heijligers (Lecturer), MSc. <img src="./images/BramProfile.jpg" alt="Bram Heijligers profile picture" width="200"/> |  Wed, Thu, Fri | Week 1 & 5 | heijligers.b@buas.nl | Cognition & Data Management | 
+| Frank Peters, PhD. <img src="./images/FrankProfile.jpeg" alt="Frank Peters profile picture" width="200"/> | Mon, Tue, Wed, Thu |  Omnipresent | peters.f@buas.nl | Supreme Leader of the ADSAI Department, A.K.A. 'El Patron'  |
 
 ***
 
@@ -30,7 +30,7 @@ In the past five years, leading companies like Philips and Nokia have started in
 
 *Figure 1. WWA employers working on robot arm.*
 
-WWA, a regional SME in manufacturing-process automation,  hereafter the client, has approached you as an – Artificial Intelligence Researcher – to digitilize its business processes by designing and developing a practical, Industry 4.0, robotics application that can perform bin picking by applying (advanced) reinforcement, cognitive models and computer vision algorithms. 
+[WWA](https://www.wwa.nl/), a regional SME in manufacturing-process automation,  hereafter the client, has approached you as an – Artificial Intelligence Researcher – to digitilize its business processes by designing and developing a practical, Industry 4.0, robotics application that can perform bin picking by applying cognitive models, and(advanced) reinforcement learning and computer vision algorithms. 
 
 Good luck!
 
@@ -47,11 +47,11 @@ Note: During Weeks 1-2, you will work in a project group, Weeks 3-8 are devoted 
 
 The block starts with a kick-off lecture. 
 
-- [Field trip: WWA]()
+- <mark>Field trip (WWA): 15th of November, 10:00-12:00 (Further details will follow).</mark>
 - [ICT setup](../../Study%20Content/MLOps/MLOps1.html)
 - [WSL2 Setup](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/WSL2.html)
 - [Robotic Simulation Primer](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/Robotic%20Simulation%20Primer.html)
-- [Data collection]()
+- [Data collection](../../Study%20Content/ComputerVision/ComputerVisionDataCollection.html)
 - [Data management](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html)
 
 In this block we don't work with humans or animals but with robots which makes our lives much easier! Therefore, we don't need to bother ourselves with a letter of informed consent or a research information letter. For this block we need to use and fill in the following templates: [ ] BUas Ethics Review; [ ] Research Data Management Guide; [ ] Codebook. *This is a group deliverable*, so you can all hand-in the same files; and evidence that you did follow through with you Research Data Management Plan & Procedures described in there. Make sure that you contribute to each of these deliverables and are able to evidence this!
@@ -146,8 +146,9 @@ DataLab 2:
 *** 
 
 ## Project Requirements
+Consider each of these task as mandatory to complete your project:
 
-### Computer Vision Task
+### Computer Vision
 
 In the first three weeks of Block B, you will acquire foundational knowledge and understanding of the theories, principles, methods, and techniques related to the field of computer vision. For example, you will be made familiar with various object detection algorithms, which deploy a traditional or deep learning-based approach to localizing and classifying objects in visual media. In addition, we will teach you to apply these algorithms to annotated image datasets comprised of either real-life or synthetic data. 
 
@@ -159,7 +160,7 @@ To solve the project's computer vision task, you need to:
 - Build, (train), and evaluate a traditional and deep learning-based object detection algorithm
 - Incorporate your research findings in a technical report
 
-### Robotics and Reinforcement Learning Task
+### Robotics and Reinforcement Learning
 
 ### _Implement baseline controller_
 
@@ -178,9 +179,35 @@ Create and compare different reinforcement learning controllers using different:
 - hyperpameters 
 - reward fucntions
 
-  
+### Cognition
+Complete the cognition task by using cognitive theory and cognitive models to **conceptualize**, build (implemented in the 'Computer Vision' task & 'Robotics and Reinforcement Learning' task) and **improve on** the application.
+
+Evidence in technical report, and integrate in object detection algorithm:
+- Identifies appropriate perceptual features for object detection. (ILO 3.2 - Sufficient)
+- Identifies required prior-knowledge for contextualising object detection. (ILO 3.2 - Good)
+- Uses cognitive models of pattern recognition to improve feature and/or object detection. (ILO 3.2 - Excellent)
+
+Evidence in technical report, and integrate in robotic controller & reinforcement learning algorithm:
+- Identifies relevant environmental input required for situational awareness & setup for processing said input. (ILO 4.1 - Poor & Insufficient)
+- The robot controller can respond to different situational conditions using formal logic. (ILO 4.1 - Excellent)
+- Identifies relevant environmental input required for RL & setup for processing said input. (ILO 4.2 - Poor & Insufficient)
+- Suggestions for model improvement, real-world implementation, knowledge acquisition and decision-making are made. (ILO 4.2 - Excellent)
 
 ### Technical Report
+
+
+### BUas Ethics Review
+- Fill in [the template](https://github.com/BredaUniversityADSAI/ADS-AI/blob/28e3a92cda22e9942aa90bb4178cceeaca0eef7f/docs/Study%20Content/Research%20Methodology/Assets/BUas%20Research%20Ethics%20Review%20Application%20Form-H%202022.docx). (ILO 2.1 - Poor)
+- [Submit review and get accepted](https://edubuas.sharepoint.com/sites/researchdevelopment/SitePages/BUas-Research-Ethics-Review-Board.aspx). (ILO 2.1 - Insufficient & Sufficient)
+
+### Research Data Management Plan
+- Follows [BUas guidelines](https://edubuas.sharepoint.com/sites/researchdevelopment/SitePages/Datamanagement.aspx). (ILO 3.1 - Sufficient)
+- Follow your planned procedures as demonstrated by your data storage. (ILO 3.1 - Good)
+- Excecuted procedures ensured adhering to F.A.I.R. principles as demonstrated by your data storage. (ILO 3.1 - Excellent)
+
+### Codebook
+- Fill in [the template](https://github.com/BredaUniversityADSAI/ADS-AI/blob/f020e08818bb64486e784e2447334fb866ee1df9/docs/Study%20Content/Research%20Methodology/Assets/Codebook_Template.md) (ILO 3.1 - Insufficient)
+- Meet the criteria set in the template. (ILO 3.1 - Sufficient, ILO 3.2 - Poor)
 
 ***
 
@@ -190,10 +217,16 @@ __Group:__
 
 - Three (3) annotated image datasets for object detection
 - GitHub folders with README.md
+- [BUas Ethics Review](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html#templates)
+- [Research Data Management Plan](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html#templates)
+- [Codebook](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html#templates)
 
 __Individual:__
 
 - Technical report
+- Object detection algorithm
+- Reinforcement learning model
+- Robot controller
 
 <mark>For details, see self-assessment rubric.</mark>
 

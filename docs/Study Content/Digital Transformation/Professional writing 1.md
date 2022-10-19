@@ -68,7 +68,6 @@ __4a__ Watch a video on Bias-free language
 
 __4b__ Read information from [the checklist](https://apastyle.apa.org/instructional-aids/publication-manual-formatting-checklist.pdf) on bias-free language (page 3). This information will teach you to write reports with inclusivity and respect.
 
-
 ***
 
 ### 4. Homework

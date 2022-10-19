@@ -226,4 +226,8 @@ There are several useful resources provided by our university and [Purdue Owl](h
 
 ## __Literature__
 
-American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.)
+American Psychological Association. (2020). *APA style guide* (7th ed.)
+
+American Psychological Association. (2022). *Reference Guide for Journal Articles, Books, and Edited Book Chapters.* https://apastyle.apa.org/instructional-aids/reference-guide.pdf
+
+American Psychological Association. (2022). *Common Reference Examples Guide.* https://apastyle.apa.org/instructional-aids/reference-examples.pdf

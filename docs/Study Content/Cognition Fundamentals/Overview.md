@@ -2,31 +2,44 @@
 sort: 1
 ---
 
-# 1. Cognition: Overview & Sources
-Some intro info
+# 1. Overview & Sources
+
+## What is cognition?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R-sVnmmw6WY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Note that learning is actually a big part of cognition; after all what good is processing information if you don't learn; store information to interact more efficiently with your environment (intelligence = efficient environmental interaction given some goal ~), from it? But psychology views things a bit differently sometimes: it's a young evolving field like AI and Data Science!
+
+## And where did it come from and how does it relate to AI?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AeoyzqmyWug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Note that [the cognitive revolution was a wider phenomena](https://en.wikipedia.org/wiki/Cognitive_revolution) and not a Harvard invention but he is a proffessor at Harvard so who can blame him for doing some marketing? Great explainer though and ties well to our (symbolic) AI approach!
 
 
-## Cognitive Robotics:
+
+## Year 2B - Cognitive Robotics:
 Cognitive robots achieve their goals by perceiving their environment, paying attention to the events that matter, planning what to do, anticipating the outcome of their actions and the actions of other agents, and learning from the resultant interaction. They deal with the inherent uncertainty of natural environments by continually learning, reasoning, sharing their knowledge and making decision based on that knowledge.
+
+### Course materials by Topic:
+1. [Perception - Self-study material](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Perception%20-%20Self-study%20material.html): Visual-Cognition, Mid-level vision, high-level vision, top-down & bottom-up processing for object recognition.
+2. [Learning - Self-study material](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Learning%20Self-study%20material.html): Associative Reinforment Learning, Rewards, Latent learning, Classical conditioning. 
+3. [Perception & Learning - Datalab material](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Perception%20and%20Learning%20-%20Datalab%20material.html): Apply the above to the creative brief.
+4. [Decision-making - Self-study material](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Decision-making%20&%20Actions%20-%20Self-study%20material.html): Sampling cues, Information-Salience, Dealing with uncertainty, planning and anticipating.
+4. [Actions - Self-study material](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Decision-making%20&%20Actions%20-%20Self-study%20material.html): Interacting with static and dynamic environments.
+5. [Decision-making & Actions - Datalab material](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Decision-making%20&%20Actions%20-%20Datalab%20material.html): Apply the above to the creative brief.
+
+## Templates & Models
+-	[Working Memory](https://github.com/BredaUniversityADSAI/ADS-AI/blob/2be98bf4081654daf358feb6291bb0fc387502a5/docs/Study%20Content/Cognition%20Fundamentals/assets/WorkingMemory.png); and how to use it ...
+-	[Sampling](https://github.com/BredaUniversityADSAI/ADS-AI/blob/2be98bf4081654daf358feb6291bb0fc387502a5/docs/Study%20Content/Cognition%20Fundamentals/assets/ActiveSampling.jpg); and how to use it ...
+-	[Associative Reinforcement Learning](https://github.com/BredaUniversityADSAI/ADS-AI/blob/2be98bf4081654daf358feb6291bb0fc387502a5/docs/Study%20Content/Cognition%20Fundamentals/assets/AssociativeReinforcementLearning.png); and how to use it ...
+
+## Year 2C - Cognition and Language:
 
 
 ## Course materials by Topic:
-- Perception: Visual-Cognition, Mid-level vision, high-level vision, top-down & bottom-up processing for object recognition.
-- Decision-making: Sampling cues, Information-Salience, Dealing with uncertainty, planning and anticipating.
-- Action: Interacting with static and dynamic environments
-- Learning: Associative Reinforment Learning, Rewards,  
-
-## Course materials by Datalab-Day:
-1. [Perception - Self-study material]()
-2. [Perception - Datalab material]()
-3. [Learning & Decision-making - Self-study material]()
-4. [Decision-making & Actions - Self-study material]()
-5. [Decision-making & Actions - Datalab material]()
+1. [Cognitive Models of Language Learning]()
+2. [Cognition for Natural Language Proccessing (Y2C)]()
 
 ## Templates & Models
--	[Working Memory](https://docs.google.com/document/d/166AeV0NsMyyLlpPOaeC1Xo0bSvLRM_HN?rtpof=true&authuser=bram.heijligers%40gmail.com&usp=drive_fs); and how to use it ...
--	[Sampling](https://docs.google.com/document/d/166IJ62T9OEnrNnJgmgAH2aiSS-mM6Uzd?rtpof=true&authuser=bram.heijligers%40gmail.com&usp=drive_fs); and how to use it ...
--	[Associative Reinforcement Learning](https://docs.google.com/document/d/16AFZ7TrJ9ociGr6-D0dHLyiFe2WT_2L5?rtpof=true&authuser=bram.heijligers%40gmail.com&usp=drive_fs); and how to use it ...
+-	[This is a template](https://docs.google.com/document/d/166AeV0NsMyyLlpPOaeC1Xo0bSvLRM_HN?rtpof=true&authuser=bram.heijligers%40gmail.com&usp=drive_fs); and how to use it ...
+-	[This is a model](https://docs.google.com/document/d/166IJ62T9OEnrNnJgmgAH2aiSS-mM6Uzd?rtpof=true&authuser=bram.heijligers%40gmail.com&usp=drive_fs); and how to use it ...
 
 
 ## Books

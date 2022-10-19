@@ -7,14 +7,14 @@ sort: 1
 <img src="./images/books_banner.png" alt="Books banner" width="600">
 
 ### 1. Introduction
+
 Today we will begin with developing  writing skills which are crucial for writing professional reports within AI and Data Management field. After acquiring this knowledge, you will be able to write an informative, readable report.
 By the end of  today, we expect you to complete all the readings and complete the quizzes. It will help you to prepare for the final assignment and ILO 6.  
 
 If you have questions or issues regarding the course material, please fill out the 'Ask me Anything?' [form](https://adsai.buas.nl/Contact%20Us/AskMeAnything.html). A member of our teaching staff will respond as soon as possible.
 
-__Make sure to upload all the answers to the questions listed below to your GitHub account.__
-
 ***
+
 ### 2. Introduction into professional writing and APA
 
 All AI and Data professionals typically have a wide range of skills related to writing, editing, and communication. These skills help professionals to prepare clear, well-written reports and documents. Therefore it is important to develop professional writing skills which involve the ability to understand technical language as well as being able to express that knowledge in a clear, concise, and coherent manner. Additionally writing skills important for AI and Data professionals contain formatting, referencing, and writing using bias-free language. 

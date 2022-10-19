@@ -165,6 +165,7 @@ __REVISED__
 
 ___●	Catch the Error and Correct the Mistake #6___
 
+
   When contacted, Mr. Smith had no useful explanation except that “mistakes were made” (phone call, 2015).
 
   __REVISED__
@@ -208,14 +209,20 @@ ___●	Catch the Error and Correct the Mistake #9___
 ***
 ### 3. Additional resources
 
+There are several useful resources provided by our university and [Purdue Owl](https://owl.purdue.edu/index.html). You can find them by clicking links below: 
 
+[BUas Library Referencing and APA](https://buas.libguides.com/citations_APA_bibliography)
+
+[Referencing with APA](https://buas.libguides.com/c.php?g=178504&p=1173148)
+
+[BUas Information Skills, video clips](https://buas.libguides.com/videoclips)
+
+[APA poster by Purdue Owl](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/documents/APA%20Poster%2010.22.12.png)
+
+[Website of Purdue Owl](https://owl.purdue.edu/owl/purdue_owl.html)
 
 ***
 
-
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: the exercise is format-free, meaning you can answer in any way or form you see suited. Make a drawing, write a piece of text, create a video, etc.
-</div>
 
 ## __Literature__
 

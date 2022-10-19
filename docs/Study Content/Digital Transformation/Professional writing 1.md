@@ -8,8 +8,8 @@ sort: 1
 
 ### 1. Introduction
 
-Today we will begin with developing  writing skills which are crucial for writing professional reports within AI and Data Management field. After acquiring this knowledge, you will be able to write an informative, readable report.
-By the end of  today, we expect you to complete all the readings and complete the quizzes. It will help you to prepare for the final assignment and ILO 6.  
+Today we will begin with developing writing skills that are crucial for writing professional reports within AI and Data Management field. After acquiring this knowledge, you will be able to write an informative, readable report.
+By the end of today, we expect you to complete all the readings and complete the quizzes. It will help you to prepare for the final assignment and ILO 6.  
 
 If you have questions or issues regarding the course material, please fill out the 'Ask me Anything?' [form](https://adsai.buas.nl/Contact%20Us/AskMeAnything.html). A member of our teaching staff will respond as soon as possible.
 
@@ -32,15 +32,15 @@ Before we begin acquiring new skills, it's important to highlight that during to
 
 ### 3. Writing style
 
-APA style provides foundations for effective writing because it helps writers present their thoughts and ideas in a clear, concise, and inclusive manner. It is also important to connect your ideas correctly and use approperiate gramma. Therefore, im this part of the idendepndent study day, we will focus on writing style anf grammar. 
+APA style provides foundations for effective writing because it helps writers present their thoughts and ideas in a clear, concise, and inclusive manner. It is also important to connect your ideas correctly and use appropriate grammar. Therefore, in this part of the independent study day, we will focus on writing style and grammar. 
 
-__3a__ Download [the Student Paper Checklist](https://apastyle.apa.org/instructional-aids/publication-manual-formatting-checklist.pdf). From the checklist, read all the information (including information provided via hyperlinks) related to writing style and grammar (pages 2& 3).
+__3a__ Download [the Student Paper Checklist](https://apastyle.apa.org/instructional-aids/publication-manual-formatting-checklist.pdf). From the checklist, read all the information (including information provided via hyperlinks) related to writing style and grammar (pages 2 & 3).
 
 __3b__ Read  [the hand-out on Rules and Conventions of Academic Writing](https://drhazelhall.files.wordpress.com/2013/01/2013_hall_rules-conventions_ac_writing.pdf).
 
 __3c__ Read [the hand-out on Reducing Informality in Academic Writing](https://d101vc9winf8ln.cloudfront.net/documents/26773/original/Reducing_Informality_in_Academic_WritingATI.pdf?1565036151).
 
-__3e__ Download and read [the hand-out on linking words](https://www.smart-words.org/linking-words/linking-words.pdf). The hand-out will help you with writing your final report.
+__3e__ Download and read [the hand-out on Linking Words](https://www.smart-words.org/linking-words/linking-words.pdf). The hand-out will help you with writing your final report.
 
 __3f__ Download and read [the hand-out on Abbreviations Guide](https://apastyle.apa.org/instructional-aids/abbreviations-guide.pdf)
 
@@ -52,7 +52,7 @@ __3h__ Download and read [Transitions Guide ](https://apastyle.apa.org/instructi
 
 ### 4. Bias-Free Language
 
-Bias-free language is a language that is sensitive to gender, race, age, disability, class, or sexual orientation.It is crucial to use language that is clear, objective, and stereotype-free. Bias-free language does not discriminate and contains all readers in a fair and friendly manner.
+Bias-free language is a language that is sensitive to gender, race, age, disability, class, or sexual orientation. It is crucial to use language that is clear, objective, and stereotype-free. Bias-free language does not discriminate and contains all readers in a fair and friendly manner.
 
 __4a__ Watch a video on Bias-free language
 
@@ -76,9 +76,19 @@ Create a folder on GitHub and store all the checklists and hand-outs.
 ***
 
 ## __Literature__
-American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.)
-American Psychological Association. (2021, September 8). *Instructional aids.* American Psychological Association. Retrieved October 19, 2022, from https://apastyle.apa.org/instructional-aids 
+
+American Psychological Association. (2021). *Publication Manual, 7th edition student paper checklist.*
+https://apastyle.apa.org/instructional-aids/publication-manual-formatting-checklist.pdf
+
+American Psychological Association. (2022). *APA Style abbreviations guide.* https://apastyle.apa.org/instructionalaids/abbreviations-guide.pdf
+
+American Psychological Association. (2022). *APA Style numbers and statistics guide.* https://apastyle.apa.org/
+instructional-aids/numbers-statistics-guide.pdf
+
+American Psychological Association. (2022). *APA Style transitions guide.* https://apastyle.apa.org/instructional-aids/style-transitions-guide.pdf
 
 George Mason University Writing Center. (2017). *Reducing informality in academic writing.* https://d101vc9winf8ln.cloudfront.net/documents/26773/original/Reducing_Informality_in_Academic_WritingATI.pdf?1565036151
 
 Hall, H. (2013).  *Rules and Conventions of Academic Writing by Hall.* https://drhazelhall.files.wordpress.com/2013/01/2013_hall_rules-conventions_ac_writing.pdf
+
+Smart Words.(2013). *Linking words.* https://www.smart-words.org/linking-words/linking-words.pdf

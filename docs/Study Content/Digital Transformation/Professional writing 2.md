@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-## __Professional writing (2): Citations.__
+## __Professional writing (2): Citations__
 \
 <img src="./images/books_banner.png" alt="Books banner" width="600">
 

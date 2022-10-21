@@ -84,6 +84,7 @@ AI Ethics: Ethical challenges of AI, ethical AI in practice.
 
 ## Tuesday 22nd Nov/22, Home study 
 - [Professional writing (1): The structure of a paragraph, rules of writing & Bias-free language](../../Study%20Content/Digital%20Transformation/Professional%20writing%201.html)
+
 **Assignments:**
  
 **Online Course 3** (LinkedIn Learning): [Beginner and Intermediate - Customer Insights and Consumer Analytics for Organizations: Tools and Analysis: Using customer analytics](https://www.linkedin.com/learning/customer-insights-and-consumer-analytics-for-organizations-tools-and-analysis) 

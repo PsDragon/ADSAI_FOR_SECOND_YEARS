@@ -74,7 +74,7 @@ DataLab 2:
 - [Introduction to traditional/DL computer vision]()
 - [Traditional computer vision]()
 - [DL computer vision (1)]()
-- [Data annotation](../../Study%20Content/Computer%Vision/ComputerVisionDataAnnotation.html)
+- [Data annotation](../../Study%20Content/ComputerVision/ComputerVisionDataAnnotation.html)
 
 #### <mark>DataLab preparation (group)</mark>
 

@@ -49,8 +49,7 @@ The block starts with a kick-off lecture.
 
 - <mark>Field trip (WWA): 15th of November, 10:00-12:00 (Further details will follow).</mark>
 - [ICT setup](../../Study%20Content/MLOps/MLOps1.html)
-- [WSL2 Setup](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/WSL2.html)
-- [Robotic Simulation Primer](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/Robotic%20Simulation%20Primer.html)
+- [Robotic Simulation Primer](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/3.%20Robotic%20Simulation%20Primer.html)
 - [Data collection](../../Study%20Content/ComputerVision/ComputerVisionDataCollection.html)
 - [Data management](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html)
 

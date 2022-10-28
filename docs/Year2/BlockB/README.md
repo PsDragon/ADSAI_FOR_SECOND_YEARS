@@ -102,14 +102,21 @@ DataLab 2:
 
 ### Week 4
 
-- Robotics
-- Control theory
+- [Robotics I: Intro and Applications](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/4.%20Robotics%20I.html)
+- [Robotics I: Co-ordinate Systems](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/4.%20Robotics%20I.html)
+- [Robotics II: Control Systems](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/5.%20Robotics%20II.html)
+- [Robotics II: Practical Example](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/5.%20Robotics%20II.html)
+- [Robotics III: Robotic Simulation](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/6.%20Robotics%20III.html)
 
 #### <mark>DataLab preparation (individual)</mark>
 
 DataLab 1:
 
+- [I like to move it, move it!]() 
+
 DataLab 2:
+
+- [Rack 'em and stack 'em!]()
 
 ### Week 5
 

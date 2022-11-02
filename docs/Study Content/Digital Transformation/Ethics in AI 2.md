@@ -8,7 +8,7 @@ sort: 4
 
 ### 1. Introduction
 
-During today’s self –study day you will learn several concepts associated with ethics and law in the field of Artificial Intelligence and Data Science.  You begin your day with learning how to make statistical decisions ethically and later on you will explore the The General Data Protection Regulation (GDPR) and The Assessment List on Trustworthy Artificial Intelligence.
+During today’s self –study day you will learn several concepts associated with ethics and law in the field of Artificial Intelligence and Data Science.  You begin your day with learning how to make statistical decisions ethically and later on you will explore the The General Data Protection Regulation (GDPR).
 
 If you have questions or issues regarding the course material, please fill out the 'Ask me Anything?' [form](https://adsai.buas.nl/Contact%20Us/AskMeAnything.html). A member of our teaching staff will respond as soon as possible.
 

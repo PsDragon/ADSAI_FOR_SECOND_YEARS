@@ -2,7 +2,7 @@
 sort: 4
 ---
 
-## __Ethics in AI (1): Introduction into Ethics: Ethics, Business ethics and introduction into AI ethics.__
+## __Ethics in AI (2): Ethical Guidelines for Statistical Practice. Introduction to GDPR.__
 \
 <img src="./images/datalab_banner.jpg" alt="Books banner" width="600"/>
 

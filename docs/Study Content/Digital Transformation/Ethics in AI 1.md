@@ -17,4 +17,8 @@ __Make sure to upload all the answers to the questions listed below to your GitH
 
 ### 2. Introduction into ethics
 
-In this section you will get familiar with the concept of ethics. We will dig into several ethics related topics such as ethics strategic benefit, ethics and business, frameworks and models for making ethical decisions. 
+In this section you will get familiar with the concept of ethics. We will dig into several ethics related topics such as ethics strategic benefit, ethics and business, frameworks and models for making ethical decisions.
+
+__2a__ Definition of ethics
+
+According to many scientific papers, ethics can be defined as a study that is concerned about what is morally right or morally wrong. To understand better what the science of ethics actually is, let’s check the video below:

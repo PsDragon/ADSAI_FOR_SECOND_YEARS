@@ -70,4 +70,5 @@ The research findings can be used for your final report on ethics.
 
 
 ## __Literature__
+
 *General Data Protection Regulation (GDPR) – Official Legal Text.*(2019, 2 september). General Data Protection Regulation (GDPR). https://gdpr-info.eu/ 

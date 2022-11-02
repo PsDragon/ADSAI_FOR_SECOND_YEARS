@@ -84,6 +84,11 @@ DataLab 1:
 - [ ] Demonstrate foundational knowledge and understanding of the theories, principles, methods, and techniques related to the subfield of object detection by summarizing, and critically evaluating some of its seminal works.
 
 DataLab 2:
+
+- [ ] Detect edges and contours
+- [ ] Plot image histograms and apply thresholding
+- [ ] Detect objects
+- [ ] Detect overlapping objects
  
 
 ### Week 3

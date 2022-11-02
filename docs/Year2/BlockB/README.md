@@ -85,6 +85,8 @@ DataLab 1:
 
 DataLab 2:
 
+You will learn the basic of traditional computer vision in this DataLab. [Here is the notebook](https://edubuas-my.sharepoint.com/:f:/g/personal/noyan_a_buas_nl/EhLpd_KatBdMt3c3staHUBUBQ8yY9XRRkjqgq-3Ns4EDfg?e=cDzhy2) you will use today.
+
 - [ ] Detect edges and contours
 - [ ] Plot image histograms and apply thresholding
 - [ ] Detect objects

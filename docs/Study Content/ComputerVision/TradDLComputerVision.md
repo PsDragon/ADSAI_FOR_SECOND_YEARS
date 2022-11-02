@@ -28,17 +28,21 @@ Make sure you watch sections 1 & 2 of the video. Then, practice what you learned
 
 ## Course contents
 
-### Getting started\
+### Getting started
 ⌨️ [0:00:00](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=0s) Introduction\
-⌨️ [0:01:07](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=67s) Installing OpenCV and Caer\
-### Section 1 - Basics\
+⌨️ [0:01:07](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=67s) Installing OpenCV and Caer
+### Section 1 - Basics
 ⌨️ [0:04:12](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=252s) Reading Images & Video\
+To process images, you need to learn how to read them. This module teaches you how to use cv2.imread(). It also shows how to show images using OpenCV but you can use matplotlib for that as well.\
 ⌨️ [0:12:57](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=777s) Resizing and Rescaling Frames \
+Regardless of working on DL or traditional CV, you need to be comfortable with resizing and rescaling images. Neural networks accept square images but real image datasets consist of rectangular images most of the time.\
 ⌨️ [0:20:21](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=1221s) Drawing Shapes & Putting Text\
+If you would like to drawing bounding boxes on images, you need to learn annotating images with OpenCV.\
 ⌨️ [0:31:55](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=1915s) 5 Essential Functions in OpenCV \
+OpenCV is a vast library where you can find almost any CV operation you can think of. But some are more common than the others. In this module you will learn about turning an image to grayscale, blurring it, detecting its edges and dilation/erosion.\
 ⌨️ [0:44:13](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=2653s) Image Transformations\
-⌨️ [0:57:06](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=3426s) Contour Detection Section \
-### Section 2 – Advanced\
+⌨️ [0:57:06](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=3426s) Contour Detection Section
+### Section 2 – Advanced
 ⌨️ [1:12:53](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=4373s) Color Spaces \
 ⌨️ [1:23:10](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=4990s) Color Channels \
 ⌨️ [1:31:03](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=5463s) Blurring \
@@ -46,9 +50,7 @@ Make sure you watch sections 1 & 2 of the video. Then, practice what you learned
 ⌨️ [1:53:06](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=6786s) Masking\
 ⌨️ [2:01:43](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=7303s) Histogram Computation \
 ⌨️ [2:15:22](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=8122s) Thresholding/Binarizing Images \
-⌨️ [2:26:27](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=8787s) Edge Detection\
-
-
+⌨️ [2:26:27](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=8787s) Edge Detection
 
 ## References
 

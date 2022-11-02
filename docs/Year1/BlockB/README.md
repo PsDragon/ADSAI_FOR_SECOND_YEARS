@@ -76,11 +76,8 @@ With a view to enabling Banijay’s stakeholders to achieve the desired TV ratin
 # Week 2 : Ethics & Data Analytics
 
 ## Monday 21st Nov/22, Home study 
+- [Ethics in AI (1): Introduction into Ethics: Ethics, Business ethics and introduction into AI ethics.](../../Study%20Content/Digital%20Transformation/Ethics%20in%20AI%201.html)
 
-**Day 1 of Ethics:** Introduction into ethics: definition of ethics, ethics strategic benefit, ethics and business, frameworks and models for making ethical decisions. 
-AI Ethics: Ethical challenges of AI, ethical AI in practice. 
-
-[**Business Reporting**](https://github.com/BredaUniversityADSAI/ADS-AI/blob/main/docs/Study%20Content/Digital%20Transformation/Business%20Reporting.md)
 
 ## Tuesday 22nd Nov/22, Home study 
 - [Professional writing (1): The structure of a paragraph, rules of writing & Bias-free language](../../Study%20Content/Digital%20Transformation/Professional%20writing%201.html)
@@ -97,6 +94,7 @@ The client presents the Creative Brief and students have a chance to ask relevan
 **DataLab** (3-5pm at BUas): Banijay Project Brief applied to the AI Canvas (Working in small groups to fill in the AI Canvas). 
 
 ## Thursday 24th Nov/22 Home study 
+- [Ethics in AI (2): Ethical Guidelines for Statistical Practice. Introduction to GDPR.](../../Study%20Content/Digital%20Transformation/Ethics%20in%20AI%202.html)
 - [Professional writing (2): Citations](../../Study%20Content/Digital%20Transformation/Professional%20writing%202.html)
 
 .  

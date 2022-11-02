@@ -18,7 +18,7 @@ __Make sure to upload all the answers to the questions listed below to your GitH
 
 In this section you will get familiar with the concept of ethics. We will dig into several ethics related topics such as ethics strategic benefit, ethics and business, frameworks and models for making ethical decisions.
 
-__2a__ Definition of ethics
+__2a Definition of ethics__
 
 According to many scientific papers, ethics can be defined as a study that is concerned about what is morally right or morally wrong. To understand better what the science of ethics actually is, let’s check the video below:
 
@@ -34,8 +34,54 @@ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; cli
 Answer the questions below:
 
 a.	How would you define “ethics”?
+
 b.	What would you do in the situation with Lee? Explain your choice taking into consideration your norms, values, principles and beliefs. 
 
-__2b__ Ethics and business
+__2b Ethics and business__
 
-Many people think that businesses don’t have any other responsibilities besides of making profits. However, the public expect businesses to behave responsibly, and the “responsibility” comes from the domain of ethics. According to the studies about 50% of US people boycotted companies because they behaved not in the best interest of people. Additionally, it’s important to highlight that about 90% of people, based on the study, indicated that they are ready to switch to other brands if the products/ services they produced are manufactured in a more ethical way than original products/ services of their choice 
+Many people think that businesses don’t have any other responsibilities besides of making profits. However, the public expect businesses to behave responsibly, and the “responsibility” comes from the domain of ethics. According to the studies about 50% of US people boycotted companies because they behaved not in the best interest of people. Additionally, it’s important to highlight that about 90% of people, based on the study, indicated that they are ready to switch to other brands if the products/ services they produced are manufactured in a more ethical way than original products/ services of their choice (Bouwer, J. (Ed.), 2019). From everything said above it becomes clear that strategic alignment of ethical actions and values can lead to more profitable business. The implementation of ethical strategy creates a competitive advantage for a business.  
+
+Of course, when talking about business and ethics it is also important to mention that unethical decisions of companies could have impact on human lives. Below you can find some videos that showcase examples of unethical behavior of businesses. 
+
+*Example 1*
+
+<!-- blank line -->
+<figure class="video_container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rj6JOKrL_vg"
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
+
+*Video 2. “Nestlé: The Most Evil Business in the World” by Jake Tran.*
+
+*Example 2*
+
+<!-- blank line -->
+<figure class="video_container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ehT35-671IM"
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
+
+*Video 3. “McKinsey: The Company that Poisoned America” by Jake Tran.*
+
+Given that fact that activities of businesses could have impact on people and ethical strategy leads to a competitive advantage for a company, it’s important to evaluate the ethical principles and norms of companies and persons working for them as well as to assess the nature of the effect of companies’ activities. This is the function of business ethics. 
+The study of ethics defines three elements that are vital for ethical organizational capacity. 
+Those elements are:
+
+1.	Element 1: Ethical company
+
+The company can be considered ethical if it incorporates policies (GDPR) and behavior towards its employees (diverse team, transparent, takes feedback) and external stakeholders (customers, society and etc) (Baxter, 2018).
+
+2.	Element 2: Ethical Process & Tools
+
+The process can be considered to be an ethical if ethics is in cooperated in the development processes.
+
+3.	Element 3: Ethical people (Employees and clients)
+
+This element is focused on ethical behavior of professionals/clients towards their customers, owners, society, environment, suppliers as well on awareness about ethics, morals and acting as responsible professionals. 
+
+Data: For your final assignment, you need to provide proof and evidence that the company (your client) demonstrates ethical practices. Therefore, we are asking you to conduct research into the company (Banijay) and collect evidence in terms of ethical behavior. You can use Linkedin to check employees in terms of diversity and check the website of Banijay in terms of different policies. 
+Additionally, make sure to prepare questions for Banijay related to companies' ethical practices. You will have a chance to ask all your questions during the visit on Wednesday during the DataLab.
+
+Please make sure to upload your question and conducted research to GitHub.

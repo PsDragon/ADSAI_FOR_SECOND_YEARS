@@ -97,7 +97,6 @@ The client presents the Creative Brief and students have a chance to ask relevan
 - [Ethics in AI (2): Ethical Guidelines for Statistical Practice. Introduction to GDPR.](../../Study%20Content/Digital%20Transformation/Ethics%20in%20AI%202.html)
 - [Professional writing (2): Citations](../../Study%20Content/Digital%20Transformation/Professional%20writing%202.html)
 
-.  
 
 ## Friday
 

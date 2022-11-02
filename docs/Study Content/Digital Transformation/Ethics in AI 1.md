@@ -69,15 +69,15 @@ Given that fact that activities of businesses could have impact on people and et
 The study of ethics defines three elements that are vital for ethical organizational capacity. 
 Those elements are:
 
-1.	Element 1: Ethical company
+__Element 1: Ethical company__
 
 The company can be considered ethical if it incorporates policies (GDPR) and behavior towards its employees (diverse team, transparent, takes feedback) and external stakeholders (customers, society and etc) (Baxter, 2018).
 
-2.	Element 2: Ethical Process & Tools
+__Element 2: Ethical Process & Tools__
 
 The process can be considered to be an ethical if ethics is in cooperated in the development processes.
 
-3.	Element 3: Ethical people (Employees and clients)
+__Element 3: Ethical people (Employees and clients)__
 
 This element is focused on ethical behavior of professionals/clients towards their customers, owners, society, environment, suppliers as well on awareness about ethics, morals and acting as responsible professionals. 
 

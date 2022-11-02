@@ -8,8 +8,7 @@ sort: 4
 
 ### 1. Introduction
 
-Artificial intelligence (AI) is an emerging field that leads to enormous new business opportunities. The growth of AI and its broad application has great economic benefits, however also results in serious societal implications.   Therefore questions of ethics are becoming vital, as AI systems might be negatively biased that can negatively impact our lives Thus different concepts and frameworks need to be taken into consideration while developing AI.
-During the first independent study day, you will get insights into DEDA Framework, learn about Ethical Decision Making and prepare for the Socratics debate that will be held during tomorrow’s Data Lab.
+During today’s self –study day you will learn several concepts associated with ethics and law in the field of Artificial Intelligence and Data Science.  You begin your day with learning how to make statistical decisions ethically and later on you will explore the The General Data Protection Regulation (GDPR) and The Assessment List on Trustworthy Artificial Intelligence.
 
 If you have questions or issues regarding the course material, please fill out the 'Ask me Anything?' [form](https://adsai.buas.nl/Contact%20Us/AskMeAnything.html). A member of our teaching staff will respond as soon as possible.
 

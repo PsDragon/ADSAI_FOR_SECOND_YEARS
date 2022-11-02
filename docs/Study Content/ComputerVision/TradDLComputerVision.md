@@ -8,12 +8,16 @@ sort: 1
 
 Nowadays, it seems like computer vision (CV) is all about deep learning (DL). While it is true that DL models dominate CV applications, it does not mean that traditional CV techniques are no longer in use. Real CV projects typically require multiple steps, from raw data to the required output, forming image processing pipelines. These pipelines rarely rely on pure DL. Instead, it is more common to see a pipeline with DL as its backbone supported by traditional CV.
 
-Let’s look at an example project on plant biology involving one of your mentors. The dataset consists of plant images planted such that their roots are visible. The task is to measure the length of these roots from the images. The First 100 hours of plant development is monitored by photographing the seed at t=0 h and repeating it every hour until t=100h. Roots appear after germination around t=20h.
+Let’s look at an example project on plant biology<sup>[1]</sup>. The dataset consists of plant images planted such that their roots are visible. The task is to measure the length of these roots from the images. The First 100 hours of plant development is monitored by photographing the seed at t=0 h and repeating it every hour until t=100h. Roots appear after germination around t=20h.
 
 <iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/U_BoKRrSzqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-Video 1: Video summary of the plant biology project.
+Video 1: Video summary of the plant biology project<sup>[1]</sup>.
 
-Finding the plants and roots can be done effectively using DL. Researchers used U-Net to find the plant root pixels. But measuring root length is not feasible with DL. Instead, a traditional CV technique called skeletonization was the optimum approach for this problem.
+Finding the plants and roots can be done effectively using DL. Researchers used U-Net to find the plant root pixels. But measuring root length is not feasible with DL. Instead, a traditional CV technique called [skeletonization](https://scikit-image.org/docs/stable/auto_examples/edges/plot_skeleton.html) was the optimum approach for this problem.
+
+<img src=https://upload.wikimedia.org/wikipedia/commons/9/93/Skel.png width="400">\
+Figure 1: An example topological skeleton.
+
 
 ## Where to start?
 
@@ -59,11 +63,23 @@ Color is a fundamental propert of images. You should be very proficient with RGB
 Real images are typically contaminated by salt and pepper noise. These could mess up training and testing of DL models. Using blurring, you can get rid of this noise.\
 \
 ⌨️ [1:44:27](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=6267s) BITWISE operations\
+In the plant biology project mentioned previously<sup>[1]</sup>, root labels were provided according to their type (primary, lateral etc.) However the model was developed to detect root pixels, regardless of its type. This required root labels to be combined with the AND operator.\
+\
 ⌨️ [1:53:06](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=6786s) Masking\
+In another example project combining photonics and machine learning<sup>[2]</sup>, masking is used to extract light intensity values from images. The project required calculating the light intensities inside the filter holes depicted in Figure 2. The dataset contained hundreds of such images. The filter position was fixed with respect to the camera. Therefore filter holes were detected once using circle detection and intensity values inside the circles were calculated. Then, these circles were used as a mask for all of the remaining images to calculate the light intensities.
+
+<img src=https://i.imgur.com/xpefoNF.png width="400">\
+Figure 2: Masking example from an real machine learning project<sup>[2]</sup>.
+
 ⌨️ [2:01:43](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=7303s) Histogram Computation \
 ⌨️ [2:15:22](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=8122s) Thresholding/Binarizing Images \
-⌨️ [2:26:27](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=8787s) Edge Detection
+Semantic segmentation labels need to be binary for training networks (e.g. root or not). But in the plant biology project, roots were labeled such that the labels were not binary. Root pixels had values between 150-180 and the background was 255. Using histograms, thresholding and inversion labels were transformed into a suitable format.\
+\
+⌨️ [2:26:27](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=8787s) Edge Detection\
+Similar to contour detection, edge detection forms the basis of object detection using traditional CV.
 
 ## References
 
-[1] Lube, V., Noyan, M.A., Przybysz, A. et al. [MultipleXLab: A high-throughput portable live-imaging root phenotyping platform using deep learning and computer vision](https://doi.org/10.1186/s13007-022-00864-4). Plant Methods 18, 38 (2022).
+[1] Lube, V., Noyan, M.A., Przybysz, A. et al. [MultipleXLab: A high-throughput portable live-imaging root phenotyping platform using deep learning and computer vision.](https://doi.org/10.1186/s13007-022-00864-4) Plant Methods 18, 38 (2022).
+
+[2] Hussain, R., Noyan, M.A., Woyessa, G. et al. [An ultra-compact particle size analyser using a CMOS image sensor and machine learning.]( https://doi.org/10.1038/s41377-020-0255-6) Light Sci Appl 9, 21 (2020).

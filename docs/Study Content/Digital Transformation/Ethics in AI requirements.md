@@ -23,35 +23,15 @@ __Requirements:__
 
 - The students need to provide proof of ethical processes and tools used within this project. In order to do so, students are required to follow at least one framework for making ethical decisions to ensure ethical decision-making within their project. Besides it, students need to provide evidence of consideration of GDPR and Ethical Guidelines for Statistical Practice.
 
-- Ethical and legal aspects that are important for this project should be explained;
+- The student need to identify and explain problems in the ethical (AI) organizational capacity in the context of the given project
 
-- Ethical and legal aspects that are not important for the project should be explained;
-
--  Facts, reasons, examples, explanations, and evidence are provided;
-
-- Argumentation is based on important facts, details, examples, and explanations from multiple authoritative sources;
-
--  The  students need to come up with improvements of the approach based on argumentation;
-
-- The checklist needs to be filled in.  
-
-__Deliverable(s):__
-
-The final report should be uploaded to GitHub no later than 5 pm on the last Data Lab Day.
-
-__Debates__
-
-Throughout the block B you are required to participate in  debates during dedicated Data Lab days. At the beginning  of  Block B, you will receive the class division for debates and your roles during  debates.
-
-
+- The last but not least, students are being asked to provide advice on improving an ethical (AI) organizational capacity, within the given project.
 
 ***
 
 ## __Literature__
 
 Committee on Professional Ethics of the American Statistical Association (2018, April 14). *Ethical Guidelines for Statistical Practice.* https://www.amstat.org//asa/files/pdfs/EthicalGuidelines.pdf
-
-*De Ethische Data Assistent (DEDA).* (2017). Utrecht Data School. https://dataschool.nl/deda/
 
 Dignum, V. (2019). *Responsible Artificial Intelligence: How to Develop and Use AI in a Responsible Way (Artificial Intelligence: Foundations, Theory, and Algorithms).*
 

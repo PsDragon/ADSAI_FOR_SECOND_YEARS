@@ -13,7 +13,7 @@ Let’s look at an example project on plant biology<sup>[1]</sup>. The dataset c
 <iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/U_BoKRrSzqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Video 1: Video summary of the plant biology project<sup>[1]</sup>.
 
-Finding the plants and roots can be done effectively using DL. Researchers used U-Net to find the plant root pixels. But measuring root length is not feasible with DL. Instead, a traditional CV technique called [skeletonization](https://scikit-image.org/docs/stable/auto_examples/edges/plot_skeleton.html) was the optimum approach for this problem.
+Finding the plants and roots can be done effectively using DL. Researchers used U-Net to find the plant root pixels. But measuring root length is not feasible with DL. Instead, a traditional CV technique called [skeletonization](https://scikit-image.org/docs/stable/auto_examples/edges/plot_skeleton.html) was selected for this problem.\
 
 <img src=https://upload.wikimedia.org/wikipedia/commons/9/93/Skel.png width="400">\
 Figure 1: An example topological skeleton.
@@ -31,6 +31,8 @@ Video 2: OpenCV Course – Full Tutorial with Python
 Make sure you watch sections 1 & 2 of the video. Then, practice what you learned by choosing an image you like and try applying some of the OpenCV functions to it. For example, convert the image to grayscale, then blur the image.
 
 ## Course contents
+
+Here is a detailed explanation of the course contents and how the methods you will learn can be relevant for CV projects.
 
 ### Getting started
 ⌨️ [0:00:00](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=0s) Introduction\

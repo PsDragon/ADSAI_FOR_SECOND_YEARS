@@ -21,3 +21,21 @@ In this section you will get familiar with the concept of ethics. We will dig in
 __2a__ Definition of ethics
 
 According to many scientific papers, ethics can be defined as a study that is concerned about what is morally right or morally wrong. To understand better what the science of ethics actually is, let’s check the video below:
+
+<!-- blank line -->
+<figure class="video_container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u399XmkjeXo"
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
+
+*Video 1. “What is Ethics?” by Neil Nie.*
+
+Answer the questions below:
+
+a.	How would you define “ethics”?
+b.	What would you do in the situation with Lee? Explain your choice taking into consideration your norms, values, principles and beliefs. 
+
+__2b__ Ethics and business
+
+Many people think that businesses don’t have any other responsibilities besides of making profits. However, the public expect businesses to behave responsibly, and the “responsibility” comes from the domain of ethics. According to the studies about 50% of US people boycotted companies because they behaved not in the best interest of people. Additionally, it’s important to highlight that about 90% of people, based on the study, indicated that they are ready to switch to other brands if the products/ services they produced are manufactured in a more ethical way than original products/ services of their choice 

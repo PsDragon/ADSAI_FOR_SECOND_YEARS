@@ -68,7 +68,6 @@ For your assignment for Banijay, you are asked to scrape data from Twitter.  Con
 During the DataLab you will be asked to present your research findings to peers and discussed them together. 
 The research findings can be used for your final report on ethics.
 
-</div>
 
 ## __Literature__
 *General Data Protection Regulation (GDPR) – Official Legal Text.*(2019, 2 september). General Data Protection Regulation (GDPR). https://gdpr-info.eu/ 

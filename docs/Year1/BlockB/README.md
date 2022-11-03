@@ -49,43 +49,39 @@ With a view to enabling Banijay’s stakeholders to achieve the desired TV ratin
 
 # Week 1: Block B Kickoff, Banijay Kickoff & Programming in Python 
 
-## Monday - 14th Nov/22 Kick off on BUas Campus
+## Monday
 - Creative Brief Introduction: Banijay Group – Predicting TV Ratings 
 - Creative Brief and Deliverables (Dashboard, report and presentation) 
 - [Programming: a primer](../../Study%20Content/Programming/1.StartingProgramming.html)
 - [Setting up your development environment](../../Study%20Content/Programming/2.SetupIDE.html)
 - [Python for AI and Data ScienceI](../../Study%20Content/Programming/3.Python%20foundations.html)
 
-## Tuesday - Tuesday 15th Nov/22, Home study 
+## Tuesday
 - [Python data types & data structures I](../../Study%20Content/Programming/5.Python%20data%20types%20and%20data%20structures.html)
 
 
-## Wednesday - 16th Nov/22, DataLab Day
+## Wednesday
 - [Data Lab 1: Python Foundation exercises](../../Study%20Content/Programming/4.DataLabPR1.html)
 
 
-## Thursday - 17th Nov/22, Home study  
+## Thursday 
 - [Python data types & data structures II](../../Study%20Content/Programming/5.Python%20data%20types%20and%20data%20structures.html)
 - [Python: Coding standards and reproducible data science](../../Study%20Content/Programming/14.Python%20PEP8.html)
 
 
-## Friday - 18th Nov/22, DataLab Day  
+## Friday
 - [Python data types & data structures II](../../Study%20Content/Programming/8.DataLabPR2.html)
 
 
 # Week 2 : Ethics & Data Analytics
 
-## Monday 21st Nov/22, Home study 
+## Monday
 - [Ethics in AI (1): Introduction into Ethics: Ethics, Business ethics and introduction into AI ethics.](../../Study%20Content/Digital%20Transformation/Ethics%20in%20AI%201.html)
 
-
-## Tuesday 22nd Nov/22, Home study 
+## Tuesday
 - [Professional writing (1): The structure of a paragraph, rules of writing & Bias-free language](../../Study%20Content/Digital%20Transformation/Professional%20writing%201.html)
 
-
- 
-
-## Wednesday 23rd Nov/22 From BUas to Banijay Amsterdam (10 am to 1 pm) and back at BUas (from 3 pm to 5 pm) 
+## Wednesday
 
 **Site-visit:** Banijay studios in Amsterdam (from 10 am to 1 pm at Banijay. Lunch will be provided by the client. Meet at BUas at 07.30 for 08 am prompt departure) 
  
@@ -104,100 +100,100 @@ The client presents the Creative Brief and students have a chance to ask relevan
 
 # Week 3 : Data processing in Python
 
-## Monday - 28th Nov/22, Home study 
+## Monday
  
 Python: Pandas 
 
-## Tuesday - 29th Nov/22, Home study 
+## Tuesday
 
 Python: Advanced Pandas and Matplotlib 
 
-## Wednesday - 30th Nov/22, DataLab 
+## Wednesday
 
 DataLab: Python EDA and data pre-processing 
 
-## Thursday - 1st Dec/22, Home study 
+## Thursday
 
 Python: Scraping web data 
 
-## Friday - 2nd Dec/22, DataLab 
+## Friday
 
 Project Brief: Scraping Twitter Data and Analyses 
 
 # Week 4 : Machine Learning
 
-## Monday - 5th Dec/22, Home study 
+## Monday
 
 Introduction to Machine Learning: Supervised & Unsupervised Learning  
 The Modelling Pipeline 
 
-## Tuesday - 6th Dec/22, Home study 
+## Tuesday
 
 Evaluating Machine Learning algorithms: Bias and Variance 
 Classification Algorithms 
 
-## Wednesday - 7th Dec/22, DataLab 
+## Wednesday
 
 Project Brief: Classification 
 
-## Thursday - 8th Dec/22, Homes study 
+## Thursday
 
 Regression algorithms 
 
-## Friday - 9th Dec/22, DataLab 
+## Friday
 
 **Project Brief:** Regression 
 **Guest Lecture and Q&A with Banijay Data Scientist** (from 3 pm to 5 pm) 
 
 # Week 5 : Machine Learning 
 
-## Monday - 12th Dec/22, Home study  
+## Monday
 
 Tree-based algorithms 
 
-## Tuesday - 13th Dec/22, Home study 
+## Tuesday
 
 Tree-based algorithms cont. 
 
-## Wednesday - 14th Dec/22, DataLab 
+## Wednesday
 
 **Project Brief:** Tree-based algorithms 
 **Guest lecture on Data Driven Marketing by Fingerspitz**
 
-## Thursday - 15th Dec/22, Home study 
+## Thursday
 
 Tuning Tree-based algorithms 
 
-## Friday - 16th Dec/22, DataLab 
+## Friday
 
 **Project Brief:** Tree-based algorithms 
 **Formative feedback session II**
 
 # Week 6 : Machine Learning 
 
-## Monday - 19th Dec/22, Home study 
+## Monday
 
 Clustering algorithms 
 
-## Tuesday - 20th Dec/22, Home study 
+## Tuesday
 
 Clustering algorithms cont. 
 
-## Wednesday - 21stDec/22, Data Lab 
+## Wednesday
 
 **Project Brief:** **Clustering analyses**
 
-## Thursday - 22nd Dec/22, Home study
+## Thursday
 
 Clustering algorithms: Evaluating Clustering Algorithms 
 
-## Friday - 23rd Dec/22, DataLab 
+## Friday
 
 **Project Brief:** Clustering analyses cont. 
 
 # Week 7: Dashboard, Reporting, and Presentation
 
-## Monday - 9th Jan/23, Home study  
+## Monday
 
 **Assignments:**
  
@@ -210,7 +206,7 @@ Workload: 4h 52m
   
 **Create ** a PowerBI Data Dashboard for the Banijay project. 
 
-## Tuesday - 10th Jan/23, Home study 
+## Tuesday
 
 **Assignments:** 
  
@@ -222,13 +218,13 @@ Workload: 4h 52m
  
 **DataLab Preparation** (Bert): Bring one object of our preference from your home. 
 
-## Wednesday - 11th Jan/23, DataLab 
+## Wednesday
 
 **DataLab Preparation** (Bert): Make sure you bring one object of our preference from your home.  
  
 **Workshop**(Bert): Presentation (pitching) Skills, theory and practice.  
 
-## Thursday - 12th Jan/22, Home study 
+## Thursday
  
 **Assignment:**
  
@@ -258,7 +254,7 @@ Workload: 4h 52m
  
 **DataLab Preparation:** Upload the presentation for tomorrow and show certificates of online courses 8 and 9.  
 
-## Friday - 13th Jan/23, DataLab
+## Friday
 
 **Lab Exercise** (Bert/Gil): Practicing the Banijay presentation (2 minutes executive summary to “sell” the idea to Banijay stakeholders) and getting feedback on the Banijay presentation and dashboard (to be recorded).  
  
@@ -267,7 +263,7 @@ Workload: 4h 52m
 
 # Week 8 : Business Case Preparation
 
-## Monday - 16th Jan/23, Home study 
+## Monday
 
 **Programming in Python: **Advanced Topics 
  
@@ -278,7 +274,7 @@ Workload: 4h 41m
  
 **Create **a Tableau Data Dashboard for the Banijay project. 
 
-## Tuesday - 17th Jan/23, Home study 
+## Tuesday
 
 **Machine Learning:** Advanced Topics 
  
@@ -288,13 +284,13 @@ Workload: 4h 41m
 Workload: 9 hours 
  
 
-## Wednesday - 18th Jan/23, DataLab 
+## Wednesday
 
 **DataLab:** Work on the project brief.  
   
 **Presentation practice**– 3 minutes each and feedback from the Group mentor.  
 
-## Thursday - 19th Jan/23, Home study 
+## Thursday
 
 **Assignments: **
  
@@ -307,7 +303,7 @@ Workload: 1h 34m
  
 **Submit** the Banijay presentation, dashboard and report.  
 
-## Friday - 20th Jan/23, DataLab  
+## Friday
 
 **Project Dissemination ** 
 **Presenting (all students)** **the Banijay business case** presentation, report and dashboard (to be recorded also). 

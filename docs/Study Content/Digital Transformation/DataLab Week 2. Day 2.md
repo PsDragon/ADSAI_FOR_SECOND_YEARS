@@ -34,7 +34,6 @@ __1b__ Answer the following questions:
 
 For details regarding prerequisites, contact your mentor. 
 
-
 ## 3) Presentations on Twitter and GDPR
 
 Make groups of 5 peers within your mentor groups and present your findings to each other. Once the presentations are done, discuss your findings in the group and give each other feedback on the research findings. Thus, you need to open your notes file and take notes. Note down all valuable feedback in your notes file and upload it to your GitHub repository once finished and reference it in your learning log for this week. 
@@ -47,7 +46,6 @@ You can find the paper by clicking [this link]( https://www.nielsen.com/wp-conte
 ## 5) Work on the assignment
 
 During the last DataLab, you had a chance to visit the office of Banijay and ask them questions about companies’ ethical behavior. So now you are advised to use the rest of the time (before the guest lecture) to work on your ethics paper and write about companies ethical practices ( make sure to check [the requirements for ethics part](https://adsai.buas.nl/Study%20Content/Digital%20Transformation/Ethics%20in%20AI%20requirements.html) of your final assignment)
-
 
 ## 3) Workshop: Feedback (10:00-16:00)
 

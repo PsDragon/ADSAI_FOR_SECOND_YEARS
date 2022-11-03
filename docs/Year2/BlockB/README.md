@@ -71,7 +71,7 @@ DataLab 2:
 ### Week 2
 
 - [Introduction to traditional/DL computer vision]()
-- [Traditional computer vision]()
+- [Traditional computer vision](https://adsai.buas.nl/Study%20Content/ComputerVision/TradDLComputerVision.html)
 - [DL computer vision (1)]()
 - [Data annotation](../../Study%20Content/ComputerVision/ComputerVisionDataAnnotation.html)
 

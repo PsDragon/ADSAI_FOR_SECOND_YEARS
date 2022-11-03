@@ -62,7 +62,7 @@ __3f__ Answer questions below:
 3. What are the conditions for consent?
 4. What does right to data portability means?
 
-### Datalab preparation:
+### 4. Datalab preparation (Week 2, DataLab 2)
 
 For your assignment for Banijay, you are asked to scrape data from Twitter.  Conduct research on scraping data from Twitter: check if it's compliant with GDPR and if it's in a constraint to ethics and guidelines from the platform. Using conducted research, create a presentation of a maximum of 5 slides. 
 During the DataLab you will be asked to present your research findings to peers and discussed them together. 

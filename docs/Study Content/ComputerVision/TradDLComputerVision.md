@@ -21,7 +21,7 @@ Figure 1: An example topological skeleton.
 
 ## Where to start?
 
-The best way to start learning traditional CV using Python is to learn OpenCV. It is one of the most popular CV libraries out there. It is used for both traditional CV and DL tasks. In the DataLab dedicated to traditional CV, you will write code using OpenCV and Python and detect objects.
+The best way to start learning traditional CV using Python is to learn [OpenCV](https://opencv.org/). It is one of the most popular CV libraries out there. It is used for both traditional CV and DL tasks. In the DataLab dedicated to traditional CV, you will write code using OpenCV and Python and detect objects.
 
 Before attempting the DataLab tasks, you will complete the following OpenCV course:
 
@@ -59,26 +59,26 @@ Object boundaries can be represented as contours, and contours are a combination
 ### Section 2 – Advanced
 ⌨️ [1:12:53](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=4373s) Color Spaces \
 ⌨️ [1:23:10](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=4990s) Color Channels \
-Color is a fundamental property of images. You should be proficient with RGB and HSV representation of images. This is useful for DL as well as traditional CV.\
+Color is a fundamental property of images. Therefore, if you would like to work with images, you should be proficient with color spaces and channels (RGB, HSV). This module teaches you the fundamentals of color in digital images and how to do transformations based on color.\
 \
 ⌨️ [1:31:03](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=5463s) Blurring \
-Real images can be contaminated by [salt-and-pepper noise](https://en.wikipedia.org/wiki/Salt-and-pepper_noise). These pixels could mess up training and testing of DL models. Using blurring, you can reduce this type of noise.\
+Real images can be contaminated by [salt-and-pepper noise](https://en.wikipedia.org/wiki/Salt-and-pepper_noise). These pixels could mess up the training and testing of DL models. Using blurring, you can reduce this type of noise.\
 \
 ⌨️ [1:44:27](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=6267s) BITWISE operations\
-In the plant biology project mentioned previously<sup>[1]</sup>, root labels were provided according to their type (primary, lateral etc.). However the model was developed to detect root pixels, regardless of its type. This required root labels to be combined with the AND operator to obtain a single label for all root pixels.\
+In the plant biology project mentioned previously<sup>[1]</sup>, root labels were provided according to their type (primary, lateral, etc.). However, the model was developed to detect root pixels, regardless of root type. This required root labels to be combined with the AND operator to obtain a single label for all root pixels.\
 \
 ⌨️ [1:53:06](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=6786s) Masking\
-In another example project combining photonics and machine learning<sup>[2]</sup>, masking was used to extract light intensity values from images. The project required calculating the light intensities inside the filter holes depicted in Figure 2. The dataset contained hundreds of such images. The filter position was fixed with respect to the camera. Therefore filter holes were detected once using circle detection and intensity values inside the circles were calculated. Then, these circles were used as a mask for all of the remaining images to calculate the light intensities.
+In another example project combining photonics and machine learning<sup>[2]</sup>, masking was used to extract light intensity values from images. The project required calculating the light intensities inside the filter holes depicted in Figure 2. The dataset contained hundreds of such images. The filter position was fixed with respect to the camera. Therefore filter holes were detected once using circle detection, and intensity values inside the circles were calculated. Then, these circles were used as a mask for all the remaining images to calculate the light intensities.
 
 <img src="./images/masking.png" alt="Mask" width="80%"/>\
-Figure 2: Masking example from an real machine learning project<sup>[2]</sup>.
+Figure 2: Masking example from a real machine learning project<sup>[2]</sup>.
 
 ⌨️ [2:01:43](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=7303s) Histogram Computation \
 ⌨️ [2:15:22](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=8122s) Thresholding/Binarizing Images \
-Semantic segmentation labels need to be binary for training networks (e.g. root or not). But in the plant biology project<sup>[1]</sup>, roots were labeled such that the labels were not binary. Root pixels had values between 150-180 and the background was 255. Using histograms, thresholding and inversion labels were transformed into the suitable format.\
+Semantic segmentation labels need to be binary for training networks (e.g., root or not). Nevertheless, in the plant biology project<sup>[1]</sup>, roots were labeled such that the labels were not binary. Root pixels had values between 150-180, and the background was 255. Labels were transformed into a suitable format using histograms, thresholding, and inversion.\
 \
 ⌨️ [2:26:27](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=8787s) Edge Detection\
-Similar to contour detection, edge detection forms the basis of object detection using traditional CV.
+Like contour detection, edge detection forms the basis of object detection using traditional CV.
 
 ## References
 

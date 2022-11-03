@@ -14,7 +14,7 @@ If you have questions or issues regarding the course material, please fill out t
 
 __Make sure to upload all the answers to the questions listed below to your GitHub account.__
 
-### 2. Ethical Guidelines for Statistical Practice.
+### 2. Ethical Guidelines for Statistical Practice
 
 __2a__ Read the Ethical [Guidelines for Statistical Practice](.\images\EthicalGuidelines.pdf).
 

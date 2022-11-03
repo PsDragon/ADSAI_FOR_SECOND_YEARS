@@ -2,14 +2,15 @@
 sort: 7
 ---
 
-# __Ethics & Law__
+# __Ethics in AI_
+
 While data is bringing various benefits to different companies and businesses, it also presents unique ethical and legal challenges. Doing ethics right is not just a moral responsibility: it's obligatory of every business. Therefore, it’s crucial to have ethical and legal knowledge when working in the field of data science. That is the core focus of this module - to acquire knowledge in ethics and law.
 
-Throughout the duration of the module, you will be reading the recommended literature related Data Science. The knowledge will be used during in-class discussions as well as to complete the final assignment.
+Throughout the duration of the module, you will be reading the recommended literature related to AI ethics. The knowledge will be used during in-class discussions as well as to complete the final assignment.
 
 ## __Assignment__
 
-For the final assignment, students will be asked to create a paper for the ethical inquiry of the project which is based on the literature provided through the module. Students are required to provide evidence of ethical (AI) organizational capacity, identify problems  and come up with recommendations on improving the ethical AI process within the context of the current project.
+For the final assignment (ethics part), students will be asked to create a paper for the ethical inquiry of the project which is based on the literature provided through the module. Students are required to provide evidence of ethical (AI) organizational capacity, identify problems  and come up with recommendations on improving the ethical AI process within the context of the current project.
 
 Main goal: Students need to prove that the company they are working for, and they are, as marketing data analysts contributing to an ethical (AI) organizational capacity within the given project. 
 

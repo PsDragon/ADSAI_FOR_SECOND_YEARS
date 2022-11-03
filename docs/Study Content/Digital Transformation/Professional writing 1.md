@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-## __Professional writing (1): The structure of a paragraph, rules of writing & Bias-free language__
+## __Professional writing (1): The structure of a paragraph, rules of writing & Bias-free language.__
 \
 <img src="./images/books_banner.png" alt="Books banner" width="600">
 

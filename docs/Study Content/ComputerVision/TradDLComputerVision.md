@@ -13,9 +13,9 @@ Let’s look at an example project on plant biology<sup>[1]</sup>. The dataset c
 <iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/U_BoKRrSzqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Video 1: Video summary of the plant biology project<sup>[1]</sup>.
 
-Finding the plants and roots can be done effectively using DL. Researchers used U-Net to find the plant root pixels. But measuring root length is not feasible with DL. Instead, a traditional CV technique called [skeletonization](https://scikit-image.org/docs/stable/auto_examples/edges/plot_skeleton.html) was selected for this problem.\
+Finding the plants and roots can be done effectively using DL. Researchers used U-Net to find the plant root pixels. But measuring root length is not feasible with DL. Instead, a traditional CV technique called [skeletonization](https://scikit-image.org/docs/stable/auto_examples/edges/plot_skeleton.html) was selected for this problem.
 
-<img src=https://upload.wikimedia.org/wikipedia/commons/9/93/Skel.png width="400">\
+<img src=https://upload.wikimedia.org/wikipedia/commons/9/93/Skel.png width="400">
 Figure 1: An example topological skeleton.
 
 

@@ -119,6 +119,7 @@ Read chapter 4 on “Taking responsibility (Dignum, 2019).
 ### 4. DataLab preparation (Week 2, DataLab 1)
 
 For your final assignment, you need to provide proof and evidence that the company (your client) demonstrates ethical practices. Therefore, we are asking you to conduct research into the company (Banijay) and collect evidence in terms of ethical behavior. You can use Linkedin to check employees in terms of diversity and check the website of Banijay in terms of different policies. 
+
 Additionally, please, prepare questions for Banijay about related to companies' ethical practices. You will have a chance to ask all your questions during the visit on Wednesday during the DataLab.
 
 __Please make sure to upload your question and conducted research to GitHub.__

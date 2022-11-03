@@ -76,6 +76,13 @@ __4a__ Create a folder on GitHub and store all the checklists and hand-outs.
 
 __4b__ Create an APA title page for the report you are writing for this block.  Upload the title page to GitHub.
 
+
+### 5. DataLab preparation (Week 2, DataLab 1)
+
+During Wednesday's DataLab you will be working in the small groups to fill in AI Canvas. In order to prepare for this workshop, you are required to take a course on design thinking. The course is provided by LinkedIn Learning and you can find it by clicking [this link](https://www.linkedin.com/learning/design-thinking-understanding-the-process/what-is-design-thinking?autoplay=true&u=36359204). It will take you just 40 minutes to complete the course. 
+
+__Please make sure to upload your question and conducted research to GitHub.__
+
 ***
 
 ## __Literature__

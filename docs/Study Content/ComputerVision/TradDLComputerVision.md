@@ -8,12 +8,12 @@ sort: 1
 
 Nowadays, it seems like computer vision (CV) is all about deep learning (DL). While it is true that DL models dominate CV applications, it does not mean that traditional CV techniques are no longer in use. Real CV projects typically require multiple steps, from raw data to the required output, forming image processing pipelines. These pipelines rarely rely on pure DL. Instead, it is more common to see a pipeline with DL as its backbone supported by traditional CV. Traditional CV methods can be used for pre-/post-processing of images as well as tasks such as feature extraction, object measurements.
 
-Let’s look at an example project on plant biology<sup>[1]</sup>. The dataset consisted of plant images planted such that their roots were visible. The task was to measure the length of these roots from the images. The first 100 hours of plant development was monitored by photographing the seed at t = 0 h and repeating it every hour until t = 100 h. Roots appear after germination around t = 20 h.
+Let us look at an example project on plant biology<sup>[1]</sup>. The dataset consisted of plant images planted such that their roots were visible. The task was to measure the length of these roots from the images. The first 100 hours of plant development was monitored by photographing the seed at t = 0 h and repeating it every hour until t = 100 h. Roots appear after germination around t = 20 h.
 
 <iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/U_BoKRrSzqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Video 1: Video summary of the plant biology project<sup>[1]</sup>.
 
-Finding the plants and roots can be done effectively using DL. Researchers used U-Net to find the plant root pixels. But measuring root length is not feasible with DL. Instead, a traditional CV technique called [skeletonization](https://scikit-image.org/docs/stable/auto_examples/edges/plot_skeleton.html) was selected for this problem.
+Finding the plants and roots can be done effectively using DL. Researchers used U-Net to find the plant root pixels. However, measuring root length was not feasible with DL. Instead, a traditional CV technique called [skeletonization](https://scikit-image.org/docs/stable/auto_examples/edges/plot_skeleton.html) was selected for this problem.
 
 <img src="./images/skeleton.png" alt="Skeleton" width="80%"/>\
 Figure 1: An example topological skeleton.
@@ -39,22 +39,22 @@ Here is a detailed explanation of each module and how it could be relevant for C
 ⌨️ [0:01:07](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=67s) Installing OpenCV and Caer
 ### Section 1 - Basics
 ⌨️ [0:04:12](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=252s) Reading Images & Video\
-To process images, you need to learn how to read them. This module teaches you how to use cv2.imread(). It also shows how to show images using OpenCV but you can use matplotlib for that as well.\
+To process images, you need to learn how to read them. This module teaches you how to use cv2.imread(). It also shows how to show images using OpenCV, but you can use matplotlib for that as well.\
 \
 ⌨️ [0:12:57](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=777s) Resizing and Rescaling Frames \
-Regardless of working on DL or traditional CV, you need to be comfortable with resizing and rescaling images. For example, neural networks accept square images but real image datasets consist of rectangular images most of the time. Therefore you need to be able to resize\rescale your images before training NNs.
+Regardless of working on DL or traditional CV, it would be best if you were comfortable with resizing and rescaling images. For example, neural networks accept square images but real image datasets commonly consist of rectangular images. Therefore training neural networks might require resizing/rescaling operations.
 \
 ⌨️ [0:20:21](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=1221s) Drawing Shapes & Putting Text\
-If you would like to drawing bounding boxes on images, you need to learn annotating images with OpenCV. This is possible with matplotlib as well.\
+If you would like to draw bounding boxes on images, you need to learn annotating images with OpenCV. This is possible with matplotlib as well.\
 \
 ⌨️ [0:31:55](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=1915s) 5 Essential Functions in OpenCV \
-OpenCV is a vast library where you can find almost any CV operation you can think of. But some are more common than the others. In this module you will learn about turning an image to grayscale, blurring it, detecting its edges and dilation/erosion.\
+OpenCV is a vast library where you can find almost any CV operation. But some are more common than others. In this module, you will learn about turning an image to grayscale, blurring it, detecting its edges, and dilation/erosion.\
 \
 ⌨️ [0:44:13](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=2653s) Image Transformations\
-Image transformations such as rotation is commonly used for increasing training dataset size without actually collecting new images. This is called image augmentation. DL libraries already have image augmentation capabilities, therefore you won't be using OpenCV for that. Nevertheless this is still important to know.\
+Image transformations such as rotation are commonly used to increase training dataset size without collecting new images. This concept is called image augmentation. DL libraries already have image augmentation capabilities. Therefore you will not be using OpenCV for that. Nevertheless, image transformation methods can be helpful if you would like to create custom image augmentation.\
 \
 ⌨️ [0:57:06](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=3426s) Contour Detection\
-Object boundaries can be represented as contours and contours are combination of edges. For simple images and shapes, it is possible to detect objects without DL. Knowing contour detection will help you do that.
+Object boundaries can be represented as contours, and contours are a combination of edges. It is possible to detect objects without DL for simple images and shapes. Knowing contour detection will help you do that.
 
 ### Section 2 – Advanced
 ⌨️ [1:12:53](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=4373s) Color Spaces \

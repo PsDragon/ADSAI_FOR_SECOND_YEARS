@@ -15,7 +15,7 @@ Video 1: Video summary of the plant biology project<sup>[1]</sup>.
 
 Finding the plants and roots can be done effectively using DL. Researchers used U-Net to find the plant root pixels. But measuring root length is not feasible with DL. Instead, a traditional CV technique called [skeletonization](https://scikit-image.org/docs/stable/auto_examples/edges/plot_skeleton.html) was selected for this problem.
 
-<img src="./images/skeleton.png" alt="Skeleton" width="80%"/>
+<img src="./images/skeleton.png" alt="Skeleton" width="80%"/>\
 Figure 1: An example topological skeleton.
 
 
@@ -70,7 +70,7 @@ In the plant biology project mentioned previously<sup>[1]</sup>, root labels wer
 ⌨️ [1:53:06](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=6786s) Masking\
 In another example project combining photonics and machine learning<sup>[2]</sup>, masking was used to extract light intensity values from images. The project required calculating the light intensities inside the filter holes depicted in Figure 2. The dataset contained hundreds of such images. The filter position was fixed with respect to the camera. Therefore filter holes were detected once using circle detection and intensity values inside the circles were calculated. Then, these circles were used as a mask for all of the remaining images to calculate the light intensities.
 
-<img src="./images/masking.png" alt="Mask" width="80%"/>
+<img src="./images/masking.png" alt="Mask" width="80%"/>\
 Figure 2: Masking example from an real machine learning project<sup>[2]</sup>.
 
 ⌨️ [2:01:43](https://www.youtube.com/watch?v=oXlwWbU8l2o&t=7303s) Histogram Computation \

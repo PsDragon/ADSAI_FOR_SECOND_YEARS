@@ -6,6 +6,13 @@ sort: 2
 
 In this knowledge module, you will find a list of online resources to help you create your custom image dataset.  
 
+After this module, you will be able to:
+
+- [ ] Identify, and describe the challenges of object detection
+- [ ] Make an educated guess regarding the size of your dataset required to successfully solve the object detection task
+- [ ] Create a real-life image dataset
+- [ ] Create synthetic image dataset in a robotic simulation environment 
+
 ## 1. Dataset 
 
 In Block C of Year 1, you created a custom dataset based on images extracted from the large-scale Open Images dataset. In this block, you will generate your own data by taking pictures or synthetically generating them in a robotic simulation environment. To meet the project requirements, you, as a group, need to create two image datasets; one real-life image datasets ('difficult' object detection task), and one synthetic image dataset ('easy' object detection task). 

@@ -229,7 +229,7 @@ Evidence in technical report, and integrate in robotic controller & reinforcemen
 
 __Group:__
 
-- Three (3) annotated image datasets for object detection
+- Three (2) annotated image datasets for object detection
 - GitHub folders with README.md
 - [BUas Ethics Review](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html#templates)
 - [Research Data Management Plan](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html#templates)

@@ -252,15 +252,6 @@ The medal courses for this block have been specifically selected to help boost y
 
 ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=bronzemedal) ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=silvermedal) ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=goldmedal)
 
-
-<figure>
-    <img src="./images/MedalChallengesBlockBY2.PNG"/>
-</figure>
-<br>
-
-<!--
-- [ ] Bronze medal: [Do part 1 of this course.]() 
-- [ ] Silver medal: [Do part 2 of this course.]()
-- [ ] Gold medal: 1) Choose a [academic conference](https://en.wikipedia.org/wiki/Academic_conference) to publish your paper in; 2) confer with your mentor about the suitability of the conference; 3) prepare a draft according to their formatting standards; 4) Get your paper checked by your mentor; 5) Potentially iterate based on feedback; 6) submit your draft to the selected conference. -->
+<img src="./images/MedalChallengesBlockBY2.png" alt="Challenges, Block B" width="800"/> 
 
 *** 

@@ -8,7 +8,7 @@ In this knowledge module, you will find a list of online resources to help you c
 
 ## 1. Dataset 
 
-In Block C of Year 1, you created a custom dataset based on images extracted from the large-scale Open Images dataset. In this block, you will generate your own data by taking pictures or synthetically generating them in a robotic simulation environment. To meet the project requirements, you, as a group, need to create three image datasets; two real-life image datasets ('easy', and 'difficult' object detection task), and one synthetic image dataset ('easy' object detection task). 
+In Block C of Year 1, you created a custom dataset based on images extracted from the large-scale Open Images dataset. In this block, you will generate your own data by taking pictures or synthetically generating them in a robotic simulation environment. To meet the project requirements, you, as a group, need to create two image datasets; one real-life image datasets ('difficult' object detection task), and one synthetic image dataset ('easy' object detection task). 
 
 ## 1.1 The challenges of object detection
 
@@ -130,32 +130,30 @@ plt.show()
 
 ### 1.3 Real-life image dataset 
 
-Remember, for this project, we need to create two real-life image datasets:
-
-__1. 'Easy' object detection task__
-
-- 3-5 classes representing a geometric shape (e.g., green cube, yellow cube, red pyramid, etc.).
-- Background: Box/bin
-- 'Scraping' the web for images is not allowed! You will have to generate the images yourself. 
-
-One way to create these objects is by applying origami techniques to a piece of paper:
-
-<iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/8aIJ543vFBI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-*Video 1. Balanced subsampling scheme, learning curve.*
-
-Keep in mind, this dataset should be created in such a way that it can be recreated in a robotic simulation environment. So, no complex geometric figures, please! 
+Remember, for this project, we need to create a real-life image dataset. There are no requirements regarding this dataset; feel free to select the type, and/or number of classes, background(s), etc. This dataset should enable you to solve a 'difficult' object detection task; A pre-trained object detection model should not suffice. However, make the task simple enough to solve. For example, try to avoid training a conventional object detector on a dataset of 10 images or so. 
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Tip: <a href="https://www.dvdvideosoft.com/products/dvd/Free-Video-to-JPG-Converter.htm">Free Video to JPG Converter</a>, an open-source software package, 
 will enable you to create a video and convert it into a collection of images. 
 </div>
 
-__2. 'Difficult' object detection task__
+__Optional__
 
-There are no requirements regarding this dataset; feel free to select the type, and/or number of classes, background(s), etc. 
+It might be interesting to create a real-life image test set that resembles the dataset recreated in the robotic simulation environment. Then we can assess if our object detector performs equally well, better, or worse on real-life data. 
+
+Specifics of image dataset generated in the robotic simulation environment:
+
+- 3-5 classes representing a geometric shape (e.g., green cube, yellow cube, red pyramid, etc.).
+- Background: Box/bin
+
+One way to create these objects is by applying origami techniques to a piece of paper, see video below:
+
+<iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/8aIJ543vFBI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*Video 1. How to make a paper Pyramid easy.*
 
 ### 1.4 Synthetic image dataset 
 
+For more information see, [Robotic Simulation Primer](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/3.%20Robotic%20Simulation%20Primer.html)
 
 ***

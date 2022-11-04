@@ -30,7 +30,7 @@ In the past five years, leading companies like Philips and Nokia have started in
 
 *Figure 1. WWA employers working on robot arm.*
 
-[WWA](https://www.wwa.nl/), a regional SME in manufacturing-process automation,  hereafter the client, has approached you as an – Artificial Intelligence Researcher – to digitilize its business processes by designing and developing a practical, Industry 4.0, robotics application that can perform bin picking by applying cognitive models, and(advanced) reinforcement learning and computer vision algorithms. 
+[WWA](https://www.wwa.nl/), a regional SME in manufacturing-process automation,  hereafter the client, has approached you as an – Artificial Intelligence Researcher – to digitilize its business processes by designing and developing a practical, Industry 4.0, robotics application that can perform bin picking by applying cognitive models, and (advanced) reinforcement learning and computer vision algorithms. 
 
 Good luck!
 
@@ -57,33 +57,32 @@ In this block we don't work with humans or animals but with robots which makes o
 
 #### <mark>DataLab preparation (group)</mark>
 
-DataLab 1:
+DataLab 1, Goal(s):
 
 - [ ] Demonstrate business understanding by identifying, and describing the project's problem statement
 - [ ] Setup your ICT environment (e.g, WSL2, IDE, etc.)
 
 
-DataLab 2:
+DataLab 2, Goal(s):
 
-- [ ] Create two real-life image datasets ('easy', and 'difficult' object detection task)
-- [ ] Create one synthetic image dataset ('easy' object detection task)
+- [ ] Create one (1) real-life image dataset ('difficult' object detection task)
+- [ ] Create one (1) synthetic image dataset ('easy' object detection task)
 
 ### Week 2
 
-- [Introduction to traditional/DL computer vision]()
 - [Traditional computer vision](https://adsai.buas.nl/Study%20Content/ComputerVision/TradDLComputerVision.html)
 - [DL computer vision (1)]()
 - [Data annotation](../../Study%20Content/ComputerVision/ComputerVisionDataAnnotation.html)
 
 #### <mark>DataLab preparation (group)</mark>
 
-DataLab 1:
+DataLab 1, Goal(s):
 
-- [ ] Create two (2) annotated image datasets with the real-life data ('easy', and 'difficult' object detection task)
+- [ ] Create one (1) annotated image dataset with the real-life data ('difficult' object detection task)
 - [ ] Create one (1) annotated image dataset with the synthetic data ('easy' object detection task)
 - [ ] Demonstrate foundational knowledge and understanding of the theories, principles, methods, and techniques related to the subfield of object detection by summarizing, and critically evaluating some of its seminal works.
 
-DataLab 2:
+DataLab 2, Goal(s): 
 
 Make sure that you completed the self-study on [Traditional computer vision](https://adsai.buas.nl/Study%20Content/ComputerVision/TradDLComputerVision.html) before this DataLab, because the point of the DataLab is to apply what you have learned during the self-study.
 
@@ -101,11 +100,11 @@ Make sure that you completed the self-study on [Traditional computer vision](htt
 
 #### <mark>DataLab preparation (individual)</mark>
 
-DataLab 1:
+DataLab 1, Goal(s):
 
 - [ ] Identify, evaluate, and integrate relevant information on DL methods from a variety of sources to solve an object detection task 
 
-DataLab 2:
+DataLab 2, Goal(s):
  
 - [ ] Apply newly gained knowledge of DL methods to solve an object detection task 
 
@@ -119,11 +118,11 @@ DataLab 2:
 
 #### <mark>DataLab preparation (individual)</mark>
 
-DataLab 1:
+DataLab 1, Goal(s):
 
 - [I like to move it, move it!]() 
 
-DataLab 2:
+DataLab 2, Goal(s):
 
 - [Rack 'em and stack 'em!]()
 
@@ -134,9 +133,9 @@ DataLab 2:
 
 #### <mark>DataLab preparation (individual)</mark>
 
-DataLab 1:
+DataLab 1, Goal(s):
 
-DataLab 2:
+DataLab 2, Goal(s):
 
 ### Week 6-7
 
@@ -144,9 +143,9 @@ DataLab 2:
 
 #### <mark>DataLab preparation (individual)</mark>
 
-DataLab 1:
+DataLab 1, Goal(s):
 
-DataLab 2:
+DataLab 2, Goal(s):
 
 ### Week 8 
 
@@ -154,9 +153,9 @@ DataLab 2:
 
 #### <mark>DataLab preparation (individual)</mark>
 
-DataLab 1:
+DataLab 1, Goal(s):
 
-DataLab 2:
+DataLab 2, Goal(s):
 
 *** 
 
@@ -169,10 +168,10 @@ In the first three weeks of Block B, you will acquire foundational knowledge and
 
 To solve the project's computer vision task, you need to:
 
-- Create three (3) annotated image datasets for object detection;
+- Create two (2) annotated image datasets for object detection;
 - Explore the (meta)data, and subsequently assess its quality;
 - Identify, and select appropriate object detection algorithms to solve the computer vision task;
-- Build, (train), and evaluate a traditional and deep learning-based object detection algorithm
+- Build, (train), and evaluate a traditional and deep learning-based object detection algorithm;
 - Incorporate your research findings in a technical report
 
 ### Robotics and Reinforcement Learning
@@ -249,8 +248,19 @@ __Individual:__
 
 ## Medal Challenges 
 
-You are encouraged to get the best out of yourself. Therefore, within the ADS&AI program, we regularly allow you to push yourself further by giving you so-called bronze-silver-gold challenges. By achieving these, you can earn badges for your GitHub page, which mark excellent students: 
+The medal courses for this block have been specifically selected to help boost your portfolio and extend your knowledge and expertise. You may also finish them after the initial deadline!
 
 ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=bronzemedal) ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=silvermedal) ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=goldmedal)
+
+
+<figure>
+    <img src="./images/MedalChallengesBlockBY2.PNG"/>
+</figure>
+<br>
+
+<!--
+- [ ] Bronze medal: [Do part 1 of this course.]() 
+- [ ] Silver medal: [Do part 2 of this course.]()
+- [ ] Gold medal: 1) Choose a [academic conference](https://en.wikipedia.org/wiki/Academic_conference) to publish your paper in; 2) confer with your mentor about the suitability of the conference; 3) prepare a draft according to their formatting standards; 4) Get your paper checked by your mentor; 5) Potentially iterate based on feedback; 6) submit your draft to the selected conference. -->
 
 *** 

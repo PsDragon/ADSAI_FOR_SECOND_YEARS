@@ -49,8 +49,8 @@ The block starts with a kick-off lecture.
 
 - <mark>Field trip (WWA): 15th of November, 10:00-12:00 (Further details will follow).</mark>
 - [ICT setup](../../Study%20Content/MLOps/MLOps1.html)
-- [Robotic Simulation Primer](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/3.%20Robotic%20Simulation%20Primer.html)
 - [Data collection](../../Study%20Content/ComputerVision/ComputerVisionDataCollection.html)
+- [Robotic Simulation Primer](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/3.%20Robotic%20Simulation%20Primer.html)
 - [Data management](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html)
 
 In this block we don't work with humans or animals but with robots which makes our lives much easier! Therefore, we don't need to bother ourselves with a letter of informed consent or a research information letter. For this block we need to use and fill in the following templates: [ ] BUas Ethics Review; [ ] Research Data Management Guide; [ ] Codebook. *This is a group deliverable*, so you can all hand-in the same files; and evidence that you did follow through with you Research Data Management Plan & Procedures described in there. Make sure that you contribute to each of these deliverables and are able to evidence this!
@@ -71,7 +71,7 @@ DataLab 2, Goal(s):
 ### Week 2
 
 - [Traditional computer vision](https://adsai.buas.nl/Study%20Content/ComputerVision/TradDLComputerVision.html)
-- [DL computer vision (1)]()
+- [DL computer vision I: Theory]()
 - [Data annotation](../../Study%20Content/ComputerVision/ComputerVisionDataAnnotation.html)
 
 #### <mark>DataLab preparation (group)</mark>
@@ -96,7 +96,7 @@ Make sure that you completed the self-study on [Traditional computer vision](htt
 
 ### Week 3
 
-- [DL computer vision (2)](../../Study%20Content/Computer%Vision/DLComputerVision1b.html)
+- [DL computer vision II: Application](../../Study%20Content/Computer%Vision/DLComputerVision1b.html)
 
 #### <mark>DataLab preparation (individual)</mark>
 

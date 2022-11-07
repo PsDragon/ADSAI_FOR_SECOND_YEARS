@@ -7,9 +7,9 @@ Kindly follow the table of contents below, this will guide you through what is e
 
 In block A, you explored various themes around digital transformation such as business intelligence using Power BI; and critically examined applications of AI and digital technologies to existing businesses processes. In this block, you will take on a more hands-on approach towards improving a business process using digital transformation. In particular, you will explore one specific role within the theme of digitalisation - *the Data Scientist* – and help the client - *Banijay Group* - improve their business processes using data, mathematics, and machine learning.
 
-The Banijay Group is a content creation company for television and multimedia platforms operating within the Media & Entertainment and Telecommunications industries. The group was established in France in 2008, it's present in 21 countries, and it owns 120 production companies that produces 130,000 hours of content such as the world-famous Big Brother, Black Mirror, MasterChef, among many other brands. Banijay's goals are to create, produce and deliver high-quality, multi-genre content and increase its Intellectual Property (IP) through creative entrepreneurship and business acumen.  
+The [Banijay Group](https://banijaybenelux.com/) is a content creation company for television and multimedia platforms operating within the Media & Entertainment and Telecommunications industries. The group was established in France in 2008, it's present in 21 countries, and it owns 120 production companies that produces 130,000 hours of content such as the world-famous Big Brother, Black Mirror, MasterChef, among many other brands. Banijay's goals are to create, produce and deliver high-quality, multi-genre content and increase its Intellectual Property (IP) through creative entrepreneurship and business acumen.  
 
-> The client, [Banijay Group](https://banijaybenelux.com/), has approached you – the Data Scientist – with the aim to analyse their current TV viewership metrics and present a plan to improve their data usage (with multiple sources) and ultimately, increase their TV ratings.
+> The client has approached you – the Data Scientist – with the aim to analyse their current TV viewership metrics and present a plan to improve their data usage (with multiple sources) and ultimately, increase their TV ratings.
 
 **Specifically, the goal for this block is to develop a model that predicts viewer rating (using Twitter and content data, and any additional data you can collect) using Machine Learning Algorithms and write a report on it. Additionally, the report should contain a section on AI ethics using the knowledge acquired during this block.**
 
@@ -56,7 +56,6 @@ With a view to enabling Banijay’s stakeholders to achieve the desired TV ratin
 
 ## Tuesday
 - [Professional writing I: The structure of a paragraph, rules of writing & Bias-free language](../../Study%20Content/Digital%20Transformation/Professional%20writing%201.html)
-
 - [AI Business Model Canvas](../../Study%20Content/Digital%20Transformation/Professional%20writing%201.html)
 
 ## Wednesday
@@ -80,7 +79,6 @@ The client presents the Creative Brief and students have a chance to ask relevan
 ## Tuesday
 
 - [Python: Matplotlib](../../Study%20Content/Programming/12.Data%20visualization%20in%20Python.html)
-
 - [Python: Numpy](../../Study%20Content/Programming/7.Python%20Numpy.html)
 
 ## Wednesday
@@ -94,6 +92,7 @@ The client presents the Creative Brief and students have a chance to ask relevan
 ## Friday
 
 - [DataLab: Data Science and Society](../../Study%20Content/Programming/8.DataLabPR2.html)
+
 - **Formative Feedback II**
 
 # Week 4 : Machine Learning
@@ -107,8 +106,7 @@ The client presents the Creative Brief and students have a chance to ask relevan
 
 - [Classification Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/ClassificationAlgorithms.html)
 - [Evaluating Machine Learning algorithms: Bias and Variance](../../Study%20Content/Introduction%20to%20Machine%20Learning/ClassificationAlgorithms.html)
- 
- 
+
 
 ## Wednesday
 

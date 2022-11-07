@@ -43,6 +43,7 @@ Interested in writing your own production code in Python using [Object Oriented 
 
 For information on how to document, and develop reproducible Python code, see:
 
+- [Python: Coding standards and reproducible data science](https://adsai.buas.nl/Study%20Content/Programming/14.Python%20PEP8.html)
 - [Make the Most Value Out of Your Code](https://towardsdatascience.com/make-most-value-of-your-code-8db8073fc43b) 
 - [Ten Simple Rules for Reproducible Research in Jupyter Notebooks](https://arxiv.org/ftp/arxiv/papers/1810/1810.08055.pdf)
 - [Cookiecutter: Better Project Templates](https://cookiecutter.readthedocs.io/en/stable/)

@@ -2,7 +2,7 @@
 sort: 4
 ---
 
-## __DataLab Week 2. Day 2.__
+## __DataLab Week 2. Day 1.__
 \
 <img src="./images/datalab_banner.jpg" alt="Books banner" width="600"/>
 

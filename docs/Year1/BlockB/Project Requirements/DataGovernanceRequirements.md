@@ -1,0 +1,23 @@
+# Data Governance and Ethics: Creative Brief Requirements
+
+For the final assignment, students will be asked to create a paper for the ethical inquiry of the project which is based on the literature provided through the module. Students are required to provide evidence of ethical (AI) organizational capacity, identify problems and come up with recommendations on improving the ethical AI process within the context of the current project. 
+
+Main goal: Students need to prove that the company they are working for, and they are, as marketing data analysts, contributing to an ethical (AI) organizational capacity within the given project.
+
+## Requirements
+
+Plase check the assessment rubric and note the requirements below.
+
+- [ ] Based on the context of the given project and information provided during the course, students need to explain all three elements that are vital for an ethical (AI) organizational capacity in relation to the given project;  
+
+- [ ] The students need to identify parties responsible for each element of an ethical (AI) organizational capacity in relation to the given project.  
+
+- [ ] The students need to provide proof that the client/company demonstrates ethical practices.  
+
+>TIP: You can do it by conducting additional research into the company and asking your client ethics-related questions.  
+
+- [ ] The students need to provide proof of ethical processes and tools used within this project. In order to do so, students are required to follow at least one framework for making ethical decisions to ensure ethical decision-making within their project. Besides it, students need to provide evidence of consideration of GDPR and Ethical Guidelines for Statistical Practice.
+
+- [ ] The students need to identify and explain problems in the ethical (AI) organizational capacity in the context of the given project.
+
+- [ ] Last but not least, students are being asked to provide advice on improving an ethical (AI) organizational capacity, within the given project.

@@ -4,46 +4,25 @@ Each of the 8 weeks has a fixed structure : on Monday, Tuesday and Thursday you 
 Kindly follow the table of contents below, this will guide you through what is expected of you on a daily basis.
 
 ## Project Based Learning - Creative Brief
-In block A, you explored various themes around digital transformation such as business intelligence using Power BI; and critically examined applications of AI and digital technologies to existing businesses processes. In this block, you will take on a more hands-on approach towards improving a business process using digital transformation. In particular, you will explore one specific role within the theme of digitalisation - **the Data Analyst** – and help **Banijay** improve their business processes using data, mathematics, and machine learning.
 
-> The client, [Banijay Group](https://banijaybenelux.com/), has approached you – the Data Analyst – with the aim to analyse their current TV viewership metrics and present a plan to improve their data usage (with multiple sources) and ultimately, increase their TV ratings. 
- 
-Below you will find the **project requirements**, but there will be an opportunity for you to clarify any questions you may have about the project directly with a stakeholder from Banijay during the **project kick off meeting on Wednesday 23rd November 2022** (trip details to follow).
+In block A, you explored various themes around digital transformation such as business intelligence using Power BI; and critically examined applications of AI and digital technologies to existing businesses processes. In this block, you will take on a more hands-on approach towards improving a business process using digital transformation. In particular, you will explore one specific role within the theme of digitalisation - *the Data Scientist* – and help the client - *Banijay Group* - improve their business processes using data, mathematics, and machine learning.
 
+The Banijay Group is a content creation company for television and multimedia platforms operating within the Media & Entertainment and Telecommunications industries. The group was established in France in 2008, it's present in 21 countries, and it owns 120 production companies that produces 130,000 hours of content such as the world-famous Big Brother, Black Mirror, MasterChef, among many other brands. Banijay's goals are to create, produce and deliver high-quality, multi-genre content and increase its Intellectual Property (IP) through creative entrepreneurship and business acumen.  
 
-## Creative Brief Requirements:
-With a view to enabling Banijay’s stakeholders to achieve the desired TV ratings, a successful project will meet the following **requirements**:  
- 
-- **Become familiar** with various data sets: TV viewer ratings per minute/SKO for op-1, per target group (the key KPI/dependent variable); Aggregate (average) per fragment (Banijay to provide the dataset); Twitter data feed and trending topics using the public API (to be scrapped by students/ data to be will provided to students and the Academic software license); Tweepy (via API) vs twint (url scrape) (data governance): engagement metrics (facts); Sentiment analysis (hugging face); Content Data (provided by Hans Bouwknecht and Banijay); Dimensions (host couples/ key topics per fragment); key topics per fragment (Provided by Banijay); plus any additional and relevant data students can find (knmi). The datasets provided will be in .csv and .json formats. 
+> The client, [Banijay Group](https://banijaybenelux.com/), has approached you – the Data Scientist – with the aim to analyse their current TV viewership metrics and present a plan to improve their data usage (with multiple sources) and ultimately, increase their TV ratings.
 
-- **Investigate** viewer ratings from daily talk shows and proactively research possible causes for its ongoing fluctuations.  
+**Specifically, the goal for this block is to develop a model that predicts viewer rating (using Twitter and content data, and any additional data you can collect) using Machine Learning Algorithms and write a report on it. Additionally, the report should contain a section on AI ethics using the knowledge acquired during this block.**
 
-- **Analyse** how the relationship between higher and lower TV ratings is correlated with social media engagement (primarily using Twitter data).  
+Below you will find the <mark>project requirements</mark>, but there will be an opportunity for you to clarify any questions you may have about the project directly with a stakeholder from Banijay during the **project kick off meeting on Wednesday 23rd November 2022**.
 
-- **Make** Twitter data predictive during daytime.  
+## Project Requirements
 
-- **Include** content data related to topics discussed in the show.  
+With a view to enabling Banijay’s stakeholders to achieve the desired TV ratings, a successful project will meet the following requirements:  
 
-- **Create** a descriptive analysis that explains the correlation between ratings and social media engagement of the selected TV show (Op1) during live transmission.  
-
-- **Evaluate** daytime topic engagement on Twitter and the ratings of items with the same topics in the TV show in the evening.   
-
-- **Present** a dashboard that contains insights regarding the relationship between social media sentiment and Twitter traffic and ratings.   
-
-- **Predict/Forecast** the success of the selected TV show in the evening basing your decision on Twitter engagement based on the topics posted on the same day.  
-
-**Knowledge Modules:** In this Block, you'll need to complete Knowledge Modules to help you gain the expertise and skills required to solve the Banijay Project Brief.
-
-<figure>
-    <img src=".\phases.PNG" />
-    <figcaption>Please click the links below to view more detailed requirements</figcaption>
-</figure>
-<br>
-
-- [Marketing Analytics & Intelligence](../../Study%20Content/Business%20Intelligence/BusinessIntelligenceBlockBVersion3.html)
-- [Programming in Python](../../Study%20Content/Mathematics%20I/5.%20DataLab2.html)
-- [Machine Learning](https://adsai.buas.nl/Study%20Content/Introduction%20to%20Machine%20Learning/Assignment.html)
-- [Ethics and Legal Frameworks](../../Study%20Content/Digital%20Transformation/Ethics%20&%20Law.html)
+- [Data Governance and Ethics](../BlockB/Project%20Requirements/DataGovernanceRequirements.html)
+- [Machine Learning](../BlockB/Project%20Requirements/MachineLearningRequirements.html)
+- [Linear Algebra](../BlockB/Project%20Requirements/LinearAlgebraRequirements.html)
+- [Report](../BlockB/Project%20Requirements/ReportRequirements.html)
 
 # Block Outline
 

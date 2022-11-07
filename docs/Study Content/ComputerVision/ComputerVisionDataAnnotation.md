@@ -6,6 +6,13 @@ sort: 3
 
 In this knowledge module, you will find a list of online resources to help you annotate a custom image dataset, which in turn can be use to solve an object detection task.  
 
+After this module, you will be able to:
+
+- [ ] List, and describe the two main representations to specify a bounding box
+- [ ] List, and describe four types of labeling approaches according to Sager et al. (2021)
+- [ ] Select a (open source) labelling tools that is best suited for the object detection task based on their features
+- [ ] Deploy explainable AI methods to asses the quality of the image dataset, and/or model
+- [ ] List, and describe the most commonly used annotation formats for object detection
 
 ## 1. Image labeling process
 

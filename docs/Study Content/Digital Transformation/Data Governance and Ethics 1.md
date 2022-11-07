@@ -125,6 +125,7 @@ Additionally, please, prepare questions for Banijay about related to companies' 
 __Please make sure to upload your question and conducted research to GitHub.__
 
 ## __Literature__
+
 Baxter, K . (2018). *How to Build Ethics into AI — Part I Research-based recommendations to keep
  humanity in AI.* Retrieved from: https://medium.com/salesforce-ux/how-to-build-ethics-into-
  ai-part-i-bf35494cce9

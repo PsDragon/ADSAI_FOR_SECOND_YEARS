@@ -29,8 +29,12 @@ Plase check the assessment rubric and note the requirements below.
 
 ## __Literature__
 
-Committee on Professional Ethics of the American Statistical Association (2018, April 14). *Ethical Guidelines for Statistical Practice.* https://www.amstat.org//asa/files/pdfs/EthicalGuidelines.pdf
+Baxter, K . (2018). *How to Build Ethics into AI — Part I Research-based recommendations to keep
+ humanity in AI.* Retrieved from: https://medium.com/salesforce-ux/how-to-build-ethics-into-
+ ai-part-i-bf35494cce9
 
-Dignum, V. (2019). *Responsible Artificial Intelligence: How to Develop and Use AI in a Responsible Way (Artificial Intelligence: Foundations, Theory, and Algorithms).*
+Bouwer, J. (Ed.) (2019). *Ethical dilemmas in the creative, cultural and service industries.* Routledge. http://proxy1.dom1.nhtv.nl/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=2142456&site=ehost-live&scope=site
 
-*General Data Protection Regulation (GDPR) – Official Legal Text.* (2019, 2 september). General Data Protection Regulation (GDPR). https://gdpr-info.eu/
+Dignum, V. (2019). *Responsible Artificial Intelligence: How to Develop and Use AI in a Responsible Way (Artificial Intelligence: Foundations, Theory, and Algorithms).* (Freely accessible through Springer using BUAS login) 
+
+*General Data Protection Regulation (GDPR) – Official Legal Text.*(2019, 2 september). General Data Protection Regulation (GDPR). https://gdpr-info.eu/ 

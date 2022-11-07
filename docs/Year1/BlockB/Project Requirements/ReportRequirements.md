@@ -8,7 +8,7 @@ Plase check the assessment rubric and note the levels below.
 
 ### LEVEL 3 (MINIMUM) REQUIREMENTS  
 
-1. Maximum 3000 words (excl. cover/table of content/list of references and appendices  
+1. Maximum 3000 words (excl. cover/table of content/list of references and appendices);
 2. Correct spelling;  
 3. Page formatting is according to APA 7th Edition;  
 4. The report doesn’t contain any bias language;  
@@ -32,6 +32,24 @@ The final report has to be a pdf file uploaded no later than 5pm on last data la
 
 ## References
 
-<a id="1">[1]</a>
-<https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/general_format.html>
-<br>
+American Psychological Association. (2020). *APA style guide* (7th ed.)
+
+American Psychological Association. (2022). *Reference Guide for Journal Articles, Books, and Edited Book Chapters.* https://apastyle.apa.org/instructional-aids/reference-guide.pdf
+
+American Psychological Association. (2022). *Common Reference Examples Guide.* https://apastyle.apa.org/instructional-aids/reference-examples.pdf
+
+American Psychological Association. (2021). *Publication Manual, 7th edition student paper checklist.*
+https://apastyle.apa.org/instructional-aids/publication-manual-formatting-checklist.pdf
+
+American Psychological Association. (2022). *APA Style abbreviations guide.* https://apastyle.apa.org/instructionalaids/abbreviations-guide.pdf
+
+American Psychological Association. (2022). *APA Style numbers and statistics guide.* https://apastyle.apa.org/
+instructional-aids/numbers-statistics-guide.pdf
+
+American Psychological Association. (2022). *APA Style transitions guide.* https://apastyle.apa.org/instructional-aids/style-transitions-guide.pdf
+
+George Mason University Writing Center. (2017). *Reducing informality in academic writing.* https://d101vc9winf8ln.cloudfront.net/documents/26773/original/Reducing_Informality_in_Academic_WritingATI.pdf?1565036151
+
+Hall, H. (2013).  *Rules and Conventions of Academic Writing by Hall.* https://drhazelhall.files.wordpress.com/2013/01/2013_hall_rules-conventions_ac_writing.pdf
+
+Smart Words.(2013). *Linking words.* https://www.smart-words.org/linking-words/linking-words.pdf

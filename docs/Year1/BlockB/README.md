@@ -221,5 +221,5 @@ The client presents the Creative Brief and students have a chance to ask relevan
 
 ## Friday
 
-- **Project Dissemination ** 
+- **Project Dissemination** 
 - **DataLab:** Work on the project brief.  

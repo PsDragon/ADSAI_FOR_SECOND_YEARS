@@ -21,3 +21,13 @@ Plase check the assessment rubric and note the requirements below.
 - [ ] The students need to identify and explain problems in the ethical (AI) organizational capacity in the context of the given project.
 
 - [ ] Last but not least, students are being asked to provide advice on improving an ethical (AI) organizational capacity, within the given project.
+
+***
+
+## __Literature__
+
+Committee on Professional Ethics of the American Statistical Association (2018, April 14). *Ethical Guidelines for Statistical Practice.* https://www.amstat.org//asa/files/pdfs/EthicalGuidelines.pdf
+
+Dignum, V. (2019). *Responsible Artificial Intelligence: How to Develop and Use AI in a Responsible Way (Artificial Intelligence: Foundations, Theory, and Algorithms).*
+
+*General Data Protection Regulation (GDPR) – Official Legal Text.* (2019, 2 september). General Data Protection Regulation (GDPR). https://gdpr-info.eu/

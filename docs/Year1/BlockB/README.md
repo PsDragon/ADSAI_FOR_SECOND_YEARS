@@ -26,68 +26,90 @@ With a view to enabling Banijay’s stakeholders to achieve the desired TV ratin
 
 # Block Outline
 
-# Week 1: Block B Kickoff, Banijay Kickoff & Programming in Python 
+# Week 1: Programming in Python 
 
 ## Monday
-- Creative Brief Introduction: Banijay Group – Predicting TV Ratings 
-- Creative Brief and Deliverables (Dashboard, report and presentation) 
+- [09:00 to 11:00 Block Kickoff: Fe1.032]()
 - [Programming: a primer](../../Study%20Content/Programming/1.StartingProgramming.html)
 - [Setting up your development environment](../../Study%20Content/Programming/2.SetupIDE.html)
-- [Python for AI and Data ScienceI](../../Study%20Content/Programming/3.Python%20foundations.html)
+- [Python for AI and Data Science](../../Study%20Content/Programming/3.Python%20foundations.html)
 
 ## Tuesday
 - [Python data types & data structures I](../../Study%20Content/Programming/5.Python%20data%20types%20and%20data%20structures.html)
 
 ## Wednesday
-- [Data Lab 1: Python Foundation exercises](../../Study%20Content/Programming/4.DataLabPR1.html)
+- [Data Lab: Python Foundation exercises](../../Study%20Content/Programming/4.DataLabPR1.html)
 
 ## Thursday 
 - [Python data types & data structures II](../../Study%20Content/Programming/5.Python%20data%20types%20and%20data%20structures.html)
 - [Python: Coding standards and reproducible data science](../../Study%20Content/Programming/14.Python%20PEP8.html)
 
 ## Friday
-- [Python data types & data structures II](../../Study%20Content/Programming/8.DataLabPR2.html)
+- [Data Lab: Python data types & data structures](../../Study%20Content/Programming/8.DataLabPR2.html)
 
+<<<<<<< Updated upstream
 # Week 2 : Ethics & Data Analytics
 
 ## Monday
 - [Data Governance and Ethics (1): Introduction into Ethics: Ethics, Business ethics and introduction into AI ethics.](../../Study%20Content/Digital%20Transformation/Ethics%20in%20AI%201.html)
+=======
+
+# Week 2 : Ethics & Data Governance
+
+## Monday
+- [Ethics in AI I: Introduction into Ethics: Ethics, Business ethics and introduction into AI ethics.](../../Study%20Content/Digital%20Transformation/Ethics%20in%20AI%201.html)
+>>>>>>> Stashed changes
 
 ## Tuesday
-- [Professional writing (1): The structure of a paragraph, rules of writing & Bias-free language](../../Study%20Content/Digital%20Transformation/Professional%20writing%201.html)
+- [Professional writing I: The structure of a paragraph, rules of writing & Bias-free language](../../Study%20Content/Digital%20Transformation/Professional%20writing%201.html)
+
+- [AI Business Model Canvas](../../Study%20Content/Digital%20Transformation/Professional%20writing%201.html)
 
 ## Wednesday
 - [DataLab Week 2. Day 1](../../Study%20Content/Digital%20Transformation/DataLab%20Week%202.%20Day%201.html)
 
+<<<<<<< Updated upstream
 ## Thursday 
 - [Data Governance and Ethics (2): Ethical Guidelines for Statistical Practice. Introduction to GDPR.](../../Study%20Content/Digital%20Transformation/Ethics%20in%20AI%202.html)
 - [Professional writing (2): Citations](../../Study%20Content/Digital%20Transformation/Professional%20writing%202.html)
+=======
+**Site-visit:** Banijay studios in Amsterdam (from 10 am to 1 pm at Banijay. Lunch will be provided by the client. Meet at BUas at 07.30 for 08 am prompt departure) 
+ 
+The client presents the Creative Brief and students have a chance to ask relevant questions.  
+ 
+
+
+## Thursday 24th Nov/22 Home study 
+- [Ethics in AI II: Ethical Guidelines for Statistical Practice. Introduction to GDPR.](../../Study%20Content/Digital%20Transformation/Ethics%20in%20AI%202.html)
+- [Professional writing II: Citations](../../Study%20Content/Digital%20Transformation/Professional%20writing%202.html)
+>>>>>>> Stashed changes
 
 ## Friday
 - [DataLab Week 2. Day 2](../../Study%20Content/Digital%20Transformation/DataLab%20Week%202.%20Day%202.html)
 
-# Week 3 : Data processing in Python
+# Week 3 : Python for Data Analysis
 
 ## Monday
- 
-Python: Pandas 
+
+- [Python: Pandas](../../Study%20Content/Programming/6.Getting%20Started%20with%20Pandas.html)
 
 ## Tuesday
 
-Python: Advanced Pandas and Matplotlib 
+- [Python: Matplotlib](../../Study%20Content/Programming/12.Data%20visualization%20in%20Python.html)
+
+- [Python: Numpy](../../Study%20Content/Programming/7.Python%20Numpy.html)
 
 ## Wednesday
 
-DataLab: Python EDA and data pre-processing 
+- [Data Lab: Python data types & data structures](../../Study%20Content/Programming/8.DataLabPR2.html)
 
 ## Thursday
 
-Python: Scraping web data 
+- [Python: Data Science and Society](../../Study%20Content/Programming/7.Python%20Numpy.html)
 
 ## Friday
 
-Project Brief: Scraping Twitter Data and Analyses 
-
+- [Data Lab: Data Science and Society](../../Study%20Content/Programming/8.DataLabPR2.html)
 # Week 4 : Machine Learning
 
 ## Monday

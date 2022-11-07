@@ -45,7 +45,6 @@ and identifying opportunities to include AI in the curriculum of these domains a
 
 For an example of how this understanding is gained, and why research skills are essential, click [here](https://universitybusiness.co.uk/comment/preparing-students-for-an-ai-future/) and [here](https://governanceai.github.io/US-Public-Opinion-Report-Jan-2019/executive-summary.html). 
 
-
 **Your goal for this block is to use quantitative and qualitative methods to
 explore and understand (staff and student)
 attitudes, knowledge, acceptance, and perceived impact of AI across

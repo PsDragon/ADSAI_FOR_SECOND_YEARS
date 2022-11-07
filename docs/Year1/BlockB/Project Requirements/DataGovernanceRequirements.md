@@ -13,7 +13,7 @@ Main goal: Students need to prove that the company they are working for, and the
 
 Plase check the assessment rubric and note the requirements below.
 
-- [ ] Based on the context of the given project and information provided during the course, students need to explain all three elements that are vital for an ethical (AI) organizational capacity in relation to the given project;  
+- [ ] Based on the context of the given project and information provided during the course, students need to explain all three elements that are vital for an ethical (AI) organizational capacity in relation to the given project.
 
 - [ ] The students need to identify parties responsible for each element of an ethical (AI) organizational capacity in relation to the given project.  
 

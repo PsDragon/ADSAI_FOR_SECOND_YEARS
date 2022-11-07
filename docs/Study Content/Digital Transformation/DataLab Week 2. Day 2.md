@@ -45,7 +45,7 @@ You can find the paper by clicking [this link]( https://www.nielsen.com/wp-conte
 
 ## 5) Work on the assignment
 
-During the last DataLab, you had a chance to visit the office of Banijay and ask them questions about companies’ ethical behavior. So now you are advised to use the rest of the time (before the guest lecture) to work on your ethics paper and write about companies ethical practices ( make sure to check [the requirements for ethics part](https://adsai.buas.nl/Study%20Content/Digital%20Transformation/Ethics%20in%20AI%20requirements.html) of your final assignment)
+During the last DataLab, you had a chance to visit the office of Banijay and ask them questions about companies’ ethical behavior. So now you are advised to use the rest of the time (before the guest lecture) to work on your ethics paper and write about companies ethical practices ( make sure to check [the requirements for ethics part](https://adsai.buas.nl/Project%20Requirements/DataGovernanceRequirements.html) of your final assignment)
 
 ## 3) Workshop: Feedback (10:00-16:00)
 

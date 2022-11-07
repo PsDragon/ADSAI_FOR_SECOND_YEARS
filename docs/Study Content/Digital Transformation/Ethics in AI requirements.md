@@ -2,7 +2,7 @@
 sort: 7
 ---
 
-# __Ethics in AI__
+# __Ethics in AI requirements__
 
 While data is bringing various benefits to different companies and businesses, it also presents unique ethical and legal challenges. Doing ethics right is not just a moral responsibility: it's obligatory of every business. Therefore, it’s crucial to have ethical and legal knowledge when working in the field of data science. That is the core focus of this module - to acquire knowledge in ethics and law.
 
@@ -16,15 +16,15 @@ Main goal: Students need to prove that the company they are working for, and the
 
 __Requirements:__
 
-- Based on the context of the given project and information provided during the course, students need to explain all three elements that are vital for an ethical (AI) organizational capacity in relation to the given project; 
+- Based on the context of the given project and information provided during the course, students need to explain all three elements that are vital for an ethical (AI) organizational capacity in relation to the given project.
 
-- The students need to identify parties responsible for each element of an ethical (AI) organizational capacity in relation to the given project. 
+- The students need to identify parties responsible for each element of an ethical (AI) organizational capacity in relation to the given project.
 
--  The students need to provide  proof that the client/company demonstrates ethical practices. __TIP:__ You can do it by conducting additional research into the company and asking your client ethics related questions. 
+-  The students need to provide  proof that the client/company demonstrates ethical practices; __TIP:__ You can do it by conducting additional research into the company and asking your client ethics related questions. 
 
 - The students need to provide proof of ethical processes and tools used within this project. In order to do so, students are required to follow at least one framework for making ethical decisions to ensure ethical decision-making within their project. Besides it, students need to provide evidence of consideration of GDPR and Ethical Guidelines for Statistical Practice.
 
-- The student need to identify and explain problems in the ethical (AI) organizational capacity in the context of the given project
+- The student need to identify and explain problems in the ethical (AI) organizational capacity in the context of the given project.
 
 - The last but not least, students are being asked to provide advice on improving an ethical (AI) organizational capacity, within the given project.
 

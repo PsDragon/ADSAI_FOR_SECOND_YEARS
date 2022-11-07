@@ -86,7 +86,7 @@ This element is focused on ethical behavior of professionals/clients towards the
 Due to the increasing impact, AI has on our society, the necessity to incorporate ethics within AI raises rapidly. Questions of values and norms become more vital since they can have negative biases which are almost not traceable but have an influence on our lives. Therefore, every AI professional must be aware about ethical - decision making and different policies and norms associated with ethics with data science and AI.
 In this part of the independent study day, we will go into the definition of AI ethics, ethical decision – making and practical development of AI that is aligned with ethics. 
 
-__3.3 Definition of AI ethics__ 
+__3.1 Definition of AI ethics__ 
 
 Watch the video by IMB Technology: "What is AI Ethics?"
 
@@ -112,7 +112,7 @@ __3.4	Ethical Decision – Making in the context of Data Science and AI__
 
 Read chapter 3 on "Ethical Decision-Making" (Dignum, 2019).
 
-__3.5   Ethical Development of AI__
+__3.2   Ethical Development of AI__
 
 Read chapter 4 on “Taking responsibility (Dignum, 2019).
 

@@ -38,24 +38,20 @@ With a view to enabling Banijay’s stakeholders to achieve the desired TV ratin
 ## Tuesday
 - [Python data types & data structures I](../../Study%20Content/Programming/5.Python%20data%20types%20and%20data%20structures.html)
 
-
 ## Wednesday
 - [Data Lab 1: Python Foundation exercises](../../Study%20Content/Programming/4.DataLabPR1.html)
-
 
 ## Thursday 
 - [Python data types & data structures II](../../Study%20Content/Programming/5.Python%20data%20types%20and%20data%20structures.html)
 - [Python: Coding standards and reproducible data science](../../Study%20Content/Programming/14.Python%20PEP8.html)
 
-
 ## Friday
 - [Python data types & data structures II](../../Study%20Content/Programming/8.DataLabPR2.html)
-
 
 # Week 2 : Ethics & Data Analytics
 
 ## Monday
-- [Ethics in AI (1): Introduction into Ethics: Ethics, Business ethics and introduction into AI ethics.](../../Study%20Content/Digital%20Transformation/Ethics%20in%20AI%201.html)
+- [Data Governance and Ethics (1): Introduction into Ethics: Ethics, Business ethics and introduction into AI ethics.](../../Study%20Content/Digital%20Transformation/Ethics%20in%20AI%201.html)
 
 ## Tuesday
 - [Professional writing (1): The structure of a paragraph, rules of writing & Bias-free language](../../Study%20Content/Digital%20Transformation/Professional%20writing%201.html)
@@ -64,7 +60,7 @@ With a view to enabling Banijay’s stakeholders to achieve the desired TV ratin
 -[DataLab Week 2. Day 1](../../Study%20Content/Digital%20Transformation/DataLab%20Week%202.%20Day%201.html)
 
 ## Thursday 
-- [Ethics in AI (2): Ethical Guidelines for Statistical Practice. Introduction to GDPR.](../../Study%20Content/Digital%20Transformation/Ethics%20in%20AI%202.html)
+- [Data Governance and Ethics (2): Ethical Guidelines for Statistical Practice. Introduction to GDPR.](../../Study%20Content/Digital%20Transformation/Ethics%20in%20AI%202.html)
 - [Professional writing (2): Citations](../../Study%20Content/Digital%20Transformation/Professional%20writing%202.html)
 
 ## Friday

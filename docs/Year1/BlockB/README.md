@@ -49,7 +49,7 @@ With a view to enabling Banijay’s stakeholders to achieve the desired TV ratin
 
 - **Formative Feedback I**
 
-# Week 2 : Ethics & Data Governance
+# Week 2 : Data Governance & Ethics 
 
 ## Monday
 - [Data Governance and Ethics (1): Introduction into Ethics: Ethics, Business ethics and introduction into AI ethics.](../../Study%20Content/Digital%20Transformation/Data%20Governance%20and%20Ethics%201.html)
@@ -59,7 +59,13 @@ With a view to enabling Banijay’s stakeholders to achieve the desired TV ratin
 - [AI Business Model Canvas](../../Study%20Content/Digital%20Transformation/Professional%20writing%201.html)
 
 ## Wednesday
-**Site-visit:** Banijay studios in Amsterdam (from 10 am to 1 pm at Banijay. Lunch will be provided by the client. Meet at BUas at 07.30 for 08 am prompt departure)
+**Site-visit:** From 10 to 13 you will be visiting Banijay studios in Amsterdam.  The client will present the Creative Brief and you will have a chance to ask relevant questions. 
+
+__IMPORTANT!!!__
+
+Especially for this occasion, we arranged transportation from you. Please be sharp at __7.30 o clock at Breda University (AS) next to the Frontier building__. We will depart sharply at 8 o clock. 
+
+*Lunch is provided by Banijay, so you don't need to worry about it.*
 
 <<<<<<< HEAD
 ## Thursday 

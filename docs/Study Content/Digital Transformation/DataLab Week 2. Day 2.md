@@ -10,7 +10,6 @@ For today’s DataLab we have a lot of activities scheduled that will help you t
 Once it’s done, you will be asked to go through the Nielson paper. We used this paper as an inspiration for this block. Therefore, reading this paper, will help you to understand the nature of this block’s assignment.
 And finally, we will finish todays DataLab with amazing guest lecture by Dasha Simons from IBM. She will tell you everything about Ethics in AI.
 
-Furthermore, today you will have your bi-weekly formative feedback session with your mentor (Further details to follow, see Microsoft Teams).
  
 ## Questions or issues?
 
@@ -45,10 +44,10 @@ You can find the paper by clicking [this link]( https://www.nielsen.com/wp-conte
 
 ## 5) Work on the assignment
 
-During the last DataLab, you had a chance to visit the office of Banijay and ask them questions about companies’ ethical behavior. So now you are advised to use the rest of the time (before the guest lecture) to work on your ethics paper and write about companies ethical practices ( make sure to check [the requirements for ethics part](https://adsai.buas.nl/Project%20Requirements/DataGovernanceRequirements.html) of your final assignment)
+During the last DataLab, you had a chance to visit the office of Banijay and ask them questions about companies’ ethical behavior. So now you are advised to use the rest of the time (before the guest lecture) to work on your ethics paper and write about companies ethical practices ( make sure to check [the Data Governance and Ethis part](https://adsai.buas.nl/Project%20Requirements/DataGovernanceRequirements.html) of your final assignment)
 
-## 3) Workshop: Feedback (10:00-16:00)
 
-***
+## 6) Guest lecture by Dasha Simons
 
-## 4) Guest lecture by Dasha Simons
+The guest lecture is scheduled from 16:00 till 17:00 at Fe 1.018.
+

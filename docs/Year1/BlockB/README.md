@@ -57,8 +57,7 @@ With a view to enabling Banijay’s stakeholders to achieve the desired TV ratin
 # Week 2 : Ethics & Data Governance
 
 ## Monday
-- [Ethics in AI I: Introduction into Ethics: Ethics, Business ethics and introduction into AI ethics.](../../Study%20Content/Digital%20Transformation/Ethics%20in%20AI%201.html)
->>>>>>> Stashed changes
+- [Ethics in AI I: Introduction into Ethics: Ethics, Business ethics and introduction into AI ethics.](../../Study%20Content/Digital%20Transformation/Data%20Governance%20and%20Ethics%201.html)
 
 ## Tuesday
 - [Professional writing I: The structure of a paragraph, rules of writing & Bias-free language](../../Study%20Content/Digital%20Transformation/Professional%20writing%201.html)
@@ -68,24 +67,15 @@ With a view to enabling Banijay’s stakeholders to achieve the desired TV ratin
 ## Wednesday
 - [DataLab Week 2. Day 1](../../Study%20Content/Digital%20Transformation/DataLab%20Week%202.%20Day%201.html)
 
-<<<<<<< Updated upstream
 ## Thursday 
-- [Data Governance and Ethics (2): Ethical Guidelines for Statistical Practice. Introduction to GDPR.](../../Study%20Content/Digital%20Transformation/Ethics%20in%20AI%202.html)
+- [Data Governance and Ethics (2): Ethical Guidelines for Statistical Practice. Introduction to GDPR.](../../Study%20Content/Digital%20Transformation/Data%20Governance%20and%20Ethics%202.html)
+
 - [Professional writing (2): Citations](../../Study%20Content/Digital%20Transformation/Professional%20writing%202.html)
-=======
-**Site-visit:** Banijay studios in Amsterdam (from 10 am to 1 pm at Banijay. Lunch will be provided by the client. Meet at BUas at 07.30 for 08 am prompt departure) 
- 
-The client presents the Creative Brief and students have a chance to ask relevant questions.  
- 
-
-
-## Thursday 24th Nov/22 Home study 
-- [Ethics in AI II: Ethical Guidelines for Statistical Practice. Introduction to GDPR.](../../Study%20Content/Digital%20Transformation/Ethics%20in%20AI%202.html)
-- [Professional writing II: Citations](../../Study%20Content/Digital%20Transformation/Professional%20writing%202.html)
->>>>>>> Stashed changes
 
 ## Friday
 - [DataLab Week 2. Day 2](../../Study%20Content/Digital%20Transformation/DataLab%20Week%202.%20Day%202.html)
+
+- __Guesy lecture from IBM on AI Ethics__
 
 # Week 3 : Python for Data Analysis
 

@@ -57,14 +57,14 @@ With a view to enabling Banijay’s stakeholders to achieve the desired TV ratin
 - [Professional writing (1): The structure of a paragraph, rules of writing & Bias-free language](../../Study%20Content/Digital%20Transformation/Professional%20writing%201.html)
 
 ## Wednesday
--[DataLab Week 2. Day 1](../../Study%20Content/Digital%20Transformation/DataLab%20Week%202.%20Day%201.html)
+- [DataLab Week 2. Day 1](../../Study%20Content/Digital%20Transformation/DataLab%20Week%202.%20Day%201.html)
 
 ## Thursday 
 - [Data Governance and Ethics (2): Ethical Guidelines for Statistical Practice. Introduction to GDPR.](../../Study%20Content/Digital%20Transformation/Ethics%20in%20AI%202.html)
 - [Professional writing (2): Citations](../../Study%20Content/Digital%20Transformation/Professional%20writing%202.html)
 
 ## Friday
--[DataLab Week 2. Day 2](../../Study%20Content/Digital%20Transformation/DataLab%20Week%202.%20Day%202.html)
+- [DataLab Week 2. Day 2](../../Study%20Content/Digital%20Transformation/DataLab%20Week%202.%20Day%202.html)
 
 # Week 3 : Data processing in Python
 

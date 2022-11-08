@@ -172,11 +172,9 @@ In the first three weeks of Block B, you will acquire foundational knowledge and
 
 To solve the project's computer vision task, you need to:
 
-- Create two (2) annotated image datasets for object detection;
-- Explore the (meta)data, and subsequently assess its quality;
-- Identify, and select appropriate object detection algorithms to solve the computer vision task;
-- Build, (train), and evaluate a traditional and deep learning-based object detection algorithm;
-- Incorporate your research findings in a technical report
+- Demonstrate foundational knowledge and understanding of the theories, principles, methods, and techniques related to the (sub)fields of computer vision by interpreting, and subsequently disseminating the project findings via a written report (ILO 2.1). For example, you will have to provide a written technical analysis of the implemented object detection algorithm ('Sufficient' criterion). 
+- Acquire, store and process raw image data in a way that allows for data exploration and analysis (ILO 3.1). For example, as a team, you will need to create two (2) annotated image datasets for object detection ('Poor' criterion).
+-  Implement a traditional and DL object detection algorithm, making appropriate use of current tools and libraries, and cognitive models (ILO 3.2). For example, you will need to build, (train), and evaluate a traditional and deep learning-based object detection algorithm ('Sufficient' criterion).
 
 ### Robotics and Reinforcement Learning
 

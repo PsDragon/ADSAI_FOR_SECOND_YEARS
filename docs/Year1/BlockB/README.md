@@ -35,17 +35,17 @@ With a view to enabling Banijay’s stakeholders to achieve the desired TV ratin
 - [Python for AI and Data Science](../../Study%20Content/Programming/3.Python%20foundations.html)
 
 ## Tuesday
-- [Python data types & data structures I](../../Study%20Content/Programming/5.Python%20data%20types%20and%20data%20structures.html)
+- [Python data types & data structures ](../../Study%20Content/Programming/5.Python%20data%20types%20and%20data%20structures.html)
 
 ## Wednesday
 - [DataLab: Python Foundation exercises](../../Study%20Content/Programming/4.DataLabPR1.html)
 
 ## Thursday 
-- [Python data types & data structures II](../../Study%20Content/Programming/5.Python%20data%20types%20and%20data%20structures.html)
+- [Python: Pandas](../../Study%20Content/Programming/6.Getting%20Started%20with%20Pandas.html)
 - [Python: Coding standards and reproducible data science](../../Study%20Content/Programming/14.Python%20PEP8.html)
 
 ## Friday
-- [DataLab: Python data types & data structures](../../Study%20Content/Programming/8.DataLabPR2.html)
+- [DataLab: Pandas](../../Study%20Content/Programming/8.DataLabPR2.html)
 
 - **Formative Feedback I**
 

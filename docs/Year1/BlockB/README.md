@@ -67,23 +67,15 @@ Especially for this occasion, we arranged transportation from you. Please be sha
 
 *Lunch is provided by Banijay, so you don't need to worry about it.*
 
-<<<<<<< HEAD
 ## Thursday 
 - [Data Governance and Ethics (2): Ethical Guidelines for Statistical Practice. Introduction to GDPR.](../../Study%20Content/Digital%20Transformation/Data%20Governance%20and%20Ethics%202.html)
 
 - [Professional writing (2): Citations](../../Study%20Content/Digital%20Transformation/Professional%20writing%202.html)
-=======
-The client presents the Creative Brief and students have a chance to ask relevant questions.  
-
-## Thursday
-- [Ethics in AI II: Ethical Guidelines for Statistical Practice. Introduction to GDPR.](../../Study%20Content/Digital%20Transformation/Ethics%20in%20AI%202.html)
-- [Professional writing II: Citations](../../Study%20Content/Digital%20Transformation/Professional%20writing%202.html)
->>>>>>> 8a64a1324bd7de260d8b62717ec25227f042daee
 
 ## Friday
 - [DataLab: Ethics and AI](../../Study%20Content/Digital%20Transformation/DataLab%20Week%202.%20Day%202.html)
 
-- __Guesy lecture from IBM on AI Ethics__
+- __Guest lecture from IBM on AI Ethics__
 
 # Week 3 : Python for Data Analysis
 

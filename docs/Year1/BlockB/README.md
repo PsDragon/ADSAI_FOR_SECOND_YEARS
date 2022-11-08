@@ -20,8 +20,7 @@ Below you will find the <mark>project requirements</mark>, but there will be an 
 With a view to enabling Banijay’s stakeholders to achieve the desired TV ratings, a successful project will meet the following requirements:  
 
 - [Data Governance and Ethics](../BlockB/Project%20Requirements/DataGovernanceRequirements.html){:target="_blank"}
-- [Machine Learning](../BlockB/Project%20Requirements/MachineLearningRequirements.html){:target="_blank"}
-- [Linear Algebra](../BlockB/Project%20Requirements/LinearAlgebraRequirements.html){:target="_blank"}
+- [Data Pre-processing and Analysis](../BlockB/Project%20Requirements/MachineLearningRequirements.html){:target="_blank"}
 - [Report](../BlockB/Project%20Requirements/ReportRequirements.html){:target="_blank"}
 
 # Block Outline

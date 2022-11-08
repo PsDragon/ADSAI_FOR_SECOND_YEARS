@@ -71,7 +71,7 @@ DataLab 2, Goal(s):
 ### Week 2
 
 - [Traditional computer vision](https://adsai.buas.nl/Study%20Content/ComputerVision/TradDLComputerVision.html)
-- [DL computer vision I: Theory]()
+- [DL computer vision I: Theory](../../Study%20Content/Computer%Vision/DLComputerVision1a.html)
 - [Data annotation](../../Study%20Content/ComputerVision/ComputerVisionDataAnnotation.html)
 
 #### <mark>DataLab (group)</mark>
@@ -172,9 +172,9 @@ In the first three weeks of Block B, you will acquire foundational knowledge and
 
 To solve the project's computer vision task, you need to:
 
-- Demonstrate foundational knowledge and understanding of the theories, principles, methods, and techniques related to the (sub)fields of computer vision by interpreting, and subsequently disseminating the project findings via a written report (ILO 2.1). For example, you will have to provide a written technical analysis of the implemented object detection algorithm ('Sufficient' criterion). 
-- Acquire, store and process raw image data in a way that allows for data exploration and analysis (ILO 3.1). For example, as a team, you will need to create two (2) annotated image datasets for object detection ('Poor' criterion).
--  Implement a traditional and DL object detection algorithm, making appropriate use of current tools and libraries, and cognitive models (ILO 3.2). For example, you will need to build, (train), and evaluate a traditional and deep learning-based object detection algorithm ('Sufficient' criterion).
+- Demonstrate foundational knowledge and understanding of the theories, principles, methods, and techniques related to the (sub)fields of computer vision by interpreting, and subsequently disseminating the project findings via a written report (ILO 2.1). For example, you will have to provide a written technical analysis of the implemented object detection algorithm (Sufficient). 
+- Acquire, store and process raw image data in a way that allows for data exploration and analysis (ILO 3.1). For example, as a team, you will need to create two (2) annotated image datasets for object detection (Poor).
+-  Implement a traditional and DL object detection algorithm, making appropriate use of current tools and libraries, and cognitive models (ILO 3.2). For example, you will need to build, (train), and evaluate a traditional and deep learning-based object detection algorithm (Sufficient).
 
 ### Robotics and Reinforcement Learning
 
@@ -211,7 +211,6 @@ Evidence in technical report, and integrate in robotic controller & reinforcemen
 
 ### Technical Report
 
-
 ### BUas Ethics Review
 - Fill in [the template](https://github.com/BredaUniversityADSAI/ADS-AI/blob/28e3a92cda22e9942aa90bb4178cceeaca0eef7f/docs/Study%20Content/Research%20Methodology/Assets/BUas%20Research%20Ethics%20Review%20Application%20Form-H%202022.docx). (ILO 2.1 - Poor)
 - [Submit review and get accepted](https://edubuas.sharepoint.com/sites/researchdevelopment/SitePages/BUas-Research-Ethics-Review-Board.aspx). (ILO 2.1 - Insufficient & Sufficient)
@@ -225,13 +224,16 @@ Evidence in technical report, and integrate in robotic controller & reinforcemen
 - Fill in [the template](https://github.com/BredaUniversityADSAI/ADS-AI/blob/f020e08818bb64486e784e2447334fb866ee1df9/docs/Study%20Content/Research%20Methodology/Assets/Codebook_Template.md) (ILO 3.1 - Insufficient)
 - Meet the criteria set in the template. (ILO 3.1 - Sufficient, ILO 3.2 - Poor)
 
+### Technical analysis of the implemented object detection/robot control algorithm
+- Provide a written technical analysis of the implemented object detection, and robot control algorithm (ILO 2.1 - Sufficient). For more information, see 'Technical analysis' section of [DL computer vision I: Theory](../../Study%20Content/Computer%Vision/DLComputerVision1a.html)
+
 ***
 
 ## Project Deliverable(s)
 
 __Group:__
 
-- Three (2) annotated image datasets for object detection
+- Two (2) annotated image datasets for object detection
 - GitHub folders with README.md
 - [BUas Ethics Review](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html#templates)
 - [Research Data Management Plan](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html#templates)

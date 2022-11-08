@@ -99,7 +99,7 @@ Make sure that you completed the independent-study on [Traditional computer visi
 
 #### <mark>DataLab (individual)</mark>
 
-Make sure to complete the independent-study on [DL computer vision II: Theory](../../Study%20Content/Computer%Vision/) before the first DataLab session, because the point of this week is to apply what you have learned during the independent-study days.
+Make sure to complete the independent-study on [DL computer vision II: Theory](../../Study%20Content/ComputerVision/DLComputerVision1a.html) before the first DataLab session, because the point of this week is to apply what you have learned during the independent-study days.
 
 DataLab 1, Goal(s):
 
@@ -209,6 +209,7 @@ Evidence in technical report, and integrate in robotic controller & reinforcemen
 - Suggestions for model improvement, real-world implementation, knowledge acquisition and decision-making are made. (ILO 4.2 - Excellent)
 
 ### Technical Report
+- Provide a written technical analysis of the implemented object detection, and robot control algorithm (ILO 2.1 - Sufficient). For more information, see 'Technical analysis' section of [DL computer vision I: Theory](../../Study%20Content/ComputerVision/DLComputerVision1a.html)
 
 ### BUas Ethics Review
 - Fill in [the template](https://github.com/BredaUniversityADSAI/ADS-AI/blob/28e3a92cda22e9942aa90bb4178cceeaca0eef7f/docs/Study%20Content/Research%20Methodology/Assets/BUas%20Research%20Ethics%20Review%20Application%20Form-H%202022.docx). (ILO 2.1 - Poor)
@@ -222,9 +223,6 @@ Evidence in technical report, and integrate in robotic controller & reinforcemen
 ### Codebook
 - Fill in [the template](https://github.com/BredaUniversityADSAI/ADS-AI/blob/f020e08818bb64486e784e2447334fb866ee1df9/docs/Study%20Content/Research%20Methodology/Assets/Codebook_Template.md) (ILO 3.1 - Insufficient)
 - Meet the criteria set in the template. (ILO 3.1 - Sufficient, ILO 3.2 - Poor)
-
-### Technical analysis of the implemented object detection/robot control algorithm
-- Provide a written technical analysis of the implemented object detection, and robot control algorithm (ILO 2.1 - Sufficient). For more information, see 'Technical analysis' section of [DL computer vision I: Theory](../../Study%20Content/Computer%Vision/DLComputerVision1a.html)
 
 ***
 

@@ -4,7 +4,7 @@ sort: 4
 
 # DL computer vision II: Application
 
-This week, you will need to apply your newly gained knowledge to build, (train), and evaluate a traditional and DL object detection model on the real-life image dataset('difficult' object detection task).
+In this knowledge module, you will find a list of online resources to help you to build, (train), and evaluate a traditional and DL object detection model on the real-life image dataset('difficult' object detection task).
 
 After this module, you will be able to:
 

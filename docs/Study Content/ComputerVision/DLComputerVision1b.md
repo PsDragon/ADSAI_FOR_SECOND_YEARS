@@ -4,15 +4,13 @@ sort: 4
 
 # DL computer vision II: Application
 
-In this knowledge module, you will find a list of online resources to help you to build, (train), and evaluate a traditional and DL object detection model on the real-life image dataset('difficult' object detection task).
+In this knowledge module, you will find a list of online resources to help you to build, (train), and evaluate a traditional and DL object detection model on the real-life image dataset ('difficult' object detection task).
 
 After this module, you will be able to:
 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Select the appropriate DL object detection algorithm/toolbox/etc. on GitHub to solve the computer vision task
+- [ ] Successfully install and run the selected DL object detection algorithm/toolbox/etc. on your local device/Google Colab
+- [ ] Use a MLOps tool to train and evaluate the DL object detection model (e.g., Weights and Biases)
 
 ***
 
@@ -67,7 +65,9 @@ Each GitHub project has its own minimum hardware/software requirements, and inst
 
 For more information on how to create and virtual conda environment, see [Virtual environments & PyTorch](../../Study%20Content/MLOps/MLOpsVirtualEnvironments.html)
 
-### 1.3 mmdetection
+## 2. mmdetection
+
+### 2.1 Installation
 
 To start with the installation, we first need to clone their repository called [mmdetection](https://github.com/open-mmlab/mmdetection) on GitHub. Next, we need to find the toolbox's official documentation, which you can find, [here](https://mmdetection.readthedocs.io/en/latest/get_started.html). After we have opened the 'Get Started' guide, the prerequisites section tells us we need to create a virtual conda environment. For __Step 2__, please use this bash command to install PyTorch with cudatoolkit:
 
@@ -98,9 +98,13 @@ pip install -v -e .
 
 Congratulations, you should have a working version of mmdetection installed on your local device :smile_cat:.
 
-#### 1.3.1 Model selection & argsparse
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Note: If you encounter this error: 'distutils.errors.DistutilsPlatformError: Microsoft Visual C++ 14.0 or greater is required. Get it with "Microsoft C++ Build Tools"', you can install <a href="https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2019">Build Tools for Visual Studio 2022</a>, which will remove the error. 
+</div>
 
-First, we need to select a model that can be deployed to solve an object detection task. You can find all the different models in the 'configs' folder. mmdetection´s configuration files contain the parameters of the model (e.g., backbone), and the data pipeline (e.g., augmentation). More on this later.
+### 2.2 Model selection 
+
+First, we need to select a model that can be deployed to solve an object detection task. You can find all the different models in the 'configs' folder. mmdetection´s configuration files contain the parameters of the model (e.g., backbone, augmentation). More on this later.
 
 __Directory tree mmdetection:__
 
@@ -243,8 +247,9 @@ mmdetection
 ├── setup.py
 ├── tests
 ├── tools
-|   └── misc
-|       └── print_config.py
+|   ├── misc
+|   |   └── print_config.py
+|   └── test.py
 ├── custom_train.py
 ├── custom_test.py
 ├── download_weights.py
@@ -261,13 +266,13 @@ mmdetection
 │           ├── 20221011_125253.log
 │           ├── 20221011_125253.log.json
 │           ├── best_bbox_mAP_epoch_2.pth
-│           └── CustomConfig.py
+│           └── yolov3_d53_320_273e_custom_config.py
 └── weights.txt
 ```
 
 To get a better understanding of the configuration files, see [Tutorial 1: Learn about configs](https://mmdetection.readthedocs.io/en/latest/tutorials/config.html). 
 
-For example, you can inspect a particular config by running this command in your terminal:
+You can inspect a particular config by running this command in your terminal:
 
 ```
 python tools/misc/print_config.py configs/yolo/yolov3_mobilenetv2_320_300e_coco.py
@@ -277,15 +282,17 @@ python tools/misc/print_config.py configs/yolo/yolov3_mobilenetv2_320_300e_coco.
 
 *Figure 1. Output print_config.py.*
 
-#### 1.3.2 Pre-trained model weights 
+### 2.3 Pre-trained model & argsparse
 
-Next step is to download the pre-trained model weights. You can also start with a model that has not been trained on a benchmark dataset, such as MS COCO. However, the pre-trained models perform already fairly well by itself, thus reducing the training time required to get a satisfactory performance on your custom image dataset. To download the weights, add the file called 'download_weights.py' to the directory, and run the file in your terminal. For example:
+Next step is to download the pre-trained model weights. You can also start with a model that has not been trained on a benchmark dataset, such as MS COCO. However, the pre-trained models perform already fairly well by itself, thus reducing the training time required to get a satisfactory performance on your custom image dataset. To download the weights, add the file called 'download_weights.py' to the directory (See directory tree of mmdetection), and run the file in your terminal. For example:
 
 ```
 python download_weights.py --weights yolov3_d53_320_273e_coco
 ```
 
-The downloaded weights have a '.pth' file extension (e.g., 'yolov3_d53_320_273e_coco-421362b6.pth'), and will be stored in in the 'checkpoint' folder. 
+You can download the corresponding Pyhton file, [here](./code/mmdetection_weightsandbiases/download_weights.py). 
+
+The downloaded weights have a '.pth' file extension (e.g., 'yolov3_d53_320_273e_coco-421362b6.pth'), and will be stored in in the 'checkpoint' folder (See directory tree of mmdetection). 
 
 __Okay, how do I know which argument (e.g., '--weights') I should use?__ 
 
@@ -303,13 +310,13 @@ For more information on argparse, see [Python argparse](https://docs.python.org/
 
 It is time to check if we installed mmdetection correctly. To do this, we will run a demo script that will show us the results of the pre-trained model on a sample image. Please, following the instructions provided in the 'Demos' section of [1: Inference and train with existing models and standard datasets](https://mmdetection.readthedocs.io/en/latest/1_exist_data_model.html). Important note, use the pre-trained model weights that you downloaded in the previous step otherwise it will throw an error!
 
-#### 1.3.3 Configuration file
+### 2.4 Configuration file
 
-Now we are all setup, and ready to start training our object detector. Before we start training, we need to create a custom configuration file. In this tutorial we will use the Weights & Biases, which is a great MLOps tool to track your experiments. However, you are free to use any other tool you like. Let us take a closer look at the configuration file. 
+Before we start training, we need to create a custom configuration file. In this tutorial we will use the Weights & Biases, which is a great MLOps tool to track your experiments. However, you are free to use any other tool you like. Let us take a closer look at the configuration file. 
 
 The configuration file is a Python file that contains all the parameters that are used to train the model. The configuration file can be roughly divided into four parts: the model, data pipeline, dataset, and logger. The model part contains all the parameters that are used to build the model, such as the backbone, the neck, the head, and the loss function. The data pipeline contains all the parameters that are used to train the model, such as the optimizer, the learning rate, the number of epochs. The dataset part contains all the parameters that are used to load the dataset, such as the path to the images, the path to the annotations, and the number of classes. The logger can be used to log the training process, such as the learning rate, the loss, and the accuracy in a MLOps tool. 
 
-When you create a new configuration file, you can either start from scratch, or you can use an existing configuration file as a template. In this tutorial, we will use the 'yolov3_d53_320_273e_coco.py' configuration file as a template for our custom configuration file 'CustomConfig.py':
+When you create a new configuration file, you can either start from scratch, or you can use an existing configuration file as a template. In this tutorial, we will use the '{model name}.py' configuration file as a template for our custom configuration file '{model name}_custom_config.py':
 ```
 checkpoint_config = dict(interval=1)
 log_config = dict(interval=1, hooks=[
@@ -527,11 +534,11 @@ evaluation = dict(interval=1, metric=['bbox'], save_best='auto') # Add save_best
 find_unused_parameters = True
 
 ```
-This particular file needs to be placed in the 'configs/yolo/yolov3_d53_320_273e_coco' folder. Adjustments to the file are marked with (Custom) in the comments. 
+This particular file needs to be placed in the 'configs/yolo/yolov3_d53_320_273e_coco' folder (See directory tree of mmdetection). Adjustments to the file are marked with '(Custom)' in the comments. 
 
 :warning:__Important notes:__:warning:
 
-- You need to install Weights & Biases for this to work. You can do this by running the following command in your terminal: `pip install wandb`. In addition, you need to create an account on the [Weights & Biases website](https://wandb.ai/site). For 'project' you can use the name of your project, for 'entity' you can use your username.
+- You need to install Weights & Biases for this to work. You can do this by running the following command in your terminal: `pip install wandb`. In addition, you need to create an account on the [Weights & Biases website](https://wandb.ai/site). For 'project' you can use the name of your project.
 - You need to create a dataset folder (e.g., 'cubes') in the root directory of the project. This folder should contain the 'images' and 'annotations' folders. The 'images' folder should contain the 'train', 'valid' and 'test' folders. The 'annotations' folder should contain the train, valid and test json files.
 - You need to specify the annotations and image paths in the 'data' section of the config file
 - You need to specify the annotation format in the 'data' section of the config file. In this case, the format is 'CocoDataset' 
@@ -539,21 +546,23 @@ This particular file needs to be placed in the 'configs/yolo/yolov3_d53_320_273e
 - The 'classes' parameter in the data section needs to be adjusted to the number of classes in your dataset
 - The 'save_best' parameter in the evaluation section needs to be set to 'auto' to save the best model
 
-You can download the Python file, [here](). 
+You can download the custom config file, [here](./code/mmdetection_weightsandbiases/yolov3_d53_320_273e_coco_custom_config.py). 
 
-#### 1.3.4 Hyperparameter tuning with Weight & Biases 
+To test your final model, use the 'test.py' file. This file is located in the 'tools' folder (See directory tree of mmdetection).
 
-To enable hyperparameter tuning in Weights and Biases, we need add some additional arguments to the training script. For example, 'momentum', and 'learning_rate' are two hyperparameters that we can tune. We can add these arguments to the training script by adding the following lines to the training script: 
+### 2.5 Hyperparameter tuning with Weight & Biases 
+
+To enable hyperparameter tuning in Weights and Biases, we need add some additional arguments to the training script. For example, 'momentum', and 'learning rate' are two hyperparameters that we can tune. We can add these arguments to the training script by adding the following lines to the training script: 
 
 <img src="./images/ArgumentCustomTrain1_mmdetection.png" alt="Custom train arguments" width="800"/>
 
-*Figure 2. Custom train arguments (1)*
+*Figure 2. Custom train arguments (1).*
 
 <img src="./images/ArgumentCustomTrain2_mmdetection.png" alt="Custom train arguments" width="800"/>
 
-*Figure 2. Custom train arguments (2)*
+*Figure 3. Custom train arguments (2).*
 
-You can download the training script [here](). Lastly, please add the CustomTrain.py script to the root directory of the project (See Directory tree mmdetection).
+You can download the training script [here](./code/mmdetection_weightsandbiases/custom_train.py). Lastly, please add the custom_train.py script to the root directory of the project (See Directory tree mmdetection).
 
 Let us head over to Weigths & Biases to train our model, and log our experiments. Sweep is a feature in Weights & Biases that allows us to run multiple experiments with different hyperparameters. To start a [sweep](https://wandb.ai/site/articles/run-your-first-sweep), we need to create a sweep configuration file:
 
@@ -565,7 +574,7 @@ metric:
 parameters:
   config:
     values:
-      - configs/yolo/yolov3_d53_320_273e_coco/CustomConfig.py
+      - configs/yolo/yolov3_d53_320_273e_coco/yolov3_d53_320_273e_coco_custom_config.py
   lr:
     values:
       - 0.0025
@@ -581,17 +590,19 @@ program: custom_train.py
 
 ```
 
-Notice that we are using the 'CustomConfig.py' file that we created in the previous step. We are also specifying the hyperparameters that we want to tune. In this case, we are tuning the learning rate, momentum and weight decay. 
+Notice that we are using the '{model name}_custom_config.py' file that we created in the previous step. We are also specifying the hyperparameters that we want to tune. In this case, we are tuning the learning rate, momentum and weight decay. 
 
 At last, we are able to run our custom training script with hyperparameter tuning. To do this, we need to run the following command in our terminal: 
 
 ```
-python CustomTrain.py configs/yolo/yolov3_d53_320_273e_coco/CustomConfig.py 
+python custom_train.py configs/yolo/yolov3_d53_320_273e_coco/yolov3_d53_320_273e_coco_custom_config.py 
 ```
 
 You should now see results from your experiments in Weights & Biases. For instance: 
 
 ![Weights & Biases hyperparameter output](./images/WeightsBiases_mmdetection.gif)
+
+*Figure 4. Weights & Biases hyperparameter output.*
 
 For more information regarding the use of mmdetection (and Weights & Biases) please refer to the following links:
 
@@ -603,11 +614,46 @@ For more information regarding the use of mmdetection (and Weights & Biases) ple
 - [Training YOLOv3 Model with MMDetection using Custom Dataset](https://debuggercafe.com/training-yolov3-model-with-mmdetection-using-custom-dataset/)
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Note: When you are unable to run mmdetection in your IDE (This sometimes happens...), you can always resort to the Jupyter Notebook tutorials. You can find these tutorials in the 'tutorials' folder of the mmdetection repository.
+Note: When you are unable to run mmdetection in your IDE, which occasionally happens, you can always resort to the Jupyter Notebook tutorials. You can find these tutorials in the 'tutorials' folder of the mmdetection repository.
 </div>
 
-### 1.4 YOLOV5
+***
 
-### 1.5 detectron2 
+## 3. YOLOV5
+
+YOLOV5 is a PyTorch implementation of YOLOv5, which is a family of object detection models. In contrast to mmdetection, which is a toolbox for object detection, YOLOV5 is a single model. In addition, implementing Weights & Biases with YOLOV5 is a lot easier than with mmdetection. This is because YOLOV5 already has a built-in Weights & Biases integration. If you use one of the following online resources, you will be able to deploy YOLOV5 (with Weights & Biases) in no time. 
+
+- [YOLOv5 Documentation](https://docs.ultralytics.com/)
+- [Weights & Biases YOLOv5 integration](https://docs.wandb.ai/guides/integrations/yolov5)
+- [Hyperparameter Evolution YOLOv5](https://github.com/ultralytics/yolov5/issues/607)
+- [Weights & Biases with YOLOv5](https://github.com/ultralytics/yolov5/issues/1289)
+- [YOLOv5 series](https://www.youtube.com/playlist?list=PLD80i8An1OEHEpJVjtujEb0lQWc0GhX_4)
+
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Note: When you are unable to run YOLOv5 in your IDE, which occasionally happens, you can always resort to the Jupyter Notebook tutorials. These are located under the heading 'Tutorials' in the GitHub repository.
+</div>
+
+***
+
+## 4. detectron2 
+
+Unfortunately detectron2 does not have a built-in Weights & Biases integration. However, it is a very popular framework for object detection. Therefore, I decided to include it in this tutorial. 
+
+<iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/egs0XN-xjA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*Video 3. Detectron2 - Next Gen Object Detection Library - Yuxin Wu.*
+
+It does have a built-in Tensorboard integration, which is similar to Weights & Biases. If you use one of the following online resources, you will be able to deploy detectron2 (with Tensorboard) in no time.
+
+- [Detectron2 Documentation](https://detectron2.readthedocs.io/en/latest/)
+- [How to Train a Custom Faster R-CNN Model with Facebook AI's Detectron2 | Use Your Own Dataset](https://www.youtube.com/watch?v=4OXntFVfFio)
+- [Object Detection with PyTorch and Detectron2](https://blog.paperspace.com/object-detection-segmentation-with-detectron2-on-paperspace-gradient/)
+
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Note: When you are unable to run detectron2 in your IDE, which occasionally happens, you can always resort to the Jupyter Notebook tutorials. These are located under the heading 'Getting Started' in the GitHub repository.
+</div>
+
+***
+
 
 

@@ -55,12 +55,12 @@ The block starts with a kick-off lecture.
 
 In this block we don't work with humans or animals but with robots which makes our lives much easier! Therefore, we don't need to bother ourselves with a letter of informed consent or a research information letter. For this block we need to use and fill in the following templates: [ ] BUas Ethics Review; [ ] Research Data Management Guide; [ ] Codebook. *This is a group deliverable*, so you can all hand-in the same files; and evidence that you did follow through with you Research Data Management Plan & Procedures described in there. Make sure that you contribute to each of these deliverables and are able to evidence this!
 
-#### <mark>DataLab preparation (group)</mark>
+#### <mark>DataLab (group)</mark>
 
 DataLab 1, Goal(s):
 
 - [ ] Demonstrate business understanding by identifying, and describing the project's problem statement
-- [ ] Setup your ICT environment (e.g, WSL2, IDE, etc.)
+- [ ] Setup your ICT environment (e.g, WSL2, IDE, MLOps tool, etc.)
 
 
 DataLab 2, Goal(s):
@@ -74,7 +74,7 @@ DataLab 2, Goal(s):
 - [DL computer vision I: Theory]()
 - [Data annotation](../../Study%20Content/ComputerVision/ComputerVisionDataAnnotation.html)
 
-#### <mark>DataLab preparation (group)</mark>
+#### <mark>DataLab (group)</mark>
 
 DataLab 1, Goal(s):
 
@@ -84,7 +84,7 @@ DataLab 1, Goal(s):
 
 DataLab 2, Goal(s): 
 
-Make sure that you completed the self-study on [Traditional computer vision](https://adsai.buas.nl/Study%20Content/ComputerVision/TradDLComputerVision.html) before this DataLab, because the point of the DataLab is to apply what you have learned during the self-study.
+Make sure that you completed the independent-study on [Traditional computer vision](https://adsai.buas.nl/Study%20Content/ComputerVision/TradDLComputerVision.html) before this DataLab, because the point of the DataLab is to apply what you have learned during the independent-study days.
 
 [Here is the notebook](https://edubuas-my.sharepoint.com/:f:/g/personal/noyan_a_buas_nl/EhLpd_KatBdMt3c3staHUBUBQ8yY9XRRkjqgq-3Ns4EDfg?e=cDzhy2) you will use today.
 
@@ -98,15 +98,19 @@ Make sure that you completed the self-study on [Traditional computer vision](htt
 
 - [DL computer vision II: Application](../../Study%20Content/Computer%Vision/DLComputerVision1b.html)
 
-#### <mark>DataLab preparation (individual)</mark>
+#### <mark>DataLab (individual)</mark>
+
+Make sure to complete the independent-study on [DL computer vision II: Theory](../../Study%20Content/Computer%Vision/) before the first DataLab session, because the point of this week is to apply what you have learned during the independent-study days.
 
 DataLab 1, Goal(s):
 
 - [ ] Identify, evaluate, and integrate relevant information on DL methods from a variety of sources to solve an object detection task 
+- [ ] Validate the installation of your chosen algorithm/toolbox/etc. by performing inference on a single image using a pre-trained object detection model 
 
 DataLab 2, Goal(s):
  
-- [ ] Apply newly gained knowledge of DL methods to solve an object detection task 
+- [ ] Builds, (trains), and evaluates a traditional and DL object detection model on the real-life data ('difficult' object detection task)
+- [ ] Compares and contrasts traditional and DL object detection techniques, and subsequently determines which implementation, - i.e, object detection model, provides the best performance on the real-life data ('difficult' object detection task)
 
 ### Week 4
 
@@ -116,7 +120,7 @@ DataLab 2, Goal(s):
 - [Robotics II: Practical Example](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/5.%20Robotics%20II.html)
 - [Robotics III: Robotic Simulation](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/6.%20Robotics%20III.html)
 
-#### <mark>DataLab preparation (individual)</mark>
+#### <mark>DataLab (individual)</mark>
 
 DataLab 1, Goal(s):
 
@@ -131,7 +135,7 @@ DataLab 2, Goal(s):
 - Control with computer vision
 - Reinforcement learning (1)
 
-#### <mark>DataLab preparation (individual)</mark>
+#### <mark>DataLab (individual)</mark>
 
 DataLab 1, Goal(s):
 
@@ -141,7 +145,7 @@ DataLab 2, Goal(s):
 
 - Reinforcement learning (2)
 
-#### <mark>DataLab preparation (individual)</mark>
+#### <mark>DataLab (individual)</mark>
 
 DataLab 1, Goal(s):
 
@@ -151,7 +155,7 @@ DataLab 2, Goal(s):
 
 - Live demo of the application to the client
 
-#### <mark>DataLab preparation (individual)</mark>
+#### <mark>DataLab (individual)</mark>
 
 DataLab 1, Goal(s):
 

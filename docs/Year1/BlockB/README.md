@@ -52,10 +52,11 @@ With a view to enabling Banijay’s stakeholders to achieve the desired TV ratin
 # Week 2 : Data Governance & Ethics 
 
 ## Monday
-- [Data Governance and Ethics (1): Introduction into Ethics: Ethics, Business ethics and introduction into AI ethics.](../../Study%20Content/Digital%20Transformation/Data%20Governance%20and%20Ethics%201.html)
+- [Data Governance and Ethics (1): Introduction into Ethics: Ethics, Business ethics and introduction into AI ethics](../../Study%20Content/Digital%20Transformation/Data%20Governance%20and%20Ethics%201.html)
 
 ## Tuesday
 - [Professional writing I: The structure of a paragraph, rules of writing & Bias-free language](../../Study%20Content/Digital%20Transformation/Professional%20writing%201.html)
+
 - [AI Business Model Canvas](../../Study%20Content/Digital%20Transformation/Professional%20writing%201.html)
 
 ## Wednesday
@@ -68,7 +69,7 @@ Especially for this occasion, we arranged transportation from you. Please be sha
 *Lunch is provided by Banijay, so you don't need to worry about it.*
 
 ## Thursday 
-- [Data Governance and Ethics (2): Ethical Guidelines for Statistical Practice. Introduction to GDPR.](../../Study%20Content/Digital%20Transformation/Data%20Governance%20and%20Ethics%202.html)
+- [Data Governance and Ethics (2): Ethical Guidelines for Statistical Practice. Introduction to GDPR](../../Study%20Content/Digital%20Transformation/Data%20Governance%20and%20Ethics%202.html)
 
 - [Professional writing (2): Citations](../../Study%20Content/Digital%20Transformation/Professional%20writing%202.html)
 

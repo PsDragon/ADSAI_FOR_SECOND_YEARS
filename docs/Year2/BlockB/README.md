@@ -61,12 +61,12 @@ DataLab 1, Goal(s):
 
 - [ ] Demonstrate business understanding by identifying, and describing the project's problem statement
 - [ ] Setup your ICT environment (e.g, WSL2, IDE, MLOps tool, etc.)
-
-
-DataLab 2, Goal(s):
-
 - [ ] Create one (1) real-life image dataset ('difficult' object detection task)
 - [ ] Create one (1) synthetic image dataset ('easy' object detection task)
+
+DataLab 2, Goal(s):
+- [ ] [Create flowchart of perceptual & learning model for object detection](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Perception%20and%20Learning%20-%20Datalab%20material.html) 
+- [ ] [Create first draft of data management plan, ethics review & codebook](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html)
 
 ### Week 2
 
@@ -143,6 +143,8 @@ __Formative feedback II__
 DataLab 1, Goal(s):
 
 DataLab 2, Goal(s):
+- [ ] [Expand on/Create flowchart of decision-making & action-taking models for reinfocement learning](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Decision-making%20&%20Actions%20-%20Datalab%20material.html)
+
 
 ### Week 6-7
 

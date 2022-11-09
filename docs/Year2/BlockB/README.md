@@ -82,6 +82,8 @@ DataLab 1, Goal(s):
 - [ ] Create one (1) annotated image dataset with the synthetic data ('easy' object detection task)
 - [ ] Demonstrate foundational knowledge and understanding of the theories, principles, methods, and techniques related to the subfield of object detection by summarizing, and critically evaluating some of its seminal works.
 
+__Formative feedback I__
+
 DataLab 2, Goal(s): 
 
 Make sure that you completed the independent-study on [Traditional computer vision](https://adsai.buas.nl/Study%20Content/ComputerVision/TradDLComputerVision.html) before this DataLab, because the point of the DataLab is to apply what you have learned during the independent-study days.
@@ -129,6 +131,8 @@ DataLab 2, Goal(s):
 
 - [Rack 'em and stack 'em!]()
 
+__Formative feedback II__
+
 ### Week 5
 
 - Control with computer vision
@@ -149,6 +153,8 @@ DataLab 2, Goal(s):
 DataLab 1, Goal(s):
 
 DataLab 2, Goal(s):
+
+__Formative feedback III__
 
 ### Week 8 
 

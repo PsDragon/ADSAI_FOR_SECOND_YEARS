@@ -230,7 +230,7 @@ Evidence in technical report, and integrate in robotic controller & reinforcemen
 
 __Group:__
 
-- Two (2) annotated image datasets for object detection
+- Two (2) annotated image datasets for an object detection task (ILO 3.1)
 - GitHub folders with README.md
 - [BUas Ethics Review](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html#templates)
 - [Research Data Management Plan](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html#templates)
@@ -238,8 +238,8 @@ __Group:__
 
 __Individual:__
 
-- Technical report
-- Object detection algorithm
+- Technical report (ILO 2.1)
+- Object detection model (i.e., weights), and corresponding Python code (ILO 3.2)
 - Reinforcement learning model
 - Robot controller
 

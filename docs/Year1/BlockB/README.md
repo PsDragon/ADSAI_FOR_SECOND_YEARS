@@ -54,7 +54,10 @@ With a view to enabling Banijay’s stakeholders to achieve the desired TV ratin
 
 ## Tuesday
 - [Professional writing I: The structure of a paragraph, rules of writing & Bias-free language](../../Study%20Content/Digital%20Transformation/Professional%20writing%201.html)
+<<<<<<< HEAD
+=======
 - [AI Business Model Canvas](../../Study%20Content/Digital%20Transformation/Professional%20writing%201.html#5-datalab-preparation-week-2-datalab-1)
+>>>>>>> 076ca36a24eafdb2d5ecff460b4408cabf4e076e
 
 ## Wednesday
 **Site-visit:** From 10 to 13 you will be visiting Banijay studios in Amsterdam.  The client will present the Creative Brief and you will have a chance to ask relevant questions. 

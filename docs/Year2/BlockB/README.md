@@ -55,12 +55,12 @@ The block starts with a kick-off lecture.
 
 In this block we don't work with humans or animals but with robots which makes our lives much easier! Therefore, we don't need to bother ourselves with a letter of informed consent or a research information letter. For this block we need to use and fill in the following templates: [ ] BUas Ethics Review; [ ] Research Data Management Guide; [ ] Codebook. *This is a group deliverable*, so you can all hand-in the same files; and evidence that you did follow through with you Research Data Management Plan & Procedures described in there. Make sure that you contribute to each of these deliverables and are able to evidence this!
 
-#### <mark>DataLab preparation (group)</mark>
+#### <mark>DataLab (group)</mark>
 
 DataLab 1, Goal(s):
 
 - [ ] Demonstrate business understanding by identifying, and describing the project's problem statement
-- [ ] Setup your ICT environment (e.g, WSL2, IDE, etc.)
+- [ ] Setup your ICT environment (e.g, WSL2, IDE, MLOps tool, etc.)
 
 
 DataLab 2, Goal(s):
@@ -71,10 +71,10 @@ DataLab 2, Goal(s):
 ### Week 2
 
 - [Traditional computer vision](https://adsai.buas.nl/Study%20Content/ComputerVision/TradDLComputerVision.html)
-- [DL computer vision I: Theory]()
+- [DL computer vision I: Theory](../../Study%20Content/ComputerVision/DLComputerVision1a.html)
 - [Data annotation](../../Study%20Content/ComputerVision/ComputerVisionDataAnnotation.html)
 
-#### <mark>DataLab preparation (group)</mark>
+#### <mark>DataLab (group)</mark>
 
 DataLab 1, Goal(s):
 
@@ -84,7 +84,7 @@ DataLab 1, Goal(s):
 
 DataLab 2, Goal(s): 
 
-Make sure that you completed the self-study on [Traditional computer vision](https://adsai.buas.nl/Study%20Content/ComputerVision/TradDLComputerVision.html) before this DataLab, because the point of the DataLab is to apply what you have learned during the self-study.
+Make sure that you completed the independent-study on [Traditional computer vision](https://adsai.buas.nl/Study%20Content/ComputerVision/TradDLComputerVision.html) before this DataLab, because the point of the DataLab is to apply what you have learned during the independent-study days.
 
 [Here is the notebook](https://edubuas-my.sharepoint.com/:f:/g/personal/noyan_a_buas_nl/EhLpd_KatBdMt3c3staHUBUBQ8yY9XRRkjqgq-3Ns4EDfg?e=cDzhy2) you will use today.
 
@@ -93,20 +93,23 @@ Make sure that you completed the self-study on [Traditional computer vision](htt
 - [ ] Detect objects
 - [ ] Detect overlapping objects
  
-
 ### Week 3
 
-- [DL computer vision II: Application](../../Study%20Content/Computer%Vision/DLComputerVision1b.html)
+- [DL computer vision II: Application](../../Study%20Content/ComputerVision/DLComputerVision1b.html)
 
-#### <mark>DataLab preparation (individual)</mark>
+#### <mark>DataLab (individual)</mark>
+
+Make sure to complete the independent-study on [DL computer vision II: Theory](../../Study%20Content/ComputerVision/DLComputerVision1a.html) before the first DataLab session, because the point of this week is to apply what you have learned during the independent-study days.
 
 DataLab 1, Goal(s):
 
 - [ ] Identify, evaluate, and integrate relevant information on DL methods from a variety of sources to solve an object detection task 
+- [ ] Validate the installation of your chosen algorithm/toolbox/etc. by performing inference on a single image using a pre-trained object detection model 
 
 DataLab 2, Goal(s):
  
-- [ ] Apply newly gained knowledge of DL methods to solve an object detection task 
+- [ ] Builds, (trains), and evaluates a traditional and DL object detection model on the real-life data ('difficult' object detection task)
+- [ ] Compares and contrasts traditional and DL object detection techniques, and subsequently determines which implementation, - i.e, object detection model, provides the best performance on the real-life data ('difficult' object detection task)
 
 ### Week 4
 
@@ -116,7 +119,7 @@ DataLab 2, Goal(s):
 - [Robotics II: Practical Example](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/5.%20Robotics%20II.html)
 - [Robotics III: Robotic Simulation](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/6.%20Robotics%20III.html)
 
-#### <mark>DataLab preparation (individual)</mark>
+#### <mark>DataLab (individual)</mark>
 
 DataLab 1, Goal(s):
 
@@ -131,7 +134,7 @@ DataLab 2, Goal(s):
 - Control with computer vision
 - Reinforcement learning (1)
 
-#### <mark>DataLab preparation (individual)</mark>
+#### <mark>DataLab (individual)</mark>
 
 DataLab 1, Goal(s):
 
@@ -141,7 +144,7 @@ DataLab 2, Goal(s):
 
 - Reinforcement learning (2)
 
-#### <mark>DataLab preparation (individual)</mark>
+#### <mark>DataLab (individual)</mark>
 
 DataLab 1, Goal(s):
 
@@ -151,7 +154,7 @@ DataLab 2, Goal(s):
 
 - Live demo of the application to the client
 
-#### <mark>DataLab preparation (individual)</mark>
+#### <mark>DataLab (individual)</mark>
 
 DataLab 1, Goal(s):
 
@@ -168,11 +171,9 @@ In the first three weeks of Block B, you will acquire foundational knowledge and
 
 To solve the project's computer vision task, you need to:
 
-- Create two (2) annotated image datasets for object detection;
-- Explore the (meta)data, and subsequently assess its quality;
-- Identify, and select appropriate object detection algorithms to solve the computer vision task;
-- Build, (train), and evaluate a traditional and deep learning-based object detection algorithm;
-- Incorporate your research findings in a technical report
+- Demonstrate foundational knowledge and understanding of the theories, principles, methods, and techniques related to the (sub)fields of computer vision by interpreting, and subsequently disseminating the project findings via a written report (ILO 2.1). For example, you will have to provide a written technical analysis of the implemented object detection algorithm (Sufficient). 
+- Acquire, store and process raw image data in a way that allows for data exploration and analysis (ILO 3.1). For example, as a team, you will need to create two (2) annotated image datasets for object detection (Poor).
+-  Implement a traditional and DL object detection algorithm, making appropriate use of current tools and libraries, and cognitive models (ILO 3.2). For example, you will need to build, (train), and evaluate a traditional and deep learning-based object detection algorithm (Sufficient).
 
 ### Robotics and Reinforcement Learning
 
@@ -208,7 +209,7 @@ Evidence in technical report, and integrate in robotic controller & reinforcemen
 - Suggestions for model improvement, real-world implementation, knowledge acquisition and decision-making are made. (ILO 4.2 - Excellent)
 
 ### Technical Report
-
+- Provide a written technical analysis of the implemented object detection, and robot control algorithm (ILO 2.1 - Sufficient). For more information, see 'Technical analysis' section of [DL computer vision I: Theory](../../Study%20Content/ComputerVision/DLComputerVision1a.html)
 
 ### BUas Ethics Review
 - Fill in [the template](https://github.com/BredaUniversityADSAI/ADS-AI/blob/28e3a92cda22e9942aa90bb4178cceeaca0eef7f/docs/Study%20Content/Research%20Methodology/Assets/BUas%20Research%20Ethics%20Review%20Application%20Form-H%202022.docx). (ILO 2.1 - Poor)
@@ -229,7 +230,7 @@ Evidence in technical report, and integrate in robotic controller & reinforcemen
 
 __Group:__
 
-- Three (2) annotated image datasets for object detection
+- Two (2) annotated image datasets for an object detection task (ILO 3.1)
 - GitHub folders with README.md
 - [BUas Ethics Review](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html#templates)
 - [Research Data Management Plan](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html#templates)
@@ -237,8 +238,8 @@ __Group:__
 
 __Individual:__
 
-- Technical report
-- Object detection algorithm
+- Technical report (ILO 2.1)
+- Object detection model (i.e., weights), and corresponding Python code (ILO 3.2)
 - Reinforcement learning model
 - Robot controller
 

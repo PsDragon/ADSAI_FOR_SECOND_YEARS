@@ -5,7 +5,7 @@ In Block B, which spans eight weeks, you will explore one specific role within a
 
 - Computer vision; Object detection (e.g., YOLO, Faster-RCNN, edge detection, etc.)
 - Reinforcement learning (e.g., )
-- Cognition: models of perception, decision-making and action within situational context
+- Cognition: models of perception, learning, decision-making and action within situational context
 - MLOps (e.g., bash scripting, virtual environments, etc.) 
 
 ***
@@ -52,8 +52,9 @@ The block starts with a kick-off lecture.
 - [Data collection](../../Study%20Content/ComputerVision/ComputerVisionDataCollection.html)
 - [Robotic Simulation Primer](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/3.%20Robotic%20Simulation%20Primer.html)
 - [Data management](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html)
+- [Cognition workshop](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Perception%20-%20Self-study%20material.html): 9:00 - 17:00 on Thursday the 17th of November (Check MyTimetable).
 
-In this block we don't work with humans or animals but with robots which makes our lives much easier! Therefore, we don't need to bother ourselves with a letter of informed consent or a research information letter. For this block we need to use and fill in the following templates: [ ] BUas Ethics Review; [ ] Research Data Management Guide; [ ] Codebook. *This is a group deliverable*, so you can all hand-in the same files; and evidence that you did follow through with you Research Data Management Plan & Procedures described in there. Make sure that you contribute to each of these deliverables and are able to evidence this!
+In this block we don't work with humans or animals but with robots which makes our lives much easier! Therefore, we don't need to bother ourselves with a letter of informed consent or a research information letter. For this block we need to use and fill in the following templates: [BUas Ethics Review](https://adsai.buas.nl/Year2/BlockB/#buas-ethics-review); [Research Data Management Guide](https://adsai.buas.nl/Year2/BlockB/#research-data-management-plan); [Codebook](https://adsai.buas.nl/Year2/BlockB/#codebook). *This is a group deliverable*, so you can all hand-in the same files; and evidence that you did follow through with you Research Data Management Plan & Procedures described in there. Make sure that you contribute to each of these deliverables and are able to evidence this!
 
 #### <mark>DataLab (group)</mark>
 
@@ -137,6 +138,7 @@ __Formative feedback II__
 
 - Control with computer vision
 - Reinforcement learning (1)
+- [Cognition workshop: decision-making & action-taking](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Decision-making%20&%20Actions%20-%20Self-study%20material.html): 9:00 - 17:00 on Thursday the 15th of December (Check MyTimetable).
 
 #### <mark>DataLab (individual)</mark>
 

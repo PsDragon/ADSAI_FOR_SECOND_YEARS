@@ -45,7 +45,6 @@ With a view to enabling Banijay’s stakeholders to achieve the desired TV ratin
 
 ## Friday
 - [DataLab: Pandas](../../Study%20Content/Programming/7.DataLabPR2.html)
-
 - **Formative Feedback I**
 
 # Week 2 : Data Governance & Ethics 
@@ -72,7 +71,6 @@ Especially for this occasion, we arranged transportation from you. Please be sha
 
 ## Friday
 - [DataLab: Ethics and AI](../../Study%20Content/Digital%20Transformation/DataLab%20Week%202.%20Day%202.html)
-
 - __Guest lecture from IBM on AI Ethics__
 
 # Week 3 : Python for Data Analysis
@@ -97,7 +95,6 @@ Especially for this occasion, we arranged transportation from you. Please be sha
 ## Friday
 
 - [DataLab: Data Science and Society](../../Study%20Content/Programming/8.DataLabPR2.html)
-
 - **Formative Feedback II**
 
 # Week 4 : Machine Learning
@@ -124,7 +121,6 @@ Especially for this occasion, we arranged transportation from you. Please be sha
 ## Friday
 
 - [DataLab: Regression Algorithms](../../Study%20Content/Programming/8.DataLabPR2.html) 
-
 - **Guest Lecture and Q&A with Banijay Data Scientist** (from 3 pm to 5 pm) 
 
 # Week 5 : Machine Learning 
@@ -140,7 +136,6 @@ Especially for this occasion, we arranged transportation from you. Please be sha
 ## Wednesday
 
 - [DataLab: Tree-based Algorithms](../../Study%20Content/Programming/8.DataLabPR2.html) 
-
 - **Guest lecture on Data Driven Marketing by Fingerspitz from 13:00 – 14:00 at Fe 1.017.**
 
 ## Thursday
@@ -190,7 +185,6 @@ Especially for this occasion, we arranged transportation from you. Please be sha
 ## Wednesday
 
 **Workshop**(Bert): Presentation (pitching) Skills, theory and practice.  
-
 - [DataLab: Linear Algebra](../../Study%20Content/Mathematics%20I/2.%20DataLab1.html) 
 
 ## Thursday
@@ -201,7 +195,6 @@ Especially for this occasion, we arranged transportation from you. Please be sha
 ## Friday
 
 - [DataLab: Linear Algebra](../BlockB/Project%20Requirements/LinearAlgebraRequirements.html) 
-
 **Formative feedback session IV**
 
 

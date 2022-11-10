@@ -136,8 +136,6 @@ DataLab 2, Prep and Goal(s):
 
 __Formative feedback II__
 
-__Formative feedback II__
-
 ### Week 5
 
 - [Reinforcement Learning I: Intro, Applications, and Theory](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/7.%20Reinforcement%20Learning%20I.html)
@@ -152,9 +150,9 @@ DataLab 1, Prep and Goal(s):
 
 DataLab 2, Prep and Goal(s):
 
-[Gym time!]() (INSERT IMAGE FROM STABLE DIFF OF ROBOT ARM GYMING)
-- [ ] [Expand on/Create flowchart of decision-making & action-taking models for reinfocement learning](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Decision-making%20&%20Actions%20-%20Datalab%20material.html)
+[ ] [Expand on/Create flowchart of decision-making & action-taking models for reinfocement learning](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Decision-making%20&%20Actions%20-%20Datalab%20material.html)
 
+[Gym time!]() (INSERT IMAGE FROM STABLE DIFF OF ROBOT ARM GYMING)
 
 ### Week 6-7
 
@@ -164,15 +162,15 @@ We have now covered mostt of the knowledge modules and will spend most of the ne
 
 #### <mark>DataLab (individual)</mark>
 
-DataLab 1, Goal(s):
+DataLab 1, Prep and Goal(s):
 
-DataLab 2, Goal(s):
+DataLab 2, Prep and Goal(s):
 
-DataLab 3, Goal(s):
+DataLab 3, Prep and Goal(s):
 
-DataLab 4, Goal(s):
+DataLab 4, Prep and Goal(s):
 
-__Formative feedback III__
+__Formative feedback III (End of Week 6)__
 
 ### Week 8 
 
@@ -180,9 +178,9 @@ __Formative feedback III__
 
 #### <mark>DataLab (individual)</mark>
 
-DataLab 1, Goal(s):
+DataLab 1, Prep and Goal(s):
 
-DataLab 2, Goal(s):
+DataLab 2, Prep and Goal(s):
 
 *** 
 
@@ -263,11 +261,12 @@ __Group:__
 
 __Individual:__
 
-- GitHub folders with clear and concise README.md that explains the project and how to run the code, as well as showcasing the results. The final trained models should be included so the results can be replicated. These folders are required for:
-    - Computer vision
-    - Baseline controller
-    - Reinforcement learning controller
-- Technical report
+- Technical report (ILO 2.1)
+- GitHub folders with clear and concise README.md that explains the project and how to run the code, as well as showcasing the results. The final code and trained models (i.e. weights) should be included so the results can be replicated. These folders are required for:
+    - Computer vision (ILO 3.2)
+    - Baseline controller (ILO 4.1)
+    - Reinforcement learning controller (ILO 4.2)
+
 
 
 <mark>For more details, see self-assessment rubric.</mark>

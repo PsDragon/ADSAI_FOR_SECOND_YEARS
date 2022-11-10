@@ -1,6 +1,6 @@
 # Report: Creative Brief Requirements
 
-Please ensure that the report your submit adheres to the following requirements.
+Please ensure that the report your submit adheres to the following requirements. Further, please use the template that you can find in your Github Repositories (in the Report Folder).
 
 ## Rules of writing requirements
 

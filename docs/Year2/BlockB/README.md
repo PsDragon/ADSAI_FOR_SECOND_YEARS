@@ -120,36 +120,48 @@ DataLab 2, Goal(s):
 - [Robotics II: Practical Example](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/5.%20Robotics%20II.html)
 - [Robotics III: Robotic Simulation](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/6.%20Robotics%20III.html)
 
+- Optional: [Calculus for Control]()
+
 #### <mark>DataLab (individual)</mark>
 
-DataLab 1, Goal(s):
+DataLab 1, Prep and Goal(s):
 
-- [I like to move it, move it!]() 
+- [I like to move it, move it!]() (IMAGE FROM STABLE DIFF)
 
-DataLab 2, Goal(s):
+DataLab 2, Prep and Goal(s):
 
-- [Rack 'em and stack 'em!]()
+- [Rack 'em and stack 'em!]() (IMAGE FROM STABLE DIFF)
 
 ### Week 5
 
-- Control with computer vision
-- Reinforcement learning (1)
+- [Reinforcement Learning I: Intro, Applications, and Theory](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/7.%20Reinforcement%20Learning%20I.html)
+- [Reinforcement Learning II: Applying Reinforcement Learning](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/8.%20Reinforcement%20Learning%20II.html)
 
 #### <mark>DataLab (individual)</mark>
 
-DataLab 1, Goal(s):
+DataLab 1, Prep and Goal(s):
 
-DataLab 2, Goal(s):
+[I see, therefore I lift]() (INSERT IMAGE FROM STABLE DIFF OF ROBOT ARM WITH GLASSES LIFTING)
+
+DataLab 2, Prep and Goal(s):
+
+[Gym time!]() (INSERT IMAGE FROM STABLE DIFF OF ROBOT ARM GYMING)
 
 ### Week 6-7
 
-- Reinforcement learning (2)
+- [Reinforcement Learning III: ](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/8.%20Reinforcement%20Learning%20III.html)
+
+We have now covered mostt of the knowledge modules and will spend most of the next two weeks training and evaluating our models.
 
 #### <mark>DataLab (individual)</mark>
 
 DataLab 1, Goal(s):
 
 DataLab 2, Goal(s):
+
+DataLab 3, Goal(s):
+
+DataLab 4, Goal(s):
 
 ### Week 8 
 
@@ -180,20 +192,22 @@ To solve the project's computer vision task, you need to:
 
 ### _Implement baseline controller_
 
-Use traditional control methods combined with computer vision to create a controller for a simulated robotic arm to enable it to perform a pick and place task.
+Use traditional control methods combined with computer vision to create a controller for a simulated robotic arm to enable it to perform a pick and place task. (ILO 4.1)
 The arm needs to: 
 - Locate objects in its workspace 
 - Classify the objects 
+- Pick up the object
 - Place the objects in a specific area based on the classification 
     
 ### _Investigate the feasibility of the application of reinforcement learning to the pick and place task_
+Use reinforment learning to develop a controller for a simulated robotic arm to enable it to perform a pick and place task (ILO 4.2). Create and compare different reinforcement learning controllers using different: 
+- Models (e.g. DQN, A2C, PPO, etc.) 
+- Action spaces (e.g. discrete, continuous, etc.)
+- Observation spaces (e.g. image, vector, etc.)
+- Hyperpameters 
+- Reward fucntions 
 
-Create and compare different reinforcement learning controllers using different: 
-- models 
-- action spaces
-- observation spaces
-- hyperpameters 
-- reward fucntions
+You will also need to compare these controllers to the baseline controller, and determine which controller is the most suitable for the pick and place task.
 
 ### Cognition
 Complete the cognition task by using cognitive theory and cognitive models to **conceptualize**, build (implemented in the 'Computer Vision' task & 'Robotics and Reinforcement Learning' task) and **improve on** the application.
@@ -210,6 +224,7 @@ Evidence in technical report, and integrate in robotic controller & reinforcemen
 - Suggestions for model improvement, real-world implementation, knowledge acquisition and decision-making are made. (ILO 4.2 - Excellent)
 
 ### Technical Report
+The technical report is a written document that describes the project's problem statement and understanding, methodology, findings and conclusions. The report should be written in a clear and concise manner, and should be structured in a way that allows the reader to easily follow the project's development. The report should be written in English, and should be no longer than 10 pages (excluding references). The report will cover both the computer vision and robotics and reinforcement learning tasks.
 
 ### BUas Ethics Review
 - Fill in [the template](https://github.com/BredaUniversityADSAI/ADS-AI/blob/28e3a92cda22e9942aa90bb4178cceeaca0eef7f/docs/Study%20Content/Research%20Methodology/Assets/BUas%20Research%20Ethics%20Review%20Application%20Form-H%202022.docx). (ILO 2.1 - Poor)
@@ -233,20 +248,21 @@ Evidence in technical report, and integrate in robotic controller & reinforcemen
 
 __Group:__
 
-- Two (2) annotated image datasets for object detection
-- GitHub folders with README.md
+- Two (2) annotated image datasets for object detection (included in the computer vision folder of the repository)
 - [BUas Ethics Review](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html#templates)
 - [Research Data Management Plan](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html#templates)
 - [Codebook](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html#templates)
 
 __Individual:__
 
+- GitHub folders with clear and concise README.md that explains the project and how to run the code, as well as showcasing the results. The final trained models should be included so the results can be replicated. These folders are required for:
+    - Computer vision
+    - Baseline controller
+    - Reinforcement learning controller
 - Technical report
-- Object detection algorithm
-- Reinforcement learning model
-- Robot controller
 
-<mark>For details, see self-assessment rubric.</mark>
+
+<mark>For more details, see self-assessment rubric.</mark>
 
 ***
 

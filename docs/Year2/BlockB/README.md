@@ -5,7 +5,7 @@ In Block B, which spans eight weeks, you will explore one specific role within a
 
 - Computer vision; Object detection (e.g., YOLO, Faster-RCNN, edge detection, etc.)
 - Reinforcement learning (e.g., )
-- Cognition: models of perception, decision-making and action within situational context
+- Cognition: models of perception, learning, decision-making and action within situational context
 - MLOps (e.g., bash scripting, virtual environments, etc.) 
 
 ***
@@ -52,8 +52,9 @@ The block starts with a kick-off lecture.
 - [Data collection](../../Study%20Content/ComputerVision/ComputerVisionDataCollection.html)
 - [Robotic Simulation Primer](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/3.%20Robotic%20Simulation%20Primer.html)
 - [Data management](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html)
+- [Cognition workshop](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Perception%20-%20Self-study%20material.html): 9:00 - 17:00 on Thursday the 17th of November (Check MyTimetable).
 
-In this block we don't work with humans or animals but with robots which makes our lives much easier! Therefore, we don't need to bother ourselves with a letter of informed consent or a research information letter. For this block we need to use and fill in the following templates: [ ] BUas Ethics Review; [ ] Research Data Management Guide; [ ] Codebook. *This is a group deliverable*, so you can all hand-in the same files; and evidence that you did follow through with you Research Data Management Plan & Procedures described in there. Make sure that you contribute to each of these deliverables and are able to evidence this!
+In this block we don't work with humans or animals but with robots which makes our lives much easier! Therefore, we don't need to bother ourselves with a letter of informed consent or a research information letter. For this block we need to use and fill in the following templates: [BUas Ethics Review](https://adsai.buas.nl/Year2/BlockB/#buas-ethics-review); [Research Data Management Guide](https://adsai.buas.nl/Year2/BlockB/#research-data-management-plan); [Codebook](https://adsai.buas.nl/Year2/BlockB/#codebook). *This is a group deliverable*, so you can all hand-in the same files; and evidence that you did follow through with you Research Data Management Plan & Procedures described in there. Make sure that you contribute to each of these deliverables and are able to evidence this!
 
 #### <mark>DataLab (group)</mark>
 
@@ -61,17 +62,17 @@ DataLab 1, Goal(s):
 
 - [ ] Demonstrate business understanding by identifying, and describing the project's problem statement
 - [ ] Setup your ICT environment (e.g, WSL2, IDE, MLOps tool, etc.)
-
-
-DataLab 2, Goal(s):
-
 - [ ] Create one (1) real-life image dataset ('difficult' object detection task)
 - [ ] Create one (1) synthetic image dataset ('easy' object detection task)
+
+DataLab 2, Goal(s):
+- [ ] [Create flowchart of perceptual & learning model for object detection](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Perception%20and%20Learning%20-%20Datalab%20material.html) 
+- [ ] [Create first draft of data management plan, ethics review & codebook](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html)
 
 ### Week 2
 
 - [Traditional computer vision](https://adsai.buas.nl/Study%20Content/ComputerVision/TradDLComputerVision.html)
-- [DL computer vision I: Theory](../../Study%20Content/Computer%Vision/DLComputerVision1a.html)
+- [DL computer vision I: Theory](../../Study%20Content/ComputerVision/DLComputerVision1a.html)
 - [Data annotation](../../Study%20Content/ComputerVision/ComputerVisionDataAnnotation.html)
 
 #### <mark>DataLab (group)</mark>
@@ -81,6 +82,8 @@ DataLab 1, Goal(s):
 - [ ] Create one (1) annotated image dataset with the real-life data ('difficult' object detection task)
 - [ ] Create one (1) annotated image dataset with the synthetic data ('easy' object detection task)
 - [ ] Demonstrate foundational knowledge and understanding of the theories, principles, methods, and techniques related to the subfield of object detection by summarizing, and critically evaluating some of its seminal works.
+
+__Formative feedback I__
 
 DataLab 2, Goal(s): 
 
@@ -93,14 +96,13 @@ Make sure that you completed the independent-study on [Traditional computer visi
 - [ ] Detect objects
 - [ ] Detect overlapping objects
  
-
 ### Week 3
 
-- [DL computer vision II: Application](../../Study%20Content/Computer%Vision/DLComputerVision1b.html)
+- [DL computer vision II: Application](../../Study%20Content/ComputerVision/DLComputerVision1b.html)
 
 #### <mark>DataLab (individual)</mark>
 
-Make sure to complete the independent-study on [DL computer vision II: Theory](../../Study%20Content/Computer%Vision/) before the first DataLab session, because the point of this week is to apply what you have learned during the independent-study days.
+Make sure to complete the independent-study on [DL computer vision II: Theory](../../Study%20Content/ComputerVision/DLComputerVision1a.html) before the first DataLab session, because the point of this week is to apply what you have learned during the independent-study days.
 
 DataLab 1, Goal(s):
 
@@ -132,10 +134,15 @@ DataLab 2, Prep and Goal(s):
 
 - [Rack 'em and stack 'em!]() (IMAGE FROM STABLE DIFF)
 
+__Formative feedback II__
+
+__Formative feedback II__
+
 ### Week 5
 
 - [Reinforcement Learning I: Intro, Applications, and Theory](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/7.%20Reinforcement%20Learning%20I.html)
 - [Reinforcement Learning II: Applying Reinforcement Learning](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/8.%20Reinforcement%20Learning%20II.html)
+- [Cognition workshop: decision-making & action-taking](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Decision-making%20&%20Actions%20-%20Self-study%20material.html): 9:00 - 17:00 on Thursday the 15th of December (Check MyTimetable).
 
 #### <mark>DataLab (individual)</mark>
 
@@ -146,6 +153,8 @@ DataLab 1, Prep and Goal(s):
 DataLab 2, Prep and Goal(s):
 
 [Gym time!]() (INSERT IMAGE FROM STABLE DIFF OF ROBOT ARM GYMING)
+- [ ] [Expand on/Create flowchart of decision-making & action-taking models for reinfocement learning](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Decision-making%20&%20Actions%20-%20Datalab%20material.html)
+
 
 ### Week 6-7
 
@@ -162,6 +171,8 @@ DataLab 2, Goal(s):
 DataLab 3, Goal(s):
 
 DataLab 4, Goal(s):
+
+__Formative feedback III__
 
 ### Week 8 
 
@@ -224,7 +235,7 @@ Evidence in technical report, and integrate in robotic controller & reinforcemen
 - Suggestions for model improvement, real-world implementation, knowledge acquisition and decision-making are made. (ILO 4.2 - Excellent)
 
 ### Technical Report
-The technical report is a written document that describes the project's problem statement and understanding, methodology, findings and conclusions. The report should be written in a clear and concise manner, and should be structured in a way that allows the reader to easily follow the project's development. The report should be written in English, and should be no longer than 10 pages (excluding references). The report will cover both the computer vision and robotics and reinforcement learning tasks.
+- Provide a written technical analysis of the implemented object detection, and robot control algorithm (ILO 2.1 - Sufficient). For more information, see 'Technical analysis' section of [DL computer vision I: Theory](../../Study%20Content/ComputerVision/DLComputerVision1a.html)
 
 ### BUas Ethics Review
 - Fill in [the template](https://github.com/BredaUniversityADSAI/ADS-AI/blob/28e3a92cda22e9942aa90bb4178cceeaca0eef7f/docs/Study%20Content/Research%20Methodology/Assets/BUas%20Research%20Ethics%20Review%20Application%20Form-H%202022.docx). (ILO 2.1 - Poor)
@@ -239,16 +250,13 @@ The technical report is a written document that describes the project's problem 
 - Fill in [the template](https://github.com/BredaUniversityADSAI/ADS-AI/blob/f020e08818bb64486e784e2447334fb866ee1df9/docs/Study%20Content/Research%20Methodology/Assets/Codebook_Template.md) (ILO 3.1 - Insufficient)
 - Meet the criteria set in the template. (ILO 3.1 - Sufficient, ILO 3.2 - Poor)
 
-### Technical analysis of the implemented object detection/robot control algorithm
-- Provide a written technical analysis of the implemented object detection, and robot control algorithm (ILO 2.1 - Sufficient). For more information, see 'Technical analysis' section of [DL computer vision I: Theory](../../Study%20Content/Computer%Vision/DLComputerVision1a.html)
-
 ***
 
 ## Project Deliverable(s)
 
 __Group:__
 
-- Two (2) annotated image datasets for object detection (included in the computer vision folder of the repository)
+- Two (2) annotated image datasets for an object detection task (ILO 3.1) (included in the computer vision folder of the repository)
 - [BUas Ethics Review](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html#templates)
 - [Research Data Management Plan](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html#templates)
 - [Codebook](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html#templates)

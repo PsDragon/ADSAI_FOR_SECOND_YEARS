@@ -7,7 +7,7 @@ Kindly follow the table of contents below, this will guide you through what is e
 
 In block A, you explored various themes around digital transformation such as business intelligence using Power BI; and critically examined applications of AI and digital technologies to existing businesses processes. In this block, you will take on a more hands-on approach towards improving a business process using digital transformation. In particular, you will explore one specific role within the theme of digitalisation - *the Data Scientist* – and help the client - *Banijay Group* - improve their business processes using data, mathematics, and machine learning.
 
-The [Banijay Group](https://banijaybenelux.com/) is a content creation company for television and multimedia platforms operating within the Media & Entertainment and Telecommunications industries. The group was established in France in 2008, it's present in 21 countries, and it owns 120 production companies that produces 130,000 hours of content such as the world-famous Big Brother, Black Mirror, MasterChef, among many other brands. Banijay's goals are to create, produce and deliver high-quality, multi-genre content and increase its Intellectual Property (IP) through creative entrepreneurship and business acumen.  
+The [Banijay Group](https://banijaybenelux.com/){:target="_blank"} is a content creation company for television and multimedia platforms operating within the Media & Entertainment and Telecommunications industries. The group was established in France in 2008, it's present in 21 countries, and it owns 120 production companies that produces 130,000 hours of content such as the world-famous Big Brother, Black Mirror, MasterChef, among many other brands. Banijay's goals are to create, produce and deliver high-quality, multi-genre content and increase its Intellectual Property (IP) through creative entrepreneurship and business acumen.  
 
 > The client has approached you – the Data Scientist – with the aim to analyse their current TV viewership metrics and present a plan to improve their data usage (with multiple sources) and ultimately, increase their TV ratings.
 
@@ -19,10 +19,9 @@ Below you will find the <mark>project requirements</mark>, but there will be an 
 
 With a view to enabling Banijay’s stakeholders to achieve the desired TV ratings, a successful project will meet the following requirements:  
 
-- [Data Governance and Ethics](../BlockB/Project%20Requirements/DataGovernanceRequirements.html)
-- [Machine Learning](../BlockB/Project%20Requirements/MachineLearningRequirements.html)
-- [Linear Algebra](../BlockB/Project%20Requirements/LinearAlgebraRequirements.html)
-- [Report](../BlockB/Project%20Requirements/ReportRequirements.html)
+- [Data Governance and Ethics](../BlockB/Project%20Requirements/DataGovernanceRequirements.html){:target="_blank"}
+- [Data Pre-processing and Analysis](../BlockB/Project%20Requirements/MachineLearningRequirements.html){:target="_blank"}
+- [Report](../BlockB/Project%20Requirements/ReportRequirements.html){:target="_blank"}
 
 # Block Outline
 
@@ -35,18 +34,17 @@ With a view to enabling Banijay’s stakeholders to achieve the desired TV ratin
 - [Python for AI and Data Science](../../Study%20Content/Programming/3.Python%20foundations.html)
 
 ## Tuesday
-- [Python data types & data structures I](../../Study%20Content/Programming/5.Python%20data%20types%20and%20data%20structures.html)
+- [Python data types & data structures ](../../Study%20Content/Programming/4.Python%20data%20types%20and%20data%20structures.html)
 
 ## Wednesday
-- [DataLab: Python Foundation exercises](../../Study%20Content/Programming/4.DataLabPR1.html)
+- [DataLab: Python Foundation exercises](../../Study%20Content/Programming/5.DataLabPR1.html)
 
 ## Thursday 
-- [Python data types & data structures II](../../Study%20Content/Programming/5.Python%20data%20types%20and%20data%20structures.html)
-- [Python: Coding standards and reproducible data science](../../Study%20Content/Programming/14.Python%20PEP8.html)
+- [Python: Pandas](../../Study%20Content/Programming/6.Getting%20Started%20with%20Pandas.html)
+- [Python: Coding standards and reproducible data science](../../Study%20Content/Programming/6.Python%20PEP8.html)
 
 ## Friday
-- [DataLab: Python data types & data structures](../../Study%20Content/Programming/8.DataLabPR2.html)
-
+- [DataLab: Pandas](../../Study%20Content/Programming/7.DataLabPR2.html)
 - **Formative Feedback I**
 
 # Week 2 : Data Governance & Ethics 
@@ -56,8 +54,10 @@ With a view to enabling Banijay’s stakeholders to achieve the desired TV ratin
 
 ## Tuesday
 - [Professional writing I: The structure of a paragraph, rules of writing & Bias-free language](../../Study%20Content/Digital%20Transformation/Professional%20writing%201.html)
-
-- [AI Business Model Canvas](../../Study%20Content/Digital%20Transformation/Professional%20writing%201.html)
+<<<<<<< HEAD
+=======
+- [AI Business Model Canvas](../../Study%20Content/Digital%20Transformation/Professional%20writing%201.html#5-datalab-preparation-week-2-datalab-1)
+>>>>>>> 076ca36a24eafdb2d5ecff460b4408cabf4e076e
 
 ## Wednesday
 **Site-visit:** From 10 to 13 you will be visiting Banijay studios in Amsterdam.  The client will present the Creative Brief and you will have a chance to ask relevant questions. 
@@ -70,12 +70,10 @@ Especially for this occasion, we arranged transportation from you. Please be sha
 
 ## Thursday 
 - [Data Governance and Ethics (2): Ethical Guidelines for Statistical Practice. Introduction to GDPR](../../Study%20Content/Digital%20Transformation/Data%20Governance%20and%20Ethics%202.html)
-
 - [Professional writing (2): Citations](../../Study%20Content/Digital%20Transformation/Professional%20writing%202.html)
 
 ## Friday
 - [DataLab: Ethics and AI](../../Study%20Content/Digital%20Transformation/DataLab%20Week%202.%20Day%202.html)
-
 - __Guest lecture from IBM on AI Ethics__
 
 # Week 3 : Python for Data Analysis
@@ -100,7 +98,6 @@ Especially for this occasion, we arranged transportation from you. Please be sha
 ## Friday
 
 - [DataLab: Data Science and Society](../../Study%20Content/Programming/8.DataLabPR2.html)
-
 - **Formative Feedback II**
 
 # Week 4 : Machine Learning
@@ -127,7 +124,6 @@ Especially for this occasion, we arranged transportation from you. Please be sha
 ## Friday
 
 - [DataLab: Regression Algorithms](../../Study%20Content/Programming/8.DataLabPR2.html) 
-
 - **Guest Lecture and Q&A with Banijay Data Scientist** (from 3 pm to 5 pm) 
 
 # Week 5 : Machine Learning 
@@ -143,7 +139,6 @@ Especially for this occasion, we arranged transportation from you. Please be sha
 ## Wednesday
 
 - [DataLab: Tree-based Algorithms](../../Study%20Content/Programming/8.DataLabPR2.html) 
-
 - **Guest lecture on Data Driven Marketing by Fingerspitz from 13:00 – 14:00 at Fe 1.017.**
 
 ## Thursday
@@ -193,7 +188,6 @@ Especially for this occasion, we arranged transportation from you. Please be sha
 ## Wednesday
 
 **Workshop**(Bert): Presentation (pitching) Skills, theory and practice.  
-
 - [DataLab: Linear Algebra](../../Study%20Content/Mathematics%20I/2.%20DataLab1.html) 
 
 ## Thursday
@@ -204,7 +198,6 @@ Especially for this occasion, we arranged transportation from you. Please be sha
 ## Friday
 
 - [DataLab: Linear Algebra](../BlockB/Project%20Requirements/LinearAlgebraRequirements.html) 
-
 **Formative feedback session IV**
 
 

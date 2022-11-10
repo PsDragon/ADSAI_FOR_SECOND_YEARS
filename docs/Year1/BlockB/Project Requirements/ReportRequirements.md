@@ -8,7 +8,7 @@ Plase check the assessment rubric and note the levels below.
 
 ### LEVEL 3 (MINIMUM) REQUIREMENTS  
 
-1. Maximum 3000 words (excl. cover/table of content/list of references and appendices);
+1. A word count of 2500 ± 200 (excl. cover/table of content/list of references and appendices);
 2. Correct spelling;  
 3. Page formatting is according to APA 7th Edition;  
 4. The report doesn’t contain any bias language;  

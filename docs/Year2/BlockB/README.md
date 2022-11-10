@@ -146,29 +146,37 @@ __Formative feedback II__
 
 DataLab 1, Prep and Goal(s):
 
-[I see, therefore I lift]() (INSERT IMAGE FROM STABLE DIFF OF ROBOT ARM WITH GLASSES LIFTING)
+- [I see, therefore I lift]() (INSERT IMAGE FROM STABLE DIFF OF ROBOT ARM WITH GLASSES LIFTING)
 
 DataLab 2, Prep and Goal(s):
 
-[ ] [Expand on/Create flowchart of decision-making & action-taking models for reinfocement learning](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Decision-making%20&%20Actions%20-%20Datalab%20material.html)
+- [ ] [Expand on/Create flowchart of decision-making & action-taking models for reinfocement learning](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Decision-making%20&%20Actions%20-%20Datalab%20material.html)
 
-[Gym time!]() (INSERT IMAGE FROM STABLE DIFF OF ROBOT ARM GYMING)
+- [Gym time!]() (INSERT IMAGE FROM STABLE DIFF OF ROBOT ARM GYMING)
 
 ### Week 6-7
 
 - [Reinforcement Learning III: ](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/8.%20Reinforcement%20Learning%20III.html)
 
-We have now covered mostt of the knowledge modules and will spend most of the next two weeks training and evaluating our models.
+We have now covered the majority of the knowledge modules and will spend most of the next two weeks training and evaluating our models.
 
 #### <mark>DataLab (individual)</mark>
 
 DataLab 1, Prep and Goal(s):
 
+- [Model Investigation]()
+
 DataLab 2, Prep and Goal(s):
+
+- [Hyperparameter tuning]()
 
 DataLab 3, Prep and Goal(s):
 
+- [Let's get pixelated!]()
+
 DataLab 4, Prep and Goal(s):
+
+- [Performance evaluation]()
 
 __Formative feedback III (End of Week 6)__
 
@@ -180,7 +188,11 @@ __Formative feedback III (End of Week 6)__
 
 DataLab 1, Prep and Goal(s):
 
+- [Demo preparation]()
+
 DataLab 2, Prep and Goal(s):
+
+- [Demo Day]()
 
 *** 
 

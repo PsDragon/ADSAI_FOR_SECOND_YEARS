@@ -4,7 +4,7 @@
 In Block B, which spans eight weeks, you will explore one specific role within a professional data team - The Artificial Intelligence Researcher. During the block, you will work on a Computer vision and Robotics themed real-use case. The research topics include, but are not limited to:
 
 - Computer vision; Object detection (e.g., YOLO, Faster-RCNN, edge detection, etc.)
-- Reinforcement learning (e.g., )
+- Reinforcement learning (e.g., DQN, A2C, PPO)
 - Cognition: models of perception, learning, decision-making and action within situational context
 - MLOps (e.g., bash scripting, virtual environments, etc.) 
 

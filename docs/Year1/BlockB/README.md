@@ -76,148 +76,115 @@ Especially for this occasion, we arranged transportation from you. Please be sha
 # Week 3 : Python for Data Analysis
 
 ## Monday
-
 - [Python: Pandas](../../Study%20Content/Programming/6.Getting%20Started%20with%20Pandas.html)
 
 ## Tuesday
-
 - [Python: Matplotlib](../../Study%20Content/Programming/12.Data%20visualization%20in%20Python.html)
 - [Python: Numpy](../../Study%20Content/Programming/7.Python%20Numpy.html)
 
 ## Wednesday
-
 - [DataLab: Python data types & data structures](../../Study%20Content/Programming/8.DataLabPR2.html)
 
 ## Thursday
-
 - [Python: Data Science and Society](../../Study%20Content/Programming/7.Python%20Numpy.html)
 
 ## Friday
-
 - [DataLab: Data Science and Society](../../Study%20Content/Programming/8.DataLabPR2.html)
 - **Formative Feedback II**
 
 # Week 4 : Machine Learning
 
 ## Monday
-
 - [Introduction to Machine Learning](../../Study%20Content/Introduction%20to%20Machine%20Learning/SupervisedAndUnsupervisedLearning.html)
 - [The Modelling Pipeline](../../Study%20Content/Programming/7.Python%20Numpy.html)
 
 ## Tuesday
-
 - [Classification Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/ClassificationAlgorithms.html)
 - [Evaluating Machine Learning algorithms: Bias and Variance](../../Study%20Content/Introduction%20to%20Machine%20Learning/ClassificationAlgorithms.html)
 
-
 ## Wednesday
-
 - [DataLab: Classification Algorithms](../../Study%20Content/Programming/8.DataLabPR2.html) 
 
 ## Thursday
-
 - [Regression Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/RegressionAlgorithms.html)
 
 ## Friday
-
 - [DataLab: Regression Algorithms](../../Study%20Content/Programming/8.DataLabPR2.html) 
 - **Guest Lecture and Q&A with Banijay Data Scientist** (from 3 pm to 5 pm) 
 
 # Week 5 : Machine Learning 
 
 ## Monday
-
 - [Tree-based Algorithms I](../../Study%20Content/Introduction%20to%20Machine%20Learning/DecisionTrees.html)
 
 ## Tuesday
-
 - [Tree-based Algorithms II](../../Study%20Content/Introduction%20to%20Machine%20Learning/DecisionTrees.html)
 
 ## Wednesday
-
 - [DataLab: Tree-based Algorithms](../../Study%20Content/Programming/8.DataLabPR2.html) 
 - **Guest lecture on Data Driven Marketing by Fingerspitz from 13:00 – 14:00 at Fe 1.017.**
 
 ## Thursday
-
 - [Tuning Machine Learning Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/DecisionTrees.html)
 
 ## Friday
-
 - [DataLab: Hyper-parameter tuning](../../Study%20Content/Programming/8.DataLabPR2.html) 
 - **Formative feedback session III**
 
 # Week 6 : Machine Learning 
 
 ## Monday
-
 - [Clustering Algorithms I](../../Study%20Content/Introduction%20to%20Machine%20Learning/ClusteringK-Means.html)
 
 ## Tuesday
-
 - [Clustering Algorithms II](../../Study%20Content/Introduction%20to%20Machine%20Learning/DecisionTrees.html)
 
 ## Wednesday
-
 - [DataLab: Clustering Analysis](../../Study%20Content/Programming/8.DataLabPR2.html) 
 
 ## Thursday
-
 - [Machine Learning: Recap](../../Study%20Content/Introduction%20to%20Machine%20Learning/SupervisedLearningRecap.html)
 
 ## Friday
-
 - [DataLab: Machine Learning wrap-up](../../Study%20Content/Programming/8.DataLabPR2.html) 
 
 # Week 7: Linear Algebra
 
 ## Monday
-
 - [Introduction to Linear Algebra](../../Study%20Content/Mathematics%20I/1.%20Introduction%20to%20Linear%20Algebra.html)
 - [Elementary Operations on Matrices](../../Study%20Content/Mathematics%20I/1.1.%20Elementary%20Operations%20on%20Matrices.html)
 
 ## Tuesday
-
 - [Matrix Multiplication and inversion](../../Study%20Content/Mathematics%20I/1.2%20Matrix%20Multiplication%20and%20applications%20to%20linear%20systems.html)
-
-**DataLab Preparation** (Bert): Bring one object of our preference from your home. 
+- **DataLab Preparation** (Bert): Bring one object of our preference from your home. 
 
 ## Wednesday
-
-**Workshop**(Bert): Presentation (pitching) Skills, theory and practice.  
+- **Workshop**(Bert): Presentation (pitching) Skills, theory and practice.  
 - [DataLab: Linear Algebra](../../Study%20Content/Mathematics%20I/2.%20DataLab1.html) 
 
 ## Thursday
- 
 - [Linear algebra applied to Linear Systems](../../Study%20Content/Mathematics%20I/3.%20Linear%20Algebra%20applied%20to%20Linear%20Systems.html)
 - [Regression from a Linear Algebra Perspective](../../Study%20Content/Mathematics%20I/4.%20Linear%20Algebra%20and%20(linear)%20Regressions.html)
 
 ## Friday
-
 - [DataLab: Linear Algebra](../BlockB/Project%20Requirements/LinearAlgebraRequirements.html) 
 **Formative feedback session IV**
-
 
 # Week 8 : Business Case 
 
 ## Monday
-
 - [Python: Advanced topics](../../Study%20Content/Programming/11.AdvancedNumpy.html)
 
 ## Tuesday
 - [Machine Learning: Advanced topics](../../Study%20Content/Introduction%20to%20Machine%20Learning/Perceptron.html)
 
 ## Wednesday
-
 - **DataLab:** Work on the project brief.  
 
 ## Thursday
-
 - [Linear Algebra and Image Processing I](../../Study%20Content/Mathematics%20I/6.%20Image%20Processing%20using%20Linear%20Algebra%20I.html)
 - [Linear Algebra and Image Processing II](../../Study%20Content/Mathematics%20I/8.%20Linear%20Algebra%20and%20Image%20Processing%20II.html)
 
-
 ## Friday
-
 - **Project Dissemination** 
 - **DataLab:** Work on the project brief.  

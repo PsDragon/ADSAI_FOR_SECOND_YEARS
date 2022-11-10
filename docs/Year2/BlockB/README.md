@@ -8,17 +8,49 @@ In Block B, which spans eight weeks, you will explore one specific role within a
 - Cognition: models of perception, learning, decision-making and action within situational context
 - MLOps (e.g., bash scripting, virtual environments, etc.) 
 
-***
-
 ## Staff Members
 
 | Name   |  Availability |  Week | Email  | Subject  |
 |---|---|---|---|---|
 | Dean van Aswegen (Lecturer) <img src="./images/DeanProfile.jpg" alt="Dean van Aswegen profile picture" width="200"/> | Mon, Tue, Wed, Thu, Fri  |  Weeks 4-8 | aswegen.d@buas.nl | Robotics & Reinforcement learning | 
 | Alican Noyan (Lecturer), PhD.<img src="./images/AlicanProfile.jpg" alt="Alican Noyan profile picture" width="200"/>|  Mon, Wed, Thu, Fri  | Week 2 |  noyan.a@buas.nl | Traditional computer vision |
-| Irene van Blerck (Mentor), MSc. <img src="./images/IreneProfile.jpg" alt="Irene van Blerck profile picture" width="200"/> |  Tue, Wed, Thu, Fri | Weeks 1-3, 8 |  blerck.i@buas.nl | Data collection/annotation & DL computer vision |
+| Irene van Blerck (Mentor), MSc. <img src="./images/IreneProfile.jpg" alt="Irene van Blerck profile picture" width="200"/> |  Tue, Wed, Thu, Fri | Weeks 1-3, 8 |  blerck.i@buas.nl | Data collection & DL computer vision |
 | Bram Heijligers (Lecturer), MSc. <img src="./images/BramProfile.jpg" alt="Bram Heijligers profile picture" width="200"/> |  Wed, Thu, Fri | Week 1 & 5 | heijligers.b@buas.nl | Cognition & Data Management | 
 | Frank Peters, PhD. <img src="./images/FrankProfile.jpeg" alt="Frank Peters profile picture" width="200"/> | Mon, Tue, Wed, Thu |  Omnipresent | peters.f@buas.nl | Supreme Leader of the ADSAI Department, A.K.A. 'El Patron'  |
+
+## DataLab Attendance 
+
+Regular attendance and punctuality in every DataLab is required of each student (by default from 9:00 to 17:00). A student who has incurred absences of more than two DataLab sessions without a valid reason throughout the block shall not be given credit for the professional ILO(s). 
+
+A student is considered late when they are not yet present until the fifteenth minute from the start of DataLab (9:15) Two instances of lateness are counted as one absence.
+
+In case of absence, the student needs to fill in the 'DataLab Absence' [form](https://adsai.buas.nl/Contact%20Us/DataLabAttendance.html) in a timely manner (before 9:00), and subsequently proposes and completes activities that are acceptable alternatives to the in-class learning activities. For more details, contact your mentor.
+
+*__Good__* excuses to miss DataLab:
+
+- Personal illness
+- Family emergency
+- Death of a loved one
+- Medical appointment
+- Public transportation issue
+- Car (or Other) accident
+- Etc.
+
+*__Bad__* excuses to miss DataLab:
+
+- Oversleeping
+- Being hangover
+- Having no babysitter for your rabbit, dog, cat, etc.
+- Boyband breakups and/or related drama
+- A birthday party for a four-legged pal
+- Having no clean underwear to put on
+- Going to the beach because a doctor said that you needed more vitamin D
+- The universe telling you to take a day off
+- Etc.
+
+## Questions?
+
+If you have questions or issues regarding the course material, please post a message on the 'Q&A' channel in Teams.
 
 ***
 
@@ -30,7 +62,7 @@ In the past five years, leading companies like Philips and Nokia have started in
 
 *Figure 1. WWA employers working on robot arm.*
 
-[WWA](https://www.wwa.nl/), a regional SME in manufacturing-process automation,  hereafter the client, has approached you as an – Artificial Intelligence Researcher – to digitilize its business processes by designing and developing a practical, Industry 4.0, robotics application that can perform bin picking by applying cognitive models, and (advanced) reinforcement learning and computer vision algorithms. 
+[WWA](https://www.wwa.nl/), a regional SME in manufacturing-process automation,  hereafter the client, has approached you as an – Artificial Intelligence Researcher – to digitilize its business processes by designing and developing a practical, Industry 4.0, robotics application that can perform bin picking by applying cognitive models, (advanced) reinforcement learning and computer vision algorithms. 
 
 Good luck!
 

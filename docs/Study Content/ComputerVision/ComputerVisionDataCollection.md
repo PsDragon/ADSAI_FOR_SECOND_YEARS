@@ -161,11 +161,13 @@ will enable you to create a video and convert it into a collection of images.
 
 In order to solve the 'simple' object detection task, you will need to correctly classify, and localize two to three different types of geometric shapes. To do so, you will need to train an object detection model on a dataset of synthetically generated images.
 
-![Bin picking 'simple' object detection task](./images/BinPickingSimulationExample.gif)
+![Bin Picking geometric shapes with a robot arm](./images/BinPickingSimulationExample.gif)
+
+*Figure 5. Bin Picking geometric shapes with a robot arm.*
 
 __Specifications of the synthetic image dataset:__
 
-- 2-3 classes representing a geometric shape (e.g., green cube, yellow cube, red pyramid, etc.).
+- Two or three classes representing a geometric shape (e.g., green cube, yellow cube, red pyramid, etc.).
 
 For more information on how to generate synthetic image data in the robotic simulation environment, see [Robotic Simulation Primer](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/3.%20Robotic%20Simulation%20Primer.html)
 

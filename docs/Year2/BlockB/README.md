@@ -5,7 +5,7 @@ In Block B, which spans eight weeks, you will explore one specific role within a
 
 - Computer vision; Object detection (e.g., YOLO, Faster-RCNN, edge detection, etc.)
 - Reinforcement learning (e.g., )
-- Cognition: models of perception, decision-making and action within situational context
+- Cognition: models of perception, learning, decision-making and action within situational context
 - MLOps (e.g., bash scripting, virtual environments, etc.) 
 
 ***
@@ -52,8 +52,9 @@ The block starts with a kick-off lecture.
 - [Data collection](../../Study%20Content/ComputerVision/ComputerVisionDataCollection.html)
 - [Robotic Simulation Primer](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/3.%20Robotic%20Simulation%20Primer.html)
 - [Data management](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html)
+- [Cognition workshop](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Perception%20-%20Self-study%20material.html): 9:00 - 17:00 on Thursday the 17th of November (Check MyTimetable).
 
-In this block we don't work with humans or animals but with robots which makes our lives much easier! Therefore, we don't need to bother ourselves with a letter of informed consent or a research information letter. For this block we need to use and fill in the following templates: [ ] BUas Ethics Review; [ ] Research Data Management Guide; [ ] Codebook. *This is a group deliverable*, so you can all hand-in the same files; and evidence that you did follow through with you Research Data Management Plan & Procedures described in there. Make sure that you contribute to each of these deliverables and are able to evidence this!
+In this block we don't work with humans or animals but with robots which makes our lives much easier! Therefore, we don't need to bother ourselves with a letter of informed consent or a research information letter. For this block we need to use and fill in the following templates: [BUas Ethics Review](https://adsai.buas.nl/Year2/BlockB/#buas-ethics-review); [Research Data Management Guide](https://adsai.buas.nl/Year2/BlockB/#research-data-management-plan); [Codebook](https://adsai.buas.nl/Year2/BlockB/#codebook). *This is a group deliverable*, so you can all hand-in the same files; and evidence that you did follow through with you Research Data Management Plan & Procedures described in there. Make sure that you contribute to each of these deliverables and are able to evidence this!
 
 #### <mark>DataLab (group)</mark>
 
@@ -61,12 +62,12 @@ DataLab 1, Goal(s):
 
 - [ ] Demonstrate business understanding by identifying, and describing the project's problem statement
 - [ ] Setup your ICT environment (e.g, WSL2, IDE, MLOps tool, etc.)
-
-
-DataLab 2, Goal(s):
-
 - [ ] Create one (1) real-life image dataset ('difficult' object detection task)
 - [ ] Create one (1) synthetic image dataset ('easy' object detection task)
+
+DataLab 2, Goal(s):
+- [ ] [Create flowchart of perceptual & learning model for object detection](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Perception%20and%20Learning%20-%20Datalab%20material.html) 
+- [ ] [Create first draft of data management plan, ethics review & codebook](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html)
 
 ### Week 2
 
@@ -121,40 +122,55 @@ DataLab 2, Goal(s):
 - [Robotics II: Practical Example](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/5.%20Robotics%20II.html)
 - [Robotics III: Robotic Simulation](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/6.%20Robotics%20III.html)
 
+- Optional: [Calculus for Control]()
+
 #### <mark>DataLab (individual)</mark>
 
-DataLab 1, Goal(s):
+DataLab 1, Prep and Goal(s):
 
-- [I like to move it, move it!]() 
+- [I like to move it, move it!]() (IMAGE FROM STABLE DIFF)
 
-DataLab 2, Goal(s):
+DataLab 2, Prep and Goal(s):
 
-- [Rack 'em and stack 'em!]()
+- [Rack 'em and stack 'em!]() (IMAGE FROM STABLE DIFF)
 
 __Formative feedback II__
 
 ### Week 5
 
-- Control with computer vision
-- Reinforcement learning (1)
+- [Reinforcement Learning I: Intro, Applications, and Theory](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/7.%20Reinforcement%20Learning%20I.html)
+- [Reinforcement Learning II: Applying Reinforcement Learning](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/8.%20Reinforcement%20Learning%20II.html)
+- [Cognition workshop: decision-making & action-taking](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Decision-making%20&%20Actions%20-%20Self-study%20material.html): 9:00 - 17:00 on Thursday the 15th of December (Check MyTimetable).
 
 #### <mark>DataLab (individual)</mark>
 
-DataLab 1, Goal(s):
+DataLab 1, Prep and Goal(s):
 
-DataLab 2, Goal(s):
+[I see, therefore I lift]() (INSERT IMAGE FROM STABLE DIFF OF ROBOT ARM WITH GLASSES LIFTING)
+
+DataLab 2, Prep and Goal(s):
+
+[ ] [Expand on/Create flowchart of decision-making & action-taking models for reinfocement learning](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Decision-making%20&%20Actions%20-%20Datalab%20material.html)
+
+[Gym time!]() (INSERT IMAGE FROM STABLE DIFF OF ROBOT ARM GYMING)
 
 ### Week 6-7
 
-- Reinforcement learning (2)
+- [Reinforcement Learning III: ](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/8.%20Reinforcement%20Learning%20III.html)
+
+We have now covered mostt of the knowledge modules and will spend most of the next two weeks training and evaluating our models.
 
 #### <mark>DataLab (individual)</mark>
 
-DataLab 1, Goal(s):
+DataLab 1, Prep and Goal(s):
 
-DataLab 2, Goal(s):
+DataLab 2, Prep and Goal(s):
 
-__Formative feedback III__
+DataLab 3, Prep and Goal(s):
+
+DataLab 4, Prep and Goal(s):
+
+__Formative feedback III (End of Week 6)__
 
 ### Week 8 
 
@@ -162,9 +178,9 @@ __Formative feedback III__
 
 #### <mark>DataLab (individual)</mark>
 
-DataLab 1, Goal(s):
+DataLab 1, Prep and Goal(s):
 
-DataLab 2, Goal(s):
+DataLab 2, Prep and Goal(s):
 
 *** 
 
@@ -185,20 +201,22 @@ To solve the project's computer vision task, you need to:
 
 ### _Implement baseline controller_
 
-Use traditional control methods combined with computer vision to create a controller for a simulated robotic arm to enable it to perform a pick and place task.
+Use traditional control methods combined with computer vision to create a controller for a simulated robotic arm to enable it to perform a pick and place task. (ILO 4.1)
 The arm needs to: 
 - Locate objects in its workspace 
 - Classify the objects 
+- Pick up the object
 - Place the objects in a specific area based on the classification 
     
 ### _Investigate the feasibility of the application of reinforcement learning to the pick and place task_
+Use reinforment learning to develop a controller for a simulated robotic arm to enable it to perform a pick and place task (ILO 4.2). Create and compare different reinforcement learning controllers using different: 
+- Models (e.g. DQN, A2C, PPO, etc.) 
+- Action spaces (e.g. discrete, continuous, etc.)
+- Observation spaces (e.g. image, vector, etc.)
+- Hyperpameters 
+- Reward fucntions 
 
-Create and compare different reinforcement learning controllers using different: 
-- models 
-- action spaces
-- observation spaces
-- hyperpameters 
-- reward fucntions
+You will also need to compare these controllers to the baseline controller, and determine which controller is the most suitable for the pick and place task.
 
 ### Cognition
 Complete the cognition task by using cognitive theory and cognitive models to **conceptualize**, build (implemented in the 'Computer Vision' task & 'Robotics and Reinforcement Learning' task) and **improve on** the application.
@@ -236,8 +254,7 @@ Evidence in technical report, and integrate in robotic controller & reinforcemen
 
 __Group:__
 
-- Two (2) annotated image datasets for an object detection task (ILO 3.1)
-- GitHub folders with README.md
+- Two (2) annotated image datasets for an object detection task (ILO 3.1) (included in the computer vision folder of the repository)
 - [BUas Ethics Review](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html#templates)
 - [Research Data Management Plan](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html#templates)
 - [Codebook](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html#templates)
@@ -245,11 +262,14 @@ __Group:__
 __Individual:__
 
 - Technical report (ILO 2.1)
-- Object detection model (i.e., weights), and corresponding Python code (ILO 3.2)
-- Reinforcement learning model
-- Robot controller
+- GitHub folders with clear and concise README.md that explains the project and how to run the code, as well as showcasing the results. The final code and trained models (i.e. weights) should be included so the results can be replicated. These folders are required for:
+    - Computer vision (ILO 3.2)
+    - Baseline controller (ILO 4.1)
+    - Reinforcement learning controller (ILO 4.2)
 
-<mark>For details, see self-assessment rubric.</mark>
+
+
+<mark>For more details, see self-assessment rubric.</mark>
 
 ***
 

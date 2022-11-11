@@ -9,6 +9,13 @@ Please note that DataLab attendance and preparation is mandatory, click [here](.
 
 In block A, you explored various themes around digital transformation such as business intelligence using Power BI; and critically examined applications of AI and digital technologies to existing businesses processes. In this block, you will take on a more hands-on approach towards improving a business process using digital transformation. In particular, you will explore one specific role within the theme of digitalisation - *the Data Scientist* – and help the client - *Banijay Group* - improve their business processes using data, mathematics, and machine learning.
 
+<br>
+<figure>
+    <img src="./banijay.PNG"/>
+</figure>
+<br>
+
+
 The [Banijay Group](https://banijaybenelux.com/){:target="_blank"} is a content creation company for television and multimedia platforms operating within the Media & Entertainment and Telecommunications industries. The group was established in France in 2008, it's present in 21 countries, and it owns 120 production companies that produces 130,000 hours of content such as the world-famous Big Brother, Black Mirror, MasterChef, among many other brands. Banijay's goals are to create, produce and deliver high-quality, multi-genre content and increase its Intellectual Property (IP) through creative entrepreneurship and business acumen.  
 
 > The client has approached you – the Data Scientist – with the aim to analyse their current TV viewership metrics and present a plan to improve their data usage (with multiple sources) and ultimately, increase their TV ratings.

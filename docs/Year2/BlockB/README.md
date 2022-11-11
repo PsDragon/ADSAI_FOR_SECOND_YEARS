@@ -289,7 +289,9 @@ Evidence in technical report, and integrate in robotic controller & reinforcemen
 - Suggestions for model improvement, real-world implementation, knowledge acquisition and decision-making are made. (ILO 4.2 - Excellent)
 
 ### Technical Report
-- Provide a written technical analysis of the implemented object detection, and robot control algorithm (ILO 2.1 - Sufficient). For more information, see 'Technical analysis' section of [DL computer vision I: Theory](../../Study%20Content/ComputerVision/DLComputerVision1a.html)
+- Describes the data aquisition, and pre-processing steps (e.g., annotation, quality assessment, etc.) (ILO 2.1 - Insufficient)
+- Provides a written technical analysis of the implemented object detection, and robot control algorithm (ILO 2.1 - Sufficient). For more information, see 'Technical analysis' section of [DL computer vision I: Theory](../../Study%20Content/ComputerVision/DLComputerVision1a.html).
+- Provides written recommendations for further research, taking into account the client's  business strategy (ILO 2.1 - Good)
 
 ### BUas Ethics Review
 - Fill in [the template](https://github.com/BredaUniversityADSAI/ADS-AI/blob/28e3a92cda22e9942aa90bb4178cceeaca0eef7f/docs/Study%20Content/Research%20Methodology/Assets/BUas%20Research%20Ethics%20Review%20Application%20Form-H%202022.docx). (ILO 2.1 - Poor)

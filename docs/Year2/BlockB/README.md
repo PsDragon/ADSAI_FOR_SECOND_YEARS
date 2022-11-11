@@ -255,17 +255,17 @@ To solve the project's computer vision task, you need to:
 
 ### Robotics and Reinforcement Learning
 
-### _Implement baseline controller_
+### _Implement a baseline controller_ (ILO 4.1)
 
-Use traditional control methods combined with computer vision to create a controller for a simulated robotic arm to enable it to perform a pick and place task. (ILO 4.1)
+Use traditional control methods combined with computer vision to create a controller for a simulated robotic arm to enable it to perform a pick and place task. 
 The arm needs to: 
 - Locate objects in its workspace 
 - Classify the objects 
 - Pick up the object
 - Place the objects in a specific area based on the classification 
     
-### _Investigate the feasibility of the application of reinforcement learning to the pick and place task_
-Use reinforment learning to develop a controller for a simulated robotic arm to enable it to perform a pick and place task (ILO 4.2). Create and compare different reinforcement learning controllers using different: 
+### _Investigate the feasibility of the application of reinforcement learning to the pick and place task_ (ILO 4.2)
+Use reinforment learning to develop a controller for a simulated robotic arm to enable it to perform a pick and place task. Create and compare different reinforcement learning controllers using different: 
 - Models (e.g. DQN, A2C, PPO, etc.) 
 - Action spaces (e.g. discrete, continuous, etc.)
 - Observation spaces (e.g. image, vector, etc.)

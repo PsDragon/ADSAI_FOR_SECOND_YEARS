@@ -61,7 +61,7 @@ With a view to enabling Banijay’s stakeholders to achieve the desired TV ratin
 
 __IMPORTANT!!!__
 
-Especially for this occasion, we arranged transportation from you. Please be sharp at __7.30 o clock at Breda University (AS) next to the Frontier building__. We will depart sharply at 8 o clock. 
+Especially for this occasion, we arranged transportation from you. Please be sharp at __8.00 o'clock at Breda University (AS) next to the Frontier building__. We will depart sharply at 8:30 o'clock.
 
 *Lunch is provided by Banijay, so you don't need to worry about it.*
 

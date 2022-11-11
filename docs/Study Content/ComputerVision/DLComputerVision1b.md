@@ -291,12 +291,6 @@ You can download the corresponding Python file, [here](./code/mmdetection_weight
 
 The downloaded weights have a '.pth' file extension (e.g., 'yolov3_d53_320_273e_coco-421362b6.pth'), and will be stored in in the 'checkpoint' folder (See directory tree of mmdetection). 
 
-To check if everything is working, you can run the following command in your terminal:
-
-```
-python demo/image_demo.py demo/demo.jpg configs/yolo/yolov3_d53_320_273e_coco.py checkpoints/yolov3_d53_320_273e_coco-421362b6.pth --device cuda --out-file result.jpg
-```
-
 __Okay, how do I know which argument (e.g., '--weights') I should use?__ 
 
 Instead of manually setting variables inside the code, the Python library argparse is used to parse the command line arguments and pass them to the script. In this case, the argument is the name of the model weights you want to download. When you add the '--help' argument to your command line statement, you will see a list of all the arguments available, and a short description of what they do. If you do not explicitly add an argument, the default value will be used. 
@@ -312,6 +306,12 @@ For more information on argparse, see [Python argparse](https://docs.python.org/
 *Video 2. Argparse for CLI - Intermediate Python Programming p.3.*
 
 It is time to check if we installed mmdetection correctly. To do this, we will run a demo script that will show us the results of the pre-trained model on a sample image. Please, following the instructions provided in the 'Demos' section of [1: Inference and train with existing models and standard datasets](https://mmdetection.readthedocs.io/en/latest/1_exist_data_model.html). Important note, use the pre-trained model weights that you downloaded in the previous step otherwise it will throw an error!
+
+For example:
+
+```
+python demo/image_demo.py demo/demo.jpg configs/yolo/yolov3_d53_320_273e_coco.py checkpoints/yolov3_d53_320_273e_coco-421362b6.pth --device cuda --out-file result.jpg
+```
 
 ### 2.4 Configuration file
 
@@ -551,8 +551,6 @@ This particular file needs to be placed in the 'configs/yolo/yolov3_d53_320_273e
 
 You can download the custom config file, [here](./code/mmdetection_weightsandbiases/yolov3_d53_320_273e_coco_custom_config.py). 
 
-To test your final model, use the 'test.py' file. This file is located in the 'tools' folder (See directory tree of mmdetection).
-
 ### 2.5 Hyperparameter tuning with Weight & Biases 
 
 To enable hyperparameter tuning in Weights and Biases, we need add some additional arguments to the training script. For example, 'momentum', and 'learning rate' are two hyperparameters that we can tune. We can add these arguments to the training script by adding the following lines to the training script: 
@@ -601,11 +599,26 @@ At last, we are able to run our custom training script with hyperparameter tunin
 python custom_train.py configs/yolo/yolov3_d53_320_273e_coco/yolov3_d53_320_273e_coco_custom_config.py 
 ```
 
+When you use Weights & Biases as your MLOps tool, you will encounter the following [error](https://github.com/open-mmlab/mmdetection/issues/8034#issuecomment-1158773682). To fix the issue add the following lines to the custom_train.py script: 
+
+```
+if not any(masks):
+    masks = None
+```
+
+![custom_train.py script Weights & Biases error fix](./images/WeightsBiasesMaskError_mmdetection.gif)
+
+*Figure 4. Weights & Biases hyperparameter output.*
+
+For more information regarding this solution, see GitHub [post](https://github.com/open-mmlab/mmdetection/issues/8034#issuecomment-1176209364) by dariagrechishnikova. 
+
 You should now see results from your experiments in Weights & Biases. For instance: 
 
 ![Weights & Biases hyperparameter output](./images/WeightsBiases_mmdetection.gif)
 
-*Figure 4. Weights & Biases hyperparameter output.*
+*Figure 5. Weights & Biases hyperparameter output.*
+
+To test your final model, use the 'test.py' file. This file is located in the 'tools' folder (See directory tree of mmdetection).
 
 For more information regarding the use of mmdetection (and Weights & Biases) please refer to the following links:
 

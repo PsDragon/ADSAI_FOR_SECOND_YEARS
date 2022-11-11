@@ -72,7 +72,7 @@ For more information on how to create and virtual conda environment, see [Virtua
 To start with the installation, we first need to clone their repository called [mmdetection](https://github.com/open-mmlab/mmdetection) on GitHub. Next, we need to find the toolbox's official documentation, which you can find, [here](https://mmdetection.readthedocs.io/en/latest/get_started.html). After we have opened the 'Get Started' guide, the prerequisites section tells us we need to create a virtual conda environment. For __Step 2__, please use this bash command to install PyTorch with cudatoolkit:
 
 ```
-conda install pytorch torchvision torchaudio cudatoolkit=11.1 -c pytorch-lts -c conda-forge
+conda install pytorch torchvision torchaudio pytorch-cuda=11.6 -c pytorch -c nvidia
 
 ```
 
@@ -83,7 +83,7 @@ Note: You will need to install cudatoolkit with conda, otherwise you will be una
 Then, install MMCV without MIM because otherwise, you might get an access error:
 
 ```
-pip install mmcv-full=={mmcv_version} -f https://download.openmmlab.com/mmcv/dist/{cu_version}/{torch_version}/index.html
+pip install mmcv-full -f https://download.openmmlab.com/mmcv/dist/cu116/torch1.13/index.html
 ```
 
 Lastly, install MMDetection from source: 
@@ -111,9 +111,7 @@ __Directory tree mmdetection:__
 ``` 
 mmdetection
 ├── checkpoints 
-│   └──yolo
-│       └── yolov3_d53_320_273e_coco
-│          └── yolov3_d53_320_273e_coco-421362b6.pth
+│   └── yolov3_d53_320_273e_coco-421362b6.pth
 ├── .circleci
 ├── .dev_scripts
 ├── .git
@@ -251,7 +249,6 @@ mmdetection
 |   |   └── print_config.py
 |   └── test.py
 ├── custom_train.py
-├── custom_test.py
 ├── download_weights.py
 ├── wandb
 │   ├── run-20221003_161330-2apa7ggi
@@ -290,9 +287,15 @@ Next step is to download the pre-trained model weights. You can also start with 
 python download_weights.py --weights yolov3_d53_320_273e_coco
 ```
 
-You can download the corresponding Pyhton file, [here](./code/mmdetection_weightsandbiases/download_weights.py). 
+You can download the corresponding Python file, [here](./code/mmdetection_weightsandbiases/download_weights.py). 
 
 The downloaded weights have a '.pth' file extension (e.g., 'yolov3_d53_320_273e_coco-421362b6.pth'), and will be stored in in the 'checkpoint' folder (See directory tree of mmdetection). 
+
+To check if everything is working, you can run the following command in your terminal:
+
+```
+python demo/image_demo.py demo/demo.jpg configs/yolo/yolov3_d53_320_273e_coco.py checkpoints/yolov3_d53_320_273e_coco-421362b6.pth --device cuda --out-file result.jpg
+```
 
 __Okay, how do I know which argument (e.g., '--weights') I should use?__ 
 
@@ -391,7 +394,7 @@ model = dict(
         nms=dict(type='nms', iou_threshold=0.45),
         max_per_img=100))
 dataset_type = 'CocoDataset'
-data_root = './cubes/' # Adjusted for custom dataset (Custom)
+data_root = './data/' # Adjusted for custom dataset (Custom)
 img_norm_cfg = dict(
     mean=[123.675, 116.28, 103.53], std=[58.395, 57.12, 57.375], to_rgb=True)
 train_pipeline = [
@@ -445,8 +448,8 @@ data = dict(
         times=10,
         dataset=dict(
             type='CocoDataset',
-            ann_file='./cubes/annotations/train_annotations.json', 
-            img_prefix='./cubes/images/train/',
+            ann_file='./data/annotations/train_annotations.json', 
+            img_prefix='./data/images/train/',
             classes= ('GreenCube', 'RedCube'), # Adjusted for custom dataset (Custom)
             pipeline=[
                 dict(type='LoadImageFromFile'),
@@ -474,8 +477,8 @@ data = dict(
             ])),
     val=dict(
         type='CocoDataset',
-        ann_file= './cubes/annotations/valid_annotations.json',
-        img_prefix='./cubes/images/valid/',
+        ann_file= './data/annotations/valid_annotations.json',
+        img_prefix='./data/images/valid/',
         classes= ('GreenCube', 'RedCube'), # Adjusted for custom dataset (Custom)
         pipeline=[
             dict(type='LoadImageFromFile'),
@@ -498,8 +501,8 @@ data = dict(
         ]),
     test=dict(
         type='CocoDataset',
-        ann_file='./cubes/annotations/test_annotations.json',
-        img_prefix='./cubes/images/test/',
+        ann_file='./data/annotations/test_annotations.json',
+        img_prefix='./data/images/test/',
         classes= ('GreenCube', 'RedCube'), # Adjusted for custom dataset (Custom)
         pipeline=[
             dict(type='LoadImageFromFile'),
@@ -539,7 +542,7 @@ This particular file needs to be placed in the 'configs/yolo/yolov3_d53_320_273e
 :warning:__Important notes:__:warning:
 
 - You need to install Weights & Biases for this to work. You can do this by running the following command in your terminal: `pip install wandb`. In addition, you need to create an account on the [Weights & Biases website](https://wandb.ai/site). For 'project' you can use the name of your project.
-- You need to create a dataset folder (e.g., 'cubes') in the root directory of the project. This folder should contain the 'images' and 'annotations' folders. The 'images' folder should contain the 'train', 'valid' and 'test' folders. The 'annotations' folder should contain the train, valid and test json files.
+- You need to create a dataset folder (e.g., 'data') in the root directory of the project. This folder should contain the 'images' and 'annotations' folders. The 'images' folder should contain the 'train', 'valid' and 'test' folders. The 'annotations' folder should contain the train, valid and test json files.
 - You need to specify the annotations and image paths in the 'data' section of the config file
 - You need to specify the annotation format in the 'data' section of the config file. In this case, the format is 'CocoDataset' 
 - You need to 'load_from' to 'checkpoints/{pre-trained model weights}.pth', which is the path to the pre-trained model

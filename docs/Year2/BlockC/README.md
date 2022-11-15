@@ -57,7 +57,7 @@ The ubiquitousness of smartphones enables people to announce an emergency they�
 
 But, it’s not always clear whether a person’s words are actually announcing a disaster. Take this example:
 
-According to Oxford Languages English dictionary, the word "Ablaze" can mean the following:
+According to Oxford Languages English dictionary, *ablaze* can mean the following:
 
 - [ ] burning fiercely.\
 *"his clothes were ablaze"*
@@ -68,7 +68,7 @@ According to Oxford Languages English dictionary, the word "Ablaze" can mean the
 - [ ] filled with anger or another strong emotion.\
 *"his eyes were ablaze with excitement"*
 
-Therefore a tweet with containing the word ablaze can indicate an emergency or not, depending on its intended meaning.
+Therefore a tweet with containing the word *ablaze* can indicate an emergency or not, depending on its intended meaning.
 
 
 ## Project Timeline

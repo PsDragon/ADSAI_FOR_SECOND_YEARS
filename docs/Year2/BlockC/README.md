@@ -52,6 +52,23 @@ If you have questions or issues regarding the course material, please post a mes
 
 # Creative Brief
 
+Twitter has become an important communication channel in times of emergency.
+The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies).
+
+But, it’s not always clear whether a person’s words are actually announcing a disaster. Take this example:
+
+According to Oxford Languages English dictionary, the word "Ablaze" can mean the following:
+
+- [ ] burning fiercely.\
+*"his clothes were ablaze"*
+
+- [ ] very brightly coloured or lighted.\
+*"New England is ablaze with colour in autumn"*
+
+- [ ] filled with anger or another strong emotion.\
+*"his eyes were ablaze with excitement"*
+
+Therefore a tweet with containing the word ablaze can indicate an emergency or not, depending on its intended meaning.
 
 
 ## Project Timeline

@@ -24,14 +24,14 @@ Note that [the cognitive revolution was a wider phenomena](https://en.wikipedia.
 Cognitive robots achieve their goals by perceiving their environment, paying attention to the events that matter, planning what to do, anticipating the outcome of their actions and the actions of other agents, and learning from the resultant interaction. They deal with the inherent uncertainty of natural environments by continually learning, reasoning, sharing their knowledge and making decision based on that knowledge.
 
 ### Course materials by Topic:
-1. [Perception & Learning - Study material](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Perception%20-%20Self-study%20material.html); consistion of two parts: 
+1. [Perception & Learning - Workshop](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Perception%20-%20Self-study%20material.html); consistion of two parts: 
 - Perception: Visual-Cognition, Mid-level vision, high-level vision, top-down & bottom-up processing for object recognition.
 - Learning: Associative Reinforment Learning, Rewards, Latent learning, Classical conditioning. 
-3. [Perception & Learning - Datalab material](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Perception%20and%20Learning%20-%20Datalab%20material.html): Apply the above to the creative brief.
-4. [Decision-making & Actions- Study material](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Decision-making%20&%20Actions%20-%20Self-study%20material.html); consistion of two parts:  
+3. [Perception & Learning - Datalab](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Perception%20and%20Learning%20-%20Datalab%20material.html): Apply the above to the creative brief.
+4. [Decision-making & Actions- Workshop](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Decision-making%20&%20Actions%20-%20Self-study%20material.html); consistion of two parts:  
 - Decision-making: Sampling cues, Information-Salience, Dealing with uncertainty, planning and anticipating.
 - Actions: Interacting with static and dynamic environments.
-5. [Decision-making & Actions - Datalab material](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Decision-making%20&%20Actions%20-%20Datalab%20material.html): Apply the above to the creative brief.
+5. [Decision-making & Actions - Datalab](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Decision-making%20&%20Actions%20-%20Datalab%20material.html): Apply the above to the creative brief.
 
 ## Templates & Models
 -	[Working Memory](https://github.com/BredaUniversityADSAI/ADS-AI/blob/2be98bf4081654daf358feb6291bb0fc387502a5/docs/Study%20Content/Cognition%20Fundamentals/assets/WorkingMemory.png); and how to use it ...
@@ -39,7 +39,7 @@ Cognitive robots achieve their goals by perceiving their environment, paying att
 -	[Associative Reinforcement Learning](https://github.com/BredaUniversityADSAI/ADS-AI/blob/2be98bf4081654daf358feb6291bb0fc387502a5/docs/Study%20Content/Cognition%20Fundamentals/assets/AssociativeReinforcementLearning.png); and how to use it ...
 
 ## Year 2C - Cognition and Language Learning:
-
+Coming soon!
 
 ## Course materials by Topic:
 1. [Cognitive Models of Language Learning (Y2C)]()
@@ -55,19 +55,18 @@ Cognitive robots achieve their goals by perceiving their environment, paying att
 - (Summary of Concepts and Terms)[https://github.com/BredaUniversityADSAI/ADS-AI/blob/260f3f788372cfb55e2a4ba2956800de1b3b14a8/docs/Study%20Content/Cognition%20Fundamentals/assets/Summary%20of%20Concepts%20and%20Terms.docx]: Highly recommended read which summarizes most important concepts discussed in the literature below. It also contains various important model you can use to create cognitive systems; or systems to deal with information processing in general.
 
 ### Books & Papers:
-1. Styles, E.A. (2005). Attention, Perception and Memory: An integrated Introduction. Psychology Press, Taylor & Francis.
-2. Moore, T., & Zirnsak, M. (2017). Neural mechanisms of selective visual attention. Annual Review of Psychology, 68, 47-72.
-3. Gottlieb, J. (2018). Understanding active sampling strategies: Empirical approaches and implications for attention and decision research. Cortex, 102, 150-160.
-4. O’Reagan, J.K. (1992). Solving the “real” mysteries of visual perception: the world as an outside memory. Can J Psychol, 46(3):461-488.
-5. Whitney, D. & Leib, A.Y. (2018). Ensemble perception. Annual Review of Psychology, 69:105-129.
-6. Oxenham, A.J. (2018). How we hear: The perception and neural coding of sound. Annual Review of Psychology, 69:27-50.
-7. Deroy, O., Spence, C., & Noppeney, U. (2016). Metacognition in multisensory perception. Trends in Cognitive Sciences, 20, 736-747.
-8. Todd, J., Sharpe, L, Johnson, A., Nicholson Perry, K., Colagiuri, B., & Dear, B.F. (2015). Towards a new model of attentional biases in the development, maintenance, and management of pain. Pain, 156, 1589-1600.
-9. Miyake et al. (2000). The unity and diversity of executive functions and their contributions to complex ‘frontal lobe’ tasks: A latent variable analysis. Cognitive Psychology, 41, 49-100.
-10. Eichenbaum, H. (2017). Memory: Organization and Control. Annual Review of Psychology, 68, 19-45.
-11. Joseph, S., Teki, S., Kumar, S., Husain, M., & Griffiths, T.D. (2016). Resource allocation models of auditory working memory. Brain Research, 1640: 183-192.
-12. Schurgin, M.W. (2018). Visual memory, the long and the short of it: A review of visual working memory and long-term
-memory. Attention, Perception, & Psychophysics, 80: 1035-1056.
+1. [Styles, E.A. (2005). Attention, Perception and Memory: An integrated Introduction. Psychology Press, Taylor & Francis.]()
+2. [Moore, T., & Zirnsak, M. (2017). Neural mechanisms of selective visual attention. Annual Review of Psychology, 68, 47-72.]()
+3. [Gottlieb, J. (2018). Understanding active sampling strategies: Empirical approaches and implications for attention and decision research. Cortex, 102, 150-160.]()
+4. [O’Reagan, J.K. (1992). Solving the “real” mysteries of visual perception: the world as an outside memory. Can J Psychol, 46(3):461-488.]()
+5. [Whitney, D. & Leib, A.Y. (2018). Ensemble perception. Annual Review of Psychology, 69:105-129.]()
+6. [Oxenham, A.J. (2018). How we hear: The perception and neural coding of sound. Annual Review of Psychology, 69:27-50.]()
+7. [Deroy, O., Spence, C., & Noppeney, U. (2016). Metacognition in multisensory perception. Trends in Cognitive Sciences, 20, 736-747.]()
+8. [Todd, J., Sharpe, L, Johnson, A., Nicholson Perry, K., Colagiuri, B., & Dear, B.F. (2015). Towards a new model of attentional biases in the development, maintenance, and management of pain. Pain, 156, 1589-1600.]()
+9. [Miyake et al. (2000). The unity and diversity of executive functions and their contributions to complex ‘frontal lobe’ tasks: A latent variable analysis. Cognitive Psychology, 41, 49-100.]()
+10. [Eichenbaum, H. (2017). Memory: Organization and Control. Annual Review of Psychology, 68, 19-45.]()
+11. [Joseph, S., Teki, S., Kumar, S., Husain, M., & Griffiths, T.D. (2016). Resource allocation models of auditory working memory. Brain Research, 1640: 183-192.]()
+12. [Schurgin, M.W. (2018). Visual memory, the long and the short of it: A review of visual working memory and long-term memory. Attention, Perception, & Psychophysics, 80: 1035-1056.]()
 13. Styles, E. (2004). Attention, perception and memory: An integrated introduction. Psychology Press.
 14. Bruce, V., Green, P. R., & Georgeson, M. A. (2003). Visual perception: Physiology, psychology, & ecology. Psychology Press.
 15. van der Heijden, A. H. (2004). Attention in vision: Perception, communication and action. Psychology Press.

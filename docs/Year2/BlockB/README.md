@@ -296,7 +296,7 @@ Evidence in technical report, and integrate in robotic controller & reinforcemen
 
 ### BUas Ethics Review
 - Fill in [the template](https://github.com/BredaUniversityADSAI/ADS-AI/blob/06638451273822b5dac37395a524ff7e4129dc38/docs/Study%20Content/Research%20Methodology/Assets/BUas%20Research%20Ethics%20Review%20Application%20Form-H.docx). (ILO 2.1 - Poor)
-- [Submit review and get accepted](heijligers.b@buas.nl). (ILO 2.1 - Insufficient & Sufficient)
+- [Submit review to Bram and get accepted](mailto:heijligers.b@buas.nl). (ILO 2.1 - Insufficient & Sufficient)
 
 ### Research Data Management Plan
 - Follows [BUas guidelines](https://eur04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fbuas.libguides.com%2Frdm%2F&data=05%7C01%7Cheijligers.b%40buas.nl%7C32902d1d66724d35fa3908dab1cae705%7C0a33589b00364fe8a8293ed0926af886%7C0%7C0%7C638017782263648569%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=hjY%2BMICD5oxH7rIo95xmB8UtbHkP726e%2BbPAKbyJ1sk%3D&reserved=0). (ILO 3.1 - Sufficient)

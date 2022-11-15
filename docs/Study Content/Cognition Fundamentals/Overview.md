@@ -24,11 +24,13 @@ Note that [the cognitive revolution was a wider phenomena](https://en.wikipedia.
 Cognitive robots achieve their goals by perceiving their environment, paying attention to the events that matter, planning what to do, anticipating the outcome of their actions and the actions of other agents, and learning from the resultant interaction. They deal with the inherent uncertainty of natural environments by continually learning, reasoning, sharing their knowledge and making decision based on that knowledge.
 
 ### Course materials by Topic:
-1. [Perception - Self-study material](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Perception%20-%20Self-study%20material.html): Visual-Cognition, Mid-level vision, high-level vision, top-down & bottom-up processing for object recognition.
-2. [Learning - Self-study material](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Learning%20Self-study%20material.html): Associative Reinforment Learning, Rewards, Latent learning, Classical conditioning. 
+1. [Perception & Learning - Study material](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Perception%20-%20Self-study%20material.html); consistion of two parts: 
+- Perception: Visual-Cognition, Mid-level vision, high-level vision, top-down & bottom-up processing for object recognition.
+- Learning: Associative Reinforment Learning, Rewards, Latent learning, Classical conditioning. 
 3. [Perception & Learning - Datalab material](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Perception%20and%20Learning%20-%20Datalab%20material.html): Apply the above to the creative brief.
-4. [Decision-making - Self-study material](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Decision-making%20&%20Actions%20-%20Self-study%20material.html): Sampling cues, Information-Salience, Dealing with uncertainty, planning and anticipating.
-4. [Actions - Self-study material](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Decision-making%20&%20Actions%20-%20Self-study%20material.html): Interacting with static and dynamic environments.
+4. [Decision-making & Actions- Study material](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Decision-making%20&%20Actions%20-%20Self-study%20material.html); consistion of two parts:  
+- Decision-making: Sampling cues, Information-Salience, Dealing with uncertainty, planning and anticipating.
+- Actions: Interacting with static and dynamic environments.
 5. [Decision-making & Actions - Datalab material](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Decision-making%20&%20Actions%20-%20Datalab%20material.html): Apply the above to the creative brief.
 
 ## Templates & Models
@@ -40,7 +42,7 @@ Cognitive robots achieve their goals by perceiving their environment, paying att
 
 
 ## Course materials by Topic:
-1. [Cognitive Models of Language Learning]()
+1. [Cognitive Models of Language Learning (Y2C)]()
 2. [Cognition for Natural Language Proccessing (Y2C)]()
 
 ## Templates & Models
@@ -48,6 +50,9 @@ Cognitive robots achieve their goals by perceiving their environment, paying att
 -	[This is a model](https://docs.google.com/document/d/166IJ62T9OEnrNnJgmgAH2aiSS-mM6Uzd?rtpof=true&authuser=bram.heijligers%40gmail.com&usp=drive_fs); and how to use it ...
 
 ## Sources:
+
+### Summary of Material:
+- (Summary of Concepts and Terms)[https://github.com/BredaUniversityADSAI/ADS-AI/blob/260f3f788372cfb55e2a4ba2956800de1b3b14a8/docs/Study%20Content/Cognition%20Fundamentals/assets/Summary%20of%20Concepts%20and%20Terms.docx]: Highly recommended read which summarizes most important concepts discussed in the literature below. It also contains various important model you can use to create cognitive systems; or systems to deal with information processing in general.
 
 ### Books & Papers:
 1. Styles, E.A. (2005). Attention, Perception and Memory: An integrated Introduction. Psychology Press, Taylor & Francis.
@@ -63,7 +68,9 @@ Cognitive robots achieve their goals by perceiving their environment, paying att
 11. Joseph, S., Teki, S., Kumar, S., Husain, M., & Griffiths, T.D. (2016). Resource allocation models of auditory working memory. Brain Research, 1640: 183-192.
 12. Schurgin, M.W. (2018). Visual memory, the long and the short of it: A review of visual working memory and long-term
 memory. Attention, Perception, & Psychophysics, 80: 1035-1056.
+13. Styles, E. (2004). Attention, perception and memory: An integrated introduction. Psychology Press.
+14. Bruce, V., Green, P. R., & Georgeson, M. A. (2003). Visual perception: Physiology, psychology, & ecology. Psychology Press.
+15. van der Heijden, A. H. (2004). Attention in vision: Perception, communication and action. Psychology Press.
+16. Mather, G. (2016). Foundations of sensation and perception. Psychology Press. 
 
 
-### Other:
-- (Terms and definitions list)[]

@@ -1,5 +1,5 @@
 ---
-sort: 6
+sort: 5
 ---
 
 # 1. Decision-making & Actions - Datalab

@@ -110,9 +110,10 @@ DataLab 2, Goal(s):
 
 ### Week 2
 
+- [Data annotation](../../Study%20Content/ComputerVision/ComputerVisionDataAnnotation.html)
+- [Computer vision: Introduction](https://adsai.buas.nl/Study%20Content/ComputerVision/ComputerVisionIntroduction.html)
 - [Traditional computer vision](https://adsai.buas.nl/Study%20Content/ComputerVision/TradDLComputerVision.html)
 - [DL computer vision I: Theory](../../Study%20Content/ComputerVision/DLComputerVision1a.html)
-- [Data annotation](../../Study%20Content/ComputerVision/ComputerVisionDataAnnotation.html)
 
 #### <mark>DataLab (group)</mark>
 

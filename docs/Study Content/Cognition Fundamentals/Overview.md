@@ -67,8 +67,8 @@ Coming soon!
 10. [Eichenbaum, H. (2017). Memory: Organization and Control. Annual Review of Psychology, 68, 19-45.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/997b5108aa39c2ceded8eb9dd979c7333360e624/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/Memory%20-%20Organization%20and%20Control.pdf)
 11. [Joseph, S., Teki, S., Kumar, S., Husain, M., & Griffiths, T.D. (2016). Resource allocation models of auditory working memory. Brain Research, 1640: 183-192.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/997b5108aa39c2ceded8eb9dd979c7333360e624/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/Resource%20allocation%20models%20of%20auditory%20working%20memory.pdf)
 12. [Schurgin, M.W. (2018). Visual memory, the long and the short of it: A review of visual working memory and long-term memory. Attention, Perception, & Psychophysics, 80: 1035-1056.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/997b5108aa39c2ceded8eb9dd979c7333360e624/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/Visual%20memory,%20the%20long%20and%20the%20short%20of%20it%20-%20A%20review%20of%20visual%20working.pdf)
-14. Bruce, V., Green, P. R., & Georgeson, M. A. (2003). Visual perception: Physiology, psychology, & ecology. Psychology Press.
-15. van der Heijden, A. H. (2004). Attention in vision: Perception, communication and action. Psychology Press.
-16. Mather, G. (2016). Foundations of sensation and perception. Psychology Press. 
+13. Bruce, V., Green, P. R., & Georgeson, M. A. (2003). Visual perception: Physiology, psychology, & ecology. Psychology Press.
+14. van der Heijden, A. H. (2004). Attention in vision: Perception, communication and action. Psychology Press.
+15. Mather, G. (2016). Foundations of sensation and perception. Psychology Press. 
 
 

@@ -90,23 +90,20 @@ If you are reviewing this material again or are looking for a different; maybe m
 
 ## Tutorial - Cognition Fundamentals: Learning
 Now we are going to create a cognitive model of memory and reinforcement learning for our object detection task:
-1. Make a list of classes, labels, features, concepts that you are going to remember to do visual perception
-2. Imagine that you as a human are doing the bin-picking task and that you are identifying the object. What characteristics of the object are you watching out for? Write them down in your flowchart.
-3. Take a look at the literature below and brought by Bram: 
-- Define features of the objects and target area (to both retrieve and place the bin) and write them down in your flowchart.
-- Create a model of visual perception for your human object detection; specifically taking the input, proccesing steps and desired output in mind.
-- Convert your model of visual perception to one with computer vision; specifically consider the processing steps and how these would translate in algorithms  
-- which symbolic labels are you going to use a cues to signify an objects?
-- which cues are going to create positive and negative reinforcement?
+1. As a human you need to remember a whole range of things; concept, movemements, features, spacial locations, to recognize objects. Write them down for yourself.
+2. Take a look at the literature below and brought by Bram: 
+- Make a list of classes, labels, features, concepts, movements, spatial locations that you are going to need to remember to recognize (or recollected) objects. Give them a place in your flowchart or write them down in a table; usefull for in your data management plan!
+- Create a model of human memory and (reinforcement) learning for your human object detection; specifically taking the input, proccesing steps and desired output in mind.
+- Convert your model of human memory and (reinforcement) learning to one with computer vision; specifically consider the processing steps and how these would translate in algorithms. Think about which symbolic labels are you going to use a cues to signify an objects? Which cues are going to create positive and negative reinforcement?
 
 
 ### Example of reinforcement learning model: 
-What is it used for: We depend on edge detection for tasks such as depth perception and detecting objects in our field of view.
+What is it used for: We depend on reinforcement learning in order to avoid harming ourselves and others during physical tasks.
 What do we look out for:
-- Discontinuities in depth.
-- Discontinuities in surface orientation.
-- Changes in material properties.
-- Variations in scene illumination
+- Avoiding damage to our body; pain.
+- No harming others; mental pain in the form of empathy and social exclusion.
+- Awarenes of changing situation context; changes in weather which signify a storm.
+- etc.
 
 <img src="./assets/EdgeDetection.jpeg" alt="Edge detection example" width="597"/>
 

@@ -105,7 +105,7 @@ What do we look out for:
 - Awarenes of changing situation context; changes in weather which signify a storm.
 - etc.
 
-<img src="./assets/EdgeDetection.jpeg" alt="Edge detection example" width="597"/>
+<img src="./assets/BurningHandStove.jpg" alt="Edge detection example" width="597"/>
 
 
 

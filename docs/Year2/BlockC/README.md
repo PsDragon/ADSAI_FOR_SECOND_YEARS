@@ -99,31 +99,36 @@ Therefore a tweet with containing the word *ablaze* can indicate an emergency or
 
 ### Week 1
 
-The block starts with a kick-off lecture. 
+The block starts with a kick-off lecture. This week you will work on preprocessing text.
 
 DataLab 1, Goal(s):
 
 - [ ] Understand regular expressions
 
 DataLab 2, Goal(s):
-- [ ] Develop a logistic regression model
+- [ ] Tweet processing
 
 ### Week 2
 
-DataLab 1, Goal(s):
+This week you will create your first NLP models.
 
-DataLab 2, Goal(s): 
+DataLab 1, Goal(s):
+- [ ] Naive Bayes
+
+DataLab 2, Goal(s):
+- [ ] Logistic Regression
 
 __Formative feedback I__
  
 ### Week 3
 
+Last week you have learned developing your first NLP models. This week you will start competing on Kaggle using the algorithms you have learned.
 
 DataLab 1, Goal(s):
-
-
+- [ ] Kaggle
 
 DataLab 2, Goal(s):
+- [ ] Embeddings
 
 ### Week 4
 

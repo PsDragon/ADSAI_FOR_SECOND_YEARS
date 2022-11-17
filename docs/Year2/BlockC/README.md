@@ -76,6 +76,8 @@ Each sample in the train and test set has the following information:
 
 On top of the challenge of detecting misinformation, it’s not always clear whether a person’s words are actually announcing a disaster. Take this example:
 
+<img src="./images/tweets.png" alt="emergency.jpeg" width="60%"/>
+
 According to Oxford Languages English dictionary, *ablaze* can mean the following:
 
 - [ ] burning fiercely.\

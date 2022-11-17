@@ -65,8 +65,8 @@ This block, we will focusses on one specific task, namely object detection. To b
 
 When we look at the history of object detection, we can distinguish two main methodological approaches: 
 
-- The traditional, rule-based/symbolic AI
-- The deep learning
+- Traditional, rule-based/symbolic AI
+- Deep learning
 
 > Traditionally, the object detection method relies on some hand-picked features of an object with very little scope of trainable architecture. To detect an object, scanning the entire image using a multi-scale sliding window seems to be a natural choice. However, this method was computationally expensive with too many redundant windows. Then some feature extraction techniques have been introduced where some visual features have been extracted. Some of the features extraction techniques are SIFT [3], Haar-like [4], HOG [5]. Also, due to different scenarios like different lighting condition, different backgrounds, diversity in appearances, the task of manually picking up features become difficult. <br> With recent improvements in the deep neural network and accessibility of large-scale datasets with a proper annotation such as ImageNet [6], this task has been shifted to trainable architecture. Here, two types of framework have been introduced. The first one follows the traditional object detection approach i.e. at first, a regional proposal has been generated and then each region is classified into a different category. However, in the second approach, object detection has been seen as a regression or classification problem. The work that has uses region proposal-based method are R-CNN [7], Fast R-CNN [8], Faster R-CNN [9], R-FCN [10], FPN [11] and Mask R-CNN [12]. The work that uses regression-based models are Multibox [13], G-CNN [14], AttentionNet [15], YOLO [16], YOLOv2 [17], SSD [18], DSSD [19], DSOD [20], YOLOv3 [21] ([Source](https://link.springer.com/chapter/10.1007/978-981-15-6315-7_13)). 
 

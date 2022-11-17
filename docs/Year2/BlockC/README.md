@@ -52,8 +52,26 @@ If you have questions or issues regarding the course material, please post a mes
 
 # Creative Brief
 
-Twitter has become an important communication channel in times of emergency.
-The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies).
+During emergencies, individual, news agencies, disaster relief organizations and emergency management agencies make use of social media for communication, information diffusion, making sense of the event, managing and mitigating risks. Twitter has become an essential communication channel during natural disasters as well as terror attacks.
+
+> "The main reason I like [Twitter] as a source of data is that it integrates not just a measure of typical exposure — which is ‘Did the water come 
+> onto the land in a place where it wasn’t supposed to be? [It also] measures ‘What are people noticing? What are people talking about?’ Twitter can
+> give us this aggregated measure of what those social consequences of that particular flood are."
+
+> Dr. Frances Moore
+> Assistant Professor in the Department of Environmental Science and Policy at University of California, Davis\
+> [Source](https://blog.twitter.com/en_us/topics/company/2022/when-natural-disasters-happen-twitter-can-help-heres-how)
+
+On the other hand, Twitter contains huge amounts of misinformation making accurate identification of emergency tweets indispensible. In this block you will build NLP models for identification of emergency tweets. You will join the largest active NLP competition on Kaggle titled, [Natural Language Processing with Disaster Tweets.](https://www.kaggle.com/c/nlp-getting-started)
+
+Your task is to predict whether a given tweet is about a real disaster or not. If so, predict a 1. If not, predict a 0. The training dataset consists of more than 7000 tweets together tweet location and keywords (e.g.'earthquake')
+
+Each sample in the train and test set has the following information:
+
+- [ ] The text of a tweet
+- [ ] A keyword from that tweet (e.g. 'earthquake')
+- [ ] The location the tweet was sent from
+- [ ] The label 0 or 1 (only training set)
 
 But, it’s not always clear whether a person’s words are actually announcing a disaster. Take this example:
 

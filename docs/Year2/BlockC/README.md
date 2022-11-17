@@ -51,6 +51,7 @@ If you have questions or issues regarding the course material, please post a mes
 ***
 
 # Creative Brief
+<img src="./images/emergency.jpeg" alt="emergency.jpeg" width="60%"/>
 
 During emergencies, individual, news agencies, disaster relief organizations and emergency management agencies make use of social media for communication, information diffusion, making sense of the event, managing and mitigating risks. Twitter has become an essential communication channel during natural disasters as well as terror attacks.
 
@@ -73,7 +74,7 @@ Each sample in the train and test set has the following information:
 - [ ] The location the tweet was sent from
 - [ ] The label 0 or 1 (only training set)
 
-But, it’s not always clear whether a person’s words are actually announcing a disaster. Take this example:
+On top of the challenge of detecting misinformation, it’s not always clear whether a person’s words are actually announcing a disaster. Take this example:
 
 According to Oxford Languages English dictionary, *ablaze* can mean the following:
 

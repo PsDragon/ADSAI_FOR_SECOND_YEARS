@@ -29,7 +29,7 @@ __1b__ Answer the following questions:
 
 ***
 
-## 2) Review study material (Week 2) (9:30-10:00)
+## 2) Review study material (Week 2) & the Q&A (9:30-10:00)
 
 For details regarding prerequisites, contact your mentor. 
 

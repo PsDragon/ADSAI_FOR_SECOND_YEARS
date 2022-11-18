@@ -98,7 +98,7 @@ Now, we are going to expand on our model of the human cognitive vision system by
 2. Take a look at figure 3 & 4 and your list of things to remember from step 1. Choose one of the two model displayed in figure 3 & 4 to integrate into your flowchart of the human cognitive vision system. After integrating the memory part, fill in the memory model you integrated using your list in step 1.
 <img src="./assets/Memory.jpg" alt="Memory Cognitive Model Example 1" width="597"/>
 *Figure 3. The full human cognitive memory system.*
-<img src="./assets/Memory2.jpg" alt="Memory Cognitive Model Example 2" width="597"/>
+<img src="./assets/Memory2.png" alt="Memory Cognitive Model Example 2" width="597"/>
 *Figure 4. A simplified human cognitive memory system.*
 
 3. Now, that we have visualised how we perceive and memorize information about the world in our flowchart. We can start to integrate a model of reinforcement learning; take a look at figure 5 and integrate it in your flowchart. List the conditions/situations which give a positive or negative rewards to a human performing this task. In other words; describe when a human would correctly or incorrectly performs this task and what type of feedback they should receive in that given condition: negative or positive (don't concern yourself with weighting; implement the value function, here yet).

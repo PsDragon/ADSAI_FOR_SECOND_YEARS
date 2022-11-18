@@ -52,6 +52,8 @@ Now we are going to create a cognitive model of visual perception ourself for ou
 - Create a model of visual perception for your human object detection; specifically taking the input, proccesing steps and desired output in mind.
 - Convert your model of visual perception to one with computer vision; specifically consider the processing steps and how these would translate in algorithms  
 
+<img src="./assets/CognitiveVisionSystem.jpg" alt="Edge detection example" width="597"/>
+
 ### Example of perceptual processing model: Edge detection
 What is it used for: We depend on edge detection for tasks such as depth perception and detecting objects in our field of view.
 What do we look out for:
@@ -66,6 +68,7 @@ What do we look out for:
 
 Relevant literature and sources to research:
 - [Summary of Concepts and Terms](https://github.com/BredaUniversityADSAI/ADS-AI/blob/260f3f788372cfb55e2a4ba2956800de1b3b14a8/docs/Study%20Content/Cognition%20Fundamentals/assets/Summary%20of%20Concepts%20and%20Terms.docx): Highly recommended read which summarizes most important concepts discussed in the literature below. It also contains various important model you can use to create cognitive systems; or systems to deal with information processing in general.
+- [de Souza Alves, T., de Oliveira, C. S., Sanin, C., & Szczerbicki, E. (2018). From knowledge based vision systems to cognitive vision systems: a review. Procedia Computer Science, 126, 1855-1864.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/d2d99670e0bff928b8ba3115463b180458ed116c/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/From%20Knowledge%20based%20Vision%20Systems%20to%20Cognitive%20Vision%20Systems%20-%20A%20Review.pdf)
 - [O’Reagan, J.K. (1992). Solving the “real” mysteries of visual perception: the world as an outside memory. Can J Psychol, 46(3):461-488.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/29bd304acfa39a1ae5c9aa8640a56cbbe9a18c1e/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/SOLVING%20THE%20REAL%20MYSTERIES%20OF%20VISUAL%20PERCEPTION.pdf)
 - [Whitney, D. & Leib, A.Y. (2018). Ensemble perception. Annual Review of Psychology, 69:105-129.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/29bd304acfa39a1ae5c9aa8640a56cbbe9a18c1e/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/Ensemble%20perception.pdf)
 - [Deroy, O., Spence, C., & Noppeney, U. (2016). Metacognition in multisensory perception. Trends in Cognitive Sciences, 20, 736-747.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/29bd304acfa39a1ae5c9aa8640a56cbbe9a18c1e/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/Metacognition%20in%20multisensory%20perception%20-%20Trends%20in%20Cognitive%20Sciences.pdf)

@@ -64,5 +64,5 @@ Coming soon!
 14. Bruce, V., Green, P. R., & Georgeson, M. A. (2003). Visual perception: Physiology, psychology, & ecology. Psychology Press.
 15. van der Heijden, A. H. (2004). Attention in vision: Perception, communication and action. Psychology Press.
 16. Mather, G. (2016). Foundations of sensation and perception. Psychology Press. 
-
+17. [Szeliski, R. (2022). Computer vision: algorithms and applications. Springer Nature.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/7c3e62e0c5ba4a3939286b0462568cc2dc592acc/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/Computer%20Vision%20-%20Algorithms%20and%20Applications,%202nd%20Edition.pdf)
 

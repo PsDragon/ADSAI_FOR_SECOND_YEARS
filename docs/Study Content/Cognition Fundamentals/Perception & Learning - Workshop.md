@@ -47,14 +47,13 @@ If you are reviewing this material again or are looking for a different; maybe m
 
 ## Tutorial - Cognition Fundamentals: Perception
 Now we are going to make a flowchart of our model of the  human cognitive vision system; visual perception, and fill it in with information for our object detection task:
-1. Take a look at your image dataset. List down the object that you are going to identify in the in the 'High-Level Vision' section of the template.
-2. Imagine that you are identifying the objects. What features/characteristics do you look out for yourself? How do you personally identify the object. List these down in the 'mid-Level Vision' section of the template.
-3. Fill in the rest of the template using the following steps:
-- Define features of the objects and target area (to both retrieve and place the bin) and write them down in your flowchart.
+1. Take a look at your image dataset and figure 1 below. Create a flowchart of figure 1. List down the objects that you are going to identify in the in the 'High-Level Vision' section of the flowchart.
+2. Imagine that you are identifying the objects. What features/characteristics do you look out for yourself? How do you personally identify the object. List these down in the 'mid-Level Vision' section of the flowchart.
+3. Fill in the rest of the flowchart using the following steps:
 - Take a look at the lecture slides and provided literature below regarding human visual perception. Fill in the rest of the human cognitive vision system; specifically taking the input, visual perception proccesing steps and desired output in mind.
-- Convert your model of human cognitive vision to one with computer vision; specifically consider the processing steps and how these would translate in algorithms  
 
 <img src="./assets/CognitiveVisionSystem.jpg" alt="Edge detection example" width="597"/>
+*Figure 1. Flowchart of a typical human cognitive vision system (de Souza Alves, T., de Oliveira, C. S., Sanin, C., & Szczerbicki, E.,2018).*
 
 ### Example of perceptual processing model: Edge detection
 What is it used for: We depend on edge detection for tasks such as depth perception and detecting objects in our field of view.
@@ -65,7 +64,7 @@ What do we look out for:
 - Variations in scene illumination
 
 <img src="./assets/EdgeDetection.jpeg" alt="Edge detection example" width="900"/>
-
+*Figure 2. Edge Detection Example.*
 
 
 Relevant literature and sources to research:
@@ -94,12 +93,20 @@ If you are reviewing this material again or are looking for a different; maybe m
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HVWbrNls-Kw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Tutorial - Cognition Fundamentals: Learning
-Now we are going to create a cognitive model of memory and reinforcement learning for our object detection task:
-1. As a human you need to remember a whole range of things; concept, movemements, features, spacial locations, to recognize objects. Write them down for yourself.
-2. Take a look at the literature below and brought by Bram: 
-- Make a list of classes, labels, features, concepts, movements, spatial locations that you are going to need to remember to recognize (or recollected) objects. Give them a place in your flowchart or write them down in a table; usefull for in your data management plan!
-- Create a model of human memory and (reinforcement) learning for your human object detection; specifically taking the input, proccesing steps and desired output in mind.
-- Convert your model of human memory and (reinforcement) learning to one with computer vision; specifically consider the processing steps and how these would translate in algorithms. Think about which symbolic labels are you going to use a cues to signify an objects? Which cues are going to create positive and negative reinforcement?
+Now, we are going to expand on our model of the human cognitive vision system by adding & connecting it with a cognitive model for human memory and reinforcement learning for our object detection task:
+1. Take at your current flowchart and images. As a human you need to remember a whole range of things to recognize objects: the context, concept, movemement, spacial location and individual features of an object to name a few. Consider what you need to remember in order to do the bin-picking task as a human and write these down in your flowchart.
+2. Take a look at figure 3 & 4 and your list of things to remember from step 1. Choose one of the two model displayed in figure 3 & 4 to integrate into your flowchart of the human cognitive vision system. After integrating the memory part, fill in the memory model you integrated using your list in step 1.
+<img src="./assets/Memory.jpg" alt="Memory Cognitive Model Example 1" width="597"/>
+*Figure 3. The full human cognitive memory system.*
+<img src="./assets/Memory2.jpg" alt="Memory Cognitive Model Example 2" width="597"/>
+*Figure 4. A simplified human cognitive memory system.*
+
+3. Now, that we have visualised how we perceive and memorize information about the world in our flowchart. We can start to integrate a model of reinforcement learning; take a look at figure 5 and integrate it in your flowchart. List the conditions/situations which give a positive or negative rewards to a human performing this task. In other words; describe when a human would correctly or incorrectly performs this task and what type of feedback they should receive in that given condition: negative or positive (don't concern yourself with weighting; implement the value function, here yet).
+<img src="./assets/ReinforcementLearning.jpg" alt="Memory Cognitive Model Example 2" width="597"/>
+*Figure 5. The most basic form of a reinforcement learning model.*
+
+
+4. The final step is converting your model of human cognitive vision, memory and reinforcement learning to one with robots. You'll learn how to do this during the remainder of the block so you don't have to finish this today! However, make sure to keep this flowchart up-to-date so you have a clear oversight of the functionality of your robot; specifically considering how the processing steps (e.g. algorithms, if-else statememnts etc.) take the input (e.g. images, robot position of arm, pressure excerted by gripper etc.) and how these would result in the desired output.  
 
 
 ### Example of reinforcement learning model: 
@@ -119,3 +126,4 @@ Relevant literature to research:
 - [Schurgin, M.W. (2018). Visual memory, the long and the short of it: A review of visual working memory and long-term memory. Attention, Perception, & Psychophysics, 80: 1035-1056.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/997b5108aa39c2ceded8eb9dd979c7333360e624/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/Visual%20memory,%20the%20long%20and%20the%20short%20of%20it%20-%20A%20review%20of%20visual%20working.pdf)
 - [Eichenbaum, H. (2017). Memory: Organization and Control. Annual Review of Psychology, 68, 19-45.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/997b5108aa39c2ceded8eb9dd979c7333360e624/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/Memory%20-%20Organization%20and%20Control.pdf)
 - [O’Reagan, J.K. (1992). Solving the “real” mysteries of visual perception: the world as an outside memory. Can J Psychol, 46(3):461-488.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/29bd304acfa39a1ae5c9aa8640a56cbbe9a18c1e/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/SOLVING%20THE%20REAL%20MYSTERIES%20OF%20VISUAL%20PERCEPTION.pdf)
+- [Szeliski, R. (2022). Computer vision: algorithms and applications. Springer Nature.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/7c3e62e0c5ba4a3939286b0462568cc2dc592acc/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/Computer%20Vision%20-%20Algorithms%20and%20Applications,%202nd%20Edition.pdf)

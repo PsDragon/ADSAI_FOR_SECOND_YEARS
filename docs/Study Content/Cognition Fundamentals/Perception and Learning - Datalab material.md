@@ -7,7 +7,7 @@ Today we're going to continue with putting ourselves in the shoes of our robot a
 
 After making that first draft we're going to make a start in creating a flowcharts of our robots functionality following the same input-proccessing-output model. You'll continue to work and build on this model during the next weeks as you further develop your object detection algorithm, robotic controller and reinforcement learning algorithm. 
 
-Take a look at yesterday's workshop material to further work out your flowchart!
+Take a look at [yesterday's workshop material](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Perception%20&%20Learning%20-%20Workshop.html) to further work out your flowchart!
 
 ## Learning Objectives: 
 1. Identify appropriate perceptual features for object detection.

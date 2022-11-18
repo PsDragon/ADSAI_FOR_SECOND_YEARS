@@ -4,9 +4,9 @@
 In Block B, which spans eight weeks, you will explore one specific role within a professional data team - The Artificial Intelligence Researcher. During the block, you will work on a Computer vision and Robotics themed real-use case. The research topics include, but are not limited to:
 
 - Computer vision; Object detection (e.g., YOLO, Faster-RCNN, edge detection, etc.)
-- Reinforcement learning (e.g., DQN, A2C, PPO)
+- Reinforcement learning; Applied to robotic control (e.g., DQN, A2C, PPO)
 - Cognition: models of perception, learning, decision-making and action within situational context
-- MLOps (e.g., bash scripting, virtual environments, etc.) 
+- MLOps (e.g., bash scripting, virtual environments, experiment tracking etc.) 
 
 ## Staff Members
 
@@ -50,7 +50,7 @@ In case of absence, the student needs to fill in the 'DataLab Absence' [form](ht
 
 ## Questions?
 
-If you have questions or issues regarding the course material, please post a message on the 'Q&A' channel in Teams.
+If you have questions or issues regarding the course material, please post a message on the 'Q&A' channel in Teams. The channel will be monitored by mentors but also please help your peers if you have the answer to their question.
 
 ***
 
@@ -84,9 +84,16 @@ The block starts with a kick-off lecture.
 - [Data collection](../../Study%20Content/ComputerVision/ComputerVisionDataCollection.html)
 - [Robotic Simulation Primer](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/3.%20Robotic%20Simulation%20Primer.html)
 - [Data management](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html)
-- [Cognition workshop](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Perception%20-%20Self-study%20material.html): 9:00 - 17:00 on Thursday the 17th of November (Check MyTimetable).
+- [Cognition workshop](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Perception%20&%20Learning%20-%20Workshop.html): 9:00 - 17:00 on Thursday the 17th of November (Check MyTimetable).
 
-In this block we don't work with humans or animals but with robots which makes our lives much easier! Therefore, we don't need to bother ourselves with a letter of informed consent or a research information letter. For this block we need to use and fill in the following templates: [BUas Ethics Review](https://adsai.buas.nl/Year2/BlockB/#buas-ethics-review); [Research Data Management Guide](https://adsai.buas.nl/Year2/BlockB/#research-data-management-plan); [Codebook](https://adsai.buas.nl/Year2/BlockB/#codebook). *This is a group deliverable*, so you can all hand-in the same files; and evidence that you did follow through with you Research Data Management Plan & Procedures described in there. Make sure that you contribute to each of these deliverables and are able to evidence this!
+*Ethics and Data Management*
+
+In this block we don't work with humans or animals but with robots which makes our lives much easier! Therefore, we don't need to bother ourselves with a letter of informed consent or a research information letter. For this block we need to use and fill in the following templates: 
+- [BUas Ethics Review](https://adsai.buas.nl/Year2/BlockB/#buas-ethics-review); 
+- [Research Data Management Guide](https://adsai.buas.nl/Year2/BlockB/#research-data-management-plan); 
+- [Codebook](https://adsai.buas.nl/Year2/BlockB/#codebook). 
+
+*This is a group deliverable*, so you can all hand-in the same files; and evidence that you did follow through with you Research Data Management Plan & Procedures described in there. Make sure that you contribute to each of these deliverables and are able to evidence this!
 
 #### <mark>DataLab (group)</mark>
 
@@ -103,9 +110,10 @@ DataLab 2, Goal(s):
 
 ### Week 2
 
+- [Data annotation](../../Study%20Content/ComputerVision/ComputerVisionDataAnnotation.html)
+- [Computer vision: Introduction](https://adsai.buas.nl/Study%20Content/ComputerVision/ComputerVisionIntroduction.html)
 - [Traditional computer vision](https://adsai.buas.nl/Study%20Content/ComputerVision/TradDLComputerVision.html)
 - [DL computer vision I: Theory](../../Study%20Content/ComputerVision/DLComputerVision1a.html)
-- [Data annotation](../../Study%20Content/ComputerVision/ComputerVisionDataAnnotation.html)
 
 #### <mark>DataLab (group)</mark>
 
@@ -148,6 +156,8 @@ DataLab 2, Goal(s):
 
 ### Week 4
 
+In week 4 we will start diving into the world of robotics so that we can eventually apply our object detection models to a practical use case. By the end of the week you will have a good understanding of the basics of robotic simulation and how to use it to create a baseline controller enabling a robotic arm to stack boxes in virtual environment.
+
 - [Robotics I: Intro and Applications](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/4.%20Robotics%20I.html)
 - [Robotics I: Co-ordinate Systems](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/4.%20Robotics%20I.html)
 - [Robotics II: Control Systems](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/5.%20Robotics%20II.html)
@@ -160,15 +170,17 @@ DataLab 2, Goal(s):
 
 DataLab 1, Prep and Goal(s):
 
-- [I like to move it, move it!]() (IMAGE FROM STABLE DIFF)
+- [I like to move it, move it!]() 
 
 DataLab 2, Prep and Goal(s):
 
-- [Rack 'em and stack 'em!]() (IMAGE FROM STABLE DIFF)
+- [Rack 'em and stack 'em!]() 
 
 __Formative feedback II__
 
 ### Week 5
+
+In week 5 we will take our baseline robot controller to the next level by incorporating our object detection model into the controller. This will enable the robot to detect the boxes and stack them in a more realistic way. We will also start looking at the basics of reinforcement learning and how it can be used to train a robot to perform tasks. 
 
 - [Reinforcement Learning I: Intro, Applications, and Theory](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/7.%20Reinforcement%20Learning%20I.html)
 - [Reinforcement Learning II: Applying Reinforcement Learning](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/8.%20Reinforcement%20Learning%20II.html)
@@ -178,19 +190,20 @@ __Formative feedback II__
 
 DataLab 1, Prep and Goal(s):
 
-- [I see, therefore I lift]() (INSERT IMAGE FROM STABLE DIFF OF ROBOT ARM WITH GLASSES LIFTING)
+- [I see, therefore I lift]()
 
 DataLab 2, Prep and Goal(s):
 
 - [ ] [Expand on/Create flowchart of decision-making & action-taking models for reinfocement learning](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Decision-making%20&%20Actions%20-%20Datalab%20material.html)
 
-- [Gym time!]() (INSERT IMAGE FROM STABLE DIFF OF ROBOT ARM GYMING)
+- [Gym time!]()
 
 ### Week 6-7
 
+We have now covered the majority of the knowledge modules and will spend most of the next two weeks training and evaluating our models. 
+
 - [Reinforcement Learning III: ](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/8.%20Reinforcement%20Learning%20III.html)
 
-We have now covered the majority of the knowledge modules and will spend most of the next two weeks training and evaluating our models.
 
 #### <mark>DataLab (individual)</mark>
 
@@ -243,17 +256,17 @@ To solve the project's computer vision task, you need to:
 
 ### Robotics and Reinforcement Learning
 
-### _Implement baseline controller_
+### _Implement a baseline controller_ (ILO 4.1)
 
-Use traditional control methods combined with computer vision to create a controller for a simulated robotic arm to enable it to perform a pick and place task. (ILO 4.1)
+Use traditional control methods combined with computer vision to create a controller for a simulated robotic arm to enable it to perform a pick and place task. 
 The arm needs to: 
 - Locate objects in its workspace 
 - Classify the objects 
 - Pick up the object
 - Place the objects in a specific area based on the classification 
     
-### _Investigate the feasibility of the application of reinforcement learning to the pick and place task_
-Use reinforment learning to develop a controller for a simulated robotic arm to enable it to perform a pick and place task (ILO 4.2). Create and compare different reinforcement learning controllers using different: 
+### _Investigate the feasibility of the application of reinforcement learning to the pick and place task_ (ILO 4.2)
+Use reinforment learning to develop a controller for a simulated robotic arm to enable it to perform a pick and place task. Create and compare different reinforcement learning controllers using different: 
 - Models (e.g. DQN, A2C, PPO, etc.) 
 - Action spaces (e.g. discrete, continuous, etc.)
 - Observation spaces (e.g. image, vector, etc.)
@@ -277,19 +290,21 @@ Evidence in technical report, and integrate in robotic controller & reinforcemen
 - Suggestions for model improvement, real-world implementation, knowledge acquisition and decision-making are made. (ILO 4.2 - Excellent)
 
 ### Technical Report
-- Provide a written technical analysis of the implemented object detection, and robot control algorithm (ILO 2.1 - Sufficient). For more information, see 'Technical analysis' section of [DL computer vision I: Theory](../../Study%20Content/ComputerVision/DLComputerVision1a.html)
+- Describes the data aquisition, and pre-processing steps (e.g., annotation, quality assessment, etc.) (ILO 2.1 - Insufficient)
+- Provides a written technical analysis of the implemented object detection, and robot control algorithm (ILO 2.1 - Sufficient). For more information, see 'Technical analysis' section of [DL computer vision I: Theory](../../Study%20Content/ComputerVision/DLComputerVision1a.html).
+- Provides written recommendations for further research, taking into account the client's  business strategy (ILO 2.1 - Good)
 
 ### BUas Ethics Review
-- Fill in [the template](https://github.com/BredaUniversityADSAI/ADS-AI/blob/28e3a92cda22e9942aa90bb4178cceeaca0eef7f/docs/Study%20Content/Research%20Methodology/Assets/BUas%20Research%20Ethics%20Review%20Application%20Form-H%202022.docx). (ILO 2.1 - Poor)
-- [Submit review and get accepted](https://edubuas.sharepoint.com/sites/researchdevelopment/SitePages/BUas-Research-Ethics-Review-Board.aspx). (ILO 2.1 - Insufficient & Sufficient)
+- Fill in [the template](https://github.com/BredaUniversityADSAI/ADS-AI/blob/06638451273822b5dac37395a524ff7e4129dc38/docs/Study%20Content/Research%20Methodology/Assets/BUas%20Research%20Ethics%20Review%20Application%20Form-H.docx). (ILO 2.1 - Poor)
+- [Submit review to Bram and get accepted](mailto:heijligers.b@buas.nl). (ILO 2.1 - Insufficient & Sufficient)
 
 ### Research Data Management Plan
-- Follows [BUas guidelines](https://edubuas.sharepoint.com/sites/researchdevelopment/SitePages/Datamanagement.aspx). (ILO 3.1 - Sufficient)
+- Follows [BUas guidelines](https://eur04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fbuas.libguides.com%2Frdm%2F&data=05%7C01%7Cheijligers.b%40buas.nl%7C32902d1d66724d35fa3908dab1cae705%7C0a33589b00364fe8a8293ed0926af886%7C0%7C0%7C638017782263648569%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=hjY%2BMICD5oxH7rIo95xmB8UtbHkP726e%2BbPAKbyJ1sk%3D&reserved=0). (ILO 3.1 - Sufficient)
 - Follow your planned procedures as demonstrated by your data storage. (ILO 3.1 - Good)
 - Excecuted procedures ensured adhering to F.A.I.R. principles as demonstrated by your data storage. (ILO 3.1 - Excellent)
 
 ### Codebook
-- Fill in [the template](https://github.com/BredaUniversityADSAI/ADS-AI/blob/f020e08818bb64486e784e2447334fb866ee1df9/docs/Study%20Content/Research%20Methodology/Assets/Codebook_Template.md) (ILO 3.1 - Insufficient)
+- Fill in [the template](https://github.com/BredaUniversityADSAI/ADS-AI/blob/06638451273822b5dac37395a524ff7e4129dc38/docs/Study%20Content/Research%20Methodology/Assets/Codebook_Template.md) (ILO 3.1 - Insufficient)
 - Meet the criteria set in the template. (ILO 3.1 - Sufficient, ILO 3.2 - Poor)
 
 ***

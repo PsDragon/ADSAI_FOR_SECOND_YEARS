@@ -14,6 +14,8 @@ After this module, you will be able to:
 - [ ] Deploy explainable AI methods to asses the quality of the image dataset, and/or model
 - [ ] List, and describe the most commonly used annotation formats for object detection
 
+***
+
 ## 1. Image labeling process
 
 Image labelling is a process that has four steps:
@@ -53,7 +55,7 @@ There are many different approaches to labelling. Based on the degree of automat
 3. Fully-automated labeling
 4. Interactive labeling
 
-For detailed description of these approaches, see the article [A survey of image labelling for computer vision applications](ADD URL) by Sager et al. (2021).
+For detailed description of these approaches, see the article <a href="./documents/2104.08885.pdf">A survey of image labelling for computer vision applications</a> by Sager et al. (2021).
 
 Together with your peers you will likely have to labeling your dataset, manually. However, you might want to check out some of the (paid) semi-automated, model-assisted, labeling tools available: [Roboflow](https://docs.roboflow.com/annotate/model-assisted-labeling), [V7](https://www.v7labs.com/) and [LabelBox](https://labelbox.com/product/annotate/image/). 
 
@@ -92,7 +94,7 @@ To test if your model is doing what it is supposed to so, detecting a particular
 
 ### 1.4 Data export 
 
-To export your data from a tool, you must store the annotations in a structured format. These annotation formats can frequently be traced back to image benchmarking datasets, such as MS COCO or ImageNet (For details, see the article [Deep Learning for Generic Object Detection: A Survey](ADD URL) by Liu et al., (2019)). Typical formats for object detection include:
+To export your data from a tool, you must store the annotations in a structured format. These annotation formats can frequently be traced back to image benchmarking datasets, such as MS COCO or ImageNet (For details, see the article <a href="./documents/s11263-019-01247-4.pdf">Deep Learning for Generic Object Detection: A Survey</a> by Liu et al., (2019)). Typical formats for object detection include:
 
 - Pascal VOC
 - COCO JSON

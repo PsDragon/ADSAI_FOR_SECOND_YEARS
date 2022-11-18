@@ -3,10 +3,12 @@ sort: 2
 ---
 
 # 1. Perception & Learning - Workshop
-Just what is the difference between sensing and perceiving? And how does vision actually work? So what does perception even mean? What's the difference between seeing something and making sense of it? Today we're going to answer all of these questions!
+Just what is the difference between sensing and perceiving? And how does vision actually work? What does perception even mean? What's the difference between seeing something and making sense of it? And how do we memorize and learn all of that? Today we're going to answer all of these questions!
 
-Then, we're going to apply these concepts to creating a senso-perceptual model of what our robot would need to see! Seeing and perceiving however is not enough, our robot will also need to remember, relate and contextualize what it sees in order to decide what to do. So after defining our senso-perceptual model, we're going to learn about the human memory and where how reinforcement learning works!
+Then, we're going to apply these concepts to creating a perceptual model of human cognitive vision; how a human would see our bin-picking task. So we're going to place ourselves in the shoes of the robot, fill in the template and then elaborate on it by doing some research into human cognitive vision! 
+Seeing and perceiving however is not enough, humans will also need to remember, relate and contextualize what it sees in order to decide what to do. So after defining our model of human cognitive vision, we're going to learn about the human memory and where how reinforcement learning works!
 
+Finally, we're going to translate our cognitive model of human vision and memory into a model for our robot which does object detection and reinforcement learning . As the project progresses you can then use your flowchart model of the robot to design & maintain an oversight of your code implementation and subsequently communicate it in your technical report!
 
 ## Learning Objectives: 
 1. Identify appropriate perceptual features for object detection.
@@ -44,13 +46,13 @@ If you are reviewing this material again or are looking for a different; maybe m
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n46umYA_4dM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Tutorial - Cognition Fundamentals: Perception
-Now we are going to create a cognitive model of visual perception ourself for our object detection task:
-1. Make a sample of object pictures that you are going use for visual perception
-2. Imagine that you as a human are doing the bin-picking task and that you are identifying the object. What characteristics of the object are you watching out for? Write them down in your flowchart.
-3. Take a look at the literature below and brought by Bram: 
+Now we are going to make a flowchart of our model of the  human cognitive vision system; visual perception, and fill it in with information for our object detection task:
+1. Take a look at your image dataset. List down the object that you are going to identify in the in the 'High-Level Vision' section of the template.
+2. Imagine that you are identifying the objects. What features/characteristics do you look out for yourself? How do you personally identify the object. List these down in the 'mid-Level Vision' section of the template.
+3. Fill in the rest of the template using the following steps:
 - Define features of the objects and target area (to both retrieve and place the bin) and write them down in your flowchart.
-- Create a model of visual perception for your human object detection; specifically taking the input, proccesing steps and desired output in mind.
-- Convert your model of visual perception to one with computer vision; specifically consider the processing steps and how these would translate in algorithms  
+- Take a look at the lecture slides and provided literature below regarding human visual perception. Fill in the rest of the human cognitive vision system; specifically taking the input, visual perception proccesing steps and desired output in mind.
+- Convert your model of human cognitive vision to one with computer vision; specifically consider the processing steps and how these would translate in algorithms  
 
 <img src="./assets/CognitiveVisionSystem.jpg" alt="Edge detection example" width="597"/>
 
@@ -62,7 +64,7 @@ What do we look out for:
 - Changes in material properties.
 - Variations in scene illumination
 
-<img src="./assets/EdgeDetection.jpeg" alt="Edge detection example" width="597"/>
+<img src="./assets/EdgeDetection.jpeg" alt="Edge detection example" width="900"/>
 
 
 

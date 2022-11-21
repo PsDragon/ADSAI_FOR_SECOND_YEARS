@@ -10,7 +10,6 @@ sort: 4
 
 Artificial intelligence (AI) is an emerging field that leads to enormous new business opportunities. The growth of AI and its broad application has great economic benefits, however also results in serious societal implications. Therefore questions of ethics are becoming vital, as AI systems might be negatively biased that can negatively impact our lives. Thus different concepts and frameworks need to be taken into consideration while working in AI and data science. During today’s independent study day, you will get insights into ethics, learn about Ethical Decision Making and will be introduced into AI ethics.
 
-If you have questions or issues regarding the course material, please fill out the 'Ask me Anything?' [form](https://adsai.buas.nl/Contact%20Us/AskMeAnything.html). A member of our teaching staff will respond as soon as possible.
 
 __Make sure to upload all the answers to the questions listed below to your GitHub account.__
 

@@ -84,7 +84,7 @@ The block starts with a kick-off lecture.
 - [Data collection](../../Study%20Content/ComputerVision/ComputerVisionDataCollection.html)
 - [Robotic Simulation Primer](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/3.%20Robotic%20Simulation%20Primer.html)
 - [Data management](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html)
-- [Cognition workshop](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Perception%20-%20Self-study%20material.html): 9:00 - 17:00 on Thursday the 17th of November (Check MyTimetable).
+- [Cognition workshop](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Perception%20&%20Learning%20-%20Workshop.html): 9:00 - 17:00 on Thursday the 17th of November (Check MyTimetable).
 
 *Ethics and Data Management*
 
@@ -110,9 +110,10 @@ DataLab 2, Goal(s):
 
 ### Week 2
 
+- [Data annotation](../../Study%20Content/ComputerVision/ComputerVisionDataAnnotation.html)
+- [Computer vision: Introduction](https://adsai.buas.nl/Study%20Content/ComputerVision/ComputerVisionIntroduction.html)
 - [Traditional computer vision](https://adsai.buas.nl/Study%20Content/ComputerVision/TradDLComputerVision.html)
 - [DL computer vision I: Theory](../../Study%20Content/ComputerVision/DLComputerVision1a.html)
-- [Data annotation](../../Study%20Content/ComputerVision/ComputerVisionDataAnnotation.html)
 
 #### <mark>DataLab (group)</mark>
 
@@ -289,19 +290,21 @@ Evidence in technical report, and integrate in robotic controller & reinforcemen
 - Suggestions for model improvement, real-world implementation, knowledge acquisition and decision-making are made. (ILO 4.2 - Excellent)
 
 ### Technical Report
-- Provide a written technical analysis of the implemented object detection, and robot control algorithm (ILO 2.1 - Sufficient). For more information, see 'Technical analysis' section of [DL computer vision I: Theory](../../Study%20Content/ComputerVision/DLComputerVision1a.html)
+- Describes the data aquisition, and pre-processing steps (e.g., annotation, quality assessment, etc.) (ILO 2.1 - Insufficient)
+- Provides a written technical analysis of the implemented object detection, and robot control algorithm (ILO 2.1 - Sufficient). For more information, see 'Technical analysis' section of [DL computer vision I: Theory](../../Study%20Content/ComputerVision/DLComputerVision1a.html).
+- Provides written recommendations for further research, taking into account the client's  business strategy (ILO 2.1 - Good)
 
 ### BUas Ethics Review
-- Fill in [the template](https://github.com/BredaUniversityADSAI/ADS-AI/blob/28e3a92cda22e9942aa90bb4178cceeaca0eef7f/docs/Study%20Content/Research%20Methodology/Assets/BUas%20Research%20Ethics%20Review%20Application%20Form-H%202022.docx). (ILO 2.1 - Poor)
-- [Submit review and get accepted](https://edubuas.sharepoint.com/sites/researchdevelopment/SitePages/BUas-Research-Ethics-Review-Board.aspx). (ILO 2.1 - Insufficient & Sufficient)
+- Fill in [the template](https://github.com/BredaUniversityADSAI/ADS-AI/blob/06638451273822b5dac37395a524ff7e4129dc38/docs/Study%20Content/Research%20Methodology/Assets/BUas%20Research%20Ethics%20Review%20Application%20Form-H.docx). (ILO 2.1 - Poor)
+- [Submit review to Bram and get accepted](mailto:heijligers.b@buas.nl). (ILO 2.1 - Insufficient & Sufficient)
 
 ### Research Data Management Plan
-- Follows [BUas guidelines](https://edubuas.sharepoint.com/sites/researchdevelopment/SitePages/Datamanagement.aspx). (ILO 3.1 - Sufficient)
+- Follows [BUas guidelines](https://eur04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fbuas.libguides.com%2Frdm%2F&data=05%7C01%7Cheijligers.b%40buas.nl%7C32902d1d66724d35fa3908dab1cae705%7C0a33589b00364fe8a8293ed0926af886%7C0%7C0%7C638017782263648569%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=hjY%2BMICD5oxH7rIo95xmB8UtbHkP726e%2BbPAKbyJ1sk%3D&reserved=0). (ILO 3.1 - Sufficient)
 - Follow your planned procedures as demonstrated by your data storage. (ILO 3.1 - Good)
 - Excecuted procedures ensured adhering to F.A.I.R. principles as demonstrated by your data storage. (ILO 3.1 - Excellent)
 
 ### Codebook
-- Fill in [the template](https://github.com/BredaUniversityADSAI/ADS-AI/blob/f020e08818bb64486e784e2447334fb866ee1df9/docs/Study%20Content/Research%20Methodology/Assets/Codebook_Template.md) (ILO 3.1 - Insufficient)
+- Fill in [the template](https://github.com/BredaUniversityADSAI/ADS-AI/blob/06638451273822b5dac37395a524ff7e4129dc38/docs/Study%20Content/Research%20Methodology/Assets/Codebook_Template.md) (ILO 3.1 - Insufficient)
 - Meet the criteria set in the template. (ILO 3.1 - Sufficient, ILO 3.2 - Poor)
 
 ***

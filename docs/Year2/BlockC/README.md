@@ -4,6 +4,9 @@ Natural language is a language that has evolved naturally as a means of communic
 
 NLP is hard. A word can have multiple meanings, that is, **polysemous**. *Mouse* refers to an animal as well as computer hardware. Two words can be **synonyms**, meaning the same thing, such as *train* and *educate*. Yet you *train* a machine learning model, not *educate* a machine learning model because *train* is part of the machine learning **lexicon**. There are a lot of words that are not synonyms but can be **similar** such as *cat* and *dog*. The meaning of two words can be **related** in ways other than similarity (*coffee* and *cup*). Words also have **connotations**, meaning the reader's sentiment about the word. *Happy* has a positive connotation. Similar words can have different connotations. *Fake* and *replica* are similar words yet *fake* has a more negative connotation. On top of that, word usage evolves. *Awful* originally meant impressive instead of extremely bad. Add to these irony, slang, idioms, jokes, and differences between the 7000 languages that exist... NLP is hard, arduous, complicated, heavy, rough, tough, and troublesome.
 
+<iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/4LjDe4sLER0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Video 1: Qué difícil es hablar el español.
+
 ## Textbook
 In this block we will follow the book Speech and Language Processing. During self-study days, you will read the book to learn NLP algorithms. During the DataLabs, turn this knowledge into code.
 

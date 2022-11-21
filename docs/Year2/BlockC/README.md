@@ -8,7 +8,7 @@ NLP is hard. A word can have multiple meanings, that is, **polysemous**. *Mouse*
 Video 1: Qué difícil es hablar el español.
 
 ## Textbook
-In this block we will follow the book Speech and Language Processing. During self-study days, you will read the book to learn NLP algorithms. During the DataLabs, turn this knowledge into code.
+In this block we will follow the book Speech and Language Processing. You will read the book to learn NLP algorithms during self-study days. Then, during the DataLabs, you will apply what you have learned and build your own NLP models.
 
 D. Jurafsky, J.H. Martin, Speech and Language Processing, 3rd edition draft, 2022\
 Book website: [https://web.stanford.edu/~jurafsky/slp3/](https://web.stanford.edu/~jurafsky/slp3/) \

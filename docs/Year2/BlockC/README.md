@@ -11,8 +11,8 @@ Video 1: Qué difícil es hablar el español.
 In this block we will follow the book Speech and Language Processing. During self-study days, you will read the book to learn NLP algorithms. During the DataLabs, turn this knowledge into code.
 
 D. Jurafsky, J.H. Martin, Speech and Language Processing, 3rd edition draft, 2022\
-Book website: https://web.stanford.edu/~jurafsky/slp3/ \
-Book pdf: https://web.stanford.edu/~jurafsky/slp3/ed3book_jan122022.pdf 
+Book website: [https://web.stanford.edu/~jurafsky/slp3/](https://web.stanford.edu/~jurafsky/slp3/) \
+Book pdf: [https://web.stanford.edu/~jurafsky/slp3/ed3book_jan122022.pdf](https://web.stanford.edu/~jurafsky/slp3/ed3book_jan122022.pdf)
 
 ## Staff Members
 

@@ -71,7 +71,7 @@ For a detailed explanation of multitask learning in the context of object detect
 
 *Video 1. CS 152 NN—16: Multi task Learning.*
 
-### 2.2.1 Intersection over Union (IoU)
+#### 2.2.1 Intersection over Union (IoU)
 
 Okay, but how do we know if our bounding box predictions are correct? To evaluate the accuracy of the bounding box predictions, we use the cost function MSE (commonly used for L2 loss), but we can also apply a technique called [Intersection over Union (IoU)](https://www.pyimagesearch.com/2016/11/07/intersection-over-union-iou-for-object-detection/). 
 
@@ -114,7 +114,7 @@ We do not know precisely how many consumer goods will be in our images. As a res
 Brainteaser 6: What is the benefit/drawback of having a small stride (i.e., the size of the step between windows) value for your sliding window?
 </div>
 
-### 2.2.1 Non-Maximum Suppression (NMS)
+#### 2.2.1 Non-Maximum Suppression (NMS)
 
 The sliding window approach is very computationally expensive, especially when your stride value is small and/or the size of the window is small, because the model will output a large number of bounding boxes. In addition, many of the bounding boxes will be overlapping, which makes it difficult to determine which bounding box is the correct one. To solve this problem, we use an algorithm called [Non-Maximum Suppression (NMS)](https://www.pyimagesearch.com/2014/11/17/non-maximum-suppression-object-detection-python/).
 
@@ -128,11 +128,11 @@ Still unclear? Watch the video below:
 
 *Video 3. C4W3L07 Nonmax Suppression.*
 
-## 2.3 Two-stage approach: R-CNN
+### 2.3 Two-stage approach: R-CNN
 
 A better way to perform object detection is to use a two-stage approach. In this approach, we first use a region proposal algorithm to generate a set of candidate bounding boxes (number of potential regions: 1-infinity, 'sparse' detector). Then, we extract features from each of the candidate bounding boxes. Lastly, we refine the bounding box coordinates, and use a classifier to determine if the candidate bounding box contains an object belonging to one of the predefined classes. 
 
-### 2.3.1 Region proposals
+#### 2.3.1 Region proposals
 
 So how do we generate a set of candidate bounding boxes? We can use a region proposal algorithm, such as [Selective Search](https://paperswithcode.com/method/selective-search) or a region proposal network (RPN). The RPN is a neural network that generates a set of candidate bounding boxes. The RPN is trained to maximize the probability of generating a bounding box that contains an object belonging to one of the predefined classes.
 
@@ -140,7 +140,7 @@ So how do we generate a set of candidate bounding boxes? We can use a region pro
 
 *Video 4. C4W3L07 Region Proposals.*
 
-### 2.3.2 Family of R-CNN models
+#### 2.3.2 Family of R-CNN models
 
 There are three main variants of Region-based Convolutional Neural Network (R-CNN), each attempting to improve (a part of) the processes described above:
 
@@ -174,7 +174,7 @@ For more information regarding the R-CNN family, check out the following resourc
 - [Region-CNN (RCNN) Object Detection](https://pantelis.github.io/artificial-intelligence/aiml-common/lectures/scene-understanding/object-detection/rcnn-object-detection/index.html)
 - [Fast and Faster RCNN Object Detection](https://pantelis.github.io/artificial-intelligence/aiml-common/lectures/scene-understanding/object-detection/faster-rcnn-object-detection/index.html)
 
-## 2.4 One-stage approach: YOLO
+### 2.4 One-stage approach: YOLO
 
 But why use a two stage approach when we can use more an more efficient one stage approach? The You Only Look Once (YOLO) family of object detection models skips the second stage, and runs detection directly over a 'dense' sampling of possible locations.
 
@@ -188,7 +188,7 @@ This approach is relatively simple and fast, but it is less accurate than the de
 
 *Video 5. C4W3L08 YOLO algorithm.*
 
-### 2.4.1 Anchor boxes
+#### 2.4.1 Anchor boxes
 
 <iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/RTlwl2bv0Tg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -196,7 +196,7 @@ This approach is relatively simple and fast, but it is less accurate than the de
 
 For more information regarding anchor boxes, see the article [Anchor Boxes for Object Detection](https://www.mathworks.com/help/vision/ug/anchor-boxes-for-object-detection.html).
 
-### 2.4.2 Family of YOLO models
+#### 2.4.2 Family of YOLO models
 
 There are many variants of the YOLO algorithm. Each of them have a slightly different architecture. Some popular ones are:
 

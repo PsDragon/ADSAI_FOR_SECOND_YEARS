@@ -81,9 +81,11 @@ __4b__ Create an APA title page for the report you are writing for this block.  
 
 During Wednesday's DataLab you will travel to Amsterdam to visit the client. In order to prepare for this site visit, please fill in the AI Business Model Canvas that you can fine [here](https://drive.google.com/file/d/1OIozsr9zXkFoSmu88uUXSRDzJsUMso6k/view?pli=1).
 
-To learn more about the AI Canvas, please read [this](https://towardsdatascience.com/introducing-the-ai-project-canvas-e88e29eb7024) and [this](https://wearebrain.com/blog/ai-data-science/what-is-an-ai-canvas/)
+To learn more about the AI Canvas, please read [this](https://towardsdatascience.com/introducing-the-ai-project-canvas-e88e29eb7024) and [this](https://wearebrain.com/blog/ai-data-science/what-is-an-ai-canvas/).
 
  To help you fill in the canvas, you are required to take a course on design thinking. The course is provided by LinkedIn Learning and you can find it by clicking [this link](https://www.linkedin.com/learning/design-thinking-understanding-the-process/what-is-design-thinking?autoplay=true&u=36359204). It will take you just 40 minutes to complete the course. 
+
+ Make sure to prepare your questions related to AI canvas as well. 
 
 __Please make sure to upload your question and conducted research to GitHub.__
 

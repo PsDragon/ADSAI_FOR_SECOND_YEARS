@@ -53,19 +53,19 @@ If you have questions or issues regarding the course material, please post a mes
 # Creative Brief
 <img src="./images/emergency.jpeg" alt="emergency.jpeg" width="60%"/>
 
-During emergencies, individuals, news agencies, disaster relief organizations and emergency management agencies make use of social media for communication, information diffusion, making sense of the event, managing and mitigating risks. Twitter has become an essential communication channel during natural disasters as well as terror attacks.
+During emergencies, individuals, news agencies, disaster relief organizations, and emergency management agencies use social media for communication, information diffusion, making sense of the event, and managing risks. As a result, Twitter has become an essential communication channel during natural disasters and terror attacks.
 
 > "The main reason I like [Twitter] as a source of data is that it integrates not just a measure of typical exposure — which is ‘Did the water come 
 > onto the land in a place where it wasn’t supposed to be? [It also] measures ‘What are people noticing? What are people talking about?’ Twitter can
 > give us this aggregated measure of what those social consequences of that particular flood are."
 
 > Dr. Frances Moore
-> Assistant Professor in the Department of Environmental Science and Policy at University of California, Davis\
+> Assistant Professor in the Department of Environmental Science and Policy at the University of California, Davis\
 > [Source](https://blog.twitter.com/en_us/topics/company/2022/when-natural-disasters-happen-twitter-can-help-heres-how)
 
-On the other hand, Twitter contains huge amounts of misinformation making accurate identification of emergency tweets indispensible. In this block you will build NLP models for identification of emergency tweets. You will join one of the largest active NLP competitions on Kaggle titled, [Natural Language Processing with Disaster Tweets.](https://www.kaggle.com/c/nlp-getting-started)
+On the other hand, Twitter contains vast amounts of misinformation making accurate identification of emergency tweets indispensable. In this block you will build NLP models for identifying emergency tweets. You will join one of the largest active NLP competitions on Kaggle titled [Natural Language Processing with Disaster Tweets.](https://www.kaggle.com/c/nlp-getting-started)
 
-Your task is to predict whether a given tweet is about a real disaster or not. If so, predict a 1. If not, predict a 0. The training dataset consists of more than 7000 tweets together with tweet location and keywords.
+Your task is to predict whether a given tweet is about a disaster. If so, predict a 1. If not, predict a 0. The training dataset consists of more than 7000 tweets together with tweet location and keywords.
 
 Each sample in the train and test set has the following information:
 
@@ -74,11 +74,11 @@ Each sample in the train and test set has the following information:
 - [ ] The location the tweet was sent from
 - [ ] The label 0 or 1 (only training set)
 
-In addition to distinguishing spam or not-spam, it’s not always clear whether a person’s words are actually announcing a disaster. Take this example:
+In addition to distinguishing spam or not spam, it’s not always clear whether a person’s words are actually announcing a disaster. Take this example:
 
 <img src="./images/tweets.png" alt="emergency.jpeg" width="60%"/>
 
-According to Oxford Languages English dictionary, *ablaze* can mean the following:
+According to the Oxford Languages English dictionary, *ablaze* can mean the following:
 
 - [ ] burning fiercely.\
 *"his clothes were ablaze"*
@@ -89,7 +89,7 @@ According to Oxford Languages English dictionary, *ablaze* can mean the followin
 - [ ] filled with anger or another strong emotion.\
 *"his eyes were ablaze with excitement"*
 
-Therefore a tweet with containing the word *ablaze* can indicate an emergency or not, depending on its intended meaning.
+Therefore a tweet containing the word *ablaze* can indicate an emergency or not, depending on its intended meaning.
 
 
 ## Project Timeline

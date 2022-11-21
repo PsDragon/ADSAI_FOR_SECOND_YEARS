@@ -1,11 +1,8 @@
 # Block C - Artificial Intelligence Scientist - Speech and Language
 
-Welcome to Block C! During the next 8 weeks we will explore one of the pillars of AI: Natural Language Processing (NLP).
+Natural language is a language that has evolved naturally as a means of communication among people. We use natural language to communicate and think. Moreover, language is part of our cultural identity. Computer analysis of natural language is called Natural Language Processing (NLP).
 
-Collins dictionary defines natural language as "a language that has evolved naturally as a means of communication among people". Computer analysis of natural language is called Natural Language Processing (NLP). This is a multidisciplinary field combining linguistics, computer science and artificial intelligence.
-
-In this block you will train models that can predict the sentiment of tweets, translate English to French and much more.
-
+NLP is hard. A word can have multiple meanings, that is, **polysemous**. *Mouse* refers to an animal as well as computer hardware. Two words can be **synonyms**, meaning the same thing such as *happy* and *cheerful*. There are a lot of words that are not synonyms but can be **similar** such as *cat* and *dog*. The meaning of two words can be **related** in ways other than similarity (*coffee* and *cup*). Words also have **connotations**, meaning the reader's sentiment about the word. *Happy* has a positive connotation. Similar words can have different connotations. *Fake* and *replica* are similar words yet *fake* has a more negative connotation.
 
 ## Staff Members
 

@@ -267,7 +267,7 @@ Brainteaser 8a: Does YOLO actually look only 'once'? <br>
 Brainteaser 8b: Can you think of a computer vision task where YOLO would be a better fit than R-CNN?
 </div>
 
-For more information regarding the YOLO family, see [Object Detection Part 4: Fast Detection Models](https://lilianweng.github.io/posts/2018-12-27-object-recognition-part-4/), and [Your Comprehensive Guide to the YOLO Family of Models](https://blog.roboflow.com/guide-to-yolo-models/). 
+For more information regarding the YOLO family, see [Object Detection Part 4: Fast Detection Models](https://lilianweng.github.io/posts/2018-12-27-object-recognition-part-4/), [Your Comprehensive Guide to the YOLO Family of Models](https://blog.roboflow.com/guide-to-yolo-models/), and [YOLO Object Detection Explained](https://www.datacamp.com/blog/yolo-object-detection-explained). 
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #a94442; background-color: #f2dede; border-color: #ebccd1;">
 Alert: In DataLab (Week 3), we will discuss some of the theory behind the deep learning based object detection algorithms.

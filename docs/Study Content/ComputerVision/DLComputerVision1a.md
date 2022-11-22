@@ -92,7 +92,7 @@ Brainteaser 4: What is the effect of using a lower/higher IoU threshold on the p
 
 ### 2.2 Naive approach: Sliding windows
 
-Unfortunately, in many cases, we do not precisely know how many objects an image or video frame will contain. For example, when we want to count the number of vehicles crossing a specific road section, we cannot accurately predict how many of them will be in a particular video frame. For example, the vehicle's speed (partially) determines the number of objects in one frame; a car moving at 80 km/h will be in fewer frames than a vehicle moving at 120 km/h. 
+Unfortunately, in many cases, we do not precisely know how many objects an image or video frame will contain. For example, when we want to count the number of vehicles crossing a specific road section, we cannot accurately predict how many of them will be in a particular video frame. For example, the vehicle's speed (partially) determines the number of objects in one frame; a car moving at 80 km/h will be in more frames than a vehicle moving at 120 km/h. 
 
 <img src="./images/ObjectDetectionCounting.gif" width="600"/>
 

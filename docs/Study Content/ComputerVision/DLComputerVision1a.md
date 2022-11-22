@@ -117,9 +117,13 @@ Brainteaser 6: What is the benefit/drawback of having a small stride (i.e., the 
 
 The sliding window approach is very computationally expensive, especially when your stride value is small and/or the size of the window is small, because the model will output a large number of bounding boxes. In addition, many of the bounding boxes will be overlapping, which makes it difficult to determine which bounding box is the correct one. To solve this problem, we use an algorithm called [Non-Maximum Suppression (NMS)](https://www.pyimagesearch.com/2014/11/17/non-maximum-suppression-object-detection-python/).
 
+<img src="./images/NonMaximumSupression.png" alt="Non-Maximum Suppression" width="800"/>
+
+*Figure 7. Non-Maximum Suppression.*
+
 To implement NMS you need to follow the following procedure:
 
-> Sort all the bounding boxes by confidence score. Discard boxes with low confidence scores. While there is any remaining bounding box, repeat the following: Greedily select the one with the highest score. Skip the remaining boxes with high IoU (i.e. > 0.5) with previously selected one ([Source](https://lilianweng.github.io/posts/2017-12-31-object-recognition-part-3/)).
+> 1. Select the bounding box 'a' with the highest confidence score. <br> 2. Compare the proposal 'a' with the highest confidence with every other proposal by calculating the intersection over union. <br> 3. If the overlap between 'a' and the other proposal is higher than a chosen threshold, remove the other proposal. <br> 4. Next, you choose the box with the highest confidence score out of the remaining boxes and repeat the process until no more boxes are left ([Source](https://programmathically.com/foundations-of-deep-learning-for-object-detection-from-sliding-windows-to-anchor-boxes/)).
 
 Still unclear? Watch the video below:
 
@@ -133,7 +137,7 @@ What are anchor boxes?
 
 <img src="./images/AnchorBoxes.jpg" alt="Two anchor boxes" width="350"/>
 
-*Figure 7. Two anchor boxes.*
+*Figure 8. Two anchor boxes.*
 
 > The term anchor boxes refers to a predefined collection of boxes with widths and heights chosen to match the widths and heights of objects in a dataset. The proposed anchor boxes encompass the possible combination of object sizes that could be found in a dataset. This should naturally include varying aspect ratios and scales present in the data. It is typical to select between 4-10 anchor boxes to use as proposals over various locations in the image ([Source](https://www.wovenware.com/blog/2020/06/anchor-boxes-in-object-detection-when-where-and-how-to-propose-them-for-deep-learning-apps/)).
 
@@ -179,23 +183,23 @@ There are three main variants of Region-based Convolutional Neural Network (R-CN
 
 <img src="./images/R-CNN.png" alt="R-CNN" width="800"/>
 
-*Figure 8. The architecture of R-CNN.*
+*Figure 9. The architecture of R-CNN.*
 
 Model workflow:
 
-> <ul> 1. Pre-train a CNN network on image classification tasks; for example, VGG or ResNet trained on ImageNet dataset. The classification task involves N classes. <br> 2. Propose category-independent regions of interest by Selective Search (~2k candidates per image). Those regions may contain target objects and they are of different sizes. <br> 3. Region candidates are warped to have a fixed size as required by CNN. <br> 4. Continue fine-tuning the CNN on warped proposal regions for K + 1 classes; The additional one class refers to the background (no object of interest). In the fine-tuning stage, we should use a much smaller learning rate and the mini-batch oversamples the positive cases because most proposed regions are just background. <br> 5. Given every image region, one forward propagation through the CNN generates a feature vector. This feature vector is then consumed by a binary SVM trained for each class independently. The positive samples are proposed regions with IoU (Intersection over Union) overlap threshold >= 0.3, and negative samples are irrelevant others. <br> 6. To reduce the localization errors, a regression model is trained to correct the predicted detection window on bounding box correction offset using CNN features. </ul> 
+> <ul> 1. Pre-train a CNN network on image classification tasks; for example, VGG or ResNet trained on ImageNet dataset. The classification task involves N classes. <br> 2. Propose category-independent regions of interest by Selective Search (~2k candidates per image). Those regions may contain target objects and they are of different sizes. <br> 3. Region candidates are warped to have a fixed size as required by CNN. <br> 4. Continue fine-tuning the CNN on warped proposal regions for K + 1 classes; The additional one class refers to the background (no object of interest). In the fine-tuning stage, we should use a much smaller learning rate and the mini-batch oversamples the positive cases because most proposed regions are just background. <br> 5. Given every image region, one forward propagation through the CNN generates a feature vector. This feature vector is then consumed by a binary SVM trained for each class independently. The positive samples are proposed regions with IoU (Intersection over Union) overlap threshold >= 0.3, and negative samples are irrelevant others. <br> 6. To reduce the localization errors, a regression model is trained to correct the predicted detection window on bounding box correction offset using CNN features. </ul> <br>
 ([Source](https://lilianweng.github.io/posts/2017-12-31-object-recognition-part-3/))
 
 You might have noticed from the above workflow that the R-CNN model is very computationally expensive. This is because the model needs to propose 2000 candidate regions for every image, and subsequently has to generate a CNN feature vector for each of these regions. In addition, the model is comprised by three separate models: a CNN for image classification and feature extraction, a Support Vector Machine (SVM) model for classifying the objects, and a bounding box regression model for localizing the objects. 
 
 - [Fast R-CNN](https://arxiv.org/abs/1504.08083)
 
-> As in the R-CNN detector, the Fast R-CNN detector also uses an algorithm like Edge Boxes to generate region proposals. Unlike the R-CNN detector, which crops and resizes region proposals, the Fast R-CNN detector processes the entire image. Whereas an R-CNN detector must classify each region, Fast R-CNN pools CNN features corresponding to each region proposal. Fast R-CNN is more efficient than R-CNN, because in the Fast R-CNN detector, the computations for overlapping regions are shared. </ul>
+> <ul> As in the R-CNN detector, the Fast R-CNN detector also uses an algorithm like Edge Boxes to generate region proposals. Unlike the R-CNN detector, which crops and resizes region proposals, the Fast R-CNN detector processes the entire image. Whereas an R-CNN detector must classify each region, Fast R-CNN pools CNN features corresponding to each region proposal. Fast R-CNN is more efficient than R-CNN, because in the Fast R-CNN detector, the computations for overlapping regions are shared. </ul> <br>
 ([Source](https://www.mathworks.com/help/vision/ug/getting-started-with-r-cnn-fast-r-cnn-and-faster-r-cnn.html))
 
 <img src="./images/FastR-CNN.png" alt="Fast R-CNN" width="800"/>
 
-*Figure 9. The architecture of Fast R-CNN.*
+*Figure 10. The architecture of Fast R-CNN.*
 
 Model workflow:
 
@@ -211,11 +215,11 @@ This new implementation, Fast R-CNN, is definitely faster than the R-CNN model. 
 
 <img src="./images/FasterR-CNN.png" alt="Faster R-CNN" width="800"/>
 
-*Figure 10. The architecture of Faster R-CNN.*
+*Figure 11. The architecture of Faster R-CNN.*
 
 Model workflow:
 
-> <ul> 1. Pre-train a CNN network on image classification tasks. <br> 2. Fine-tune the RPN (Region Proposal Network) end-to-end for the region proposal task, which is initialized by the pre-train image classifier. Positive samples have IoU (Intersection over Union) > 0.7, while negative samples have IoU < 0.3. <li> Slide a small N x N spatial window over the conv feature map of the entire image. <li> At the center of each sliding window, we predict multiple regions of various scales and ratios simultaneously. An anchor is a combinatin of (sliding window center, scale, ratio). For example, 3 scales + 3 ratios => k=9 anchors at each sliding position. <br> 3. Train a Fast R-CNN object detection model using the proposals generated by the current RPN <br> 4. Then use the Fast R-CNN network to initialize RPN training. While keeping the shared convolutional layers, only fine-tune the RPN-specific layers. At this stage, RPN and the detection network have shared convolutional layers! <br>  5. Finally fine-tune the unique layers of Fast R-CNN. <br> 6. Step 4-5 can be repeated to train RPN and Fast R-CNN alternatively if needed. </ul> 
+> <ul> 1. Pre-train a CNN network on image classification tasks. <br> 2. Fine-tune the RPN (Region Proposal Network) end-to-end for the region proposal task, which is initialized by the pre-train image classifier. Positive samples have IoU (Intersection over Union) > 0.7, while negative samples have IoU < 0.3. <li> Slide a small N x N spatial window over the conv feature map of the entire image. <li> At the center of each sliding window, we predict multiple regions of various scales and ratios simultaneously. An anchor is a combinatin of (sliding window center, scale, ratio). For example, 3 scales + 3 ratios => k=9 anchors at each sliding position. <br> 3. Train a Fast R-CNN object detection model using the proposals generated by the current RPN <br> 4. Then use the Fast R-CNN network to initialize RPN training. While keeping the shared convolutional layers, only fine-tune the RPN-specific layers. At this stage, RPN and the detection network have shared convolutional layers! <br>  5. Finally fine-tune the unique layers of Fast R-CNN. <br> 6. Step 4-5 can be repeated to train RPN and Fast R-CNN alternatively if needed. </ul> <br>
 ([Source](https://lilianweng.github.io/posts/2017-12-31-object-recognition-part-3/))
 
 Faster R-CNN is significantly faster than the previous models because it generates the region proposals directly in the network.
@@ -232,7 +236,7 @@ But why use a two stage approach when we can use more an more efficient one stag
 
 <img src="./images/YOLOOverview.png" alt="Overview of the YOLO algorithm" width="1000"/>
 
-*Figure 11. Overview of the YOLOv1 algorithm.*
+*Figure 12. Overview of the YOLOv1 algorithm.*
 
 Advantages/Disadvantages of the one-stage approach:
 
@@ -246,7 +250,7 @@ Advantages/Disadvantages of the one-stage approach:
 
 Model workflow (i.e., YOLOv1):
 
-> <ul> 1. Pre-train a CNN network on image classification task. <br> 2. Split an image into S x S cells. If an object’s center falls into a cell, that cell is "responsible" for detecting the existence of that object. Each cell predicts (a) the location of B bounding boxes, (b) a confidence score, and (c) a probability of object class conditioned on the existence of an object in the bounding box. <li> The coordinates of bounding box are defined by a tuple of 4 values, (center x-coord, center y-coord, width, height) — (x, y, w, h), where x and y are set to be offset of a cell location. Moreover, x, y, w and h are normalized by the image width and height, and thus all between [0, 1]. <li> A confidence score indicates the likelihood that the cell contains an object: Pr(containing an object) x IoU(pred, truth); where Pr = probability and IoU = Intersection over Union. <li> If the cell contains an object, it predicts a probability of this object belonging to every class Ci,i = 1,...,K: Pr(The object belongs to the class C_i | containing an object). At this stage, the model only predicts one set of class probabilities per cell, regardless of the number of bounding boxes, B. <li>> In total, one image contains S x S x B bounding boxes, each box corresponding to 4 location predictions, 1 confidence score, and K conditional probabilities for object classification. The total prediction values for one image is S x S x (5B + K), which is the tensor shape of the final convolutional layer of the model. <br> 3. The final layer of the pre-trained CNN is modified to output a prediction tensor of size. </ul> 
+> <ul> 1. Pre-train a CNN network on image classification task. <br> 2. Split an image into S x S cells. If an object’s center falls into a cell, that cell is "responsible" for detecting the existence of that object. Each cell predicts (a) the location of B bounding boxes, (b) a confidence score, and (c) a probability of object class conditioned on the existence of an object in the bounding box. <li> The coordinates of bounding box are defined by a tuple of 4 values, (center x-coord, center y-coord, width, height) — (x, y, w, h), where x and y are set to be offset of a cell location. Moreover, x, y, w and h are normalized by the image width and height, and thus all between [0, 1]. <li> A confidence score indicates the likelihood that the cell contains an object: Pr(containing an object) x IoU(pred, truth); where Pr = probability and IoU = Intersection over Union. <li> If the cell contains an object, it predicts a probability of this object belonging to every class Ci,i = 1,...,K: Pr(The object belongs to the class C_i | containing an object). At this stage, the model only predicts one set of class probabilities per cell, regardless of the number of bounding boxes, B. <li>> In total, one image contains S x S x B bounding boxes, each box corresponding to 4 location predictions, 1 confidence score, and K conditional probabilities for object classification. The total prediction values for one image is S x S x (5B + K), which is the tensor shape of the final convolutional layer of the model. <br> 3. The final layer of the pre-trained CNN is modified to output a prediction tensor of size. </ul> <br>
 ([Source](https://lilianweng.github.io/posts/2018-12-27-object-recognition-part-4/))
 
 #### 2.4.1 Family of YOLO models

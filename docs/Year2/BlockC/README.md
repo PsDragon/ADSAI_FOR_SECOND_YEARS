@@ -176,8 +176,14 @@ DataLab 1, Prep and Goal(s):
 
 
 DataLab 2, Prep and Goal(s):
+Kaggle day - Final leaderboard final
 
 ### Week 8 
+
+DataLab 1, Prep and Goal(s):
+Presentation of Kaggle solutions
+
+DataLab 2, Prep and Goal(s):
 
 
 ## Project Requirements

@@ -91,13 +91,10 @@ In addition to distinguishing spam or not spam, it’s not always clear whether 
 The tweet on the left-hand side uses the second meaning of *ablaze*, therefore is not about a disaster. However, the other tweet uses its first meaning and talks about a disaster.
 
 <img src="./images/tweets.png" alt="emergency.jpeg" width="60%"/>
-Figure 1: Two tweets using the word *ablaze* with different meanings.
+Figure 1: Two tweets using the word ablaze with different meanings.
 
 
 ## Project Timeline
-
-
-
 
 ### Week 1
 
@@ -134,15 +131,9 @@ DataLab 2, Goal(s):
 
 ### Week 4
 
-
-
 DataLab 1, Prep and Goal(s):
 
-
-
 DataLab 2, Prep and Goal(s):
-
-
 
 __Formative feedback II__
 
@@ -151,20 +142,14 @@ __Formative feedback II__
 
 DataLab 1, Prep and Goal(s):
 
-
-
 DataLab 2, Prep and Goal(s):
 
 
 ### Week 6
 
-
 DataLab 1, Prep and Goal(s):
 
-
-
 DataLab 2, Prep and Goal(s):
-
 
 __Formative feedback III__
 
@@ -173,18 +158,16 @@ __Formative feedback III__
 
 DataLab 1, Prep and Goal(s):
 
-
-
 DataLab 2, Prep and Goal(s):
-Kaggle day - Final leaderboard final
+Final day of Kaggle submissions
 
 ### Week 8 
 
 DataLab 1, Prep and Goal(s):
-Presentation of Kaggle solutions
+Kaggle team submission
 
 DataLab 2, Prep and Goal(s):
-
+Presentation of Kaggle solutions
 
 ## Project Requirements
 Consider each of these task as mandatory to complete your project:

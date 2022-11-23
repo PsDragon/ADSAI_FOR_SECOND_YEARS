@@ -226,8 +226,11 @@ __Individual:__
 
 ## Medal Challenges 
 
-The medal courses for this block have been specifically selected to help boost your portfolio and extend your knowledge and expertise. You may also finish them after the initial deadline!
+The medal courses for this block have been specifically selected to help boost your portfolio and extend your knowledge and expertise.
 
 ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=bronzemedal) ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=silvermedal) ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=goldmedal)
+
+<img src="./images/medals.png" alt="medals.png" width="60%"/>
+
 
 *** 

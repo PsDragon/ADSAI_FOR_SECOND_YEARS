@@ -280,7 +280,7 @@ Complete the cognition task by using cognitive theory and cognitive models to **
 
 Evidence in technical report, and integrate in object detection algorithm:
 - Identifies appropriate perceptual features for object detection. (ILO 3.2 - Sufficient)
-- Identifies required prior-knowledge for contextualising object detection. (ILO 3.2 - Good)
+- Identifies required prior-knowledge for contextualizing object detection. (ILO 3.2 - Good)
 - Uses cognitive models of pattern recognition to improve feature and/or object detection. (ILO 3.2 - Excellent)
 
 Evidence in technical report, and integrate in robotic controller & reinforcement learning algorithm:

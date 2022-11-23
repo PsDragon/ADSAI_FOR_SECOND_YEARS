@@ -58,7 +58,7 @@ In case of absence, the student needs to fill in the 'DataLab Absence' [form](ht
 
 If you have questions or issues regarding the course material, please post a message on the 'Q&A' channel in Teams. The channel will be monitored by mentors but also please help your peers if you have the answer to their question.
 
-## Creative Brief
+## Creative Brief - Disaster or not?
 <img src="./images/emergency.jpeg" alt="emergency.jpeg" width="60%"/>
 
 During emergencies, individuals, news agencies, disaster relief organizations, and emergency management agencies use social media for communication, information diffusion, making sense of the event, and managing risks. As a result, Twitter has become an essential communication channel during natural disasters and terror attacks.
@@ -93,7 +93,7 @@ In addition to distinguishing spam or not spam, it’s not always clear whether 
 
 The tweet on the left-hand side uses the second meaning of *ablaze*, therefore is not about a disaster. However, the other tweet uses its first meaning and talks about a disaster.
 
-<img src="./images/tweets.png" alt="emergency.jpeg" width="60%"/>
+<img src="./images/tweets.png" alt="emergency.jpeg" width="60%"/> \
 Figure 1: Two tweets using the word ablaze with different meanings.
 
 

@@ -113,7 +113,6 @@ DataLab 2, Goal(s):
 - [Data annotation](../../Study%20Content/ComputerVision/ComputerVisionDataAnnotation.html)
 - [Computer vision: Introduction](https://adsai.buas.nl/Study%20Content/ComputerVision/ComputerVisionIntroduction.html)
 - [Traditional computer vision](https://adsai.buas.nl/Study%20Content/ComputerVision/TradDLComputerVision.html)
-- [DL computer vision I: Theory](../../Study%20Content/ComputerVision/DLComputerVision1a.html)
 
 #### <mark>DataLab (group)</mark>
 
@@ -121,7 +120,6 @@ DataLab 1, Goal(s):
 
 - [ ] Create one (1) annotated image dataset with the real-life data ('difficult' object detection task)
 - [ ] Create one (1) annotated image dataset with the synthetic data ('easy' object detection task)
-- [ ] Demonstrate foundational knowledge and understanding of the theories, principles, methods, and techniques related to the subfield of object detection by summarizing, and critically evaluating some of its seminal works.
 
 __Formative feedback I__
 
@@ -138,6 +136,7 @@ Make sure that you completed the independent-study on [Traditional computer visi
  
 ### Week 3
 
+- [DL computer vision I: Theory](../../Study%20Content/ComputerVision/DLComputerVision1a.html)
 - [DL computer vision II: Application](../../Study%20Content/ComputerVision/DLComputerVision1b.html)
 
 #### <mark>DataLab (individual)</mark>
@@ -146,6 +145,7 @@ Make sure to complete the independent-study on [DL computer vision II: Theory](.
 
 DataLab 1, Goal(s):
 
+- [ ] Demonstrate foundational knowledge and understanding of the theories, principles, methods, and techniques related to the subfield of object detection by summarizing, and critically evaluating some of its seminal works.
 - [ ] Identify, evaluate, and integrate relevant information on DL methods from a variety of sources to solve an object detection task 
 - [ ] Validate the installation of your chosen algorithm/toolbox/etc. by performing inference on a single image using a pre-trained object detection model 
 

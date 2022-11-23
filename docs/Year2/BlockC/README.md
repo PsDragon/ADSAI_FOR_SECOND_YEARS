@@ -7,12 +7,15 @@ NLP is an interdisciplinary field combining linguistics, computer science, and A
 <iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/4LjDe4sLER0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Video 1: Qué difícil es hablar el español.
 
-## Textbook
-In this block you will follow the book Speech and Language Processing. You will read the book to learn NLP algorithms during self-study days. Then, during the DataLabs, you will apply what you have learned and build your own NLP models.
+## Textbooks
+In this block you will follow two books. The first book is great for conceptual understanding of NLP and the second book is focused towards hands-on NLP with Python.
 
-D. Jurafsky, J.H. Martin, Speech and Language Processing, 3rd edition draft, 2022\
+1) D. Jurafsky, J.H. Martin, Speech and Language Processing, 3rd edition draft, 2022\
 Book website: [https://web.stanford.edu/~jurafsky/slp3/](https://web.stanford.edu/~jurafsky/slp3/) \
 Book pdf: [https://web.stanford.edu/~jurafsky/slp3/ed3book_jan122022.pdf](https://web.stanford.edu/~jurafsky/slp3/ed3book_jan122022.pdf)
+
+2) S. Bird, E. Klein, E. Loper, Natural Language Processing with Python\
+Book website: [https://www.nltk.org/book/](https://www.nltk.org/book/)
 
 ## Staff Members
 

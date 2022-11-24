@@ -43,16 +43,26 @@ Additionally, do not hesitate to take notes about the research findings of other
 
 Conduct research on the usage of Twitters API. Make groups of 5 peers within your mentor groups and present your findings to each other. 
 
-## 5) Read Nielson’s paper
+## 5) Check the following policies and answer questions stated below
+
+[Twitter Terms of Service](https://twitter.com/en/tos)
+
+[Developer Policy](https://developer.twitter.com/en/developer-terms/policy) 
+
+- Is it allowed to scrape data from Twitter?
+
+- Who can use Twitter API and Twitter Content?
+
+## 6) Read Nielson’s paper
 
 You can find the paper by clicking [this link]( https://www.nielsen.com/wp-content/uploads/sites/2/2019/04/using-machine-learning-to-predict-future-tv-ratings.pdf) . 
 
-## 6) Work on the assignment
+## 7) Work on the assignment
 
 During the last DataLab, you had a chance to visit the office of Banijay and ask them questions about companies’ ethical behavior. So now you are advised to use the rest of the time (before the guest lecture) to work on your ethics paper and write about companies ethical practices ( make sure to check [the Data Governance and Ethis part](https://adsai.buas.nl/Project%20Requirements/DataGovernanceRequirements.html) of your final assignment)
 
 
-## 7) Guest lecture by Dasha Simons
+## 8) Guest lecture by Dasha Simons
 
 The guest lecture is scheduled from 16:00 till 17:00 at Fe 1.018.
 

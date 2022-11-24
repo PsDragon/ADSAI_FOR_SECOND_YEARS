@@ -596,7 +596,7 @@ Notice that we are using the '{model name}_custom_config.py' file that we create
 At last, we are able to run our custom training script with hyperparameter tuning. To do this, we need to run the following command in our terminal: 
 
 ```
-python custom_train.py configs/yolo/yolov3_d53_320_273e_coco/yolov3_d53_320_273e_coco_custom_config.py 
+python custom_train.py --config configs/yolo/yolov3_d53_320_273e_coco/yolov3_d53_320_273e_coco_custom_config.py 
 ```
 
 When you use Weights & Biases as your MLOps tool, you will encounter the following [error](https://github.com/open-mmlab/mmdetection/issues/8034#issuecomment-1158773682). To fix the issue add the following lines to the custom_train.py script: 

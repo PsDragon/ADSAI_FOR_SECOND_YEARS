@@ -32,6 +32,7 @@ __1b__ Answer the following questions:
 ## 2) Review study material (Week 2) & the Q&A (9:30-10:00)
 
 For details regarding prerequisites, contact your mentor. 
+The review session/q&a will take place at Fe 1.013.
 
 ## 3) Presentations on Twitter and GDPR
 

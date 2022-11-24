@@ -99,6 +99,7 @@ title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; cli
 *Video 4. "What is AI Ethics?" by IMB Technology.*
 
 Answer questions related to the video.
+
 __3a__	What does it take to earn trust in an artificial intelligence?
 
 __3b__	What are the 3 principles when thinking about AI in an organization?

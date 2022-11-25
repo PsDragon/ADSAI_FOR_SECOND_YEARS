@@ -84,7 +84,7 @@ Especially for this occasion, we arranged transportation from you. Please be sha
 # Week 3 : Python for Data Analysis
 
 ## Monday
-- [Python: Advanced Pandas](../../Study%20Content/Programming/6.Getting%20Started%20with%20Pandas.html)
+- [Python: Advanced Pandas](../../Study%20Content/Programming/12.AdvancedNumpy.html)
 
 ## Tuesday
 - [Python: Matplotlib](../../Study%20Content/Programming/12.Data%20visualization%20in%20Python.html)

@@ -59,8 +59,8 @@ You can find the paper by clicking [this link]( https://www.nielsen.com/wp-conte
 
 ## 7) Work on the assignment
 
-During the last DataLab, you had a chance to visit the office of Banijay and ask them questions about companies’ ethical behavior. So now you are advised to use the rest of the time (before the guest lecture) to work on your ethics paper and write about companies ethical practices ( make sure to check [the Data Governance and Ethis part](https://adsai.buas.nl/Project%20Requirements/DataGovernanceRequirements.html) of your final assignment)
-
+During the last DataLab, you had a chance to visit the office of Banijay and ask them questions about companies’ ethical behavior. So now you are advised to use the rest of the time (before the guest lecture) to work on your ethics paper and write about companies ethical practices ( make sure to check [the Data Governance and Ethis part](https://adsai.buas.nl/Year1/BlockB/Project%20Requirements/DataGovernanceRequirements.html) of your final assignment)
+Project%20Requirements/DataGovernanceRequirements.html
 
 ## 8) Guest lecture by Dasha Simons
 

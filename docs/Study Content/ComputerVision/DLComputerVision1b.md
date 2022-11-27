@@ -563,8 +563,10 @@ To enable hyperparameter tuning in Weights and Biases, we need add some addition
 
 *Figure 3. Custom train arguments (2).*
 
-You can download the training script [here](./code/mmdetection_weightsandbiases/custom_train.py). Lastly, please add the custom_train.py script to the root directory of the project (See Directory tree mmdetection).
-
+You can download the training script [here](./code/mmdetection_weightsandbiases/custom_train.py). Lastly, please add the custom_train.py script to the root directory of the project (See Directory tree mmdetection). To run the training script, you can use the following command: 
+```
+python custom_train.py --config configs/yolo/yolov3_d53_320_273e_coco/yolov3_d53_320_273e_coco_custom_config.py 
+```
 Let us head over to Weigths & Biases to train our model, and log our experiments. Sweep is a feature in Weights & Biases that allows us to run multiple experiments with different hyperparameters. To start a [sweep](https://wandb.ai/site/articles/run-your-first-sweep), we need to create a sweep configuration file:
 
 ```
@@ -596,7 +598,7 @@ Notice that we are using the '{model name}_custom_config.py' file that we create
 At last, we are able to run our custom training script with hyperparameter tuning. To do this, we need to run the following command in our terminal: 
 
 ```
-python custom_train.py configs/yolo/yolov3_d53_320_273e_coco/yolov3_d53_320_273e_coco_custom_config.py 
+wandb agent {entity}/{project}/{sweep id}
 ```
 
 When you use Weights & Biases as your MLOps tool, you will encounter the following [error](https://github.com/open-mmlab/mmdetection/issues/8034#issuecomment-1158773682). To fix the issue add the following lines to the custom_train.py script: 
@@ -618,7 +620,16 @@ You should now see results from your experiments in Weights & Biases. For instan
 
 *Figure 5. Weights & Biases hyperparameter output.*
 
-To test your final model, use the 'test.py' file. This file is located in the 'tools' folder (See directory tree of mmdetection).
+To test your final model, use the 'test.py' file. This file is located in the 'tools' folder (See directory tree of mmdetection). For example, you can run the following command in your terminal: 
+
+```
+python tools/test.py configs/yolo/yolov3_d53_320_273e_coco/yolov3_d53_320_273e_coco_custom_config.py work_dirs/yolov3_d53_320_273e_coco_custom_config/best_bbox_mAP_epoch_3.pth --out work_dirs/yolov3_d53_320_273e_coco_custom_config/best_bbox_mAP_epoch_3.pkl --eval bbox 
+```
+To analyze the results, you can use the 'analyze_results.py' file located in the 'tools/analysis_results' folder:
+
+```
+python tools/analysis_tools/analyze_results.py configs/faster_rcnn/faster_rcnn_r101_fpn_2x_coco/faster_rcnn_r101_fpn_2x_coco_custom_config.py work_dirs/faster_rcnn_r101_fpn_2x_coco_custom_config/best_bbox_mAP_epoch_3.pkl work_dirs/faster_rcnn_r101_fpn_2x_coco_custom_config/results --topk 20
+``` 
 
 For more information regarding the use of mmdetection (and Weights & Biases) please refer to the following links:
 
@@ -662,7 +673,7 @@ Unfortunately detectron2 does not have a built-in Weights & Biases integration. 
 It does have a built-in Tensorboard integration, which is similar to Weights & Biases. If you use one of the following online resources, you will be able to deploy detectron2 (with Tensorboard) in no time.
 
 - [Detectron2 Documentation](https://detectron2.readthedocs.io/en/latest/)
-- [How to Train a Custom Faster R-CNN Model with Facebook AI's Detectron2 | Use Your Own Dataset](https://www.youtube.com/watch?v=4OXntFVfFio)
+- [How to Train a Custom Faster R-CNN Model with Facebook AI's Detectron2. Use Your Own Dataset (https://www.youtube.com/watch?v=4OXntFVfFio)
 - [Object Detection with PyTorch and Detectron2](https://blog.paperspace.com/object-detection-segmentation-with-detectron2-on-paperspace-gradient/)
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">

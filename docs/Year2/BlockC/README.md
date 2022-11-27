@@ -1,8 +1,21 @@
 # Block C - Artificial Intelligence Scientist - Speech and Language
 
-Natural language is a language that has evolved naturally as a means of communication among people. We use natural language to communicate and think. Moreover, language is part of our cultural identity. Computer analysis of natural language is called Natural Language Processing (NLP).
+Natural language is a language that has evolved naturally as a means of communication among people. Computer analysis of natural language is called Natural Language Processing (NLP). NLP is used for e-mail classification, smart assistants, search engines, language translation and many more applications. Hundreds of millions of people use Google Translate daily!
 
-NLP is hard. A word can have multiple meanings, that is, **polysemous**. *Mouse* refers to an animal as well as computer hardware. Two words can be **synonyms**, meaning the same thing, such as *train* and *educate*. Yet you *train* a machine learning model, not *educate* a machine learning model because *train* is part of the machine learning **lexicon**. There are a lot of words that are not synonyms but can be **similar** such as *cat* and *dog*. The meaning of two words can be **related** in ways other than similarity (*coffee* and *cup*). Words also have **connotations**, meaning the reader's sentiment about the word. *Happy* has a positive connotation. Similar words can have different connotations. *Fake* and *replica* are similar words yet *fake* has a more negative connotation. On top of that, word usage evolves. *Awful* originally meant impressive instead of extremely bad. Add to these irony, slang, idioms, jokes, and differences between the 7000 languages that exist... NLP is hard, arduous, complicated, heavy, rough, tough, and troublesome.
+NLP is an interdisciplinary field combining linguistics, computer science, and AI. Linguistic knowledge is key for building NLP models. A word can have multiple meanings, that is, **polysemous**. *Mouse* refers to an animal as well as computer hardware. Two words can be **synonyms**, meaning the same thing, such as *train* and *educate*. Yet you *train* a machine learning model, not *educate* a machine learning model because *train* is part of the machine learning **lexicon**. There are a lot of words that are not synonyms but can be **similar** such as *cat* and *dog*. The meaning of two words can be **related** in ways other than similarity (*coffee* and *cup*). Words also have **connotations**, meaning the reader's sentiment about the word. *Happy* has a positive connotation. Similar words can have different connotations. *Fake* and *replica* are similar words yet *fake* has a more negative connotation. On top of that, word usage evolves. *Awful* originally meant impressive instead of extremely bad. Add to these irony, slang, idioms, humor, and differences between the 7000 languages that exist...
+
+<iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/4LjDe4sLER0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Video 1: Qué difícil es hablar el español.
+
+## Textbooks
+In this block you will follow two books. The first book is great for conceptual understanding of NLP and the second book is focused towards hands-on NLP with Python.
+
+1) D. Jurafsky, J.H. Martin, Speech and Language Processing, 3rd edition draft, 2022\
+Book website: [https://web.stanford.edu/~jurafsky/slp3/](https://web.stanford.edu/~jurafsky/slp3/) \
+Book pdf: [https://web.stanford.edu/~jurafsky/slp3/ed3book_jan122022.pdf](https://web.stanford.edu/~jurafsky/slp3/ed3book_jan122022.pdf)
+
+2) S. Bird, E. Klein, E. Loper, Natural Language Processing with Python\
+Book website: [https://www.nltk.org/book/](https://www.nltk.org/book/)
 
 ## Staff Members
 
@@ -45,9 +58,7 @@ In case of absence, the student needs to fill in the 'DataLab Absence' [form](ht
 
 If you have questions or issues regarding the course material, please post a message on the 'Q&A' channel in Teams. The channel will be monitored by mentors but also please help your peers if you have the answer to their question.
 
-***
-
-# Creative Brief
+## Creative Brief - Disaster or not?
 <img src="./images/emergency.jpeg" alt="emergency.jpeg" width="60%"/>
 
 During emergencies, individuals, news agencies, disaster relief organizations, and emergency management agencies use social media for communication, information diffusion, making sense of the event, and managing risks. As a result, Twitter has become an essential communication channel during natural disasters and terror attacks.
@@ -60,9 +71,7 @@ During emergencies, individuals, news agencies, disaster relief organizations, a
 > Assistant Professor in the Department of Environmental Science and Policy at the University of California, Davis\
 > [Source](https://blog.twitter.com/en_us/topics/company/2022/when-natural-disasters-happen-twitter-can-help-heres-how)
 
-On the other hand, Twitter contains vast amounts of misinformation making accurate identification of emergency tweets indispensable. In this block you will build NLP models for identifying emergency tweets. You will join one of the largest active NLP competitions on Kaggle titled [Natural Language Processing with Disaster Tweets.](https://www.kaggle.com/c/nlp-getting-started)
-
-Your task is to predict whether a given tweet is about a disaster. If so, predict a 1. If not, predict a 0. The training dataset consists of more than 7000 tweets together with tweet location and keywords.
+On the other hand, Twitter contains vast amounts of misinformation making accurate identification of emergency tweets indispensable. In this block you will build NLP models for identifying emergency tweets. You will join one of the largest active NLP competitions on Kaggle titled [Natural Language Processing with Disaster Tweets.](https://www.kaggle.com/c/nlp-getting-started) Your task is to predict whether a given tweet is about a disaster. If so, predict a 1. If not, predict a 0. The training dataset consists of more than 7000 tweets together with tweet location and keywords.
 
 Each sample in the train and test set has the following information:
 
@@ -71,11 +80,7 @@ Each sample in the train and test set has the following information:
 - [ ] The location the tweet was sent from
 - [ ] The label 0 or 1 (only training set)
 
-In addition to distinguishing spam or not spam, it’s not always clear whether a person’s words are actually announcing a disaster. Take this example:
-
-<img src="./images/tweets.png" alt="emergency.jpeg" width="60%"/>
-
-According to the Oxford Languages English dictionary, *ablaze* can mean the following:
+In addition to distinguishing spam or not spam, it’s not always clear whether a person’s words are actually announcing a disaster. Take a look at the tweets shown in Figure 1. Both tweets mention that something is *ablaze*. *Ablaze* is **polysemous**. According to the Oxford Languages English dictionary, *ablaze* can mean the following:
 
 - [ ] burning fiercely.\
 *"his clothes were ablaze"*
@@ -86,13 +91,13 @@ According to the Oxford Languages English dictionary, *ablaze* can mean the foll
 - [ ] filled with anger or another strong emotion.\
 *"his eyes were ablaze with excitement"*
 
-Therefore a tweet containing the word *ablaze* can indicate an emergency or not, depending on its intended meaning.
+The tweet on the left-hand side uses the second meaning of *ablaze*, therefore is not about a disaster. However, the other tweet uses its first meaning and talks about a disaster.
+
+<img src="./images/tweets.png" alt="emergency.jpeg" width="60%"/> \
+Figure 1: Two tweets using the word ablaze with different meanings.
 
 
 ## Project Timeline
-
-
-
 
 ### Week 1
 
@@ -129,15 +134,9 @@ DataLab 2, Goal(s):
 
 ### Week 4
 
-
-
 DataLab 1, Prep and Goal(s):
 
-
-
 DataLab 2, Prep and Goal(s):
-
-
 
 __Formative feedback II__
 
@@ -146,20 +145,14 @@ __Formative feedback II__
 
 DataLab 1, Prep and Goal(s):
 
-
-
 DataLab 2, Prep and Goal(s):
 
 
 ### Week 6
 
-
 DataLab 1, Prep and Goal(s):
 
-
-
 DataLab 2, Prep and Goal(s):
-
 
 __Formative feedback III__
 
@@ -168,12 +161,16 @@ __Formative feedback III__
 
 DataLab 1, Prep and Goal(s):
 
-
-
 DataLab 2, Prep and Goal(s):
+Final day of Kaggle submissions
 
 ### Week 8 
 
+DataLab 1, Prep and Goal(s):
+Kaggle team submission
+
+DataLab 2, Prep and Goal(s):
+Presentation of Kaggle solutions
 
 ## Project Requirements
 Consider each of these task as mandatory to complete your project:
@@ -215,8 +212,11 @@ __Individual:__
 
 ## Medal Challenges 
 
-The medal courses for this block have been specifically selected to help boost your portfolio and extend your knowledge and expertise. You may also finish them after the initial deadline!
+The medal courses for this block have been specifically selected to help boost your portfolio and extend your knowledge and expertise.
 
 ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=bronzemedal) ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=silvermedal) ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=goldmedal)
+
+<img src="./images/medals.png" alt="medals.png" width="60%"/>
+
 
 *** 

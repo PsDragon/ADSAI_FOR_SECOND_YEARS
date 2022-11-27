@@ -207,7 +207,14 @@ ___●	Catch the Error and Correct the Mistake #9___
 
 
 ***
-### 3. Additional resources
+
+### 3. DataLab preparation (Week 2, DataLab 2)
+
+During the next DataLab, you are expected to start writing your report for the client. For this purpose, please download this file __astname_firstname_studentNumber_Year1BlockBReport__ from your GitHub repository (Report) and rename it using your name and student number. Additionally, include the APA title page created on Tuesday inside the template downloaded from GitHub. Make the APA title page to be the second page of your document.  
+
+You will be using this template for your final report.  
+
+### 4. Additional resources
 
 There are several useful resources provided by our university and [Purdue Owl](https://owl.purdue.edu/index.html). You can find them by clicking links below: 
 

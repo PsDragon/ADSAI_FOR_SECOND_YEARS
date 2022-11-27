@@ -32,22 +32,36 @@ __1b__ Answer the following questions:
 ## 2) Review study material (Week 2) & the Q&A (9:30-10:00)
 
 For details regarding prerequisites, contact your mentor. 
+The review session/q&a will take place at Fe 1.013.
 
 ## 3) Presentations on Twitter and GDPR
 
-Make groups of 5 peers within your mentor groups and present your findings to each other. Once the presentations are done, discuss your findings in the group and give each other feedback on the research findings. Thus, you need to open your notes file and take notes. Note down all valuable feedback in your notes file and upload it to your GitHub repository once finished and reference it in your learning log for this week. 
+Make groups of 5 peers within your mentor groups and present your findings on scraping data from Twitter to each other. Once the presentations are done, discuss your findings in the group and give each other feedback on the research findings. Thus, you need to open your notes file and take notes. Note down all valuable feedback in your notes file and upload it to your GitHub repository once finished and reference it in your learning log for this week. 
 Additionally, do not hesitate to take notes about the research findings of others. Perhaps there is some nice/interesting information that you can include in your final report. But make sure to check the sources/references of research findings of peers to avoid mistakes and misunderstandings.
 
-## 4) Read Nielson’s paper
+## 4) Research and presentations on Twitter and API
+
+Conduct research on the usage of Twitters API. Make groups of 5 peers within your mentor groups and present your findings to each other. 
+
+## 5) Check the following policies and answer questions stated below
+
+[Twitter Terms of Service](https://twitter.com/en/tos)
+
+[Developer Policy](https://developer.twitter.com/en/developer-terms/policy) 
+
+- Is it allowed to scrape data from Twitter?
+
+- Who can use Twitter API and Twitter Content?
+
+## 6) Read Nielson’s paper
 
 You can find the paper by clicking [this link]( https://www.nielsen.com/wp-content/uploads/sites/2/2019/04/using-machine-learning-to-predict-future-tv-ratings.pdf) . 
 
-## 5) Work on the assignment
+## 7) Work on the assignment
 
-During the last DataLab, you had a chance to visit the office of Banijay and ask them questions about companies’ ethical behavior. So now you are advised to use the rest of the time (before the guest lecture) to work on your ethics paper and write about companies ethical practices ( make sure to check [the Data Governance and Ethis part](https://adsai.buas.nl/Project%20Requirements/DataGovernanceRequirements.html) of your final assignment)
+During the last DataLab, you had a chance to visit the office of Banijay and ask them questions about companies’ ethical behavior. So now you are advised to use the rest of the time (before the guest lecture) to work on your ethics paper and write about companies ethical practices ( make sure to check [the Data Governance and Ethis part](https://adsai.buas.nl/Year1/BlockB/Project%20Requirements/DataGovernanceRequirements.html) of your final assignment).
 
-
-## 6) Guest lecture by Dasha Simons
+## 8) Guest lecture by Dasha Simons
 
 The guest lecture is scheduled from 16:00 till 17:00 at Fe 1.018.
 

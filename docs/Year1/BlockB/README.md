@@ -84,20 +84,19 @@ Especially for this occasion, we arranged transportation from you. Please be sha
 # Week 3 : Python for Data Analysis
 
 ## Monday
-- [Python: Pandas](../../Study%20Content/Programming/6.Getting%20Started%20with%20Pandas.html)
+- [Python: Advanced Pandas](../../Study%20Content/Programming/9.Advanced%20Pandas.html)
 
 ## Tuesday
-- [Python: Matplotlib](../../Study%20Content/Programming/12.Data%20visualization%20in%20Python.html)
-- [Python: Numpy](../../Study%20Content/Programming/7.Python%20Numpy.html)
+- [Python: Data Visualization](../../Study%20Content/Programming/10.Data%20visualization%20in%20Python.html)
 
 ## Wednesday
-- [DataLab: Python data types & data structures](../../Study%20Content/Programming/8.DataLabPR2.html)
+- [DataLab: Creative Brief](../../Study%20Content/Programming/11.DataLabPR3.html)
 
 ## Thursday
-- [Python: Data Science and Society](../../Study%20Content/Programming/7.Python%20Numpy.html)
+- [Python: Data Science and Society](../../Study%20Content/Programming/12.Python%20for%20Society.html)
 
 ## Friday
-- [DataLab: Data Science and Society](../../Study%20Content/Programming/8.DataLabPR2.html)
+- [DataLab: Data Science and Society](../../Study%20Content/Programming/13.DataLabPR4.html)
 - **Formative Feedback II**
 
 # Week 4 : Machine Learning

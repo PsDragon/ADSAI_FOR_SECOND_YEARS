@@ -12,7 +12,6 @@ After this module, you will be able to:
 - [ ] Describe the general architecture of a CNN-based object detection model
 - [ ] Explain the process of multitask learning, and describe its advantages/limitations, in the context of object detection
 - [ ] Explain the concepts of sliding windows, Region Proposal (Network), Intersection over Union (IoU), Non-Maximum Suppression (NMS), and anchor boxes
-- [ ] Define the performance metric Mean Absolute Precision (mAP) metric, and explain its use in object detection
 
 ## 1. Object detection: Specific vs. Generic
 
@@ -41,7 +40,7 @@ In general, an object detection model consists of two parts; a backbone and a he
 Brainteaser 2: What could be a benefit of using a pre-trained model, such as VGG16, as a backbone for detection model?
 </div>
 
-For more information on the architecture of images classification model, - i.e., the backbone of object detection, see the blog post [An Introduction to Convolutional Neural Network Architecture](https://programmathically.com/deep-learning-architectures-for-image-classification-lenet-vs-alexnet-vs-vgg/) by Sebastian Kirsch. 
+For more information on the architectures of image classification models, - i.e., the backbone of object detection, see the blog post [An Introduction to Convolutional Neural Network Architecture](https://programmathically.com/deep-learning-architectures-for-image-classification-lenet-vs-alexnet-vs-vgg/) by Sebastian Kirsch. 
 
 Need a recap on the architecture of CNNs? Check out the following blog posts by Sebastian Kirsch:
 
@@ -71,7 +70,7 @@ For a detailed explanation of multitask learning in the context of object detect
 
 *Video 1. CS 152 NN—16: Multi task Learning.*
 
-#### 2.2.1 Intersection over Union (IoU)
+#### 2.1.1 Intersection over Union (IoU)
 
 Okay, but how do we know if our bounding box predictions are correct? To evaluate the accuracy of the bounding box predictions, we use the cost function MSE (commonly used for L2 loss), but we can also apply a technique called [Intersection over Union (IoU)](https://www.pyimagesearch.com/2016/11/07/intersection-over-union-iou-for-object-detection/). 
 
@@ -93,7 +92,7 @@ Brainteaser 4: What is the effect of using a lower/higher IoU threshold on the p
 
 ### 2.2 Naive approach: Sliding windows
 
-Unfortunately, in many cases, we do not precisely know how many objects an image or video frame will contain. For example, when we want to count the number of vehicles crossing a specific road section, we cannot accurately predict how many of them will be in a particular video frame. For example, the vehicle's speed (partially) determines the number of objects in one frame; a car moving at 80 km/h will be in fewer frames than a vehicle moving at 120 km/h. 
+Unfortunately, in many cases, we do not precisely know how many objects an image or video frame will contain. For example, when we want to count the number of vehicles crossing a specific road section, we cannot accurately predict how many of them will be in a particular video frame. For example, the vehicle's speed (partially) determines the number of objects in one frame; a car moving at 80 km/h will be in more frames than a vehicle moving at 120 km/h. 
 
 <img src="./images/ObjectDetectionCounting.gif" width="600"/>
 
@@ -118,9 +117,13 @@ Brainteaser 6: What is the benefit/drawback of having a small stride (i.e., the 
 
 The sliding window approach is very computationally expensive, especially when your stride value is small and/or the size of the window is small, because the model will output a large number of bounding boxes. In addition, many of the bounding boxes will be overlapping, which makes it difficult to determine which bounding box is the correct one. To solve this problem, we use an algorithm called [Non-Maximum Suppression (NMS)](https://www.pyimagesearch.com/2014/11/17/non-maximum-suppression-object-detection-python/).
 
+<img src="./images/NonMaximumSupression.png" alt="Non-Maximum Suppression" width="800"/>
+
+*Figure 7. Non-Maximum Suppression.*
+
 To implement NMS you need to follow the following procedure:
 
-> Sort all the bounding boxes by confidence score. Discard boxes with low confidence scores. While there is any remaining bounding box, repeat the following: Greedily select the one with the highest score. Skip the remaining boxes with high IoU (i.e. > 0.5) with previously selected one ([Source](https://lilianweng.github.io/posts/2017-12-31-object-recognition-part-3/)).
+> 1. Select the bounding box 'a' with the highest confidence score. <br> 2. Compare the proposal 'a' with the highest confidence with every other proposal by calculating the intersection over union. <br> 3. If the overlap between 'a' and the other proposal is higher than a chosen threshold, remove the other proposal. <br> 4. Next, you choose the box with the highest confidence score out of the remaining boxes and repeat the process until no more boxes are left ([Source](https://programmathically.com/foundations-of-deep-learning-for-object-detection-from-sliding-windows-to-anchor-boxes/)).
 
 Still unclear? Watch the video below:
 
@@ -128,45 +131,98 @@ Still unclear? Watch the video below:
 
 *Video 3. C4W3L07 Nonmax Suppression.*
 
+#### 2.2.2 Anchor boxes
+ 
+What are anchor boxes?
+
+<img src="./images/AnchorBoxes.jpg" alt="Two anchor boxes" width="350"/>
+
+*Figure 8. Two anchor boxes.*
+
+> The term anchor boxes refers to a predefined collection of boxes with widths and heights chosen to match the widths and heights of objects in a dataset. The proposed anchor boxes encompass the possible combination of object sizes that could be found in a dataset. This should naturally include varying aspect ratios and scales present in the data. It is typical to select between 4-10 anchor boxes to use as proposals over various locations in the image ([Source](https://www.wovenware.com/blog/2020/06/anchor-boxes-in-object-detection-when-where-and-how-to-propose-them-for-deep-learning-apps/)).
+
+... and why should we use them?
+
+The sliding windows approach only allows for one object per window. However, in many cases, we want to detect multiple objects in a single window. For example, when we want to detect our consumer goods in an image, we want to detect all the objects present in a single window. To solve this problem, we can use anchor boxes:
+
+<iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/RTlwl2bv0Tg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*Video 4. C4W3L08 Anchor Boxes.*
+
+For more information regarding anchor boxes, see the article [Anchor Boxes for Object Detection](https://www.mathworks.com/help/vision/ug/anchor-boxes-for-object-detection.html).
+
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;">
+Brainteaser 7: To detect many small objects in an image, would it be better to use a small number of anchor boxes or a large number of anchor boxes?
+</div>
+
 ### 2.3 Two-stage approach: R-CNN
 
 A better way to perform object detection is to use a two-stage approach. In this approach, we first use a region proposal algorithm to generate a set of candidate bounding boxes (number of potential regions: 1-infinity, 'sparse' detector). Then, we extract features from each of the candidate bounding boxes. Lastly, we refine the bounding box coordinates, and use a classifier to determine if the candidate bounding box contains an object belonging to one of the predefined classes. 
 
+Advantages/Disadvantages of the two-stage approach:
+
+(+) High performance <br>
+(+) Easily extendable to instance-based tasks (e.g., semantic segmentation; [Mask R-CNN](https://arxiv.org/abs/1703.06870)) <br>
+(-) Slow (particularly, the first two generations; R-CNN and Fast R-CNN)
+
 #### 2.3.1 Region proposals
 
-So how do we generate a set of candidate bounding boxes? We can use a region proposal algorithm, such as [Selective Search](https://paperswithcode.com/method/selective-search) or a region proposal network (RPN). The RPN is a neural network that generates a set of candidate bounding boxes. The RPN is trained to maximize the probability of generating a bounding box that contains an object belonging to one of the predefined classes.
+So how do we generate a set of candidate bounding boxes? We can use a region proposal algorithm, such as Selective Search or a Region Proposal Network (RPN). The RPN is a neural network that generates a set of candidate bounding boxes. It is trained to maximize the probability of generating a bounding box that contains an object belonging to one of the predefined classes.
 
 <iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/6ykvU9WuIws" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Video 4. C4W3L07 Region Proposals.*
+*Video 5. C4W3L07 Region Proposals.*
 
 #### 2.3.2 Family of R-CNN models
 
 There are three main variants of Region-based Convolutional Neural Network (R-CNN), each attempting to improve (a part of) the processes described above:
 
-- R-CNN
-
-<img src="./images/R-CNN.png" alt="R-CNN" width="800"/>
-
-*Figure 7. The architecture of R-CNN.*
+- [R-CNN](https://arxiv.org/abs/1311.2524)
 
 > The R-CNN detector first generates region proposals using an algorithm such as Edge Boxes. The proposal regions are cropped out of the image and resized. Then, the CNN classifies the cropped and resized regions. Finally, the region proposal bounding boxes are refined by a support vector machine (SVM) that is trained using CNN features ([Source](https://www.mathworks.com/help/vision/ug/getting-started-with-r-cnn-fast-r-cnn-and-faster-r-cnn.html)).
 
-- Fast R-CNN
+<img src="./images/R-CNN.png" alt="R-CNN" width="800"/>
+
+*Figure 9. The architecture of R-CNN.*
+
+Model workflow:
+
+> <ul> 1. Pre-train a CNN network on image classification tasks; for example, VGG or ResNet trained on ImageNet dataset. The classification task involves N classes. <br> 2. Propose category-independent regions of interest by Selective Search (~2k candidates per image). Those regions may contain target objects and they are of different sizes. <br> 3. Region candidates are warped to have a fixed size as required by CNN. <br> 4. Continue fine-tuning the CNN on warped proposal regions for K + 1 classes; The additional one class refers to the background (no object of interest). In the fine-tuning stage, we should use a much smaller learning rate and the mini-batch oversamples the positive cases because most proposed regions are just background. <br> 5. Given every image region, one forward propagation through the CNN generates a feature vector. This feature vector is then consumed by a binary SVM trained for each class independently. The positive samples are proposed regions with IoU (Intersection over Union) overlap threshold >= 0.3, and negative samples are irrelevant others. <br> 6. To reduce the localization errors, a regression model is trained to correct the predicted detection window on bounding box correction offset using CNN features. </ul> <br>
+([Source](https://lilianweng.github.io/posts/2017-12-31-object-recognition-part-3/))
+
+You might have noticed from the above workflow that the R-CNN model is very computationally expensive. This is because the model needs to propose 2000 candidate regions for every image, and subsequently has to generate a CNN feature vector for each of these regions. In addition, the model is comprised by three separate models: a CNN for image classification and feature extraction, a Support Vector Machine (SVM) model for classifying the objects, and a bounding box regression model for localizing the objects. 
+
+- [Fast R-CNN](https://arxiv.org/abs/1504.08083)
+
+> <ul> As in the R-CNN detector, the Fast R-CNN detector also uses an algorithm like Edge Boxes to generate region proposals. Unlike the R-CNN detector, which crops and resizes region proposals, the Fast R-CNN detector processes the entire image. Whereas an R-CNN detector must classify each region, Fast R-CNN pools CNN features corresponding to each region proposal. Fast R-CNN is more efficient than R-CNN, because in the Fast R-CNN detector, the computations for overlapping regions are shared. </ul> <br>
+([Source](https://www.mathworks.com/help/vision/ug/getting-started-with-r-cnn-fast-r-cnn-and-faster-r-cnn.html))
 
 <img src="./images/FastR-CNN.png" alt="Fast R-CNN" width="800"/>
 
-*Figure 8. The architecture of Fast R-CNN.*
+*Figure 10. The architecture of Fast R-CNN.*
 
-> As in the R-CNN detector, the Fast R-CNN detector also uses an algorithm like Edge Boxes to generate region proposals. Unlike the R-CNN detector, which crops and resizes region proposals, the Fast R-CNN detector processes the entire image. Whereas an R-CNN detector must classify each region, Fast R-CNN pools CNN features corresponding to each region proposal. Fast R-CNN is more efficient than R-CNN, because in the Fast R-CNN detector, the computations for overlapping regions are shared ([Source](https://www.mathworks.com/help/vision/ug/getting-started-with-r-cnn-fast-r-cnn-and-faster-r-cnn.html)).
+Model workflow:
 
-- Faster R-CNN
+> <ul> 1. First, pre-train a convolutional neural network on image classification tasks. <br> 2. Propose regions by selective search (~2k candidates per image). <br> 3. Alter the pre-trained CNN: <li> Replace the last max pooling layer of the pre-trained CNN with a RoI pooling layer. The RoI pooling layer outputs fixed-length feature vectors of region proposals. Sharing the CNN computation makes a lot of sense, as many region proposals of the same images are highly overlapped. <li> Replace the last fully connected layer and the last softmax layer (K classes) with a fully connected layer and softmax over K + 1 classes. <br> 4. Finally the model branches into two output layers: A softmax estimator of K + 1 classes (same as in R-CNN, +1 is the "background" class), outputting a discrete probability distribution per RoI. A bounding-box regression model which predicts offsets relative to the original RoI for each of K classes. </ul> 
+([Source](https://lilianweng.github.io/posts/2017-12-31-object-recognition-part-3/))
+
+This new implementation, Fast R-CNN, is definitely faster than the R-CNN model. However, the improvement is not as significant as we would have hoped. This is because the region proposals are still generated by a separate model, which increases the computational cost. 
+
+- [Faster R-CNN](https://arxiv.org/abs/1506.01497)
+
+> <ul> The Faster R-CNN detector adds a region proposal network (RPN) to generate region proposals directly in the network instead of using an external algorithm like Edge Boxes. The RPN uses Anchor Boxes for Object Detection. Generating region proposals in the network is faster and better tuned to your data. </ul> 
+([Source](https://www.mathworks.com/help/vision/ug/getting-started-with-r-cnn-fast-r-cnn-and-faster-r-cnn.html))
 
 <img src="./images/FasterR-CNN.png" alt="Faster R-CNN" width="800"/>
 
-*Figure 9. The architecture of Faster R-CNN.*
+*Figure 11. The architecture of Faster R-CNN.*
 
-> The Faster R-CNN detector adds a region proposal network (RPN) to generate region proposals directly in the network instead of using an external algorithm like Edge Boxes. The RPN uses Anchor Boxes for Object Detection. Generating region proposals in the network is faster and better tuned to your data ([Source](https://www.mathworks.com/help/vision/ug/getting-started-with-r-cnn-fast-r-cnn-and-faster-r-cnn.html)).
+Model workflow:
+
+> <ul> 1. Pre-train a CNN network on image classification tasks. <br> 2. Fine-tune the RPN (Region Proposal Network) end-to-end for the region proposal task, which is initialized by the pre-train image classifier. Positive samples have IoU (Intersection over Union) > 0.7, while negative samples have IoU < 0.3. <li> Slide a small N x N spatial window over the conv feature map of the entire image. <li> At the center of each sliding window, we predict multiple regions of various scales and ratios simultaneously. An anchor is a combinatin of (sliding window center, scale, ratio). For example, 3 scales + 3 ratios => k=9 anchors at each sliding position. <br> 3. Train a Fast R-CNN object detection model using the proposals generated by the current RPN <br> 4. Then use the Fast R-CNN network to initialize RPN training. While keeping the shared convolutional layers, only fine-tune the RPN-specific layers. At this stage, RPN and the detection network have shared convolutional layers! <br>  5. Finally fine-tune the unique layers of Fast R-CNN. <br> 6. Step 4-5 can be repeated to train RPN and Fast R-CNN alternatively if needed. </ul> <br>
+([Source](https://lilianweng.github.io/posts/2017-12-31-object-recognition-part-3/))
+
+Faster R-CNN is significantly faster than the previous models because it generates the region proposals directly in the network.
 
 For more information regarding the R-CNN family, check out the following resources:
 
@@ -180,40 +236,41 @@ But why use a two stage approach when we can use more an more efficient one stag
 
 <img src="./images/YOLOOverview.png" alt="Overview of the YOLO algorithm" width="1000"/>
 
-*Figure 10. Overview of the YOLO algorithm.*
+*Figure 12. Overview of the YOLOv1 algorithm.*
 
-This approach is relatively simple and fast, but it is less accurate than the detectors of the R-CNN family. Currently, it is the most popular approach for object detection.
+Advantages/Disadvantages of the one-stage approach:
+
+(+) Faster, especially regarding inference, compared to the two-stage approaches <br>
+(-) Struggles to detect small objects, especially when they are spatially flocked together, due to the low resolution of feature maps, compared to the two-stage approaches <br>
+(-) Less accurate compared to the two-stage approaches <br>
 
 <iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/9s_FpMpdYW8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Video 5. C4W3L08 YOLO algorithm.*
+*Video 6. C4W3L08 YOLO algorithm.*
 
-#### 2.4.1 Anchor boxes
+Model workflow (i.e., YOLOv1):
 
-<iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/RTlwl2bv0Tg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <ul> 1. Pre-train a CNN network on image classification task. <br> 2. Split an image into S x S cells. If an object’s center falls into a cell, that cell is "responsible" for detecting the existence of that object. Each cell predicts (a) the location of B bounding boxes, (b) a confidence score, and (c) a probability of object class conditioned on the existence of an object in the bounding box. <li> The coordinates of bounding box are defined by a tuple of 4 values, (center x-coord, center y-coord, width, height) — (x, y, w, h), where x and y are set to be offset of a cell location. Moreover, x, y, w and h are normalized by the image width and height, and thus all between [0, 1]. <li> A confidence score indicates the likelihood that the cell contains an object: Pr(containing an object) x IoU(pred, truth); where Pr = probability and IoU = Intersection over Union. <li> If the cell contains an object, it predicts a probability of this object belonging to every class Ci,i = 1,...,K: Pr(The object belongs to the class C_i | containing an object). At this stage, the model only predicts one set of class probabilities per cell, regardless of the number of bounding boxes, B. <li>> In total, one image contains S x S x B bounding boxes, each box corresponding to 4 location predictions, 1 confidence score, and K conditional probabilities for object classification. The total prediction values for one image is S x S x (5B + K), which is the tensor shape of the final convolutional layer of the model. <br> 3. The final layer of the pre-trained CNN is modified to output a prediction tensor of size. </ul> <br>
+([Source](https://lilianweng.github.io/posts/2018-12-27-object-recognition-part-4/))
 
-*Video 6. C4W3L08 Anchor Boxes.*
+#### 2.4.1 Family of YOLO models
 
-For more information regarding anchor boxes, see the article [Anchor Boxes for Object Detection](https://www.mathworks.com/help/vision/ug/anchor-boxes-for-object-detection.html).
+There are many variants of the YOLO algorithm. Each of them have a slightly different architecture. Some notable ones are:
 
-#### 2.4.2 Family of YOLO models
-
-There are many variants of the YOLO algorithm. Each of them have a slightly different architecture. Some popular ones are:
-
-- YOLOv1
-- YOLOv3
-- YOLOv5
-- PP-YOLO
+- [YOLOv1](https://arxiv.org/abs/1506.02640)
+- [YOLOv3](https://arxiv.org/abs/1804.02767)
+- [YOLOv5](https://docs.ultralytics.com/)
+- [PP-YOLO](https://arxiv.org/abs/2007.12099)
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;">
-Brainteaser 7a: Does YOLO actually look only 'once'? <br>
-Brainteaser 7b: Can you think of a computer vision task where YOLO would be a better fit than R-CNN?
+Brainteaser 8a: Does YOLO actually look only 'once'? <br>
+Brainteaser 8b: Can you think of a computer vision task where YOLO would be a better fit than R-CNN?
 </div>
 
-For more information regarding the YOLO family, see [Object Detection Part 4: Fast Detection Models](https://lilianweng.github.io/posts/2018-12-27-object-recognition-part-4/).
+For more information regarding the YOLO family, see [Object Detection Part 4: Fast Detection Models](https://lilianweng.github.io/posts/2018-12-27-object-recognition-part-4/), [Your Comprehensive Guide to the YOLO Family of Models](https://blog.roboflow.com/guide-to-yolo-models/), and [YOLO Object Detection Explained](https://www.datacamp.com/blog/yolo-object-detection-explained). 
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #a94442; background-color: #f2dede; border-color: #ebccd1;">
-Alert: In week 3, we will discuss some of the theory behind the deep learning based object detection algorithms in DataLab.
+Alert: In DataLab (Week 3), we will discuss some of the theory behind the deep learning based object detection algorithms.
 </div>
 
 ***
@@ -222,7 +279,6 @@ Alert: In week 3, we will discuss some of the theory behind the deep learning ba
 
 Do you want a more in-depth explanation of the topics discussed in this GitHub page? Check out the following resources:
 
-- [Foundations of Deep Learning for Object Detection: From Sliding Windows to Anchor Boxes](https://programmathically.com/foundations-of-deep-learning-for-object-detection-from-sliding-windows-to-anchor-boxes/)
 - [Deep Learning Architectures for Object Detection: Yolo vs. SSD vs. RCNN](https://programmathically.com/deep-learning-architectures-for-object-detection-yolo-vs-ssd-vs-rcnn/)
 - [Deep Learning for Generic Object Detection: A Survey](https://link.springer.com/content/pdf/10.1007/s11263-019-01247-4.pdf)
 

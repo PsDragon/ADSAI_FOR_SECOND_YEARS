@@ -57,7 +57,7 @@ A grid search is a method of searching through a manually specified subset of th
 
 __Advantages/Disadvantages of using grid search:__
 
-(+) It eventually will find the best hyperparameter settings for a given model <br>
+(+) It eventually will find the best hyperparameter settings for a given algorithm and dataset <br>
 (-) It is computationally expensive, especially if the hyperparameter space is large, because it searches through all possible hyperparameter combinations 
 
 ### 2.2 Random search
@@ -69,7 +69,7 @@ In contrast to grid search, which exhaustively tests all the hyperparameter comb
 __Advantages/Disadvantages of using grid search:__
     
 (+) It is computationally efficient, because it searches through a random subset of the hyperparameter space <br>
-(-) It does not guarantee to find the best hyperparameter settings for a given model if the number of runs is < 60
+(-) It does not guarantee to find the best hyperparameter settings for a given algorithm and dataset if the number of runs is < 60
 
 All in all, random search is a good starting point for hyperparameter tuning. It is computationally efficient and can be used to narrow down the hyperparameter space ('Course to fine', Andrew ng). 
 
@@ -89,15 +89,15 @@ Let us take a closer look at some of the hyperparameters that are commonly optim
 
 Weight decay is a regularization technique that is used to prevent [overfitting](https://www.ibm.com/cloud/learn/overfitting). 
 
-<img src="./images/Overfitting.jpg" alt="Overfitting vs. Underfitting" width="600"/>
-
-*Figure 2. Overfitting vs. Underfitting.*
-
-It is also known as L2 regularization or Ridge regression. Weight decay adds a penalty term to the loss function, which is proportional to the square of the magnitude of the weights. By doing so, it penalizes larger weights more severely than smaller weights, reducing the variance. 
-
 <img src="./images/BiasVariance.jpg" alt="Overview of bias and variance in machine learning" width="800"/>
 
-*Figure 3. Overview of bias and variance in machine learning.*
+*Figure 2. Overview of bias and variance in machine learning.*
+
+It is also known as L2 regularization or Ridge regression. Weight decay adds a penalty term to the loss function, which is proportional to the square of the magnitude of the weights. By doing so, it penalizes larger weights more severely than smaller weights, reducing the variance. To determine the overall impact of the penalty term, the hyperparameter $\lambda$ ('lambda') is used. A high value of $\lambda$ leads to a high degree of regularization (i.e., smaller weights, approaching 0.0 --> be aware of underfitting), whereas a low value of $\lambda$ leads to a low degree of regularization (i.e., larger weights --> be aware of overfitting).
+
+<img src="./images/OverfittingUnderfitting.png" alt="Effect of lambda on train and test error" width="600"/>
+
+*Figure 2. Effect of lambda on train and test error.*
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #31708f; background-color: #d9edf7; border-color: #bce8f1;">
 Brainteaser 2: Can explain why overfitting is linked to high variance and underfitting is linked to high bias?
@@ -111,17 +111,15 @@ The learning rate is a hyperparameter that controls how much the weights are upd
 
 <iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/IHZwWFHWa-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Video 4. Gradient descent, how neural networks learn | Chapter 2, Deep learning.*
+*Video 4. Gradient descent, how neural networks learn, Chapter 2, Deep learning.*
 
 ### 3.3 Momentum
 
 > Training a neural network can be made easier with the addition of history to the weight update. Specifically, an exponentially weighted average of the prior updates to the weight can be included when the weights are updated. This change to stochastic gradient descent is called 'momentum' and adds inertia to the update procedure, causing many past updates in one direction to continue in that direction in the future ([Source](https://machinelearningmastery.com/learning-rate-for-deep-learning-neural-networks/)).
 
-__Okay, that sounds rather complex... Luckily, the intuition behind the hyperparameter momentum is quite straight forward:__
+__Okay, that sounds rather complex... Luckily, the intuition behind the hyperparameter momentum is quite straight forward.__
 
-Imagine that you are trying to push a heavy box across the floor. If you push it with a constant force, it will take a long time to move it across the floor. However, if you push it with a constant force, but you also give it a little push in the direction that it is already moving, it will move much faster.
-
-For a more in-depth explanation, watch the following video by the famous AI researcher [Geoffrey Hinton](https://research.google/people/GeoffreyHinton/):
+Please, watch the following video by the famous AI researcher [Geoffrey Hinton](https://research.google/people/GeoffreyHinton/):
 
 <iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/LdkkZglLZ0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

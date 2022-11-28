@@ -138,6 +138,7 @@ Make sure that you completed the independent-study on [Traditional computer visi
 
 - [DL computer vision I: Theory](../../Study%20Content/ComputerVision/DLComputerVision1a.html)
 - [DL computer vision II: Application](../../Study%20Content/ComputerVision/DLComputerVision1b.html)
+- [DL computer vision III: Hyperparameter tuning](../../Study%20Content/ComputerVision/ComputerVisionHyperparameterTuning.html)
 
 #### <mark>DataLab (individual)</mark>
 
@@ -152,6 +153,7 @@ DataLab 1, Goal(s):
 DataLab 2, Goal(s):
  
 - [ ] Builds, (trains), and evaluates a traditional and DL object detection model on the real-life data ('difficult' object detection task)
+- [ ] Optimize the hyperparameters of the DL object detection model on the real-life data ('difficult' object detection task)
 - [ ] Compares and contrasts traditional and DL object detection techniques, and subsequently determines which implementation, - i.e, object detection model, provides the best performance on the real-life data ('difficult' object detection task)
 
 ### Week 4

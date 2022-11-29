@@ -32,6 +32,19 @@ With a view to enabling Banijay’s stakeholders to achieve the desired TV ratin
 - [Data Pre-processing and Analysis](../BlockB/Project%20Requirements/MachineLearningRequirements.html){:target="_blank"}
 - [Report](../BlockB/Project%20Requirements/ReportRequirements.html){:target="_blank"}
 
+## Medal Challenges
+
+All students will be required to submit their findings using a report in **week 8, Friday 20th January 2023.**
+
+After assessment, the top 3 presentations will be selected and the responsible students will have the opportunity to present it on **Wednesday 8th February** to the ADS&AI mentors, all the first year and second year students, and stakeholders from Banijay who will provide them with feedback.
+
+GitHub Medals will be awarded will be awarded with the following criteria:
+
+![#CD7F32](https://placehold.co/15x15/cd7f32/cd7f32.png) Finding additional data that adds insight.<br>
+![#C0C0C0](https://placehold.co/15x15/C0C0C0/C0C0C0.png) Building a ETL data pipeline and reporting application. <br>
+![#FFD700](https://placehold.co/15x15/FFD700/FFD700.png) Being in the top 3 selected to present to Banijay. 
+
+
 # Block Outline
 
 # Week 1: Programming in Python 

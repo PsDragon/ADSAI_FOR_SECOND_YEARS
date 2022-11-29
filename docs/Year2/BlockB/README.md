@@ -160,8 +160,8 @@ DataLab 2, Goal(s):
 
 In week 4 we will start diving into the world of robotics so that we can eventually apply our object detection models to a practical use case. By the end of the week you will have a good understanding of the basics of robotic simulation and how to use it to create a baseline controller enabling a robotic arm to stack boxes in virtual environment.
 
-- [Robotics I: Intro and Applications](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/4.%20Robotics%20I.html)
-- [Robotics I: Co-ordinate Systems](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/4.%20Robotics%20I.html)
+- [Robotics I: Intro, Applications, and Components](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/4.%20Robotics%20I.html)
+- [Robotics Ib: Co-ordinate Systems, Degrees of Freedom, and Work Envelopes](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/4.1%20Robotics%20Ib.html)
 - [Robotics II: Control Systems](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/5.%20Robotics%20II.html)
 - [Robotics II: Practical Example](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/5.%20Robotics%20II.html)
 - [Robotics III: Robotic Simulation](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/6.%20Robotics%20III.html)

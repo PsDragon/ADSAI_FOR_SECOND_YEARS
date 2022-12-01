@@ -72,13 +72,13 @@ Generally speaking, the test set and the training set are from the same dataset.
 
 <mark>To summarize, Machine learning is the art of developing algorithms to exploit patterns in existing data to accurately make predictions on brand new data.</mark> 
 
+:pencil: Q6. Do you agree with the statement that machine learning is an art? Please justify your answer.<br>
+
 > While distinguishing between images of cats and dogs may seem trivially easy for a human and you may be wondering why even bother, developing a machine learning algorithm to do this is a pretty difficult task. Here's an example of a state of the art machine learning algorithm that can distinguish between images of cats and dogs with a very high accuracy.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nq7_ZYJPWf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 > The above video shows a machine learning algorithm that can distinguish between images of cats and dogs using a class of machine learning algorithms known as ```Convolutional Neural Networks (CNNs)```. We will learn more about CNNs in block C. But please note that irrespective of how complex the problem and the algorithm, we are still very much in the business of finding patterns in a training set and using those patterns to make predictions on a test set.
-
-:pencil: Q6. Do you agree with the statement that machine learning is an art? Please justify your answer.<br>
 
 
 ## Types of Machine Learning Algorithms
@@ -89,13 +89,14 @@ In the previous section, we learned that Machine Learning is the art of developi
 
 Supervised learning is the most common type of machine learning. In supervised learning, the training set contains the correct answers for each example. The goal of the machine learning algorithm is to find patterns in the training set that can be used to predict the correct answer for new examples.
 
-## Unsupervised Learning
+### Unsupervised Learning
 
 Unsupervised learning is a type of machine learning where the training set does not contain the correct answers for each example. The goal of the machine learning algorithm is to find patterns in the training set that can be used to group the examples into different classes.
 
 Please watch the following video to learn more about supervised and unsupervised learning.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W01tIRP_Rqs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
 
 
 :pencil: Q6. You are asked to develop a machine learning system to predict if a given X-Ray image contains a tumour or not. Would you approach this problem with a supervised learning approach, or unsupervised. Please justify your choice of an answer.<br>

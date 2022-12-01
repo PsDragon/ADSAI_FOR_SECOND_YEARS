@@ -4,25 +4,16 @@ sort: 1
 
 # Machine Learning
 
+Welcome to the module on Machine Learning. In this module, first you will learn about the basics of Machine Learning and the different classes of Machine Learning algorithms. Next we will dive into the different types of Machine Learning algorithms in each class. Finally, you will learn how to implement, train, and test Machine Learning algorithms using Python, in particular using the ```scikit-learn``` library.
 
 
-We start our dive into machine learning in Python with a general introduction. What types of machine learning are there, and where can they be applied? Then, we continue with a workshop on machine learning from Codecademy, which will further introduce you to machine learning and highlight the differences between supervised and unsupervised learning. You'll then be introduced to a python package we'll be using for wrestling with machine learning analyses in Python this block.
+## Today's Learning Objectives:
 
-![Wrestling with python](https://img.bleacherreport.net/img/images/photos/001/827/636/jake_crop_north.jpg?1344284539&w=3072&h=2048)
+- [ ] Understand what is Machine Learning.
+- [ ] Understand the different classes of Machine Learning algorithms.
+- [ ] Implement a simple Machine Learning modelling pipeline using ```scikit-learn```.
 
-As you can see, wrestling with Python can be very enjoyable if you treat your code and models with affection.
-
-## 0) Learning Objectives:
-After this module you'll know the fundamental theory on, and how to use:
-1. supervised learning;
-2. unsupervised learning;
-3. scikit-learn.
-
-Table of contents:
-1. Introduction to machine learning: 1 hour
-2. Workshop on Supervised Vs Unsupervised Learning: 4 hours
-
-
+For today, you are expected to create a markdown file called ```IntroductionToMachineLearning.md``` in your ```Machine Learning``` folder in your Github repos. In this file, please answer the questions that pop-up (:pencil:) as you navigate the content below.
 
 ## Questions or issues?
 If you have any questions or issues regarding the course material, please first ask your peers or ask us in the Q&A in Datalab!
@@ -31,37 +22,99 @@ If you have any questions or issues regarding the course material, please first 
 Tip: Note down any important questions you might have in your notes document in the assignment folder!
  </div>
 
-Good luck!
+Good luck and enjoy your journey into the world of Machine Learning and AI!
 
 
-## 1) Introduction machine learning
-From spam filters and self-driving cars, to cutting edge medical diagnosis and real-time language translation, there has been an increasing need for our computers to learn from data and apply that knowledge to make predictions and decisions. This is the heart of machine learning which sits inside the more ambitious goal of artificial intelligence.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z-EtmaFJieY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## What is Machine Learning?
 
-Now, we're going to look towards the future at how machine learning is being used to build models to predict future outcomes. We'll discuss three popular types of supervised machine learning models: Logistic Regression, Linear discriminant Analysis (or LDA) and K Nearest Neighbors (or KNN).
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jmLid2x9eKg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Machine Learning is a subfield of Artificial Intelligence (AI) that focuses on the development of computer programs that can access data and use it to learn for themselves. Machine Learning is a very broad field and there are many different types of Machine Learning algorithms. From spam filters and self-driving cars, to cutting edge medical diagnosis and real-time language translation, there has been an increasing need for our computers to learn from data and apply that knowledge to make predictions and decisions. This is the heart of machine learning which sits inside the more ambitious goal of artificial intelligence. In simple terms, Machine Learning is the science of getting computers to make a prediction about an outcome without being explicitly programmed.
 
-Next, we're going to discuss how machine learning can be used to group and label information even if those labels don't exist. We'll explore two types of clustering used in Unsupervised Machine Learning: k-means and Hierarchical clustering, and show how they can be used in many ways - from book suggestions and medical interventions to giving people better deals on pizza!
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IUn8k5zSI6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Please watch the following video to learn more about Machine Learning and answer the questions that follow.
 
-## 2) Workshop on Supervised Vs Unsupervised Learning
-Now, we're introduced to the two flavours of machine learning it's time ground down these fundamental by doing a workshop. Open the [Basics of Machine Learning course](https://www.codecademy.com/learn/machine-learning) on Codecademy and complete the first module: **Introduction to Machine Learning**, in particular:
-- Lesson: Why Use Machine Learning?
-- Article: Supervised vs. unsupervised
-- Article: Scikit-Learn Cheatsheet
+<iframe width="560" height="315" src="https://www.youtube.com/embed/US2NMUfn1tQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## 3) Fun facts
-Here are some fun facts and interesting concepts for you to get familiar with! They are not part of the course or assessment but just good for you to know and helpful in your later career. You're familiar with correlation for example but you should have heard from the famous phrase: "correlation doesn't equal causation" when you watched [this video last block](https://youtu.be/GtV-VYdNt_g). But, watching a video and observing visualised data is different, why don't you follow this link and inspect [these spurious correlations](https://tylervigen.com/spurious-correlations) yourself? :)
+:pencil: Q1. What is Machine Learning? <br>
+:pencil: Q2. How is Machine Learning different from traditional programming?
 
-And you're familiar with regression but the world isn't always that simple and sometimes an effect is just an anomaly (something that deviates from what is standard, normal, or expected.)!
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1tSqSMOyNFE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Before we being with developing a solution based on Machine Learning, first we need to decide if the problem we are trying to solve requires machine learning or not. In simpler terms, when is Machine Learning useful? When is it not useful? Let's take a look at the following video to understand this better.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8nZCGG9IcMQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+:pencil: Q3. When is Machine Learning useful? Try to sumamrize the video in your own words, and give an example of a problem that can be solved using Machine Learning, and an example of a problem that can be solved using traditional programming
+
+You might have come across the term ```patterns``` in the video above. This raises the questions **What are patterns?** Are there some patterns that are better than others? 
+
+Let's start with a simple example. Suppose you are given a dataset of 1000 images of cats and dogs. You are asked to build a model that can classify an image as a cat or a dog. How would you go about doing this? 
+
+> The example images you use to train a machine learning algorithm is called the ```training set```. 
+
+One way to do this is to look at each image and try to find some patterns that can help you classify the image. For example, you might notice that the images of cats have a certain shape, size, and color, while the images of dogs have a different shape, size, and color. You might also notice that the images of cats have a certain background, while the images of dogs have a different background. These are some patterns that you can use to classify the images. In this example, the patterns that you found are very simple and easy to understand. However, in real life, the patterns that you will find are much more complex and difficult to understand. This is where Machine Learning comes in. Machine Learning algorithms can find these complex patterns for you. In the example above, the Machine Learning algorithm can find the patterns that you found, and much more. This is the power of Machine Learning.
+
+:pencil: Q4. In the example provided, one of the patterns mentioned is the background of the image. Do you feel that this is a useful pattern for AI to learn what distinguishes dogs from cats? If you had to choose one pattern that is most useful to learn what seperates dogs from cats, what would it be, and why?
+
+To understand more about the different types of patterns that Machine Learning algorithms can find, please watch the following video. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lOI0Gs_t6cQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+> A pattern is a regularity in the data. It is a characteristic that can be used to distinguish between different classes of data. In the coming days, we will learn about the different types of patterns that Machine Learning algorithms can find. You might have come across the term ```models``` in the video above. A model is machine learning terminology for a mathematical representation of a pattern. In the coming days, we will learn about the different types of models that Machine Learning algorithms can find.
+
+We have now seen that Machine Learning is the art of developing algorithms that can find patterns in data with the goal to predict an outcome. However, this raises the question **How do we know if the machine learning algorithm has found a good pattern?** In other words, how do we know if the algorithm has found a good model? Using the example of classifying images of cats and dogs, how much confidence do I have in the model to accurately classify an image it has never seen before as a cat or a dog? This is where the concept of ```evaluating``` machine learning comes in.
+
+Evaluating or Testing Machine Learning algorithms often requires the use of an additional source of data. This is termed the ```test set```. Generally speaking, the test set and the training set are from the same dataset. In the above example of classifying images of cats and dogs using 1000 images, we can split the dataset into two parts, a training set (800 images) and a test set (200 images). The training set will be used to train the machine learning algorithm, and the test set will be used to evaluate the performance of the machine learning algorithm.
+
+:pencil: Q5. What is the purpose of a test set, and can you think of any other way to evaluate the performance of a machine learning algorithm?
+
+<mark>To summarize, Machine learning is the art of developing algorithms to exploit patterns in existing data to accurately make predictions on brand new data.</mark> 
+
+> While distinguishing between images of cats and dogs may seem trivially easy for a human and you may be wondering why even bother, developing a machine learning algorithm to do this is a pretty difficult task. Here's an example of a state of the art machine learning algorithm that can distinguish between images of cats and dogs with a very high accuracy.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nq7_ZYJPWf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+> The above video shows a machine learning algorithm that can distinguish between images of cats and dogs using a class of machine learning algorithms known as ```Convolutional Neural Networks (CNNs)```. We will learn more about CNNs in block C. But please note that irrespective of how complex the problem and the algorithm, we are still very much in the business of finding patterns in a training set and using those patterns to make predictions on a test set.
+
+:pencil: Q6. Do you agree with the statement that machine learning is an art? Please justify your answer.<br>
+
+
+## Types of Machine Learning Algorithms
+
+In the previous section, we learned that Machine Learning is the art of developing algorithms. In this section, we will learn about the different types of Machine Learning algorithms.
+
+### Supervised Learning
+
+Supervised learning is the most common type of machine learning. In supervised learning, the training set contains the correct answers for each example. The goal of the machine learning algorithm is to find patterns in the training set that can be used to predict the correct answer for new examples.
+
+## Unsupervised Learning
+
+Unsupervised learning is a type of machine learning where the training set does not contain the correct answers for each example. The goal of the machine learning algorithm is to find patterns in the training set that can be used to group the examples into different classes.
+
+Please watch the following video to learn more about supervised and unsupervised learning.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W01tIRP_Rqs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+:pencil: Q6. You are asked to develop a machine learning system to predict if a given X-Ray image contains a tumour or not. Would you approach this problem with a supervised learning approach, or unsupervised. Please justify your choice of an answer.<br>
+
+## Reinforcement Learning
+
+Reinforcement learning is a type of machine learning where the machine learning algorithm learns by interacting with its environment. The goal of the machine learning algorithm is to find patterns in the training set that can be used to maximize the reward it receives from its environment.
+
+> Reinforcement learning is a very powerful type of machine learning commonly associated with Robotics. We will not be covering reinforcement learning in this course. You will learn more about reinforcement learning in Block B of Year 2. However, if you are interested in learning more about reinforcement learning, please watch the following video.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2xATEwcRpy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Fun fact
+
+One of the simpler patterns that machine learning algorithms try to exploit is the correlation. A correlation coefficient tells you something about how "the variables move together" i.e. does one variable change(increase/decrease) when the other variable changes (increases/decreases). For example, if you have a dataset of the number of hours a student studies and the final exam score, you can plot the data on a graph and see if there is a correlation between the number of hours studied and the final exam score. If there is a strong correlation, then you can use this pattern to predict the final exam score of a student based on the number of hours they study. This would still be an example of machine learning, but it would be a very simple example.
+
+:pencil: Q7. What is a correlation coefficient? What does it tell you about the relationship between two variables? <br>
+:pencil: Q8. Note down your high score in the [Guess the correlation](http://guessthecorrelation.com/) **in your mentor channel on teams**. Create a leaderboard and see who can get the highest score.
 
 
 ## Next up!
-Coming Datalab we will reflect on supervised and machine learning again and give you an opportunity to ask any questions you might have.
 
-Tomorrow, we will cover regression algorithms!
+Now that we have understood the basics of machine learning, we are ready to learn about how to implement machine learning algorithms in Python using the ```scikit-learn``` library. 
+
+Please click next to continue with the next topic for today: ```The Modelling Pipeline```!
 
 
-## Resources
-- [Codecademy](https://www.codecademy.com/learn/machine-learning)
+

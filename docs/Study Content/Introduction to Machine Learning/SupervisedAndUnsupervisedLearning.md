@@ -101,6 +101,10 @@ Please watch the following video to learn more about supervised and unsupervised
 
 :pencil: Q6. You are asked to develop a machine learning system to predict if a given X-Ray image contains a tumour or not. Would you approach this problem with a supervised learning approach, or unsupervised. Please justify your choice of an answer.<br>
 
+:pencil: Q7. You are asked to develop a machine learning system to group the different neighbourhoods of Breda into developed and underdeveloped clusters. Would you approach this problem with a supervised learning approach, or unsupervised. Please justify your choice of an answer.<br>
+
+:pencil: Q8. Please provide an example of a problem that uses Reinforcement learning. Attach links and videos to your answer.<br>
+
 ## Reinforcement Learning
 
 Reinforcement learning is a type of machine learning where the machine learning algorithm learns by interacting with its environment. The goal of the machine learning algorithm is to find patterns in the training set that can be used to maximize the reward it receives from its environment.
@@ -113,8 +117,8 @@ Reinforcement learning is a type of machine learning where the machine learning 
 
 One of the simpler patterns that machine learning algorithms try to exploit is the correlation. A correlation coefficient tells you something about how "the variables move together" i.e. does one variable change(increase/decrease) when the other variable changes (increases/decreases). For example, if you have a dataset of the number of hours a student studies and the final exam score, you can plot the data on a graph and see if there is a correlation between the number of hours studied and the final exam score. If there is a strong correlation, then you can use this pattern to predict the final exam score of a student based on the number of hours they study. This would still be an example of machine learning, but it would be a very simple example.
 
-:pencil: Q7. What is a correlation coefficient? What does it tell you about the relationship between two variables? <br>
-:pencil: Q8. Note down your high score in the [Guess the correlation](http://guessthecorrelation.com/) **in your mentor channel on teams**. Create a leaderboard and see who can get the highest score.
+:pencil: Q9. What is a correlation coefficient? What does it tell you about the relationship between two variables? <br>
+:pencil: Q10. Note down your high score in the [Guess the correlation](http://guessthecorrelation.com/) **in your mentor channel on teams**. Create a leaderboard and see who can get the highest score.
 
 
 ## Next up!

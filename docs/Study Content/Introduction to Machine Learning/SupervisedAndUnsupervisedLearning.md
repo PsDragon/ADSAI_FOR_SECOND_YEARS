@@ -2,7 +2,9 @@
 sort: 1
 ---
 
-# Supervised and Unsupervised Learning
+# Machine Learning
+
+
 
 We start our dive into machine learning in Python with a general introduction. What types of machine learning are there, and where can they be applied? Then, we continue with a workshop on machine learning from Codecademy, which will further introduce you to machine learning and highlight the differences between supervised and unsupervised learning. You'll then be introduced to a python package we'll be using for wrestling with machine learning analyses in Python this block.
 
@@ -26,7 +28,7 @@ Table of contents:
 If you have any questions or issues regarding the course material, please first ask your peers or ask us in the Q&A in Datalab!
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: Note down any important questions you might have!
+Tip: Note down any important questions you might have in your notes document in the assignment folder!
  </div>
 
 Good luck!

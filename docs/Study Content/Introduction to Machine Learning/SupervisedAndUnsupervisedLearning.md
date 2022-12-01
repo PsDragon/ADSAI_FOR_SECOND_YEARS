@@ -89,6 +89,10 @@ In the previous section, we learned that Machine Learning is the art of developi
 
 Supervised learning is the most common type of machine learning. In supervised learning, the training set contains the correct answers for each example. The goal of the machine learning algorithm is to find patterns in the training set that can be used to predict the correct answer for new examples.
 
+:bell: The correct answer for each example in the training set is either called the ```class label``` in case they are discrete categories or ```target variables``` in case of numerical examples. You might also come across the term ```response variable``` or ```dependent variable```. They all mean the same thing.
+
+:bell: The examples used to predict the target are also called ```features``` or ```independent variables```. You might also come across the term ```inputs```. They all mean the same thing.
+
 ### Unsupervised Learning
 
 Unsupervised learning is a type of machine learning where the training set does not contain the correct answers for each example. The goal of the machine learning algorithm is to find patterns in the training set that can be used to group the examples into different classes.
@@ -121,11 +125,52 @@ One of the simpler patterns that machine learning algorithms try to exploit is t
 :pencil: Q10. Note down your high score in the [Guess the correlation](http://guessthecorrelation.com/) **in your mentor channel on teams**. Create a leaderboard and let's see who can get the highest score.
 
 
-## Next up!
+## Scikit-learn: The modelling pipeline
 
-Now that we have understood the basics of machine learning, we are ready to learn about how to implement machine learning algorithms in Python using the ```scikit-learn``` library. 
+Now that we have understood the basics of machine learning, we are ready to learn about how to implement machine learning algorithms in Python using the ```scikit-learn``` library.
+Scikit-learn is a Python library that provides a wide range of machine learning algorithms. It also provides a common interface for all the machine learning algorithms. This means that once you learn how to use scikit-learn, you can use any machine learning algorithm in scikit-learn with the same interface. This is very useful as it allows you to easily compare the performance of different machine learning algorithms.
 
-Please click next to continue with the next topic for today: ```The Modelling Pipeline```!
+For today, we will re-visit out famous dataset: The titanic dataset. We will use this dataset to predict the chances of survival. We will use the following steps to implement machine learning in Python using scikit-learn.
+
+- [ ] Load the dataset
+- [ ] Split the dataset into training and test sets
+- [ ] Create a machine learning model
+- [ ] Train the model using the training set
+- [ ] Evaluate the model using the test set
+
+Please click [here](https://code.visualstudio.com/docs/datascience/data-science-tutorial) and follow the instructions provided to run your first (or second by now) machine learning model in Python using scikit-learn! 
+
+Make a note of the following commands:
+
+- ```from sklearn.model_selection import train_test_split```
+- ```from sklearn.linear_model import <modelname>```
+- ```model_object = <modelname>()```    
+- ```model_object.fit(X_train, y_train)```
+- ```model_object.predict(X_test)```
+- ```model_object.score(X_test, y_test)```
+
+:pencil: Q11. What is the accuracy of your model? Report the accuracy on the training as well as test set <br>
+:pencil: Q12. What is the difference between the accuracy on the training and test set? What do you observe?<br>
+:pencil: Q13. In your own words, what is the difference between ```model_object.fit()``` and ```model_object.predict```<br>
+:pencil: Q13. Do you think your Model does a good job when it comes to predicting new data?<br>
+
+
+# Creative Brief
+
+Recall that the creative brief for this block is:
+
+**Specifically, the goal for this block is to <mark>develop a model that predicts viewer ratings (using Twitter and content data, and any additional data you can collect) using Machine Learning Algorithms</mark> and write a report on it. Additionally, the report should contain a section on AI ethics using the knowledge acquired during this block.**
+
+:pencil: Q11. Is this a form of supervised or unsupervised learning? Why?<br>
+:pencil: Q12. What is the target variable?<br>
+:pencil: Q13. Please try to list out some variables that you feel can be used to predict the target variable (be creative and do not restrict yourselves to the data at hand)<br>
+
+
+
+
+
+
+
 
 
 

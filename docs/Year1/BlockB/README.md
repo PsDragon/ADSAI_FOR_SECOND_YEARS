@@ -116,7 +116,6 @@ Especially for this occasion, we arranged transportation from you. Please be sha
 
 ## Monday
 - [Introduction to Machine Learning](../../Study%20Content/Introduction%20to%20Machine%20Learning/SupervisedAndUnsupervisedLearning.html)
-- [The Modelling Pipeline](../../Study%20Content/Programming/7.Python%20Numpy.html)
 
 ## Tuesday
 - [Classification Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/ClassificationAlgorithms.html)

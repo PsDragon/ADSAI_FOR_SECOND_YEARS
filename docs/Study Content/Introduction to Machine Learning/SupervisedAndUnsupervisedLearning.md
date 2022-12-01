@@ -13,7 +13,9 @@ Welcome to the module on Machine Learning. In this module, first you will learn 
 - [ ] Understand the different classes of Machine Learning algorithms.
 - [ ] Implement a simple Machine Learning modelling pipeline using ```scikit-learn```.
 
-For today, you are expected to create a markdown file called ```IntroductionToMachineLearning.md``` in your ```Machine Learning``` folder in your Github repos. In this file, please answer the questions that pop-up (:pencil:) as you navigate the content below.
+For today, you are expected to create a markdown file called ```IntroductionToMachineLearning.md``` in your ```Machine Learning``` folder in your Github repos. In this file, please answer the questions that pop-up (:pencil:) as you navigate the content below. Further Machine Learning introduces quite a bit of new terminology. Please make sure to take notes on the new terms that you encounter (:bell:). 
+
+Career Tip: You can also use the [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary) to look up the meaning of the terms that you encounter.
 
 ## Questions or issues?
 If you have any questions or issues regarding the course material, please first ask your peers or ask us in the Q&A in Datalab!
@@ -46,21 +48,25 @@ You might have come across the term ```patterns``` in the video above. This rais
 
 Let's start with a simple example. Suppose you are given a dataset of 1000 images of cats and dogs. You are asked to build a model that can classify an image as a cat or a dog. How would you go about doing this? 
 
-> The example images you use to train a machine learning algorithm is called the ```training set```. 
+:bell: The example images you use to train a machine learning algorithm is called the ```training set```. 
 
-One way to do this is to look at each image and try to find some patterns that can help you classify the image. For example, you might notice that the images of cats have a certain shape, size, and color, while the images of dogs have a different shape, size, and color. You might also notice that the images of cats have a certain background, while the images of dogs have a different background. These are some patterns that you can use to classify the images. In this example, the patterns that you found are very simple and easy to understand. However, in real life, the patterns that you will find are much more complex and difficult to understand. This is where Machine Learning comes in. Machine Learning algorithms can find these complex patterns for you. In the example above, the Machine Learning algorithm can find the patterns that you found, and much more. This is the power of Machine Learning.
+One way to do this is to look at each image and try to find some patterns that can help you classify the image. For example, you might notice that the images of cats have a certain shape, size, and color, while the images of dogs have a different shape, size, and color. You might also notice that the images of cats have a certain background, while the images of dogs have a different background. These are some patterns that you can use to classify the images.
 
-:pencil: Q4. In the example provided, one of the patterns mentioned is the background of the image. Do you feel that this is a useful pattern for AI to learn what distinguishes dogs from cats? If you had to choose one pattern that is most useful to learn what seperates dogs from cats, what would it be, and why?
+:pencil: Q4. In the example provided, one of the patterns mentioned is the background of the image. Do you feel that this is a useful pattern for Machine Learning and AI to learn as a key feature that distinguishes dogs from cats? If you had to choose one pattern that is most useful to learn what seperates dogs from cats, what would it be, and why?
 
 To understand more about the different types of patterns that Machine Learning algorithms can find, please watch the following video. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lOI0Gs_t6cQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-> A pattern is a regularity in the data. It is a characteristic that can be used to distinguish between different classes of data. In the coming days, we will learn about the different types of patterns that Machine Learning algorithms can find. You might have come across the term ```models``` in the video above. A model is machine learning terminology for a mathematical representation of a pattern. In the coming days, we will learn about the different types of models that Machine Learning algorithms can find.
+We have now learned that a pattern is a regularity in the data that Machine Learning algorithms can learn. It is a characteristic that can be either be used to distinguish between different classes of data or help make predictions on future data. In the coming days, we will learn about the different types of patterns that Machine Learning algorithms can learn and exploit when it comes to making predictions and decisions. 
+
+:bell: You might have come across the term ```models``` in the video above. A model is machine learning terminology for a mathematical representation of a pattern. In the coming days, we will learn about the different types of models that Machine Learning algorithms can find.
 
 We have now seen that Machine Learning is the art of developing algorithms that can find patterns in data with the goal to predict an outcome. However, this raises the question **How do we know if the machine learning algorithm has found a good pattern?** In other words, how do we know if the algorithm has found a good model? Using the example of classifying images of cats and dogs, how much confidence do I have in the model to accurately classify an image it has never seen before as a cat or a dog? This is where the concept of ```evaluating``` machine learning comes in.
 
-Evaluating or Testing Machine Learning algorithms often requires the use of an additional source of data. This is termed the ```test set```. Generally speaking, the test set and the training set are from the same dataset. In the above example of classifying images of cats and dogs using 1000 images, we can split the dataset into two parts, a training set (800 images) and a test set (200 images). The training set will be used to train the machine learning algorithm, and the test set will be used to evaluate the performance of the machine learning algorithm.
+:bell: Evaluating or Testing Machine Learning algorithms often requires the use of an additional source of data. This is termed the ```test set```. 
+
+Generally speaking, the test set and the training set are from the same dataset. In the above example of classifying images of cats and dogs using 1000 images, we can split the dataset into two parts, a training set (800 images) and a test set (200 images). The training set will be used to train the machine learning algorithm, and the test set will be used to evaluate the performance of the machine learning algorithm.
 
 :pencil: Q5. What is the purpose of a test set, and can you think of any other way to evaluate the performance of a machine learning algorithm?
 

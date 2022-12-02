@@ -42,7 +42,7 @@ Before we being with developing a solution based on Machine Learning, first we n
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8nZCGG9IcMQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-:pencil: Q3. When is Machine Learning useful? Try to sumamrize the video in your own words, and give an example of a problem that can be solved using Machine Learning, and an example of a problem that can be solved using traditional programming
+:pencil: Q3. When is Machine Learning useful? Try to summarize the video in your own words, and give an example of a problem that can be solved using Machine Learning, and an example of a problem that can be solved using traditional programming
 
 You might have come across the term ```patterns``` in the video above. This raises the questions **What are patterns?** Are there some patterns that are better than others? 
 
@@ -74,7 +74,7 @@ Generally speaking, the test set and the training set are from the same dataset.
 
 :pencil: Q6. Do you agree with the statement that machine learning is an art? Please justify your answer.<br>
 
-> While distinguishing between images of cats and dogs may seem trivially easy for a human and you may be wondering why even bother, developing a machine learning algorithm to do this is a pretty difficult task. Here's an example of a state of the art machine learning algorithm that can distinguish between images of cats and dogs with a very high accuracy.
+> While distinguishing between images of cats and dogs may seem trivially easy for a human, and you may be wondering why even bother, but developing a machine learning algorithm to do this is a pretty difficult task. Here's an example of a state of the art machine learning algorithm that can distinguish between images of cats and dogs with a very high accuracy.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nq7_ZYJPWf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

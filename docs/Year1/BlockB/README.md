@@ -66,7 +66,7 @@ GitHub Medals will be awarded will be awarded with the following criteria:
 - [Python: Coding standards and reproducible data science](../../Study%20Content/Programming/6.Python%20PEP8.html)
 
 ## Friday
-- [DataLab: Pandas](../../Study%20Content/Programming/7.DataLabPR2.html)
+- [DataLab: Pandas](../../Study%20Content/Programming/8.DataLabPR2.html)
 - **Formative Feedback I**
 
 # Week 2 : Data Governance & Ethics 

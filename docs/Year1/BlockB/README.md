@@ -122,13 +122,13 @@ Especially for this occasion, we arranged transportation from you. Please be sha
 - [Evaluating Machine Learning algorithms: Bias and Variance](../../Study%20Content/Introduction%20to%20Machine%20Learning/ClassificationAlgorithms.html)
 
 ## Wednesday
-- [DataLab: Classification Algorithms](../../Study%20Content/Programming/8.DataLabPR2.html) 
+- [DataLab: Creative Brief](../../Study%20Content/Programming/13.DataLabPR4.html)
 
 ## Thursday
 - [Regression Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/RegressionAlgorithms.html)
 
 ## Friday
-- [DataLab: Regression Algorithms](../../Study%20Content/Programming/8.DataLabPR2.html) 
+- [DataLab: Creative Brief](../../Study%20Content/Programming/13.DataLabPR4.html)
 - **Guest Lecture and Q&A with Banijay Data Scientist** (from 3 pm to 5 pm) 
 
 # Week 5 : Machine Learning 

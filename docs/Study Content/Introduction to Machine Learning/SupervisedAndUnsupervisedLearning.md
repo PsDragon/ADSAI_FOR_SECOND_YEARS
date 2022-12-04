@@ -15,10 +15,10 @@ Welcome to the module on Machine Learning. In this module, first you will learn 
 
 For today, you are expected to create a markdown file called ```IntroductionToMachineLearning.md``` in your ```Machine Learning``` folder in your Github repos. In this file, please answer the questions that pop-up (:pencil:) as you navigate the content below. Further Machine Learning introduces quite a bit of new terminology. Please make sure to take notes on the new terms that you encounter (:bell:). 
 
-Career Tip: You can also use the [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary) to look up the meaning of the terms that you encounter.
+(:bell:) Career Tip: You can also use the [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary) to look up the meaning of the terms that you encounter.
 
 ## Questions or issues?
-If you have any questions or issues regarding the course material, please first ask your peers or ask us in the Q&A in Datalab!
+If you have any questions or issues regarding the course material, please first ask your peers or ask us in the Q&A in DataLab!
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Tip: Note down any important questions you might have in your notes document in the assignment folder!
@@ -52,7 +52,7 @@ Let's start with a simple example. Suppose you are given a dataset of 1000 image
 
 One way to do this is to look at each image and try to find some patterns that can help you classify the image. For example, you might notice that the images of cats have a certain shape, size, and color, while the images of dogs have a different shape, size, and color. You might also notice that the images of cats have a certain background, while the images of dogs have a different background. These are some patterns that you can use to classify the images.
 
-:pencil: Q4. In the example provided, one of the patterns mentioned is the background of the image. Do you feel that this is a useful pattern for Machine Learning and AI to learn as a key feature that distinguishes dogs from cats? If you had to choose one pattern that is most useful to learn what seperates dogs from cats, what would it be, and why?
+:pencil: Q4. In the example provided, one of the patterns mentioned is the background of the image. Do you feel that this is a useful pattern for Machine Learning and AI to learn as a key feature that distinguishes dogs from cats? If you had to choose one pattern that is most useful to learn what separates dogs from cats, what would it be, and why?
 
 To understand more about the different types of patterns that Machine Learning algorithms can find, please watch the following video. 
 
@@ -99,15 +99,15 @@ Unsupervised learning is a type of machine learning where the training set does 
 
 Please watch the following video to learn more about supervised and unsupervised learning.
 
+<!-- blank line -->
+<figure class="video_container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W01tIRP_Rqs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
-
+</figure>
+<!-- blank line -->
 
 :pencil: Q6. You are asked to develop a machine learning system to predict if a given X-Ray image contains a tumour or not. Would you approach this problem with a supervised learning approach, or unsupervised. Please justify your choice of an answer.<br>
 
 :pencil: Q7. You are asked to develop a machine learning system to group the different neighbourhoods of Breda into developed and underdeveloped clusters. Would you approach this problem with a supervised learning approach, or unsupervised. Please justify your choice of an answer.<br>
-
-:pencil: Q8. Please provide an example of a problem that uses Reinforcement learning. Attach links and videos to your answer.<br>
 
 ## Reinforcement Learning
 
@@ -115,7 +115,13 @@ Reinforcement learning is a type of machine learning where the machine learning 
 
 > Reinforcement learning is a very powerful type of machine learning commonly associated with Robotics. We will not be covering reinforcement learning in this course. You will learn more about reinforcement learning in Block B of Year 2. However, if you are interested in learning more about reinforcement learning, please watch the following video.
 
+<!-- blank line -->
+<figure class="video_container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2xATEwcRpy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
+
+:pencil: Q8. Please provide an example of a problem that uses Reinforcement learning. Attach links and videos to your answer.<br>
 
 ## Fun fact
 
@@ -149,13 +155,15 @@ Make a note of the following commands:
 - ```model_object.predict(X_test)```
 - ```model_object.score(X_test, y_test)```
 
+(:bell:) Career Tip: You can also use the [Scikit-learn cheat sheet](https://www.codecademy.com/courses/machine-learning/articles/scikit-learn-cheatsheet) to look up the different model APIs and the operations you can perform on them.
+
 :pencil: Q11. What is the accuracy of your model? Report the accuracy on the training as well as test set <br>
 :pencil: Q12. What is the difference between the accuracy on the training and test set? What do you observe?<br>
 :pencil: Q13. In your own words, what is the difference between ```model_object.fit()``` and ```model_object.predict```<br>
 :pencil: Q13. Do you think your Model does a good job when it comes to predicting new data?<br>
 
 
-# Creative Brief
+# Creative Brief: Machine Learning
 
 Recall that the creative brief for this block is:
 
@@ -165,12 +173,12 @@ Recall that the creative brief for this block is:
 :pencil: Q12. What is the target variable?<br>
 :pencil: Q13. Please try to list out some variables that you feel can be used to predict the target variable (be creative and do not restrict yourselves to the data at hand)<br>
 
+# Blended Learning: DataCamp [2 hours]
 
+Please complete the following course on DataCamp. This course is  mandatory.
 
+- [ ] [Understanding Machine Learning](https://app.datacamp.com/learn/courses/understanding-machine-learning)
 
+# Creative Brief Use-Cases 
 
-
-
-
-
-
+> For the rest of today, please continue working on the exploration of the content, ratings, and twitter datasets. Do not hesitate to contact your peers using the teams coffee-corner or your mentor if you have any questions.

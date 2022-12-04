@@ -109,8 +109,6 @@ Please watch the following video to learn more about supervised and unsupervised
 
 :pencil: Q7. You are asked to develop a machine learning system to group the different neighbourhoods of Breda into developed and underdeveloped clusters. Would you approach this problem with a supervised learning approach, or unsupervised. Please justify your choice of an answer.<br>
 
-:pencil: Q8. Please provide an example of a problem that uses Reinforcement learning. Attach links and videos to your answer.<br>
-
 ## Reinforcement Learning
 
 Reinforcement learning is a type of machine learning where the machine learning algorithm learns by interacting with its environment. The goal of the machine learning algorithm is to find patterns in the training set that can be used to maximize the reward it receives from its environment.
@@ -122,6 +120,8 @@ Reinforcement learning is a type of machine learning where the machine learning 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2xATEwcRpy8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 <!-- blank line -->
+
+:pencil: Q8. Please provide an example of a problem that uses Reinforcement learning. Attach links and videos to your answer.<br>
 
 ## Fun fact
 

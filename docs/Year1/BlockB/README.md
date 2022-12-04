@@ -119,7 +119,7 @@ Especially for this occasion, we arranged transportation from you. Please be sha
 
 ## Tuesday
 - [Classification Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/ClassificationAlgorithms.html)
-- [Evaluating Machine Learning algorithms: Bias and Variance](../../Study%20Content/Introduction%20to%20Machine%20Learning/ClassificationAlgorithms.html)
+- [Evaluating Machine Learning algorithms: Bias and Variance](../../Study%20Content/Introduction%20to%20Machine%20Learning/BiasVariance.html)
 
 ## Wednesday
 - [DataLab: Creative Brief](../../Study%20Content/Programming/13.DataLabPR4.html)

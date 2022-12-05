@@ -15,7 +15,7 @@ Welcome to the module on Machine Learning. In this module, first you will learn 
 
 For today, you are expected to create a markdown file called ```IntroductionToMachineLearning.md``` in your ```Machine Learning``` folder in your Github repos. In this file, please answer the questions that pop-up (:pencil:) as you navigate the content below. Further Machine Learning introduces quite a bit of new terminology. Please make sure to take notes on the new terms that you encounter (:bell:). 
 
-(:bell:) Career Tip: You can also use the [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary){:target="_blank"} to look up the meaning of the terms that you encounter.
+:bell: Career Tip: You can also use the [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary){:target="_blank"} to look up the meaning of the terms that you encounter.
 
 ## Questions or issues?
 If you have any questions or issues regarding the course material, please first ask your peers or ask us in the Q&A in DataLab!

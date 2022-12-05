@@ -182,3 +182,7 @@ Create a PID controller for
 
 Compare your controller to one implemented in Python using the `simple-pid` library. You can find the documentation for the library [here](https://pypi.org/project/simple-pid/).
 
+
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Disclaimer: Some of this module was written using AI suggestions by GitHub Copilot. It is also very incomplete.
+</div>

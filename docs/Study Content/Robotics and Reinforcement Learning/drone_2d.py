@@ -19,9 +19,9 @@ class drone_2d(gym.Env):
         self.dt = dt
         self.action_base = np.array([starting_throttle, starting_throttle])
         # PID control parameters
-        self.kp = 8#0.5#6
-        self.ki = 0.5#0#0.1
-        self.kd = 0.3#1#3
+        self.kp = 6
+        self.ki = 0.1
+        self.kd = 3
         # PID control variables
         self.integral_error = 0
         self.previous_error = 0

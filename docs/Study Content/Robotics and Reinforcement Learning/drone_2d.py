@@ -20,14 +20,14 @@ class drone_2d(gym.Env):
         self.action_base = np.array([starting_throttle, starting_throttle])
         # PID control parameters
         self.kp = 6
-        self.ki = 0.01
+        self.ki = 0.1
         self.kd = 3
         # PID control variables
         self.integral_error = 0
         self.previous_error = 0
         # PID control parameters for pos
         self.kp_p = 1.2
-        self.ki_p = 0.1
+        self.ki_p = 0.01
         self.kd_p = 0.6
         # PID control variables for pos
         self.integral_error_p = 0
@@ -40,6 +40,7 @@ class drone_2d(gym.Env):
         derivative_error_p = (error_p - self.previous_error_p)/self.dt
         self.previous_error_p = error_p
         rollsetpoint = -np.clip(error_p * self.kp_p + self.integral_error_p * self.ki_p + derivative_error_p * self.kd_p, -0.35, 0.35)
+        #rollsetpoint = 0
 
         angle = self.state[3]
         error = rollsetpoint - angle
@@ -47,19 +48,24 @@ class drone_2d(gym.Env):
         derivative_error = (error - self.previous_error)/self.dt
         self.previous_error = error
         action_mod_roll = (error * self.kp + self.integral_error * self.ki + derivative_error * self.kd)
-
+        print(action_mod_roll)
         action_base = np.array([self.action_base[0] - action_mod_roll, self.action_base[1] + action_mod_roll])
 
-        full_action = action_base + action
+        #full_action = action_base + action
+        full_action = np.array([action,action])
 
         self.state, self.reward, self.done, self.info = self.env.step(full_action)
         return self.state, self.reward, self.done, self.info
 
     def reset(self):
         self.state = self.env.reset()
-        while (self.state[3] > 0.2 or self.state[3] < -0.2) or (self.state[7] < 0.0 or self.state[7] > 0.1):
+        while (self.state[3] > 0.3 or self.state[3] < -0.3) or (self.state[7] < 0.0 or self.state[7] > 0.1):
             self.state = self.env.reset() 
         self.possetpoint = self.state[6]
+        self.integral_error_p = 0
+        self.previous_error_p = 0
+        self.integral_error = 0
+        self.previous_error = 0
         return self.state
     
     def render(self):

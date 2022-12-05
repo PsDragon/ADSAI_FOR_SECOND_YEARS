@@ -15,7 +15,7 @@ Welcome to the module on Machine Learning. In this module, first you will learn 
 
 For today, you are expected to create a markdown file called ```IntroductionToMachineLearning.md``` in your ```Machine Learning``` folder in your Github repos. In this file, please answer the questions that pop-up (:pencil:) as you navigate the content below. Further Machine Learning introduces quite a bit of new terminology. Please make sure to take notes on the new terms that you encounter (:bell:). 
 
-(:bell:) Career Tip: You can also use the [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary){:target="_blank"} to look up the meaning of the terms that you encounter.
+:bell: Career Tip: You can also use the [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary){:target="_blank"} to look up the meaning of the terms that you encounter.
 
 ## Questions or issues?
 If you have any questions or issues regarding the course material, please first ask your peers or ask us in the Q&A in DataLab!
@@ -105,9 +105,9 @@ Please watch the following video to learn more about supervised and unsupervised
 </figure>
 <!-- blank line -->
 
-:pencil: Q6. You are asked to develop a machine learning system to predict if a given X-Ray image contains a tumour or not. Would you approach this problem with a supervised learning approach, or unsupervised. Please justify your choice of an answer.<br>
+:pencil: Q7. You are asked to develop a machine learning system to predict if a given X-Ray image contains a tumour or not. Would you approach this problem with a supervised learning approach, or unsupervised. Please justify your choice of an answer.<br>
 
-:pencil: Q7. You are asked to develop a machine learning system to group the different neighbourhoods of Breda into developed and underdeveloped clusters. Would you approach this problem with a supervised learning approach, or unsupervised. Please justify your choice of an answer.<br>
+:pencil: Q8. You are asked to develop a machine learning system to group the different neighbourhoods of Breda into developed and underdeveloped clusters. Would you approach this problem with a supervised learning approach, or unsupervised. Please justify your choice of an answer.<br>
 
 ## Reinforcement Learning
 
@@ -121,14 +121,14 @@ Reinforcement learning is a type of machine learning where the machine learning 
 </figure>
 <!-- blank line -->
 
-:pencil: Q8. Please provide an example of a problem that uses Reinforcement learning. Attach links and videos to your answer.<br>
+:pencil: Q9. Please provide an example of a problem that uses Reinforcement learning. Attach links and videos to your answer.<br>
 
 ## Fun fact
 
 One of the simpler patterns that machine learning algorithms try to exploit is the correlation. A correlation coefficient tells you something about how "the variables move together" i.e. does one variable change(increase/decrease) when the other variable changes (increases/decreases). For example, if you have a dataset of the number of hours a student studies and the final exam score, you can plot the data on a graph and see if there is a correlation between the number of hours studied and the final exam score. If there is a strong correlation, then you can use this pattern to predict the final exam score of a student based on the number of hours they study. This would still be an example of machine learning, but it would be a very simple example.
 
-:pencil: Q9. What is a correlation coefficient? What does it tell you about the relationship between two variables? <br>
-:pencil: Q10. Note down your high score in the [Guess the correlation](http://guessthecorrelation.com/){:target="_blank"} **in your mentor channel on teams**. Create a leaderboard and let's see who can get the highest score.
+:pencil: Q10. What is a correlation coefficient? What does it tell you about the relationship between two variables? <br>
+:pencil: Q11. Note down your high score in the [Guess the correlation](http://guessthecorrelation.com/){:target="_blank"} **in your mentor channel on teams**. Create a leaderboard and let's see who can get the highest score.
 
 
 ## Scikit-learn: The modelling pipeline
@@ -157,10 +157,10 @@ Make a note of the following commands:
 
 (:bell:) Career Tip: You can also use the [Scikit-learn cheat sheet](https://www.codecademy.com/courses/machine-learning/articles/scikit-learn-cheatsheet){:target="_blank"} to look up the different model APIs and the operations you can perform on them.
 
-:pencil: Q11. What is the accuracy of your model? Report the accuracy on the training as well as test set <br>
-:pencil: Q12. What is the difference between the accuracy on the training and test set? What do you observe?<br>
-:pencil: Q13. In your own words, what is the difference between ```model_object.fit()``` and ```model_object.predict```<br>
-:pencil: Q13. Do you think your Model does a good job when it comes to predicting new data?<br>
+:pencil: Q12. What is the accuracy of your model? Report the accuracy on the training as well as test set <br>
+:pencil: Q13. What is the difference between the accuracy on the training and test set? What do you observe?<br>
+:pencil: Q14. In your own words, what is the difference between ```model_object.fit()``` and ```model_object.predict```<br>
+:pencil: Q15. Do you think your Model does a good job when it comes to predicting new data?<br>
 
 
 # Creative Brief: Machine Learning
@@ -169,9 +169,9 @@ Recall that the creative brief for this block is:
 
 **Specifically, the goal for this block is to <mark>develop a model that predicts viewer ratings (using Twitter and content data, and any additional data you can collect) using Machine Learning Algorithms</mark> and write a report on it. Additionally, the report should contain a section on AI ethics using the knowledge acquired during this block.**
 
-:pencil: Q11. Is this a form of supervised or unsupervised learning? Why?<br>
-:pencil: Q12. What is the target variable?<br>
-:pencil: Q13. Please try to list out some variables that you feel can be used to predict the target variable (be creative and do not restrict yourselves to the data at hand)<br>
+:pencil: Q16. Is this a form of supervised or unsupervised learning? Why?<br>
+:pencil: Q17. What is the target variable?<br>
+:pencil: Q18. Please try to list out some variables that you feel can be used to predict the target variable (be creative and do not restrict yourselves to the data at hand)<br>
 
 # Blended Learning: DataCamp [2 hours]
 
@@ -179,6 +179,4 @@ Please complete the following course on DataCamp. This course is  mandatory.
 
 - [ ] [Understanding Machine Learning](https://app.datacamp.com/learn/courses/understanding-machine-learning){:target="_blank"}
 
-# Creative Brief Use-Cases 
-
-> For the rest of today, please continue working on the exploration of the content, ratings, and twitter datasets. Do not hesitate to contact your peers using the teams coffee-corner or your mentor if you have any questions.
+:+1: That's it for today! 

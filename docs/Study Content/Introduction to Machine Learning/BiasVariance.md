@@ -1,5 +1,5 @@
 ---
-sort: 5
+sort: 3
 ---
 
 # Evaluating Machine Learning Algorithms: The bias-variance trade-off

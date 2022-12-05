@@ -129,7 +129,7 @@ Especially for this occasion, we arranged transportation from you. Please be sha
 
 ## Friday
 - [DataLab: Creative Brief](../../Study%20Content/Programming/13.DataLabPR4.html)
-- **Guest Lecture and Q&A with Banijay Data Scientist** (from 3 pm to 5 pm) 
+- **Guest Lecture and Q&A with Banijay Data Scientist at Fe1.016** (from 3 pm to 5 pm) 
 
 # Week 5 : Machine Learning 
 

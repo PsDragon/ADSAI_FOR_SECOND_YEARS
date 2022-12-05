@@ -79,7 +79,7 @@ Answer the following questions:
 
 Please complete the following mandatory module on DataCamp:
 
-- [ ] The Classification module of [Machine Learning with scikit-learn](https://app.datacamp.com/learn/courses/machine-learning-with-scikit-learn){:target="_blank"}
+- [ ] The Classification module of [Supervised Learning with scikit-learn](https://app.datacamp.com/learn/courses/supervised-learning-with-scikit-learn){:target="_blank"}
 
 Please click next to continue to the lesson on the Bias-variance tradeoff.
 

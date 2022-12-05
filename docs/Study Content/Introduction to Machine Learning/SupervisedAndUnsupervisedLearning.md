@@ -179,6 +179,4 @@ Please complete the following course on DataCamp. This course is  mandatory.
 
 - [ ] [Understanding Machine Learning](https://app.datacamp.com/learn/courses/understanding-machine-learning){:target="_blank"}
 
-# Creative Brief Use-Cases 
-
-> For the rest of today, please continue working on the exploration of the content, ratings, and twitter datasets. Do not hesitate to contact your peers using the teams coffee-corner or your mentor if you have any questions.
+:+1: That's it for today! 

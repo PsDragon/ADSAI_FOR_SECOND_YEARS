@@ -160,23 +160,30 @@ DataLab 2, Goal(s):
 
 In week 4 we will start diving into the world of robotics so that we can eventually apply our object detection models to a practical use case. By the end of the week you will have a good understanding of the basics of robotic simulation and how to use it to create a baseline controller enabling a robotic arm to stack boxes in virtual environment.
 
+Knowledge Modules:
+
 - [Robotics I: Intro, Applications, and Components](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/4.%20Robotics%20I.html)
 - [Robotics Ib: Co-ordinate Systems, Degrees of Freedom, and Work Envelopes](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/4.1%20Robotics%20Ib.html)
 - [Robotics II: Control Systems](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/5.%20Robotics%20II.html)
-- [Robotics II: Practical Example](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/5.%20Robotics%20II.html)
-- [Robotics III: Robotic Simulation](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/6.%20Robotics%20III.html)
-
-- Optional: [Calculus for Control]()
+- [Robotics IIb: Practical Examples](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/5.%20Robotics%20II.html)
 
 #### <mark>DataLab (individual)</mark>
 
 DataLab 1, Prep and Goal(s):
 
-- [I like to move it, move it!]() 
+- [Prep](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/5.2%20Datalab1-Prep.html) 
+- [Robotics IIIa: Robotic Simulation](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/6.%20Robotics%20III.html)
+- [DataLab 1](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/6.1%20Datalab1.html)
+
+More Knowledge Modules:
+
+- [Robotics IIc: Advanced Control Concepts](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/6.2%20Robotics%20IIc.html)
+-  [Robotics IIIb: Advanced RoboSuite](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/6.3%20Robotics%20IIIb.html)
 
 DataLab 2, Prep and Goal(s):
 
-- [Rack 'em and stack 'em!]() 
+- [Prep](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/6.4%20Datalab2-Prep.html)
+- [DataLab 2](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/6.5%20Datalab2.html)
 
 __Formative feedback II__
 

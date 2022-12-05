@@ -62,7 +62,7 @@ Selection in Machine Learning</a> guide.
 
 - [ ] Completed the course [Understanding Machine Learning](https://app.datacamp.com/learn/courses/understanding-machine-learning){:target="_blank"} and uploaded the certificate to your github repos.
 - [ ] Completed the Classification module of [Machine Learning with scikit-learn](https://app.datacamp.com/learn/courses/machine-learning-with-scikit-learn){:target="_blank"} and uploaded the evidence of completion to your learning logs.
-- [ ] Completed the [writing] homework assignments and uploaded ```ClassificationAlgorithms.md``` to your GitHub repository.
+- [ ] Completed the [writing] homework assignments and uploaded ```IntroductionToMachineLearning.md``` and ```ClassificationAlgorithms.md``` to your GitHub repository.
 - [ ] Completed the [code] homework assignments and uploaded `classification_knn.ipynb` to your GitHub repository.
 
 > In tomorrow's DataLab, we will continue working on the use-cases from last week. This Friday, you will learn more about use-case 5, which introduces machine learning to the creative brief mix.

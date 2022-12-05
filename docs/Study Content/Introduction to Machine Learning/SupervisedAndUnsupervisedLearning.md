@@ -15,7 +15,7 @@ Welcome to the module on Machine Learning. In this module, first you will learn 
 
 For today, you are expected to create a markdown file called ```IntroductionToMachineLearning.md``` in your ```Machine Learning``` folder in your Github repos. In this file, please answer the questions that pop-up (:pencil:) as you navigate the content below. Further Machine Learning introduces quite a bit of new terminology. Please make sure to take notes on the new terms that you encounter (:bell:). 
 
-(:bell:) Career Tip: You can also use the [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary) to look up the meaning of the terms that you encounter.
+(:bell:) Career Tip: You can also use the [Machine Learning Glossary](https://developers.google.com/machine-learning/glossary){:target="_blank"} to look up the meaning of the terms that you encounter.
 
 ## Questions or issues?
 If you have any questions or issues regarding the course material, please first ask your peers or ask us in the Q&A in DataLab!
@@ -128,7 +128,7 @@ Reinforcement learning is a type of machine learning where the machine learning 
 One of the simpler patterns that machine learning algorithms try to exploit is the correlation. A correlation coefficient tells you something about how "the variables move together" i.e. does one variable change(increase/decrease) when the other variable changes (increases/decreases). For example, if you have a dataset of the number of hours a student studies and the final exam score, you can plot the data on a graph and see if there is a correlation between the number of hours studied and the final exam score. If there is a strong correlation, then you can use this pattern to predict the final exam score of a student based on the number of hours they study. This would still be an example of machine learning, but it would be a very simple example.
 
 :pencil: Q9. What is a correlation coefficient? What does it tell you about the relationship between two variables? <br>
-:pencil: Q10. Note down your high score in the [Guess the correlation](http://guessthecorrelation.com/) **in your mentor channel on teams**. Create a leaderboard and let's see who can get the highest score.
+:pencil: Q10. Note down your high score in the [Guess the correlation](http://guessthecorrelation.com/){:target="_blank"} **in your mentor channel on teams**. Create a leaderboard and let's see who can get the highest score.
 
 
 ## Scikit-learn: The modelling pipeline
@@ -144,7 +144,7 @@ For today, we will re-visit out famous dataset: The titanic dataset. We will use
 - [ ] Train the model using the training set
 - [ ] Evaluate the model using the test set
 
-Please click [here](https://code.visualstudio.com/docs/datascience/data-science-tutorial) and follow the instructions provided to run your first (or second by now) machine learning model in Python using scikit-learn! 
+Please click [here](https://code.visualstudio.com/docs/datascience/data-science-tutorial){:target="_blank"} and follow the instructions provided to run your first (or second by now) machine learning model in Python using scikit-learn! 
 
 Make a note of the following commands:
 
@@ -155,7 +155,7 @@ Make a note of the following commands:
 - ```model_object.predict(X_test)```
 - ```model_object.score(X_test, y_test)```
 
-(:bell:) Career Tip: You can also use the [Scikit-learn cheat sheet](https://www.codecademy.com/courses/machine-learning/articles/scikit-learn-cheatsheet) to look up the different model APIs and the operations you can perform on them.
+(:bell:) Career Tip: You can also use the [Scikit-learn cheat sheet](https://www.codecademy.com/courses/machine-learning/articles/scikit-learn-cheatsheet){:target="_blank"} to look up the different model APIs and the operations you can perform on them.
 
 :pencil: Q11. What is the accuracy of your model? Report the accuracy on the training as well as test set <br>
 :pencil: Q12. What is the difference between the accuracy on the training and test set? What do you observe?<br>
@@ -177,7 +177,7 @@ Recall that the creative brief for this block is:
 
 Please complete the following course on DataCamp. This course is  mandatory.
 
-- [ ] [Understanding Machine Learning](https://app.datacamp.com/learn/courses/understanding-machine-learning)
+- [ ] [Understanding Machine Learning](https://app.datacamp.com/learn/courses/understanding-machine-learning){:target="_blank"}
 
 # Creative Brief Use-Cases 
 

@@ -69,7 +69,7 @@ In this assignment, you will use knn to build a classifier. In order to do so, p
 
 > Hint: You can use the `pip` command to install these packages. For example, `pip install scikit-learn` will install the `scikit-learn` package. 
 
-3. Follow the steps provided [here](https://www.datacamp.com/tutorial/k-nearest-neighbor-classification-scikit-learn) and copy the provided code into your notebook.
+3. Follow the steps provided [here](https://www.datacamp.com/tutorial/k-nearest-neighbor-classification-scikit-learn){:target="_blank"} and copy the provided code into your notebook.
 
 Answer the following questions:
 
@@ -79,7 +79,7 @@ Answer the following questions:
 
 Please complete the following mandatory module on DataCamp:
 
-- [ ] The Classification module of [Machine Learning with scikit-learn](https://app.datacamp.com/learn/courses/machine-learning-with-scikit-learn)
+- [ ] The Classification module of [Machine Learning with scikit-learn](https://app.datacamp.com/learn/courses/machine-learning-with-scikit-learn){:target="_blank"}
 
 Please click next to continue to the lesson on the Bias-variance tradeoff.
 

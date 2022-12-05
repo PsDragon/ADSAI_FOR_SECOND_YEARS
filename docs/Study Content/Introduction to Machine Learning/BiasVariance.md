@@ -26,7 +26,7 @@ When you evaluate a predictive model (classification or regression), its error c
 
 The bias-variance trade-off allows data scientists to understand why a model behaves a certain way, and if the model is overfitting or underfitting. The sweet spot is where we have the least bias, and the least variance. In general, there is often a trade-off as increasing bias decreases variance, and increasing variance decreases bias. The trick is to find a balance between the two error types.
 
-:orange_book: Read Fortmann's essay on the bias-variance trade-off. You can find the material, [here](http://scott.fortmann-roe.com/docs/BiasVariance.html).
+:orange_book: Read Fortmann's essay on the bias-variance trade-off. You can find the material, [here](http://scott.fortmann-roe.com/docs/BiasVariance.html){:target="_blank"}.
 
 :pencil: Q3 List, and describe the four different cases representing combinations of both high and low bias and variance (See Figure 1. in Fortmann's essay).
 
@@ -60,7 +60,8 @@ Selection in Machine Learning</a> guide.
 
 # Datalab Preparation
 
-- [ ] Completed the Classification module of [Machine Learning with scikit-learn](https://app.datacamp.com/learn/courses/machine-learning-with-scikit-learn)
+- [ ] Completed the course [Understanding Machine Learning](https://app.datacamp.com/learn/courses/understanding-machine-learning){:target="_blank"} and uploaded the certificate to your github repos.
+- [ ] Completed the Classification module of [Machine Learning with scikit-learn](https://app.datacamp.com/learn/courses/machine-learning-with-scikit-learn){:target="_blank"} and uploaded the evidence of completion to your learning logs.
 - [ ] Completed the [writing] homework assignments and uploaded ```ClassificationAlgorithms.md``` to your GitHub repository.
 - [ ] Completed the [code] homework assignments and uploaded `classification_knn.ipynb` to your GitHub repository.
 

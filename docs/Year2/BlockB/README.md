@@ -165,14 +165,14 @@ Knowledge Modules:
 - [Robotics I: Intro, Applications, and Components](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/4.%20Robotics%20I.html)
 - [Robotics Ib: Co-ordinate Systems, Degrees of Freedom, and Work Envelopes](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/4.1%20Robotics%20Ib.html)
 - [Robotics II: Control Systems](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/5.%20Robotics%20II.html)
-- [Robotics IIb: Practical Examples](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/5.%20Robotics%20II.html)
+- [Robotics IIb: Practical Examples](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/5.%20Robotics%20IIb.html)
 
 #### <mark>DataLab (individual)</mark>
 
 DataLab 1, Prep and Goal(s):
 
 - [Prep](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/5.2%20Datalab1-Prep.html) 
-- [Robotics IIIa: Robotic Simulation](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/6.%20Robotics%20III.html)
+- [Robotics IIIa: Robotic Simulation](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/6.%20Robotics%20IIIa.html)
 - [DataLab 1](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/6.1%20Datalab1.html)
 
 More Knowledge Modules:

@@ -17,7 +17,7 @@ kd = 3#3
 # PID control variables
 integral_error = 0
 previous_error = 0
-heightsetpoint = 0.5
+heightsetpoint = 0.2
 
 # loop through the simulation
 for step in range(500):
@@ -33,9 +33,9 @@ for step in range(500):
     #update the previous error
     previous_error = error
     #calculate the action by multiplying the errors by the PID gains and summing them
-    action = np.clip(error * kp + integral_error * ki + derivative_error * kd, -5, 5)
-    print(action)
-
+    #action = np.clip(error * kp + integral_error * ki + derivative_error * kd, -5, 5)
+    #print(action)
+    action = 0.02
     # Execute the action and get the next state, reward, and whether the episode is done
     state, reward, done, _ = env.step(action)
 

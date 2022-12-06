@@ -32,7 +32,7 @@ api {
 
 Leave all other settings as default.
 
-### Run a remote session
+## Run a remote session
 
 ```bash
 clearml-session --docker deanis/robosuite:py3.8-2 --queue default --packages "pyvirtualdisplay" "pygame" "box2d" "gym" "matplotlib"

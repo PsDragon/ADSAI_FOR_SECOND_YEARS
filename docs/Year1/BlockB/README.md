@@ -134,20 +134,20 @@ Especially for this occasion, we arranged transportation from you. Please be sha
 # Week 5 : Machine Learning 
 
 ## Monday
-- [Tree-based Algorithms I](../../Study%20Content/Introduction%20to%20Machine%20Learning/DecisionTrees.html)
+- [Logistic Regression](../../Study%20Content/Introduction%20to%20Machine%20Learning/ClassificationAlgorithms.html)
 
 ## Tuesday
-- [Tree-based Algorithms II](../../Study%20Content/Introduction%20to%20Machine%20Learning/DecisionTrees.html)
+- [Tree-based Algorithms I](../../Study%20Content/Introduction%20to%20Machine%20Learning/DecisionTrees.html)
 
 ## Wednesday
-- [DataLab: Tree-based Algorithms](../../Study%20Content/Programming/8.DataLabPR2.html) 
+- [DataLab: Creative Brief](../../Study%20Content/Programming/13.DataLabPR4.html)
 - **Guest lecture on Data Driven Marketing by Fingerspitz from 13:00 – 14:00 at Fe 1.017.**
 
 ## Thursday
 - [Tuning Machine Learning Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/DecisionTrees.html)
 
 ## Friday
-- [DataLab: Hyper-parameter tuning](../../Study%20Content/Programming/8.DataLabPR2.html) 
+- [DataLab: Creative Brief](../../Study%20Content/Programming/13.DataLabPR4.html)
 - **Formative feedback session III**
 
 # Week 6 : Machine Learning 
@@ -159,13 +159,13 @@ Especially for this occasion, we arranged transportation from you. Please be sha
 - [Clustering Algorithms II](../../Study%20Content/Introduction%20to%20Machine%20Learning/DecisionTrees.html)
 
 ## Wednesday
-- [DataLab: Clustering Analysis](../../Study%20Content/Programming/8.DataLabPR2.html) 
+- [DataLab: Creative Brief](../../Study%20Content/Programming/13.DataLabPR4.html)
 
 ## Thursday
 - [Machine Learning: Recap](../../Study%20Content/Introduction%20to%20Machine%20Learning/SupervisedLearningRecap.html)
 
 ## Friday
-- [DataLab: Machine Learning wrap-up](../../Study%20Content/Programming/8.DataLabPR2.html) 
+- [DataLab: Creative Brief](../../Study%20Content/Programming/13.DataLabPR4.html)
 
 # Week 7: Linear Algebra
 
@@ -179,14 +179,14 @@ Especially for this occasion, we arranged transportation from you. Please be sha
 
 ## Wednesday
 - **Workshop**(Bert): Presentation (pitching) Skills, theory and practice.  
-- [DataLab: Linear Algebra](../../Study%20Content/Mathematics%20I/2.%20DataLab1.html) 
+- [DataLab: Creative Brief](../../Study%20Content/Programming/13.DataLabPR4.html)
 
 ## Thursday
 - [Linear algebra applied to Linear Systems](../../Study%20Content/Mathematics%20I/3.%20Linear%20Algebra%20applied%20to%20Linear%20Systems.html)
 - [Regression from a Linear Algebra Perspective](../../Study%20Content/Mathematics%20I/4.%20Linear%20Algebra%20and%20(linear)%20Regressions.html)
 
 ## Friday
-- [DataLab: Linear Algebra](../BlockB/Project%20Requirements/LinearAlgebraRequirements.html) 
+- [DataLab: Creative Brief](../../Study%20Content/Programming/13.DataLabPR4.html)
 **Formative feedback session IV**
 
 # Week 8 : Business Case 
@@ -198,7 +198,7 @@ Especially for this occasion, we arranged transportation from you. Please be sha
 - [Machine Learning: Advanced topics](../../Study%20Content/Introduction%20to%20Machine%20Learning/Perceptron.html)
 
 ## Wednesday
-- **DataLab:** Work on the project brief.  
+- [DataLab: Creative Brief](../../Study%20Content/Programming/13.DataLabPR4.html)
 
 ## Thursday
 - [Linear Algebra and Image Processing I](../../Study%20Content/Mathematics%20I/6.%20Image%20Processing%20using%20Linear%20Algebra%20I.html)
@@ -206,4 +206,4 @@ Especially for this occasion, we arranged transportation from you. Please be sha
 
 ## Friday
 - **Project Dissemination** 
-- **DataLab:** Work on the project brief.  
+- [DataLab: Creative Brief](../../Study%20Content/Programming/13.DataLabPR4.html)

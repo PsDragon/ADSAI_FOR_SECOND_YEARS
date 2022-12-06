@@ -28,7 +28,7 @@ api {
 }
 ```
 
-Leave all other settings as default
+Leave all other settings as default.
 
 ### Run a remote session
 
@@ -36,17 +36,19 @@ Leave all other settings as default
 clearml-session --docker deanis/robosuite:py3.8-2 --queue default --packages "pyvirtualdisplay" "pygame" "box2d" "gym" "matplotlib"
 ```
 
-- Say yes to everything
+- Say yes to everything.
 
-- Copy the Jupyter url into a browser
+- Copy the Jupyter url into a browser.
 
 ### Install xvfb
 
-Open a new terminal and run:
+In the browser interface you have just connected to open a new terminal and run:
 
 ```bash
 apt install xvfb
 ```
+
+Close the terminal tab.
 
 ### Run the code
 

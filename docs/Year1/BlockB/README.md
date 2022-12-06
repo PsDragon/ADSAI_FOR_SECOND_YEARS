@@ -165,7 +165,7 @@ Especially for this occasion, we arranged transportation from you. Please be sha
 - [Machine Learning: Recap](../../Study%20Content/Introduction%20to%20Machine%20Learning/SupervisedLearningRecap.html)
 
 ## Friday
-- [DataLab: Creative Brief](../../Study%20Content/Programming/13.DataLabPR4.html)
+**HOLIDAY**
 
 # Week 7: Linear Algebra
 

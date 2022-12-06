@@ -4,6 +4,8 @@
 
 ### Install ClearML Session
 
+Open up a terminal and run:
+
 ```bash
 pip install clearml-session
 ```

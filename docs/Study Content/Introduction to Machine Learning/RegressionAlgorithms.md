@@ -52,7 +52,7 @@ Linear regression models are represented by the following equation:
 
 $$y = \theta_0 + \theta_1x$$
 
-where $y$ is the target variable, $\theta_1$ is the slope of the line, $x$ is the input variable and $\theta_o$ is the y-intercept (or bias) parameter. You might also come across instances where people replace $\theta$ with $b$. They are the same thing.
+where $$y$$ is the target variable, $$\theta_1$$ is the slope of the line, $$x$$ is the input variable and $$\theta_o$$ is the y-intercept (or bias) parameter. You might also come across instances where people replace $$\theta$$ with $$b$$ or $$w$$. They are the same thing.
 
 A simple linear regression model consists of two parameters:
 

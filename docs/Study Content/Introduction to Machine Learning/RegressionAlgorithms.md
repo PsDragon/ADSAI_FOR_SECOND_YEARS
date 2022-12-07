@@ -72,7 +72,7 @@ So we have now seen that a linear regression model uses two parameters to predic
 
 The cost function for linear regression is the sum of the squared differences between the predicted values and the actual values. The cost function is represented by the following equation:
 
-$$Error = (y - \hat{y})^2$$
+$$Error = \frac{1}{2}(y - \hat{y})^2$$
 
 where $y$ is the actual or true value and $\hat{y}$ is the predicted value. Please spend a couple of minutes to understand the cost function for linear regression. You might notice that this function is essentially estimating the errors in the values predicted by the model.
 
@@ -80,7 +80,7 @@ where $y$ is the actual or true value and $\hat{y}$ is the predicted value. Plea
 
 The above cost function is for a single prediction. In reality, our model needs to find patterns that minimize the cost function for all the data points. This is represented by the following equation:
 
-$$Error = \frac{1}{n}\sum_{i=1}^{n}(y_i - \hat{y}_i)^2$$
+$$Error = \frac{1}{2n}\sum_{i=1}^{n}(y_i - \hat{y}_i)^2$$
 
 where $y_i$ is the actual or true value and $\hat{y}_i$ is the predicted value for the $i^{th}$ data point. 
 

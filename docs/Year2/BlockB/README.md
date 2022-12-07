@@ -178,7 +178,6 @@ DataLab 1, Prep and Goal(s):
 More Knowledge Modules:
 
 - [Robotics IIc: Advanced Control Concepts](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/6.2%20Robotics%20IIc.html)
--  [Robotics IIIb: Advanced RoboSuite](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/6.3%20Robotics%20IIIb.html)
 
 DataLab 2, Prep and Goal(s):
 
@@ -191,6 +190,7 @@ __Formative feedback II__
 
 In week 5 we will take our baseline robot controller to the next level by incorporating our object detection model into the controller. This will enable the robot to detect the boxes and stack them in a more realistic way. We will also start looking at the basics of reinforcement learning and how it can be used to train a robot to perform tasks. 
 
+- [Robotics IIIb: Advanced RoboSuite](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/6.3%20Robotics%20IIIb.html)
 - [Reinforcement Learning I: Intro, Applications, and Theory](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/7.%20Reinforcement%20Learning%20I.html)
 - [Reinforcement Learning II: Applying Reinforcement Learning](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/8.%20Reinforcement%20Learning%20II.html)
 - [Cognition workshop: decision-making & action-taking](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Decision-making%20&%20Actions%20-%20Self-study%20material.html): 9:00 - 17:00 on Thursday the 15th of December (Check MyTimetable).
@@ -218,11 +218,11 @@ We have now covered the majority of the knowledge modules and will spend most of
 
 DataLab 1, Prep and Goal(s):
 
-- [Model Investigation]()
+- [Model Investigation and Hyperparameter tuning]()
 
 DataLab 2, Prep and Goal(s):
 
-- [Hyperparameter tuning]()
+- [Holiday!]()
 
 DataLab 3, Prep and Goal(s):
 

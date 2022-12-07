@@ -103,9 +103,31 @@ Figure 1: Two tweets using the word ablaze with different meanings.
 
 The block starts with a kick-off lecture. This week you will work on preprocessing text.
 
-DataLab 1, Goal(s):
+Self-study:
 
-- [ ] Understand regular expressions
+- Speech and Language Processing/Chapter 2/Section 2.1/Regular Expressions
+
+- Natural Language Processing with Python/Chapter 1/Section 1/Computing with Language: Texts and Words
+
+- Natural Language Processing with Python/Chapter 1/Section 2/A Closer Look at Python: Texts as Lists of Words
+
+DataLab 1 Regular Expressions
+
+Goal(s):
+
+- [ ] Regular expressions
+
+Self-study:
+
+- Speech and Language Processing/Chapter 2/Section 2.2/Words
+- Speech and Language Processing/Chapter 2/Section 2.3/Corpora
+- Speech and Language Processing/Chapter 2/Section 2.4/TextNormalization
+- Speech and Language Processing/Chapter 2/Section 2.5/MinimumEditDistance
+- Speech and Language Processing/Chapter 2/Section 2.6/Summary
+
+- Natural Language Processing with Python/Chapter 1/Section 3/Computing with Language: Simple Statistics
+
+- Natural Language Processing with Python/Chapter 1/Section 2/A Closer Look at Python: Texts as Lists of Words
 
 DataLab 2, Goal(s):
 - [ ] Tweet processing

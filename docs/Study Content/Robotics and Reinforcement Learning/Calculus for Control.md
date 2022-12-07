@@ -1,3 +1,4 @@
+# Calculus for Control  WORK IN PROGRESS
 ## Differentiation
 
 Differentiation is the process of finding the rate of change of a function. The derivative of a function $f(x)$ is denoted by $f'(x)$ and is defined as:

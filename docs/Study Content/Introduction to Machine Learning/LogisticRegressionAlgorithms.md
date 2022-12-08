@@ -135,7 +135,9 @@ Please watch this video to understand how to interpret a confusion matrix.
 
 Well done! If you have made it this far, you have now completed the theory for today. You have learned quite a bit about the theory underlying a logistic regression model. In the next part of this block, we will learn how to use the scikit-learn library to implement a linear regression model in Python. 
 
-> Please note that you will go deeper into building and evaluating classification models in Block C.
+For an example of how to use scikit-learn to implement a logistic regression model, please click [here](https://www.datacamp.com/tutorial/understanding-logistic-regression-python).
+
+> Please note that we will go deeper into building and evaluating classification models in Block C. The focus of this block remains regression.
 
 :computer: :hourglass_flowing_sand: :coffee: :headphones:
 

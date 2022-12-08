@@ -134,10 +134,10 @@ Especially for this occasion, we arranged transportation from you. Please be sha
 # Week 5 : Machine Learning 
 
 ## Monday
-- [Logistic Regression](../../Study%20Content/Introduction%20to%20Machine%20Learning/ClassificationAlgorithms.html)
+- [Logistic Regression](../../Study%20Content/Introduction%20to%20Machine%20Learning/LogisticRegressionAlgorithms.html)
 
 ## Tuesday
-- [Tree-based Algorithms I](../../Study%20Content/Introduction%20to%20Machine%20Learning/DecisionTrees.html)
+- [Tree-based Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/DecisionTrees.html)
 
 ## Wednesday
 - [DataLab: Creative Brief](../../Study%20Content/Programming/13.DataLabPR4.html)

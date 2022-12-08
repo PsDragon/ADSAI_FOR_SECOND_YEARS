@@ -197,15 +197,17 @@ In week 5 we will take our baseline robot controller to the next level by incorp
 
 #### <mark>DataLab (individual)</mark>
 
-DataLab 1, Prep and Goal(s):
+DataLab 3, Prep and Goal(s):
 
-- [I see, therefore I lift]()
+- [Prep](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/9.%20Datalab3-Prep.html)
+- [DataLab 3](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/9.1%20Datalab3.html)
 
-DataLab 2, Prep and Goal(s):
+DataLab 4, Prep and Goal(s):
 
 - [ ] [Expand on/Create flowchart of decision-making & action-taking models for reinfocement learning](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Decision-making%20&%20Actions%20-%20Datalab%20material.html)
 
-- [Gym time!]()
+- [Prep](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/10.%20Datalab4-Prep.html)
+- [DataLab 4](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/10.1%20Datalab4.html)
 
 ### Week 6-7
 

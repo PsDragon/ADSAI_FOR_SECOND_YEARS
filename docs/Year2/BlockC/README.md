@@ -156,10 +156,30 @@ After this datalab, you will be able to:
 
 ### Week 2
 
-This week you will create your first NLP models.
+So far you have learned how to preprocess text. This week you will learn about two NLP algorithms and construct your first models. You will use skills you acquired last week to prepare the datasets for training these models.
+
+**Self-study**
+
+Study the following:
+
+- Speech and Language Processing
+    - Chapter 4/Naive Bayes and Sentiment Classification
+    - Complete Exercise 4.1
+- Natural Language Processing with Python
+    - Chapter 2/Accessing Text Corpora and Lexical Resources
+    - Chapter 3/Processing Raw Text
+    - Complete the exercises indicated by "Your Turn". An example:
+    >Your Turn: How many times does the word lol appear in text5? How much is this as a percentage of the total number of words in this text?
 
 DataLab 1, Goal(s):
 - [ ] Naive Bayes
+
+**Self-study**
+
+Study the following:
+
+- Speech and Language Processing
+    - Chapter 5/Logistic Regression
 
 DataLab 2, Goal(s):
 - [ ] Logistic Regression

@@ -103,34 +103,56 @@ Figure 1: Two tweets using the word ablaze with different meanings.
 
 The block starts with a kick-off lecture. This week you will work on preprocessing text.
 
-Self-study:
+**Self-study**
 
-- Speech and Language Processing/Chapter 2/Section 2.1/Regular Expressions
+Study the following:
 
-- Natural Language Processing with Python/Chapter 1/Section 1/Computing with Language: Texts and Words
+- Speech and Language Processing/Chapter 2
+  - Section 2.1/Regular Expressions
+  - Section 2.2/Words
+  - Section 2.3/Corpora
+  - Complete Exercise 2.1
 
-- Natural Language Processing with Python/Chapter 1/Section 2/A Closer Look at Python: Texts as Lists of Words
+- Natural Language Processing with Python/Chapter 1
+  - Section 1/Computing with Language: Texts and Words
+  - Section 2/A Closer Look at Python: Texts as Lists of Words
+  - Complete the exercises indicated by "Your Turn". An example:
+  >Your Turn: How many times does the word lol appear in text5? How much is this as a percentage of the total number of words in this text?
 
-DataLab 1 Regular Expressions
+**DataLab 1: Regular Expressions**
 
-Goal(s):
+After this datalab, you will be able to:
 
-- [ ] Regular expressions
+- [ ] Construct regular expressions
+- [ ] Use Python's `re` library methods such as `re.findall()`
+- [ ] Operate regular expression explainer tools such as [regexr.com](https://regexr.com/)
+- [ ] Compare regular expressions and Python string methods for a given use case
 
-Self-study:
+**Self-study**
 
-- Speech and Language Processing/Chapter 2/Section 2.2/Words
-- Speech and Language Processing/Chapter 2/Section 2.3/Corpora
-- Speech and Language Processing/Chapter 2/Section 2.4/TextNormalization
-- Speech and Language Processing/Chapter 2/Section 2.5/MinimumEditDistance
-- Speech and Language Processing/Chapter 2/Section 2.6/Summary
+Study the following:
 
-- Natural Language Processing with Python/Chapter 1/Section 3/Computing with Language: Simple Statistics
+- Speech and Language Processing/Chapter 2
+  - Section 2.4/TextNormalization
+  - Section 2.5/MinimumEditDistance
+  - Section 2.6/Summary
 
-- Natural Language Processing with Python/Chapter 1/Section 2/A Closer Look at Python: Texts as Lists of Words
+- Natural Language Processing with Python/Chapter 1
+  - Section 3/Computing with Language: Simple Statistics
+  - Section 4/Back to Python: Making Decisions and Taking Control
+  - Section 5/Automatic Natural Language Understanding
+  - Complete the exercises indicated by "Your Turn". An example:
+  >Your Turn: How many times does the word lol appear in text5? How much is this as a percentage of the total number of words in this text?
 
-DataLab 2, Goal(s):
-- [ ] Tweet processing
+**DataLab 2: Tweet pre-processing**
+
+After this datalab, you will be able to:
+
+- [ ] Use regular expressions for text pre-processing
+- [ ] Explain and employ tokenization
+- [ ] Explain and employ stemming
+- [ ] Remove stopwords and punctuation
+- [ ] Design a text pre-processing pipeline
 
 ### Week 2
 

@@ -63,7 +63,7 @@ GitHub Medals will be awarded will be awarded with the following criteria:
 
 ## Thursday 
 - [Python: Pandas](../../Study%20Content/Programming/6.Getting%20Started%20with%20Pandas.html)
-- [Python: Coding standards and reproducible data science](../../Study%20Content/Programming/6.Python%20PEP8.html)
+- [Python: Coding standards and reproducible data science](https://adsai.buas.nl/Study%20Content/Programming/7.Python%20PEP8.html)
 
 ## Friday
 - [DataLab: Pandas](../../Study%20Content/Programming/8.DataLabPR2.html)

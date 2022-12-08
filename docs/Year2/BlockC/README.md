@@ -103,22 +103,97 @@ Figure 1: Two tweets using the word ablaze with different meanings.
 
 The block starts with a kick-off lecture. This week you will work on preprocessing text.
 
-DataLab 1, Goal(s):
+**Self-study**
 
-- [ ] Understand regular expressions
+Study the following:
 
-DataLab 2, Goal(s):
-- [ ] Tweet processing
+- Speech and Language Processing/Chapter 2
+  - Section 2.1/Regular Expressions
+  - Section 2.2/Words
+  - Section 2.3/Corpora
+  - Complete Exercise 2.1
+
+- Natural Language Processing with Python/Chapter 1
+  - Section 1/Computing with Language: Texts and Words
+  - Section 2/A Closer Look at Python: Texts as Lists of Words
+  - Complete the exercises indicated by "Your Turn". An example:
+  >Your Turn: How many times does the word lol appear in text5? How much is this as a percentage of the total number of words in this text?
+
+**DataLab 1: Regular Expressions**
+
+After this datalab, you will be able to:
+
+- [ ] Construct regular expressions
+- [ ] Use Python's `re` library methods such as `re.findall()`
+- [ ] Operate regular expression explainer tools such as [regexr.com](https://regexr.com/)
+- [ ] Compare regular expressions and Python string methods for a given use case
+
+**Self-study**
+
+Study the following:
+
+- Speech and Language Processing/Chapter 2
+  - Section 2.4/TextNormalization
+  - Section 2.5/MinimumEditDistance
+  - Section 2.6/Summary
+
+- Natural Language Processing with Python/Chapter 1
+  - Section 3/Computing with Language: Simple Statistics
+  - Section 4/Back to Python: Making Decisions and Taking Control
+  - Section 5/Automatic Natural Language Understanding
+  - Complete the exercises indicated by "Your Turn". An example:
+  >Your Turn: How many times does the word lol appear in text5? How much is this as a percentage of the total number of words in this text?
+
+**DataLab 2: Tweet pre-processing**
+
+After this datalab, you will be able to:
+
+- [ ] Use regular expressions for text pre-processing
+- [ ] Explain and employ tokenization
+- [ ] Explain and employ stemming
+- [ ] Remove stopwords and punctuation
+- [ ] Design a text pre-processing pipeline
 
 ### Week 2
 
-This week you will create your first NLP models.
+So far you have learned how to preprocess text. This week you will learn about two NLP algorithms and construct your first models. You will use skills you acquired last week to prepare the datasets for training these models.
 
-DataLab 1, Goal(s):
-- [ ] Naive Bayes
+**Self-study**
 
-DataLab 2, Goal(s):
-- [ ] Logistic Regression
+Study the following:
+
+- Speech and Language Processing
+    - Chapter 4/Naive Bayes and Sentiment Classification
+    - Complete Exercise 4.1
+- Natural Language Processing with Python
+    - Chapter 2/Accessing Text Corpora and Lexical Resources
+    - Chapter 3/Processing Raw Text
+    - Complete the exercises indicated by "Your Turn". An example:
+    >Your Turn: How many times does the word lol appear in text5? How much is this as a percentage of the total number of words in this text?
+
+**DataLab 1: Naive Bayes**
+
+After this datalab, you will be able to:
+
+- [ ] Construct a frequency distribution table for a given corpus
+- [ ] Apply Laplacian smoothing to calculate word ratios
+- [ ] Calculate log-likelihood for each word in the frequency distribution table
+- [ ] Calculate the probability of a sentence belonging to a class
+
+**Self-study**
+
+Study the following:
+
+- Speech and Language Processing
+    - Chapter 5/Logistic Regression
+
+**DataLab 2: Logistic regression**
+
+After this datalab, you will be able to:
+
+- [ ] Construct input features from a frequency distribution table
+- [ ] Train a logistic regression model on the features you created
+- [ ] Compare the effects of different preprocessing steps to the model performance
 
 __Formative feedback I__
  

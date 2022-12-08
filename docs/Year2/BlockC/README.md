@@ -171,8 +171,14 @@ Study the following:
     - Complete the exercises indicated by "Your Turn". An example:
     >Your Turn: How many times does the word lol appear in text5? How much is this as a percentage of the total number of words in this text?
 
-DataLab 1, Goal(s):
-- [ ] Naive Bayes
+**DataLab 1: Naive Bayes**
+
+After this datalab, you will be able to:
+
+- [ ] Construct a frequency distribution table for a given corpus
+- [ ] Apply Laplacian smoothing to calculate word ratios
+- [ ] Calculate log-likelihood for each word in the frequency distribution table
+- [ ] Calculate the probability of a sentence belonging to a class
 
 **Self-study**
 

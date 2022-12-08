@@ -187,8 +187,13 @@ Study the following:
 - Speech and Language Processing
     - Chapter 5/Logistic Regression
 
-DataLab 2, Goal(s):
-- [ ] Logistic Regression
+**DataLab 2: Logistic regression**
+
+After this datalab, you will be able to:
+
+- [ ] Construct input features from a frequency distribution table
+- [ ] Train a logistic regression model on the features you created
+- [ ] Compare the effects of different preprocessing steps to the model performance
 
 __Formative feedback I__
  

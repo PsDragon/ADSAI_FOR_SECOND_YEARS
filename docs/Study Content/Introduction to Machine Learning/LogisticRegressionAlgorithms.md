@@ -91,7 +91,7 @@ Please watch this video to help answer the questions above.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BYQQlCVt4aE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-You may have noticed that the video introduces terms such as **precision** and **recall**. These are two of the most common metrics used to evaluate the performance of a classification model. In the above example, the accuracy of the model is 90%. However, this is a pretty dumb (and dangerous) model because it fails to detect tumours in images which do have a tumour in reality. However, **90% accuracy% does have a nice ring to it! :smile:**
+You may have noticed that the video introduces terms such as **precision** and **recall**. These are two of the most common metrics used to evaluate the performance of a classification model. In the above example, the accuracy of the model is 90%. However, this is a pretty dumb (and dangerous) model because it fails to detect tumours in images which do have a tumour in reality. However, **90% accuracy does have a nice ring to it! :smile:**
 
 This is where precision and recall come in. Precision and recall are two metrics that help us understand the context of the model's performance.
 

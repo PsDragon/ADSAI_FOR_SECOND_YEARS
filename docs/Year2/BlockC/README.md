@@ -123,6 +123,8 @@ Study the following:
 
 [![Github](https://badgen.net/badge/%20/Open%20in%20GitHub/:redr?icon=github)](https://github.com/BredaUniversityADSAI/2022-23-Y2-BlockC/tree/main/DataLabs/W1-DL1)
 
+![badge](https://badgen.net/badge/%20/Open%20in%20GitHub/:redr?icon=github)
+
 After this datalab, you will be able to:
 
 - [ ] Construct regular expressions

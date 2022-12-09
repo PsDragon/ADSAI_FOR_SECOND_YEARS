@@ -121,9 +121,8 @@ Study the following:
 
 **DataLab 1: Regular Expressions**
 
-[![Github](https://badgen.net/badge/%20/Open%20in%20GitHub/:redr?icon=github)](https://github.com/BredaUniversityADSAI/2022-23-Y2-BlockC/tree/main/DataLabs/W1-DL1)
+[<img src="./images/githubbadge.png" alt="GitHub" width="15%"/>](https://github.com/BredaUniversityADSAI/2022-23-Y2-BlockC/tree/main/DataLabs/W1-DL1)
 
-![badge](https://badgen.net/badge/%20/Open%20in%20GitHub/:redr?icon=github)
 
 After this datalab, you will be able to:
 

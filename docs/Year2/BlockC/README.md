@@ -121,6 +121,8 @@ Study the following:
 
 **DataLab 1: Regular Expressions**
 
+[![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BredaUniversityADSAI/2022-23-Y2-BlockC/tree/main/DataLabs/W1-DL1)
+
 After this datalab, you will be able to:
 
 - [ ] Construct regular expressions

@@ -193,7 +193,6 @@ In week 5 we will take our baseline robot controller to the next level by incorp
 - [Robotics IIIb: Advanced RoboSuite](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/6.3%20Robotics%20IIIb.html)
 - [Reinforcement Learning I: Intro, Applications, and Theory](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/7.%20Reinforcement%20Learning%20I.html)
 - [Reinforcement Learning II: Applying Reinforcement Learning](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/8.%20Reinforcement%20Learning%20II.html)
-- [Cognition workshop: decision-making & action-taking](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Decision-making%20&%20Actions%20-%20Self-study%20material.html): 9:00 - 17:00 on Thursday the 15th of December (Check MyTimetable).
 
 #### <mark>DataLab (individual)</mark>
 
@@ -202,12 +201,14 @@ DataLab 3, Prep and Goal(s):
 - [Prep](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/9.%20Datalab3-Prep.html)
 - [DataLab 3](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/9.1%20Datalab3.html)
 
-DataLab 4, Prep and Goal(s):
 
-- [ ] [Expand on/Create flowchart of decision-making & action-taking models for reinfocement learning](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Decision-making%20&%20Actions%20-%20Datalab%20material.html)
+Thursday the 15th of December: 9:00 - 17:00 in Hs1.033
+- [Cognition workshop: decision-making & action-taking](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Decision-making%20&%20Actions%20-%20Self-study%20material.html): Check MyTimetable for .
 
-- [Prep](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/10.%20Datalab4-Prep.html)
-- [DataLab 4](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/10.1%20Datalab4.html)
+
+DataLab 4, Cognition Fundamentals - Friday the 16th of December:
+- [Decision-making & action-taking models for reinfocement learning](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Decision-making%20&%20Actions%20-%20Datalab%20material.html)
+
 
 ### Week 6-7
 

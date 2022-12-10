@@ -121,6 +121,9 @@ Study the following:
 
 **DataLab 1: Regular Expressions**
 
+[<img src="./images/githubbadge.png" alt="GitHub" width="15%"/>](https://github.com/BredaUniversityADSAI/2022-23-Y2-BlockC/tree/main/DataLabs/W1-DL1)
+
+
 After this datalab, you will be able to:
 
 - [ ] Construct regular expressions
@@ -145,6 +148,8 @@ Study the following:
   >Your Turn: How many times does the word lol appear in text5? How much is this as a percentage of the total number of words in this text?
 
 **DataLab 2: Tweet pre-processing**
+
+[![Github](https://badgen.net/badge/%20/Open%20in%20GitHub/:redr?icon=github)](https://github.com/BredaUniversityADSAI/2022-23-Y2-BlockC/tree/main/DataLabs/W1-DL2)
 
 After this datalab, you will be able to:
 

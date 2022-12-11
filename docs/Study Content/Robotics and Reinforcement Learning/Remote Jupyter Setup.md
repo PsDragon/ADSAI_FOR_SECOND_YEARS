@@ -1,3 +1,7 @@
+---
+sort: 30
+---
+
 # Setting up a remote Jupyter notebook
 
 ## ClearML Session

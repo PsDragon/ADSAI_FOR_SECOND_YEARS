@@ -1,3 +1,7 @@
+---
+sort: 40
+---
+
 # Calculus for Control  WORK IN PROGRESS
 ## Differentiation
 

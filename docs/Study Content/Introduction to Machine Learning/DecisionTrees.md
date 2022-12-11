@@ -27,21 +27,6 @@ A decision tree is an example of a **supervised learning** algorithm that can be
 
 :bell: A decision tree is a machine learning model that is used for both regression and classification tasks. It is a supervised learning algorithm, which means that it is trained using labeled data. The decision tree is a flowchart-like structure, tracing the possible outcomes of a decision based on certain conditions. 
 
-
-<figure>
-    <img src=".\images\dt.PNG" />
-    <figcaption>A simple decision tree used to predict weather outlook. (Source: OSU)</figcaption>
-</figure>
-<br>
-
-In the above tree, each node represents a feature (e.g., Outlook) in the dataset, and the differnt possible outcomes for each feature (e.g., Sunny, Overcast, Rain) lead to new branches in the tree. The final nodes are leaf nodes which represent the class (or target) labels.
-
-<figure>
-    <img src=".\images\dt_boundary.PNG" />
-    <figcaption>Decision tree decision boundaries (Source: OSU)</figcaption>
-</figure>
-<br>
-
 Please watch the following video to get a better understanding of decision trees:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pq4c0y_kvA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

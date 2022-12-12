@@ -94,7 +94,7 @@ Please watch the following video to get a better understanding of the difference
 :bell: Cross-validation is a technique that involves splitting the training data into multiple folds, and then training the model on all but one fold, and evaluating the model on the remaining fold. This process is repeated multiple times, with each fold being used as the validation set once. The performance of the model is then averaged across all of the folds. This process is illustrated in the following diagram:
 
 <figure>
-    <img src=".\images\sklearn_cv_fold.PNG" />
+    <img src="images/sklearn_cv_fold.PNG" />
     <br> Source: Scikit-learn documentation
 </figure>
 <br>
@@ -114,7 +114,7 @@ The search algorithm is the algorithm that we use to search over the search spac
 In sum, the process of hyperparameter tuning can be represented by the following diagram:
 
 <figure>
-    <img src=".\images\sklearn_cv.PNG" />
+    <img src="images/sklearn_cv.PNG" />
     <br> Source: Scikit-learn documentation
 </figure>
 <br>
@@ -142,7 +142,7 @@ from sklearn.metrics import accuracy_score
 df = pd.read_csv('<your_data>.csv')
 ```
 
-- [ ] Split the data into training, validation, and test sets with a 70-20-10 split.
+- [ ] Split the data into training, validation, and test sets with a 80-20 split.
 
 ```python
 # Split the data into training and test sets with 20% of the data in the test set
@@ -161,7 +161,7 @@ knn_model = KNeighborsClassifier()
 The ```scikit-learn``` documentation for the K Nearest Neighbors algorithm lists the following hyperparameters.
 
 <figure>
-    <img src=".\images\sklearn_knn.PNG" />
+    <img src="./images/sklearn_knn.PNG" />
     <br> Source: Scikit-learn documentation
 </figure>
 <br>
@@ -204,7 +204,7 @@ We also need to specify the ```scoring``` metric that we want to use to evaluate
 By default, the ```GridSearchCV``` class uses 3-fold cross-validation. This means that the grid search algorithm will train 20 models, and each model will be evaluated using 3-fold cross-validation. This means that the grid search algorithm will train 60 different models [```n_neighbors``` X ```weights``` X 3-fold cross-validation].
 
 ```python
-
+#Import GridSearchCV from scikit-learn
 from sklearn.model_selection import GridSearchCV
 
 knn_grid_search = GridSearchCV(estimator=knn_model, param_grid=knn_search_space, scoring='accuracy')
@@ -213,7 +213,6 @@ knn_grid_search = GridSearchCV(estimator=knn_model, param_grid=knn_search_space,
 - [ ] Train the model using the search algorithm.
 
 ```python
-
 knn_grid_search.fit(X_train, y_train)
 ```
 
@@ -224,39 +223,40 @@ Now that we have trained 60 models using the grid search algorithm, we can evalu
 For example,
 
 ```python
-
 knn_grid_search.best_params_
 ```
 
 ```python
-
-{'n_neighbors': 5, 'weights': 'uniform'}
+{'n_neighbors': 8, 'weights': 'uniform'}
 ```
-
-```python   
-
-knn_grid_search.best_score_
-```
-
-```python
-
-0.8
-```
-These results tell us that the best set of hyperparameter values for the K Nearest Neighbors algorithm is ```n_neighbors=5``` and ```weights=uniform```. The corresponding accuracy score is 0.8.
+These results tell us that the best set of hyperparameter values for the K Nearest Neighbors algorithm is ```n_neighbors=8``` and ```weights=uniform```. 
 
 - [ ] Train the model on the training set using the best set of hyperparameter values.
 
+Now that we have used hyperparameter tuning to identify the optimal model hyperparameters, we can train the model on the training set using the best set of hyperparameter values. There are several ways to do this. One way is to simply note down the optimal hyperparameters and use them to create a new model object. For example,
+
 ```python
-
-knn_model_tuned = KNeighborsClassifier(n_neighbors=5, weights='uniform')
-
+knn_model_tuned = KNeighborsClassifier(n_neighbors=8, weights='uniform')
 knn_model_tuned.fit(X_train, y_train)
+```
+
+Another way is to use the ```best_estimator_``` attribute of the ```knn_grid_search``` object. This returns the model object that was trained using the best set of hyperparameter values; and then we train the model again. For example,
+
+```python   
+knn_model_tuned = knn_grid_search.best_estimator_
+knn_model_tuned.fit(X_train, y_train)
+```
+
+Lastly, one can also use the ```refit``` argument of the ```GridSearchCV``` class to automatically train the model on the training set using the best set of hyperparameter values; and populate the ```best_estimator_``` attribute. For example,
+
+```python   
+knn_grid_search = GridSearchCV(estimator=knn_model, param_grid=knn_search_space, scoring='accuracy', refit=True)
+knn_model_tuned = knn_grid_search.best_estimator_
 ```
 
 - [ ] Evaluate the model on the test set.
 
 ```python
-
 knn_model_tuned.score(X_test, y_test)
 ```
 

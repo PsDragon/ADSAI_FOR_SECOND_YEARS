@@ -144,7 +144,7 @@ Especially for this occasion, we arranged transportation from you. Please be sha
 - **Guest lecture on Data Driven Marketing by Fingerspitz from 13:00 – 14:00 at Fe 1.017.**
 
 ## Thursday
-- [Tuning Machine Learning Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/DecisionTrees.html)
+- [Tuning Machine Learning Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/HyperparameterTuning.html)
 
 ## Friday
 - [DataLab: Creative Brief](../../Study%20Content/Programming/13.DataLabPR4.html)

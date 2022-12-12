@@ -94,7 +94,7 @@ Please watch the following video to get a better understanding of the difference
 :bell: Cross-validation is a technique that involves splitting the training data into multiple folds, and then training the model on all but one fold, and evaluating the model on the remaining fold. This process is repeated multiple times, with each fold being used as the validation set once. The performance of the model is then averaged across all of the folds. This process is illustrated in the following diagram:
 
 <figure>
-    <img src=".\images\sklearn_cv_fold.PNG" />
+    <img src="images/sklearn_cv_fold.PNG" />
     <br> Source: Scikit-learn documentation
 </figure>
 <br>
@@ -114,7 +114,7 @@ The search algorithm is the algorithm that we use to search over the search spac
 In sum, the process of hyperparameter tuning can be represented by the following diagram:
 
 <figure>
-    <img src=".\images\sklearn_cv.PNG" />
+    <img src="images/sklearn_cv.PNG" />
     <br> Source: Scikit-learn documentation
 </figure>
 <br>

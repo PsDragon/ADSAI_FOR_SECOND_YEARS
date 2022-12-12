@@ -203,7 +203,7 @@ DataLab 3, Prep and Goal(s):
 
 
 Thursday the 15th of December: 9:00 - 17:00 in Hs1.033
-- [Cognition workshop: decision-making & action-taking](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Decision-making%20&%20Actions%20-%20Self-study%20material.html): Check MyTimetable for .
+- [Cognition workshop: decision-making & action-taking](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Decision-making%20&%20Actions-%20Workshop.html)
 
 
 DataLab 4, Cognition Fundamentals - Friday the 16th of December:

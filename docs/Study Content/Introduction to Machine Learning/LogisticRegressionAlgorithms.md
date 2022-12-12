@@ -154,7 +154,7 @@ To solve this assignment:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lYWt-aCnE2U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## That's all for today!
+## That's all for today! Please use the rest of the day to update your learning and work logs. 
 
 Please remember to upload your ```LogisticRegressionAlgorithms.md``` to Github.
 Tomorrow we learn more about trees and forests. To get started early, please watch the following video.

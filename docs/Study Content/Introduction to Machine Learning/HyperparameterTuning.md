@@ -16,9 +16,7 @@ In today's module, we will not be introducing a new model. Rather, we will be di
 Recall that machine learning algorithms are essentially pattern recognition machines. However, we have noticed that they are sometimes prone to discover the wrong patterns. For example, they might be too sensitive to noise in the data, or they might be too simple to capture the underlying patterns in the data. Or they might be too complex and memorize the patterns in the training set, leading to poor performance on the test set. These can be tricky issues to deal with, and this is where hyperparameter tuning comes in.
 
 :bell: how to pronounce "parameter". 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ooKuyQhKc3Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<br>
 disclaimer: I spent 11 years pronouncing it as "Par-A-meter" as in "kilo-Meter". You might hear me pronounce it as "Par-A-meter" in the DataLab. I'm sorry. Old habits die hard. 
 
 ## Today's Learning Objectives:

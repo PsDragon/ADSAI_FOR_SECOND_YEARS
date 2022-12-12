@@ -161,7 +161,7 @@ knn_model = KNeighborsClassifier()
 The ```scikit-learn``` documentation for the K Nearest Neighbors algorithm lists the following hyperparameters.
 
 <figure>
-    <img src=".\images\sklearn_knn.PNG" />
+    <img src="./images/sklearn_knn.PNG" />
     <br> Source: Scikit-learn documentation
 </figure>
 <br>

@@ -42,3 +42,4 @@ In this module, we will be using DataCamp to learn about decision trees. Please 
 Tomorrow in the DataLab we will continue working on the use-cases. Please ensure that you are prepared.
 
 - [ ] Completed the [writing] homework assignments based on Making Friends with Machine Learning and uploaded ``````LogisticRegressionAlgorithms.md`````` to your GitHub repository.
+- [ ] Completed the the section **Classification and Regression Trees** in the course [Machine Learning with Tree-Based Models in Python](https://app.datacamp.com/learn/courses/machine-learning-with-tree-based-models-in-python) and uploaded the evidence to your GitHub repository and learning logs.

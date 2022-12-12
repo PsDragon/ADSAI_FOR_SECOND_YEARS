@@ -142,7 +142,7 @@ from sklearn.metrics import accuracy_score
 df = pd.read_csv('<your_data>.csv')
 ```
 
-- [ ] Split the data into training, validation, and test sets with a 70-20-10 split.
+- [ ] Split the data into training, validation, and test sets with a 80-20 split.
 
 ```python
 # Split the data into training and test sets with 20% of the data in the test set

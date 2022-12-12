@@ -230,7 +230,7 @@ knn_grid_search.best_params_
 
 ```python
 
-{'n_neighbors': 5, 'weights': 'uniform'}
+{'n_neighbors': 8, 'weights': 'uniform'}
 ```
 
 ```python   
@@ -240,15 +240,15 @@ knn_grid_search.best_score_
 
 ```python
 
-0.8
+0.88
 ```
-These results tell us that the best set of hyperparameter values for the K Nearest Neighbors algorithm is ```n_neighbors=5``` and ```weights=uniform```. The corresponding accuracy score is 0.8.
+These results tell us that the best set of hyperparameter values for the K Nearest Neighbors algorithm is ```n_neighbors=8``` and ```weights=uniform```. The corresponding accuracy score is 0.88.
 
 - [ ] Train the model on the training set using the best set of hyperparameter values.
 
 ```python
 
-knn_model_tuned = KNeighborsClassifier(n_neighbors=5, weights='uniform')
+knn_model_tuned = KNeighborsClassifier(n_neighbors=8, weights='uniform')
 
 knn_model_tuned.fit(X_train, y_train)
 ```

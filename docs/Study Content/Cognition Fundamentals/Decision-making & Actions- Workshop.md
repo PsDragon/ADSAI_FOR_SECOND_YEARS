@@ -3,7 +3,7 @@ sort: 4
 ---
 
 # 1. Decision-making & Actions- Workshop
-Today we're going to create the full picture: which is determening which cognitive systems are involved in the bin-picking tasks and how they work. Then we're going translate to that to a robot doing the task which is going to be our high-level design of the robot.
+Today we're going to create the full picture: which is determening which cognitive systems are involved in the bin-picking tasks and how they work. Then we're going translate to that to a robot doing the task which is going to be our high-level design of the robot. 
 
 ## Learning Objectives: 
 We first re-iterate on the learning objectives from the previous cognition datalab:
@@ -14,8 +14,8 @@ We first re-iterate on the learning objectives from the previous cognition datal
 5.	Identify cognitive processes used to process relevant real-world input required for situational awareness & reinforcement learning.
 
 After which we will aim for a new set of learning objectives:
-1. Sample relevant real-world input required for situational awareness & reinforcement learning.
-2. Sample cognitive processes used to process relevant real-world input required for situational awareness & reinforcement learning.
+1. Identify relevant real-world input required for situational awareness & reinforcement learning.
+2. Identify cognitive processes used to process relevant real-world input required for situational awareness & reinforcement learning.
 3. Using situational awareness & reinforcement learning to respond.
 
 
@@ -45,19 +45,23 @@ Open your flowchart and technical report or notes thereof, these are going to be
 
 
 ### Object Detection Algorithm
-Having layed out that groundwork condition, we are going to work on the [creative brief](https://adsai.buas.nl/Year2/BlockB/#cognition). Using your flowchart supplemented by text in your report/notes we're going to run over the part we already created to check if we have adequately met the creative breif requirements by doing the following tasks:
+Having layed out that groundwork condition, we are going to work on the [creative brief](https://adsai.buas.nl/Year2/BlockB/#cognition). Using your flowchart supplemented by text in your report/notes we're going to run over the part we already created to check if we have adequately met the creative brief requirements by doing the following tasks:
 
 
 2) **Identify appropriate perceptual features for object detection:** what does the human and robot both have to perceive to detect the objects? 
+
 <img src="./assets/CognitiveVisionSystem.jpg" alt="CognitiveVisionSystem" width="900"/>
 *Figure 1. Flowchart of a typical human cognitive vision system (de Souza Alves, T., de Oliveira, C. S., Sanin, C., & Szczerbicki, E.,2018).*
 
+- [(click for more refreshment on perception)](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Perception%20&%20Learning%20-%20Workshop.html#refreshers)
 
 3) **Identify required prior-knowledge for contextualising object detection:** what do the human and robot both need to know about the object to detect the object and know what to do with it?
 
 
 <img src="./assets/Memory.jpg" alt="Memory Cognitive Model Example 1" width="1100"/>
 *Figure 2. The full human cognitive memory system.*
+
+- [(click for more refreshment on memory and learning)](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Perception%20&%20Learning%20-%20Workshop.html#refreshers-1)
 
 <img src="./assets/Memory2.png" alt="Memory Cognitive Model Example 2" width="800"/>
 *Figure 3. A simplified human cognitive memory system.*
@@ -100,3 +104,10 @@ Open your flowchart and technical report or notes thereof, these are going to be
 
 9) **Suggestions for model improvement, real-world implementation, knowledge acquisition and decision-making are made**: How could you improve on your robot in the future? If you have any great ideas which are out of scope, list them for the excellent criteria!
 
+
+## Relevant literature to research:
+- [Summary of Concepts and Terms](https://github.com/BredaUniversityADSAI/ADS-AI/blob/260f3f788372cfb55e2a4ba2956800de1b3b14a8/docs/Study%20Content/Cognition%20Fundamentals/assets/Summary%20of%20Concepts%20and%20Terms.docx): Highly recommended read which summarizes most important concepts discussed in the literature below. It also contains various important model you can use to create cognitive systems; or systems to deal with information processing in general.
+- [Schurgin, M.W. (2018). Visual memory, the long and the short of it: A review of visual working memory and long-term memory. Attention, Perception, & Psychophysics, 80: 1035-1056.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/997b5108aa39c2ceded8eb9dd979c7333360e624/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/Visual%20memory,%20the%20long%20and%20the%20short%20of%20it%20-%20A%20review%20of%20visual%20working.pdf)
+- [Eichenbaum, H. (2017). Memory: Organization and Control. Annual Review of Psychology, 68, 19-45.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/997b5108aa39c2ceded8eb9dd979c7333360e624/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/Memory%20-%20Organization%20and%20Control.pdf)
+- [O’Reagan, J.K. (1992). Solving the “real” mysteries of visual perception: the world as an outside memory. Can J Psychol, 46(3):461-488.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/29bd304acfa39a1ae5c9aa8640a56cbbe9a18c1e/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/SOLVING%20THE%20REAL%20MYSTERIES%20OF%20VISUAL%20PERCEPTION.pdf)
+- [Szeliski, R. (2022). Computer vision: algorithms and applications. Springer Nature.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/7c3e62e0c5ba4a3939286b0462568cc2dc592acc/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/Computer%20Vision%20-%20Algorithms%20and%20Applications,%202nd%20Edition.pdf)

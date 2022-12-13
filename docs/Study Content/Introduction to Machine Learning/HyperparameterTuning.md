@@ -91,11 +91,11 @@ Please watch the following video to get a better understanding of the difference
 
 <br>
 
-:bell: Cross-validation is a technique that involves splitting the training data into multiple folds, and then training the model on all but one fold, and evaluating the model on the remaining fold. This process is repeated multiple times, with each fold being used as the validation set once. The performance of the model is then averaged across all of the folds. This process is illustrated in the following diagram:
+:bell: Cross-validation is a technique that involves splitting the training data into multiple folds, and then training the model on all but one fold, and evaluating the model on the remaining fold. This process is repeated multiple times, with each fold being used as the validation set once. This process is illustrated in the following diagram:
 
 <figure>
     <img src="images/sklearn_cv_fold.PNG" />
-    <br> Source: Scikit-learn documentation
+    <br> Source: [Scikit-learn documentation](https://scikit-learn.org/stable/modules/cross_validation.html)
 </figure>
 <br>
 
@@ -115,7 +115,7 @@ In sum, the process of hyperparameter tuning can be represented by the following
 
 <figure>
     <img src="images/sklearn_cv.PNG" />
-    <br> Source: Scikit-learn documentation
+    <br> Source: [Scikit-learn documentation](https://scikit-learn.org/stable/modules/cross_validation.html)
 </figure>
 <br>
 

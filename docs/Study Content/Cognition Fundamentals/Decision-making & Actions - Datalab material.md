@@ -3,6 +3,8 @@ sort: 5
 ---
 
 # 1. Decision-making & Actions - Datalab
+Today we'll finalize yesterday's work: we're going to determe which cognitive systems are involved in the bin-picking tasks and how they work. Then we're going translate to that to a robot doing the task. After that we are going to implement our robot design into robosuit and actually get all the input we need in there!
+
 
 ## Learning Objectives: 
 1. Sample relevant real-world input required for situational awareness & reinforcement learning.

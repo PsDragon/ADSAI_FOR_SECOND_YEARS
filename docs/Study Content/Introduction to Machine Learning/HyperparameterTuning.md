@@ -95,7 +95,7 @@ Please watch the following video to get a better understanding of the difference
 
 <figure>
     <img src="images/sklearn_cv_fold.PNG" />
-    <br> Source: Scikit-learn documentation
+    <br> Source: [Scikit-learn documentation](https://scikit-learn.org/stable/modules/cross_validation.html)
 </figure>
 <br>
 
@@ -115,7 +115,7 @@ In sum, the process of hyperparameter tuning can be represented by the following
 
 <figure>
     <img src="images/sklearn_cv.PNG" />
-    <br> Source: Scikit-learn documentation
+    <br> Source: [Scikit-learn documentation](https://scikit-learn.org/stable/modules/cross_validation.html)
 </figure>
 <br>
 

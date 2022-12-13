@@ -68,9 +68,9 @@ Live lecture which is given at the 15th of November from 13:00 till 14:30. Take 
 ## Creative Briefing: Elaborate on you flowchart
 Open your flowchart and technical report or notes thereof, these are going to be the tools to make our design. Answer the following question using your flowchart and supplemented with text:
 7. **How do humans sample relevant real-world input required for situational awareness & reinforcement learning?**
-•	After sampling the relevant input, how is this input then processed to create situational awareness & reinforcement learning?
-•	When we have sampled, processed (e.g. classified) our real-world input, how do we then decide upon which action to take?
-•	How do we take and execute that action?
+- After sampling the relevant input, how is this input then processed to create situational awareness & reinforcement learning?
+- When we have sampled, processed (e.g. classified) our real-world input, how do we then decide upon which action to take?
+- How do we take and execute that action?
 8. **The robot controller can respond to different situational conditions using formal logic:** For the robot and human respectively, which input can be proccesed into a response using just if/else statements?
 9. **Suggestions for model improvement, real-world implementation, knowledge acquisition and decision-making are made**: How could you improve on your robot in the future? If you have any great ideas which are out of scope, list them for the excellent criteria!
 

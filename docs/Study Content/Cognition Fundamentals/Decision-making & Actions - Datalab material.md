@@ -26,9 +26,6 @@ Live lecture in the datalab. If you can't wait, [here are the slides already](ht
 Take a look at the [assessment criteria](https://adsai.buas.nl/Year2/BlockB/#cognition). The important thing for final grading is how the implementation of the robot works and how it is explained in the technical report. The cognitive model serves a didactive and can be used for comparison.
 
 ### Object Detection Algorithm
-<img src="./assets/CognitiveVisionSystem.jpg" alt="CognitiveVisionSystem" width="900"/>
-*Figure 1. Flowchart of a typical human cognitive vision system (de Souza Alves, T., de Oliveira, C. S., Sanin, C., & Szczerbicki, E.,2018).*
-
 Having just refreshed out knowledge, we're going to run through these questions again and test our cognitive and robot models. Open your flowchart and technical report and see if you need to make any changes or elaborations based on the following questions:
 2. **Identify appropriate perceptual features for object detection:** what does the human and robot both have to perceive to detect the objects? 
 <img src="./assets/CognitiveVisionSystem.jpg" alt="CognitiveVisionSystem" width="900"/>
@@ -53,9 +50,9 @@ Then, we're going to elaborate on our flowchart and notes by working out the fol
 
 6. **Identify cognitive processes used to process relevant real-world input required for situational awareness & reinforcement learning:** How do the robot and human respectively, know what is going on in the situation and environment, and how does he know what to do? How does the robot learn using reinforcement learning?
 7. **How do humans sample relevant real-world input required for situational awareness & reinforcement learning?**
-•	After sampling the relevant input, how is this input then processed to create situational awareness & reinforcement learning?
-•	When we have sampled, processed (e.g. classified) our real-world input, how do we then decide upon which action to take?
-•	How do we take and execute that action?
+- After sampling the relevant input, how is this input then processed to create situational awareness & reinforcement learning?
+- When we have sampled, processed (e.g. classified) our real-world input, how do we then decide upon which action to take?
+- How do we take and execute that action?
 8. **The robot controller can respond to different situational conditions using formal logic:** For the robot and human respectively, which input can be proccesed into a response using just if/else statements?
 9. **Suggestions for model improvement, real-world implementation, knowledge acquisition and decision-making are made**: How could you improve on your robot in the future? If you have any great ideas which are out of scope, list them for the excellent criteria!
 

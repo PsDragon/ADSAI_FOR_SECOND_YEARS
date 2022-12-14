@@ -73,12 +73,17 @@ Having just refreshed out knowledge, we're going to run through these questions 
 - How do we take and execute that action?
 
 
-8) **The robot controller can respond to different situational conditions using formal logic:** For the robot and human respectively, which input can be proccesed into a response using just if/else statements?
-
+8) **The robot controller can respond to different situational conditions using formal logic:** ?
+Do a dry run of your flowchart:
 - Test your flowchart by running the different bin-picking tasks through your cognitive model and robot model. Can it deal with all the input and process it in the way you intend to? Is anything missing? How does the robot/human can then respond to delivered input? Make changes if you run into any issues; this is how you create a good high-level design!
+- Which input can be proccesed into a response using just if/else statements; for the robot
 
-9) **Suggestions for model improvement, real-world implementation, knowledge acquisition and decision-making are made**: How could you improve on your robot in the future? If you have any great ideas which are out of scope, list them for the excellent criteria!
 
+9) Define the environement within your flowchart; input, proccesses, output, and start planning the environment wrapper:
+- [Instructions](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/10.%20Datalab4-Prep.html)
+
+10) **Suggestions for model improvement, real-world implementation, knowledge acquisition and decision-making are made**: How could you improve on your robot in the future? If you have any great ideas which are out of scope, list them for the excellent 
+criteria!
 
 ## Robosuit setup: 13:00 - 14:00
 Setup robotsuit to gather input from the simulated environement. 

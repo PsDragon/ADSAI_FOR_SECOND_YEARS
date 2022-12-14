@@ -108,7 +108,12 @@ Do a dry run of your flowchart:
 - Which input can be proccesed into a response using just if/else statements; for the robot
 
 
-9) **Optional: Suggestions for model improvement, real-world implementation, knowledge acquisition and decision-making are made**: How could you improve on your robot in the future? If you have any great ideas which are out of scope, list them for the excellent criteria!
+9) Define the environement within your flowchart; input, proccesses, output, and start planning the environment wrapper:
+- [Instructions](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/10.%20Datalab4-Prep.html)
+
+
+
+10) **Optional: Suggestions for model improvement, real-world implementation, knowledge acquisition and decision-making are made**: How could you improve on your robot in the future? If you have any great ideas which are out of scope, list them for the excellent criteria!
 
 
 ## Relevant literature to research:

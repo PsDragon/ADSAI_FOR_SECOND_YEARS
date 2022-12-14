@@ -16,7 +16,7 @@ We first re-iterate on the learning objectives from the previous cognition datal
 After which we will aim for a new set of learning objectives:
 1. Identify relevant real-world input required for situational awareness & reinforcement learning.
 2. Identify cognitive processes used to process relevant real-world input required for situational awareness & reinforcement learning.
-3. Using situational awareness & reinforcement learning to respond.
+3. Use situational awareness & reinforcement learning to make a decision and respond with a action.
 
 
 
@@ -67,7 +67,10 @@ Having layed out that groundwork condition, we are going to work on the [creativ
 *Figure 3. A simplified human cognitive memory system.*
 
 
-4) **Use cognitive models of pattern recognition to improve feature and/or object detection:** For both the human and robot; which visual perception processes (e.g. edge detection) can help recognize the object (characteristics) faster and with greather relieability?
+4) **Use cognitive models of pattern recognition to improve feature and/or object detection:**
+- Start with a dry-run of your flowchart: Test your flowchart by running the different object-detection tasks through your cognitive model and robot model. Can it deal with all the input and process it in the way you intend to? Is anything missing? Make changes if you run into any issues; this is how you create a good high-level design!
+- For both the human and robot; which visual perception processes (e.g. edge detection) can help recognize the object (characteristics) faster and with greather relieability?
+
 
 ### Robotic Controller & Reinforcement Learning algorithm
 
@@ -99,10 +102,13 @@ Open your flowchart and technical report or notes thereof, these are going to be
 - How do we take and execute that action?
 
 
-8) **The robot controller can respond to different situational conditions using formal logic:** For the robot and human respectively, which input can be proccesed into a response using just if/else statements?
+8) **The robot controller can respond to different situational conditions using formal logic:** ?
+Do a dry run of your flowchart:
+- Test your flowchart by running the different bin-picking tasks through your cognitive model and robot model. Can it deal with all the input and process it in the way you intend to? Is anything missing? How does the robot/human can then respond to delivered input? Make changes if you run into any issues; this is how you create a good high-level design!
+- Which input can be proccesed into a response using just if/else statements; for the robot
 
 
-9) **Suggestions for model improvement, real-world implementation, knowledge acquisition and decision-making are made**: How could you improve on your robot in the future? If you have any great ideas which are out of scope, list them for the excellent criteria!
+9) **Optional: Suggestions for model improvement, real-world implementation, knowledge acquisition and decision-making are made**: How could you improve on your robot in the future? If you have any great ideas which are out of scope, list them for the excellent criteria!
 
 
 ## Relevant literature to research:

@@ -16,7 +16,7 @@ We first re-iterate on the learning objectives from the previous cognition datal
 After which we will aim for a new set of learning objectives:
 1. Identify relevant real-world input required for situational awareness & reinforcement learning.
 2. Identify cognitive processes used to process relevant real-world input required for situational awareness & reinforcement learning.
-3. Using situational awareness & reinforcement learning to respond.
+3. Use situational awareness & reinforcement learning to make a decision and respond with a action.
 
 
 

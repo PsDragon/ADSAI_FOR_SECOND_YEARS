@@ -51,6 +51,8 @@ Having just refreshed out knowledge, we're going to run through these questions 
 
 4) **Use cognitive models of pattern recognition to improve feature and/or object detection:** For both the human and robot; which visual perception processes (e.g. edge detection) can help recognize the object (characteristics) faster and with greather relieability?
 
+- Test your flowchart by running the different object-detection tasks through your cognitive model and robot model. Can it deal with all the input and process it in the way you intend to? Is anything missing? Make changes if you run into any issues; this is how you create a good high-level design!
+
 
 ### Robotic Controller & Reinforcement Learning algorithm
 
@@ -73,6 +75,7 @@ Having just refreshed out knowledge, we're going to run through these questions 
 
 8) **The robot controller can respond to different situational conditions using formal logic:** For the robot and human respectively, which input can be proccesed into a response using just if/else statements?
 
+- Test your flowchart by running the different bin-picking tasks through your cognitive model and robot model. Can it deal with all the input and process it in the way you intend to? Is anything missing? How does the robot/human can then respond to delivered input? Make changes if you run into any issues; this is how you create a good high-level design!
 
 9) **Suggestions for model improvement, real-world implementation, knowledge acquisition and decision-making are made**: How could you improve on your robot in the future? If you have any great ideas which are out of scope, list them for the excellent criteria!
 

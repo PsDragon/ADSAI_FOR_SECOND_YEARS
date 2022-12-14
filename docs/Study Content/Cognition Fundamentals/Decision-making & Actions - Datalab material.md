@@ -49,9 +49,9 @@ Having just refreshed out knowledge, we're going to run through these questions 
 *Figure 3. A simplified human cognitive memory system.*
 
 
-4) **Use cognitive models of pattern recognition to improve feature and/or object detection:** For both the human and robot; which visual perception processes (e.g. edge detection) can help recognize the object (characteristics) faster and with greather relieability?
-
-- Test your flowchart by running the different object-detection tasks through your cognitive model and robot model. Can it deal with all the input and process it in the way you intend to? Is anything missing? Make changes if you run into any issues; this is how you create a good high-level design!
+4) **Use cognitive models of pattern recognition to improve feature and/or object detection:**
+- Start with a dry-run of your flowchart: Test your flowchart by running the different object-detection tasks through your cognitive model and robot model. Can it deal with all the input and process it in the way you intend to? Is anything missing? Make changes if you run into any issues; this is how you create a good high-level design!
+- For both the human and robot; which visual perception processes (e.g. edge detection) can help recognize the object (characteristics) faster and with greather relieability?
 
 
 ### Robotic Controller & Reinforcement Learning algorithm

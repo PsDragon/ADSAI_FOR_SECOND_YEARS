@@ -14,7 +14,6 @@ you have been introduced to during the course.
 - [ ] Logistic regression [DataCamp](https://www.datacamp.com/tutorial/understanding-logistic-regression-python){:target="_blank"}.
 - [ ] Decision trees [Machine Learning with Tree-Based Models in Python](https://app.datacamp.com/learn/courses/machine-learning-with-tree-based-models-in-python){:target="_blank"}.
 
-
 ## Supervised Learning - Random Forests
 
 When you are sufficiently confident in your supervised learning abilities,

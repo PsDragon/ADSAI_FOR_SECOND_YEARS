@@ -52,7 +52,7 @@ Now we are going to make a flowchart of our model of the  human cognitive vision
 3. Fill in the rest of the flowchart using the following steps:
 - Take a look at the lecture slides and provided literature below regarding human visual perception. Fill in the rest of the human cognitive vision system; specifically taking the input, visual perception proccesing steps and desired output in mind.
 
-<img src="./assets/CognitiveVisionSystem.jpg" alt="Edge detection example" width="900"/>
+<img src="./assets/CognitiveVisionSystem.jpg" alt="CognitiveVisionSystem" width="900"/>
 *Figure 1. Flowchart of a typical human cognitive vision system (de Souza Alves, T., de Oliveira, C. S., Sanin, C., & Szczerbicki, E.,2018).*
 
 ### Example of perceptual processing model: Edge detection

@@ -23,4 +23,19 @@ open the[Machine Learning with Tree-Based Models in Python](https://app.datacamp
 
 Click [here](https://www.youtube.com/watch?v=E8gmARGvPlI) for more information.
 
-:bell: Please remember to fill in your learning and work logs for the final feedback of this year!
+:bell: Please remember to fill in your learning and work logs!
+
+## Please use the rest of the day to work on your Final Report.
+
+Note that your report should contain the following sections:
+
+- [ ] Introduction to the business case.
+- [ ] Introduction to the datasets used.
+    - [ ] A paragraph on data cleaning and preparation.
+    - [ ] A paragraph on data exploration including visualisations.
+- [ ] Introduction to the machine learning models used.
+    - [ ] A paragraph describing the model
+- [ ] A section describing the results obtained using the models.
+
+For more information on the report and specific writing requirements, please refer to the Project Specifications you can find [here](https://adsai.buas.nl/Year1/BlockB/Project%20Requirements/ReportRequirements.html).
+

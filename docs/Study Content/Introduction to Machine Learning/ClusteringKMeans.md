@@ -87,12 +87,6 @@ Create a new markdown file in your repository called `ClusteringKMeans.md` and a
 
 
 
+# Preparation for the DataLab
 
-# Next up!
-
-Coming Datalab we will reflect on K-means Clustering Analyses again and give you an opportunity to ask any questions you might have.
-
-In datalab, we will apply K-means clustering on our problem statement for the Oosterhout dataset!
-
-## Resources
-- [Codecademy](https://www.codecademy.com/learn/machine-learning)
+- [ ] Upload the completed `ClusteringKMeans.md` assignment to Github.

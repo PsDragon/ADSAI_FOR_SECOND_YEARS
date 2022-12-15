@@ -201,7 +201,7 @@ This can be done in scikit-learn by using the ```GridSearchCV``` class. The ```G
 
 We also need to specify the ```scoring``` metric that we want to use to evaluate the performance of the models. In our case we will use the ```accuracy``` metric because we are using a classification algorithm.
 
-By default, the ```GridSearchCV``` class uses 5-fold cross-validation. This means that the grid search algorithm will train 20 models, and each model will be evaluated using 5-fold cross-validation. This means that the grid search algorithm will train 100 different models [```n_neighbors``` X ```weights``` X 3-fold cross-validation].
+By default, the ```GridSearchCV``` class uses 5-fold cross-validation. This means that the grid search algorithm will train 20 models, and each model will be evaluated using 5-fold cross-validation. This means that the grid search algorithm will train 100 different models [```n_neighbors``` X ```weights``` X 5].
 
 ```python
 #Import GridSearchCV from scikit-learn

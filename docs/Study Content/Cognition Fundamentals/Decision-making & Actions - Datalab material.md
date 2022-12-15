@@ -12,16 +12,13 @@ Today, we'll finalize yesterday's work: we're going to determe which cognitive s
 3. Use situational awareness & reinforcement learning to make a decision and respond with a action.
 
 # Schedule:
-1. Refresher lecture on Decision-making & Actions: 9:15 - 10:00
-2. Creative Briefing: Iterate on you flowchart: 10:00 - 12:00
+0. 9:15 - 9:30: Stand-up
+1. Creative Briefing: Iterate on you flowchart: 9:30 - 12:00
 - Group Review of Flowcharts from 11:00 - 12:00, if time allows it.
 - Lunch -
 3. Robosuit setup: 13:00 - 14:00
 4. Selecting input in robosuit: 14:00 - 17:00
 
-
-## Lecture - Cognition Fundamentals: Decision-making & Actions Refresher
-Live lecture in the datalab. If you can't wait, [here are the slides already](https://github.com/BredaUniversityADSAI/ADS-AI/blob/f796cdb8c7629fe462f89344ab5592b0d858d35f/docs/Study%20Content/Cognition%20Fundamentals/assets/lectures/Cognition%20Fundamentals%20-%20Refresher%20on%20Decision-making%20and%20Actions.pptx) but after the lecture, there should be [a recording available here!](https://www.youtube.com/watch?v=dQw4w9WgXcQ&feature=share&si=ELPmzJkDCLju2KnD5oyZMQ)
 
 
 ## Creative Briefing: Iterate on you flowchart

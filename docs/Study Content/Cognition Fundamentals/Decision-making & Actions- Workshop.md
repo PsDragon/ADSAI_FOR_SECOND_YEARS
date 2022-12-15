@@ -94,7 +94,7 @@ Having layed out that groundwork condition, we are going to work on the [creativ
 Note that these apart from designing, implementing it is also part for the [higher assessment criteria](https://adsai.buas.nl/Year2/BlockB/#cognition).
 
 ## Lecture - Cognition Fundamentals: Decision-making & Actions
-Live lecture which is given at the 15th of November from 13:00 till 14:30. Take a look at your timetable to see where and when exactly the lecture takes place! If you can't wait, [here are the slides already](https://github.com/BredaUniversityADSAI/ADS-AI/blob/8a312a9350b35bad7ebbf135293d669582d8575d/docs/Study%20Content/Cognition%20Fundamentals/assets/lectures/Cognition%20Fundamentals%20-%20Decision-making%20and%20Actions.pptx) but after the lecture, there should be [a recording available here!](https://www.youtube.com/watch?v=dQw4w9WgXcQ&feature=share&si=ELPmzJkDCLju2KnD5oyZMQ)
+Live lecture which is given at the 15th of November from 13:00 till 14:30. Take a look at your timetable to see where and when exactly the lecture takes place! If you can't wait, [here are the slides already](https://github.com/BredaUniversityADSAI/ADS-AI/blob/8a312a9350b35bad7ebbf135293d669582d8575d/docs/Study%20Content/Cognition%20Fundamentals/assets/lectures/Cognition%20Fundamentals%20-%20Decision-making%20and%20Actions.pptx) but after the lecture, there should be [a recording available here!](https://edubuas-my.sharepoint.com/:v:/g/personal/heijligers_b_buas_nl/Eb6WEWdQlh9PmIx9WA-PKlcBmgEc-_jEBMvcmgTRmo1F2g?e=YdmutC)
 
 
 

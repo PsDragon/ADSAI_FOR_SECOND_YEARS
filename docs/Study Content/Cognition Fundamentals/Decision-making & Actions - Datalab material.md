@@ -12,16 +12,13 @@ Today, we'll finalize yesterday's work: we're going to determe which cognitive s
 3. Use situational awareness & reinforcement learning to make a decision and respond with a action.
 
 # Schedule:
-1. Refresher lecture on Decision-making & Actions: 9:15 - 10:00
-2. Creative Briefing: Iterate on you flowchart: 10:00 - 12:00
+0. 9:15 - 9:30: Stand-up
+1. Creative Briefing: Iterate on you flowchart: 9:30 - 12:00
 - Group Review of Flowcharts from 11:00 - 12:00, if time allows it.
 - Lunch -
 3. Robosuit setup: 13:00 - 14:00
 4. Selecting input in robosuit: 14:00 - 17:00
 
-
-## Lecture - Cognition Fundamentals: Decision-making & Actions Refresher
-Live lecture in the datalab. If you can't wait, [here are the slides already](https://github.com/BredaUniversityADSAI/ADS-AI/blob/f796cdb8c7629fe462f89344ab5592b0d858d35f/docs/Study%20Content/Cognition%20Fundamentals/assets/lectures/Cognition%20Fundamentals%20-%20Refresher%20on%20Decision-making%20and%20Actions.pptx) but after the lecture, there should be [a recording available here!](https://www.youtube.com/watch?v=dQw4w9WgXcQ&feature=share&si=ELPmzJkDCLju2KnD5oyZMQ)
 
 
 ## Creative Briefing: Iterate on you flowchart
@@ -49,7 +46,9 @@ Having just refreshed out knowledge, we're going to run through these questions 
 *Figure 3. A simplified human cognitive memory system.*
 
 
-4) **Use cognitive models of pattern recognition to improve feature and/or object detection:** For both the human and robot; which visual perception processes (e.g. edge detection) can help recognize the object (characteristics) faster and with greather relieability?
+4) **Use cognitive models of pattern recognition to improve feature and/or object detection:**
+- Start with a dry-run of your flowchart: Test your flowchart by running the different object-detection tasks through your cognitive model and robot model. Can it deal with all the input and process it in the way you intend to? Is anything missing? Make changes if you run into any issues; this is how you create a good high-level design!
+- For both the human and robot; which visual perception processes (e.g. edge detection) can help recognize the object (characteristics) faster and with greather relieability?
 
 
 ### Robotic Controller & Reinforcement Learning algorithm
@@ -71,11 +70,17 @@ Having just refreshed out knowledge, we're going to run through these questions 
 - How do we take and execute that action?
 
 
-8) **The robot controller can respond to different situational conditions using formal logic:** For the robot and human respectively, which input can be proccesed into a response using just if/else statements?
+8) **The robot controller can respond to different situational conditions using formal logic:** ?
+Do a dry run of your flowchart:
+- Test your flowchart by running the different bin-picking tasks through your cognitive model and robot model. Can it deal with all the input and process it in the way you intend to? Is anything missing? How does the robot/human can then respond to delivered input? Make changes if you run into any issues; this is how you create a good high-level design!
+- Which input can be proccesed into a response using just if/else statements; for the robot
 
 
-9) **Suggestions for model improvement, real-world implementation, knowledge acquisition and decision-making are made**: How could you improve on your robot in the future? If you have any great ideas which are out of scope, list them for the excellent criteria!
+9) Define the environement within your flowchart; input, proccesses, output, and start planning the environment wrapper:
+- [Instructions](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/10.%20Datalab4-Prep.html)
 
+10) **Suggestions for model improvement, real-world implementation, knowledge acquisition and decision-making are made**: How could you improve on your robot in the future? If you have any great ideas which are out of scope, list them for the excellent 
+criteria!
 
 ## Robosuit setup: 13:00 - 14:00
 Setup robotsuit to gather input from the simulated environement. 

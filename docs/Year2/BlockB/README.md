@@ -207,7 +207,9 @@ Thursday the 15th of December: 9:00 - 17:00 in Hs1.033
 
 
 DataLab 4, Cognition Fundamentals - Friday the 16th of December:
+- [Prep](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/10.%20Datalab4-Prep.html)
 - [Decision-making & action-taking models for reinfocement learning](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Decision-making%20&%20Actions%20-%20Datalab%20material.html)
+- [Custom RoboSuite Gym Environement](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/10.1%20Datalab4.html)
 
 
 ### Week 6-7

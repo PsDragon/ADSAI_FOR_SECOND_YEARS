@@ -149,7 +149,8 @@ Study the following:
 
 **DataLab 2: Tweet pre-processing**
 
-[![Github](https://badgen.net/badge/%20/Open%20in%20GitHub/:redr?icon=github)](https://github.com/BredaUniversityADSAI/2022-23-Y2-BlockC/tree/main/DataLabs/W1-DL2)
+[<img src="./images/githubbadge.png" alt="GitHub" width="15%"/>](https://github.com/BredaUniversityADSAI/2022-23-Y2-BlockC/tree/main/DataLabs/W1-DL2)
+
 
 After this datalab, you will be able to:
 

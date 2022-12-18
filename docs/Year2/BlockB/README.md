@@ -233,6 +233,7 @@ DataLab 5, Prep and Goal(s):
 - [Prep](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/10.2%20Remote%20Training%20with%20ClearML.html)
 - [Model Investigation and Hyperparameter tuning]()
 
+One more knowledge module:
 - [Evaluating Control Algorithm Performance I]()
 
 __Formative feedback III (End of Week 6 {THURSDAY})__

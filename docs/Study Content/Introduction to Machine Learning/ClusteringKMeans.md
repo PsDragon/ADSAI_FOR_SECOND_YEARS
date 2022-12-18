@@ -73,8 +73,6 @@ Please watch the following video to get an insight into K-Means Clustering.
 
 Now, we're introduced to Cluster analysis it's time ground down these fundamental by doing a interactive workshop on the clustering algorithm. Open the [Cluster Analysis in Python](https://app.datacamp.com/learn/courses/cluster-analysis-in-python){:target="_blank"}.
 
-> You will have time to work on the Handwriting Recognition using K-Means project tomorrow in the data lab.
-
 
 ## Assignment
 

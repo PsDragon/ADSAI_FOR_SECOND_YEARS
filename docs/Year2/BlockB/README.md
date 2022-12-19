@@ -224,7 +224,7 @@ Catch up on the follwing:
 - Creating the gym environment wrapper for RL (Poor and Insufficient - ILO 4.2)
 
 Work through this knowledge Module:
-- [Reinforcement Learning III: Models and Hyperparameters](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/8.%20Reinforcement%20Learning%20III.html)
+- [Reinforcement Learning III: Models and Hyperparameters](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/11.%20Reinforcement%20Learning%20III.html)
 
 #### <mark>DataLab (individual)</mark>
 

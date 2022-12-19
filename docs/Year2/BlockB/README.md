@@ -212,33 +212,47 @@ DataLab 4, Cognition Fundamentals - Friday the 16th of December:
 - [Custom RoboSuite Gym Environement](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/10.1%20Datalab4.html)
 
 
-### Week 6-7
+### Week 6
 
 We have now covered the majority of the knowledge modules and will spend most of the next two weeks training and evaluating our models. 
 
-- [Robotics IIIb: Advanced RoboSuite](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/6.3%20Robotics%20IIIb.html)
-- [Reinforcement Learning III: ](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/8.%20Reinforcement%20Learning%20III.html)
+Catch up on the follwing:
+- PID Controller for the pick and place task (Sufficient - ILO 4.1)
+- Data collection for the co-ordinate estimation model (Good - ILO 4.1)
+- Building and training the co-ordinate estimation model (Good - ILO 4.1)
+- Integrating the co-ordinate estimation model  (Good - ILO 4.1)
+- Creating the gym environment wrapper for RL (Poor and Insufficient - ILO 4.2)
 
+Work through this knowledge Module:
+- [Reinforcement Learning III: Models and Hyperparameters](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/8.%20Reinforcement%20Learning%20III.html)
 
 #### <mark>DataLab (individual)</mark>
 
-DataLab 1, Prep and Goal(s):
+DataLab 5, Prep and Goal(s):
 
+- [Prep](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/10.2%20Remote%20Training%20with%20ClearML.html)
 - [Model Investigation and Hyperparameter tuning]()
 
-DataLab 2, Prep and Goal(s):
+One more knowledge module:
+- [Evaluating Control Algorithm Performance I]()
 
-- [Holiday!]()
+__Formative feedback III (End of Week 6 {THURSDAY})__
 
-DataLab 3, Prep and Goal(s):
+DataLab 6, Prep and Goal(s):
+
+- [Holiday!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+### Week 7
+
+- [Robotics IIIb: Advanced RoboSuite](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/6.3%20Robotics%20IIIb.html)
+
+DataLab 7, Prep and Goal(s):
 
 - [Let's get pixelated!]()
 
-DataLab 4, Prep and Goal(s):
+DataLab 8, Prep and Goal(s):
 
 - [Performance evaluation]()
-
-__Formative feedback III (End of Week 6)__
 
 ### Week 8 
 

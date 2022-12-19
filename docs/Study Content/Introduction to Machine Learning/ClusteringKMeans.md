@@ -71,9 +71,7 @@ Please watch the following video to get an insight into K-Means Clustering.
 
 ## Blended Learning: DataCamp
 
-Now, we're introduced to Cluster analysis it's time ground down these fundamental by doing a interactive workshop on the clustering algorithm. Open the [Cluster Analysis in Python](https://app.datacamp.com/learn/courses/cluster-analysis-in-python){:target="_blank"}.
-
-> You will have time to work on the Handwriting Recognition using K-Means project tomorrow in the data lab.
+Now, we're introduced to Cluster analysis it's time ground down these fundamental by doing a interactive workshop on commonly used clustering algorithms. Kindly complete the [Cluster Analysis in Python](https://app.datacamp.com/learn/courses/cluster-analysis-in-python){:target="_blank"} course on DataCamp.
 
 
 ## Assignment
@@ -83,7 +81,7 @@ Create a new markdown file in your repository called `ClusteringKMeans.md` and a
 1. What is the difference between supervised and unsupervised learning?
 2. In your opinion, what are the advantages and disadvantages of unsupervised learning?
 3. List 3 examples of unsupervised learning.
-4. Looking back at the creative brief, are there applications ? Be creative and think outside the box!
+4. Looking back at the creative brief, can you think of use-cases where unsupervised learning can be applied? Be creative and think outside the box!
 
 
 

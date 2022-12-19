@@ -88,3 +88,4 @@ Create a new markdown file in your repository called `ClusteringKMeans.md` and a
 # Preparation for the DataLab
 
 - [ ] Upload the completed `ClusteringKMeans.md` assignment to Github.
+- [ ] Ensure that your learning and work logs are up to date.

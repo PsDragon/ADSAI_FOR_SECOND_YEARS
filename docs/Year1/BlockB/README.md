@@ -189,7 +189,7 @@ Especially for this occasion, we arranged transportation from you. Please be sha
 
 ## Friday
 - [DataLab: Creative Brief](../../Study%20Content/Programming/13.DataLabPR4.html)
-**Formative feedback session IV**
+
 
 # Week 8 : Business Case 
 
@@ -206,6 +206,7 @@ These topics are advanced topics that will help you get a better understanding o
 
 ## Wednesday
 - [DataLab: Creative Brief](../../Study%20Content/Programming/13.DataLabPR4.html)
+- **Formative feedback session IV**
 
 ## Thursday
 - [DataLab: Creative Brief](../../Study%20Content/Programming/13.DataLabPR4.html)

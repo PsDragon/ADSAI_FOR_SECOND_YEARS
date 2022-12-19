@@ -86,6 +86,8 @@ DataLab Prep
 ## Wednesday
 DataLab
 
+[<img src="./images/githubbadge.png" alt="GitHub" width="15%"/>](https://github.com/BredaUniversityADSAI/2022-23-Y1-BlockC/blob/main/DataLabs/W2-DL1/W2-DL1-MLP-Student-Notebook.ipynb)
+
 ## Thursday
 From the book [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
 - [ ] Read Chapter 3: Introduction to Keras and TensorFlow

@@ -215,6 +215,8 @@ DataLab 2, Goal(s):
 
 ### Week 4
 
+Cognition
+
 DataLab 1, Prep and Goal(s):
 
 DataLab 2, Prep and Goal(s):

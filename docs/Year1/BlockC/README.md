@@ -105,7 +105,13 @@ DataLab Prep
 - [ ] Chapter 3 of the course [Introduction to Deep Learning with Keras](https://app.datacamp.com/learn/courses/introduction-to-deep-learning-with-keras)
 
 ## Friday
-DataLab
+In this DataLab, you will learn how to analyze and improve Multilayer Perceptrons (MLPs). Specifically you will:
+
+- [ ] plot and interpret learning curves,
+- [ ] use early stopping,
+- [ ] and tune the learning rate.
+
+[<img src="./images/githubbadge.png" alt="GitHub" width="15%"/>](https://github.com/BredaUniversityADSAI/2022-23-Y1-BlockC/blob/main/DataLabs/W2-DL2/W2-DL2-MLP-Student-Notebook.ipynb)
 
 # Week 3 : Neural Networks Using TensorFlow
 

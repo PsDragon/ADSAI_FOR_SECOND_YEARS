@@ -189,7 +189,7 @@ Especially for this occasion, we arranged transportation from you. Please be sha
 
 ## Friday
 - [DataLab: Creative Brief](../../Study%20Content/Programming/13.DataLabPR4.html)
-**Formative feedback session IV**
+
 
 # Week 8 : Business Case 
 
@@ -197,7 +197,7 @@ Especially for this occasion, we arranged transportation from you. Please be sha
 
 These topics are advanced topics that will help you get a better understanding of the topics covered in the next block. You are not required to study these topics, but you are encouraged to do so if you have time. Else, please continue working on the creative brief.
 
-- [Python: Advanced topics](../../Study%20Content/Programming/11.AdvancedNumpy.html)
+- [Python: Advanced topics](https://adsai.buas.nl/Study%20Content/Programming/15.AdvancedNumpy.html)
 - [Linear Algebra and Image Processing I](../../Study%20Content/Mathematics%20I/6.%20Image%20Processing%20using%20Linear%20Algebra%20I.html)
 - [Linear Algebra and Image Processing II](../../Study%20Content/Mathematics%20I/8.%20Linear%20Algebra%20and%20Image%20Processing%20II.html)
 
@@ -206,6 +206,7 @@ These topics are advanced topics that will help you get a better understanding o
 
 ## Wednesday
 - [DataLab: Creative Brief](../../Study%20Content/Programming/13.DataLabPR4.html)
+- **Formative feedback session IV**
 
 ## Thursday
 - [DataLab: Creative Brief](../../Study%20Content/Programming/13.DataLabPR4.html)

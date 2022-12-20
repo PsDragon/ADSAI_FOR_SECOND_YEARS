@@ -69,21 +69,43 @@ Please click the links below to view more detailed requirements:
 # Week 2 : Introduction to Neural Networks
 
 ## Monday
-[AI, Machine Learning, Deep Learning: more than just buzzwords?](../../Study%20Content/DeepLearning/1.%20Introduction%20to%20Deep%20Learning.html)
+From the book [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
+- [ ] Read Chapter 1: What is deep learning?
 
-[Data Structures - tensor](../../Study%20Content/DeepLearning/2.%20DataStructures.html)
+From the course [Introduction to Deep Learning with Keras](https://app.datacamp.com/learn/courses/introduction-to-deep-learning-with-keras)
+- [ ] Complete Chapter 1: Introducing Keras
+- [ ] Complete Chapter 2: Going Deeper
 
 ## Tuesday
-[DataLab: tensors](../../Study%20Content/DeepLearning/2.1%20DLab-Tensors.html)
+From the book [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
+- [ ] Read Chapter 2: The mathematical building blocks of neural networks
 
-## Wednesday
-[Perceptron](../../Study%20Content/DeepLearning/3.%20Perceptron.html)
+DataLab Prep
+- [ ] Chapter 1&2 of the course [Introduction to Deep Learning with Keras](https://app.datacamp.com/learn/courses/introduction-to-deep-learning-with-keras)
+
+## Wednesday - DataLab (W2-DL1)
+
+In this DataLab, you will develop Multilayer Perceptrons (MLPs) using Keras for the following problem types:
+
+- [ ] Regression
+- [ ] Binary classification
+- [ ] Multi-class classification
+- [ ] Multi-label classification
+
+[<img src="./images/githubbadge.png" alt="GitHub" width="15%"/>](https://github.com/BredaUniversityADSAI/2022-23-Y1-BlockC/blob/main/DataLabs/W2-DL1/W2-DL1-MLP-Student-Notebook.ipynb)
 
 ## Thursday
-[Neural Networks concepts](../../Study%20Content/DeepLearning/4.%20NeuralNetworksConcepts.html)
+From the book [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
+- [ ] Read Chapter 3: Introduction to Keras and TensorFlow
+
+From the course [Introduction to Deep Learning with Keras](https://app.datacamp.com/learn/courses/introduction-to-deep-learning-with-keras)
+- [ ] Complete Chapter 3: Improving Your Model Performance
+
+DataLab Prep
+- [ ] Chapter 3 of the course [Introduction to Deep Learning with Keras](https://app.datacamp.com/learn/courses/introduction-to-deep-learning-with-keras)
 
 ## Friday
-[DataLab: Perceptron and Neural Network in Python](../../Study%20Content/DeepLearning/4.1%20DLab-Perceptron_NNs.html)
+DataLab
 
 # Week 3 : Neural Networks Using TensorFlow
 

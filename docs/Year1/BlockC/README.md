@@ -83,8 +83,14 @@ From the book [Deep Learning with Python](https://www.manning.com/books/deep-lea
 DataLab Prep
 - [ ] Chapter 1&2 of the course [Introduction to Deep Learning with Keras](https://app.datacamp.com/learn/courses/introduction-to-deep-learning-with-keras)
 
-## Wednesday
-DataLab
+## Wednesday - DataLab (W2-DL1)
+
+In this DataLab, you will develop Multilayer Perceptrons (MLPs) using Keras for the following problem types:
+
+- [ ] Regression
+- [ ] Binary classification
+- [ ] Multi-class classification
+- [ ] Multi-label classification
 
 [<img src="./images/githubbadge.png" alt="GitHub" width="15%"/>](https://github.com/BredaUniversityADSAI/2022-23-Y1-BlockC/blob/main/DataLabs/W2-DL1/W2-DL1-MLP-Student-Notebook.ipynb)
 

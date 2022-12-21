@@ -69,12 +69,8 @@ Please click the links below to view more detailed requirements:
 # Week 2 : Introduction to Neural Networks
 
 ## Monday
-From the book [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
-- [ ] Read Chapter 1: What is deep learning?
 
-From the course [Introduction to Deep Learning with Keras](https://app.datacamp.com/learn/courses/introduction-to-deep-learning-with-keras)
-- [ ] Complete Chapter 1: Introducing Keras
-- [ ] Complete Chapter 2: Going Deeper
+[Introduction to Deep Learning](https://adsai.buas.nl/Study%20Content/DeepLearning/1.%20Introduction%20to%20Deep%20Learning.html)
 
 ## Tuesday
 From the book [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)

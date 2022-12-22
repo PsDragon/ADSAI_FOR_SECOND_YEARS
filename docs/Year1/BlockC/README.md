@@ -73,41 +73,19 @@ Please click the links below to view more detailed requirements:
 [Introduction to Deep Learning](https://adsai.buas.nl/Study%20Content/DeepLearning/1.%20Introduction%20to%20Deep%20Learning.html)
 
 ## Tuesday
-From the book [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
-- [ ] Read Chapter 2: The mathematical building blocks of neural networks
 
-DataLab Prep
-- [ ] Chapter 1&2 of the course [Introduction to Deep Learning with Keras](https://app.datacamp.com/learn/courses/introduction-to-deep-learning-with-keras)
+[The Mathematical Building Blocks of Neural Networks](https://adsai.buas.nl/Study%20Content/DeepLearning/2.%20The%20Mathematical%20Building%20Blocks%20of%20Neural%20Networks.html)
 
-## Wednesday - DataLab (W2-DL1)
+## Wednesday
 
-In this DataLab, you will develop Multilayer Perceptrons (MLPs) using Keras for the following problem types:
-
-- [ ] Regression
-- [ ] Binary classification
-- [ ] Multi-class classification
-- [ ] Multi-label classification
-
-[<img src="./images/githubbadge.png" alt="GitHub" width="15%"/>](https://github.com/BredaUniversityADSAI/2022-23-Y1-BlockC/blob/main/DataLabs/W2-DL1/W2-DL1-MLP-Student-Notebook.ipynb)
+[Multilayer Perceptrons 1](https://adsai.buas.nl/Study%20Content/DeepLearning/3.%20DataLab%20MLP.html)
 
 ## Thursday
-From the book [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
-- [ ] Read Chapter 3: Introduction to Keras and TensorFlow
 
-From the course [Introduction to Deep Learning with Keras](https://app.datacamp.com/learn/courses/introduction-to-deep-learning-with-keras)
-- [ ] Complete Chapter 3: Improving Your Model Performance
-
-DataLab Prep
-- [ ] Chapter 3 of the course [Introduction to Deep Learning with Keras](https://app.datacamp.com/learn/courses/introduction-to-deep-learning-with-keras)
+[Improving Model Performance](https://adsai.buas.nl/Study%20Content/DeepLearning/4.%20Improving%20model%20performance.html)
 
 ## Friday
-In this DataLab, you will learn how to analyze and improve Multilayer Perceptrons (MLPs). Specifically you will:
-
-- [ ] plot and interpret learning curves,
-- [ ] use early stopping,
-- [ ] and tune the learning rate.
-
-[<img src="./images/githubbadge.png" alt="GitHub" width="15%"/>](https://github.com/BredaUniversityADSAI/2022-23-Y1-BlockC/blob/main/DataLabs/W2-DL2/W2-DL2-MLP-Student-Notebook.ipynb)
+[Multilayer Perceptrons 2](https://adsai.buas.nl/Study%20Content/DeepLearning/5.%20DataLab%20MLP.html)
 
 # Week 3 : Neural Networks Using TensorFlow
 

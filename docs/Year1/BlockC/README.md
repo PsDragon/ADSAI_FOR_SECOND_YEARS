@@ -1,7 +1,50 @@
 # Block C - Data Modelling
 
-In block A, you explored various themes around digital transformation and critically examined applications of AI and digital technologies to existing businesses processes. In block B, you went a step further and helped a real-life client get more insight out of their data using data science tools to pre-process and get insight out of data. In this block, you will take on a more hands-on approach towards data modelling data using tools such as deep learning. In particular, this block will focus on key aspects of **the modelling phase of a data science project lifecycle** such as deep learning, explainable and responsible artificial intelligence (AI), and human-centered design
+In block A, you explored the foundations of data science and AI and critically examined applications of AI and digital technologies in existing businesses processes. In block B, you went a step further and helped a real-life client get more insight out of their data using data science tools to pre-process, analyse and get insight out of data. In this block, you will take on a more hands-on approach towards data modelling data using tools such as deep learning. In particular, this block will focus on key aspects of **the modelling phase of a data science project lifecycle** such as deep learning, explainable and responsible artificial intelligence (AI), and human-centered design
 
+
+The research topics include, but are not limited to:
+- a topic
+
+
+## Staff Members
+
+
+## DataLab Attendance 
+
+Regular attendance and punctuality in every DataLab is required of each student (by default from 9:00 to 17:00). A student who has incurred absences of more than two DataLab sessions without a valid reason throughout the block shall not be given credit for the professional ILO(s). 
+
+A student is considered late when they are not yet present until the fifteenth minute from the start of DataLab (9:15) Two instances of lateness are counted as one absence.
+
+In case of absence, the student needs to fill in the 'DataLab Absence' [form](https://adsai.buas.nl/Contact%20Us/DataLabAttendance.html) in a timely manner (before 9:00), and subsequently proposes and completes activities that are acceptable alternatives to the in-class learning activities. For more details, contact your mentor.
+
+*__Good__* excuses to miss DataLab:
+
+- Personal illness
+- Family emergency
+- Death of a loved one
+- Medical appointment
+- Public transportation issue
+- Car (or Other) accident
+- Etc.
+
+*__Bad__* excuses to miss DataLab:
+
+- Oversleeping
+- Being hangover
+- Having no babysitter for your rabbit, dog, cat, etc.
+- Boyband breakups and/or related drama
+- A birthday party for a four-legged pal
+- Having no clean underwear to put on
+- Going to the beach because a doctor said that you needed more vitamin D
+- The universe telling you to take a day off
+- Etc.
+
+## Questions?
+
+If you have questions or issues regarding the course material, please post a message on the 'Q&A' channel in Teams. The channel will be monitored by mentors but also please help your peers if you have the answer to their question.
+
+***
 
 ## Project Based Learning - Creative Brief
 
@@ -37,125 +80,139 @@ Please refer to the project brief for more detailed information.
 
 
 ### Creative Brief Requirements:
-- [ ] **Dataset**: Google Open images <br>
-- [ ] **Class Labels**: Pick a maximum of 5 labels among all the image level labels present in the data. <br>
-- [ ] **Tools**: Keras, Numpy, Matplotlib <br>
-- [ ] **Prototype**: Wireframe demo of your application made in Adobe XD. <br>
+1. [ ] **Project Proposal**: Recorded powerpoint presentation of your project proposal <br>
+2. [ ] **Proof of Concept (PoC)**: 
+- [ ] Dataset: Imssitu/Google Open images <br>
+- [ ] Class Labels: Pick a maximum of 5 labels among all the image level labels present in the data <br>
+- [ ] Tools: Keras, Numpy, Matplotlib <br>
+3. [ ] **Explainable & Responsible AI (XAI)**: Demo
+4. [ ] **Prototype**: Wireframe demo of your application made in Proto.io <br>
 
 Please click the links below to view more detailed requirements:
 
 - [Responsible & Explainable AI](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleExplainableAIBlockC.html)
 - [Human-Centered Artificial Intelligence](https://adsai.buas.nl/Study%20Content/Human-Centered%20Artificial%20Intelligence/Assignment.html)
 
-# Block Outline
 
-# Week 1 : Responsible & Explainable AI (XAI)
+## Project Timeline
 
-## Monday
-[Fairness & Bias: Definitions](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI1.html)
+The project timeline is aligned with the knowledge modules you will find in the ADS&AI digital learning environment.
 
-## Tuesday
-[DataLab 1: Implicit bias & A Designer's Critical Alphabet](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI2.html)
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Note: During Weeks 1-2, you will work in a project group, Weeks 3-8 are devoted to individual work. This ensures that you can pool resources for data collection, and data management; while allowing for individual preferences in data analyses and project dissemination. 
+</div>
 
-## Wednesday
-[Fairness & Bias: Individual fairness, debiasing techniques & toolkits](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI3.html)
 
-## Thursday
-[Fairness & Bias: Group fairness metrics](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI4.html)
-
-## Friday
-[DataLab 2: Fairness metrics, and debiasing techniques for image data](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI5.html)
-
-# Week 2 : Introduction to Neural Networks
+# Week 1 : Setting up your project proposal
 
 ## Monday
-
-[Introduction to Deep Learning](https://adsai.buas.nl/Study%20Content/DeepLearning/1.%20Introduction%20to%20Deep%20Learning.html)
+- [NameSelf-StudyDay](LinkToPage)
 
 ## Tuesday
-
-[The Mathematical Building Blocks of Neural Networks](https://adsai.buas.nl/Study%20Content/DeepLearning/2.%20The%20Mathematical%20Building%20Blocks%20of%20Neural%20Networks.html)
+- [NameSelf-StudyDay](LinkToPage)
 
 ## Wednesday
-
-[Multilayer Perceptrons 1](https://adsai.buas.nl/Study%20Content/DeepLearning/3.%20DataLab%20MLP.html)
+- [NameDatalabDay](LinkToPage)
 
 ## Thursday
-
-[Improving Model Performance](https://adsai.buas.nl/Study%20Content/DeepLearning/4.%20Improving%20model%20performance.html)
+- [NameSelf-StudyDay](LinkToPage)
 
 ## Friday
-[Multilayer Perceptrons 2](https://adsai.buas.nl/Study%20Content/DeepLearning/5.%20DataLab%20MLP.html)
+- [NameDatalabDay](LinkToPage)
 
-# Week 3 : Neural Networks Using TensorFlow
+
+# Week 2 : PoC - Introduction to Neural Networks
 
 ## Monday
-[Introduction to TensorFlow](../../Study%20Content/DeepLearning/5.%20Introduction%20to%20TensorFlow.html)
+
+- [Introduction to Deep Learning](https://adsai.buas.nl/Study%20Content/DeepLearning/1.%20Introduction%20to%20Deep%20Learning.html)
 
 ## Tuesday
-[Neural Networks in TensorFlow - Regression](../../Study%20Content/DeepLearning/5.1%20DLab-NNs-in-TF2-Regression.html)
+
+- [The Mathematical Building Blocks of Neural Networks](https://adsai.buas.nl/Study%20Content/DeepLearning/2.%20The%20Mathematical%20Building%20Blocks%20of%20Neural%20Networks.html)
 
 ## Wednesday
-[Neural Networks in TensorFlow - Classification](../../Study%20Content/DeepLearning/6.%20Classification.html)
+
+- [Multilayer Perceptrons 1](https://adsai.buas.nl/Study%20Content/DeepLearning/3.%20DataLab%20MLP.html)
 
 ## Thursday
-[Neural Networks in Google PlayGround](../../Study%20Content/DeepLearning/7.%20NN-Google-Playground.html)
+
+- [Improving Model Performance](https://adsai.buas.nl/Study%20Content/DeepLearning/4.%20Improving%20model%20performance.html)
 
 ## Friday
-[DataLab: Classification](../../Study%20Content/DeepLearning/7.1%20DLab-Classification.html)
+- [Multilayer Perceptrons 2](https://adsai.buas.nl/Study%20Content/DeepLearning/5.%20DataLab%20MLP.html)
 
-# Week 4 : Image Classification using Convolution Neural Network
+# Week 3 : PoC - Neural Networks Using TensorFlow
 
 ## Monday
-[Image Classification](../../Study%20Content/DeepLearning/8.%20Image%20Classification.html)
+- [NameSelf-StudyDay](LinkToPage)
 
 ## Tuesday
-[DataLab: Working on Creative Brief tasks](../../Study%20Content/DeepLearning/8.1%20DLab-CreativeBrief.html)
+- [NameSelf-StudyDay](LinkToPage)
 
 ## Wednesday
-[Convolution Neural Network - Deep Dive](../../Study%20Content/DeepLearning/9.%20CNN-DeepDive.html)
+- [NameDatalabDay](LinkToPage)
 
 ## Thursday
-[Data Pre-procession and Data Augmentation](../../Study%20Content/DeepLearning/10.%20DataAugmentation.html)
+- [NameSelf-StudyDay](LinkToPage)
 
 ## Friday
-[DataLab: Working on Creative Brief tasks](../../Study%20Content/DeepLearning/10.1%20DLab-CreativeBrief.html)
+- [NameDatalabDay](LinkToPage)
 
-# Week 5 : Deep Learning in Practice
+# Week 4 : PoC - Image Classification using Convolution Neural Network
 
 ## Monday
-[Transfer Learning and fine tuning](../../Study%20Content/DeepLearning/11.%20Transfer%20Learning.html)
+- [NameSelf-StudyDay](LinkToPage)
 
 ## Tuesday
-[DataLab: Working on Creative Brief tasks](../../Study%20Content/DeepLearning/10.1%20DLab-CreativeBrief.html)
+- [NameSelf-StudyDay](LinkToPage)
 
 ## Wednesday
-[Deep Learning: Practical issues and best practices](../../Study%20Content/DeepLearning/12.PracticalIssues&BestPractices.html)
+- [NameDatalabDay](LinkToPage)
 
 ## Thursday
-[Transfer Learning and fine tuning](../../Study%20Content/DeepLearning/11.%20Transfer%20Learning.html)
+- [NameSelf-StudyDay](LinkToPage)
 
 ## Friday
-[DataLab: Working on Creative Brief tasks](../../Study%20Content/DeepLearning/10.1%20DLab-CreativeBrief.html)
+- [NameDatalabDay](LinkToPage)
 
-# Week 6 : Deep Learning and XAI
+
+# Week 5 : PoC - Deep Learning in Practice
 
 ## Monday
-[XAI: The need for explanations](../../Study%20Content/Responsible%20and%20Explainable%20AI/XAI1.html)
+- [NameSelf-StudyDay](LinkToPage)
 
 ## Tuesday
-[DataLab: XAI ](../../Study%20Content/Responsible%20and%20Explainable%20AI/XAI2.html)
+- [NameSelf-StudyDay](LinkToPage)
 
 ## Wednesday
-[Feature Attribution in Computer Vision](../../Study%20Content/Responsible%20and%20Explainable%20AI/XAI3.html)
+- [NameDatalabDay](LinkToPage)
 
 ## Thursday
-[Moving beyond feature attribution](../../Study%20Content/Responsible%20and%20Explainable%20AI/XAI4.html)
+- [NameSelf-StudyDay](LinkToPage)
 
 ## Friday
-[DataLab: XAI](../../Study%20Content/Responsible%20and%20Explainable%20AI/XAI5.html)
+- [NameDatalabDay](LinkToPage)
 
-# Week 7 : Human Centered AI
+# Week 6 : XAI: Deep Learning and XAI
+
+## Monday
+- [NameSelf-StudyDay](LinkToPage)
+
+## Tuesday
+- [NameSelf-StudyDay](LinkToPage)
+
+## Wednesday
+- [NameDatalabDay](LinkToPage)
+
+## Thursday
+- [NameSelf-StudyDay](LinkToPage)
+
+## Friday
+- [NameDatalabDay](LinkToPage)
+
+
+# Week 7 : Prototype - Human Centered AI
 
 ## Monday
 [Interaction & information processing fundamentals](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Interaction_Information_Processing_Fundamentals.html)
@@ -173,7 +230,7 @@ Please click the links below to view more detailed requirements:
 [DataLab: Wizzard of Ozz Workshop](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Datalab14_Conceptualizing_A_Wireframe_Prototype.html)
 
 
-# Week 8: Human Centered AI
+# Week 8: Prototype - Human Centered AI
 
 ## Monday
 [U/X testing using A/B testing](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/User_Testing.html)
@@ -189,4 +246,21 @@ Please click the links below to view more detailed requirements:
 [DataLab: Wireframes and final presentation](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Datalab16_Client_Testing_of_Wireframe_Prototypes.html)
 
 ## Friday
-Good Friday: So you have a day-off!
+[DataLab: Wireframes and final presentation](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Datalab16_Client_Testing_of_Wireframe_Prototypes.html)
+
+
+# Project Requirements
+Consider each of these task as mandatory to complete your project:
+
+### Computer Vision
+
+## Project Deliverable(s)
+
+- [BUas Ethics Review](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html#templates)
+- [Research Data Management Plan](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html#templates)
+- [Codebook](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html#templates)
+
+
+## Medal Challenges 
+
+The medal courses for this block have been specifically selected to help boost your portfolio and extend your knowledge and expertise. You may also finish them after the initial deadline!

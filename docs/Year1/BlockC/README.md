@@ -121,7 +121,7 @@ Note: During Weeks 1-2, you will work in a project group, Weeks 3-8 are devoted 
 - [NameDatalabDay](LinkToPage)
 
 
-# Week 2 : PoC - Introduction to Neural Networks
+# Week 2 : PoC - Introduction to DL with Keras. Build, evaluate, tune FCNNs
 
 ## Monday
 
@@ -142,7 +142,7 @@ Note: During Weeks 1-2, you will work in a project group, Weeks 3-8 are devoted 
 ## Friday
 - [Multilayer Perceptrons 2](https://adsai.buas.nl/Study%20Content/DeepLearning/5.%20DataLab%20MLP.html)
 
-# Week 3 : PoC - Neural Networks Using TensorFlow
+# Week 3 : PoC - Implement FCNN without Keras (maybe rephrase?)
 
 ## Monday
 - [NameSelf-StudyDay](LinkToPage)
@@ -159,7 +159,7 @@ Note: During Weeks 1-2, you will work in a project group, Weeks 3-8 are devoted 
 ## Friday
 - [NameDatalabDay](LinkToPage)
 
-# Week 4 : PoC - Image Classification using Convolution Neural Network
+# Week 4 : PoC - Convolutional Neural Networks with Keras
 
 ## Monday
 - [NameSelf-StudyDay](LinkToPage)
@@ -177,7 +177,7 @@ Note: During Weeks 1-2, you will work in a project group, Weeks 3-8 are devoted 
 - [NameDatalabDay](LinkToPage)
 
 
-# Week 5 : PoC - Deep Learning in Practice
+# Week 5 : PoC - Evaluating Neural Network performance
 
 ## Monday
 - [NameSelf-StudyDay](LinkToPage)

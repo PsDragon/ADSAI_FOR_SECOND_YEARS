@@ -103,7 +103,7 @@ Note: During Weeks 1-2, you will work in a project group, Weeks 3-8 are devoted 
 </div>
 
 
-# Week 1 : Setting up your project proposal
+# Week 1: Responsible AI (Part 1: Bias and Fairness) & Marketing
 
 ## Monday
 - [NameSelf-StudyDay](LinkToPage)
@@ -194,7 +194,7 @@ Note: During Weeks 1-2, you will work in a project group, Weeks 3-8 are devoted 
 ## Friday
 - [NameDatalabDay](LinkToPage)
 
-# Week 6 : XAI: Deep Learning and XAI
+# Week 6: Responsible AI (Part 2: Transparency and Interpretability)
 
 ## Monday
 - [NameSelf-StudyDay](LinkToPage)

@@ -5,9 +5,9 @@ sort: 13
 
 <img src="./images/imsitu.jpg" alt="Traditional vs. Machine learning" width="800">
 
-## Responsible AI: Bias & Fairness
+## Responsible AI
 
-In **today's data lab**, we will work on the Responsible AI use-cases. Use-case 1-5 are related to the independent study material of Week 1. Use case 6 is related to the independent study material of Week 7.
+In **today's data lab**, we will work on the Responsible AI use-cases. Use-case 1-5 (Topic: Bias and Fairness) are related to the independent study material of Week 1. Use case 6 (Topic: Transparency and Interpretability) is related to the independent study material of Week 7.
 
 ## Use-cases
 

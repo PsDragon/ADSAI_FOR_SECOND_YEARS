@@ -106,19 +106,20 @@ Note: During Weeks 1-2, you will work in a project group, Weeks 3-8 are devoted 
 # Week 1: Responsible AI (Part 1: Bias and Fairness) & Marketing
 
 ## Monday
-- [NameSelf-StudyDay](LinkToPage)
+- [Fairness & Bias: Definitions](LinkToPage)
 
 ## Tuesday
-- [NameSelf-StudyDay](LinkToPage)
+- [Fairness & Bias: Individual Fairness vs. Group Fairness](LinkToPage)
 
 ## Wednesday
-- [NameDatalabDay](LinkToPage)
+- [DataLab: Responsible AI](https://adsai.buas.nl/Study%20Content/Responsible%20and%20Explainable%20AI/UseCases.html)
 
 ## Thursday
 - [NameSelf-StudyDay](LinkToPage)
 
 ## Friday
-- [NameDatalabDay](LinkToPage)
+- [DataLab: Marketing](LinkToPage)
+- [DataLab: Responsible AI](https://adsai.buas.nl/Study%20Content/Responsible%20and%20Explainable%20AI/UseCases.html)
 
 
 # Week 2 : PoC - Introduction to DL with Keras. Build, evaluate, tune FCNNs
@@ -203,13 +204,13 @@ Note: During Weeks 1-2, you will work in a project group, Weeks 3-8 are devoted 
 - [NameSelf-StudyDay](LinkToPage)
 
 ## Wednesday
-- [NameDatalabDay](LinkToPage)
+- [DataLab: Responsible AI](https://adsai.buas.nl/Study%20Content/Responsible%20and%20Explainable%20AI/UseCases.html)
 
 ## Thursday
 - [NameSelf-StudyDay](LinkToPage)
 
 ## Friday
-- [NameDatalabDay](LinkToPage)
+- [DataLab: Responsible AI](https://adsai.buas.nl/Study%20Content/Responsible%20and%20Explainable%20AI/UseCases.html)
 
 
 # Week 7 : Prototype - Human Centered AI

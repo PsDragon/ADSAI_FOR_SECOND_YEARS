@@ -106,7 +106,7 @@ Note: During Weeks 1-2, you will work in a project group, Weeks 3-8 are devoted 
 # Week 1: Responsible AI (Part 1: Bias and Fairness) & Marketing
 
 ## Monday
-- [Fairness & Bias: Definitions](LinkToPage)
+- [Fairness & Bias: Definitions](https://adsai.buas.nl/Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI1.html)
 
 ## Tuesday
 - [Fairness & Bias: Individual Fairness vs. Group Fairness](LinkToPage)

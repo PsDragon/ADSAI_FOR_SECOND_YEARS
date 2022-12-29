@@ -10,7 +10,7 @@ Let us start with our trailblazer journey:
 
 Today, we will focus on the concepts of 'fairness' and 'bias'. How are they defined? Are there different types of 'fairness' and/or 'bias'? Lastly, in the workshops, we will take a closer look at the concept of bias, and familiarize ourselves with two principles to achieve fairness; equality and equity.
 
-You are expected to create a markdown file called ```FairnessBiasDefinitions.md``` in your ```ResponsibleAI``` folder in your Github repos. In this file, please answer the questions that pop-up (:pencil:) as you navigate the content below. Further the module Responsible AI introduces quite a bit of new terminology. Please make sure to take notes and reflect on the new terms/concepts/debates that you encounter (:bell:).
+You are expected to create a markdown file called ```ResponsibleAIDefinitions.md``` in your ```ResponsibleAI``` folder in your Github repos. In this file, please answer the questions that pop-up (:pencil:) as you navigate the content below. Further the module Responsible AI introduces quite a bit of new terminology. Please make sure to take notes and reflect on the new terms/concepts/debates that you encounter (:bell:).
 
 ## Learning objectives
 
@@ -23,7 +23,7 @@ You are expected to create a markdown file called ```FairnessBiasDefinitions.md`
 __Table of contents__
 
 1. Introduction: 2 hours.
-2. Workshop(s): 5 hours.
+2. Workshop(s): 6 hours.
 
 ## Questions or issues?
 
@@ -184,3 +184,5 @@ In this list, you will find a selection of videos from the YouTube channel Crash
 Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstyan, A. (2021). A survey on bias and fairness in machine learning. ACM Computing Surveys (CSUR), 54(6), 1-35.
 
 Khan, F. A., Manis, E., & Stoyanovich, J. (2021, March). Fairness and Friends. In Beyond static papers: Rethinking how we share scientific understanding in ML-ICLR 2021 workshop.
+
+***

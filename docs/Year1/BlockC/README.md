@@ -90,7 +90,7 @@ Please refer to the project brief for more detailed information.
 
 Please click the links below to view more detailed requirements:
 
-- [Responsible & Explainable AI](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleExplainableAIBlockC.html)
+- [Responsible AI](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleExplainableAIBlockC.html)
 - [Human-Centered Artificial Intelligence](https://adsai.buas.nl/Study%20Content/Human-Centered%20Artificial%20Intelligence/Assignment.html)
 
 
@@ -109,7 +109,7 @@ Note: During Weeks 1-2, you will work in a project group, Weeks 3-8 are devoted 
 - [Fairness & Bias: Definitions](https://adsai.buas.nl/Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI1.html)
 
 ## Tuesday
-- [Fairness & Bias: Individual Fairness vs. Group Fairness](LinkToPage)
+- [Fairness & Bias: Individual Fairness vs. Group Fairness](https://adsai.buas.nl/Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAI2.html)
 
 ## Wednesday
 - [DataLab: Responsible AI](https://adsai.buas.nl/Study%20Content/Responsible%20and%20Explainable%20AI/UseCases.html)

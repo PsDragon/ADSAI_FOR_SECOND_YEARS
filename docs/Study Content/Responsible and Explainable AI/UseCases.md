@@ -3,7 +3,7 @@ sort: 13
 ---
 # DataLab: Creative Brief
 
-<img src="./images/imsitu.jpg" alt="Traditional vs. Machine learning" width="800">
+<img src="./images/imsitu.jpg" alt="Imsitu dataset" width="800">
 
 ## Responsible AI
 
@@ -90,13 +90,14 @@ Now that we have identified, and described bias in the Imsitu dataset, and we ha
 
 __To solve this use-case, you will need to:__
 
-- [ ] Write a separate Python function for each of the following group fairness metrics:
+- Set up the equations for following group fairness metrics:
     - [ ] Demographic Parity
     - [ ] Equal Selection Parity
     - [ ] Conditional Use Accuracy Equality
     - [ ] Equalized Odds
     - [ ] Equalized Opportunities
     - [ ] Predictive Equality
+- [ ] Write a separate Python function for each of the group fairness metrics that you defined above.
 - [ ] Pass the unit tests listed in the test_calculate_metrics.py file, which is provided in your personal BUAs GitHub repository. 
 
 :bell: You may use AXA's [The Fairness Compass](https://www-axa-com.cdn.axa-contento-118412.eu/www-axa-com/d6324958-367e-4375-81c3-cfeb8e7ccc66_AXA_FairnessCompass-English.pdf).
@@ -136,4 +137,4 @@ If you are done with the use-cases, you can move on to documentation, ensure tha
 
 Please note that plagiarism is a serious offense. You are encouraged to use the internet to help you with your analyses, but you must ensure that you cite your sources. However, if your code, and/or accompanied explanation(s) (e.g.,inline-comments, texts in markdown block, etc.), exactly resembles the code, and/or explanation(s) of another student, you will be reported to the board of examiners. You are encouraged to discuss the use-case with your peers, but you must ensure that you write your own code, and provide your own explanation(s). If you are unsure about whether your code, and/or explanation(s) are similar to another student's code, and or explanation(s), please ask your mentor to review your code, and/or other writings.
 
-#####
+***

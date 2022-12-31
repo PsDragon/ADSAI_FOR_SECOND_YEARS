@@ -134,31 +134,31 @@ Note: During Weeks 1-2, you will work in a project group, Weeks 3-8 are devoted 
 
 ## Wednesday
 
-- [Multilayer Perceptrons 1](https://adsai.buas.nl/Study%20Content/DeepLearning/3.%20DataLab%20MLP.html)
+- [DataLab: Multilayer Perceptrons 1](https://adsai.buas.nl/Study%20Content/DeepLearning/3.%20DataLab%20MLP.html)
 
 ## Thursday
 
 - [Improving Model Performance](https://adsai.buas.nl/Study%20Content/DeepLearning/4.%20Improving%20model%20performance.html)
 
 ## Friday
-- [Multilayer Perceptrons 2](https://adsai.buas.nl/Study%20Content/DeepLearning/5.%20DataLab%20MLP.html)
+- [DataLab: Multilayer Perceptrons 2](https://adsai.buas.nl/Study%20Content/DeepLearning/5.%20DataLab%20MLP.html)
 
-# Week 3 : PoC - Implement FCNN without Keras (maybe rephrase?)
+# Week 3 : PoC - Implementing multilayer perceptrons with Python and NumPy
 
 ## Monday
-- [NameSelf-StudyDay](LinkToPage)
+- [Week 2 review](https://adsai.buas.nl/Study%20Content/DeepLearning/6.%20Review.html)
 
 ## Tuesday
-- [NameSelf-StudyDay](LinkToPage)
+- [Neural Networks from scratch](https://adsai.buas.nl/Study%20Content/DeepLearning/7.%20NNs%20under%20the%20hood.html)
 
 ## Wednesday
-- [NameDatalabDay](LinkToPage)
+- [DataLab: MLP implementation 1](https://adsai.buas.nl/Study%20Content/DeepLearning/8.%20DataLab%20MLP%20from%20scratch.html)
 
 ## Thursday
-- [NameSelf-StudyDay](LinkToPage)
+- [Gradient Descent](https://adsai.buas.nl/Study%20Content/DeepLearning/9.%20Gradient%20Descent.html)
 
 ## Friday
-- [NameDatalabDay](LinkToPage)
+- [DataLab: MLP implementation 2](https://adsai.buas.nl/Study%20Content/DeepLearning/10.%20DataLab%20MLP%20from%20scratch.html)
 
 # Week 4 : PoC - Convolutional Neural Networks with Keras
 

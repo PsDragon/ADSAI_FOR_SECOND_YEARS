@@ -149,16 +149,16 @@ Note: During Weeks 1-2, you will work in a project group, Weeks 3-8 are devoted 
 - [Week 2 review](https://adsai.buas.nl/Study%20Content/DeepLearning/6.%20Review.html)
 
 ## Tuesday
-- [Neural Networks from scratch](https://adsai.buas.nl/Study%20Content/DeepLearning/7.%20NNs%20under%20the%20hood.html)
+- [Understanding neural networks](https://adsai.buas.nl/Study%20Content/DeepLearning/7.%20NNs%20under%20the%20hood.html)
 
 ## Wednesday
-- [DataLab: MLP implementation 1](https://adsai.buas.nl/Study%20Content/DeepLearning/8.%20DataLab%20MLP%20from%20scratch.html)
+- [DataLab: MLP from scratch 1](https://adsai.buas.nl/Study%20Content/DeepLearning/8.%20DataLab%20MLP%20from%20scratch.html)
 
 ## Thursday
 - [Gradient Descent](https://adsai.buas.nl/Study%20Content/DeepLearning/9.%20Gradient%20Descent.html)
 
 ## Friday
-- [DataLab: MLP implementation 2](https://adsai.buas.nl/Study%20Content/DeepLearning/10.%20DataLab%20MLP%20from%20scratch.html)
+- [DataLab: MLP from scratch 2](https://adsai.buas.nl/Study%20Content/DeepLearning/10.%20DataLab%20MLP%20from%20scratch.html)
 
 # Week 4 : PoC - Convolutional Neural Networks with Keras
 

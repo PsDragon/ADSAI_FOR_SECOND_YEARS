@@ -163,19 +163,19 @@ Note: During Weeks 1-2, you will work in a project group, Weeks 3-8 are devoted 
 # Week 4 : PoC - Convolutional Neural Networks with Keras
 
 ## Monday
-- [NameSelf-StudyDay](LinkToPage)
+- [Introduction to Convolutional Neural Networks 1](https://adsai.buas.nl/Study%20Content/DeepLearning/11.%20CNN%20day%201.html)
 
 ## Tuesday
-- [NameSelf-StudyDay](LinkToPage)
+- [Introduction to Convolutional Neural Networks 2](https://adsai.buas.nl/Study%20Content/DeepLearning/12.%20CNN%20day%202.html)
 
 ## Wednesday
-- [NameDatalabDay](LinkToPage)
+- [DataLab: Convolutional Neural Networks](https://adsai.buas.nl/Study%20Content/DeepLearning/13.%20CNN%20day%203.html)
 
 ## Thursday
-- [NameSelf-StudyDay](LinkToPage)
+- [Transfer learning and functional API](https://adsai.buas.nl/Study%20Content/DeepLearning/14.%20CNN%20day%204.html)
 
 ## Friday
-- [NameDatalabDay](LinkToPage)
+- [DataLab: Transfer learning and functional API](https://adsai.buas.nl/Study%20Content/DeepLearning/15.%20CNN%20day%205.html)
 
 
 # Week 5 : PoC - Evaluating Neural Network performance

@@ -97,12 +97,12 @@ __To solve this use-case, you will need to:__
     - [ ] Equalized Odds
     - [ ] Equalized Opportunities
     - [ ] Predictive Equality
-- [ ] Write a separate Python function for each of the group fairness metrics that you defined above.
-- [ ] Pass the unit tests listed in the test_calculate_metrics.py file, which is provided in your personal BUAs GitHub repository. 
+- [ ] Write a separate Python function for each of the group fairness metrics that you defined above. See ```calculate_metrics.py``` file, which is provided in your personal BUAs GitHub repository.
+- [ ] Pass the unit tests listed in the ```test_calculate_metrics.py``` file, which is provided in your personal BUAs GitHub repository. 
 
 :bell: You may use AXA's [The Fairness Compass](https://www-axa-com.cdn.axa-contento-118412.eu/www-axa-com/d6324958-367e-4375-81c3-cfeb8e7ccc66_AXA_FairnessCompass-English.pdf).
 
-## Use-case 4: Write Python function; group fairness taxonomy 
+## Use-case 5: Write Python function; group fairness taxonomy 
 
 In this use-case, which is related to the 'Excellent' criteria of ILO 3.1, you will be asked to build, train, and evaluate a binary classification model on its group level fairness by writing a Python function that returns an appropriate fairness metric, and corresponding calculation. To successfully solve this use-case, you will need to use AXA's [The Fairness Compass](https://www-axa-com.cdn.axa-contento-118412.eu/www-axa-com/d6324958-367e-4375-81c3-cfeb8e7ccc66_AXA_FairnessCompass-English.pdf), and the Python functions that you wrote for use-case 3.
 
@@ -112,14 +112,15 @@ __To solve this use-case, you will need to:__
 - [ ] Select an image dataset of your choice (e.g. Imsitu, Open Images, MS COCO, etc.).
 - [ ] Define a binary classification task using the image dataset selected in the previous step.
 - [ ] Select a sensitive/protected attribute in the dataset.
-- [ ] Specify a policy/’worldview’.
+- [ ] Specify a policy/'worldview'.
 - [ ] Build an ANN model in Python, using Tensorflow's Keras, that can be used to classify images into two classes (i.e., binary classification task).
 - [ ] Train the binary classification model on the image dataset. The weights of the model should be saved to a .h5 file.
-- [ ] Evaluate the image classifier's fairness on a group level by writing a Python function that returns an appropriate fairness metric, and corresponding calculation
-- [ ] Pass the unit tests listed in the test_group_fairness.py file, which is provided in your personal BUAs GitHub repository. 
-- [ ] Elaborate on your approach, the choices you made, and results of the fairness evaluation in the Jupyter [notebook]().
+- [ ] Evaluate the image classifier's fairness on a group level by writing a Python function that returns an appropriate fairness metric, and corresponding calculation. See ```group_fairness.py``` file, which is provided in your personal BUAs GitHub repository. 
+- [ ] Pass the unit tests listed in the ```test_group_fairness.py``` file, which is provided in your personal BUAs GitHub repository. 
+- [ ] Elaborate on your approach, the choices you made, and results of the fairness evaluation in the ```responsible_ai.ipynb``` file, which is provided in your personal BUAs GitHub repository. 
 
-## Use-case 5: Apply one/multiple explainable AI method(s) to the image classifier
+
+## Use-case 6: Apply one/multiple explainable AI method(s) to the image classifier
 
 :yellow_heart::raised_hands::dancer::snake::computer:
 

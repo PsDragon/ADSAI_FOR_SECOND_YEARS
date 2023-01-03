@@ -80,28 +80,23 @@ Please refer to the project brief for more detailed information.
 
 
 ### Creative Brief Requirements:
-1. [ ] **Project Proposal**: Recorded powerpoint presentation of your project proposal <br>
+1. [ ] **Project Proposal**: Recorded PowerPoint presentation of your project proposal <br>
 2. [ ] **Proof of Concept (PoC)**: 
-- [ ] Dataset: Imssitu/Google Open images <br>
-- [ ] Class Labels: Pick a maximum of 5 labels among all the image level labels present in the data <br>
+- [ ] Dataset: Imsitu <br>
+- [ ] Class Labels: Pick a maximum of 5 labels present in the dataset <br>
 - [ ] Tools: Keras, Numpy, Matplotlib <br>
-3. [ ] **Explainable & Responsible AI (XAI)**: Demo
+3. [ ] **Responsible AI**: Jupyter notebook, and two Python scripts
 4. [ ] **Prototype**: Wireframe demo of your application made in Proto.io <br>
 
 Please click the links below to view more detailed requirements:
 
-- [Responsible AI](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleExplainableAIBlockC.html)
+- [Responsible AI](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAIRequirements.html)
 - [Human-Centered Artificial Intelligence](https://adsai.buas.nl/Study%20Content/Human-Centered%20Artificial%20Intelligence/Assignment.html)
 
 
 ## Project Timeline
 
 The project timeline is aligned with the knowledge modules you will find in the ADS&AI digital learning environment.
-
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Note: During Weeks 1-2, you will work in a project group, Weeks 3-8 are devoted to individual work. This ensures that you can pool resources for data collection, and data management; while allowing for individual preferences in data analyses and project dissemination. 
-</div>
-
 
 # Week 1: Responsible AI (Part 1: Bias and Fairness) & Marketing
 

@@ -233,9 +233,6 @@ DataLab 5, Prep and Goal(s):
 - [Prep](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/10.2%20Remote%20Training%20with%20ClearML.html)
 - [DataLab 5](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/11.1%20Datalab5.html)
 
-One more knowledge module:
-- [Evaluating Control Algorithm Performance I]()
-
 __Formative feedback III (End of Week 6 {THURSDAY})__
 
 DataLab 6, Prep and Goal(s):
@@ -244,6 +241,7 @@ DataLab 6, Prep and Goal(s):
 
 ### Week 7
 
+- [Evaluating Control Algorithm Performance I]()
 - [Robotics IIIb: Advanced RoboSuite](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/6.3%20Robotics%20IIIb.html)
 
 DataLab 7, Prep and Goal(s):

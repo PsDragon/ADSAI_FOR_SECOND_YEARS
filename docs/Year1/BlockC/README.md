@@ -167,10 +167,10 @@ The project timeline is aligned with the knowledge modules you will find in the 
 - [DataLab: Convolutional Neural Networks](https://adsai.buas.nl/Study%20Content/DeepLearning/13.%20CNN%20day%203.html)
 
 ## Thursday
-- [Transfer learning and functional API](https://adsai.buas.nl/Study%20Content/DeepLearning/14.%20CNN%20day%204.html)
+- [Working with small datasets](https://adsai.buas.nl/Study%20Content/DeepLearning/14.%20CNN%20day%204.html)
 
 ## Friday
-- [DataLab: Transfer learning and functional API](https://adsai.buas.nl/Study%20Content/DeepLearning/15.%20CNN%20day%205.html)
+- [DataLab: Working with small datasets](https://adsai.buas.nl/Study%20Content/DeepLearning/15.%20CNN%20day%205.html)
 
 
 # Week 5 : PoC - Evaluating Neural Network performance

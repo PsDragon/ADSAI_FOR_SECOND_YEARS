@@ -7,6 +7,13 @@ The research topics include, but are not limited to:
 - a topic
 
 
+## Textbooks
+
+In this block we will study the following book(s):
+
+- [ ] [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python-second-edition), François Chollet, 2nd edition.
+
+
 ## Staff Members
 
 

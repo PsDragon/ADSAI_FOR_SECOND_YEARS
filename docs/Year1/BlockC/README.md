@@ -173,22 +173,22 @@ The project timeline is aligned with the knowledge modules you will find in the 
 - [DataLab: Working with small datasets](https://adsai.buas.nl/Study%20Content/DeepLearning/15.%20CNN%20day%205.html)
 
 
-# Week 5 : PoC - Evaluating Neural Network performance
+# Week 5 : PoC - The Universal Workflow of Machine Learning
 
 ## Monday
-- [NameSelf-StudyDay](LinkToPage)
+- [The Universal Workflow of ML 1](https://adsai.buas.nl/Study%20Content/DeepLearning/16.%20ML%20workflow%20day%201.html)
 
 ## Tuesday
-- [NameSelf-StudyDay](LinkToPage)
+- [The Universal Workflow of ML 2](https://adsai.buas.nl/Study%20Content/DeepLearning/17.%20ML%20workflow%20day%202.html)
 
 ## Wednesday
-- [NameDatalabDay](LinkToPage)
+- [DataLab: The Universal Workflow of ML](https://adsai.buas.nl/Study%20Content/DeepLearning/18.%20ML%20workflow%20day%203.html)
 
 ## Thursday
-- [NameSelf-StudyDay](LinkToPage)
+- [Streamlit](https://adsai.buas.nl/Study%20Content/DeepLearning/19.%20ML%20workflow%20day%204.html)
 
 ## Friday
-- [NameDatalabDay](LinkToPage)
+- [DataLab: Streamlit](https://adsai.buas.nl/Study%20Content/DeepLearning/20.%20ML%20workflow%20day%205.html)
 
 # Week 6: Responsible AI (Part 2: Transparency and Interpretability)
 

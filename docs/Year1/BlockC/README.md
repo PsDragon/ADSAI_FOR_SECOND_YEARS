@@ -192,10 +192,10 @@ The project timeline is aligned with the knowledge modules you will find in the 
 - [DataLab: The Universal Workflow of ML](https://adsai.buas.nl/Study%20Content/DeepLearning/18.%20ML%20workflow%20day%203.html)
 
 ## Thursday
-- [Streamlit](https://adsai.buas.nl/Study%20Content/DeepLearning/19.%20ML%20workflow%20day%204.html)
+- [Evaluation](https://adsai.buas.nl/Study%20Content/DeepLearning/19.%20ML%20workflow%20day%204.html)
 
 ## Friday
-- [DataLab: Streamlit](https://adsai.buas.nl/Study%20Content/DeepLearning/20.%20ML%20workflow%20day%205.html)
+- [DataLab: Evaluation](https://adsai.buas.nl/Study%20Content/DeepLearning/20.%20ML%20workflow%20day%205.html)
 
 # Week 6: Responsible AI (Part 2: Transparency and Interpretability)
 

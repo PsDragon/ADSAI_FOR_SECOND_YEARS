@@ -241,16 +241,27 @@ DataLab 6, Prep and Goal(s):
 
 ### Week 7
 
-- [Evaluating Control Algorithm Performance I]()
-- [Robotics IIIb: Advanced RoboSuite](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/6.3%20Robotics%20IIIb.html)
+Almost there!
+This is the last knowledge module for the block:
+- [Robotics IV: Evaluating Control Algorithm Performance](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/12.%20Robotics%20IV.html)
+
+We have now covered the all of the knowledge modules and will spend most of the next two weeks training and evaluating our models. 
+
+Catch up on the following:
+- PID Controller for the pick and place task (Sufficient - ILO 4.1)
+- Training the RL Controller (Sufficient - ILO 4.2)
+- Testing the RL Controller (Sufficient - ILO 4.2)
+- Data collection for the co-ordinate estimation model (Good - ILO 4.1)
+- Building and training the co-ordinate estimation model (Good - ILO 4.1)
+- Integrating the co-ordinate estimation model  (Good - ILO 4.1)
 
 DataLab 7, Prep and Goal(s):
 
-- [Let's get pixelated!]()
+- Work on the project brief
 
 DataLab 8, Prep and Goal(s):
 
-- [Performance evaluation]()
+- Work on the project brief
 
 ### Week 8 
 

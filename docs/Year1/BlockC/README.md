@@ -180,22 +180,22 @@ The project timeline is aligned with the knowledge modules you will find in the 
 - [DataLab: Working with small datasets](https://adsai.buas.nl/Study%20Content/DeepLearning/15.%20CNN%20day%205.html)
 
 
-# Week 5 : PoC - The Universal Workflow of Machine Learning
+# Week 5 : PoC - The Machine Learning Project Lifecycle
 
 ## Monday
-- [The Universal Workflow of ML 1](https://adsai.buas.nl/Study%20Content/DeepLearning/16.%20ML%20workflow%20day%201.html)
+- [The Machine Learning Project Lifecycle 1](https://adsai.buas.nl/Study%20Content/DeepLearning/16.%20ML%20workflow%20day%201.html)
 
 ## Tuesday
-- [The Universal Workflow of ML 2](https://adsai.buas.nl/Study%20Content/DeepLearning/17.%20ML%20workflow%20day%202.html)
+- [The Machine Learning Project Lifecycle 2](https://adsai.buas.nl/Study%20Content/DeepLearning/17.%20ML%20workflow%20day%202.html)
 
 ## Wednesday
-- [DataLab: The Universal Workflow of ML](https://adsai.buas.nl/Study%20Content/DeepLearning/18.%20ML%20workflow%20day%203.html)
+- [DataLab: The Machine Learning Project Lifecycle](https://adsai.buas.nl/Study%20Content/DeepLearning/18.%20ML%20workflow%20day%203.html)
 
 ## Thursday
-- [Evaluation](https://adsai.buas.nl/Study%20Content/DeepLearning/19.%20ML%20workflow%20day%204.html)
+- [The Machine Learning Project Lifecycle 3](https://adsai.buas.nl/Study%20Content/DeepLearning/19.%20ML%20workflow%20day%204.html)
 
 ## Friday
-- [DataLab: Evaluation](https://adsai.buas.nl/Study%20Content/DeepLearning/20.%20ML%20workflow%20day%205.html)
+- [DataLab: The Machine Learning Project Lifecycle](https://adsai.buas.nl/Study%20Content/DeepLearning/20.%20ML%20workflow%20day%205.html)
 
 # Week 6: Responsible AI (Part 2: Transparency and Interpretability)
 

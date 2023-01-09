@@ -8,7 +8,7 @@ NLP is an interdisciplinary field combining linguistics, computer science, and A
 Video 1: Qué difícil es hablar el español.
 
 ## Textbooks
-In this block you will follow two books. The first book is great for conceptual understanding of NLP and the second book is focused towards hands-on NLP with Python.
+In this block you will follow two books. The first book is great for conceptual understanding of NLP and the second book is focused towards hands-on NLP with Python. Furthermore, there's a third book for those interested in how human learn language and how NLP is used to research this field of cognition.
 
 1) D. Jurafsky, J.H. Martin, Speech and Language Processing, 3rd edition draft, 2022\
 Book website: [https://web.stanford.edu/~jurafsky/slp3/](https://web.stanford.edu/~jurafsky/slp3/) \
@@ -17,11 +17,14 @@ Book pdf: [https://web.stanford.edu/~jurafsky/slp3/ed3book_jan122022.pdf](https:
 2) S. Bird, E. Klein, E. Loper, Natural Language Processing with Python\
 Book website: [https://www.nltk.org/book/](https://www.nltk.org/book/)
 
+3)[Alishahi, A. (2010). Computational modeling of human language acquisition. Synthesis Lectures on Human Language Technologies, 3(1), 1-107.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/d42ffd034a2d1a35752d7c83c30300288a4ae153/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/Computational%20Modeling%20of%20Human%20Language%20Acquisition.pdf)
+
 ## Staff Members
 
 | Name   |  Availability |  Week | Email  | Subject  |
 |---|---|---|---|---|
 | Alican Noyan (Lecturer), PhD.<img src="./images/AlicanProfile.jpg" alt="Alican Noyan profile picture" width="200"/>|  Mon, Wed, Thu, Fri  | Weeks 1-8 |  noyan.a@buas.nl | Natural Language Processing |
+| Bram Heijligers (Lecturer), MSc. <img src="./images/BramProfile.jpg" alt="Bram Heijligers profile picture" width="200"/> |  Wed, Thu, Fri | Week 4 | heijligers.b@buas.nl | Cognition & Data Management | 
 | Frank Peters, PhD. <img src="./images/FrankProfile.jpeg" alt="Frank Peters profile picture" width="200"/> | Mon, Tue, Wed, Thu |  Omnipresent | peters.f@buas.nl | Supreme Leader of the ADSAI Department, A.K.A. 'El Patron'  |
 
 ## DataLab Attendance 
@@ -215,11 +218,19 @@ DataLab 2, Goal(s):
 
 ### Week 4
 
-Cognition
+**Cognitive Models of Language Learning**
+
+Self-Study:
+[text](link)
 
 DataLab 1, Prep and Goal(s):
+[text](link)
+
+Self-Study:
+[text](link)
 
 DataLab 2, Prep and Goal(s):
+[text](link)
 
 __Formative feedback II__
 

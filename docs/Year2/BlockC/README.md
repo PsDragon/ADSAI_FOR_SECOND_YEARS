@@ -220,17 +220,20 @@ DataLab 2, Goal(s):
 
 **Cognitive Models of Language Learning**
 
-Self-Study:
-[text](link)
+Self-Study, datalab prep:
+[Auditory Perception; memory & attention in the context of language/communication](link)
+[Cognitive theory of language acquisition](link)
 
-DataLab 1, Prep and Goal(s):
-[text](link)
+DataLab 1, Goal(s):
+[] 1st draft: [Flowchart: Cognitve model of language learning](link)
 
-Self-Study:
-[text](link)
+Self-Study, datalab prep:
+[Adaptive language acquisition & Computational models  of language acquisition](link)
 
-DataLab 2, Prep and Goal(s):
-[text](link)
+DataLab 2, Goal(s):
+[] Elaborate on: [Flowchart: Cognitve model of language learning](link)
+[] Optional Excellent: [Create computational model of language learning](link)
+
 
 __Formative feedback II__
 

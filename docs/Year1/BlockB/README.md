@@ -178,7 +178,6 @@ Especially for this occasion, we arranged transportation from you. Please be sha
 
 ## Tuesday
 - [Matrix Multiplication and inversion](../../Study%20Content/Mathematics%20I/1.2%20Matrix%20Multiplication%20and%20applications%20to%20linear%20systems.html)
-- **DataLab Preparation** (Bert): Bring one object of our preference from your home. 
 
 ## Wednesday
 - **Workshop**(Bert): Presentation (pitching) Skills, theory and practice.  

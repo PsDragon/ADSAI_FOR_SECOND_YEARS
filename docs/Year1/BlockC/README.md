@@ -159,6 +159,11 @@ The project timeline is aligned with the knowledge modules you will find in the 
 ## Friday
 - [DataLab: Multilayer Perceptrons 2](https://adsai.buas.nl/Study%20Content/DeepLearning/5.%20DataLab%20MLP.html)
 
+
+---
+# Sprint/Carnaval Holidays
+---
+
 # Week 3 : PoC - Implementing multilayer perceptrons with Python and NumPy
 
 ## Monday
@@ -261,10 +266,10 @@ The project timeline is aligned with the knowledge modules you will find in the 
 
 
 ## Thursday
-[Work on Wireframe and final presentation](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Datalab16_Client_Testing_of_Wireframe_Prototypes.html)
+[DataLab: Wireframes and final presentation](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Datalab16_Client_Testing_of_Wireframe_Prototypes.html)
 
 ## Friday
-[DataLab: Wireframes and final presentation](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Datalab16_Client_Testing_of_Wireframe_Prototypes.html)
+Good Friday - Day off!
 
 
 

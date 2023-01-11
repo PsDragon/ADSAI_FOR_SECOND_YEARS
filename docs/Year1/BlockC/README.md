@@ -26,7 +26,7 @@ In this block we will study the following book(s):
 | Dean van Aswegen (Lecturer), MSc. <img src="./DeanProfile.jpg" alt="Dean van Aswegen profile picture" width="200"/>| Mon, Tues, Wed, Thur, Fri  |  Block A, Group 1 (1FAI-01), Year 1 | aswegen.d@buas.nl | Data Science and AI | 
 | Alican Noyan (Lecturer), PhD.<img src="./AlicanProfile.jpg" alt="Alican Noyan profile picture" width="200"/>|  Mon, Wed, Thu, Fri  | Block A, Group 2 (1FAI-04), Year 1  |  noyan.a@buas.nl | Data Science |
 | Gilmara Merrill (Lecturer), MSc. <img src="./GilmaraProfile.png" alt="Gilmara Merrill profile picture" width="200"/> | Wed, Thu, Fri | Block A, Group 3 (1FAI-05), Year 1 | merrill.g@buas.nl | Digital Transformation & Change Management |
-| Irene van Blerck (Lecturer), MSc. <img src="./IreneProfile.jpg" alt="Irene van Blerck profile picture" width="200"/>   |  Tue, Wed, Thu, Fri | Block A, Group 4 (1FAI-02), Year 1 |  blerck.i@buas.nl | Responsible AI, Computer vision |
+| Irene van Blerck (Lecturer), MSc. <img src="./images/IreneProfile.jpg" alt="Irene van Blerck profile picture" width="200"/>   |  Tue, Wed, Thu, Fri | Block A, Group 4 (1FAI-02), Year 1 |  blerck.i@buas.nl | Responsible AI, Computer vision |
 | Bram Heijligers (Lecturer), MSc. <img src="./BramProfile.jpg" alt="Bram Heijligers profile picture" width="200"/> |  Wed, Thur, Fri | Block A, Group 5 (1FAI-03), Year 1  | heijligers.b@buas.nl | Data Science |
 | Zhanna Kozlova (Lecturer), MA. <img src="./ZhannaProfile.jpg" alt="Zhanna Kozlova profile picture" width="200"/>  |   |  Block A, Group 5 (1FAI-03), Year 1 | kozlova.z@buas.nl  |   
 | Nitin Bhushan (Lecturer), PhD.  <img src="./NitinProfile.jpg" alt="Nitin Bhushan profile picture" width="200"/>  |  Mon, Wed, Thu, Fri  | Block A, Group 1, Year 2 | bhushan.n@buas.nl | Data Science and AI  |
@@ -104,12 +104,12 @@ At the beginning of the project, you will be introduced to the project by one of
 
 ### Creative Brief Requirements:
 1. [ ] [Project Proposal](link): Recorded PowerPoint presentation of your project proposal for a computer vision application <br>
-2. [ ] [Deep learning](link): Proof of Concept (PoC) the core functionality of the deep learning model.
+2. [ ] [Proof of Concept (PoC)](https://adsai.buas.nl/Study%20Content/DeepLearning/): Proof of Concept (PoC) the core functionality of your deep learning model.
 - [ ] Dataset: Imsitu <br>
 - [ ] Class Labels: Pick a maximum of 5 labels present in the dataset <br>
 - [ ] Tools: Keras, Numpy, Matplotlib <br>
 3. [ ] [Responsible & Explainable AI](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAIRequirements.html): Jupyter notebook, and two Python scripts
-4. [ ] [Human-Centered Artificial Intelligence](https://adsai.buas.nl/Study%20Content/Human-Centered%20Artificial%20Intelligence/Assignment.html): Prototype in the form of a wireframe of your application made in Proto.io <br>
+4. [ ] [Application Prototype](https://adsai.buas.nl/Study%20Content/Human-Centered%20Artificial%20Intelligence/Assignment.html): Prototype in the form of a wireframe of your human-centered artificial intelligence application made in Proto.io <br>
 
 Please click the links above to view more detailed requirements!
 
@@ -266,18 +266,10 @@ The project timeline is aligned with the knowledge modules you will find in the 
 [DataLab: Wireframes and final presentation](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Datalab16_Client_Testing_of_Wireframe_Prototypes.html)
 
 
-# Project Requirements
-Consider each of these task as mandatory to complete your project:
-
-### Computer Vision
-
-## Project Deliverable(s)
-
-- [BUas Ethics Review](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html#templates)
-- [Research Data Management Plan](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html#templates)
-- [Codebook](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html#templates)
 
 
 ## Medal Challenges 
 
 The medal courses for this block have been specifically selected to help boost your portfolio and extend your knowledge and expertise. You may also finish them after the initial deadline!
+
+![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=bronzemedal) ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=silvermedal) ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=goldmedal)

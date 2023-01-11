@@ -10,8 +10,6 @@ Let us start with our trailblazer journey:
 
 Today, we will focus on the concepts of 'fairness' and 'bias'. How are they defined? Are there different types of 'fairness' and/or 'bias'? Lastly, in the workshops, we will take a closer look at the concept of bias, and familiarize ourselves with two principles to achieve fairness; equality and equity.
 
-You are expected to create a markdown file called ```ResponsibleAIDefinitions.md``` in your ```ResponsibleAI``` folder in your Github repos. In this file, please answer the questions that pop-up (:pencil:) as you navigate the content below. Further the module Responsible AI introduces quite a bit of new terminology. Please make sure to take notes and reflect on the new terms/concepts/debates that you encounter (:bell:).
-
 ## Learning objectives
 
 - [ ] Define the terms 'fairness', 'implicit bias','explicit bias', 'equity', 'equality', and 'worldview'.
@@ -24,6 +22,14 @@ __Table of contents__
 
 1. Introduction: 2 hours.
 2. Workshop(s): 6 hours.
+
+## Homework exercises
+
+For the DataLab preparation (Week 1, Wednesday), you are expected fill in a Microsoft Teams Form called ```DataLab Preparation 1```:
+
+<iframe width="1280px" height="960px" src="https://forms.office.com/e/mC96HqGXbM?embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+
+In this file, please answer the questions that pop-up (:pencil:) as you navigate the content below. Further the module Responsible AI introduces quite a bit of new terminology. Please make sure to take notes and reflect on the new terms/concepts/debates that you encounter (:bell:).
 
 ## Questions or issues?
 
@@ -98,13 +104,20 @@ In (social) psychology, bias is classified as either conscious ('explicit') or u
 
 :bell: There is no real consensus on defining bias in machine learning; some scholars claim there are three distinct types, while others claim there are six specific types of bias.
 
-:pencil: __3a__ List, and describe at least two types of bias presented in either [Fairness & Friends](https://dataresponsibly.github.io/comics/vol2/fairness_en.pdf) or [A survey on bias and fairness in machine learning](https://arxiv.org/pdf/1908.09635.pdf).
+:pencil: __3a__ List, and describe at least two types of bias presented in either [Fairness & Friends](https://dataresponsibly.github.io/comics/vol2/fairness_en.pdf) or [A Framework for Understanding Sources of Harm throughout
+the Machine Learning Life Cycle](https://arxiv.org/pdf/1901.10002.pdf).
+
+Rather watch a video than read a paper? Watch the lecture by Rachel Thomas, which, among others, introduces different types of bias in machine learning: 
+
+<iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/mG-cTS3fnnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*Video 2. Bias & Fairness (Data Ethics Lesson 2).*
+
+:pencil: __3b__ Give an example for each type of bias listed in exercise 3a, and connect it to one of the CRISP-DM phases. Write your answer down, and limit your word count to a maximum of 100 words.
 
 <img src="./images/CRISP-DM.png" alt="CRISP-DM" width="400"/>
 
 *Figure 4. CRISP-DM cycle.*
-
-:pencil: __3b__ Give an example for each type of bias listed in exercise 3a, and connect it to one of the CRISP-DM phases. Write your answer down, and limit your word count to a maximum of 100 words.
 
 On the other hand, implicit bias, refers to the brain's automatic, instantaneous association of stereotypes and attitudes with particular groups of people (Dovidio, Kawakami, and Gaertner, 2002). These implicit biases are often contrary to our personal values and are formed by the social environments around us (van Nunspeet et al., 2015).
 
@@ -146,6 +159,8 @@ Now we have identified our explicit/implicit biases, we can look at the possible
 
 <iframe width="896" height="504" src="https://www.youtube.com/embed/VXnSE0uvwzM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+*Video 3. What's your worldview?.*
+
 __Worldview (definition):__
 >We can understand worldview as a mental model of reality. It contains a comprehensive framework of ideas and attitudes about the world, ourselves. Our worldview is shaped by our inherited characteristics (identity), lived experience, values, attitudes, habits and more. These elements of ourselves vary from one person to another. Therefore, even though some parts of a worldview are shared by many people in a community, other parts differ for individuals, so worldviews are both shared and unique ([Source](https://exchange.actua.ca/traininglist/training_en/antiracism/positionality_and_worldview)).
 
@@ -181,8 +196,8 @@ In this list, you will find a selection of videos from the YouTube channel Crash
 
 ## Resources
 
-Mehrabi, N., Morstatter, F., Saxena, N., Lerman, K., & Galstyan, A. (2021). A survey on bias and fairness in machine learning. ACM Computing Surveys (CSUR), 54(6), 1-35.
-
 Khan, F. A., Manis, E., & Stoyanovich, J. (2021, March). Fairness and Friends. In Beyond static papers: Rethinking how we share scientific understanding in ML-ICLR 2021 workshop.
+
+Suresh, H., & Guttag, J. V. (2019). A framework for understanding unintended consequences of machine learning. arXiv preprint arXiv:1901.10002, 2, 8.
 
 ***

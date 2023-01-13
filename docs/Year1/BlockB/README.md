@@ -180,7 +180,6 @@ Especially for this occasion, we arranged transportation from you. Please be sha
 - [Matrix Multiplication and inversion](../../Study%20Content/Mathematics%20I/1.2%20Matrix%20Multiplication%20and%20applications%20to%20linear%20systems.html)
 
 ## Wednesday
-- **Workshop**(Bert): Presentation (pitching) Skills, theory and practice.  
 - [DataLab: Creative Brief](../../Study%20Content/Programming/13.DataLabPR4.html)
 
 ## Thursday
@@ -205,6 +204,7 @@ These topics are advanced topics that will help you get a better understanding o
 - [Machine Learning: Advanced topics](../../Study%20Content/Introduction%20to%20Machine%20Learning/Perceptron.html)
 
 ## Wednesday
+- **Workshop**(Bert): Presentation (pitching) Skills, theory (9.30 – 10.30 in Fe1.018) and practice (12.30 - 17.00 in Fs2.008).  
 - [DataLab: Creative Brief](../../Study%20Content/Programming/13.DataLabPR4.html)
 - **Formative feedback session IV**
 

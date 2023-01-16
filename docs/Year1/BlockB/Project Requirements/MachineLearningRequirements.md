@@ -24,11 +24,11 @@ Specifically, your final deliverable should:
 
 - *Investigate* viewer ratings from daily talk shows and proactively research possible causes for its ongoing fluctuations.  
 
-- *Analyse* how the relationship between higher and lower TV ratings is correlated with social media engagement (primarily using Twitter data).  
+- *Analyse* how the relationship between higher and lower TV ratings is correlated with content and social media engagement (primarily using Twitter data).  
 
-- *Design and Present* a descriptive analysis using for example, a Dashboard that explains the correlation between ratings and social media engagement of the selected TV show (Op1) during live transmission.  
+- *Design and Present* a descriptive analysis using visualisations. For example, a Dashboard that explains the correlation between ratings and social media engagement of the selected TV show (Op1) during live transmission.  
 
-- *Predict* the success of the selected TV show in the evening, basing your decision on Twitter engagement based on the topics posted on the same day and identify key content related variables that make a show a success (or lead to higher engagement on twitter).  
+- *Predict* the success of the selected TV show in the evening, basing your decision on Twitter engagement based on the topics posted on the same day and/or identify key content related variables that make a show a success (or lead to higher engagement on twitter).  
 
 - *Evaluate* the performance of your model.
 

@@ -201,6 +201,7 @@ These topics are advanced topics that will help you get a better understanding o
 - [Linear Algebra and Image Processing II](../../Study%20Content/Mathematics%20I/8.%20Linear%20Algebra%20and%20Image%20Processing%20II.html)
 
 ## Tuesday
+- [Machine Learning: Recap](../../Study%20Content/Introduction%20to%20Machine%20Learning/SupervisedLearningRecap.html)
 - [Machine Learning: Advanced topics](../../Study%20Content/Introduction%20to%20Machine%20Learning/Perceptron.html)
 
 ## Wednesday

@@ -76,7 +76,7 @@ If you have questions or issues regarding the course material, please post a mes
 For example, the images below show the predictions of a standard AI image classifier trained to predict if a given image represents a wedding or not. While the AI correctly detects a wedding in the first 3 images, it fails to do so in the last image. This is a consequence of developing an AI algorithm without being sensitive to biases that might exist in the training data.
 
 <figure>
-    <img src=".\images\google.PNG" />
+    <img src="./images/google.PNG" />
 </figure>
 <br>
 

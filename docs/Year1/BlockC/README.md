@@ -108,20 +108,13 @@ Please click the links above to view more detailed requirements and exact mappin
 
 ---
 
-
----
-
 # Creative Brief Timeline
 
 The project timeline is aligned with the knowledge modules you will find in the ADS&AI digital learning environment.
 
 <figure>
-    <img src="./images/phases.PNG" />
-</figure>
-<br>
-<figure>
 <center>
-    <img src="./images/timeline.PNG" />
+    <img src="./images/TimelineCreativeBrief.jpg" />
 </center>
 </figure>
 <br>

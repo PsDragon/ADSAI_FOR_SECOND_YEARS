@@ -28,14 +28,13 @@ In this block we will study the following book(s):
 
 | Name   |  Availability |  Mentor Group | Email  | Subject  |
 |---|---|---|---|---|
-| Dean van Aswegen (Lecturer), MSc. <img src="./images/DeanProfile.jpg" alt="Dean van Aswegen profile picture" width="200"/>| Mon, Tues, Wed, Thur, Fri  |  Block A, Group 1 (1FAI-01), Year 1 | aswegen.d@buas.nl | Data Science and AI | 
-| Alican Noyan (Lecturer), PhD.<img src="./images/AlicanProfile.jpg" alt="Alican Noyan profile picture" width="200"/>|  Mon, Wed, Thu, Fri  | Block A, Group 2 (1FAI-04), Year 1  |  noyan.a@buas.nl | Data Science |
-| Irene van Blerck (Lecturer), MSc. <img src="./images/IreneProfile.jpg" alt="Irene van Blerck profile picture" width="200"/>   |  Tue, Wed, Thu, Fri | Block A, Group 4 (1FAI-02), Year 1 |  blerck.i@buas.nl | Responsible AI, Computer vision |
-| Bram Heijligers (Lecturer), MSc. <img src="./images/BramProfile.jpg" alt="Bram Heijligers profile picture" width="200"/> |  Wed, Thur, Fri | Block A, Group 5 (1FAI-03), Year 1  | heijligers.b@buas.nl | Data Science |
-| Zhanna Kozlova (Lecturer), MA. <img src="./images/ZhannaProfile.jpg" alt="Zhanna Kozlova profile picture" width="200"/>  |   |  Block A, Group 5 (1FAI-03), Year 1 | kozlova.z@buas.nl  |   
-| Nitin Bhushan (Lecturer), PhD.  <img src="./images/NitinProfile.jpg" alt="Nitin Bhushan profile picture" width="200"/>  |  Mon, Wed, Thu, Fri  | Block A, Group 1, Year 2 | bhushan.n@buas.nl | Data Science and AI  |
-| Bert Heesakkers (Lecturer), MSc. <img src="./BertProfile.png" alt="Bert Heesakkers profile picture" width="200"/> | NA | Workshops | heesakkers.b@buas.nl |   |
-| Frank Peters (Program manager), PhD. <img src="./images/FrankProfile.jpeg" alt="Frank Peters profile picture" width="200"/> | Mon, Tue, Wed, Thu |  NA | peters.f@buas.nl |   |
+| Dean van Aswegen (Lecturer), MSc. <img src="./images/DeanProfile.jpg" alt="Dean van Aswegen profile picture" width="200"/>| Mon, Tues, Wed, Thur, Fri  |  Block A, Group 1 (1FAI-01), Year 1 | aswegen.d@buas.nl | Mentor | 
+| Alican Noyan (Lecturer), PhD.<img src="./images/AlicanProfile.jpg" alt="Alican Noyan profile picture" width="200"/>|  Mon, Wed, Thu, Fri  | Block A, Group 2 (1FAI-04), Year 1  |  noyan.a@buas.nl | Neural Networks & Deep Learning (ILO 4.1) |
+| Irene van Blerck (Lecturer), MSc. <img src="./images/IreneProfile.jpg" alt="Irene van Blerck profile picture" width="200"/>   |  Tue, Wed, Thu, Fri | Block A, Group 4 (1FAI-02), Year 1 |  blerck.i@buas.nl | Responsible & Explainable AI (ILO 3.1) |
+| Bram Heijligers (Lecturer), MSc. <img src="./images/BramProfile.jpg" alt="Bram Heijligers profile picture" width="200"/> |  Wed, Thur, Fri | Block A, Group 5 (1FAI-03), Year 1  | heijligers.b@buas.nl | Human-Centered Artificial Intelligence (ILO 5.1) |
+| Zhanna Kozlova (Lecturer), MA. <img src="./images/ZhannaProfile.jpg" alt="Zhanna Kozlova profile picture" width="200"/>  |   |  Block A, Group 5 (1FAI-03), Year 1 | kozlova.z@buas.nl  |  Business Understanding (ILO 2.1)  |
+| Nitin Bhushan (Lecturer), PhD.  <img src="./images/NitinProfile.jpg" alt="Nitin Bhushan profile picture" width="200"/>  |  Mon, Wed, Thu, Fri  | Block A, Group 1, Year 2 | bhushan.n@buas.nl | Mentor  |
+| Frank Peters (Program manager), PhD. <img src="./images/FrankProfile.jpeg" alt="Frank Peters profile picture" width="200"/> | Mon, Tue, Wed, Thu |  Program Manager | peters.f@buas.nl |   |
 
 
 ## DataLab Attendance 

@@ -92,6 +92,7 @@ At the beginning of the project, you will be introduced to the project by one of
 - [ ] Dataset: Imsitu <br>
 - [ ] Class Labels: Pick a maximum of 5 labels present in the dataset <br>
 - [ ] Tools: Tensorflow/Keras, scikit-learn, NumPy, Matplotlib <br>
+- [ ] Code: All coding resources can be found in [this repo](https://github.com/BredaUniversityADSAI/2022-23-Y1-BlockC) <br>
 3. [ ] [Responsible & Explainable AI](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAIRequirements.html): Jupyter notebook, and two Python scripts
 4. [ ] [Application Prototype](https://adsai.buas.nl/Study%20Content/Human-Centered%20Artificial%20Intelligence/Assignment.html): Prototype in the form of a wireframe of your human-centered artificial intelligence application made in Proto.io <br>
 

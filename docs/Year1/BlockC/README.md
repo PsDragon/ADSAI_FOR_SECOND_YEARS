@@ -17,13 +17,6 @@ The topics include, but are not limited to:
 - Human-centered Artificial Intelligence: How do we design an application keeping both the user-experience and (changing) artificial intelligence algorithm in mind?
 
 
-## Textbooks
-
-In this block we will study the following book(s):
-
-- [ ] [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python-second-edition), François Chollet, 2nd edition.
-
-
 ## Staff Members
 
 | Name   |  Availability |  Mentor Group | Email  | Subject  |
@@ -97,10 +90,10 @@ At the beginning of the project, you will be introduced to the project by one of
 ### Creative Brief Requirements:
 0. [ ] [Project Proposal]: PowerPoint presentation of your project proposal for a computer vision application. See you Microsoft Teams Assignment for the template. Requirements 1 to 4 are listed below need to be explained and reflected upon to the client in the final presentation. <br>
 1. [ ] [AI Canvas]
-2. [ ] [Proof of Concept (PoC)](https://adsai.buas.nl/Study%20Content/DeepLearning/): Proof of Concept (PoC) the core functionality of your deep learning model.
+2. [ ] [Proof of Concept (PoC)](https://adsai.buas.nl/Study%20Content/DeepLearning/21.%20Requirements.html): Proof of Concept (PoC) the core functionality of your deep learning model.
 - [ ] Dataset: Imsitu <br>
 - [ ] Class Labels: Pick a maximum of 5 labels present in the dataset <br>
-- [ ] Tools: Keras, Numpy, Matplotlib <br>
+- [ ] Tools: Tensorflow/Keras, scikit-learn, NumPy, Matplotlib <br>
 3. [ ] [Responsible & Explainable AI](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAIRequirements.html): Jupyter notebook, and two Python scripts
 4. [ ] [Application Prototype](https://adsai.buas.nl/Study%20Content/Human-Centered%20Artificial%20Intelligence/Assignment.html): Prototype in the form of a wireframe of your human-centered artificial intelligence application made in Proto.io <br>
 
@@ -140,7 +133,7 @@ The project timeline is aligned with the knowledge modules you will find in the 
 - [DataLab: Responsible AI](https://adsai.buas.nl/Study%20Content/Responsible%20and%20Explainable%20AI/UseCases.html)
 
 
-# Week 2 : PoC - Introduction to DL with Keras. Build, evaluate, tune FCNNs
+# Week 2 : PoC - Introduction to Deep Learning with Keras
 
 ## Monday
 

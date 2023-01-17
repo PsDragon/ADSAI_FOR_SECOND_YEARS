@@ -2,6 +2,11 @@
 
 In block A, you explored the foundations of data science and AI and critically examined applications thereof of in existing businesses processes. In block B, you went a step further and helped a real-life client get more insight out of their data using data science tools to pre-process, analyse and get insight out of data. In this block, you will take on a more hands-on approach towards data modelling using tools such as deep learning. In particular, this block will focus on key aspects of **the modelling phase of a data science project lifecycle** such as deep learning, explainable and responsible artificial intelligence (AI), and human-centered artificial intelligence. 
 
+<figure>
+    <img src="./images/Crisp-DM_Modelling.PNG" />
+</figure>
+<br>
+
 Therefore, we are going to create a project proposal for an smartphone application which uses the camera to scan object to achieve some kind of business value. You're going to design this application keeping the user experience, business value and disruptive technology risks in mind. The project proposal itself will take the shape of a powerpoint presentation where you argue why your deep learning model is responsible and why it adds value to the core use-case.
 
 The topics include, but are not limited to:
@@ -79,7 +84,7 @@ If you have questions or issues regarding the course material, please post a mes
 For example, the images below show the predictions of a standard AI image classifier trained to predict if a given image represents a wedding or not. While the AI correctly detects a wedding in the first 3 images, it fails to do so in the last image. This is a consequence of developing an AI algorithm without being sensitive to biases that might exist in the training data.
 
 <figure>
-    <img src=".\google.PNG" />
+    <img src=".\images\google.PNG" />
 </figure>
 <br>
 
@@ -90,7 +95,8 @@ At the beginning of the project, you will be introduced to the project by one of
 
 
 ### Creative Brief Requirements:
-1. [ ] [Project Proposal](link): Recorded PowerPoint presentation of your project proposal for a computer vision application <br>
+0. [ ] [Project Proposal]: PowerPoint presentation of your project proposal for a computer vision application. See you Microsoft Teams Assignment for the template. Requirements 1 to 4 are listed below need to be explained and reflected upon to the client in the final presentation. <br>
+1. [ ] [AI Canvas]
 2. [ ] [Proof of Concept (PoC)](https://adsai.buas.nl/Study%20Content/DeepLearning/): Proof of Concept (PoC) the core functionality of your deep learning model.
 - [ ] Dataset: Imsitu <br>
 - [ ] Class Labels: Pick a maximum of 5 labels present in the dataset <br>
@@ -98,7 +104,10 @@ At the beginning of the project, you will be introduced to the project by one of
 3. [ ] [Responsible & Explainable AI](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAIRequirements.html): Jupyter notebook, and two Python scripts
 4. [ ] [Application Prototype](https://adsai.buas.nl/Study%20Content/Human-Centered%20Artificial%20Intelligence/Assignment.html): Prototype in the form of a wireframe of your human-centered artificial intelligence application made in Proto.io <br>
 
-Please click the links above to view more detailed requirements!
+Please click the links above to view more detailed requirements and exact mapping of the assessment rubric!
+
+---
+
 
 ---
 
@@ -107,12 +116,12 @@ Please click the links above to view more detailed requirements!
 The project timeline is aligned with the knowledge modules you will find in the ADS&AI digital learning environment.
 
 <figure>
-    <img src=".\phases.PNG" />
+    <img src="./images/phases.PNG" />
 </figure>
 <br>
 <figure>
 <center>
-    <img src=".\timeline.PNG" />
+    <img src="./images/timeline.PNG" />
 </center>
 </figure>
 <br>

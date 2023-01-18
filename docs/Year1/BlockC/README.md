@@ -87,14 +87,19 @@ At the beginning of the project, you will be introduced to the project by one of
 
 
 ### Creative Brief Requirements:
-1. [ ] [Project Proposal]: PowerPoint presentation of your project proposal for a computer vision application. See you Microsoft Teams Assignment for the template. Requirements 1 to 4 are listed below need to be explained and reflected upon to the client in the final presentation. <br>
-2. [ ] [Proof of Concept (PoC)](https://adsai.buas.nl/Study%20Content/DeepLearning/21.%20Requirements.html): Proof of Concept (PoC) the core functionality of your deep learning model.
+1. [ ] [Project Proposal]: PowerPoint presentation of your project proposal for a computer vision application. See you Microsoft Teams Assignment for the template. Requirements 1 to 5 are listed below need to be explained and reflected upon to the client in the final presentation. <br>
+2. [ ] [Business Understanding] :
+
+- [ ] Target audience research template that can be found by following this link <br>
+- [ ] Summary of the SWOT Analysis <br>
+- [ ] Finalised idea for the application based on the market needs, target audience, disruptive technology risks and SWOT <br>
+3. [ ] [Proof of Concept (PoC)](https://adsai.buas.nl/Study%20Content/DeepLearning/21.%20Requirements.html): Proof of Concept (PoC) the core functionality of your deep learning model.
 - [ ] Dataset: Imsitu <br>
 - [ ] Class Labels: Pick a maximum of 5 labels present in the dataset <br>
 - [ ] Tools: Tensorflow/Keras, scikit-learn, NumPy, Matplotlib <br>
 - [ ] Code: All coding resources can be found in [this repo](https://github.com/BredaUniversityADSAI/2022-23-Y1-BlockC) <br>
-3. [ ] [Responsible & Explainable AI](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAIRequirements.html): Jupyter notebook, and two Python scripts
-4. [ ] [Application Prototype](https://adsai.buas.nl/Study%20Content/Human-Centered%20Artificial%20Intelligence/Assignment.html): Prototype in the form of a wireframe of your human-centered artificial intelligence application made in Proto.io <br>
+4. [ ] [Responsible & Explainable AI](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAIRequirements.html): Jupyter notebook, and two Python scripts
+5. [ ] [Application Prototype](https://adsai.buas.nl/Study%20Content/Human-Centered%20Artificial%20Intelligence/Assignment.html): Prototype in the form of a wireframe of your human-centered artificial intelligence application made in Proto.io <br>
 
 Please click the links above to view more detailed requirements and exact mapping of the assessment rubric!
 

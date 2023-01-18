@@ -3,7 +3,7 @@
 In block A, you explored the foundations of data science and AI and critically examined applications thereof of in existing businesses processes. In block B, you went a step further and helped a real-life client get more insight out of their data using data science tools to pre-process, analyse and get insight out of data. In this block, you will take on a more hands-on approach towards data modelling using tools such as deep learning. In particular, this block will focus on key aspects of **the modelling phase of a data science project lifecycle** such as deep learning, explainable and responsible artificial intelligence (AI), and human-centered artificial intelligence. 
 
 <figure>
-    <img src="./images/Crisp-DM_Modelling.JPEG" />
+    <img src="./images/Crisp-DM_Modelling.jpg" />
 </figure>
 <br>
 
@@ -16,53 +16,6 @@ The topics include, but are not limited to:
 - Responsible AI: Why is you model and application thereof done in a responsible manner?
 - Human-centered Artificial Intelligence: How do we design an application keeping both the user-experience and (changing) artificial intelligence algorithm in mind?
 
-
-## Staff Members
-
-| Name   |  Availability |  Mentor Group | Email  | Subject  |
-|---|---|---|---|---|
-| Dean van Aswegen (Lecturer), MSc. <img src="./images/DeanProfile.jpg" alt="Dean van Aswegen profile picture" width="200"/>| Mon, Tues, Wed, Thur, Fri  |  Block A, Group 1 (1FAI-01), Year 1 | aswegen.d@buas.nl | Mentor | 
-| Alican Noyan (Lecturer), PhD.<img src="./images/AlicanProfile.jpg" alt="Alican Noyan profile picture" width="200"/>|  Mon, Wed, Thu, Fri  | Block A, Group 2 (1FAI-04), Year 1  |  noyan.a@buas.nl | Neural Networks & Deep Learning (ILO 4.1) |
-| Irene van Blerck (Lecturer), MSc. <img src="./images/IreneProfile.jpg" alt="Irene van Blerck profile picture" width="200"/>   |  Tue, Wed, Thu, Fri | Block A, Group 4 (1FAI-02), Year 1 |  blerck.i@buas.nl | Responsible & Explainable AI (ILO 3.1) |
-| Bram Heijligers (Lecturer), MSc. <img src="./images/BramProfile.jpg" alt="Bram Heijligers profile picture" width="200"/> |  Wed, Thur, Fri | Block A, Group 5 (1FAI-03), Year 1  | heijligers.b@buas.nl | Human-Centered Artificial Intelligence (ILO 5.1) |
-| Zhanna Kozlova (Lecturer), MA. <img src="./images/ZhannaProfile.jpg" alt="Zhanna Kozlova profile picture" width="200"/>  |   |  Block A, Group 5 (1FAI-03), Year 1 | kozlova.z@buas.nl  |  Business Understanding (ILO 2.1)  |
-| Nitin Bhushan (Lecturer), PhD.  <img src="./images/NitinProfile.jpg" alt="Nitin Bhushan profile picture" width="200"/>  |  Mon, Wed, Thu, Fri  | Block A, Group 1, Year 2 | bhushan.n@buas.nl | Mentor  |
-| Frank Peters (Program manager), PhD. <img src="./images/FrankProfile.jpeg" alt="Frank Peters profile picture" width="200"/> | Mon, Tue, Wed, Thu |  Program Manager | peters.f@buas.nl |   |
-
-
-## DataLab Attendance 
-
-Regular attendance and punctuality in every DataLab is required of each student (by default from 9:00 to 17:00). A student who has incurred absences of more than two DataLab sessions without a valid reason throughout the block shall not be given credit for the professional ILO(s). 
-
-A student is considered late when they are not yet present until the fifteenth minute from the start of DataLab (9:15) Two instances of lateness are counted as one absence.
-
-In case of absence, the student needs to fill in the 'DataLab Absence' [form](https://adsai.buas.nl/Contact%20Us/DataLabAttendance.html) in a timely manner (before 9:00), and subsequently proposes and completes activities that are acceptable alternatives to the in-class learning activities. For more details, contact your mentor.
-
-*__Good__* excuses to miss DataLab:
-
-- Personal illness
-- Family emergency
-- Death of a loved one
-- Medical appointment
-- Public transportation issue
-- Car (or Other) accident
-- Etc.
-
-*__Bad__* excuses to miss DataLab:
-
-- Oversleeping
-- Being hangover
-- Having no babysitter for your rabbit, dog, cat, etc.
-- Boyband breakups and/or related drama
-- A birthday party for a four-legged pal
-- Having no clean underwear to put on
-- Going to the beach because a doctor said that you needed more vitamin D
-- The universe telling you to take a day off
-- Etc.
-
-## Questions?
-
-If you have questions or issues regarding the course material, please post a message on the 'Q&A' channel in Teams. The channel will be monitored by mentors but also please help your peers if you have the answer to their question.
 
 ***
 
@@ -117,6 +70,14 @@ The project timeline is aligned with the knowledge modules you will find in the 
 <br>
 
 ---
+
+
+## Questions?
+
+If you have questions or issues regarding the course material, please post a message on the 'Q&A' channel in Teams. The channel will be monitored by mentors but also please help your peers if you have the answer to their question.
+
+***
+
 
 # Week 1: Responsible AI (Part 1: Bias and Fairness) & Marketing
 
@@ -278,3 +239,15 @@ Good Friday - Day off!
 The medal courses for this block have been specifically selected to help boost your portfolio and extend your knowledge and expertise. You may also finish them after the initial deadline!
 
 ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=bronzemedal) ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=silvermedal) ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=goldmedal)
+
+## Staff Members
+
+| Name   |  Availability |  Mentor Group | Email  | Subject  |
+|---|---|---|---|---|
+| Dean van Aswegen (Lecturer), MSc. <img src="./images/DeanProfile.jpg" alt="Dean van Aswegen profile picture" width="200"/>| Mon, Tues, Wed, Thur, Fri  |  Block A, Group 1 (1FAI-01), Year 1 | aswegen.d@buas.nl | Mentor | 
+| Alican Noyan (Lecturer), PhD.<img src="./images/AlicanProfile.jpg" alt="Alican Noyan profile picture" width="200"/>|  Mon, Wed, Thu, Fri  | Block A, Group 2 (1FAI-04), Year 1  |  noyan.a@buas.nl | Neural Networks & Deep Learning (ILO 4.1) |
+| Irene van Blerck (Lecturer), MSc. <img src="./images/IreneProfile.jpg" alt="Irene van Blerck profile picture" width="200"/>   |  Tue, Wed, Thu, Fri | Block A, Group 4 (1FAI-02), Year 1 |  blerck.i@buas.nl | Responsible & Explainable AI (ILO 3.1) |
+| Bram Heijligers (Lecturer), MSc. <img src="./images/BramProfile.jpg" alt="Bram Heijligers profile picture" width="200"/> |  Wed, Thur, Fri | Block A, Group 5 (1FAI-03), Year 1  | heijligers.b@buas.nl | Human-Centered Artificial Intelligence (ILO 5.1) |
+| Zhanna Kozlova (Lecturer), MA. <img src="./images/ZhannaProfile.jpg" alt="Zhanna Kozlova profile picture" width="200"/>  |   |  Block A, Group 5 (1FAI-03), Year 1 | kozlova.z@buas.nl  |  Business Understanding (ILO 2.1)  |
+| Nitin Bhushan (Lecturer), PhD.  <img src="./images/NitinProfile.jpg" alt="Nitin Bhushan profile picture" width="200"/>  |  Mon, Wed, Thu, Fri  | Block A, Group 1, Year 2 | bhushan.n@buas.nl | Mentor  |
+| Frank Peters (Program manager), PhD. <img src="./images/FrankProfile.jpeg" alt="Frank Peters profile picture" width="200"/> | Mon, Tue, Wed, Thu |  Program Manager | peters.f@buas.nl |   |

@@ -90,7 +90,7 @@ If you have questions or issues regarding the course material, please post a mes
 - [DataLab: Responsible AI](https://adsai.buas.nl/Study%20Content/Responsible%20and%20Explainable%20AI/UseCases.html)
 
 ## Thursday
-- [NameSelf-StudyDay](LinkToPage)
+- [Market Research for Product development & Target Audiences](https://adsai.buas.nl/Study%20Content/Business%20Understanding/BusinessUnderstanding%201.html)
 
 ## Friday
 - [DataLab: Marketing](LinkToPage)
@@ -207,6 +207,8 @@ If you have questions or issues regarding the course material, please post a mes
 
 ## Thursday
 [Interface design](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Interface_Design.html)
+
+[S.W.O.T. analysis]((../../Study%20Content/Business%20Understanding/BusinessUnderstanding%202.html)
 
 ## Friday
 [DataLab: Wizzard of Ozz Workshop](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Datalab14_Conceptualizing_A_Wireframe_Prototype.html)

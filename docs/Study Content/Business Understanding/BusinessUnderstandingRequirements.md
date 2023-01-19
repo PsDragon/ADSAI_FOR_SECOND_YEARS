@@ -13,17 +13,17 @@ For more information on the module, please refer to the Assessment Rubric (ILO 1
 
 Plase check the assessment rubric and note the requirements below: 
 
-[ ] Conduct research on market needs. 
+- [ ] Conduct research on market needs. 
 
-[ ] Create your first idea based on the market needs.
+- [ ] Create your first idea based on the market needs.
 
-[ ] Research the target market and create, segmentation, targeting and persona for your application. 
+- [ ] Research the target market and create, segmentation, targeting and persona for your application. 
 
-[ ] Design S.W.O.T. matrix.
+- [ ] Design S.W.O.T. matrix.
 
-[ ] Include appropriate disruptive technology risks into your S.W.O.T
+- [ ] Include appropriate disruptive technology risks into your S.W.O.T
 
-[ ] Write a summary of the S.W.O.T. analysis by answering the following questions: <bp>
+- [ ] Write a summary of the S.W.O.T. analysis by answering the following questions: <bp>
 1. How can you use your strengths to take advantage of these opportunities? <bp>
 2. How can you take advantage of your strengths to avoid real and potential threats?<bp>
 3. How can you use your opportunities to overcome the weaknesses you are experiencing?<bp>

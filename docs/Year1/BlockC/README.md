@@ -208,7 +208,7 @@ If you have questions or issues regarding the course material, please post a mes
 ## Thursday
 [Interface design](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Interface_Design.html)
 
-[S.W.O.T. analysis]((../../Study%20Content/Business%20Understanding/BusinessUnderstanding%202.html)
+[S.W.O.T. analysis](../../Study%20Content/Business%20Understanding/BusinessUnderstanding%202.html)
 
 ## Friday
 [DataLab: Wizzard of Ozz Workshop](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Datalab14_Conceptualizing_A_Wireframe_Prototype.html)

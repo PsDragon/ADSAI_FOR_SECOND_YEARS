@@ -43,7 +43,7 @@ At the beginning of the project, you will be introduced to the project by one of
 1. [ ] [Project Proposal]: PowerPoint presentation of your project proposal for a computer vision application. See you Microsoft Teams Assignment for the template. Requirements 1 to 5 are listed below need to be explained and reflected upon to the client in the final presentation. <br>
 2. [ ] [Business Understanding](https://adsai.buas.nl/Study%20Content/Business%20Understanding/BusinessUnderstandingRequirements.html):
 - [ ] Target audience research template that can be found by following this link <br>
-- [ ] Summary of the SWOT Analysis <br>
+- [ ] Summary of the S.W.O.T. Analysis <br>
 - [ ] Finalised idea for the application based on the market needs, target audience, disruptive technology risks and SWOT <br>
 3. [ ] [Proof of Concept (PoC)](https://adsai.buas.nl/Study%20Content/DeepLearning/21.%20Requirements.html): Proof of Concept (PoC) the core functionality of your deep learning model.
 - [ ] Dataset: Imsitu <br>

@@ -6,19 +6,25 @@ sort: 2
 
 Today's independent study material focuses on how you as a data professional can identify, and mitigate bias in a dataset by deploying individual fairness methods; 'Fairness Through Awareness' and 'Fairness Through Unawareness'. In addition, you will will be introduced to the concept of group fairness, and its corresponding metrics, which include, but are not limited to: equalized odds, equal selection parity, and demographic parity.
 
-You are expected to create a markdown file called ```ResponsibleAIIndividualGroupFairness.md``` in your ```ResponsibleAI``` folder in your Github repos. In this file, please answer the questions that pop-up (:pencil:) as you navigate the content below. Further the module Responsible AI introduces quite a bit of new terminology. Please make sure to take notes and reflect on the new terms/concepts/debates that you encounter (:bell:).
-
 ## Learning objectives
 
-1. Define the terms 'individual fairness', 'group fairness', 'sample', and 'population'.
-2. Explain the difference between 'Fairness Through Awareness, and 'Fairness Through Unawareness'.
-3. Compare, and contrast two philosophical 'worldviews': WAE, and WYSIWIG.
-4. Compare, and contrast three notions of group fairness in AI: 'interdependence', 'sufficiency', and 'separation'.
-5. Explain how individual fairness and group fairness can conflict with each other.
+- [ ] Define the terms 'individual fairness', 'group fairness', 'social construct', 'sample', and 'population'.
+- [ ] Explain the difference between 'Fairness Through Awareness, and 'Fairness Through Unawareness'.
+- [ ] Compare, and contrast two philosophical 'worldviews': WAE, and WYSIWIG.
+- [ ] Compare, and contrast three notions of group fairness in AI: 'interdependence', 'sufficiency', and 'separation'.
+- [ ] Explain how individual fairness and group fairness can conflict with each other.
 
 __Table of contents__
 1. Introduction: 2 hours
 2. Workshop(s): 6 hours
+
+## Homework exercises
+
+For the DataLab preparation (Week 1, Friday), you are expected fill in a Microsoft Teams Form called ```DataLab Preparation 2```:
+
+<iframe width="1280px" height="960px" src="https://forms.office.com/e/mC96HqGXbM?embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+
+In this file, please answer the questions that pop-up (:pencil:) as you navigate the content below. Further the module Responsible AI introduces quite a bit of new terminology. Please make sure to take notes and reflect on the new terms/concepts/debates that you encounter (:bell:).
 
 ## Questions or issues?
 
@@ -204,19 +210,40 @@ Most (post-processing) group fairness metrics are calculated based on a confusio
 
 *Figure 4. Confusion matrix.*
 
-Group fairness metrics are calculated by comparing one or more of these measures across sensitive/protected attribute groups. For example, sex/gender or marital status could be considered such an attribute, with groups 'Female' and 'Male' for sex/gender, and 'Married', 'Not-married' for marital status.
+Group fairness metrics are calculated by comparing one or more of these measures across sensitive/protected attribute groups. For example, gender/sex or marital status could be considered such an attribute, with groups 'Female' and 'Male' for gender/sex, and 'Married', 'Not-married' for marital status.
 
-:pencil: __4a__ Read AXA's [Towards the right kind of fairness in AI](https://axa-rev-research.github.io/static/AXA_FairnessCompass-English.pdf) guide (p. 1-55). This text will introduce you to a number of popular group fairness metrics used in the field of AI.
+:pencil: __4a__ Read the blog [No Substitute for Sex](https://www.psychologytoday.com/us/blog/how-we-do-it/201908/no-substitute-sex) by Martin. 
 
-:pencil: __4b__ Read the blog post [Starting to think about AI Fairness](https://blogs.rstudio.com/ai/posts/2021-07-15-ai-fairness/) by RStudio. This article will summarize and connect many of the essential concepts covered in the independent study material.   
+:pencil: __4b__ Watch the video Feminine Beauty: A social construct?, which will introduce you to the term 'social construct'.
 
-:pencil: __4c__ Define the term 'group fairness', and explain how it differs from 'individual fairness'. Write your answer down.
+<iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/xT6wjgssVK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+*Video 2. Feminine Beauty: A social construct?*
+
+:pencil: __4c__ Combine the the following terms (e.g. A = 1, I):
+
+A. Gender 
+B. (Biological) Sex
+
+1. 'Female' and 'male'  
+2. 'Feminine' and 'masculine' 
+
+I. Social construct
+II. Biological fact
+
+Write your answer down.
 
 :pencil: __4d__ Give at least one additional example of a feature that could be seen as a sensitive/protected attribute?
 
-:pencil: __4e__ Explain the differences between 'independence', 'sufficiency', and 'separation' concerning fair AI.   
+:pencil: __4e__ Read AXA's [Towards the right kind of fairness in AI](https://axa-rev-research.github.io/static/AXA_FairnessCompass-English.pdf) guide (p. 1-55). This text will introduce you to a number of popular group fairness metrics used in the field of AI.
 
-:pencil: __4f__ Explore the interactive tutorial [Attacking discrimination with smarter machine learning](http://research.google.com/bigpicture/attacking-discrimination-in-ml/) to see how a binary classifier works, ways it can potentially be unfair, and how you might turn such an unfair classifier into a fairer one.
+:pencil: __4f__ Read the blog post [Starting to think about AI Fairness](https://blogs.rstudio.com/ai/posts/2021-07-15-ai-fairness/) by RStudio. This article will summarize and connect many of the essential concepts covered in the independent study material.   
+
+:pencil: __4g__ Define the term 'group fairness', and explain how it differs from 'individual fairness'. Write your answer down.
+
+:pencil: __4h__ Explain the differences between 'independence', 'sufficiency', and 'separation' concerning fair AI.   
+
+:pencil: __4i__ Explore the interactive tutorial [Attacking discrimination with smarter machine learning](http://research.google.com/bigpicture/attacking-discrimination-in-ml/) to see how a binary classifier works, ways it can potentially be unfair, and how you might turn such an unfair classifier into a fairer one.
 
 To select an appropriate group fairness metric for our (binary) classification task, we will use AxA's [Fairness Compass](https://axa-rev-research.github.io/fairness-compass.html).
 
@@ -342,14 +369,14 @@ Need a refresher on precision and recall? Watch the video MFML 044 - Precision v
 
 <iframe width="896" height="504" src="https://www.youtube.com/embed/BYQQlCVt4aE?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-*Video 2. Precision vs recall by Cassie Kozyrkov.*
+*Video 3. Precision vs recall by Cassie Kozyrkov.*
 
  __Mnemonic:__
 
 - Precision: 'Don't waste my time'.
 - Recall: 'Collect 'em all'.  
 
-<img src="./images/recall_precision.png" alt="recall vs. precision" width="500"/>
+<img src="./images/recall_precision.png" alt="recall vs. precision" width="700"/>
 
 *Figure 5. Precision vs. recall.*
 

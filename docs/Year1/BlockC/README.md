@@ -33,27 +33,32 @@ For example, the images below show the predictions of a standard AI image classi
 </figure>
 <br>
 
-Your goal for this block is to fix such broken implementations of AI and ensure that AI remains responsible, transparent and explainable. To this end, you are expected to design, implement and evaluate AI algorithms based on deep neural networks that can accurately classify an image while being sensitive to biases that may be present in the data the network is trained on. Further, keeping the end user in mind, imagine a use-case where such an algorithm would have value and create a protype of an application using the concepts learned in Human-Centered AI. Additionally, it is important to explain the market need for this application by conducting market research, target audience analysis and S.W.O.T. 
+Your goal for this block is to create a project proposal for an AI application which operates in a responsible, transparent and explainable manner. To this end, you are expected to design, implement and evaluate AI algorithms based on deep neural networks that can accurately classify an image while being sensitive to biases that may be present in the data the network is trained on. Further, keeping the end user in mind, imagine a use-case where such an algorithm would have value and create a protype of an application using the concepts learned in Human-Centered AI. Finally, you need to explain why the market needs your application by conducting market research, target audience analysis and S.W.O.T. 
 
 At the beginning of the project, you will be introduced to the project by one of the lecturers. Throught out the block, you can consult the lecturers if you have any questions or wish to deepen your understanding of project. Please refer to the creative brief requirment below for more detailed information.
 
 
 
 ### Creative Brief Requirements:
-1. [ ] [Project Proposal]: PowerPoint presentation of your project proposal for a computer vision application. See you Microsoft Teams Assignment for the template. Requirements 1 to 5 are listed below need to be explained and reflected upon to the client in the final presentation. <br>
+1. [ ] [Project Proposal](MS Teams Assignment Template/Project Proposal Template - Y1C_2022-23_ADSAI.pptx): PowerPoint presentation of your project proposal for a computer vision application. See you Microsoft Teams Assignment for the template. Requirements 1 to 5 are listed below need to be explained and reflected upon in the final client presentation. <br>
 2. [ ] [Business Understanding](https://adsai.buas.nl/Study%20Content/Business%20Understanding/BusinessUnderstandingRequirements.html):
-- [ ] Target audience research template that can be found by following this link <br>
-- [ ] Summary of the S.W.O.T. Analysis <br>
-- [ ] Finalised idea for the application based on the market needs, target audience, disruptive technology risks and SWOT <br>
 3. [ ] [Proof of Concept (PoC)](https://adsai.buas.nl/Study%20Content/DeepLearning/21.%20Requirements.html): Proof of Concept (PoC) the core functionality of your deep learning model.
-- [ ] Dataset: Imsitu <br>
-- [ ] Class Labels: Pick a maximum of 5 labels present in the dataset <br>
-- [ ] Tools: Tensorflow/Keras, scikit-learn, NumPy, Matplotlib <br>
-- [ ] Code: All coding resources can be found in [this repo](https://github.com/BredaUniversityADSAI/2022-23-Y1-BlockC) <br>
 4. [ ] [Responsible & Explainable AI](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAIRequirements.html): Jupyter notebook, and two Python scripts
-5. [ ] [Application Prototype](https://adsai.buas.nl/Study%20Content/Human-Centered%20Artificial%20Intelligence/Assignment.html): Prototype in the form of a wireframe of your human-centered artificial intelligence application made in Proto.io <br>
+5. [ ] [Application Prototype](https://adsai.buas.nl/Study%20Content/Human-Centered%20Artificial%20Intelligence/Assignment.html): Prototype in the form of a wireframe of your human-centered artificial intelligence application made in [Proto.io](wwww.proto.io) <br>
 
-Please click the links above to view more detailed requirements and exact mapping of the assessment rubric!
+Please click the links above to view more detailed requirements and exact mapping of the assessment rubric! 
+
+# Deadlines & deliverable
+Requirement 1 to 5 are to be delivered be handed-in
+on Friday the 7th of April by 16:59 latest. The final client presentation will take place in week 9 from Wednesday and Friday. The client presentation will be attended by a panel of stakeholders (the lecturers responsible for the ILO's; see the staff section.
+
+
+---
+
+## Questions?
+
+If you have questions or issues regarding the course material, please post a message on the 'Q&A' channel in Teams. The channel will be monitored by mentors but also please help your peers if you have the answer to their question.
+
 
 ---
 
@@ -68,12 +73,7 @@ The project timeline is aligned with the knowledge modules you will find in the 
 </figure>
 <br>
 
----
-
-
-## Questions?
-
-If you have questions or issues regarding the course material, please post a message on the 'Q&A' channel in Teams. The channel will be monitored by mentors but also please help your peers if you have the answer to their question.
+Below you're find the timeline on a day-to-day basis. Further down there's info on the medals and staff for this block; which includes which staff member to go to for ILO specific questions. 
 
 ***
 

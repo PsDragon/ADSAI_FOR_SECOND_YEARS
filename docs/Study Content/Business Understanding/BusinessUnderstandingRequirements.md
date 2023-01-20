@@ -15,9 +15,9 @@ Plase check the assessment rubric and note the requirements below:
 
 - [ ] Conduct research on market needs. 
 
-- [ ] Create your first idea based on the market needs.
-
 - [ ] Research the target market and create, segmentation, targeting and persona for your application. 
+
+- [ ] Create your first idea based on the market needs.
 
 - [ ] Design S.W.O.T. matrix.
 
@@ -33,13 +33,6 @@ Plase check the assessment rubric and note the requirements below:
 
 ## __Deliverable(s):__
 
-- Filled in the target audience research template. The template can be found by clicking this link.
-
-- __In the presentation:__ 
-
-Summary of S.W.O.T. <bp>
-Finalised idea for the application based on the market needs, target audience, disruptive technology risks and SWOT. 
-
-__Target audience template is to be uploaded to Github no later than 5pm on last DataLab day.__
+All the information mentioned above needs to be in  __the final presentation ___. Additional information that you find important can be shared in the block C notes file.
 
 ***

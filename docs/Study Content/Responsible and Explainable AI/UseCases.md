@@ -36,7 +36,7 @@ This block places emphasis on data modeling, a key element of the CRISP-DM data 
 
 In this use-case, which is related to the 'Poor' criteria of ILO 3.1, you will be asked to perform an EDA on the dataset with the goal to identify, and describe an instance of bias. In addition, you will be asked to discuss a possible ramification (e.g., harm) in terms of fairness of the identified bias instance.
 
-:bell: You may use the Imsitu dataset [GUI interface]() to search for bias instances:
+:bell: You may use the Imsitu dataset [GUI interface](http://imsitu.org/browse/) to search for bias instances:
 
 <img src="./images/ImsituGUI.png" alt="Imsitu GUI" width="800">
 
@@ -78,6 +78,8 @@ __To solve this use-case, you will need to:__
 - [ ] Create a validation set that contains images from the selected classes.
 - [ ] Create a test set that contains images from the selected classes.
 
+For more information on how to create a subset of images from the original dataset, click [here](). 
+
 :bell: Low on (training) images? You are allowed to add more images to your custom image dataset. For example, you can use the ohyicong's [Google-Image-Scraper](https://github.com/ohyicong/Google-Image-Scraper) project on GitHub to scrape images from Google Images.
 
 :pencil: A training set commonly contains approximately 80% of the images, the validation set contains 10% of the images, and the test set contains 10% of the images.
@@ -97,8 +99,8 @@ __To solve this use-case, you will need to:__
     - [ ] Equalized Odds
     - [ ] Equalized Opportunities
     - [ ] Predictive Equality
-- [ ] Write a separate Python function for each of the group fairness metrics that you defined above. See ```calculate_metrics.py``` file, which is provided in your personal BUAs GitHub repository.
-- [ ] Pass the unit tests listed in the ```test_calculate_metrics.py``` file, which is provided in your personal BUAs GitHub repository. 
+- [ ] Write a separate Python function for each of the group fairness metrics that you defined above. Use the ```load_confusion_matrices():``` function to load the confusion matrices for the protected/sensitive attribute test sets into the group fairness metrics. See ```calculate_metrics.py``` file, which is provided in your personal BUAs GitHub repository.
+- [ ] Pass the unit tests listed in the ```test_calculate_metrics.py``` file, which is provided in your personal BUAs GitHub repository.
 
 :bell: You may use AXA's [The Fairness Compass](https://www-axa-com.cdn.axa-contento-118412.eu/www-axa-com/d6324958-367e-4375-81c3-cfeb8e7ccc66_AXA_FairnessCompass-English.pdf).
 
@@ -117,7 +119,7 @@ __To solve this use-case, you will need to:__
 - [ ] Train the binary classification model on the image dataset. The weights of the model should be saved to a .h5 file.
 - [ ] Evaluate the image classifier's fairness on a group level by writing a Python function that returns an appropriate fairness metric, and corresponding calculation. See ```group_fairness.py``` file, which is provided in your personal BUAs GitHub repository. 
 - [ ] Pass the unit tests listed in the ```test_group_fairness.py``` file, which is provided in your personal BUAs GitHub repository. 
-- [ ] Elaborate on your approach, the choices you made, and results of the fairness evaluation in the ```responsible_ai.ipynb``` file, which is provided in your personal BUAs GitHub repository. 
+- [ ] Elaborate on your approach, the choices you made, and results of the fairness evaluation in the ```responsible_ai.ipynb``` file (e.g., determination of suitable group fairness metric, outcome of group fairness metric calculation, etc.), which is provided in your personal BUAs GitHub repository. 
 
 
 ## Use-case 6: Apply one/multiple explainable AI method(s) to the image classifier

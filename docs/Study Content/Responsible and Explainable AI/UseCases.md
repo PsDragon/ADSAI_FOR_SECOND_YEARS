@@ -53,11 +53,11 @@ To get started, you can use the [Critical Alphabet](https://criticalalphabet.com
 
 ## Use-case 2: Propose individual fairness method
 
-Unfortunately, most of the current fairness enhancing techniques only apply to tabular data. Our project is focused on image data. Thus, to solve this use-case, which is related to ILO 3.1's 'Insufficient', you have to be creative. One way to mitigate bias is by applying the 'Fairness Through Unawareness' method, which basically means that you remove as much 'sensitive' data as possible. Sometimes, you do not want to remove any data instances. For example, when you already have a relatively small dataset. 
+Unfortunately, most of the current fairness enhancing techniques only apply to tabular data. Our project is focused on image data. Thus, to solve this use-case, which is related to ILO 3.1's 'Insufficient', you have to be creative. One way to mitigate bias is by applying the 'Fairness Through Unawareness' pre-processing method, which basically means that you remove as much 'sensitive' data as possible. Sometimes, you do not want to remove any data instances. For example, when you already have a relatively small dataset. 
 
 :bell: Remember, Artificial Neural Networks (ANNs) generally require a vast amount of training examples! 
 
-Another method to mitigate bias, which does not reduce the size of your dataset, is 'Fairness Through Awareness'. This method aims to make the dataset more inclusive (and thus representative) by adding an additional, purposely specified, set of data instances to the dataset. 
+Another method to mitigate bias, which does not reduce the size of your dataset, is 'Fairness Through Awareness'. This pre-processing method aims to make the dataset more inclusive (and thus representative) by adding an additional, purposely specified, set of data instances to the dataset. 
 
 __To solve this use-case, you will need to:__
 
@@ -78,7 +78,7 @@ __To solve this use-case, you will need to:__
 - [ ] Create a validation set that contains images from the selected classes.
 - [ ] Create a test set that contains images from the selected classes.
 
-For more information on how to create a subset of images from the original dataset, click [here](). 
+For more information on how to create a subset of images from the original dataset, click [here](https://adsai.buas.nl/Study%20Content/Responsible%20and%20Explainable%20AI/UseCasesDetailed.html). 
 
 :bell: Low on (training) images? You are allowed to add more images to your custom image dataset. For example, you can use the ohyicong's [Google-Image-Scraper](https://github.com/ohyicong/Google-Image-Scraper) project on GitHub to scrape images from Google Images.
 
@@ -88,12 +88,24 @@ For more information on how to create a subset of images from the original datas
 
 ## Use-case 4: Write Python functions; group fairness metrics
 
-Now that we have identified, and described bias in the Imsitu dataset, and we have proposed a method to mitigate bias, we can define a set of metrics that we can use to evaluate the fairness of a binary classification model. In this use-case, which is related to the 'Sufficient' criteria of ILO 3.1, you will be asked to write Python functions that calculate and return the outcomes of the group fairness metrics. 
+In this use-case, which is related to the 'Sufficient' criteria of ILO 3.1, you will be asked to apply a post-processing bias mitigating method to the output of a binary classification model. To do so, you will need to write Python functions to calculate a set of group fairness metrics. 
+
+The teaching teams has trained a binary classification model on a subset of the Imsitu dataset; depicting a man or woman (i.e., nouns: agents), who is either dusting or performing another activity (i.e., verb). The protected/sensitive attribute is gender, and for the sake of the exercise, we used the categories 'Man' for the privileged group, and 'Woman' for the unprivileged group. 
+
+In addition, we created two test sets:
+
+1. 50 images of men dusting, and 50 images of men performing another activity.
+2. 50 images of women dusting, and 50 images of women performing another activity. 
+
+To evaluate the fairness of the binary classification model, we created a confusion matrix for each test set; one for the male agent and another for the female agent.
+
+If our binary classification model contains bias, then the outcomes of the group fairness metrics will be different for the two test sets. In practice, this means that the model will make biased predictions, which in turn may harm individuals by instigating or facilitating an unfair decision-making process. For example, when we use our biased classifier to select images for an advertisement campaign, it may only select images of females dusting, thereby reinforcing the (harmful) stereotype that females are homemakers, and males are breadwinners.
 
 __To solve this use-case, you will need to:__
 
-- Set up the equations for following group fairness metrics:
+- [ ] Set up the equations for following group fairness metrics:
     - [ ] Demographic Parity
+    - [ ] Predictive Parity 
     - [ ] Equal Selection Parity
     - [ ] Conditional Use Accuracy Equality
     - [ ] Equalized Odds
@@ -104,23 +116,22 @@ __To solve this use-case, you will need to:__
 
 :bell: You may use AXA's [The Fairness Compass](https://www-axa-com.cdn.axa-contento-118412.eu/www-axa-com/d6324958-367e-4375-81c3-cfeb8e7ccc66_AXA_FairnessCompass-English.pdf).
 
+For more information on how to set up the group fairness metric, click [here](https://adsai.buas.nl/Study%20Content/Responsible%20and%20Explainable%20AI/UseCasesDetailed.html). 
+
 ## Use-case 5: Write Python function; group fairness taxonomy 
 
 In this use-case, which is related to the 'Excellent' criteria of ILO 3.1, you will be asked to build, train, and evaluate a binary classification model on its group level fairness by writing a Python function that returns an appropriate fairness metric, and corresponding calculation. To successfully solve this use-case, you will need to use AXA's [The Fairness Compass](https://www-axa-com.cdn.axa-contento-118412.eu/www-axa-com/d6324958-367e-4375-81c3-cfeb8e7ccc66_AXA_FairnessCompass-English.pdf), and the Python functions that you wrote for use-case 3.
 
 __To solve this use-case, you will need to:__
 
-- [ ] Take a closer look at the [taxonomy](https://rb.gy/vze3w3) of AXA's The Fairness Compass.
-- [ ] Select an image dataset of your choice (e.g. Imsitu, Open Images, MS COCO, etc.).
-- [ ] Define a binary classification task using the image dataset selected in the previous step.
-- [ ] Select a sensitive/protected attribute in the dataset.
-- [ ] Specify a policy/'worldview'.
-- [ ] Build an ANN model in Python, using Tensorflow's Keras, that can be used to classify images into two classes (i.e., binary classification task).
-- [ ] Train the binary classification model on the image dataset. The weights of the model should be saved to a .h5 file.
-- [ ] Evaluate the image classifier's fairness on a group level by writing a Python function that returns an appropriate fairness metric, and corresponding calculation. See ```group_fairness.py``` file, which is provided in your personal BUAs GitHub repository. 
-- [ ] Pass the unit tests listed in the ```test_group_fairness.py``` file, which is provided in your personal BUAs GitHub repository. 
-- [ ] Elaborate on your approach, the choices you made, and results of the fairness evaluation in the ```responsible_ai.ipynb``` file (e.g., determination of suitable group fairness metric, outcome of group fairness metric calculation, etc.), which is provided in your personal BUAs GitHub repository. 
+- [ ] Define a binary classification task using a dataset of your choice. It does not have to be a image dataset, you can also use a tabular one, such as COMPAS. However, make sure that the dataset has least one feature that can be used as a sensitive/protected attribute.
+- [ ] Specify a sensitive/protected attribute in the dataset.
+- [ ] Train a binary classification model on the dataset. 
+- [ ] Evaluate the binary classification model's fairness on a group level by writing a Python function for the group fairness taxonomy, based on AXA's Fairness Compass.
+- [ ] Elaborate on your approach, the choices you made, and results of the fairness evaluation (e.g., determination of suitable group fairness metric, outcome of group fairness metric calculation, etc.). 
+- [ ] Test your group fairness function by writing a unit test with the Python package ```unittest```.
 
+For more information on to create the group fairness taxonomy function, click [here](https://adsai.buas.nl/Study%20Content/Responsible%20and%20Explainable%20AI/UseCasesDetailed.html). 
 
 ## Use-case 6: Apply one/multiple explainable AI method(s) to the image classifier
 
@@ -134,10 +145,11 @@ If you have come this far, you have now completed the creative brief section for
 
 ## The final deliverables
 
-If you are done with the use-cases, you can move on to documentation, ensure that you have saved and committed all your work to Github. Documentation is a very important part of the project, and you will need to ensure that you have a presentation, which clearly communicates your findings. Start to work on the Responsible AI use-cases as soon as possible. Do not wait until Week 8 to start with your presentation. You will need to work on the presentation in stages, and you will need to submit your final presentation in Week 8.
+If you are done with the use-cases, you can move on to documentation, ensure that you have saved and committed all your work to Github. Documentation is a very important part of the project, and you will need to ensure that you have a [presentation]() and [Jupyter Notebook](), which clearly communicates your your findings. Start to work on the Responsible AI use-cases as soon as possible. Do not wait until Week 8 to start with your presentation or Jupyter Notebook. You will need to work on the presentation and Jupyter Notebook in stages.
 
 ## Plagiarism
 
 Please note that plagiarism is a serious offense. You are encouraged to use the internet to help you with your analyses, but you must ensure that you cite your sources. However, if your code, and/or accompanied explanation(s) (e.g.,inline-comments, texts in markdown block, etc.), exactly resembles the code, and/or explanation(s) of another student, you will be reported to the board of examiners. You are encouraged to discuss the use-case with your peers, but you must ensure that you write your own code, and provide your own explanation(s). If you are unsure about whether your code, and/or explanation(s) are similar to another student's code, and or explanation(s), please ask your mentor to review your code, and/or other writings.
 
 ***
+

@@ -17,3 +17,6 @@ plugins:
   - jemoji
   - jekyll-avatar
   - jekyll-mentions
+
+incremental: true
+profile: true

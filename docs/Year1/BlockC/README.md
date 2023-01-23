@@ -73,7 +73,7 @@ The project timeline is aligned with the knowledge modules you will find in the 
 </figure>
 <br>
 
-Below you're find the timeline on a day-to-day basis. Further down there's info on the medals and staff for this block; which includes which staff member to go to for ILO specific questions. 
+Below you're find the timeline on a day-to-day basis. Further down there's info on the medals and staff for this block; which includes which staff member to go to for ILO-specific questions. 
 
 ***
 
@@ -234,6 +234,31 @@ Below you're find the timeline on a day-to-day basis. Further down there's info 
 Good Friday - Day off!
 
 
+## Extra Curricular Learning
+For proffessional ILO 2 you need to demonstrate self-exploration and personal development, good academic practices in learning how to learn and the acquisition of professional knowledge through research, 
+study, analysis, applied practice, discussion and reporting. For each ILO condition, the following should be evidence in your learning log:
+- ILO 2.1, Poor: Identify an area of improvement in terms of knowledge and skills, evidence working on this. Confer with your mentor on whether your improvement plan is valid. Tip: Take a look at last blocks self-reflection and work on your identified areas of improvement over there!
+- ILO 2.1, Insufficient: You can do this by looking into extracurricular resources (e.g. transformer neural networks) or attending extracurricular activities yourself (e.g. such as attending a guild or [Dealing with stress training](https://hub.buas.nl/read/dealing-with-stress-2/)). 
+- ILO 2.1, Sufficient: Your learning and development is clearly evidenced.
+- ILO 2.1, Good: Your learning goes beyond the current confines of the project. Something which takes the project to the next level (e.g. fitting a transformer model to do image classification, actually creating your application)
+- ILO 2.1, Excellent: you also share your learning/development experience succesfully with your peers and evidence what you learned them. Evidence peer-learning can be done using written
+
+We made a example selection of valuable resources for extracurricular learning and development to get you started:
+
+### Business Understanding:
+- SomeResource
+
+### Responsible AI:
+- SomeResource
+
+### Deep Learning:
+- SomeResource
+
+### Human-Centered Artificial Intelligence:
+- [AI guidebook provided by Google](https://pair.withgoogle.com/guidebook)
+− [Designing with Data](http://shop.oreilly.com/product/0636920026228.do)
+− [The Design of Everyday Things, Donald A. Norman](https://login.proxy1.dom1.nhtv.nl/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cat01829a&AN=buas.393706974&site=eds-live)
+- [Adaptive AI Interfaces](https://design.google/library/ux-ai/)
 
 ## Medal Challenges 
 

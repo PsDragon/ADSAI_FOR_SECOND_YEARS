@@ -129,7 +129,7 @@ __To solve this use-case, you will need to:__
 - [ ] Train a binary classification model on the dataset. 
 - [ ] Evaluate the binary classification model's fairness on a group level by writing a Python function for the group fairness taxonomy, based on AXA's Fairness Compass.
 - [ ] Elaborate on your approach, the choices you made, and results of the fairness evaluation (e.g., determination of suitable group fairness metric, outcome of group fairness metric calculation, etc.). 
-- [ ] Test your group fairness function by writing a unit test with the Python package ```unittest```.
+- [ ] Test your group fairness function by writing a unit test with the Python package ```pytest```.
 
 For more information on to create the group fairness taxonomy function, click [here](https://adsai.buas.nl/Study%20Content/Responsible%20and%20Explainable%20AI/UseCasesDetailed.html). 
 

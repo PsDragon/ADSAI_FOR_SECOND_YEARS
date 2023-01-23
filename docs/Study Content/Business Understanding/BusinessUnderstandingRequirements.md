@@ -13,11 +13,11 @@ For more information on the module, please refer to the Assessment Rubric (ILO 1
 
 Plase check the assessment rubric and note the requirements below: 
 
-- [ ] Conduct research on market needs. 
-
 - [ ] Research the target market and create, segmentation, targeting and persona for your application. 
 
-- [ ] Create your first idea based on the market needs.
+- [ ] Conduct research on market needs. 
+
+- [ ] Create your first idea based on the market needs and your target audience.
 
 - [ ] Design S.W.O.T. matrix.
 
@@ -33,6 +33,6 @@ Plase check the assessment rubric and note the requirements below:
 
 ## __Deliverable(s):__
 
-All the information mentioned above needs to be in  __the final presentation ___. Additional information that you find important can be shared in the block C notes file.
+All the information mentioned above needs to be in __the final presentation__. Additional information that you find important can be shared in the block C notes file.
 
 ***

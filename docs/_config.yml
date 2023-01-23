@@ -19,3 +19,4 @@ plugins:
   - jekyll-mentions
 
 incremental: true
+profile: true

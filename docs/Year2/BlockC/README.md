@@ -1,4 +1,4 @@
-# Block C - Artificial Intelligence Scientist - Speech and Language
+# Block C - Artificial Intelligence Scientist - Natural Language Processing
 
 Natural language is a language that has evolved naturally as a means of communication among people. Computer analysis of natural language is called Natural Language Processing (NLP). NLP is used for e-mail classification, smart assistants, search engines, language translation and many more applications. Hundreds of millions of people use Google Translate daily!
 

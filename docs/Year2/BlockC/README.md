@@ -240,34 +240,30 @@ __Formative feedback II__
 ### Week 5
 
 
-DataLab 1, Prep and Goal(s):
+DataLab 1, Prep and Goal(s): Neural Networks 1
 
-DataLab 2, Prep and Goal(s):
+DataLab 2, Prep and Goal(s): Neural Networks 2
 
 
 ### Week 6
 
-DataLab 1, Prep and Goal(s):
+DataLab 1, Prep and Goal(s): Neural Networks 3
 
-DataLab 2, Prep and Goal(s):
+DataLab 2, Prep and Goal(s): Final day of individual Kaggle submissions
 
 __Formative feedback III__
 
 ### Week 7
 
+DataLab 1, Prep and Goal(s): Kaggle Team submissions 1
 
-DataLab 1, Prep and Goal(s):
-
-DataLab 2, Prep and Goal(s):
-Final day of Kaggle submissions
+DataLab 2, Prep and Goal(s): Kaggle Team submissions 2
 
 ### Week 8 
 
-DataLab 1, Prep and Goal(s):
-Kaggle team submission
+DataLab 1, Prep and Goal(s): Kaggle presentations
 
 DataLab 2, Prep and Goal(s):
-Presentation of Kaggle solutions
 
 ## Project Requirements
 Consider each of these task as mandatory to complete your project:

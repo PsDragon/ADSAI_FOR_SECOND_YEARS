@@ -20,8 +20,9 @@ The topics include, but are not limited to:
 ***
 
 ## Project Based Learning - Creative Brief
+An undisclosed client approached us with a [request for proposal](https://www.techtarget.com/searchitchannel/definition/request-for-proposal#:~:text=Moore%2C%20Industry%20Editor-,What%20is%20a%20request%20for%20proposal%20(RFP)%3F,for%20a%20desired%20IT%20solution.) for an AI application. Specifically, the client want to explore computer vision applications which distinquish objects from one another to create some business value. In true industry spirit, the exact goal and value of the application is open and up for you to decided; come up with a computer vision application you think adds fundamental value to your determined use-case. The submitted Request For Proposal (RFP) specified the components to be delivered which are further specified for you in the project proposal template (see 'Creative Brief Requirements'). The client will be disclosed during the final presentations. The client will review your project proposal with a small board in week 9 and create a ranked top 3 of all project proposals it will consider for further development; the medal challenge for this block is to gain a place in the top 3.
 
-Your goal for this creative brief is to create a project proposal for an AI application which operates in a responsible, transparent and explainable manner. To this end, you are expected to design, implement and evaluate AI algorithms based on deep neural networks that can accurately classify an image while being sensitive to biases that may be present in the data the network is trained on. Further, keeping the end user in mind, imagine a use-case where such an algorithm would have value and create a protype of an application using the concepts learned in Human-Centered AI. Finally, you need to explain why the market needs your application by creating an AI canvas, conducting market research, target audience analysis and S.W.O.T. 
+Therefore, your goal for this creative brief is to respond to the RFP with a project proposal for an AI application which operates in a responsible, transparent and explainable manner. To this end, you are expected to design, implement and evaluate AI algorithms based on deep neural networks that can accurately classify an image while being sensitive to biases that may be present in the data the network is trained on. Further, keeping the end user in mind, imagine a use-case where such an algorithm would have value and create a protype of an application using the concepts learned in Human-Centered AI. Finally, you need to explain why the market needs your application by creating an AI canvas, conducting market & consumer research, and conduct a [S.W.O.T. analysis](https://www.investopedia.com/terms/s/swot.asp#:~:text=Is%20SWOT%20Analysis%3F-,SWOT%20(strengths%2C%20weaknesses%2C%20opportunities%2C%20and%20threats)%20analysis,are%20not%20limited%20to%20companies.). 
 
 Large, publicly available image datasets, such as ImageNet, Open Images and Conceptual Captions are commonly used to develop and rank image classification algorithms. While these datasets are a necessary and critical part of developing useful machine learning (ML) models, some open-source data may be biased. As patterns in such datasets ultimately decide what an AI model learns and predicts, such bias may lead us to develop models that may not necessarily reflect the true reality.
 
@@ -272,20 +273,20 @@ We made a example selection of valuable resources for extracurricular learning a
 
 ## Medal Challenges 
 
-The medal courses for this block have been specifically selected to help boost your portfolio and extend your knowledge and expertise. You may also finish them after the initial deadline!
+For this block medal challenges the client will create a ranked top 3 of all submitted project proposals. The medal courses for this block have been specifically selected to create a competitive element to boost your performance, portfolio and extend your knowledge and expertise by driving you to outperform your peers.
 
-- ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=bronzemedal) Bronze: ....
-- ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=silvermedal) Silver: ....
-- ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=goldmedal) Gold: ....
+- ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=bronzemedal) Bronze: Gain 3rd place.
+- ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=silvermedal) Silver: Gain 2nd place.
+- ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=goldmedal) Gold: Gain 1st place.
 
 ## Staff Members
 
 | Name   |  Availability |  Mentor Group | Email  | Subject  |
 |---|---|---|---|---|
-| Dean van Aswegen (Lecturer), MSc. <img src="./images/DeanProfile.jpg" alt="Dean van Aswegen profile picture" width="200"/>| Mon, Tues, Wed, Thur, Fri  |  Block A, Group 1 (1FAI-01), Year 1 | aswegen.d@buas.nl | Mentor | 
+| Dean van Aswegen (Lecturer), MSc. <img src="./images/DeanProfile.jpg" alt="Dean van Aswegen profile picture" width="200"/>| Mon, Tues, Wed, Thur, Fri  |  Block A, Group 1 (1FAI-01), Year 1 | aswegen.d@buas.nl | Neural Networks & Deep Learning (ILO 4.1) | 
 | Alican Noyan (Lecturer), PhD.<img src="./images/AlicanProfile.jpg" alt="Alican Noyan profile picture" width="200"/>|  Mon, Wed, Thu, Fri  | Block A, Group 2 (1FAI-04), Year 1  |  noyan.a@buas.nl | Neural Networks & Deep Learning (ILO 4.1) |
 | Irene van Blerck (Lecturer), MSc. <img src="./images/IreneProfile.jpg" alt="Irene van Blerck profile picture" width="200"/>   |  Tue, Wed, Thu, Fri | Block A, Group 4 (1FAI-02), Year 1 |  blerck.i@buas.nl | Responsible & Explainable AI (ILO 3.1) |
 | Bram Heijligers (Lecturer), MSc. <img src="./images/BramProfile.jpg" alt="Bram Heijligers profile picture" width="200"/> |  Wed, Thur, Fri | Block A, Group 5 (1FAI-03), Year 1  | heijligers.b@buas.nl | Human-Centered Artificial Intelligence (ILO 5.1) |
 | Zhanna Kozlova (Lecturer), MA. <img src="./images/ZhannaProfile.jpg" alt="Zhanna Kozlova profile picture" width="200"/>  |   |  Block A, Group 5 (1FAI-03), Year 1 | kozlova.z@buas.nl  |  Business Understanding (ILO 2.1)  |
-| Nitin Bhushan (Lecturer), PhD.  <img src="./images/NitinProfile.jpg" alt="Nitin Bhushan profile picture" width="200"/>  |  Mon, Wed, Thu, Fri  | Block A, Group 1, Year 2 | bhushan.n@buas.nl | Mentor  |
+| Nitin Bhushan (Lecturer), PhD.  <img src="./images/NitinProfile.jpg" alt="Nitin Bhushan profile picture" width="200"/>  |  Mon, Tues, Wed, Thu, Fri  | Block A, Group 1, Year 2 | bhushan.n@buas.nl | Explainable AI (ILO 3.1)  |
 | Frank Peters (Program manager), PhD. <img src="./images/FrankProfile.jpeg" alt="Frank Peters profile picture" width="200"/> | Mon, Tue, Wed, Thu |  Program Manager | peters.f@buas.nl |   |

@@ -1,30 +1,29 @@
 # Block C - Data Modelling
 
-In block A, you explored the foundations of data science and AI and critically examined applications thereof of in existing businesses processes. In block B, you went a step further and helped a real-life client get more insight out of their data using data science tools to pre-process, analyse and get insight out of data. In this block, you will take on a more hands-on approach towards data modelling using tools such as deep learning. In particular, this block will focus on key aspects of **the modelling phase of a data science project lifecycle** such as deep learning, explainable and responsible artificial intelligence (AI), and human-centered artificial intelligence. 
+In block A, you explored the foundations of data science and AI and critically examined applications thereof. In block B, you went a step further and helped a real-life client get more insight out of their data using data science tools to pre-process, analyse and get insight out of data. In this block, you will take on a more hands-on approach towards data modelling using tools such as deep learning, and you'll think about how incorperate such a model in a responsible and user-centered way. In particular, this block will focus on key aspects of **the modelling phase of a data science project lifecycle** such as deep learning, explainable and responsible artificial intelligence (AI), and human-centered artificial intelligence. 
 
 <figure>
     <img src="./images/Crisp-DM_Modelling.jpg" />
 </figure>
 <br>
 
-Therefore, we are going to create a project proposal for an smartphone application which uses the camera to scan object to achieve some kind of business value. You're going to design this application keeping the user experience, business value and disruptive technology risks in mind. The project proposal itself will take the shape of a powerpoint presentation where you argue why your deep learning model is responsible and why it adds value to the core use-case.
+Therefore, we are going to create a project proposal for an smartphone application which uses the camera to classify image input to achieve some kind of business value. You're going to design this application keeping the user experience, business value and disruptive technology risks in mind. The project proposal itself will take the shape of a powerpoint presentation where you argue why your deep learning model is responsible and why it adds value to the core use-case.
 
 The topics include, but are not limited to:
 - Business Understanding: Why create this application? What is it's value and for whom is it valuable?
 - Explainable AI: How does you deep-learning model work?
 - Deep Learning: How do we achieve the computer vision task lying at the core of your project proposal?
 - Responsible AI: Why is you model and application thereof done in a responsible manner?
-- Human-centered Artificial Intelligence: How do we design an application keeping both the user-experience and (changing) artificial intelligence algorithm in mind?
+- Human-centered Artificial Intelligence: How do we design an application keeping both the user-experience and deep learning algorithm in mind?
 
 
 ***
 
 ## Project Based Learning - Creative Brief
 
- In this project, you will develop responsible and explainable AI algorithms which are human centered.
- This assignment is based on the Kaggle Inclusive Images Challenge (see [here](http://Inclusive%20Images%20Challenge%20|%20Kaggle)) organised jointly by Google and Kaggle.
+Your goal for this creative brief is to create a project proposal for an AI application which operates in a responsible, transparent and explainable manner. To this end, you are expected to design, implement and evaluate AI algorithms based on deep neural networks that can accurately classify an image while being sensitive to biases that may be present in the data the network is trained on. Further, keeping the end user in mind, imagine a use-case where such an algorithm would have value and create a protype of an application using the concepts learned in Human-Centered AI. Finally, you need to explain why the market needs your application by creating an AI canvas, conducting market research, target audience analysis and S.W.O.T. 
 
- Large, publicly available image datasets, such as ImageNet, Open Images and Conceptual Captions are commonly used to develop and rank image classification algorithms. While these datasets are a necessary and critical part of developing useful machine learning (ML) models, some open-source data may be biased. As patterns in such datasets ultimately decide what an AI model learns and predicts, such bias may lead us to develop models that may not necessarily reflect the true reality.
+Large, publicly available image datasets, such as ImageNet, Open Images and Conceptual Captions are commonly used to develop and rank image classification algorithms. While these datasets are a necessary and critical part of developing useful machine learning (ML) models, some open-source data may be biased. As patterns in such datasets ultimately decide what an AI model learns and predicts, such bias may lead us to develop models that may not necessarily reflect the true reality.
 
 For example, the images below show the predictions of a standard AI image classifier trained to predict if a given image represents a wedding or not. While the AI correctly detects a wedding in the first 3 images, it fails to do so in the last image. This is a consequence of developing an AI algorithm without being sensitive to biases that might exist in the training data.
 
@@ -33,9 +32,32 @@ For example, the images below show the predictions of a standard AI image classi
 </figure>
 <br>
 
-Your goal for this block is to create a project proposal for an AI application which operates in a responsible, transparent and explainable manner. To this end, you are expected to design, implement and evaluate AI algorithms based on deep neural networks that can accurately classify an image while being sensitive to biases that may be present in the data the network is trained on. Further, keeping the end user in mind, imagine a use-case where such an algorithm would have value and create a protype of an application using the concepts learned in Human-Centered AI. Finally, you need to explain why the market needs your application by conducting market research, target audience analysis and S.W.O.T. 
+# Creative Brief Timeline
 
-At the beginning of the project, you will be introduced to the project by one of the lecturers. Throught out the block, you can consult the lecturers if you have any questions or wish to deepen your understanding of project. Please refer to the creative brief requirment below for more detailed information.
+In this project, you will develop a project proposal for a computer vision application which uses responsible and explainable AI algorithms which are human centered. We start with a market research to see where we can create a valuable computer vision application for based on imsitu dataset; idea generation (what to build). We will then look at the fairness & bias in the dataset and do a consumer analysis to further specify our initial idea. All the while we will document our developing project proposal in a powerpoint presentation which you are going to present in week 9.
+
+<br>
+
+Next, you will explore different deep learning models from which you will gain the skills to create your computer vision model for application. This model doesn't have to be the final product but will serve as a [proof of concept](https://en.wikipedia.org/wiki/Proof_of_concept) for you application idea. After creating the model we are going to look at how we can explain the model to our client and how we can ensure that our model is fair, unbiased and transparent (based on the Kaggle Inclusive Images Challenge (see [here](http://Inclusive%20Images%20Challenge%20|%20Kaggle)) ).
+
+<br>
+
+Finally, we will design an application from our idea and AI canvas which incorperates our computer vision algorithm and allows it continiously learn from new incoming data. The application design is going to be represented by a wireframe prototype. We will also perform some preliminary user-tests, analyse relevant disruptive technology risk and accumulate our finding in a S.W.O.T. analysis. We will bring all this together in our project proposal powerpoint presentation which will present in a final presentation to the client in week 9 where you'll be givent the chance to showcase, explain and defend your proposed project and its components. 
+
+
+The project timeline below is aligned with the knowledge modules you will find on this page.
+
+<figure>
+<center>
+    <img src="./images/TimelineCreativeBrief.jpg" />
+</center>
+</figure>
+<br>
+----
+
+
+
+At the beginning of the project, you will be introduced to the project by one of the lecturers. Throught out the block, you can consult the lecturers if you have any questions or wish to deepen your understanding of project or educational material. If you have ILO-specific questions please take a look at the staff table and consult the responsible lecturer. Please refer to the creative brief requirements below for more detailed information.
 
 
 
@@ -62,20 +84,8 @@ If you have questions or issues regarding the course material, please post a mes
 
 ---
 
-# Creative Brief Timeline
-
-The project timeline is aligned with the knowledge modules you will find in the ADS&AI digital learning environment.
-
-<figure>
-<center>
-    <img src="./images/TimelineCreativeBrief.jpg" />
-</center>
-</figure>
-<br>
-
 Below you're find the timeline on a day-to-day basis. Further down there's info on the medals and staff for this block; which includes which staff member to go to for ILO-specific questions. 
 
-***
 
 
 # Week 1: Responsible AI (Part 1: Bias and Fairness) & Marketing
@@ -256,15 +266,17 @@ We made a example selection of valuable resources for extracurricular learning a
 
 ### Human-Centered Artificial Intelligence:
 - [AI guidebook provided by Google](https://pair.withgoogle.com/guidebook)
-− [Designing with Data](http://shop.oreilly.com/product/0636920026228.do)
-− [The Design of Everyday Things, Donald A. Norman](https://login.proxy1.dom1.nhtv.nl/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cat01829a&AN=buas.393706974&site=eds-live)
+- [Designing with Data](http://shop.oreilly.com/product/0636920026228.do)
+- [The Design of Everyday Things, Donald A. Norman](https://login.proxy1.dom1.nhtv.nl/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cat01829a&AN=buas.393706974&site=eds-live)
 - [Adaptive AI Interfaces](https://design.google/library/ux-ai/)
 
 ## Medal Challenges 
 
 The medal courses for this block have been specifically selected to help boost your portfolio and extend your knowledge and expertise. You may also finish them after the initial deadline!
 
-![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=bronzemedal) ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=silvermedal) ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=goldmedal)
+- ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=bronzemedal) Bronze: ....
+- ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=silvermedal) Silver: ....
+- ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=goldmedal) Gold: ....
 
 ## Staff Members
 

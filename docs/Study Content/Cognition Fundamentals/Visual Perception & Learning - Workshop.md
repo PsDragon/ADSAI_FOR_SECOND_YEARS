@@ -2,7 +2,7 @@
 sort: 2
 ---
 
-# 1. Perception & Learning - Workshop
+# Perception & Learning - Workshop
 Just what is the difference between sensing and perceiving? And how does vision actually work? What does perception even mean? What's the difference between seeing something and making sense of it? And how do we memorize and learn all of that? Today we're going to answer all of these questions!
 
 Then, we're going to apply these concepts to creating a perceptual model of human cognitive vision; how a human would see our bin-picking task. So we're going to place ourselves in the shoes of the robot, fill in the template and then elaborate on it by doing some research into human cognitive vision! 

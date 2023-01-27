@@ -2,7 +2,7 @@
 sort: 5
 ---
 
-# 1. Decision-making & Actions - Datalab
+# Decision-making & Actions - Datalab
 Today, we'll finalize yesterday's work: we're going to determe which cognitive systems are involved in the bin-picking tasks and how they work. Then we're going translate to that to a robot doing the task. After that we are going to implement our robot design into robosuit and actually get all the input we need in there! Then we have fully closed the loop and can continue both documenting our design in our technical report while improving our robot and algorithms driving it!
 
 

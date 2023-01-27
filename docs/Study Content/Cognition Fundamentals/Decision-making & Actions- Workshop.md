@@ -2,7 +2,7 @@
 sort: 4
 ---
 
-# 1. Decision-making & Actions- Workshop
+# Decision-making & Actions- Workshop
 Today, we're going to create the full picture: which is determening which cognitive systems are involved in the bin-picking tasks and how they work. Then we're going translate to that to a robot doing the task which is going to be our high-level design of the robot. 
 
 ## Learning Objectives: 

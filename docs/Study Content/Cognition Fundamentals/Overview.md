@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# 1. Overview & Sources
+# Overview & Sources
 
 ## Why learn about cognitive science?
 Cognition is the act of knowing, specifially: how we process the information around us to know what we do and act upon that; resulting in behaviour. To find out how humans process that information, cognitive scientist make computational models central processes in the human mind (conceptual), brain (physical) and behaviour (interaction). Information comes ofcourse in many different forms and therefore cognitive science integrates many different disciplines such as psychology, computer science, neuroscience, artificial intelligence, ludology (game studies), linguistics, antropology, formal logic, philosophy etc. That's why cognitive science is a crucial link between technology (computation) and human behaviour; and why it relevant in the field of data science and artificial intelligence; especially when dealing with human behaviour! This course aims to teach you the fundamentals of cognitive science and applicable concepts for solving problems in the field of data science and artificial intelligence! 

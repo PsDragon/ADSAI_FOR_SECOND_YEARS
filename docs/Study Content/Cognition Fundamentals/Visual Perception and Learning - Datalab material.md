@@ -2,7 +2,7 @@
 sort: 3
 ---
 
-# 1. Perception & Learning - Datalab
+# Perception & Learning - Datalab
 Today we're going to continue with putting ourselves in the shoes of our robot and create a flowchart of a cognitive model for perceptual processing of sensory information and how we story and manage that information; how we learn from it. 
 
 After making that first draft we're going to make a start in creating a flowcharts of our robots functionality following the same input-proccessing-output model. You'll continue to work and build on this model during the next weeks as you further develop your object detection algorithm, robotic controller and reinforcement learning algorithm. 

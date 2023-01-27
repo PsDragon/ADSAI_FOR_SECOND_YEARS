@@ -72,8 +72,7 @@ ILO Mapping Explained:
 
 ## Use-case 3: Recorded a flowchart walkthrough to demonstrate language acquisition in a simple scenario
 
-Some high-level description
-
+Record a walkthrough of flowchart for a given scenario where a child has to acquire the meaning of a word. 
 
 __To solve this use-case, you will need to:__
 - [ ] Some step
@@ -90,8 +89,7 @@ ILO Mapping Explained:
 
 ## Use-case 4: Recorded a flowchart walkthrough to demonstrate language acquisition in a dynamic scenario
 
-Some high-level description
-
+Record a 2nd Walkthrough of flowchart for a given scenario where a child has to acquire the meaning of some word with dynamic input. Dynamic input enthales... 
 
 __To solve this use-case, you will need to:__
 - [ ] Some step
@@ -108,8 +106,7 @@ ILO Mapping Explained:
 
 ## Use-case 5: Compare both cognitive models with the transformer network architecture
 
-Some high-level description
-
+Compare both cognitive models with the transformer network architecture and your own implementation. Where do the similarities lie?
 
 __To solve this use-case, you will need to:__
 - [ ] Some step

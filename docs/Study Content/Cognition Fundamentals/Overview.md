@@ -24,10 +24,10 @@ Note that [the cognitive revolution was a wider phenomena](https://en.wikipedia.
 Cognitive robots achieve their goals by perceiving their environment, paying attention to the events that matter, planning what to do, anticipating the outcome of their actions and the actions of other agents, and learning from the resultant interaction. They deal with the inherent uncertainty of natural environments by continually learning, reasoning, sharing their knowledge and making decision based on that knowledge.
 
 ### Course materials by Topic:
-1. [Perception & Learning - Workshop](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Perception%20&%20Learning%20-%20Workshop.html); consisting of two parts: 
+1. [Visual Perception & Learning - Workshop](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Perception%20&%20Learning%20-%20Workshop.html); consisting of two parts: 
 - Perception: Visual-Cognition, Mid-level vision, high-level vision, top-down & bottom-up processing for object recognition.
 - Learning: Associative Reinforment Learning, Rewards, Latent learning, Classical conditioning. 
-3. [Perception & Learning - Datalab](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Perception%20and%20Learning%20-%20Datalab%20material.html): Apply the above to the creative brief.
+3. [Visual Perception & Learning - Datalab](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Perception%20and%20Learning%20-%20Datalab%20material.html): Apply the above to the creative brief.
 4. [Decision-making & Actions- Workshop](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Decision-making%20&%20Actions-%20Workshop.html); consisting of two parts:  
 - Decision-making: Sampling cues, Information-Salience, Dealing with uncertainty, planning and anticipating.
 - Actions: Interacting with static and dynamic environments.

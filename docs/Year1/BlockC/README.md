@@ -236,7 +236,7 @@ Good Friday - Day off!
 
 
 ## Extra Curricular Learning
-For proffessional ILO 2 you need to demonstrate self-exploration and personal development, good academic practices in learning how to learn and the acquisition of professional knowledge through research, 
+For professional ILO 2 you need to demonstrate self-exploration and personal development, good academic practices in learning how to learn and the acquisition of professional knowledge through research, 
 study, analysis, applied practice, discussion and reporting. For each ILO condition, the following should be evidence in your learning log:
 - ILO 2.1, Poor: Identify an area of improvement in terms of knowledge and skills, evidence working on this. Confer with your mentor on whether your improvement plan is valid. Tip: Take a look at last blocks self-reflection and work on your identified areas of improvement over there!
 - ILO 2.1, Insufficient: You can do this by looking into extracurricular resources (e.g. transformer neural networks) or attending extracurricular activities yourself (e.g. such as attending a guild or [Dealing with stress training](https://hub.buas.nl/read/dealing-with-stress-2/)). 
@@ -250,7 +250,8 @@ We made a example selection of valuable resources for extracurricular learning a
 - SomeResource
 
 ### Responsible AI:
-- SomeResource
+
+See Microsoft Teams [post](https://teams.microsoft.com/l/message/19:9l-cMzc2_wRBzhLOQBPGLsqQa-xYrgo1PwUYl2RSdKc1@thread.tacv2/1674467916210?tenantId=0a33589b-0036-4fe8-a829-3ed0926af886&groupId=fca04ab7-f1da-4871-9cba-063e53a95b6d&parentMessageId=1674467916210&teamName=FAI1.P2-01%20%20Project%201B%20ADS%26AI%202022-23&channelName=General&createdTime=1674467916210&allowXTenantAccess=false).
 
 ### Deep Learning:
 - SomeResource
@@ -263,11 +264,13 @@ We made a example selection of valuable resources for extracurricular learning a
 
 ## Medal Challenges 
 
-For this block medal challenges the client will create a ranked top 3 of all submitted project proposals. The medal courses for this block have been specifically selected to create a competitive element to boost your performance, portfolio and extend your knowledge and expertise by driving you to outperform your peers.
+You are encouraged to get the best out of yourself. Therefore, within the ADS&AI program, we regularly allow you to push yourself further by giving you so-called bronze-silver-gold challenges. By achieving these, you can earn badges for your GitHub page, which mark excellent students:
 
-- ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=bronzemedal) Bronze: Gain 3rd place.
-- ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=silvermedal) Silver: Gain 2nd place.
-- ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=goldmedal) Gold: Gain 1st place.
+![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=bronzemedal): Write an explainable AI tutorial.
+
+![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=silvermedal):  Load, pre-process, and classify video data with Python
+
+![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=goldmedal): Being in the top 3 regarding the 'best overall' project results. 
 
 ## Staff Members
 

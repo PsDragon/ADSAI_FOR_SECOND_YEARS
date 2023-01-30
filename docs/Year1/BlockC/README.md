@@ -37,9 +37,9 @@ This block has four knowledge modules: Business Understanding, Responsible AI, D
 - [Deep Learning](https://adsai.buas.nl/Study%20Content/DeepLearning/21.%20Requirements.html)
 - [Human-Centered AI](https://adsai.buas.nl/Study%20Content/Human-Centered%20Artificial%20Intelligence/Assignment.html)
 
-Lastly, you are required to create a project proposal presentation as part of the Creative Brief. In this presentation, you will present some of your findings related to the knowledge module requirements to the client: 
+Lastly, you are required to create a project proposal presentation as part of the Creative Brief. In this presentation, you will present your findings related to the knowledge module requirements to the client: 
 
-- [Project Proposal](MS Teams Assignment Template/Project Proposal Template - Y1C_2022-23_ADSAI.pptx)
+- [Project Proposal](MS Teams Assignment Template/Project Proposal Template - Y1C_2022-23_ADSAI.pptx): a framework describing the minimum findings to present a full project proposal. **Edit your own template in the your Microsoft Teams Assignment**    .
 
 For more information, see __*Assessment Rubric*__ in Microsoft Teams. 
 
@@ -59,11 +59,11 @@ In __*week 1*__, you will perform an exploratory data analysis to uncover hidden
 
 :bell: Make sure to update your project proposal presentation regularly!
 
-In __*weeks 2-5*__, you will explore different artificial neural network architectures from which you will gain the skills to create your image classification application prototype. This model does not have to be the final product but will serve as a [proof of concept](https://en.wikipedia.org/wiki/Proof_of_concept) for your application idea. 
+In __*weeks 2-5*__, you will explore different artificial neural network architectures from which you will gain the skills to create your own image classifier. This model does not have to be the final product but will serve as a [proof of concept](https://en.wikipedia.org/wiki/Proof_of_concept) for your application prototype. 
 
 In __*week 6*__, after you have built and trained the model, you will learn to balance your model's accuracy and interpretability through the application of various explainable AI methods. 
 
-In __*weeks 7-8*__, you will design an application based on your idea and AI canvas that incorporates your image classifier model. The application design is going to be represented by a wireframe prototype. You will also perform some preliminary user tests, analyze relevant disruptive technology risks and accumulate your findings in a SWOT analysis. 
+In __*weeks 7-8*__, you will design an application based on your idea and AI canvas that incorporates your image classifier model. The application design is going to be represented by a [wireframe prototype](https://youtube.com/watch?v=89TWEpIitFM&feature=shares). You will also perform some preliminary user tests and review your findings by doing a SWOT analysis. 
 
 In __*week 9*__, you will present your project proposal to the client. Here you will be given a chance to showcase, explain and defend your proposed project and its components. 
 

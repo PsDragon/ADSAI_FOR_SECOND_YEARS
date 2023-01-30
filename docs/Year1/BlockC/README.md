@@ -64,7 +64,7 @@ At the beginning of the project, you will be introduced to the project by one of
 
 ### Creative Brief Requirements:
 1. [ ] [Project Proposal](MS Teams Assignment Template/Project Proposal Template - Y1C_2022-23_ADSAI.pptx): PowerPoint presentation of your project proposal for a computer vision application. See you Microsoft Teams Assignment for the template. Requirements 1 to 5 are listed below need to be explained and reflected upon in the final client presentation. <br>
-2. [ ] [Business Understanding](https://adsai.buas.nl/Study%20Content/Business%20Understanding/BusinessUnderstandingRequirements.html): Market research, TA analysis, Idea Generation, S.W.O.T., Idea finalisation.
+2. [ ] [Business Understanding](https://adsai.buas.nl/Study%20Content/Business%20Understanding/BusinessUnderstandingRequirements.html): Market research, Idea Generation, S.W.O.T., Idea finalisation.
 3. [ ] [Proof of Concept (PoC)](https://adsai.buas.nl/Study%20Content/DeepLearning/21.%20Requirements.html): Proof of Concept (PoC) the core functionality of your deep learning model.
 4. [ ] [Responsible & Explainable AI](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAIRequirements.html): Jupyter notebook, and two Python scripts
 5. [ ] [Application Prototype](https://adsai.buas.nl/Study%20Content/Human-Centered%20Artificial%20Intelligence/Assignment.html): Prototype in the form of a wireframe of your human-centered artificial intelligence application made in [Proto.io](wwww.proto.io) <br>

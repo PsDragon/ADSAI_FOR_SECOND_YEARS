@@ -14,6 +14,8 @@ In the second part of today's independent study day you will focus on identifyin
 
 1. Using the knowledge acquired by reading today's independent study day material, conduct simple market research by answering the following questions:
 
+•   What classifier product/product feature could make customers’ lives easier?​
+
 •	How can I improve my customers' experience?
 
 •	What problem can I alleviate for my customers?

@@ -32,7 +32,7 @@ In case you are not able to find some of the information, feel free to skip it. 
 
 If you have any questions or issues regarding the independent study material, please use the Q&A forum on Microsoft Teams. The mentors, and module instructor(s) will be available to answer your questions in DataLab.
 
-Good luck!
+__Good luck!__
 
 ***
 
@@ -157,6 +157,9 @@ Answer questions below:
 1.	Why do you need user personas?
 2.	What do you need to mention in user personas?
 
+#### Preparation for DataLab 2
+
+Completed homework exercises. Make sure to upload your two tasks to Github.
 
 ## Literature
 

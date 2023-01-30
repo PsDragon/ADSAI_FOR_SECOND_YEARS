@@ -101,7 +101,7 @@ Below you're find the timeline on a day-to-day basis. Further down there's info 
 - [DataLab: Responsible AI](https://adsai.buas.nl/Study%20Content/Responsible%20and%20Explainable%20AI/UseCases.html)
 
 ## Thursday
-- [Market Research for Product development & Target Audiences](https://adsai.buas.nl/Study%20Content/Business%20Understanding/BusinessUnderstanding%201.html)
+- [Market Research for Product development & Target Audiences analysis](https://adsai.buas.nl/Study%20Content/Business%20Understanding/BusinessUnderstanding%201.html)
 
 ## Friday
 - [DataLab: Marketing](LinkToPage)

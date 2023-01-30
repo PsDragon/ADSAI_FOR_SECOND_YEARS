@@ -92,11 +92,12 @@ Below you will find the timeline on a day-to-day basis. Further down, there is i
 
 ## Thursday
 - [Market Research for Product development & Target Audiences analysis](https://adsai.buas.nl/Study%20Content/Business%20Understanding/BusinessUnderstanding%201.html)
+- [ ] Prepare for Feedback Session
 
 ## Friday
 - [DataLab: Marketing](LinkToPage)
 - [DataLab: Responsible AI](https://adsai.buas.nl/Study%20Content/Responsible%20and%20Explainable%20AI/UseCases.html)
-
+- [ ] Feedback Session
 
 # Week 2: PoC - Introduction to Deep Learning with Keras
 
@@ -138,9 +139,11 @@ Below you will find the timeline on a day-to-day basis. Further down, there is i
 
 ## Thursday
 - [Gradient Descent](https://adsai.buas.nl/Study%20Content/DeepLearning/9.%20Gradient%20Descent.html)
+- [ ] Prepare for Feedback Session
 
 ## Friday
 - [DataLab: MLP from scratch 2](https://adsai.buas.nl/Study%20Content/DeepLearning/10.%20DataLab%20MLP%20from%20scratch.html)
+- [ ] Feedback Session
 
 # Week 4 : PoC - Convolutional Neural Networks with Keras
 
@@ -173,9 +176,11 @@ Below you will find the timeline on a day-to-day basis. Further down, there is i
 
 ## Thursday
 - [The Machine Learning Project Lifecycle 3](https://adsai.buas.nl/Study%20Content/DeepLearning/19.%20ML%20workflow%20day%204.html)
+- [ ] Prepare for Feedback Session
 
 ## Friday
 - [DataLab: The Machine Learning Project Lifecycle](https://adsai.buas.nl/Study%20Content/DeepLearning/20.%20ML%20workflow%20day%205.html)
+- [ ] Feedback Session
 
 # Week 6: Responsible AI (Part 2: Transparency and Interpretability)
 
@@ -198,51 +203,50 @@ Below you will find the timeline on a day-to-day basis. Further down, there is i
 # Week 7 : Prototype - Human Centered AI
 
 ## Monday
-[Interaction & information processing fundamentals](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Interaction_Information_Processing_Fundamentals.html)
+- [Interaction & information processing fundamentals](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Interaction_Information_Processing_Fundamentals.html)
 
 ## Tuesday
-[Interaction design](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Interaction_Design.html)
+- [Interaction design](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Interaction_Design.html)
 
 ## Wednesday
-[DataLab: Risk-Assessment of disruptive technologies](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Datalab13_Risk-Assessment_of_Disruptive_Technologies.html)
+- [DataLab: Risk-Assessment of disruptive technologies](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Datalab13_Risk-Assessment_of_Disruptive_Technologies.html)
 
 ## Thursday
-[Interface design](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Interface_Design.html)
-
-[S.W.O.T. analysis](../../Study%20Content/Business%20Understanding/BusinessUnderstanding%202.html)
+- [Interface design](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Interface_Design.html)
+- [S.W.O.T. analysis](../../Study%20Content/Business%20Understanding/BusinessUnderstanding%202.html)
+- [ ] Prepare for final Feedback Session
 
 ## Friday
-[DataLab: Wizzard of Ozz Workshop](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Datalab14_Conceptualizing_A_Wireframe_Prototype.html)
-
+- [DataLab: Wizzard of Ozz Workshop](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Datalab14_Conceptualizing_A_Wireframe_Prototype.html)
+- [ ] Final Feedback Session
 
 # Week 8: Prototype - Human Centered AI
 
 ## Monday
-[U/X testing using A/B testing](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/User_Testing.html)
+- [U/X testing using A/B testing](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/User_Testing.html)
 
 ## Tuesday
 - [User-Centered design for AI](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/User-Centered_Design_for_AI.html)
 - [Designing for AI Algorithms Implementation](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Designing_for_AI_Algorithm_Implementation.html)
 
 ## Wednesday
-[DataLab: A/B Testing](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Datalab15_Introduction_To_AB-Testing.html)
+- [DataLab: A/B Testing](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Datalab15_Introduction_To_AB-Testing.html)
 
 
 ## Thursday
-[DataLab: Wireframes and final presentation](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Datalab16_Client_Testing_of_Wireframe_Prototypes.html)
+- [DataLab: Wireframes and final presentation](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Datalab16_Client_Testing_of_Wireframe_Prototypes.html)
 
 ## Friday
 Good Friday - Day off!
 
 
 ## Extra Curricular Learning
-For professional ILO 2 you need to demonstrate self-exploration and personal development, good academic practices in learning how to learn and the acquisition of professional knowledge through research, 
-study, analysis, applied practice, discussion and reporting. For each ILO condition, the following should be evidence in your learning log:
+For professional ILO 2 you need to demonstrate self-exploration and personal development, good academic practices in learning how to learn and the acquisition of professional knowledge through research, study, analysis, applied practice, discussion and reporting. For each ILO condition, the following should be evidenced in your learning log:
 - ILO 2.1, Poor: Identify an area of improvement in terms of knowledge and skills, evidence working on this. Confer with your mentor on whether your improvement plan is valid. Tip: Take a look at last blocks self-reflection and work on your identified areas of improvement over there!
 - ILO 2.1, Insufficient: You can do this by looking into extracurricular resources (e.g. transformer neural networks) or attending extracurricular activities yourself (e.g. such as attending a guild or [Dealing with stress training](https://hub.buas.nl/read/dealing-with-stress-2/)). 
 - ILO 2.1, Sufficient: Your learning and development is clearly evidenced.
-- ILO 2.1, Good: Your learning goes beyond the current confines of the project. Something which takes the project to the next level (e.g. fitting a transformer model to do image classification, actually creating your application)
-- ILO 2.1, Excellent: you also share your learning/development experience succesfully with your peers and evidence what you learned them. Evidence peer-learning can be done using written
+- ILO 2.1, Good: Your learning goes beyond the current confines of the project. Something which takes the project to the next level (e.g. fitting a transformer model to do image classification, actually creating your application, classify video data with Python)
+- ILO 2.1, Excellent: you also share your learning/development experience succesfully with your peers and evidence what you learned them. Evidencing peer-learning can be done using written testemonies accompanied with output from the learners. Confer with your mentor on whether your evidence is valid. 
 
 We made a example selection of valuable resources for extracurricular learning and development to get you started:
 
@@ -250,8 +254,7 @@ We made a example selection of valuable resources for extracurricular learning a
 - SomeResource
 
 ### Responsible AI:
-
-See Microsoft Teams [post](https://teams.microsoft.com/l/message/19:9l-cMzc2_wRBzhLOQBPGLsqQa-xYrgo1PwUYl2RSdKc1@thread.tacv2/1674467916210?tenantId=0a33589b-0036-4fe8-a829-3ed0926af886&groupId=fca04ab7-f1da-4871-9cba-063e53a95b6d&parentMessageId=1674467916210&teamName=FAI1.P2-01%20%20Project%201B%20ADS%26AI%202022-23&channelName=General&createdTime=1674467916210&allowXTenantAccess=false).
+- See Microsoft Teams [post](https://teams.microsoft.com/l/message/19:9l-cMzc2_wRBzhLOQBPGLsqQa-xYrgo1PwUYl2RSdKc1@thread.tacv2/1674467916210?tenantId=0a33589b-0036-4fe8-a829-3ed0926af886&groupId=fca04ab7-f1da-4871-9cba-063e53a95b6d&parentMessageId=1674467916210&teamName=FAI1.P2-01%20%20Project%201B%20ADS%26AI%202022-23&channelName=General&createdTime=1674467916210&allowXTenantAccess=false).
 
 ### Deep Learning:
 - SomeResource
@@ -276,10 +279,10 @@ You are encouraged to get the best out of yourself. Therefore, within the ADS&AI
 
 | Name   |  Availability |  Mentor Group | Email  | Subject  |
 |---|---|---|---|---|
-| Dean van Aswegen (Lecturer), MSc. <img src="./images/DeanProfile.jpg" alt="Dean van Aswegen profile picture" width="200"/>| Mon, Tues, Wed, Thur, Fri  |  Block A, Group 1 (1FAI-01), Year 1 | aswegen.d@buas.nl | Neural Networks & Deep Learning (ILO 4.1) | 
-| Alican Noyan (Lecturer), PhD.<img src="./images/AlicanProfile.jpg" alt="Alican Noyan profile picture" width="200"/>|  Mon, Wed, Thu, Fri  | Block A, Group 2 (1FAI-04), Year 1  |  noyan.a@buas.nl | Neural Networks & Deep Learning (ILO 4.1) |
-| Irene van Blerck (Lecturer), MSc. <img src="./images/IreneProfile.jpg" alt="Irene van Blerck profile picture" width="200"/>   |  Tue, Wed, Thu, Fri | Block A, Group 4 (1FAI-02), Year 1 |  blerck.i@buas.nl | Responsible & Explainable AI (ILO 3.1) |
-| Bram Heijligers (Lecturer), MSc. <img src="./images/BramProfile.jpg" alt="Bram Heijligers profile picture" width="200"/> |  Wed, Thur, Fri | Block A, Group 5 (1FAI-03), Year 1  | heijligers.b@buas.nl | Human-Centered Artificial Intelligence (ILO 5.1) |
-| Zhanna Kozlova (Lecturer), MA. <img src="./images/ZhannaProfile.jpg" alt="Zhanna Kozlova profile picture" width="200"/>  |   |  Block A, Group 5 (1FAI-03), Year 1 | kozlova.z@buas.nl  |  Business Understanding (ILO 2.1)  |
-| Nitin Bhushan (Lecturer), PhD.  <img src="./images/NitinProfile.jpg" alt="Nitin Bhushan profile picture" width="200"/>  |  Mon, Tues, Wed, Thu, Fri  | Block A, Group 1, Year 2 | bhushan.n@buas.nl | Explainable AI (ILO 3.1)  |
+| Dean van Aswegen (Lecturer), MSc. <img src="./images/DeanProfile.jpg" alt="Dean van Aswegen profile picture" width="200"/>| Mon, Tues, Wed, Thur, Fri  |  Block C, Group 3 (1FAI-03), Year 1 | aswegen.d@buas.nl | Neural Networks & Deep Learning (ILO 4.1) | 
+| Alican Noyan (Lecturer), PhD.<img src="./images/AlicanProfile.jpg" alt="Alican Noyan profile picture" width="200"/>|  Mon, Wed, Thu, Fri  | Block C, Group 1 (2FAI-01), Year 1  |  noyan.a@buas.nl | Neural Networks & Deep Learning (ILO 4.1) |
+| Irene van Blerck (Lecturer), MSc. <img src="./images/IreneProfile.jpg" alt="Irene van Blerck profile picture" width="200"/>   |  Tue, Wed, Thu, Fri | Block C, Group 4 (1FAI-04), Year 1 |  blerck.i@buas.nl | Responsible & Explainable AI (ILO 3.1) |
+| Bram Heijligers (Lecturer), MSc. <img src="./images/BramProfile.jpg" alt="Bram Heijligers profile picture" width="200"/> |  Wed, Thur, Fri | Block C, Group 1 (1FAI-01), Year 1  | heijligers.b@buas.nl | Human-Centered Artificial Intelligence (ILO 5.1) |
+| Zhanna Kozlova (Lecturer), MA. <img src="./images/ZhannaProfile.jpg" alt="Zhanna Kozlova profile picture" width="200"/>  |   |  Block C, Group 1 (1FAI-01), Year 1 | kozlova.z@buas.nl  |  Business Understanding (ILO 2.1)  |
+| Nitin Bhushan (Lecturer), PhD.  <img src="./images/NitinProfile.jpg" alt="Nitin Bhushan profile picture" width="200"/>  |  Mon, Tues, Wed, Thu, Fri  | Block C, Group 5 (1FAI-05), Year 1 | bhushan.n@buas.nl | Explainable AI (ILO 3.1)  |
 | Frank Peters (Program manager), PhD. <img src="./images/FrankProfile.jpeg" alt="Frank Peters profile picture" width="200"/> | Mon, Tue, Wed, Thu |  Program Manager | peters.f@buas.nl |   |

@@ -1,93 +1,83 @@
 # Block C - Data Modelling
 
-In block A, you explored the foundations of data science and AI and critically examined applications thereof. In block B, you went a step further and helped a real-life client get more insight out of their data using data science tools to pre-process, analyse and get insight out of data. In this block, you will take on a more hands-on approach towards data modelling using tools such as deep learning, and you'll think about how incorperate such a model in a responsible and user-centered way. In particular, this block will focus on key aspects of **the modelling phase of a data science project lifecycle** such as deep learning, explainable and responsible artificial intelligence (AI), and human-centered artificial intelligence. 
+In block A, you explored the foundations of data science and AI and critically examined applications thereof. In block B, you went a step further and helped a real-life client to gain insight into their data by applying various preprocessing and machine learning methods. 
+
+This block will focus on the __*Modeling*__ phase of the __*CRISP-DM*__ lifecycle; you will start incorporating deep learning into your workflow. Therefore, you will learn how to conduct market/consumer research and build transparent, interpretable, and fair AI models. In addition, you will learn how you can embed such an algorithm into an application and how user interaction can help train your model! 
 
 <figure>
     <img src="./images/Crisp-DM_Modelling.jpg" />
 </figure>
-<br>
 
-Therefore, we are going to create a project proposal for an smartphone application which uses the camera to classify image input to achieve some kind of business value. You're going to design this application keeping the user experience, business value and disruptive technology risks in mind. The project proposal itself will take the shape of a powerpoint presentation where you argue why your deep learning model is responsible and why it adds value to the core use-case.
-
-The topics include, but are not limited to:
-- Business Understanding: Why create this application? What is it's value and for whom is it valuable?
-- Explainable AI: How does you deep-learning model work?
-- Deep Learning: How do we achieve the computer vision task lying at the core of your project proposal?
-- Responsible AI: Why is you model and application thereof done in a responsible manner?
-- Human-centered Artificial Intelligence: How do we design an application keeping both the user-experience and deep learning algorithm in mind?
-
-
-***
+*Figure 1. CRISP-DM Lifecycle.*
 
 ## Project Based Learning - Creative Brief
-An undisclosed client approached us with a [request for proposal](https://www.techtarget.com/searchitchannel/definition/request-for-proposal#:~:text=Moore%2C%20Industry%20Editor-,What%20is%20a%20request%20for%20proposal%20(RFP)%3F,for%20a%20desired%20IT%20solution.) for an AI application. Specifically, the client want to explore computer vision applications which distinquish objects from one another to create some business value. In true industry spirit, the exact goal and value of the application is open and up for you to decided; come up with a computer vision application you think adds fundamental value to your determined use-case. The submitted Request For Proposal (RFP) specified the components to be delivered which are further specified for you in the project proposal template (see 'Creative Brief Requirements'). The client will be disclosed during the final presentations. The client will review your project proposal with a small board in week 9 and create a ranked top 3 of all project proposals it will consider for further development; the medal challenge for this block is to gain a place in the top 3.
 
-Therefore, your goal for this creative brief is to respond to the RFP with a project proposal for an AI application which operates in a responsible, transparent and explainable manner. To this end, you are expected to design, implement and evaluate AI algorithms based on deep neural networks that can accurately classify an image while being sensitive to biases that may be present in the data the network is trained on. Further, keeping the end user in mind, imagine a use-case where such an algorithm would have value and create a protype of an application using the concepts learned in Human-Centered AI. Finally, you need to explain why the market needs your application by creating an AI canvas, conducting market & consumer research, and conduct a [S.W.O.T. analysis](https://www.investopedia.com/terms/s/swot.asp#:~:text=Is%20SWOT%20Analysis%3F-,SWOT%20(strengths%2C%20weaknesses%2C%20opportunities%2C%20and%20threats)%20analysis,are%20not%20limited%20to%20companies.). 
+Artificial Intelligence experts are highly sought after, leading many professionals in this field to opt for __*freelance*__ work:
 
-Large, publicly available image datasets, such as ImageNet, Open Images and Conceptual Captions are commonly used to develop and rank image classification algorithms. While these datasets are a necessary and critical part of developing useful machine learning (ML) models, some open-source data may be biased. As patterns in such datasets ultimately decide what an AI model learns and predicts, such bias may lead us to develop models that may not necessarily reflect the true reality.
+> In 2022, there were 1.2 million people in the Netherlands with self-employment as their primary job, accounting for 12% of the total working population. The sharpest rise in freelancers was seen in the care and welfare domain, followed by the technical, business, and information technology sectors ([Source](https://www.cbs.nl/nl-nl/nieuws/2022/50/aantal-zzp-ers-gegroeid-naar-1-2-miljoen-in-derde-kwartaal-van-2022)). 
 
-For example, the images below show the predictions of a standard AI image classifier trained to predict if a given image represents a wedding or not. While the AI correctly detects a wedding in the first 3 images, it fails to do so in the last image. This is a consequence of developing an AI algorithm without being sensitive to biases that might exist in the training data.
+One of the main reasons companies hire freelancers is that they are often unsure if they need an in-house professional; if a company has data but is unsure how to use it, it makes more sense to bring in a freelance data professional for a short period to explore and understand the data, business challenges, and opportunities. 
 
-<figure>
-    <img src="./images/google.PNG" />
-</figure>
-<br>
+As a freelancer, a balanced combination of both __*soft and hard skills*__ is essential. Your technical proficiency is undoubtedly key, but other aspects, such as business understanding and social skills, are equally important when working on a data science/AI project.
 
-# Creative Brief Timeline
+In this block, you will take on the role of freelancing __*- Artificial Intelligence Researcher -*__ to assist a company in digitizing one of their business processes by developing an image classification application prototype using the Imsitu dataset. To this end, you will need to create a __*project proposal*__ that touches upon the following topics:
 
-In this project, you will develop a project proposal for a computer vision application which uses responsible and explainable AI algorithms which are human centered. We start with a market research to see where we can create a valuable computer vision application for based on imsitu dataset; idea generation (what to build). We will then look at the fairness & bias in the dataset and do a consumer analysis to further specify our initial idea. All the while we will document our developing project proposal in a powerpoint presentation which you are going to present in week 9.
+- Market/consumer research and risk assessment
+- The design and implementation of a transparent, interpretable (and fair) deep learning-based image classifier
+- The development of a user-centered prototype application for your image classifier 
 
-<br>
+Below you will find the project requirements, but there will be an opportunity for you to clarify any questions about the project during __*the kick-off meeting on Monday 6th of January 2023*__. 
 
-Next, you will explore different deep learning models from which you will gain the skills to create your computer vision model for application. This model doesn't have to be the final product but will serve as a [proof of concept](https://en.wikipedia.org/wiki/Proof_of_concept) for you application idea. After creating the model we are going to look at how we can explain the model to our client and how we can ensure that our model is fair, unbiased and transparent (based on the Kaggle Inclusive Images Challenge (see [here](http://Inclusive%20Images%20Challenge%20|%20Kaggle)) ).
+## Project Requirements
 
-<br>
+This block has four knowledge modules: Business Understanding, Responsible AI, Deep Learning, and Human-Centered AI. Each module has its own set of deliverables, which are specified below:
 
-Finally, we will design an application from our idea and AI canvas which incorperates our computer vision algorithm and allows it continiously learn from new incoming data. The application design is going to be represented by a wireframe prototype. We will also perform some preliminary user-tests, analyse relevant disruptive technology risk and accumulate our finding in a S.W.O.T. analysis. We will bring all this together in our project proposal powerpoint presentation which will present in a final presentation to the client in week 9 where you'll be givent the chance to showcase, explain and defend your proposed project and its components. 
+- [Business Understanding](https://adsai.buas.nl/Study%20Content/Business%20Understanding/BusinessUnderstandingRequirements.html)
+- [Responsible AI](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAIRequirements.html)
+- [Deep Learning](https://adsai.buas.nl/Study%20Content/DeepLearning/21.%20Requirements.html)
+- [Human-Centered AI](https://adsai.buas.nl/Study%20Content/Human-Centered%20Artificial%20Intelligence/Assignment.html)
 
+Lastly, you are required to create a project proposal presentation as part of the Creative Brief. In this presentation, you will present some of your findings related to the knowledge module requirements to the client: 
 
-The project timeline below is aligned with the knowledge modules you will find on this page.
+- [Project Proposal](MS Teams Assignment Template/Project Proposal Template - Y1C_2022-23_ADSAI.pptx)
+
+For more information, see __*Assessment Rubric*__ in Microsoft Teams. 
+
+## Project Timeline
+
+This project aims to develop an image classification application prototype. Below, you will find the project timeline, which gives you an overview of the tasks related to the knowledge modules: 
 
 <figure>
 <center>
     <img src="./images/TimelineCreativeBrief.jpg" />
 </center>
 </figure>
-<br>
-----
 
+*Figure 2. Project timeline.*
 
+In __*week 1*__, you will perform an exploratory data analysis to uncover hidden biases in the Imsitu dataset. In addition, you will start with conducting market research to see how you can create an application that generates business value; idea generation (i.e., What are we going to build?). Finally, to further specify your initial idea, you will end the week with a consumer analysis.
 
-At the beginning of the project, you will be introduced to the project by one of the lecturers. Throught out the block, you can consult the lecturers if you have any questions or wish to deepen your understanding of project or educational material. If you have ILO-specific questions please take a look at the staff table and consult the responsible lecturer. Please refer to the creative brief requirements below for more detailed information.
+:bell: Make sure to update your project proposal presentation regularly!
 
+In __*weeks 2-5*__, you will explore different artificial neural network architectures from which you will gain the skills to create your image classification application prototype. This model does not have to be the final product but will serve as a [proof of concept](https://en.wikipedia.org/wiki/Proof_of_concept) for your application idea. 
 
+In __*week 6*__, after you have built and trained the model, you will learn to balance your model's accuracy and interpretability through the application of various explainable AI methods. 
 
-### Creative Brief Requirements:
-1. [ ] [Project Proposal](MS Teams Assignment Template/Project Proposal Template - Y1C_2022-23_ADSAI.pptx): PowerPoint presentation of your project proposal for a computer vision application. See you Microsoft Teams Assignment for the template. Requirements 1 to 5 are listed below need to be explained and reflected upon in the final client presentation. <br>
-2. [ ] [Business Understanding](https://adsai.buas.nl/Study%20Content/Business%20Understanding/BusinessUnderstandingRequirements.html): Market research, Idea Generation, S.W.O.T., Idea finalisation.
-3. [ ] [Proof of Concept (PoC)](https://adsai.buas.nl/Study%20Content/DeepLearning/21.%20Requirements.html): Proof of Concept (PoC) the core functionality of your deep learning model.
-4. [ ] [Responsible & Explainable AI](../../Study%20Content/Responsible%20and%20Explainable%20AI/ResponsibleAIRequirements.html): Jupyter notebook, and two Python scripts
-5. [ ] [Application Prototype](https://adsai.buas.nl/Study%20Content/Human-Centered%20Artificial%20Intelligence/Assignment.html): Prototype in the form of a wireframe of your human-centered artificial intelligence application made in [Proto.io](wwww.proto.io) <br>
+In __*weeks 7-8*__, you will design an application based on your idea and AI canvas that incorporates your image classifier model. The application design is going to be represented by a wireframe prototype. You will also perform some preliminary user tests, analyze relevant disruptive technology risks and accumulate your findings in a SWOT analysis. 
 
-Please click the links above to view more detailed requirements and exact mapping of the assessment rubric! 
+In __*week 9*__, you will present your project proposal to the client. Here you will be given a chance to showcase, explain and defend your proposed project and its components. 
 
-# Deadlines & deliverable
-Requirement 1 to 5 are to be delivered be handed-in
-on Friday the 7th of April by 16:59 latest. The final client presentation will take place in week 9 from Wednesday and Friday. The client presentation will be attended by a panel of stakeholders (the lecturers responsible for the ILO's; see the staff section.
+## Deadlines & Deliverables
 
+The final deliverables need to be handed in on __*Friday, the 7th of April, by 16:59 at the latest*__. The project proposal presentations will take place in week 9 during DataLab days and will be attended by a panel of stakeholders (the lecturers responsible for the ILOs; see the Staff section).
 
----
+For more information on the deliverables, see the requirements section. 
 
 ## Questions?
 
 If you have questions or issues regarding the course material, please post a message on the 'Q&A' channel in Teams. The channel will be monitored by mentors but also please help your peers if you have the answer to their question.
 
-
----
-
-Below you're find the timeline on a day-to-day basis. Further down there's info on the medals and staff for this block; which includes which staff member to go to for ILO-specific questions. 
-
-
+Below you will find the timeline on a day-to-day basis. Further down, there is information on the medals and staff for this block, which includes which staff member to go to for ILO-specific questions. 
 
 # Week 1: Responsible AI (Part 1: Bias and Fairness) & Marketing
 
@@ -108,7 +98,7 @@ Below you're find the timeline on a day-to-day basis. Further down there's info 
 - [DataLab: Responsible AI](https://adsai.buas.nl/Study%20Content/Responsible%20and%20Explainable%20AI/UseCases.html)
 
 
-# Week 2 : PoC - Introduction to Deep Learning with Keras
+# Week 2: PoC - Introduction to Deep Learning with Keras
 
 ## Monday
 

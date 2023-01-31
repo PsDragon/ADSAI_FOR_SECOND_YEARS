@@ -104,7 +104,7 @@ For more information on how to create a subset of images from the original datas
 
 In this use-case, which is related to the 'Sufficient' criteria of ILO 3.1, you will be asked to apply a post-processing bias mitigating method to the output of a binary classification model. To do so, you will need to write Python functions to calculate a set of group fairness metrics. 
 
-The teaching teams has trained a binary classification model on a subset of the Imsitu dataset; depicting a man or woman (i.e., nouns: agents), who is either dusting or performing another activity (i.e., verb). The protected/sensitive attribute is gender, and for the sake of the exercise, we used the categories 'Man' for the privileged group, and 'Woman' for the unprivileged group. 
+The teaching teams has trained a binary classification model on a subset of the Imsitu dataset; depicting a man or woman (i.e., nouns: agents), who is either dusting or performing another activity (i.e., verb). The protected/sensitive attribute is gender, and for the sake of the exercise, we used the categories 'Female' for the privileged group, and 'Male' for the unprivileged group. In addition, the unfavorable/negative prediction is 'dusting_no', and the favorable/positive prediction is 'dusting_yes'.   
 
 In addition, we created two test sets:
 

@@ -68,7 +68,7 @@ img_to_folder("./data/original/", "./data/dusting/train/")
 
 The goal of this use case is to write Python functions for the group fairness metrics. To pass the unit tests, you need to write a separate Python function for each of the group fairness metrics. The output of the functions should formatted as a list of values. Follow these steps to complete the use case:
 
-1. In order to set up the group fairness metrics and evaluate the fairness of the binary classification model, you have to load the confusion matrices for the protected/sensitive attribute test sets (e.g., privileged: 'Male', unprivileged: 'Female') into the group fairness metrics.  
+1. In order to set up the group fairness metrics and evaluate the fairness of the binary classification model, you have to load the confusion matrices for the protected/sensitive attribute test sets (e.g., privileged: 'Female', unprivileged: 'Male') into the group fairness metrics. In addition, the unfavorable/negative prediction is 'dusting_no', and the favorable/positive prediction is 'dusting_yes'.   
 
 :bell: Use the helper function ```load_confusion_matrices():``` to load the confusion matrices for the protected/sensitive attribute test sets.
 

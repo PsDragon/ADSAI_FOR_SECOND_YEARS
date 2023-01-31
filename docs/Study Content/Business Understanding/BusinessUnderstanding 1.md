@@ -4,7 +4,7 @@ sort: 1
 
 # Market Research for Product development & Target audience analysis 
 
-Research plays a critical role in the product development process. It enables you to verify your ideas with facts and statistics, and ensure your product will appeal to customers, be competitive in the market, and have the appropriate features, among other things. Without researching beforehand, your product may not achieve its maximum potential.
+Research plays a critical role in the product development process. It enables you to verify your ideas with facts and statistics, and ensure your product will appeal to customers and create value for your target audience. Without researching beforehand, your product may not achieve its maximum potential.
 
 In the first part of today's independent study day, you will learn how to conduct exploratory research to design your application.  
 
@@ -12,7 +12,7 @@ In the second part of today's independent study day you will focus on identifyin
 
 ## Homework exercises
 
-1. Using the knowledge acquired by reading today's independent study day material, conduct simple market research by answering the following questions:
+__1.__ Using the knowledge acquired by reading today's independent study day material, conduct simple market research by answering the following questions:
 
 •   What classifier product/product feature could make customers’ lives easier?​
 
@@ -26,7 +26,7 @@ In the second part of today's independent study day you will focus on identifyin
 
 In case you are not able to find some of the information, feel free to skip it. The main goal of this exercise is to identify the gap in the market that your application can fill in. 
 
-2.  Create a template for your user persona and make sure to upload it to GitHub. 
+__2.__ Create a template for your user persona and make sure to upload it to GitHub. 
 
 ## Questions or issues?
 
@@ -38,7 +38,7 @@ __Good luck!__
 
 ## Overall market research
 
-Before proceeding with developing your product, it's essential to conduct some initial research to guide your direction. The first step is to identify the customer pain points you aim to address. To do this, consider the following questions:
+Before proceeding with developing your product, it's essential to conduct some initial research to guide your direction. First, you need to identify pain points in the market that you can address. To do this, consider the following questions:
 
 •	How can I improve my customers' experience?
 
@@ -82,6 +82,8 @@ Desk research methods for product development may include:
 
 Desk research is a cost-effective and efficient way to gather information about a product or market, but it is important to remember that it has its limitations, as the data may not be current or may not represent the whole market. Therefore, it should be combined with primary research methods (such as surveys, interviews, or focus groups) to gain a more complete understanding of the market and customers.
 
+Once you conducted this research, you will be able to come up with an overall idea for your product and then improve it by going a bit deeper into the target audience and their needs. 
+
 ## Target audience analysis
 
 After you understand the overall needs and wants of your market, you need to dive a bit deeper to create a product that delivers value to customers. For this purpose, a company must identify the specific group of customers it aims to serve. This group, known as the target market, is the consumer profile that the product is designed for. It is crucial to identify the target market early in the product development process so that the product concept can be tailored to meet the needs of that specific group. The process of identifying a target market involves two steps: segmenting the market and targeting a specific group within that market. This will be the focus of the second section of today's independent study materials.
@@ -94,6 +96,8 @@ Customer segmentation can also be used to uncover new customer needs, which can 
 Market segmentation for a new product involves dividing a larger market into smaller groups of customers with similar needs and characteristics. This process allows a company to identify specific segments of the market that may be particularly interested in the new product. By understanding these segments, the company can tailor its product development, marketing, and distribution strategies to better meet the needs of those customers.
 
 __The process of market segmentation for a new product typically involves several steps:__
+
+![Market Segmentation](https://www.batheories.com/wp-content/uploads/market-segmentation-types.png)
 
 Define the overall market: Identify the total market for the new product, including all potential customers.
 

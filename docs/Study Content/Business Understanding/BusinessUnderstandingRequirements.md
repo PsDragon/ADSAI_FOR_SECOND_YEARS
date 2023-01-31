@@ -15,23 +15,17 @@ Plase check the assessment rubric and note the requirements below:
 
 - [ ] Conduct research on market needs. 
 
-- [ ] Create your first idea based on the market needs.
+- [ ] Create your first project proposal for an application based on the market needs.
 
 - [ ] Research the target market and create, segmentation, targeting and persona for your application. 
 
-- [ ] Adjust your idea based on your target audience's needs.
+- [ ] Adjust your project proposal based on the needs of your persona.
 
-- [ ] Design S.W.O.T. matrix.
+- [ ] Conduct an assessment of disruptive technology risks for the project proposal for the application
 
-- [ ] Include appropriate disruptive technology risks into your S.W.O.T
+- [ ] Identify appropriate disruptive technology risks and address the disruptive technology risk in the project proposal for the application. 
 
-- [ ] Write a summary of the S.W.O.T. analysis by answering the following questions: <bp>
-1. How can you use your strengths to take advantage of these opportunities? <bp>
-2. How can you take advantage of your strengths to avoid real and potential threats?<bp>
-3. How can you use your opportunities to overcome the weaknesses you are experiencing?<bp>
-4. How can you minimize your weaknesses and avoid threats? 
 
-- [ ] Create your final idea and explain the decision-making context for your improving your idea based on the needs of your persona, summary of the S.W.O.T.
 
 ## __Deliverable(s):__
 

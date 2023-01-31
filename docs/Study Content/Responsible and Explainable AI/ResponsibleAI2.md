@@ -257,7 +257,7 @@ To start of our analysis, we need to answer the question below:
 
 > Does the environment where you intend to deploy the application impose anti-discrimination policies? Those may stem from law, regulation or internal organisational guidelines ([Source](https://axa-rev-research.github.io/fairness-compass.html)).
 
-If the answer is 'Yes', then we can proceed to __Step 3.__ section __Independence <span style="color:purple">(WAE)__</span> to select Fairness metric I (<span style="color:red">Equal selection parity</span>). 
+If the answer is 'Yes', then we can proceed to __Step 3.__ section __Independence <span style="color:purple">(WAE)</span>__ to select Fairness metric I (<span style="color:red">Equal selection parity</span>). 
 
 If the answer is 'No', then we can proceed to __Step 2.__
 
@@ -382,8 +382,7 @@ Need a refresher on precision and recall? Watch the video MFML 044 - Precision v
 
 ## 6) Preparation for DataLab 1
 
-- [ ] Completed the homework assignments and uploaded  ```ResponsibleAIDefinitions.md``` and 
-```ResponsibleAIIndividualGroupFairness.md``` to the ```ResponsibleAI``` folder in your Github repo. 
+- [ ] Completed the homework assignments by filling in the forms ```DataLab Preparation 1```, and ```DataLab Preparation 2```. 
 
 ***
 

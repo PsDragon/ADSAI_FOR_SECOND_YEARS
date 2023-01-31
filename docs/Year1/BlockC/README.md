@@ -39,7 +39,7 @@ This block has four knowledge modules: Business Understanding, Responsible AI, D
 
 Lastly, you are required to create a project proposal presentation as part of the Creative Brief. In this presentation, you will present your findings related to the knowledge module requirements to the client: 
 
-- **Project Proposal**: a framework describing the minimum findings to present a full project proposal. **View and edit your own template in the your Microsoft Teams Assignment**    .
+- [Project Proposal](MS Teams Assignment Template/Project Proposal Template - Y1C_2022-23_ADSAI.pptx): a framework describing the minimum findings to present a full project proposal. **View and edit your own template in the your Microsoft Teams Assignment!**. Note that you can always review the template here to view the presentation requirements after editing your own template!
 
 For more information, see __*Assessment Rubric*__ in Microsoft Teams. 
 

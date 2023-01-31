@@ -19,7 +19,7 @@ Here is a table of the use-cases and their description.
 | 1 | Create a flowchart of auditory Perception | Poor & Sufficient | [clicky]()
 | 2 | Create a flowchart for language acquisition | Poor & Sufficient | [clicky]()
 | 3 | Recorded a flowchart walkthrough to demonstrate language acquisition in a simple scenario | Sufficient | [clicky]()
-| 4 | Recorded a flowchart walkthrough to demonstrate language acquisition for a dynamic scenario | Good | [clicky]()
+| 4 | Recorded a flowchart walkthrough to demonstrate language acquisition for a complex scenario | Good | [clicky]()
 | 5 | Compare both cognitive models with the transformer network architecture | Excellent | [clicky]()
 | 6 | Operationalize your model to a computational model of language learning to demonstrate a language acquisition  | Medal Challenge | [clicky]()
 
@@ -87,7 +87,7 @@ ILO Mapping Explained:
 
 <br>
 
-## Use-case 4: Recorded a flowchart walkthrough to demonstrate language acquisition in a dynamic scenario
+## Use-case 4: Recorded a flowchart walkthrough to demonstrate language acquisition in a complex scenario
 
 Record a 2nd Walkthrough of flowchart for a given scenario where a child has to acquire the meaning of some word with dynamic input. Dynamic input enthales... 
 
@@ -100,7 +100,7 @@ Deliverable:
 <br>
 
 ILO Mapping Explained:
-- Good: Recorded walkthrough of demonstrates that human language acquisition model works for this dynamic scenario
+- Good: Recorded walkthrough of demonstrates that human language acquisition model works for this complex scenario
 
 <br>
 

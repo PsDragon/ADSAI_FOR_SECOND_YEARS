@@ -168,7 +168,7 @@ __Worldview (definition):__
 
 :pencil: __3g__ How does the Mercator map fit within the Eurocentric worldview? In your answer, refer to the concept of 'bias' and/or 'fairness'. Write your answer down.
 
-<img src="./images/mercator.jpg" alt="Mercator projection" width="400">
+<img src="./images/mercator.jpg" alt="Mercator projection" width="600">
 
 *Figure 3. Mercator world map projection.*
 

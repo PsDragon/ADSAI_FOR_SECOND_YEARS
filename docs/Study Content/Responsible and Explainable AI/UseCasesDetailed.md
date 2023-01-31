@@ -102,6 +102,8 @@ This function returns a list of values formatted as follows: ```[Predictive Equa
 
 3. Pass the __unit tests__ listed in the ```test_calculate_metrics.py``` file, which is provided in your personal BUAs GitHub repository. If you pass the test you will receive __100 points__. 
 
+4. Propose a suitable group fairness metric for the dusting classification task. Explain your choice. Use the ```[student number]_responsible_ai.ipynb``` file, which is provided in your personal BUAs GitHub repository, to write down your answer.
+
 ## Use-case 5: Write Python function; group fairness taxonomy 
 
 To solve this use-case, you will need to convert AXA's Fairness Compass into an Python function, and subsequently test this function through writing and running a unit test. Below, you can find the steps to complete this use-case:

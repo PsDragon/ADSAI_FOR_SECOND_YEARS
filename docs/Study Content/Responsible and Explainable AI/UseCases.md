@@ -104,7 +104,7 @@ For more information on how to create a subset of images from the original datas
 
 In this use-case, which is related to the 'Sufficient' criteria of ILO 3.1, you will be asked to apply a post-processing bias mitigating method to the output of a binary classification model. To do so, you will need to write Python functions to calculate a set of group fairness metrics. 
 
-The teaching teams has trained a binary classification model on a subset of the Imsitu dataset; depicting a man or woman (i.e., nouns: agents), who is either dusting or performing another activity (i.e., verb). The protected/sensitive attribute is gender, and for the sake of the exercise, we used the categories 'Female' for the privileged group, and 'Male' for the unprivileged group. In addition, the unfavorable/negative prediction is 'dusting_no', and the favorable/positive prediction is 'dusting_yes'.   
+The teaching teams has trained a binary classification model on a subset of the Imsitu dataset; depicting a man or woman (i.e., nouns: agents), who is either dusting or performing another activity (i.e., verb). The protected/sensitive attribute is gender, and for the sake of the exercise, we used the categories 'Female' for the privileged group (i.e., overrepresented in the dataset), and 'Male' for the unprivileged group (i.e., underrepresented in the dataset. In addition, the unfavorable/negative prediction is 'dusting_no', and the favorable/positive prediction is 'dusting_yes'.   
 
 In addition, we created two test sets:
 
@@ -129,6 +129,7 @@ __To solve this use-case, you will need to:__
     - [ ] Predictive Equality
 - [ ] Write a separate Python function for each of the group fairness metrics that you defined above. Use the ```load_confusion_matrices():``` function to load the confusion matrices for the protected/sensitive attribute test sets into the group fairness metrics. See ```calculate_metrics.py``` file, which is provided in your personal BUAs GitHub repository.
 - [ ] Pass the unit tests listed in the ```test_calculate_metrics.py``` file, which is provided in your personal BUAs GitHub repository.
+- [ ] Propose a suitable group fairness metric for the dusting classification task. Explain your choice. Use the ```[student number]_responsible_ai.ipynb``` file, which is provided in your personal BUAs GitHub repository, to write down your answer.
 
 :bell: You may use AXA's [The Fairness Compass](https://www-axa-com.cdn.axa-contento-118412.eu/www-axa-com/d6324958-367e-4375-81c3-cfeb8e7ccc66_AXA_FairnessCompass-English.pdf).
 

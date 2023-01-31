@@ -125,8 +125,8 @@ To solve this use-case, you will need to convert AXA's Fairness Compass into an 
 12. Compute the confusion matrices for the protected/sensitive test sets using the weights of the trained model.  
 13. Load the outputs of the confusion matrices for the protected/sensitive attribute test sets into the group fairness taxonomy function.
 14. Load the group fairness metrics you created for __Use-case 4__ into the group fairness taxonomy function. 
-15. Create a control flow for the group fairness taxonomy by incorporating conditional statements (e.g., if-else statements).
-16 Elaborate on your approach, the choices you made, and results of the fairness evaluation (e.g., determination of suitable group fairness metric, outcome of group fairness metric calculation, etc.). Use the ```responsible_ai.ipynb``` file, which is provided in your personal BUAs GitHub repository.
+15. Create a control flow for the group fairness taxonomy function by incorporating conditional statements (e.g., if-else statements).
+16. Elaborate on your approach, the choices you made, and results of the fairness evaluation (e.g., determination of suitable group fairness metric, outcome of group fairness metric calculation, etc.). Use the ```[student number]_responsible_ai.ipynb``` file, which is provided in your personal BUAs GitHub repository.
 17. Test your group fairness function by writing a unit test with the Python package ```pytest```. 
 
 ***

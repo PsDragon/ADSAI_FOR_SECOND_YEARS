@@ -63,7 +63,7 @@ In __*weeks 2-5*__, you will explore different artificial neural network archite
 
 In __*week 6*__, after you have built and trained the model, you will learn to balance your model's accuracy and interpretability through the application of various explainable AI methods. 
 
-In __*weeks 7-8*__, you will design an application based on your idea and AI canvas that incorporates your image classifier model. The application design is going to be represented by a [wireframe prototype](https://youtube.com/watch?v=89TWEpIitFM&feature=shares). You will also perform some preliminary user tests and review your findings by doing a SWOT analysis. 
+In __*weeks 7-8*__, you will design an application based on your idea and AI canvas that incorporates your image classifier model. The application design is going to be represented by a [wireframe prototype](https://youtube.com/watch?v=89TWEpIitFM&feature=shares). You will also perform some preliminary user tests. Additionally, you will explore disruptive technology risks associated with the proposed application.  
 
 In __*week 9*__, you will present your project proposal to the client. Here you will be given a chance to showcase, explain and defend your proposed project and its components. 
 
@@ -95,7 +95,7 @@ Below you will find the timeline on a day-to-day basis. Further down, there is i
 - [ ] Prepare for Feedback Session
 
 ## Friday
-- [DataLab: Marketing](LinkToPage)
+- [DataLab: Market Research](LinkToPage)
 - [DataLab: Responsible AI](https://adsai.buas.nl/Study%20Content/Responsible%20and%20Explainable%20AI/UseCases.html)
 - [ ] Feedback Session
 

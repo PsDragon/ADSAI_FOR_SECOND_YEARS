@@ -97,11 +97,12 @@ Market segmentation for a new product involves dividing a larger market into sma
 
 __The process of market segmentation for a new product typically involves several steps:__
 
-![Market Segmentation](https://www.batheories.com/wp-content/uploads/market-segmentation-types.png)
-
 Define the overall market: Identify the total market for the new product, including all potential customers.
 
 •	Identify segments: Divide the overall market into smaller segments based on characteristics such as demographics, psychographics, or behavior.
+
+![Market Segmentation](https://i0.wp.com/www.iedunote.com/img/30731/4-types-of-market-segmentation.jpg)
+*Figure 1. 4 Types of Market Segmentation*
 
 •	Evaluate segments: Analyze each segment to determine its size, growth potential, and overall attractiveness as a target market for the new product.
 
@@ -116,6 +117,8 @@ The video below explains the market segmentation:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZUOCx1iO8gI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 <!-- blank line -->
+
+*Video 1. 'Market Segmentation | How Gymshark use Market Segmentation Explained' by Two Teachers.*
 
 Please answer the following questions:
 
@@ -155,6 +158,8 @@ The video below explains how to create personas:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DvV7ZcRVQ4g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 <!-- blank line -->
+
+*Video 2. 'How To Create A User Persona (Video Guide)' by CareerFoundry.*
 
 Answer questions below:
 

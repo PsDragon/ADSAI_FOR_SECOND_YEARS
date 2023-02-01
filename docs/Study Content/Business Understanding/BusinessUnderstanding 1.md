@@ -36,7 +36,7 @@ __Good luck!__
 
 ***
 
-## Overall market research
+## 1. Overall market research
 
 Before proceeding with developing your product, it's essential to conduct some initial research to guide your direction. First, you need to identify pain points in the market that you can address. To do this, consider the following questions:
 
@@ -84,11 +84,11 @@ Desk research is a cost-effective and efficient way to gather information about 
 
 Once you conducted this research, you will be able to come up with an overall idea for your product and then improve it by going a bit deeper into the target audience and their needs. 
 
-## Target audience analysis
+## 2. Target audience analysis
 
 After you understand the overall needs and wants of your market, you need to dive a bit deeper to create a product that delivers value to customers. For this purpose, a company must identify the specific group of customers it aims to serve. This group, known as the target market, is the consumer profile that the product is designed for. It is crucial to identify the target market early in the product development process so that the product concept can be tailored to meet the needs of that specific group. The process of identifying a target market involves two steps: segmenting the market and targeting a specific group within that market. This will be the focus of the second section of today's independent study materials.
 
-## Segmentation
+### 2.1 Segmentation
 
 Market segmentation is a commonly used marketing technique for attracting leads, but it can also be used in the development of new products. By segmenting customers, a business can identify potential buyers for a new product or service, and use this information to inform its market entry strategy. 
 
@@ -142,11 +142,11 @@ There are several different ways to segment a market, including:
 
 Business rarely limits their segmentation analysis to only one or a few variables. Rather, they often use multiple segmentation bases to identify better-defined target groups. 
 
-## Targeting
+### 2.2. Targeting
 
 Once a market has been segmented, a company can evaluate each segment to determine its size, growth potential, and overall attractiveness as a target market. The company can then select one or more segments to target with tailored products, services. By targeting specific segments of the market when developing new products or services, companies can increase the chances of success by creating products that are better suited to the needs and preferences of the target customers.
 
-## Persona
+### 2.3. Persona
 
 Personas are fictional characters created by companies to represent real customers. Ideal customers are defined by buyer personas, including their daily routines, struggles, and decision-making processes.  A comprehensive profile of your target buyer will guide product design, indicate where to allocate resources, and ensure organizational unity.
 Segmentation and personas are both components of the segmentation analysis. They are not separate research methods as perceived by some in the UX community. Segmentation involves identifying segments, while personas are just profiles describing those segments.

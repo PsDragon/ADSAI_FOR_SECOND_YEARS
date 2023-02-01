@@ -6,7 +6,7 @@ sort: 3
 
 For the business understanding part of your project, you are asked to create an idea for your application based on the market needs, needs of your target audiences, disruptive technology risks . Therefore, you need to conduct simple market research, identify appropriate disruptive technology risks and find out who is your target audience by researching your target marketing, segmenting it and creating a persona for your application.  
 
-For more information on the module, please refer to the Assessment Rubric (ILO 1.0), and the use-cases for Business Understanding , which you can find here. 
+For more information on the module, please refer to the Assessment Rubric (ILO 1.0), and the use-cases for Business Understanding , which you can find [here by clicking this link](https://adsai.buas.nl/Study%20Content/Business%20Understanding/BusinessUnderstandingUseCases.html). 
 
 ## __Requirements__
 

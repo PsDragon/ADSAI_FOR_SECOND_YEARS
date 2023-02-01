@@ -8,6 +8,10 @@ In **today's data lab**, we will work on the Business Understanding use-cases. U
 
 ## Use-cases
 
+It doesn't matter what you develop, it is important that your product delivers value to your end user. It is also important that your product doesn't cause any risks ( or minimum risks). Therefore the main focus of ILO 1.0 is to acquire knowledge on the development of the client oriented product and disruptive technology risks.  
+
+In order to get a sufficient, you need to complete the entire use case 2, for good you need to finish step 1 of use case 3 and for excellent you are required to finish all the use cases. 
+
 __Use case 1__
 
 The main goal of the user case 1 is to conduct an overall market research in order to identify unmet needs among people in the market and find a way to full fill these needs by designing a computer vision application.

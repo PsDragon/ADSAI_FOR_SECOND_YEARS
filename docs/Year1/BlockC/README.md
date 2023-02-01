@@ -95,7 +95,7 @@ Below you will find the timeline on a day-to-day basis. Further down, there is i
 - [ ] Prepare for Feedback Session
 
 ## Friday
-- [DataLab: Market Research](LinkToPage)
+- [DataLab: Market Research](https://adsai.buas.nl/Study%20Content/Business%20Understanding/BusinessUnderstandingUseCases.html)
 - [DataLab: Responsible AI](https://adsai.buas.nl/Study%20Content/Responsible%20and%20Explainable%20AI/UseCases.html)
 - [ ] Feedback Session
 

@@ -27,9 +27,9 @@ Here is a table of the use-cases and their description.
 
 | Use-Case | Description | Dataset | Data Source/Author | Link
 |----------|-------------|-------------|-------------|-------------|
-| 1 | Identify, and describe bias | Full dataset | Imsitu | [clicky](https://edubuas-my.sharepoint.com/:u:/g/personal/blerck_i_buas_nl/EcXfm8dsKF5KlC2gkitmN64B7ol4__XeaofN-SN3ZyoHGQ?e=9kOUWl)
+| 1 | Identify, and describe bias | Full dataset | Imsitu | [clicky](https://edubuas-my.sharepoint.com/:f:/g/personal/blerck_i_buas_nl/EsRz6EuK78hJpPCAsiABZ58BOuy9DpB9mYHRhJNAn-gqXg?e=gOMmnm)
 | 2 | Propose individual fairness method| Full dataset | Imsitu | [clicky](LINK TO RESPONSIBLE_AI.IPYNB)
-| 3 | Create a subset of images from the original dataset | Custom subset | Imsitu | [clicky](https://edubuas-my.sharepoint.com/:u:/g/personal/blerck_i_buas_nl/EcXfm8dsKF5KlC2gkitmN64B7ol4__XeaofN-SN3ZyoHGQ?e=9kOUWl)
+| 3 | Create a subset of images from the original dataset | Custom subset | Imsitu | [clicky](https://edubuas-my.sharepoint.com/:f:/g/personal/blerck_i_buas_nl/EsRz6EuK78hJpPCAsiABZ58BOuy9DpB9mYHRhJNAn-gqXg?e=gOMmnm)
 | 4 | Write Python functions; group fairness metrics| Assigned subset | Imsitu, ADS&AI Teaching Team | [clicky](LINK TO DUSTING DATASET IN MICROSOFT TEAMS)
 | 5 | Write Python function; group fairness taxonomy  | Custom subset | N.A. | N.A.
 | 6 | Apply one/multiple explainable AI method(s) to the image classifier | Custom subset | Imsitu, You... | N.A.
@@ -85,6 +85,8 @@ In this use-case, which is related to ILO 3.1's 'Insufficient', you will be aske
 
 :pencil: By 'disjoint' we mean that the images in the training set, the validation set, and the test set should not overlap! Overlapping images will result in data leakage, which will lead to biased results :see_no_evil:.
 
+:warning: Please, do not upload your image dataset(s) to GitHub! 
+
 __To solve this use-case, you will need to:__
 
 - [ ] Select one or more classes from the Imsitu dataset (e.g., a noun, agent, etc, or a combination of them), which preferentially encompass more than 100 images.
@@ -129,7 +131,6 @@ __To solve this use-case, you will need to:__
     - [ ] Predictive Equality
 - [ ] Write a separate Python function for each of the group fairness metrics that you defined above. Use the ```load_confusion_matrices():``` function to load the confusion matrices for the protected/sensitive attribute test sets into the group fairness metrics. See ```calculate_metrics.py``` file, which is provided in your personal BUAs GitHub repository.
 - [ ] Pass the unit tests listed in the ```test_calculate_metrics.py``` file, which is provided in your personal BUAs GitHub repository.
-- [ ] Propose a suitable group fairness metric for the dusting classification task. Explain your choice. Use the ```[student number]_responsible_ai.ipynb``` file, which is provided in your personal BUAs GitHub repository, to write down your answer.
 
 :bell: You may use AXA's [The Fairness Compass](https://www-axa-com.cdn.axa-contento-118412.eu/www-axa-com/d6324958-367e-4375-81c3-cfeb8e7ccc66_AXA_FairnessCompass-English.pdf).
 
@@ -151,6 +152,10 @@ __To solve this use-case, you will need to:__
 For more information on to create the group fairness taxonomy function, click [here](https://adsai.buas.nl/Study%20Content/Responsible%20and%20Explainable%20AI/UseCasesDetailed.html). 
 
 ## Use-case 6: Apply one/multiple explainable AI method(s) to the image classifier
+
+- [ ] Discuss the trade-off between accuracy and interpretability of your AI model (applied to the Creative Brief).
+
+- [ ] Develop an AI model that balances accuracy and interpretability (applied to the Creative Brief). Use at least one explainable AI method to achieve this specific task.
 
 :yellow_heart::raised_hands::dancer::snake::computer:
 

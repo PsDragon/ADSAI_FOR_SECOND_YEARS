@@ -49,7 +49,7 @@ Start filling in the AI Canvas.
 
 __Use case 2__
 
-The main goal of the user case 2 is to identify needs and wants of your target market to design the application that creates a value for your target audience specifically. 
+The main goal of the use case 2 is to identify needs and wants of your target market to design the application that creates a value for your target audience specifically. 
 
 __To solve this use-case, you will need to:__
 
@@ -68,7 +68,7 @@ Within the persona, make sure to explain the value your application will create 
 
 - [ ] Step 4
 
-- [ ] Adjust your project proposal for the computer vision application based on created persona. The adjusted project proposal should be based on the satisfaction of needs of your consumer which were identified during the creation of the persona. Personal features of your persona should be taken into consideration too. For example, if you find out that your end users not tech savvy and relatively old, you might propose to create a computer vision application that is extremely user friendly and self explanatory.   Therefore you need to make your project proposal for the computer vision application as consumer oriented as possible, keepingin mind all the personal features and needs of your persona. 
+- [ ] Adjust your project proposal for the computer vision application based on created persona. The adjusted project proposal should be based on the satisfaction of needs of your consumer which were identified during the creation of the persona. Personal features of your persona should be taken into consideration too. For example, if you find out that your end users not tech savvy and relatively old, you might propose to create a computer vision application that is extremely user friendly and self explanatory. Therefore you need to make your project proposal for the computer vision application as consumer oriented as possible, keepingin mind all the personal features and needs of your persona. 
 
 - [ ] Explain the decision-making context of improving your project proposal for the computer vision application.
 

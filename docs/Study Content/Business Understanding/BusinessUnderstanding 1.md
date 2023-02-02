@@ -26,6 +26,14 @@ __1.__ Using the knowledge acquired by reading today's independent study day mat
 
 In case you are not able to find some of the information, feel free to skip it. The main goal of this exercise is to identify the gap in the market that your application can fill in. 
 
+# Useful resources for market research
+
+1. [Statista](https://www.statista.com/) - using university login you can access a wide range of information.
+
+2. [Dutch Bureau of Statistics](https://www.cbs.nl/en-gb)
+
+3. [Market Research](https://www.marketresearch.com/browse/)
+
 __2.__ Create a template for your user persona and make sure to upload it to GitHub. 
 
 ## Questions or issues?

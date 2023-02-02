@@ -37,7 +37,7 @@ In case you didn’t answer these questions, please do. In case you did then you
 
 - [ ] Step 2
 
-Based on gathered knowledge from the conducted market research, explain your first idea for a prototype proposal for an application.  
+Based on gathered knowledge from the conducted market research, explain your first idea for a project proposal for an application.  
 
 - [ ] Step 3
 
@@ -55,7 +55,7 @@ __To solve this use-case, you will need to:__
 
 - [ ] Step 1 
 
-Segment consumers interested in your application into group based on information provided during the independent study day.
+Segment consumers interested in your application into group based on information provided during [the independent study day](https://adsai.buas.nl/Study%20Content/Business%20Understanding/BusinessUnderstanding%201.html#21-segmentation).
 
 - [ ] Step 2
 
@@ -68,7 +68,9 @@ Within the persona, make sure to explain the value your application will create 
 
 - [ ] Step 4
 
-Adjust your project proposal for the computer vision application based on conducted customer analysis. Explain the decision-making context of improving your project proposal for the computer vision application.
+- [ ] Adjust your project proposal for the computer vision application based on created persona. The adjusted project proposal should be based on the satisfaction of needs of your consumer which were identified during the creation of the persona. Personal features of your persona should be taken into consideration too. For example, if you find out that your end users not tech savvy and relatively old, you might propose to create a computer vision application that is extremely user friendly and self explanatory.   Therefore you need to make your project proposal for the computer vision application as consumer oriented as possible, keepingin mind all the personal features and needs of your persona. 
+
+- [ ] Explain the decision-making context of improving your project proposal for the computer vision application.
 
 __Use case 3__
 
@@ -78,8 +80,8 @@ __To solve this use-case, you will need to:__
 
 - [ ] Step 1.
 
-Attend the lecture on disruptive technologies and identify/explain risks that applicable for your computer vision application.
+Attend the lecture on disruptive technologies and using __disruptive technology risks from the lecture slides__ identify/explain risks that applicable for your computer vision application.
 
 - [ ] Step 2.
  
-Address the disruptive technology risk in the project proposal for application and complete the AI canvas.
+Address the disruptive technology risk in the project proposal for the application and complete the AI canvas.

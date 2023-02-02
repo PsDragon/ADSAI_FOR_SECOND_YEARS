@@ -252,7 +252,9 @@ For professional ILO 2 you need to demonstrate self-exploration and personal dev
 We made a example selection of valuable resources for extracurricular learning and development to get you started:
 
 ### Business Understanding:
-- SomeResource
+- [Putting Personas to Work in UX Design: What They Are and Why They’re Important by Adobe](https://xd.adobe.com/ideas/process/user-research/putting-personas-to-work-in-ux-design/)
+-[How to spot a real value proposition, Victor Camlek](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=97692a7b49112cb1d6a8d9d8988c846570cf3cd9)
+-[New Product Development and Product Life-Cycle Strategies by Kotler](https://nscpolteksby.ac.id/ebook/files/Ebook/Business%20Administration/Principles%20of%20Marketing%2014th%20Edition%20-%20Kotler%20and%20Amstrong%20(2012)/Chapter%209%20-%20New%20Product%20Development%20and%20Product%20Life-Cycle%20Strategies.pdf)
 
 ### Responsible AI:
 - See Microsoft Teams [post](https://teams.microsoft.com/l/message/19:9l-cMzc2_wRBzhLOQBPGLsqQa-xYrgo1PwUYl2RSdKc1@thread.tacv2/1674467916210?tenantId=0a33589b-0036-4fe8-a829-3ed0926af886&groupId=fca04ab7-f1da-4871-9cba-063e53a95b6d&parentMessageId=1674467916210&teamName=FAI1.P2-01%20%20Project%201B%20ADS%26AI%202022-23&channelName=General&createdTime=1674467916210&allowXTenantAccess=false).

@@ -17,7 +17,7 @@ Large, publicly available image datasets, such as ImageNet, Imsitu, Open Images 
 
 For example, the images below show the predictions of a standard deep learning-based image classifier trained to predict if a given image represents a wedding or not. While the AI correctly detects a wedding in the first three images, it fails to do so in the last image. This is a consequence of developing an AI algorithm without being sensitive to biases that might exist in the training data.
 
-<img src="./images/open_images.png" alt="Open Images bias" width="400">
+<img src="./images/open_images.png" alt="Open Images bias" width="500">
 
 *Figure 2. Open Images bias.*
 
@@ -89,6 +89,7 @@ In this use-case, which is related to ILO 3.1's 'Insufficient', you will be aske
 
 __To solve this use-case, you will need to:__
 
+- [ ] Download the Imsitu dataset, which you can find [here](https://edubuas-my.sharepoint.com/:f:/g/personal/blerck_i_buas_nl/EsRz6EuK78hJpPCAsiABZ58BOuy9DpB9mYHRhJNAn-gqXg?e=gOMmnm). 
 - [ ] Select one or more classes from the Imsitu dataset (e.g., a noun, agent, etc, or a combination of them), which preferentially encompass more than 100 images.
 - [ ] Create a training set that contains images from the selected classes. 
 - [ ] Create a validation set that contains images from the selected classes.
@@ -132,13 +133,13 @@ __To solve this use-case, you will need to:__
 - [ ] Write a separate Python function for each of the group fairness metrics that you defined above. Use the ```load_confusion_matrices():``` function to load the confusion matrices for the protected/sensitive attribute test sets into the group fairness metrics. See ```calculate_metrics.py``` file, which is provided in your personal BUAs GitHub repository.
 - [ ] Pass the unit tests listed in the ```test_calculate_metrics.py``` file, which is provided in your personal BUAs GitHub repository.
 
-:bell: You may use AXA's [The Fairness Compass](https://www-axa-com.cdn.axa-contento-118412.eu/www-axa-com/d6324958-367e-4375-81c3-cfeb8e7ccc66_AXA_FairnessCompass-English.pdf).
+:bell: You may use AXA's [Towards the Right Kind of Fairness in AI](https://www-axa-com.cdn.axa-contento-118412.eu/www-axa-com/d6324958-367e-4375-81c3-cfeb8e7ccc66_AXA_FairnessCompass-English.pdf) report.
 
 For more information on how to set up the group fairness metric, click [here](https://adsai.buas.nl/Study%20Content/Responsible%20and%20Explainable%20AI/UseCasesDetailed.html). 
 
 ## Use-case 5: Write Python function; group fairness taxonomy 
 
-In this use-case, which is related to the 'Excellent' criteria of ILO 3.1, you will be asked to build, train, and evaluate a binary classification model on its group level fairness by writing a Python function that returns an appropriate fairness metric, and corresponding calculation. To successfully solve this use-case, you will need to use AXA's [Towards the Right Kind of Fairness in AI](https://www-axa-com.cdn.axa-contento-118412.eu/www-axa-com/d6324958-367e-4375-81c3-cfeb8e7ccc66_AXA_FairnessCompass-English.pdf), and the Python functions that you wrote for use-case 3.
+In this use-case, which is related to the 'Excellent' criteria of ILO 3.1, you will be asked to build, train, and evaluate a binary classification model on its group level fairness by writing a Python function that returns an appropriate fairness metric, and corresponding calculation. To successfully solve this use-case, you will need to use AXA's [The Fairness cCompass](https://rb.gy/vze3w3), and the Python functions that you wrote for use-case 3.
 
 __To solve this use-case, you will need to:__
 

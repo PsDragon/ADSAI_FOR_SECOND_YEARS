@@ -29,7 +29,9 @@ For the DataLab preparation (Week 1, Wednesday), you are expected fill in a Micr
 
 <iframe width="1280px" height="960px" src="https://forms.office.com/e/mC96HqGXbM?embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
-In this file, please answer the questions that pop-up (:pencil:) as you navigate the content below. Further the module Responsible AI introduces quite a bit of new terminology. Please make sure to take notes and reflect on the new terms/concepts/debates that you encounter (:bell:).
+To avoid multiple submissions, answer the questions that pop up (:pencil:) as you navigate the content below in a text editor of your choice (e.g., Notepad ++, Word, etc.) before entering them into the Microsoft Form. 
+
+Furthermore, the knowledge module Responsible AI introduces quite a bit of new terminology. Please make sure to take notes and reflect on the new terms/concepts/debates that you encounter (:bell:).
 
 ## Questions or issues?
 

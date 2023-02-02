@@ -24,7 +24,9 @@ For the DataLab preparation (Week 1, Friday), you are expected fill in a Microso
 
 <iframe width="1280px" height="960px" src="https://forms.office.com/e/mC96HqGXbM?embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
-In this file, please answer the questions that pop-up (:pencil:) as you navigate the content below. Further the module Responsible AI introduces quite a bit of new terminology. Please make sure to take notes and reflect on the new terms/concepts/debates that you encounter (:bell:).
+To avoid multiple submissions, answer the questions that pop up (:pencil:) as you navigate the content below in a text editor of your choice (e.g., Notepad ++, Word, etc.) before entering them into the Microsoft Form. 
+
+Furthermore, the knowledge module Responsible AI introduces quite a bit of new terminology. Please make sure to take notes and reflect on the new terms/concepts/debates that you encounter (:bell:).
 
 ## Questions or issues?
 
@@ -263,7 +265,7 @@ If the answer is 'No', then we can proceed to __Step 2.__
 
 ### __Step 2: Worldview__
 
-- <span style="color:purple">'We're all equal' (WAE)</span> OR <span style="color:orange">'What you see is what you get' (WYSIWIG)</span>
+- <span style="color:purple">'We're all equal' (WAE)</span> OR <span style="color:orange">'What you see is what you get' (WYSIWYG)</span>
 
 >The worldview what you see is what you get (WYSIWYG) assumes
 the absence of structural bias in the data. Accordingly, this view

@@ -18,7 +18,7 @@ The main goal of the user case 1 is to conduct an overall market research in ord
 
 __To solve this use-case, you will need to:__
 
-- [ ]Step 1
+- [ ] Step 1
 
 During the independent study day (link) you were asked to conduct simple market research by answering the following questions:
 

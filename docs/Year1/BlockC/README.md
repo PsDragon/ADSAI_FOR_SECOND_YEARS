@@ -214,7 +214,7 @@ Below you will find the timeline on a day-to-day basis. Further down, there is i
 
 ## Thursday
 - [Interface design](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Interface_Design.html)
-- [S.W.O.T. analysis](../../Study%20Content/Business%20Understanding/BusinessUnderstanding%202.html)
+
 - [ ] Prepare for final Feedback Session
 
 ## Friday

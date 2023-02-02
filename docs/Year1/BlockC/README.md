@@ -20,13 +20,13 @@ One of the main reasons companies hire freelancers is that they are often unsure
 
 As a freelancer, a balanced combination of both __*soft and hard skills*__ is essential. Your technical proficiency is undoubtedly key, but other aspects, such as business understanding and social skills, are equally important when working on a data science/AI project.
 
-In this block, you will take on the role of freelancing __*- Artificial Intelligence Researcher -*__ to assist a company in digitizing one of their business processes by developing an image classification application prototype using the Imsitu dataset. To this end, you will need to create a __*project proposal*__ that touches upon the following topics:
+In this block, you will take on the role of freelancing __*- Data Scientist -*__ to assist a company in digitizing one of their business processes by developing an image classification application prototype using the Imsitu dataset. To this end, you will need to create a __*project proposal*__ that touches upon the following topics:
 
 - Market/consumer research and risk assessment
 - The design and implementation of a transparent, interpretable (and fair) deep learning-based image classifier
 - The development of a user-centered prototype application for your image classifier 
 
-Below you will find the project requirements, but there will be an opportunity for you to clarify any questions about the project during __*the kick-off meeting on Monday 6th of January 2023*__. 
+Below you will find the project requirements, but there will be an opportunity for you to clarify any questions about the project during __*the kick-off meeting on Monday 6th of February 2023*__. 
 
 ## Project Requirements
 
@@ -186,20 +186,19 @@ Below you will find the timeline on a day-to-day basis. Further down, there is i
 # Week 6: Responsible AI (Part 2: Transparency and Interpretability)
 
 ## Monday
-- [NameSelf-StudyDay](LinkToPage)
+- [XAI: The need for explanations!](../../Study%20Content/Responsible%20and%20Explainable%20AI/XAI1.html)
 
 ## Tuesday
-- [NameSelf-StudyDay](LinkToPage)
+- [Feature Attribution in Computer Vision](../../Study%20Content/Responsible%20and%20Explainable%20AI/XAI3.html)
 
 ## Wednesday
 - [DataLab: Responsible AI](https://adsai.buas.nl/Study%20Content/Responsible%20and%20Explainable%20AI/UseCases.html)
 
 ## Thursday
-- [NameSelf-StudyDay](LinkToPage)
+- [Moving beyond feature attribution](../../Study%20Content/Responsible%20and%20Explainable%20AI/XAI4.html)
 
 ## Friday
 - [DataLab: Responsible AI](https://adsai.buas.nl/Study%20Content/Responsible%20and%20Explainable%20AI/UseCases.html)
-
 
 # Week 7 : Prototype - Human Centered AI
 

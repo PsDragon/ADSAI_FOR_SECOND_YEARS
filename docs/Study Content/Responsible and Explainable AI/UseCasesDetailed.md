@@ -76,9 +76,15 @@ The goal of this use case is to write Python functions for the group fairness me
 
 - [ ] Demographic Parity
 
+><br><span style="color:green">Demographic parity</span>: 'The proportion of predicted positives should be equal across sensitive/protective groups'. <br> <br>
+<span style="color:green">Demographic parity is satisfied when their base rates are the same; 50 images depict homosexual couples, and 100 images depict heterosexual couples (i.e., the favorable outcome should be assigned to each group of a sensitive/protective attribute at equal rates).</span> <br> <br>
+
 This function returns a list of values formatted as follows: ```[Demographic parity unprivileged group, Demographic parity privileged group, Absolute difference of Demographic Parity between unprivileged and privileged group]``` 
 
 - [ ] Equal Selection Parity
+
+><br><span style="color:red">Equal selection parity</span>: 'The number of predicted positives should be equal across sensitive/protective groups'. <br> <br>
+<span style="color:red">Equal selection parity is satisfied when the search engine returns the same number of images for each sensitive/protected attribute group; 75 wedding images depict homosexual couples, and 75 heterosexual couples.</span> <br> <br>
 
 This function returns a list of values formatted as follows: ```[Equal Selection Parity unprivileged group, Equal Selection Parity privileged group, Absolute difference of Equal Selection Parity between unprivileged and privileged group]```
 
@@ -86,17 +92,29 @@ This function returns a list of values formatted as follows: ```[Equal Selection
 
 - [ ] Conditional Use Accuracy Equality 
 
+><br><span style="color:mediumspringgreen">Conditional use accuracy equality</span>: 'The positive predictive value (PPV) and the negative predictive value (NPV) should be equal across sensitive/protective groups'. <br> <br>
+<span style="color:mediumspringgreen">Conditional use accuracy equality is satisfied when the proportion of correctly returned images labeled 'wedding' and 'no wedding' are equal across sensitive/protected groups. </span>
+
 This function returns a list of values formatted as follows: ```[Absolute difference in precision between unprivileged and privileged group, Absolute difference in NPV between unprivileged and privileged group]```
 
 - [ ] Equalized Odds
+
+><br><span style="color:teal">Equalized odds</span>: The true positive rates (TPR) and true negative rates (TNR) should be equal across sensitive/protective groups'. <br> <br>
+<span style="color:teal">Equalized odds is satisfied when the return rates for the images labelled 'wedding' and 'no wedding' are equal across sensitive/protected groups. <br> <br>
 
 This function returns a list of values formatted as follows: ```[Absolute difference of Equalized Opportunities between unprivileged and privileged group, Absolute difference of Predictive Equality between unprivileged and privileged group]```
 
 - [ ] Equalized Opportunities
 
+><br><span style="color:brown">Equalized opportunities</span>: The true positive rates (TPR) should be equal across sensitive/protective groups'. <br> <br>
+<span style="color:brown">Equalized opportunities is satisfied when the return rates for the images labelled 'wedding' are equal across sensitive/protected groups. <br> <br>
+
 This function returns a list of values formatted as follows: ```[Equalized Opportunities unprivileged group, Equalized Opportunities privileged group, Absolute difference of Equalized Opportunities between unprivileged and privileged group]```
 
 - [ ] Predictive Equality
+
+><br><span style="color:hotpink">Predictive equality</span>: The true negative rates (TNR) should be equal across sensitive/protective groups'. <br> <br>
+<span style="color:hotpink">Predictive equality is satisfied when the return rates for the images labelled 'no wedding' are equal across sensitive/protected groups. <br> <br>
 
 This function returns a list of values formatted as follows: ```[Predictive Equality unprivileged group, Predictive Equality privileged group, Absolute difference of Predictive Equality between unprivileged and privileged group]```
 

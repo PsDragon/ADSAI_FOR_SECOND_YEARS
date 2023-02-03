@@ -102,9 +102,11 @@ Figure 1: Two tweets using the word ablaze with different meanings.
 
 ## Project Timeline
 
+The block starts with an online kick-off lecture on **Feb 6th 2023 Monday at 14:00**.
+
 ### Week 1
 
-The block starts with a kick-off lecture. This week you will work on preprocessing text.
+ This week you will work on preprocessing text.
 
 **Self-study**
 
@@ -181,6 +183,8 @@ Study the following:
     >Your Turn: How many times does the word lol appear in text5? How much is this as a percentage of the total number of words in this text?
 
 **DataLab 1: Naive Bayes**
+
+[<img src="./images/githubbadge.png" alt="GitHub" width="15%"/>](https://github.com/BredaUniversityADSAI/2022-23-Y2-BlockC/blob/main/DataLabs/W2-DL1/W2-DL1-Naive-Bayes-Student-Notebook.ipynb)
 
 After this datalab, you will be able to:
 

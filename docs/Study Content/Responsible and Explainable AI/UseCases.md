@@ -17,7 +17,7 @@ Large, publicly available image datasets, such as ImageNet, Imsitu, Open Images 
 
 For example, the images below show the predictions of a standard deep learning-based image classifier trained to predict if a given image represents a wedding or not. While the AI correctly detects a wedding in the first three images, it fails to do so in the last image. This is a consequence of developing an AI algorithm without being sensitive to biases that might exist in the training data.
 
-<img src="./images/open_images.png" alt="Open Images bias" width="500">
+<img src="./images/google.png" alt="Open Images bias" width="500">
 
 *Figure 2. Open Images bias.*
 

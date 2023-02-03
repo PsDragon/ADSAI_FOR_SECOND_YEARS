@@ -273,7 +273,7 @@ supposes that any statistical variation in different groups actually represents 
 
 __Types of bias:__
 
-- Statistical bias <span style="color:orange">(WYSIWIG)</span>:
+- Statistical bias <span style="color:orange">(WYSIWYG)</span>:
 
 <img src="./images/populationvssample.jpg" alt="Population vs. Sample" width="600"/>
 
@@ -309,7 +309,7 @@ Fairness metric II (<span style="color:green">Demographic parity</span>): 'The p
 
 The <span style="color:purple">WAE</span> worldview does not automatically assume that the $$\begin{aligned} & Y\end{aligned}$$ values represent the 'ground truth'; they are constructed through historical or societal bias. The fairness notions related to <span style="color:purple">WAE</span>, independence, thus solely relies on the distribution of features and decisions, namely on ($$\begin{aligned} & A\end{aligned}$$, $$\begin{aligned} & X\end{aligned}$$, $$\begin{aligned} & \hat{Y}\end{aligned}$$) (See Codebook).
 
-__Separation & Sufficiency <span style="color:orange">(WYSIWIG)</span>:__
+__Separation & Sufficiency <span style="color:orange">(WYSIWYG)</span>:__
 
 1. 'The proportion of actual positives (i.e, base rate) do not have to be equal across sensitive/protective groups'.
 

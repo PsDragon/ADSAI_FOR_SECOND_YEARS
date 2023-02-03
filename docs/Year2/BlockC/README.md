@@ -24,7 +24,7 @@ Book website: [https://www.nltk.org/book/](https://www.nltk.org/book/)
 | Name   |  Availability |  Week | Email  | Subject  |
 |---|---|---|---|---|
 | Alican Noyan (Lecturer), PhD.<img src="./images/AlicanProfile.jpg" alt="Alican Noyan profile picture" width="200"/>|  Mon, Wed, Thu, Fri  | Weeks 1-8 |  noyan.a@buas.nl | Natural Language Processing |
-| Bram Heijligers (Lecturer), MSc. <img src="./images/BramProfile.jpg" alt="Bram Heijligers profile picture" width="200"/> |  Wed, Thu, Fri | Week 4 | heijligers.b@buas.nl | Cognition & Data Management | 
+| Bram Heijligers (Lecturer), MSc. <img src="./images/BramProfile.png" alt="Bram Heijligers profile picture" width="200"/> |  Wed, Thu, Fri | Week 4 | heijligers.b@buas.nl | Cognition & Data Management | 
 | Frank Peters, PhD. <img src="./images/FrankProfile.jpeg" alt="Frank Peters profile picture" width="200"/> | Mon, Tue, Wed, Thu |  Omnipresent | peters.f@buas.nl | Supreme Leader of the ADSAI Department, A.K.A. 'El Patron'  |
 
 ## DataLab Attendance 

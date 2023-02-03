@@ -259,7 +259,7 @@ We made a example selection of valuable resources for extracurricular learning a
 - See Microsoft Teams [post](https://teams.microsoft.com/l/message/19:9l-cMzc2_wRBzhLOQBPGLsqQa-xYrgo1PwUYl2RSdKc1@thread.tacv2/1674467916210?tenantId=0a33589b-0036-4fe8-a829-3ed0926af886&groupId=fca04ab7-f1da-4871-9cba-063e53a95b6d&parentMessageId=1674467916210&teamName=FAI1.P2-01%20%20Project%201B%20ADS%26AI%202022-23&channelName=General&createdTime=1674467916210&allowXTenantAccess=false).
 
 ### Deep Learning:
-- SomeResource
+- [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
 
 ### Human-Centered Artificial Intelligence:
 - [AI guidebook provided by Google](https://pair.withgoogle.com/guidebook)

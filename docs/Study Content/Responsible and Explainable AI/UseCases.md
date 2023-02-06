@@ -154,9 +154,9 @@ For more information on to create the group fairness taxonomy function, click [h
 
 ## Use-case 6: Apply one/multiple explainable AI method(s) to the image classifier
 
-- [ ] Discuss the trade-off between accuracy and interpretability of your AI model (applied to the Creative Brief).
+- [ ] Discuss the trade-off between accuracy and interpretability of your AI model (applied to the Creative Brief) in your final project proposal.
 
-- [ ] Develop an AI model that balances accuracy and interpretability (applied to the Creative Brief). Use at least one explainable AI method to achieve this specific task.
+- [ ] Develop an AI model that balances accuracy and interpretability (applied to the Creative Brief) using **at least one explainable AI method** to achieve this specific task.
 
 :yellow_heart::raised_hands::dancer::snake::computer:
 

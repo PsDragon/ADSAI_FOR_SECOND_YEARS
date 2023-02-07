@@ -10,11 +10,19 @@ In the first part of today's independent study day, you will learn how to conduc
 
 In the second part of today's independent study day you will focus on identifying your Target audience.
 
+## Questions or issues?
+
+If you have any questions or issues regarding the independent study material, please use the Q&A forum on Microsoft Teams. The mentors, and module instructor(s) will be available to answer your questions in DataLab.
+
+__Good luck!__
+
+***
+
 ## Homework exercises
 
 __1.__ Using the knowledge acquired by reading today's independent study day material, conduct simple market research by answering the following questions:
-
-•   What classifier product/product feature could make customers’ lives easier?​
+<!-- Which reading material is referred to here? Are you referring to section 1? Maybe then this excercise should come after that? -->
+•   What image classifier product/product feature could make customers’ lives easier?​
 
 •	How can I improve my customers' experience?
 
@@ -24,10 +32,10 @@ __1.__ Using the knowledge acquired by reading today's independent study day mat
 
 •	Are current products on the market meeting customers' expectations? If not, what is lacking?
 
-In case you are not able to find some of the information, feel free to skip it. The main goal of this exercise is to identify the gap in the market that your application can fill in. 
+<!-- Very nice to use some statistics to back-up their app ideas! Maybe make it an excercise for them to do and try that? You could for exmaple add the line here: Try to support your answers to the questions above using statistical data; see sources below. Make sure to reference your sources using APA-references. -->
+In case you are not able to find some of the information for a given question, feel free to skip it. The main goal of this exercise is to identify the gap in the market that your application can fill in. 
 
 # Useful resources for market research
-
 1. [Statista](https://www.statista.com/) - using university login you can access a wide range of information.
 
 2. [Dutch Bureau of Statistics](https://www.cbs.nl/en-gb)
@@ -36,12 +44,7 @@ In case you are not able to find some of the information, feel free to skip it. 
 
 __2.__ Create a template for your user persona and make sure to upload it to GitHub. 
 
-## Questions or issues?
-
-If you have any questions or issues regarding the independent study material, please use the Q&A forum on Microsoft Teams. The mentors, and module instructor(s) will be available to answer your questions in DataLab.
-
-__Good luck!__
-
+<!-- Shouldn't they create a personal after identifying the target audience simmilar to the order of section two of this page? And shouldn't we provide them with a template instead that they create a template? Would it be preferable to have the persona consist of a single powerpoint page? Like this in this template: https://slidemodel.com/free-powerpoint-templates/free-buyer-persona-template/ -->
 ***
 
 ## 1. Overall market research
@@ -58,35 +61,32 @@ Before proceeding with developing your product, it's essential to conduct some i
 
 By answering these questions, you can gain a better understanding of what product or feature would make customers' lives easier and what gaps currently exist in the market. This exploratory research will help you make informed decisions about what direction to take with your new product.
 Gathering information about what customers might want in a completely new product can be a bit challenging, as they may not have an existing frame of reference. However, there are a few methods that can be employed:
+<!-- Which methods are referred to here? I think the reader would expect some ennumeration here -->
 
 By answering these questions, you can gain a better understanding of what product or feature would make customers' lives easier and what gaps currently exist in the market. This exploratory research will help you make informed decisions about what direction to take with your new product.
 Gathering information about what customers might want in a completely new product can be a bit challenging, as they may not have an existing frame of reference. However, there are a few methods that can be employed:
+<!-- This section is double right? Or were you planning to put something else here? -->
 
-•	Utilize online surveys
+•	**Utilize online surveys**: Use survey tools to gather information about customer needs, pain points, and potential solutions for a new product. You can also ask them about what they would like to see in a product that doesn't currently exist.
+<!-- Maybe add some websites where you can find survey results? You could also refer them to qualtrics or google forms and propose those who want to go the extra mile to conduct a small survey -->
 
-Use survey tools to gather information about customer needs, pain points, and potential solutions for a new product. You can also ask them about what they would like to see in a product that doesn't currently exist.
+•	**Monitor social media**: Check social media accounts of similar products/industries to monitor conversations about similar products or related topics, to identify common issues and potential solutions for a new product.
 
-•	Monitor social media.
-
-Check social media accounts of similar products/industries to monitor conversations about similar products or related topics, to identify common issues and potential solutions for a new product.
-
-•	Desk research for product development
-
-Desk research, also known as secondary research, is a type of research that uses existing data and resources to gather information about a specific topic or problem. In product development, desk research is used to gather information about the market, industry, and competition. This type of research allows you to gain a better understanding of the industry landscape, identify trends and gaps in the market, and understand the needs and preferences of your target customers.
+•	**Desk research for product development**: Desk research, also known as secondary research, is a type of research that uses existing data and resources to gather information about a specific topic or problem. In product development, desk research is used to gather information about the market, industry, and competition. This type of research allows you to gain a better understanding of the industry landscape, identify trends and gaps in the market, and understand the needs and preferences of your target customers.
 
 Desk research methods for product development may include:
+<!-- I indent this bullet point list, since it's an ennumeration within of desk research; and desk research is an ennumeration within market research methods.  -->
+        - Analysing industry reports and statistics
 
-•	Analysing industry reports and statistics
+        - Reviewing literature and publications related to the industry or product category
 
-•	Reviewing literature and publications related to the industry or product category
+        - Researching competitor's products, pricing
 
-•	Researching competitor's products, pricing
+        - Examining customer reviews and feedback
 
-•	Examining customer reviews and feedback
+        - Analysing data from online marketplaces and social media
 
-•	Analysing data from online marketplaces and social media
-
-•	Searching for patent and trademark information
+        - Searching for patent and trademark information
 
 Desk research is a cost-effective and efficient way to gather information about a product or market, but it is important to remember that it has its limitations, as the data may not be current or may not represent the whole market. Therefore, it should be combined with primary research methods (such as surveys, interviews, or focus groups) to gain a more complete understanding of the market and customers.
 
@@ -94,11 +94,18 @@ Once you conducted this research, you will be able to come up with an overall id
 
 ## 2. Target audience analysis
 
-After you understand the overall needs and wants of your market, you need to dive a bit deeper to create a product that delivers value to customers. For this purpose, a company must identify the specific group of customers it aims to serve. This group, known as the target market, is the consumer profile that the product is designed for. It is crucial to identify the target market early in the product development process so that the product concept can be tailored to meet the needs of that specific group. The process of identifying a target market involves two steps: segmenting the market and targeting a specific group within that market. This will be the focus of the second section of today's independent study materials.
+After you understand the overall needs and wants of your market, you need to dive a bit deeper to create a product that delivers value to customers. For this purpose, a company must identify the specific group of customers it aims to serve. This group, known as the target market, is the consumer profile that the product is designed for. It is crucial to identify the target market early in the product development process so that the product concept can be tailored to meet the needs of that specific group. 
+
+<!-- Created an indented list with bold sections to emphasize the key steps -->
+The process of **identifying a target market involves two steps**:
+- **segmenting the market**; 
+- **targeting a specific group** within that market. 
+
+This will be the focus of the second section of today's independent study materials.
 
 ### 2.1 Segmentation
-
-Market segmentation is a commonly used marketing technique for attracting leads, but it can also be used in the development of new products. By segmenting customers, a business can identify potential buyers for a new product or service, and use this information to inform its market entry strategy. 
+<!-- added wikipedia link to leads for those who don't know what they are yet; please check if correct. -->
+Market segmentation is a commonly used marketing technique for attracting [leads](https://www.wrike.com/marketing-guide/faq/what-is-a-lead-in-marketing/), but it can also be used in the development of new products. By segmenting customers, a business can identify potential buyers for a new product or service, and use this information to inform its market entry strategy. 
 
 Customer segmentation can also be used to uncover new customer needs, which can then be used to develop new products that meet those needs. This approach is more data-driven and can help businesses overcome challenges in product development. With technology advancing rapidly, companies should adopt a customer-focused approach to product development, rather than launching a product and then trying to find customers for it. This method is also recommended for expanding or scaling existing products, as it allows the focus to be on a specific subset of customers. Customer segmentation is key to this approach, and it can give companies a competitive advantage when entering the market.
 Market segmentation for a new product involves dividing a larger market into smaller groups of customers with similar needs and characteristics. This process allows a company to identify specific segments of the market that may be particularly interested in the new product. By understanding these segments, the company can tailor its product development, marketing, and distribution strategies to better meet the needs of those customers.
@@ -131,6 +138,7 @@ The video below explains the market segmentation:
 Please answer the following questions:
 
 1.	What are main variables to segment consumer markets?
+<!-- Do you mean the main variables (age, income etc.) specific to the students consumer market? You are talking about: demographics, ..., behavioural, ? Those would technically be 'overarching variable types' and are referred to as 'constructs' within data science; see link below. Shall we call them constructs and link them like this: [constructs](https://www.statisticssolutions.com/understanding-the-differences-between-constructs-variables-and-operational-definitions/#:~:text=Constructs%20are%20broad%20concepts%20or,include%20intelligence%20or%20life%20satisfaction.) -->
 
 2.	What are benefits and drawbacks of market segmentation?
 
@@ -139,7 +147,7 @@ Please answer the following questions:
 **The information below summarizes the theory behind market segmentation.**
 
 There are several different ways to segment a market, including:
-
+ 
 •	Demographic segmentation: Dividing the market based on characteristics such as age, gender, income, and education level.
 
 •	Geographic segmentation: Dividing the market based on geographic location, such as region, city, or climate.
@@ -149,10 +157,12 @@ There are several different ways to segment a market, including:
 •	Behavioral segmentation: Dividing the market based on how customers interact with a product or service, such as purchase history, loyalty, or usage rate.
 
 Business rarely limits their segmentation analysis to only one or a few variables. Rather, they often use multiple segmentation bases to identify better-defined target groups. 
+<!-- Do students need to select appropriate variables for each construct? Is that done in the datalab? Might be a nice assignment to include after this summeray if not!-->
 
 ### 2.2. Targeting
 
 Once a market has been segmented, a company can evaluate each segment to determine its size, growth potential, and overall attractiveness as a target market. The company can then select one or more segments to target with tailored products, services. By targeting specific segments of the market when developing new products or services, companies can increase the chances of success by creating products that are better suited to the needs and preferences of the target customers.
+<!-- Maybe here they should argue which segment(s) is most important; the focus, and identify which segments are also interesting but not the main focus? -->
 
 ### 2.3. Persona
 
@@ -177,6 +187,7 @@ Answer questions below:
 #### Preparation for DataLab 2
 
 Completed homework exercises. Make sure to upload your two tasks to Github.
+<!-- We haven't told the students yet how they are to submit their homework? Do they fill it in into the powerpoint presentation? If in word, maybe best to let them fill it in their Block C notes files (attached to their MS teams assignment? -->
 
 ## Literature
 

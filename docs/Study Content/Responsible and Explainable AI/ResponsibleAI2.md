@@ -22,7 +22,7 @@ __Table of contents__
 
 For the DataLab preparation (Week 1, Friday), you are expected fill in a Microsoft Teams Form called ```DataLab Preparation 2```:
 
-<iframe width="640px" height="480px" src="https://forms.office.com/e/GxMAUWJRVR?embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+<iframe width="1280x" height="960px" src="https://forms.office.com/e/GxMAUWJRVR?embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
 To avoid multiple submissions, answer the questions that pop up (:pencil:) as you navigate the content below in a text editor of your choice (e.g., Notepad ++, Word, etc.) before entering them into the Microsoft Form. 
 

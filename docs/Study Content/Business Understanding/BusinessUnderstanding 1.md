@@ -6,7 +6,7 @@ sort: 1
 
 Research plays a critical role in the product development process. It enables you to verify your ideas with facts and statistics, and ensure your product will appeal to customers and create value for your target audience. Without researching beforehand, your product may not achieve its maximum potential.
 
-In the first part of today's independent study day, you will learn how to conduct exploratory research to design your application.  
+In the first part of today's independent study day, you will learn how to conduct exploratory research to design your computer vision application.  
 
 In the second part of today's independent study day you will focus on identifying your Target audience.
 
@@ -44,7 +44,7 @@ In case you are not able to find some of the information for a given question, f
 
 __2.__ Create a template for your user persona and make sure to upload it to GitHub. 
 
-<!-- Shouldn't they create a personal after identifying the target audience simmilar to the order of section two of this page? And shouldn't we provide them with a template instead that they create a template? Would it be preferable to have the persona consist of a single powerpoint page? Like this in this template: https://slidemodel.com/free-powerpoint-templates/free-buyer-persona-template/ -->
+<!-- Shouldn't they have this assignment in section 2.3? I think letting them create or select their own template would be valuable but where should they do this? In my view it would it be preferable to have the persona consist of a single powerpoint page, what do your think? Like this in this template: https://slidemodel.com/free-powerpoint-templates/free-buyer-persona-template/ We could also provide them with a list of templates? https://slidemodel.com/?s=persona  -->
 ***
 
 ## 1. Overall market research
@@ -76,17 +76,18 @@ Gathering information about what customers might want in a completely new produc
 
 Desk research methods for product development may include:
 <!-- I indent this bullet point list, since it's an ennumeration within of desk research; and desk research is an ennumeration within market research methods.  -->
-        - Analysing industry reports and statistics
 
-        - Reviewing literature and publications related to the industry or product category
+    - Analysing industry reports and statistics
 
-        - Researching competitor's products, pricing
+    - Reviewing literature and publications related to the industry or product category
 
-        - Examining customer reviews and feedback
+    - Researching competitor's products, pricing
 
-        - Analysing data from online marketplaces and social media
+    - Examining customer reviews and feedback
 
-        - Searching for patent and trademark information
+    - Analysing data from online marketplaces and social media
+
+    - Searching for patent and trademark information
 
 Desk research is a cost-effective and efficient way to gather information about a product or market, but it is important to remember that it has its limitations, as the data may not be current or may not represent the whole market. Therefore, it should be combined with primary research methods (such as surveys, interviews, or focus groups) to gain a more complete understanding of the market and customers.
 

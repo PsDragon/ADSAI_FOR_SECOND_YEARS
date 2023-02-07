@@ -29,6 +29,8 @@ For the DataLab preparation (Week 1, Wednesday), you are expected fill in a Micr
 
 <iframe width="1280px" height="960px" src="https://forms.office.com/e/mC96HqGXbM?embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
+If the embedded Microsoft form does not work in your browser, click [here](https://forms.office.com/Pages/ResponsePage.aspx?id=m1gzCjYA6E-oKT7Qkmr4hsCvWaRFpgJJl_TbT_q5NzJUMkJPUjJKSDdNOUtMTFoySTJSTDlBUFA2TS4u)
+
 To avoid multiple submissions, answer the questions that pop up (:pencil:) as you navigate the content below in a text editor of your choice (e.g., Notepad ++, Word, etc.) before entering them into the Microsoft Form. 
 
 Furthermore, the knowledge module Responsible AI introduces quite a bit of new terminology. Please make sure to take notes and reflect on the new terms/concepts/debates that you encounter (:bell:).
@@ -143,7 +145,7 @@ To uncover our implicit biases, we can conduct a little experiment:
 
 :pencil: __3c__ Take the Implicit Bias test by Harvard University, which you can find, [here](https://implicit.harvard.edu/implicit/takeatest.html).
 
-:bell: Implicit Bias test by Harvard University is seen as controversial. Some scholars argue that the test is not valid, and that it is not possible to measure implicit bias. Others argue that the test is valid, and that it is possible to measure implicit bias. You can read more about this debate, [here](https://www.apa.org/monitor/2008/07-08/psychometric). 
+:warning: Implicit Bias test by Harvard University is seen as controversial. Some scholars argue that the test is not valid, and that it is not possible to measure implicit bias. Others argue that the test is valid, and that it is possible to measure implicit bias. You can read more about this debate, [here](https://www.apa.org/monitor/2008/07-08/psychometric). 
 
 :pencil: __3d__ Reflect upon your result of the Implicit Bias test:
 

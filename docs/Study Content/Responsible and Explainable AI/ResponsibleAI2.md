@@ -10,7 +10,7 @@ Today's independent study material focuses on how you as a data professional can
 
 - [ ] Define the terms 'individual fairness', 'group fairness', 'social construct', 'sample', and 'population'.
 - [ ] Explain the difference between 'Fairness Through Awareness, and 'Fairness Through Unawareness'.
-- [ ] Compare, and contrast two philosophical 'worldviews': WAE, and WYSIWIG.
+- [ ] Compare, and contrast two philosophical 'worldviews': WAE, and WYSIWYG.
 - [ ] Compare, and contrast three notions of group fairness in AI: 'interdependence', 'sufficiency', and 'separation'.
 - [ ] Explain how individual fairness and group fairness can conflict with each other.
 
@@ -23,6 +23,8 @@ __Table of contents__
 For the DataLab preparation (Week 1, Friday), you are expected fill in a Microsoft Teams Form called ```DataLab Preparation 2```:
 
 <iframe width="1280x" height="960px" src="https://forms.office.com/e/GxMAUWJRVR?embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+
+If the embedded Microsoft form does not work in your browser, click [here](https://forms.office.com/Pages/ResponsePage.aspx?id=m1gzCjYA6E-oKT7Qkmr4hsCvWaRFpgJJl_TbT_q5NzJUN0ZFNFoxTFVBQVJPR1hRQU5NUFFHU0UyWC4u)
 
 To avoid multiple submissions, answer the questions that pop up (:pencil:) as you navigate the content below in a text editor of your choice (e.g., Notepad ++, Word, etc.) before entering them into the Microsoft Form. 
 

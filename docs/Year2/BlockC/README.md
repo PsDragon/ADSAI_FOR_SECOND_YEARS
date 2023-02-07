@@ -267,43 +267,8 @@ DataLab 2, Prep and Goal(s): Kaggle Team submissions 2
 
 DataLab 1, Prep and Goal(s): Kaggle presentations
 
-DataLab 2, Prep and Goal(s):
+DataLab 2, Prep and Goal(s): Holiday!
 
-## Project Requirements
-Consider each of these task as mandatory to complete your project:
-
-
-
-### BUas Ethics Review
-- Fill in [the template](https://github.com/BredaUniversityADSAI/ADS-AI/blob/28e3a92cda22e9942aa90bb4178cceeaca0eef7f/docs/Study%20Content/Research%20Methodology/Assets/BUas%20Research%20Ethics%20Review%20Application%20Form-H%202022.docx). (ILO 2.1 - Poor)
-- [Submit review and get accepted](https://edubuas.sharepoint.com/sites/researchdevelopment/SitePages/BUas-Research-Ethics-Review-Board.aspx). (ILO 2.1 - Insufficient & Sufficient)
-
-### Research Data Management Plan
-- Follows [BUas guidelines](https://edubuas.sharepoint.com/sites/researchdevelopment/SitePages/Datamanagement.aspx). (ILO 3.1 - Sufficient)
-- Follow your planned procedures as demonstrated by your data storage. (ILO 3.1 - Good)
-- Excecuted procedures ensured adhering to F.A.I.R. principles as demonstrated by your data storage. (ILO 3.1 - Excellent)
-
-### Codebook
-- Fill in [the template](https://github.com/BredaUniversityADSAI/ADS-AI/blob/f020e08818bb64486e784e2447334fb866ee1df9/docs/Study%20Content/Research%20Methodology/Assets/Codebook_Template.md) (ILO 3.1 - Insufficient)
-- Meet the criteria set in the template. (ILO 3.1 - Sufficient, ILO 3.2 - Poor)
-
-***
-
-## Project Deliverable(s)
-
-__Group:__
-
-- ...
-- [BUas Ethics Review](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html#templates)
-- [Research Data Management Plan](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html#templates)
-- [Codebook](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html#templates)
-
-__Individual:__
-- ...
-
-
-
-<mark>For more details, see self-assessment rubric.</mark>
 
 ***
 

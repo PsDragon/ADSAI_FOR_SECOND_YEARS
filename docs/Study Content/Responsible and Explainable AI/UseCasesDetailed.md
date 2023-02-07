@@ -64,6 +64,23 @@ img_to_folder("./data/original/", "./data/dusting/train/")
 
 ```
 
+Lastly, with the code below you can create a .csv file that contains the file name, verb and agent value for each image.
+
+```python
+import pandas as pd
+
+def lists_to_df(dirs_destination, col1_name, col2_name, col3_name):
+    col1 = get_verb_agent('train.json', 'repairing', ['n10787470', 'n10287213'])[0]
+    col2 = get_verb_agent('train.json', 'repairing', ['n10787470', 'n10287213'])[1]
+    col3 = get_verb_agent('train.json', 'repairing', ['n10787470', 'n10287213'])[3]
+    df = pd.DataFrame(list(zip(col1, col2, col3)), columns=[col1_name, col2_name, col3_name])
+    df.to_csv(dirs_destination, index=False)
+    return df
+
+lists_to_df('./data/dusting/train/trainversiontest.csv', 'file_name','verb', 'agent')
+
+```
+
 ## Use-case 4: Write Python functions; group fairness metrics
 
 The goal of this use case is to write Python functions for the group fairness metrics. To pass the unit tests, you need to write a separate Python function for each of the group fairness metrics. The output of the functions should formatted as a list of values. Follow these steps to complete the use case:

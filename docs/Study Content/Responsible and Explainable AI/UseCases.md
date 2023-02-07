@@ -139,7 +139,7 @@ For more information on how to set up the group fairness metric, click [here](ht
 
 ## Use-case 5: Write Python function; group fairness taxonomy 
 
-In this use-case, which is related to the 'Excellent' criteria of ILO 3.1, you will be asked to build, train, and evaluate a binary classification model on its group level fairness by writing a Python function that returns an appropriate fairness metric, and corresponding calculation. To successfully solve this use-case, you will need to use AXA's [The Fairness Compass](https://rb.gy/vze3w3), and the Python functions that you wrote for Use-case 3.
+In this use-case, which is related to the 'Excellent' criteria of ILO 3.1, you will be asked to build, train, and evaluate a binary classification model on its group level fairness by writing a Python function that returns an appropriate fairness metric, and corresponding calculation. To successfully solve this use-case, you will need to use AXA's [The Fairness Compass](https://rb.gy/vze3w3), and the Python functions that you wrote for Use-case 4.
 
 __To solve this use-case, you will need to:__
 

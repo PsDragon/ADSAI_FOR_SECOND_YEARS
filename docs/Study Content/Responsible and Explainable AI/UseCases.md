@@ -9,11 +9,11 @@ sort: 13
 
 ## Responsible AI
 
-The knowledge module Responsible AI consists of two parts: Use-case 1-5 (Topic: Bias and Fairness) are related to the independent study material of Week 1. Use case 6 (Topic: Transparency and Interpretability) is related to the independent study material of Week 6.
+The knowledge module Responsible AI consists of two parts: Use-case 1-5 (Topic: Bias & Fairness) are related to the independent study material of Week 1. Use case 6 (Topic: Transparency & Interpretability) is related to the independent study material of Week 6.
 
 In this project, you will develop an image classifier that is unbiased, transparent, interpretable, and thus, if needed, supports fair decision-making. 
 
-Large, publicly available image datasets, such as ImageNet, Imsitu, Open Images and Conceptual Captions are commonly used to develop and rank image classification algorithms. While these datasets are a necessary and critical part of developing useful machine learning (ML) models, some open-source data may be biased. As patterns in such datasets ultimately decide what an artificial intelligence (AI) model learns and predicts, such bias may lead us to develop models that may not necessarily reflect the true reality or reinforce a reality, which from an ethical viewpoint, is considered undesirable.
+Large, publicly available image datasets, such as ImageNet, Imsitu, Open Images and Conceptual Captions are commonly used to develop and rank image classification algorithms. While these benchmark datasets are a necessary and critical part of developing useful machine learning (ML) models, some open-source data may be biased. As patterns in such datasets ultimately decide what an artificial intelligence (AI) model learns and predicts, such bias may lead us to develop models that may not necessarily reflect the true reality or reinforce a reality, which from certain worldview, is considered undesirable.
 
 For example, the images below show the predictions of a standard deep learning-based image classifier trained to predict if a given image represents a wedding or not. While the AI correctly detects a wedding in the first three images, it fails to do so in the last image. This is a consequence of developing an AI algorithm without being sensitive to biases that might exist in the training data.
 
@@ -114,11 +114,11 @@ In addition, we created two test sets:
 1. 49 images of men dusting, and 49 images of men performing another activity.
 2. 49 images of women dusting, and 49 images of women performing another activity. 
 
-You can find the dusting dataset, [here](https://edubuas.sharepoint.com/:f:/t/FAI1.P2-01Project1BADSAI2022-23copy/Et-Tj9GBa_tLkODGuaG6TfcBY57_FZ6tzPObCeW30cPrrw?e=FSJNKT). 
+You can find the dusting test sets, [here](https://edubuas.sharepoint.com/:f:/t/FAI1.P2-01Project1BADSAI2022-23copy/Et-Tj9GBa_tLkODGuaG6TfcBY57_FZ6tzPObCeW30cPrrw?e=FSJNKT). 
 
 To evaluate the fairness of the binary classification model, we created a confusion matrix for each test set; one for the male agent and another for the female agent.
 
-If our binary classification model contains bias, then the outcomes of the group fairness metrics will be different for the two test sets. In practice, this means that the model will make biased predictions, which in turn may harm individuals by instigating or facilitating an unfair decision-making process. For example, when we use our biased classifier to select images for an advertisement campaign, it may only select images of females dusting, thereby reinforcing the (harmful) stereotype that females are homemakers, and males are breadwinners.
+If our binary classification model contains bias, then the outcomes of the group fairness metrics will be different for the two test sets. In practice, this means that the model will make biased predictions, which in turn may harm individuals or groups in society by instigating or facilitating an unfair decision-making process. For example, when we use our biased classifier to select images for an advertisement campaign, it may only select images of females dusting, thereby reinforcing the (harmful) stereotype that females are homemakers, and males are breadwinners.
 
 __To solve this use-case, you will need to:__
 
@@ -139,7 +139,7 @@ For more information on how to set up the group fairness metric, click [here](ht
 
 ## Use-case 5: Write Python function; group fairness taxonomy 
 
-In this use-case, which is related to the 'Excellent' criteria of ILO 3.1, you will be asked to build, train, and evaluate a binary classification model on its group level fairness by writing a Python function that returns an appropriate fairness metric, and corresponding calculation. To successfully solve this use-case, you will need to use AXA's [The Fairness Compass](https://rb.gy/vze3w3), and the Python functions that you wrote for use-case 3.
+In this use-case, which is related to the 'Excellent' criteria of ILO 3.1, you will be asked to build, train, and evaluate a binary classification model on its group level fairness by writing a Python function that returns an appropriate fairness metric, and corresponding calculation. To successfully solve this use-case, you will need to use AXA's [The Fairness Compass](https://rb.gy/vze3w3), and the Python functions that you wrote for Use-case 3.
 
 __To solve this use-case, you will need to:__
 
@@ -160,7 +160,7 @@ For more information on to create the group fairness taxonomy function, click [h
 
 :yellow_heart::raised_hands::dancer::snake::computer:
 
-If you have come this far, you have now completed the creative brief section for the knowledge module Responsible AI. Congratulations! :tada: :tada: :tada:
+If you have come this far, you have now completed the Creative Brief section for the knowledge module Responsible AI. Congratulations! :tada: :tada: :tada:
 
 :trophy: If you still have time remaining, please have a look at the Medal Challenges!
 
@@ -174,7 +174,7 @@ Start to work on the Responsible AI use-cases as soon as possible. Do not wait u
 
 ## Plagiarism
 
-Please note that plagiarism is a serious offense. You are encouraged to use the internet to help you with your analyses, but you must ensure that you cite your sources. However, if your code, and/or accompanied explanation(s) (e.g.,inline-comments, texts in markdown block, etc.), exactly resembles the code, and/or explanation(s) of another student, you will be reported to the Board of Examiners. You are encouraged to discuss the use-case with your peers, but you must ensure that you write your own code, and provide your own explanation(s). If you are unsure about whether your code, and/or explanation(s) are similar to another student's code, and or explanation(s), please ask your mentor to review your code, and/or other writings.
+Please note that plagiarism is a serious offense. You are encouraged to use the internet to help you with your analyses, but you must ensure that you cite your sources. However, if your code, and/or accompanied explanation(s) (e.g., inline-comments, texts in markdown block, etc.), exactly resembles the code, and/or explanation(s) of another student, you will be reported to the Board of Examiners. You are encouraged to discuss the use-cases with your peers, but you must ensure that you write your own code, and provide your own explanation(s). If you are unsure about whether your code, and/or explanation(s) are similar to another student's code, and or explanation(s), please ask your mentor to review your work. 
 
 ***
 

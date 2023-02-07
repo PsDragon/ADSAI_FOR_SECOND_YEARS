@@ -43,7 +43,7 @@ def get_verb_agent(json_file, verb_custom, agent_custom):
                         continue
     return(file_path, verb_value, agent_key, agent_value, count)
 
-get_verb_agent('train.json', 'repairing', ['n10787470', 'n10287213'])
+get_verb_agent('train.json', 'dusting', ['n10787470', 'n10287213'])
 ```
 
 :bell: You can find the annotations (i.e. train.json, dev.json, test.json, imsitu_space.json) in the [Imsitu Github project repository](https://github.com/my89/imSitu). 
@@ -70,14 +70,14 @@ Lastly, with the code below you can create a .csv file that contains the file na
 import pandas as pd
 
 def lists_to_df(dirs_destination, col1_name, col2_name, col3_name):
-    col1 = get_verb_agent('train.json', 'repairing', ['n10787470', 'n10287213'])[0]
-    col2 = get_verb_agent('train.json', 'repairing', ['n10787470', 'n10287213'])[1]
-    col3 = get_verb_agent('train.json', 'repairing', ['n10787470', 'n10287213'])[3]
+    col1 = get_verb_agent('train.json', 'dusting', ['n10787470', 'n10287213'])[0]
+    col2 = get_verb_agent('train.json', 'dusting', ['n10787470', 'n10287213'])[1]
+    col3 = get_verb_agent('train.json', 'dusting', ['n10787470', 'n10287213'])[3]
     df = pd.DataFrame(list(zip(col1, col2, col3)), columns=[col1_name, col2_name, col3_name])
     df.to_csv(dirs_destination, index=False)
     return df
 
-lists_to_df('./data/dusting/train/trainversiontest.csv', 'file_name','verb', 'agent')
+lists_to_df('./data/dusting/train/dusting_train.csv', 'file_name','verb', 'agent')
 
 ```
 

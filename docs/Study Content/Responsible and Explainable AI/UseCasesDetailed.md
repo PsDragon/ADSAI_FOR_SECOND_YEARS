@@ -7,7 +7,7 @@ In this document, you will find additional information that will help you to get
 
 ## Use-case 3: Create a subset of images from the original dataset
 
-You can either select the images for your subset by searching the Imsitu file directory (in combination with browsing the GUI interface), or you can create a subset through using the dataset's annotation files in. 
+You can either select the images for your subset by searching the Imsitu file directory (in combination with browsing the GUI interface) or you can create a subset through using the dataset's meta data, - i.e., annotation files. 
 
 Before you dive into Imsitu's meta data, determine which activity (i.e. ```verb```) and/or which participating actor, object, substance or location you are interested in (e.g., ```agent```, ```place```, ```item```, etc.). For example, if you want to create a subset containing images of males and females dusting, you would have to find the images where ```agent``` equals ```n10787470``` for 'Woman', and ```n10287213``` for 'Man'. You can look up these codes and corresponding descriptions in the ```imsitu_space.json``` file. Additionally, the ```verb``` for dusting is ```dusting```.
 
@@ -133,13 +133,13 @@ To solve this use-case, you will need to convert AXA's Fairness Compass into an 
 7. Specify a policy or 'worldview'/equal base rates? for your binary classification task.
 8. Determine which evaluation metric is most sensitive to fairness: 
 
-    - [ ] If your intervention is __punitive__ in nature (e.g., determining whom to deny bail), individuals may be harmed by intervening on them in error so you may care more about metrics that focus on False Positives __(Precision: Limit the number of False Negatives)__.
+    - [ ] If your intervention is __punitive__ in nature (e.g., determining whom to deny bail), individuals may be harmed by intervening on them in error so you may care more about metrics that focus on False Positives __(Precision: Limit the number of False Positives)__.
 
-    - [ ] If your intervention is __assistive__ in nature (e.g., determining who should receive a food subsidy), individuals may be harmed by failing to intervene on them when they have need, so you may care more about metrics that focus on False Negatives __(Recall: Limit the number of False Positives)__ ([Source](https://textbook.coleridgeinitiative.org/chap-bias.html#sec:punitiveexample)). 
+    - [ ] If your intervention is __assistive__ in nature (e.g., determining who should receive a food subsidy), individuals may be harmed by failing to intervene on them when they have need, so you may care more about metrics that focus on False Negatives __(Recall: Limit the number of False Negatives)__ ([Source](https://textbook.coleridgeinitiative.org/chap-bias.html#sec:punitiveexample)). 
 
 9. Determine which error is most sensitive to fairness regarding your binary classification task (i.e., False Positives, False Negatives or False Positives and False Negatives). __Important: It depends on the the label you assign to the target variables categories (e.g., positive and negative class)!__
-10. Build an ANN model in Python, using Tensorflow's Keras, that can be used to classify images into two classes (i.e., binary classification task).
-11. Train the binary classification model on the image dataset. You can save the weights of the model to a .h5 file.
+10. Build an ANN model in Python, using Tensorflow's Keras, that can be used to classify data instances into two classes (i.e., binary classification task).
+11. Train the binary classification model on the dataset. You can save the weights of the model to a .h5 file.
 12. Compute the confusion matrices for the protected/sensitive test sets using the weights of the trained model.  
 13. Load the outputs of the confusion matrices for the protected/sensitive attribute test sets into the group fairness taxonomy function.
 14. Load the group fairness metrics you created for __Use-case 4__ into the group fairness taxonomy function. 

@@ -166,11 +166,11 @@ If you have come this far, you have now completed the Creative Brief section for
 
 ## Deliverables
 
-If you are done with the use-cases, you can move on to documentation, ensure that you have saved and committed all your work to Github. Documentation is a very important part of the project, and you will need to ensure that you have a project proposal presentation, a Python script called ```calculate_metrics.py``` and a Jupyter Notebook called ```[student number]_responsible_ai.ipynb```, which clearly communicate your your findings. 
+If you are done with the use-cases, you can move on to documentation, ensure that you have saved and committed all your work to Github. Documentation is a very important part of the project, and you will need to ensure that you have a project proposal presentation, a Python script called ```calculate_metrics.py```, a Jupyter Notebook called ```[student number]_responsible_ai.ipynb```, and a Python script containing the unit test for the group fairness taxonomy function, as is specified in use-case 5. 
 
 :bell: Please, rename the notebook by adding your student number, - e.g., ```12345678_responsible_ai.ipynb```. 
 
-Start to work on the Responsible AI use-cases as soon as possible. Do not wait until Week 8 to start with your project proposal presentation or Jupyter Notebook. You will need to work on the project proposal presentation and Jupyter Notebook in stages.
+Start to work on the Responsible AI use-cases as soon as possible. Do not wait until Week 8 to start with your project proposal presentation, Python scripts, or Jupyter Notebook. You will need to work on the deliverables in stages.
 
 ## Plagiarism
 

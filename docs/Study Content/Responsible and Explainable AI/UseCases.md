@@ -67,11 +67,7 @@ To get started, you can use the [Critical Alphabet](https://criticalalphabet.com
 
 ## Use-case 2: Propose individual fairness method
 
-Unfortunately, most of the current fairness enhancing techniques only apply to tabular data. Our project is focused on image data. Thus, to solve this use-case, which is related to ILO 3.1's 'Insufficient', you have to be creative. One way to mitigate bias is by applying the 'Fairness Through Unawareness' pre-processing method, which basically means that you remove as much 'sensitive' data as possible. Sometimes, you do not want to remove any data instances. For example, when you already have a relatively small dataset. 
-
-:bell: Remember, Artificial Neural Networks (ANNs) generally require a vast amount of training examples! 
-
-Another method to mitigate bias, which does not reduce the size of your dataset, is 'Fairness Through Awareness'. This pre-processing method aims to make the dataset more inclusive (and thus representative) by adding an additional, purposely specified, set of data instances to the dataset. 
+Unfortunately, most of the current fairness enhancing techniques only apply to tabular data. Our project is focused on image data. Thus, to solve this use-case, which is related to ILO 3.1's 'Insufficient', you have to be creative. One way to mitigate bias is by applying the 'Fairness Through Unawareness' pre-processing method, which means removing as much 'sensitive' data as possible. Another method to mitigate bias is 'Fairness Through Awareness'. This pre-processing method aims to make the dataset more inclusive (and thus representative) by adding an additional, purposely specified set of data instances to the dataset or by redistributing the weights of the data instances. 
 
 __To solve this use-case, you will need to:__
 

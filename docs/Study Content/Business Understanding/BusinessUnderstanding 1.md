@@ -78,15 +78,10 @@ Desk research methods for product development may include:
 <!-- I indent this bullet point list, since it's an ennumeration within of desk research; and desk research is an ennumeration within market research methods.  -->
 
     - Analysing industry reports and statistics
-
     - Reviewing literature and publications related to the industry or product category
-
     - Researching competitor's products, pricing
-
     - Examining customer reviews and feedback
-
     - Analysing data from online marketplaces and social media
-
     - Searching for patent and trademark information
 
 Desk research is a cost-effective and efficient way to gather information about a product or market, but it is important to remember that it has its limitations, as the data may not be current or may not represent the whole market. Therefore, it should be combined with primary research methods (such as surveys, interviews, or focus groups) to gain a more complete understanding of the market and customers.

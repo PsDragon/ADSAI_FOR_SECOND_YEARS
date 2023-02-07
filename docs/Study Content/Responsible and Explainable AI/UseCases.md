@@ -9,7 +9,7 @@ sort: 13
 
 ## Responsible AI
 
-The knowledge module Responsible AI consists of two parts: Use-case 1-5 (Topic: Bias and Fairness) are related to the independent study material of Week 1. Use case 6 (Topic: Transparency and Interpretability) is related to the independent study material of Week 7.
+The knowledge module Responsible AI consists of two parts: Use-case 1-5 (Topic: Bias and Fairness) are related to the independent study material of Week 1. Use case 6 (Topic: Transparency and Interpretability) is related to the independent study material of Week 6.
 
 In this project, you will develop an image classifier that is unbiased, transparent, interpretable, and thus, if needed, supports fair decision-making. 
 
@@ -17,7 +17,7 @@ Large, publicly available image datasets, such as ImageNet, Imsitu, Open Images 
 
 For example, the images below show the predictions of a standard deep learning-based image classifier trained to predict if a given image represents a wedding or not. While the AI correctly detects a wedding in the first three images, it fails to do so in the last image. This is a consequence of developing an AI algorithm without being sensitive to biases that might exist in the training data.
 
-<img src="./images/google.png" alt="Open Images bias" width="500">
+<img src="./images/google.PNG" alt="Open Images bias" width="500">
 
 *Figure 2. Open Images bias.*
 
@@ -28,9 +28,9 @@ Here is a table of the use-cases and their description.
 | Use-Case | Description | Dataset | Data Source/Author | Link
 |----------|-------------|-------------|-------------|-------------|
 | 1 | Identify, and describe bias | Full dataset | Imsitu | [clicky](https://edubuas-my.sharepoint.com/:f:/g/personal/blerck_i_buas_nl/EsRz6EuK78hJpPCAsiABZ58BOuy9DpB9mYHRhJNAn-gqXg?e=gOMmnm)
-| 2 | Propose individual fairness method| Full dataset | Imsitu | [clicky](LINK TO RESPONSIBLE_AI.IPYNB)
+| 2 | Propose individual fairness method| Full dataset | Imsitu | [clicky](https://edubuas-my.sharepoint.com/:f:/g/personal/blerck_i_buas_nl/EsRz6EuK78hJpPCAsiABZ58BOuy9DpB9mYHRhJNAn-gqXg?e=gOMmnm)
 | 3 | Create a subset of images from the original dataset | Custom subset | Imsitu | [clicky](https://edubuas-my.sharepoint.com/:f:/g/personal/blerck_i_buas_nl/EsRz6EuK78hJpPCAsiABZ58BOuy9DpB9mYHRhJNAn-gqXg?e=gOMmnm)
-| 4 | Write Python functions; group fairness metrics| Assigned subset | Imsitu, ADS&AI Teaching Team | [clicky](LINK TO DUSTING DATASET IN MICROSOFT TEAMS)
+| 4 | Write Python functions; group fairness metrics| Assigned subset | Imsitu, ADS&AI Teaching Team | [clicky](https://edubuas.sharepoint.com/:f:/t/FAI1.P2-01Project1BADSAI2022-23copy/Et-Tj9GBa_tLkODGuaG6TfcBY57_FZ6tzPObCeW30cPrrw?e=FSJNKT)
 | 5 | Write Python function; group fairness taxonomy  | Custom subset | N.A. | N.A.
 | 6 | Apply one/multiple explainable AI method(s) to the image classifier | Custom subset | Imsitu, You... | N.A.
 
@@ -111,10 +111,10 @@ The teaching teams has trained a binary classification model on a subset of the 
 
 In addition, we created two test sets:
 
-1. 50 images of men dusting, and 50 images of men performing another activity.
-2. 50 images of women dusting, and 50 images of women performing another activity. 
+1. 49 images of men dusting, and 49 images of men performing another activity.
+2. 49 images of women dusting, and 49 images of women performing another activity. 
 
-You can find the dusting dataset, [here](ADD MICROSOFT TEAMS LINK]. 
+You can find the dusting dataset, [here](https://edubuas.sharepoint.com/:f:/t/FAI1.P2-01Project1BADSAI2022-23copy/Et-Tj9GBa_tLkODGuaG6TfcBY57_FZ6tzPObCeW30cPrrw?e=FSJNKT). 
 
 To evaluate the fairness of the binary classification model, we created a confusion matrix for each test set; one for the male agent and another for the female agent.
 
@@ -139,7 +139,7 @@ For more information on how to set up the group fairness metric, click [here](ht
 
 ## Use-case 5: Write Python function; group fairness taxonomy 
 
-In this use-case, which is related to the 'Excellent' criteria of ILO 3.1, you will be asked to build, train, and evaluate a binary classification model on its group level fairness by writing a Python function that returns an appropriate fairness metric, and corresponding calculation. To successfully solve this use-case, you will need to use AXA's [The Fairness cCompass](https://rb.gy/vze3w3), and the Python functions that you wrote for use-case 3.
+In this use-case, which is related to the 'Excellent' criteria of ILO 3.1, you will be asked to build, train, and evaluate a binary classification model on its group level fairness by writing a Python function that returns an appropriate fairness metric, and corresponding calculation. To successfully solve this use-case, you will need to use AXA's [The Fairness Compass](https://rb.gy/vze3w3), and the Python functions that you wrote for use-case 3.
 
 __To solve this use-case, you will need to:__
 

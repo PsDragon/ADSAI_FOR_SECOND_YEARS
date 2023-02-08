@@ -18,35 +18,6 @@ __Good luck!__
 
 ***
 
-## Homework exercises
-
-__1.__ Using the knowledge acquired by reading today's independent study day material, conduct simple market research by answering the following questions:
-<!-- Which reading material is referred to here? Are you referring to section 1? Maybe then this excercise should come after that? -->
-•   What image classifier product/product feature could make customers’ lives easier?​
-
-•	How can I improve my customers' experience?
-
-•	What problem can I alleviate for my customers?
-
-•	What are the unmet needs of my customers?
-
-•	Are current products on the market meeting customers' expectations? If not, what is lacking?
-
-<!-- Very nice to use some statistics to back-up their app ideas! Maybe make it an excercise for them to do and try that? You could for exmaple add the line here: Try to support your answers to the questions above using statistical data; see sources below. Make sure to reference your sources using APA-references. -->
-In case you are not able to find some of the information for a given question, feel free to skip it. The main goal of this exercise is to identify the gap in the market that your application can fill in. 
-
-# Useful resources for market research
-1. [Statista](https://www.statista.com/) - using university login you can access a wide range of information.
-
-2. [Dutch Bureau of Statistics](https://www.cbs.nl/en-gb)
-
-3. [Market Research](https://www.marketresearch.com/browse/)
-
-__2.__ Create a template for your user persona and make sure to upload it to GitHub. 
-
-<!-- Shouldn't they have this assignment in section 2.3? I think letting them create or select their own template would be valuable but where should they do this? In my view it would it be preferable to have the persona consist of a single powerpoint page, what do your think? Like this in this template: https://slidemodel.com/free-powerpoint-templates/free-buyer-persona-template/ We could also provide them with a list of templates? https://slidemodel.com/?s=persona  -->
-***
-
 ## 1. Overall market research
 
 Before proceeding with developing your product, it's essential to conduct some initial research to guide your direction. First, you need to identify pain points in the market that you can address. To do this, consider the following questions:
@@ -61,11 +32,6 @@ Before proceeding with developing your product, it's essential to conduct some i
 
 By answering these questions, you can gain a better understanding of what product or feature would make customers' lives easier and what gaps currently exist in the market. This exploratory research will help you make informed decisions about what direction to take with your new product.
 Gathering information about what customers might want in a completely new product can be a bit challenging, as they may not have an existing frame of reference. However, there are a few methods that can be employed:
-<!-- Which methods are referred to here? I think the reader would expect some ennumeration here -->
-
-By answering these questions, you can gain a better understanding of what product or feature would make customers' lives easier and what gaps currently exist in the market. This exploratory research will help you make informed decisions about what direction to take with your new product.
-Gathering information about what customers might want in a completely new product can be a bit challenging, as they may not have an existing frame of reference. However, there are a few methods that can be employed:
-<!-- This section is double right? Or were you planning to put something else here? -->
 
 •	**Utilize online surveys**: Use survey tools to gather information about customer needs, pain points, and potential solutions for a new product. You can also ask them about what they would like to see in a product that doesn't currently exist.
 <!-- Maybe add some websites where you can find survey results? You could also refer them to qualtrics or google forms and propose those who want to go the extra mile to conduct a small survey -->
@@ -75,7 +41,6 @@ Gathering information about what customers might want in a completely new produc
 •	**Desk research for product development**: Desk research, also known as secondary research, is a type of research that uses existing data and resources to gather information about a specific topic or problem. In product development, desk research is used to gather information about the market, industry, and competition. This type of research allows you to gain a better understanding of the industry landscape, identify trends and gaps in the market, and understand the needs and preferences of your target customers.
 
 Desk research methods for product development may include:
-<!-- I indent this bullet point list, since it's an ennumeration within of desk research; and desk research is an ennumeration within market research methods.  -->
 
     - Analysing industry reports and statistics
     - Reviewing literature and publications related to the industry or product category
@@ -92,7 +57,6 @@ Once you conducted this research, you will be able to come up with an overall id
 
 After you understand the overall needs and wants of your market, you need to dive a bit deeper to create a product that delivers value to customers. For this purpose, a company must identify the specific group of customers it aims to serve. This group, known as the target market, is the consumer profile that the product is designed for. It is crucial to identify the target market early in the product development process so that the product concept can be tailored to meet the needs of that specific group. 
 
-<!-- Created an indented list with bold sections to emphasize the key steps -->
 The process of **identifying a target market involves two steps**:
 - **segmenting the market**; 
 - **targeting a specific group** within that market. 
@@ -100,7 +64,7 @@ The process of **identifying a target market involves two steps**:
 This will be the focus of the second section of today's independent study materials.
 
 ### 2.1 Segmentation
-<!-- added wikipedia link to leads for those who don't know what they are yet; please check if correct. -->
+
 Market segmentation is a commonly used marketing technique for attracting [leads](https://www.wrike.com/marketing-guide/faq/what-is-a-lead-in-marketing/), but it can also be used in the development of new products. By segmenting customers, a business can identify potential buyers for a new product or service, and use this information to inform its market entry strategy. 
 
 Customer segmentation can also be used to uncover new customer needs, which can then be used to develop new products that meet those needs. This approach is more data-driven and can help businesses overcome challenges in product development. With technology advancing rapidly, companies should adopt a customer-focused approach to product development, rather than launching a product and then trying to find customers for it. This method is also recommended for expanding or scaling existing products, as it allows the focus to be on a specific subset of customers. Customer segmentation is key to this approach, and it can give companies a competitive advantage when entering the market.
@@ -153,7 +117,6 @@ There are several different ways to segment a market, including:
 •	Behavioral segmentation: Dividing the market based on how customers interact with a product or service, such as purchase history, loyalty, or usage rate.
 
 Business rarely limits their segmentation analysis to only one or a few variables. Rather, they often use multiple segmentation bases to identify better-defined target groups. 
-<!-- Do students need to select appropriate variables for each construct? Is that done in the datalab? Might be a nice assignment to include after this summeray if not!-->
 
 ### 2.2. Targeting
 
@@ -182,8 +145,36 @@ Answer questions below:
 
 #### Preparation for DataLab 2
 
-Completed homework exercises. Make sure to upload your two tasks to Github.
-<!-- We haven't told the students yet how they are to submit their homework? Do they fill it in into the powerpoint presentation? If in word, maybe best to let them fill it in their Block C notes files (attached to their MS teams assignment? -->
+Completed homework exercises mentioned below. Make sure to upload your two tasks to Github.
+
+## Homework exercises
+
+__1.__ Using the knowledge acquired by reading today's independent study day material, conduct simple market research by answering the following questions:
+
+•   What image classifier product/product feature could make customers’ lives easier?​
+
+•	How can I improve my customers' experience?
+
+•	What problem can I alleviate for my customers?
+
+•	What are the unmet needs of my customers?
+
+•	Are current products on the market meeting customers' expectations? If not, what is lacking?
+
+__Try to support your answers to the questions above using statistical data; see sources below. Make sure to reference your sources using APA-references.__
+
+In case you are not able to find some of the information for a given question, feel free to skip it. The main goal of this exercise is to identify the gap in the market that your application can fill in. 
+
+# Useful resources for market research
+1. [Statista](https://www.statista.com/) - using university login you can access a wide range of information.
+
+2. [Dutch Bureau of Statistics](https://www.cbs.nl/en-gb)
+
+3. [Market Research](https://www.marketresearch.com/browse/)
+
+__2.__ Create a template for your user persona using __Microsoft PowerPoint__ and make sure to upload it to GitHub. 
+
+***
 
 ## Literature
 

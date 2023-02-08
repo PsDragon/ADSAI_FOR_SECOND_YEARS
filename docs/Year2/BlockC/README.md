@@ -204,6 +204,8 @@ Study the following:
 
 **DataLab 2: Logistic regression**
 
+[<img src="./images/githubbadge.png" alt="GitHub" width="15%"/>](https://github.com/BredaUniversityADSAI/2022-23-Y2-BlockC/blob/main/DataLabs/W2-DL2/W2-DL2-Logistic-Regression-Student-Notebook.ipynb)
+
 After this datalab, you will be able to:
 
 - [ ] Construct input features from a frequency distribution table

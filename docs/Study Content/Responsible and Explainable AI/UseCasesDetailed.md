@@ -48,6 +48,30 @@ get_verb_agent('train.json', 'dusting', ['n10787470', 'n10287213'])
 
 :bell: You can find the annotations (i.e. train.json, dev.json, test.json, imsitu_space.json) in the [Imsitu Github project repository](https://github.com/my89/imSitu). 
 
+You can also use this code as a starting point to determine which ```agent``` codes are associated with which ```nouns```:
+    
+```python
+import json
+
+# load imsitu_space.json file
+imsitu_space = json.load(open("imsitu_space.json"))
+
+nouns = imsitu_space["nouns"]
+verbs = imsitu_space["verbs"]
+
+# function to get all agent codes for a specific agent/noun
+def get_agent_codes(agent = "person"):
+    for noun in nouns:
+        if nouns[noun]['gloss'][0] == agent:
+            print(f"{agent} found")
+            print(noun)
+
+# get all agent codes for men (use your own nouns here)
+get_agent_codes("man")
+```
+
+*Note: This code is a starting point. You should modify it as you see fit. In its current form, it does not take into account that there are multiple ```nouns``` for each ```agent```. For example, ```n10787470``` is associated with both ```young woman``` and ```girl```. It also does not account for partial matches, among other limitations.*
+
 Next, we want to select the images that contain the predefined ```verb``` and ```agent``` values, and store them in a new folder. You need to create one folder for each combination of the ```verb``` and ```agent``` value; one for females dusting, and another for males dusting.
 
 ```python

@@ -46,8 +46,7 @@ Based on gathered knowledge from the conducted market research, explain your fir
 
 - [ ] Step 3
 
-Start filling in the AI Canvas. 
-<!-- Where do they fill-in the AI Canvas? In their project proposal powerpoint template right? Maybe specify here where or how exactly -->
+Start filling in the AI Canvas using your project proposal PowerPoint template.
 
 ![AI Canvas](https://wearebrain.com/blog/app/uploads/2020/11/AI-Canvas-1024x496.png)
 *Figure 1. AI Canvas*
@@ -75,9 +74,7 @@ Within the persona, make sure to explain the value your application will create 
 
     - [ ] Adjust your project proposal for the computer vision application based on created persona. The adjusted project proposal should be based on the satisfaction of needs of your consumer which were identified during the creation of the persona. Personal features of your persona should be taken into consideration too. For example, if you find out that your end-users are not tech-savvy and relatively old; you might propose to create a computer vision application that is extremely user-friendly and self-explanatory. Therefore, you need to make your project proposal for the computer vision application as consumer-oriented as possible, keeping in mind all the personal features and needs of your persona. 
 
-    - [ ] Explain the decision-making context of improving your project proposal based on all 4 steps above.
-
-<!-- Replace 'for the computer vision application' with 'based on all 4 steps above'. Or maybe 'based on your complete target audience research'? -->
+    - [ ] Explain the decision-making context of improving your project proposal for the computer vision application based on all 4 steps above.
 
 __Use-case 3__
 

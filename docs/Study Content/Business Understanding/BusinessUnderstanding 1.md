@@ -34,7 +34,6 @@ By answering these questions, you can gain a better understanding of what produc
 Gathering information about what customers might want in a completely new product can be a bit challenging, as they may not have an existing frame of reference. However, there are a few methods that can be employed:
 
 •	**Utilize online surveys**: Use survey tools to gather information about customer needs, pain points, and potential solutions for a new product. You can also ask them about what they would like to see in a product that doesn't currently exist.
-<!-- Maybe add some websites where you can find survey results? You could also refer them to qualtrics or google forms and propose those who want to go the extra mile to conduct a small survey -->
 
 •	**Monitor social media**: Check social media accounts of similar products/industries to monitor conversations about similar products or related topics, to identify common issues and potential solutions for a new product.
 
@@ -95,10 +94,9 @@ The video below explains the market segmentation:
 
 *Video 1. 'Market Segmentation | How Gymshark use Market Segmentation Explained' by Two Teachers.*
 
-Please answer the following questions:
+Please answer the following questions using knowledge acquired after watching the video: 
 
-1.	What are main variables to segment consumer markets?
-<!-- Do you mean the main variables (age, income etc.) specific to the students consumer market? You are talking about: demographics, ..., behavioural, ? Those would technically be 'overarching variable types' and are referred to as 'constructs' within data science; see link below. Shall we call them constructs and link them like this: [constructs](https://www.statisticssolutions.com/understanding-the-differences-between-constructs-variables-and-operational-definitions/#:~:text=Constructs%20are%20broad%20concepts%20or,include%20intelligence%20or%20life%20satisfaction.) -->
+1.	What are the main variables to segment consumer markets?
 
 2.	What are benefits and drawbacks of market segmentation?
 
@@ -121,7 +119,6 @@ Business rarely limits their segmentation analysis to only one or a few variable
 ### 2.2. Targeting
 
 Once a market has been segmented, a company can evaluate each segment to determine its size, growth potential, and overall attractiveness as a target market. The company can then select one or more segments to target with tailored products, services. By targeting specific segments of the market when developing new products or services, companies can increase the chances of success by creating products that are better suited to the needs and preferences of the target customers.
-<!-- Maybe here they should argue which segment(s) is most important; the focus, and identify which segments are also interesting but not the main focus? -->
 
 ### 2.3. Persona
 
@@ -171,6 +168,16 @@ In case you are not able to find some of the information for a given question, f
 2. [Dutch Bureau of Statistics](https://www.cbs.nl/en-gb)
 
 3. [Market Research](https://www.marketresearch.com/browse/)
+
+4. [data.world](https://data.world/datasets/survey)
+
+You can also gather data yourself by conducting small market research. For this purpose, you can use the following software. 
+
+1. [Surveymonkey](https://www.surveymonkey.com/welcome/sem/?program=7013A000000mweBQAQ&utm_bu=CR&utm_campaign=71700000059184846&utm_adgroup=58700005410221930&utm_content=43700049188946192&utm_medium=cpc&utm_source=adwords&utm_term=p49188946192&utm_kxconfid=s4bvpi0ju&language=&test=&gclid=CjwKCAiArY2fBhB9EiwAWqHK6o72Nklh1Mc2qLcA-zQQuBxJRo792iy_kpl75G_yrK5km7TVh5c5GxoCLakQAvD_BwE&gclsrc=aw.ds)
+
+2. [Google Forms](https://www.google.com/forms/about/)
+
+3. [Qualtrics](https://www.qualtrics.com/uk/lp/students/)
 
 __2.__ Create a template for your user persona using __Microsoft PowerPoint__ and make sure to upload it to GitHub. 
 

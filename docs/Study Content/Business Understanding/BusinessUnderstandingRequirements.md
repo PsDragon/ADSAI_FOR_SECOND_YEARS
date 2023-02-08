@@ -12,8 +12,6 @@ For more information on the module, please refer to the Assessment Rubric (ILO 1
 
 Please check the assessment rubric and note the requirements below: 
 
-<!-- Maybe add here that they should use these requirements as a check-list to review whether they have covered all the essential points? Especially when reviewing their work for business understanding in week 8? -->
-
 - [ ] Conduct research on market needs. 
 
 - [ ] Create your first project proposal for an application based on the market needs and start feeling in the AI canvas.
@@ -28,12 +26,10 @@ Please check the assessment rubric and note the requirements below:
 
 - [ ] Complete the AI canvas.
 
-
+__You should use these requirements as a check-list to review whether you have covered all the essential points?__
 
 ## __Deliverable(s):__
 
 All the information mentioned above needs to be in __the final presentation__; both the powerpoint file in your Microsoft Teams Assignment and actual presentation you give in week 9. Additional information that you find important can be shared in the block C notes file in your Microsoft Teams Assignment.
-
-<!-- Added: 'both the powerpoint file in your Microsoft Teams Assignment and actual presentation you give in week 9' -->
 
 ***

@@ -1,20 +1,18 @@
 ---
 sort: 2
 ---
-<!-- Made this the second page and the requirments the 3rd page; both were page 3 before -->
 
 # __Use-cases: Business Understanding__
 
 In **today's data lab**, we will work on the Business Understanding use-cases. Use-cases 1 (Topic: Market research) and 2 (Topic: Target audience analysis) are related to the independent study material of Week 1. Use-case 3 (Topic: Disruptive technology risks) is related to the lecture provided during the DataLab week 7, Friday.
-<!-- Maybe worthwile to tell them to keep iterating on their project proposal throughout the block as they keep building their model, doing XAI and designing their application? -->
 
+__Please make sure to keep improving your project proposal based on the insights acquired within the business understanding part as you keep building the model, doing XAI and designing the application.__
 
 ## Use-cases
 
 It doesn't matter what you develop, it is important that your product delivers value to your end user. It is also important that your product doesn't cause any risks (or minimal risks). Therefore, the main focus of ILO 1.0 is to acquire knowledge on the development of the client-oriented product and the disruptive technology risks involved.  
 
-In order to get a sufficient, you need to complete the entire use-case 2, for good you need to finish step 1 of use-case 3 and for excellent you are required to finish all the use-cases. 
-<!-- Don't they also need to complete use-case 1 for a sufficient? Or where do they complete that for?-->
+In order to get a sufficient, you need to complete the entire use-cases 1 & 2, for good you need to finish step 1 of use-case 3 and for excellent you are required to finish all the use-cases. 
 
 __Use-case 1__
 
@@ -36,13 +34,11 @@ During the independent study day (link) you were asked to conduct simple market 
 
 - [ ] Are current products on the market meeting customers' expectations? If not, what is lacking?
 
-
 In case you didn’t answer these questions, please do so now. In case you did then you can begin with the step 2 of the use-case 1.
 
 - [ ] Step 2
 
 Based on gathered knowledge from the conducted market research, explain your first idea for a project proposal for an application.  
-<!-- Maybe here we can let them diverge: come up with multiple ideas for their project proposal but at least 1: https://adsai.buas.nl/Study%20Content/Human-Centered%20Artificial%20Intelligence/Interaction_Information_Processing_Fundamentals.html#divergent---convergent-processes -->
 
 - [ ] Step 3
 
@@ -86,8 +82,7 @@ __To solve this use-case, you will need to:__
 
     - Attend the lecture on disruptive technologies and, using __disruptive technology risks from the lecture slides__; identify/explain risks that applicable for your computer vision application.
     - identify/explain risks that applicable for your computer vision application.
-<!-- Maybe mentoin the framework of taxonomy of distruptive technology risks; that they need to identify the type of risk. And maybe, instead of in step 2, already tell them to already fill the project proposal presentation template in straightaway? Or would you prefer them to first do it using their note file for example? -->
-
+    - fill the project proposal presentation. 
 
 - [ ] Step 2.
  

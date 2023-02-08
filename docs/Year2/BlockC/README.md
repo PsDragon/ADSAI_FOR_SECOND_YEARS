@@ -138,6 +138,8 @@ After this datalab, you will be able to:
 
 **Self-study**
 
+Complete the course [Regular Expression in Python](https://app.datacamp.com/learn/courses/regular-expressions-in-python).
+
 Study the following:
 
 - Speech and Language Processing/Chapter 2

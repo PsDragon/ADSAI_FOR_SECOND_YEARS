@@ -22,7 +22,7 @@ __To solve this use-case, you will need to:__
 
 - [ ] Step 1
 
-During the independent study day (link) you were asked to conduct simple market research by answering the following questions:
+During the independent [study day](https://adsai.buas.nl/Study%20Content/Business%20Understanding/BusinessUnderstanding%201.html) you were asked to conduct simple market research by answering the following questions:
 
 - [ ]	What classifier product/product feature could make customers’ lives easier?
 
@@ -68,9 +68,9 @@ Within the persona, make sure to explain the value your application will create 
 
 - [ ] Step 4
 
-    - [ ] Adjust your project proposal for the computer vision application based on created persona. The adjusted project proposal should be based on the satisfaction of needs of your consumer which were identified during the creation of the persona. Personal features of your persona should be taken into consideration too. For example, if you find out that your end-users are not tech-savvy and relatively old; you might propose to create a computer vision application that is extremely user-friendly and self-explanatory. Therefore, you need to make your project proposal for the computer vision application as consumer-oriented as possible, keeping in mind all the personal features and needs of your persona. 
+- [ ] Adjust your project proposal for the computer vision application based on created persona. The adjusted project proposal should be based on the satisfaction of needs of your consumer which were identified during the creation of the persona. Personal features of your persona should be taken into consideration too. For example, if you find out that your end-users are not tech-savvy and relatively old; you might propose to create a computer vision application that is extremely user-friendly and self-explanatory. Therefore, you need to make your project proposal for the computer vision application as consumer-oriented as possible, keeping in mind all the personal features and needs of your persona. 
 
-    - [ ] Explain the decision-making context of improving your project proposal for the computer vision application based on all 4 steps above.
+- [ ] Explain the decision-making context of improving your project proposal for the computer vision application based on all 4 steps above.
 
 __Use-case 3__
 

@@ -92,7 +92,7 @@ The video below explains the market segmentation:
 </figure>
 <!-- blank line -->
 
-*Video 1. 'Market Segmentation | How Gymshark use Market Segmentation Explained' by Two Teachers.*
+*Video 1. 'Market Segmentation. How Gymshark use Market Segmentation Explained' by Two Teachers.*
 
 Please answer the following questions using knowledge acquired after watching the video: 
 
@@ -140,9 +140,9 @@ Answer questions below:
 1.	Why do you need user personas?
 2.	What do you need to mention in user personas?
 
-#### Preparation for DataLab 2
+# Preparation for DataLab 2
 
-Completed homework exercises mentioned below. Make sure to upload your two tasks to Github.
+Completed homework exercises mentioned below. Make sure to upload your two tasks to GitHub.
 
 ## Homework exercises
 
@@ -162,7 +162,9 @@ __Try to support your answers to the questions above using statistical data; see
 
 In case you are not able to find some of the information for a given question, feel free to skip it. The main goal of this exercise is to identify the gap in the market that your application can fill in. 
 
-# Useful resources for market research
+__2.__ Create a template for your user persona using __Microsoft PowerPoint__ and make sure to upload it to GitHub. 
+
+### Useful resources for market research
 1. [Statista](https://www.statista.com/) - using university login you can access a wide range of information.
 
 2. [Dutch Bureau of Statistics](https://www.cbs.nl/en-gb)
@@ -178,8 +180,6 @@ You can also gather data yourself by conducting small market research. For this 
 2. [Google Forms](https://www.google.com/forms/about/)
 
 3. [Qualtrics](https://www.qualtrics.com/uk/lp/students/)
-
-__2.__ Create a template for your user persona using __Microsoft PowerPoint__ and make sure to upload it to GitHub. 
 
 ***
 

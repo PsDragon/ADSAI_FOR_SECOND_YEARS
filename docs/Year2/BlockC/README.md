@@ -158,7 +158,6 @@ Study the following:
 
 [<img src="./images/githubbadge.png" alt="GitHub" width="15%"/>](https://github.com/BredaUniversityADSAI/2022-23-Y2-BlockC/tree/main/DataLabs/W1-DL2)
 
-
 After this datalab, you will be able to:
 
 - [ ] Use regular expressions for text pre-processing
@@ -169,7 +168,7 @@ After this datalab, you will be able to:
 
 ### Week 2
 
-So far you have learned how to preprocess text. This week you will learn about two NLP algorithms and construct your first models. You will use skills you acquired last week to prepare the datasets for training these models.
+So far you have learned how to preprocess text. This week you will learn about two NLP algorithms and construct your first models. You will use the skills you acquired last week to prepare the datasets for training these models.
 
 **Self-study**
 
@@ -210,21 +209,11 @@ After this datalab, you will be able to:
 
 - [ ] Construct input features from a frequency distribution table
 - [ ] Train a logistic regression model on the features you created
-- [ ] Compare the effects of different preprocessing steps to the model performance
+- [ ] Design new features
 
 __Formative feedback I__
  
 ### Week 3
-
-Last week you have learned developing your first NLP models. This week you will start competing on Kaggle using the algorithms you have learned.
-
-DataLab 1, Goal(s):
-- [ ] Kaggle
-
-DataLab 2, Goal(s):
-- [ ] Embeddings
-
-### Week 4
 
 **Cognitive Models of Language Learning**
 
@@ -241,6 +230,16 @@ Self-Study, datalab prep:
 DataLab 2, Goal(s):
 [] Elaborate on: [Flowchart: Cognitve model of language learning](link)
 [] Optional Excellent: [Create computational model of language learning](link)
+
+### Week 4
+
+In weeks 1 and 2, you learned how to preprocess text data and develop language models. This week you will start competing on Kaggle using the algorithms you have learned.
+
+DataLab 1, Goal(s):
+- [ ] Kaggle
+
+DataLab 2, Goal(s):
+- [ ] Embeddings
 
 
 __Formative feedback II__

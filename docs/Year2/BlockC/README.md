@@ -235,8 +235,21 @@ DataLab 2, Goal(s):
 
 In weeks 1 and 2, you learned how to preprocess text data and develop language models. This week you will start competing on Kaggle using the algorithms you have learned.
 
-DataLab 1, Goal(s):
-- [ ] Kaggle
+DataLab 1: Kaggle
+
+1. Sign up to Kaggle. Setup your Kaggle profile by providing your name, profile picture, location and occupation. You can also add your LinkedIn, Github. If you can create a good looking profile, you can include it in your CV. Please remember that Kaggle only allows one profile per user.
+2. Check the [Kaggle Progression System](https://www.kaggle.com/progression/) and aim for becoming a contributor before the this week.
+3. Join the competition [NLP with disaster tweets](https://www.kaggle.com/competitions/nlp-getting-started).
+4. On the competition page, you will see different tabs such as `Overview`, `Data`, and `Code`.Take a look at all of them.
+5. Edit your name under the `Team` tab to include (BUas) so that I can find your submissions.
+6. Under the `Data` tab click `Download All`.
+7. Inside the downloaded folder you will find `test.csv` and `train.csv`. You will see another file named `sample_submission.csv` which shows you what is the expected format for your predictions.
+8. Go back to the competition page and click on `Submit Predictions` and submit the `sample_submission.csv` to the competition.
+9. Congrats! You created your Kaggle account, joined the competition and made your first submission. Now it is time to compete :)
+10. Open your favorite IDE, load `train.csv` and `test.csv` and start building your models. Preprocess the data as you have learned on Week 1. Make two submissions, one with a Naive Bayes algorithm and one with a Logistic Regression algorithm, as you have learned on Week 2.
+11. For more details on how Kaggle works, read the [docs](https://www.kaggle.com/docs).
+12. Finally and most importantly, do not cheat! Cheating is not taken lightly on Kaggle. You can be banned.
+
 
 DataLab 2, Goal(s):
 - [ ] Embeddings

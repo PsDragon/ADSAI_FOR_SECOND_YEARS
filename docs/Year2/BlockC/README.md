@@ -235,7 +235,7 @@ DataLab 2, Goal(s):
 
 In weeks 1 and 2, you learned how to preprocess text data and develop language models. This week you will start competing on Kaggle using the algorithms you have learned.
 
-DataLab 1: Kaggle
+**Self-study**
 
 1. Sign up to Kaggle. Setup your Kaggle profile by providing your name, profile picture, location and occupation. You can also add your LinkedIn and Github profiles. If you have a well prepared profile, you can include it in your CV. Please remember that Kaggle only allows one profile per user.
 2. Check the [Kaggle Progression System](https://www.kaggle.com/progression/) and aim to become a contributor before the end of this week. Being a contributor will give you access to additional features.
@@ -245,11 +245,19 @@ DataLab 1: Kaggle
 6. Under the `Data` tab, click `Download All`.
 7. Inside the downloaded folder, you will find `test.csv` and `train.csv`. You will see another file named `sample_submission.csv` which shows you the expected format for your predictions.
 8. Go back to the competition page. Click on `Submit Predictions` and submit the `sample_submission.csv` to the competition.
-9. Congrats! You created your Kaggle account, joined the competition, and made your first submission. Now it is time to compete :trophy:
-10. Open your favorite IDE, load `train.csv` and `test.csv`, and start building your models. Preprocess the data as you have learned on Week 1. Make two submissions, one with a Naive Bayes model and one with a Logistic Regression model, as you have learned on Week 2.
+9. Log your submission to the excel file `Kaggle-Y2C_2022-23_ADSAI` under your Teams assignment.
+10. Congrats! You created your Kaggle account, joined the competition, and made your first submission. You are ready to compete :trophy:
 11. For more details on how Kaggle works, read the [docs](https://www.kaggle.com/docs).
 12. Finally and most importantly, do not cheat! Cheating is not taken lightly on Kaggle. You can be banned.
 
+**DataLab 1: Kaggle**
+
+Open your favorite IDE, load `train.csv` and `test.csv`, and start building your models. Preprocess the data as you have learned on Week 1. Make at least two submissions, one with a Naive Bayes model and one with a Logistic Regression model, as you have learned on Week 2. Log your submissions to `Kaggle-Y2C_2022-23_ADSAI`.
+
+After this datalab, you will be able to:
+
+- [ ] Compete at Kaggle
+- [ ] Build language models for Kaggle
 
 DataLab 2, Goal(s):
 - [ ] Embeddings

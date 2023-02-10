@@ -120,7 +120,9 @@ The goal of this use case is to write Python functions for the group fairness me
 ><br><span style="color:green">Demographic parity</span>: 'The proportion of predicted positives should be equal across sensitive/protective groups'. <br> <br>
 <span style="color:green">Demographic parity is satisfied when their base rates are the same; 50 images depict homosexual couples, and 100 images depict heterosexual couples (i.e., the favorable outcome should be assigned to each group of a sensitive/protective attribute at equal rates).</span> <br> <br>
 
-This function returns a list of values formatted as follows: ```[Demographic parity unprivileged group, Demographic parity privileged group, Absolute difference of Demographic Parity between unprivileged and privileged group]``` 
+This function returns a list of values formatted as follows: ```[Demographic parity privileged group, Demographic parity unprivileged group, Absolute difference of Demographic Parity between unprivileged and privileged group]```
+
+:warning: Notice that for Demographic Parity the privileged group is returned first, and the unprivileged group second. For the other group fairness metrics, the unprivileged group is returned first, and the privileged group second. 
 
 - [ ] Equal Selection Parity
 

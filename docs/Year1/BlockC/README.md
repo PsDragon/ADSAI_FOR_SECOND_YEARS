@@ -98,7 +98,7 @@ Below you will find the timeline on a day-to-day basis. Further down, there is i
 - [DataLab: Market Research](https://adsai.buas.nl/Study%20Content/Business%20Understanding/BusinessUnderstandingUseCases.html)
 
 - [DataLab: Responsible AI](https://adsai.buas.nl/Study%20Content/Responsible%20and%20Explainable%20AI/UseCases.html)
-- [ ] Feedback Session
+
 
 # Week 2: PoC - Introduction to Deep Learning with Keras
 
@@ -120,7 +120,7 @@ Below you will find the timeline on a day-to-day basis. Further down, there is i
 
 ## Friday
 - [DataLab: Multilayer Perceptrons 2](https://adsai.buas.nl/Study%20Content/DeepLearning/5.%20DataLab%20MLP.html)
-
+- [ ] Feedback Session
 
 ---
 # Sprint/Carnaval Holidays

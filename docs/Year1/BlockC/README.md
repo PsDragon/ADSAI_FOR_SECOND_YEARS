@@ -1,4 +1,4 @@
-# Block C - Data Modelling
+# Block C - Data Modelling (2021 - 2022: OLD Material!)
 
 In block A, you explored the foundations of data science and AI and critically examined applications thereof. In block B, you went a step further and helped a real-life client to gain insight into their data by applying various preprocessing and machine learning methods. 
 

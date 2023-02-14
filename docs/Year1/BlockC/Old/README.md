@@ -1,4 +1,4 @@
-# Block C - Data Modelling
+# Block C - Data Modelling (2021 - 2022: OLD Material!)
 
 In block A, you explored various themes around digital transformation and critically examined applications of AI and digital technologies to existing businesses processes. In block B, you went a step further and helped a real-life client get more insight out of their data using data science tools to pre-process and get insight out of data. In this block, you will take on a more hands-on approach towards data modelling data using tools such as deep learning. In particular, this block will focus on key aspects of **the modelling phase of a data science project lifecycle** such as deep learning, explainable and responsible artificial intelligence (AI), and human-centered design
 

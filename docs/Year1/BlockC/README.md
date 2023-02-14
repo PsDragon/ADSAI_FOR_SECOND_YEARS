@@ -120,7 +120,8 @@ Below you will find the timeline on a day-to-day basis. Further down, there is i
 
 ## Friday
 - [DataLab: Multilayer Perceptrons 2](https://adsai.buas.nl/Study%20Content/DeepLearning/5.%20DataLab%20MLP.html)
-- [ ] Feedback Session
+- [ ] 10:00 Feedback Session
+- [ ] 15:30 Guest Lecture: "A Day in the life of.."
 
 ---
 # Sprint/Carnaval Holidays

@@ -205,13 +205,14 @@ Study the following:
 
 [<img src="./images/githubbadge.png" alt="GitHub" width="15%"/>](https://github.com/BredaUniversityADSAI/2022-23-Y2-BlockC/blob/main/DataLabs/W2-DL2/W2-DL2-Logistic-Regression-Student-Notebook.ipynb)
 
+- 10:00 Feedback Session
+- 15:30 Guest Lecture: "A Day in the life of.." by Santiago Villa Cardenas, venue Fe1.016.
+
 After this datalab, you will be able to:
 
 - [ ] Construct input features from a frequency distribution table
 - [ ] Train a logistic regression model on the features you created
 - [ ] Design new features
-
-__Formative feedback I__
  
 ### Week 3
 

@@ -260,9 +260,26 @@ After this datalab, you will be able to:
 - [ ] Compete at Kaggle
 - [ ] Build language models for Kaggle
 
-DataLab 2, Goal(s):
-- [ ] Embeddings
+**Self-study**
 
+Study the following:
+
+- Speech and Language Processing
+    - Chapter 6/Vector Semantics and Embeddings
+
+Note!!
+In the next DataLab on Embeddings you will build a neural network with Keras. If you need a refresher on Keras, please complete the following course:
+[Introduction to Deep Learning with Keras](https://app.datacamp.com/learn/courses/introduction-to-deep-learning-with-keras)
+
+**DataLab 2: Embeddings**
+
+[<img src="./images/githubbadge.png" alt="GitHub" width="15%"/>](https://github.com/BredaUniversityADSAI/2022-23-Y2-BlockC/blob/main/DataLabs/W4-DL2/W4-DL2-Embeddings-Student-Notebook.ipynb)
+
+After this datalab, you will be able to:
+
+- [ ] Build models that capture the semantic properties of language
+- [ ] Understand embeddings
+- [ ] Build neural networks with embedding layers
 
 __Formative feedback II__
 

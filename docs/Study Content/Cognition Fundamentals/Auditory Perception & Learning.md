@@ -2,8 +2,8 @@
 sort: 7
 ---
 
-# Auditory Perception & Learning - Workshop
-Just what is the difference between sensing and perceiving? And how does vision actually work? What does perception even mean? What's the difference between seeing something and making sense of it? And how do we memorize and learn all of that? Today we're going to answer all of these questions!
+# Auditory Perception & Learning - Self-Study Day
+Just what is the difference between sensing and perceiving? And how does hearing actually work? What's the difference between hearing something and making sense of it? And how do we memorize and learn all of that? Today we're going to start answering all of these questions!
 
 Then, we're going to apply these concepts to creating a perceptual model of human cognitive vision; how a human would see our bin-picking task. So we're going to place ourselves in the shoes of the robot, fill in the template and then elaborate on it by doing some research into human cognitive vision! 
 Seeing and perceiving however is not enough, humans will also need to remember, relate and contextualize what it sees in order to decide what to do. So after defining our model of human cognitive vision, we're going to learn about the human memory and where how reinforcement learning works!
@@ -17,21 +17,36 @@ Finally, we're going to translate our cognitive model of human vision and memory
 4.	Identifiy relevant real-world input required for situational awareness & reinforcement learning.
 5.	Identify cognitive processes used to process relevant real-world input required for situational awareness & reinforcement learning.
 
-## Today's Schedule:
-9:00 - 10:00: Introduction to cognition
-- Lecture (afterwards 20-min break)
-10:00 - 12:30: Perception
-- Lecture (afterwards 20-min break)
-- Tutorial: Create a flowchart for perceptual processing of sensory information for your robot!
-13:30 - 13:30 Lunch
-13:30 - 16:00 Learning
-- Lecture (afterwards 20-min break)
-- Tutorial: Create a flowchart for information; encoded perceptions, processing (a.k.a. learning) for your robot!
-16:00 - 17:00 Wrap-up/If we run late
 
-## Kick-off - Introduction to Cognitive Science Fundamentals
-Live lecture which is given on the 17th of November from 9:00 till 10:00 with a 20 min break. Take a look at your timetable to see where and when exactly the lecture takes place! If you can't wait, [here are the slides already](https://github.com/BredaUniversityADSAI/ADS-AI/blob/ba08eaff3a1f5c036abab9a5d1bdd729ad861bc9/docs/Study%20Content/Cognition%20Fundamentals/assets/lectures/Cognition%20Fundamentals%20-%20Introduction.pptx) but after the lecture, there should be [a recording available here!](https://edubuas-my.sharepoint.com/:v:/g/personal/heijligers_b_buas_nl/EWDEijXTyr5KghOgLR9wx6MBZ8Fwzfjv_Vt9nxDXnTwESQ?e=FlZQJs)
 
+## Introduction to Auditory Perception 
+The human auditory system is a complex system responsible for the sense of hearing. It consists of several components that work together to detect, process, and interpret sound waves.
+
+The auditory system can be divided into three main components: the outer ear, the middle ear, and the inner ear. Let's take a closer look at each component:
+
+<img src="./assets/HumanAuditorySystem.png" alt="HumanAuditorySystem" width="900"/>
+*Figure 1. Overview of the human auditory system.*
+
+Outer ear: The outer ear is the visible portion of the ear, known as the pinna, and the ear canal. The pinna is responsible for capturing sound waves in the environment and funneling them into the ear canal. The ear canal then directs the sound waves towards the eardrum, which is located at the end of the canal.
+
+Middle ear: The middle ear is a small, air-filled chamber that is separated from the outer ear by the eardrum. When sound waves reach the eardrum, they cause it to vibrate. These vibrations are then transmitted through three small bones in the middle ear, called the ossicles, which amplify the sound waves and transmit them to the inner ear. The ossicles are composed of the malleus (hammer), incus (anvil), and stapes (stirrup).
+
+The middle ear also contains the Eustachian tube, which connects the middle ear to the back of the throat. This tube helps equalize air pressure between the middle ear and the environment, which is important for maintaining proper functioning of the eardrum and ossicles.
+
+Inner ear: The inner ear is a complex system of fluid-filled chambers that are responsible for converting sound waves into electrical signals that can be interpreted by the brain. The inner ear is made up of two main structures: the cochlea and the vestibular system.
+The cochlea is a snail-shaped structure that is responsible for converting sound waves into electrical signals. It contains tiny hair cells that are arranged along the length of the cochlea. When sound waves enter the cochlea, they cause the fluid inside to move, which in turn causes the hair cells to bend. This bending generates electrical signals, which are then transmitted to the brain via the auditory nerve.
+
+<img src="./assets/Cochlea.png" alt="Cochlea" width="900"/>
+*Figure 2. A closer look a the cochlea.*
+
+The vestibular system is responsible for detecting changes in head position and movement, and it helps us maintain our balance. It contains three semicircular canals that are filled with fluid and lined with hair cells. When the head moves, the fluid in the canals also moves, which in turn causes the hair cells to bend. This bending generates electrical signals that are transmitted to the brain via the vestibular nerve.
+
+Finally, the auditory cortex in the brain receives the electrical signals from the cochlea and interprets them as sound. Different parts of the auditory cortex are responsible for processing different aspects of sound, such as pitch, volume, and location.
+
+<img src="./assets/AuditoryCortex.png" alt="AuditoryCortex" width="900"/>
+*Figure 2. A closer look a the AuditoryCortex.*
+
+Overall, the human auditory system is a complex and sophisticated system that allows us to detect, process, and interpret the sounds around us, enabling us to communicate and navigate our environment.
 
 ## Lecture - Cognition Fundamentals: Perception
 Live lecture which is given on the 17th of November from 9:00 till 10:00 with a 20 min break. Take a look at your timetable to see where and when exactly the lecture takes place! If you can't wait, [here are the slides already](https://github.com/BredaUniversityADSAI/ADS-AI/blob/ba08eaff3a1f5c036abab9a5d1bdd729ad861bc9/docs/Study%20Content/Cognition%20Fundamentals/assets/lectures/Cognition%20Fundamentals%20-%20Perception.pptx) but after the lecture, there should be [a recording available here!](https://edubuas-my.sharepoint.com/:v:/g/personal/heijligers_b_buas_nl/EXq2Oz4etehLjvVx1iznypMBXXd4w4bjWHbvEtTopNEiLg?e=uD2gAb)
@@ -122,8 +137,9 @@ What do we look out for:
 
 
 Relevant literature to research:
-- [Summary of Concepts and Terms](https://github.com/BredaUniversityADSAI/ADS-AI/blob/260f3f788372cfb55e2a4ba2956800de1b3b14a8/docs/Study%20Content/Cognition%20Fundamentals/assets/Summary%20of%20Concepts%20and%20Terms.docx): Highly recommended read which summarizes most important concepts discussed in the literature below. It also contains various important model you can use to create cognitive systems; or systems to deal with information processing in general.
-- [Schurgin, M.W. (2018). Visual memory, the long and the short of it: A review of visual working memory and long-term memory. Attention, Perception, & Psychophysics, 80: 1035-1056.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/997b5108aa39c2ceded8eb9dd979c7333360e624/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/Visual%20memory,%20the%20long%20and%20the%20short%20of%20it%20-%20A%20review%20of%20visual%20working.pdf)
-- [Eichenbaum, H. (2017). Memory: Organization and Control. Annual Review of Psychology, 68, 19-45.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/997b5108aa39c2ceded8eb9dd979c7333360e624/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/Memory%20-%20Organization%20and%20Control.pdf)
-- [O’Reagan, J.K. (1992). Solving the “real” mysteries of visual perception: the world as an outside memory. Can J Psychol, 46(3):461-488.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/29bd304acfa39a1ae5c9aa8640a56cbbe9a18c1e/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/SOLVING%20THE%20REAL%20MYSTERIES%20OF%20VISUAL%20PERCEPTION.pdf)
-- [Szeliski, R. (2022). Computer vision: algorithms and applications. Springer Nature.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/7c3e62e0c5ba4a3939286b0462568cc2dc592acc/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/Computer%20Vision%20-%20Algorithms%20and%20Applications,%202nd%20Edition.pdf)
+### Books & Papers:
+1. [Styles, E.A. (2005). Attention, Perception and Memory: An integrated Introduction. Psychology Press, Taylor & Francis.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/997b5108aa39c2ceded8eb9dd979c7333360e624/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/Attention,%20Perception%20and%20Memory%20-%20An%20integrated%20introduction.pdf)
+2. [Oxenham, A.J. (2018). How we hear: The perception and neural coding of sound. Annual Review of Psychology, 69:27-50.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/29bd304acfa39a1ae5c9aa8640a56cbbe9a18c1e/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/How%20we%20hear%20-%20The%20perception%20and%20neural%20coding%20of%20sound.pdf)
+3. [Deroy, O., Spence, C., & Noppeney, U. (2016). Metacognition in multisensory perception. Trends in Cognitive Sciences, 20, 736-747.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/29bd304acfa39a1ae5c9aa8640a56cbbe9a18c1e/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/Metacognition%20in%20multisensory%20perception%20-%20Trends%20in%20Cognitive%20Sciences.pdf)
+
+11. [Joseph, S., Teki, S., Kumar, S., Husain, M., & Griffiths, T.D. (2016). Resource allocation models of auditory working memory. Brain Research, 1640: 183-192.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/997b5108aa39c2ceded8eb9dd979c7333360e624/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/Resource%20allocation%20models%20of%20auditory%20working%20memory.pdf)

@@ -30,7 +30,7 @@ The auditory system can be divided into three main components: the outer ear, th
 <img src="./assets/HumanAuditorySystem.png" alt="HumanAuditorySystem" width="900"/>
 *Figure 1. Overview of the human auditory system.*
 
-**Outer ear:** The outer ear is the visible portion of the ear, known as the pinna, concha, and the ear canal. The pinna is responsible for capturing sound waves in the environment and funneling them through the concha into the ear canal. The ear canal then directs the sound waves towards the eardrum, which is located at the end of the canal.
+**Outer ear:** The outer ear is the visible portion of the ear, known as the pinna, concha, and the ear canal. The pinna is responsible for capturing sound waves in the environment and funneling them through the concha into the ear canal. Furthermore, the shape; or folds, of the pinna also helps to determine the vertical location of the sound. The ear canal then directs the sound waves towards the eardrum, which is located at the end of the canal.
 
 **Middle ear:** The middle ear is a small, air-filled chamber that is separated from the outer ear by the eardrum. When sound waves reach the eardrum, they cause it to vibrate. These vibrations are then transmitted through three small bones in the middle ear, called the ossicles, which amplify the sound waves and transmit them to the inner ear. The ossicles are composed of the malleus (or hammer), incus (anvil), and stapes (or stirrup).
 
@@ -44,9 +44,17 @@ The middle ear also contains the Eustachian tube, which connects the middle ear 
 The cochlea is a snail-shaped structure that is responsible for converting sound waves of different frequencies into electrical signals. It contains tiny hair cells that are arranged along the length of the cochlea. When sound waves enter the cochlea, they cause the fluid inside to move, which in turn causes the hair cells to bend; a process called basilar tuning. This bending generates electrical signals, which are then transmitted to the brain via the auditory nerve.
 
 <img src="./assets/BasilarTuning.png" alt="BasilarTuning" width="900"/>
-*Figure 2. A closer look a the basilar tuning.*
+*Figure 2. A closer look a the basilar membrame where the signal as transferred by the Stapes in the upper tube; the scala vestibule. From the oval window to apex; called the scala vestibule, sounds from 20 hertz to 200 hertz are registered. After reaching the apex the sounds travel through the scale tympani to the round window from 200 hertz onwards are registered.*
 
-Located within the cochlea is the basilar membrane which is a thin, flexible membrane that runs along the length of the cochlea, which is the snail-shaped structure in the inner ear that is responsible for converting sound waves into electrical signals that the brain can interpret. The basilar membrane is lined with thousands of tiny hair cells that are responsible for detecting the vibrations caused by sound waves of different frequencies.
+Located within the cochlea is the basilar membrane which is a thin, flexible membrane that runs along the length of the cochlea, which is the snail-shaped structure in the inner ear that is responsible for converting sound waves into electrical signals that the brain can interpret. The basilar membrane is lined with thousands of tiny hair cells that are responsible for detecting the vibrations caused by sound waves of different frequencies: the organ of Corti.
+
+<img src="./assets/OrganCortiLocation.jpg" alt="OrganCortiLocation" width="600"/>
+*Figure 2.a. Within the basilar membrame there is the organ of corti. Essentially, this is the part of the basilar membrame which registers the sound waves by registering the tiny movements of the hairs.
+
+The organ of Corti contains rows of hair cells, which are specialized sensory cells that are responsible for detecting particular sound waves. These hair cells are arranged in a specific pattern to detect specific sound characteristics and are connected to nerve fibers that transmit electrical signals to the brain. The hair cells in the organ of Corti are arranged in a tonotopic manner, meaning that they are sensitive to different frequencies of sound. Hair cells near the base of the cochlea are sensitive to high-frequency sounds, while hair cells near the apex are sensitive to low-frequency sounds from 200 hertz onwards.
+
+<img src="./assets/StructureOrganCorti.jpg" alt="StructureOrganCorti" width="600"/>
+*Figure 2.b. Within the organ of Corti there is the tectorial membrame which is the main vibrating component to which the hairs are attached. As the tectorial membrame vibrates the different hairs hairs are moved with differanting intensity, velocity and angles which registers the different aspects of a sound. Don't pay attention to the rest the unmentoined components in the diagram, we don't go that deep into the neuroscientific aspects of the auditory system.*
 
 The basilar membrane is wider and more flexible at the base of the cochlea, and narrower and stiffer at the apex. This means that higher frequency sounds, which have shorter wavelengths, cause maximum displacement of the basilar membrane near the base of the cochlea, while lower frequency sounds, which have longer wavelengths, cause maximum displacement closer to the apex.
 
@@ -55,6 +63,8 @@ As a result, different frequencies of sound cause different hair cells along the
 In this way, the basilar membrane acts as a frequency analyzer, with different regions of the membrane responding preferentially to different frequencies of sound. This process is known as basilar tuning, and it allows the brain to distinguish between different frequencies of sound and perceive pitch.
 
 Basilar tuning is important for our ability to distinguish between different sounds and to understand speech, music, and other complex auditory stimuli. It also plays a role in our ability to locate the source of sounds in space, as the relative timing and intensity of sound waves reaching each ear can be used to determine the location of the sound source.
+
+
 
 The other important system located in the cochlea is the vestibular system which is responsible for providing the brain with information about the body's position and movement in space, as well as its orientation with respect to gravity. It consists of three semicircular canals and two otolith organs: the utricle and saccule which generates electrical signals that are transmitted to the brain via the vestibular nerve.
 
@@ -100,10 +110,12 @@ Damage to Broca's area can result in a condition known as Broca's aphasia, which
 
 In addition to its role in speech production, Broca's area is also involved in other cognitive processes, such as language processing and comprehension, as well as decision-making, attention, and working memory. Like any concept of information processing and brain area these areas have a general function but are not only clear-cut destinct categories; or processor, because information has to travel between all parts of the brain and some phenomena we perceive as distinct are likely dispersed, [emergent phenomena](https://necsi.edu/emergence#:~:text=Emergence%20refers%20to%20the%20existence,they%20would%20not%20do%20alone.).
 
+Now that we have gotten a basic overview of the auditory system we can start mapping the flow of information into a flowchart. Because who doesn't love a flowchart?
 
 ## Tutorial - Auditory Perception
-Now we are going to make a flowchart of our model of the  human cognitive vision system; visual perception, and fill it in with information for our object detection task:
-1. Take a look at your image dataset and figure 1 below. Create a flowchart of figure 1. List down the objects that you are going to identify in the in the 'High-Level Vision' section of the flowchart.
+Now we are going to make a flowchart of our model of the  human auditory system; or auditory perception more specifically, and fill it in with information for our NLP task:
+1. Pick a tweet from your dataset which is either a disaster or non-disaster tweet and rewrite it in your own words as if you were telling it to another person. Make sure to say it out loud so you can check whether it's actually something that makes sense as dialogue.
+2. Take a look at your flowcharts from last time and figure X. image dataset and figure 1 below. Create a flowchart of figure 1. List down the objects that you are going to identify in the in the 'High-Level Vision' section of the flowchart.
 2. Imagine that you are identifying the objects. What features/characteristics do you look out for yourself? How do you personally identify the object. List these down in the 'mid-Level Vision' section of the flowchart.
 3. Fill in the rest of the flowchart using the following steps:
 - Take a look at the lecture slides and provided literature below regarding human visual perception. Fill in the rest of the human cognitive vision system; specifically taking the input, visual perception proccesing steps and desired output in mind.

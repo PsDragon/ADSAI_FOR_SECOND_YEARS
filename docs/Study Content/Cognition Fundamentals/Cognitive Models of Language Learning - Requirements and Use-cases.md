@@ -25,9 +25,37 @@ Here is a table of the use-cases and their description.
 :thumbsup: :headphones: :coffee:
 
 ## Use-case 1: Create a flowchart of language acquisition and demonstrate the information processing for a simple scenario
-Some high-level description
+Scenario description: Baby sees their mother directly in front and above her crib. The mother is repeating the same word over and over again: 'mama'. After every repetition, there are two possible outcomes:
+1. The baby does not repeat the word (succesfully) or performs some other behaviour (e.g. smiling). The mother therefore repeats the word. <!--- (auditory cue, no positive or negative reinforcement learning) --->
+2. The baby repeats the word succesfully (enough). In response the mother smiles, expresses auditory excitement, and touches the baby affectively. <!--- (auditory, visual and tactile cue; positive reinforcement learning) --->
+
+You can assume that the baby and the mother both do not have any biological or psychological defects and represent the average human.
+
+### Learning Behaviour to Integrate
+This scenario uses cognitive systems and processes we studied last block but it also integrate the material we studied with regards to the [auditory system](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Auditory%20Perception%20&%20Learning.html) and [cognitive models of language learning](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Cognitive%20Models%20of%20Language%20Learning.html). However, this scenario requires the see the exhibition of a type of a second type of learning behaviour we did not cover yet: mirror-neurons.
+
+Mirror neurons are a type of neuron found in the brain that become active when an individual observes another individual performing the same action. If the individual performs that same action as the observed individual, the same neurons are activate. The discovery of mirror neurons has led to the development of the "mirror neuron theory," which proposes that these neurons play a key role in social cognition, empathy, and the ability to understand and imitate the actions of others. According to this theory, when an individual observes another person's actions, the mirror neurons in their brain fire in a way that allows them to simulate the observed action and understand its meaning.
+
+<img src="./assets/MirrorNeurons.png" alt="MirrorNeurons" width="900"/>
+
+Mirror neurons are found in several areas of the brain, including the premotor cortex and the inferior parietal lobule. These areas are involved in motor planning, control, and perception, suggesting that mirror neurons play a crucial role in linking the perception and action systems of the brain. 
+
+Research on mirror neurons has focused on a wide range of behaviors, including language, empathy, and even the ability to experience emotions. For example, studies have shown that individuals with autism, who often have difficulty with social communication and empathy, may have differences in their mirror neuron systems compared to typically developing individuals. Mirror neurons are a fascinating area of research that have provided new insights into the brain mechanisms underlying social cognition and the ability to understand and interact with others. And the scenario above describes a simple situation where they would, slowly, be connected.
+
+### Requirements
+- Flowchart meeting the points above where the files is delivered as: .pptx, .pdf, .png, .docx, .jpeg, and .JPG. For other file extensions, contact the course instructor.
+- Recorded walkthrough (maximum of 10 minutes) in microsoft teams where explain how the information is processed by the baby. First for step one (only once) and then for step 2. Make sure your flowchart walkthrough covers all the relevant input and output criteria; and how these inputs and output are covered in the environment and to which categories they belong (e.g. tactile cue). Only focus on the cues which are relevant for understanding the situational context.
+
+### ILO Mapping Explained
+- Poor: flowchart of auditory perceptual proccesing accurately representents cognitive theory of auditory perception and language acquisition.
+- Insufficient: Input & output going into the model for acquiring the linguistic meaning of word is correctly identified.
+- Sufficient: The entire model with all; A) it's components and B) the information form (or type) at each step, is correct.
 
 
+## Use-Case 2:
+
+
+## Another Use-Case?
 1. Pick a tweet from your dataset which is either a disaster or non-disaster tweet and rewrite it in your own words as if you were telling it to another person. Make sure to say it out loud so you can check whether it's actually something that makes sense as dialogue.
 2. Take a look at your flowcharts from last time and figure X. image dataset and figure 1 below. Create a flowchart of figure 1. List down the objects that you are going to identify in the in the 'High-Level Vision' section of the flowchart.
 2. Imagine that you are identifying the objects. What features/characteristics do you look out for yourself? How do you personally identify the object. List these down in the 'mid-Level Vision' section of the flowchart.
@@ -41,8 +69,9 @@ Some high-level description
 __To solve this use-case, you will need to:__
 - [ ] Some step
 
-Deliverable:
-- Flowchart meeting the points above where the files is delivered as: .pptx, .pdf, .png, .docx, .jpeg, and .JPG. For other file extensions, contact the course instructor.
+Deliverables:
+- Flowchart meeting the points above where the files is delivered as: .pptx, .pdf, .png, .docx, .jpeg, and .JPG. For other file extensions, contact the course instructor. This flowchart can potentially be the same as the one for use-case 1.
+- Recorded walkthrough (maximum of 15 minutes) in microsoft teams where explain how the information is processed by the baby. First for step one (only once) and then for step 2. Make sure your flowchart walkthrough covers all the relevant input and output criteria; and how these inputs and output are covered in the environment and to which categories they belong (e.g. tactile cue). Only focus on the cues which are relevant for understanding the situational context.
 
 <br>
 

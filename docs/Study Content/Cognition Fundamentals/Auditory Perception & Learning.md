@@ -41,19 +41,19 @@ The middle ear also contains the Eustachian tube, which connects the middle ear 
 **The cochlea** is a snail-shaped structure that is responsible for converting sound waves of different frequencies into electrical signals. It contains tiny hair cells that are arranged along the length of the cochlea. When sound waves enter the cochlea, they cause the fluid inside to move; or vibrate, which in turn causes the hair cells to bend; a process called basilar tuning. This bending generates electrical signals, which are then transmitted to the brain via the auditory nerve.
 
 <img src="./assets/BasilarTuning.png" alt="BasilarTuning" width="900"/>
-*Figure 2. A closer look a the basilar membrame where the signal as transferred by the Stapes in the upper tube; the scala vestibule. From the oval window to apex; called the scala vestibule, sounds from 20 hertz to 200 hertz are registered. After reaching the apex the sounds travel through the scale tympani to the round window, in this region the sounds from 200 hertz onwards are registered.*
+*Figure 3. A closer look a the basilar membrame where the signal as transferred by the Stapes in the upper tube; the scala vestibule. From the oval window to apex; called the scala vestibule, sounds from 20 hertz to 200 hertz are registered. After reaching the apex the sounds travel through the scale tympani to the round window, in this region the sounds from 200 hertz onwards are registered.*
 
 Located within the cochlea is **the basilar membrane** which is a thin, flexible membrane that runs along the length of the cochlea between the two tubes; seperated from the tubes by a membrane (hence the name). The basilar membrane is lined with thousands of tiny hair cells that are responsible for detecting the vibrations caused by sound waves of different frequencies: called the organ of Corti.
 
 <img src="./assets/OrganCortiLocation.jpg" alt="OrganCortiLocation" width="900"/>
-*Figure 3. Within the basilar membrame there is the organ of corti. Essentially, this is the part of the basilar membrame which registers the sound waves by registering the tiny movements of the hairs.
+*Figure 4. Within the basilar membrame there is the organ of corti. Essentially, this is the part of the basilar membrame which registers the sound waves by registering the tiny movements of the hairs.
 
 **The organ of Corti** contains rows of hair cells, which are specialized sensory cells that are responsible for detecting particular sound waves. These hair cells are arranged in a specific pattern to detect specific sound characteristics and are connected to nerve fibers that transmit electrical signals to the brain. The hair cells in the organ of Corti are arranged in a tonotopic manner, meaning that they are sensitive to different frequencies of sound. Hair cells near the base of the cochlea are sensitive to high-frequency sounds, while hair cells near the apex are sensitive to low-frequency sounds.
 
 <img src="./assets/StructureOrganCorti.jpg" alt="StructureOrganCorti" width="900"/>
-*Figure 4. Within the organ of Corti there is the tectorial membrame which is the main vibrating component to which the hairs are attached. As the tectorial membrame vibrates the different hairs hairs are moved with differanting intensity, velocity and angles which registers the different aspects of a sound; primarily frequency and pitch. Don't pay attention to the rest the components in shown the diagram, we don't need to go deeper into the neuroscientific aspects of the auditory system.*
+*Figure 5. Within the organ of Corti there is the tectorial membrame which is the main vibrating component to which the hairs are attached. As the tectorial membrame vibrates the different hairs hairs are moved with differanting intensity, velocity and angles which registers the different aspects of a sound; primarily frequency and pitch. Don't pay attention to the rest the components in shown the diagram, we don't need to go deeper into the neuroscientific aspects of the auditory system.*
 
-**The basilar membrane** is wider and more flexible at the base of the cochlea, and narrower and stiffer at the apex (see figure 2). This means that higher frequency sounds, which have shorter wavelengths, cause maximum displacement of the basilar membrane near the base of the cochlea, while lower frequency sounds, which have longer wavelengths, cause maximum displacement closer to the apex.
+**The basilar membrane** is wider and more flexible at the base of the cochlea, and narrower and stiffer at the apex (see figure 3). This means that higher frequency sounds, which have shorter wavelengths, cause maximum displacement of the basilar membrane near the base of the cochlea, while lower frequency sounds, which have longer wavelengths, cause maximum displacement closer to the apex.
 
 As a result, different frequencies of sound cause different hair cells along the length of the basilar membrane to bend and generate electrical signals. These signals are then transmitted to the brain via the auditory nerve, which then interprets the signals as sound.
 
@@ -64,7 +64,7 @@ Basilar tuning is important for our ability to distinguish between different sou
 The other important system located in the cochlea is **the vestibular system** which is responsible for providing the brain with information about the body's position and movement in space, as well as its orientation with respect to gravity. It consists of three semicircular canals and two otolith organs: the utricle and saccule which generates electrical signals that are transmitted to the brain via the vestibular nerve.
 
 <img src="./assets/VestibularSystem.png" alt="VestibularSystem" width="900"/>
-*Figure 5. A closer look a the structure of the vestibular system.*
+*Figure 6. A closer look a the structure of the vestibular system.*
 
 The semicircular canals are three fluid-filled tubes that are arranged perpendicular to each other, and they are responsible for detecting rotational movements of the head. Each canal contains a specialized sensory structure called a crista, which is covered in hair cells that are embedded in a gelatinous structure called the cupula. When the head rotates, the fluid in the canals also moves, which causes the cupula to bend and the hair cells to generate electrical signals that are sent to the brain. These signals provide information about the relative direction and speed of the head's rotation; and in combination with the motor context (which knows the position of all the limbs) the entire body.
 
@@ -85,7 +85,7 @@ The auditory cortex receives information about sound from the thalamus, which is
 The auditory cortex is organized into different regions that are specialized for processing different aspects of sound. **The primary auditory cortex** is the first region of the cortex to receive information about sound, and it is organized tonotopically, which means that different frequencies of sound are represented in different regions of the cortex. The organization of the primary auditory cortex is thought to reflect the organization of the basilar membrane in the inner ear, which is responsible for separating different frequencies of sound and also organized tonotopically.
 
 <img src="./assets/AuditoryCortex.jpg" alt="AuditoryCortex" width="900"/>
-*Figure 6. A closer look a the Auditory Cortex.*
+*Figure 7. A closer look a the Auditory Cortex.*
 
 **The secondary auditory cortex** is a collection of brain regions that are located adjacent to the primary auditory cortex and are responsible for higher-level processing of auditory information. 
 These higher-level areas of the auditory cortex are responsible for more complex aspects of sound processing, such as the identification of speech sounds, music perception, sound localization and language comphrension. The two more important parts of the secondary auditory cortext are the Wernicke's and Broca's areas which are responsible for language comphrension and speech production.
@@ -102,7 +102,7 @@ Fun facts: Wernicke's area is named after Carl Wernicke, a German neurologist wh
 
 
 <img src="./assets/BrocaWernicke.jpg" alt="BrocaWernicke" width="900"/>
-*Figure 7. A closer look at the Broca's and Wernicke's respective areas.*
+*Figure 8. A closer look at the Broca's and Wernicke's respective areas.*
 
 **Broca's area:** Broca's area is a region of the brain located in the posterior part of the left frontal lobe; therefore, one could argue it's distinct from the auditory cortex but for our purposes it doesn't really matter. This area is involved in speech production and language processing. The function of Broca's area is to coordinate the movements of the mouth, tongue, and vocal cords required for speech production. When we speak, information about the words we want to say is sent from Wernicke's area to Broca's area, which then plans and coordinates the movements required for speech.
 
@@ -120,8 +120,6 @@ Now we are going to make a flowchart of our model of the  human auditory system;
 1. Create a flowchart of the sensory section of the auditory system. Specifically, describe the structure and function of the outer, middle and inner ear in a flowchart. Make sure to capture the important substructure and information flow; including what form the information travels in at each given step.
 2. Add the perceptual section of the auditory system. Specifically, relating the anatomical and tonotopic organization of the cochlea to the sensory transduction; transfer of information, of sound to the brain and organization thereof.
 
-<img src="./assets/FullCognitiveSystem.jpg" alt="FullCognitiveSystem" width="900"/>
-*Figure 8. The full human cognitive system.*
 
 ## Localization of sound
 Just hearing a sound is not enough to create perception; hearing is actually dependent on our ability to locate sound in our surroundings. Just like visual perception, the localisation of sound could be compared to how we perceive depth in our field of view. Just like the human vision system, the auditory system likewise distinguishes between the monocular and binocular cues that provide information about depth, uses both monaural (one-eared) and binaural (two-eared) cues to localize sound.
@@ -163,6 +161,9 @@ Sound cues with a frequency above 3000 hertz consists of waves which follow one-
 5. Imagine that a sound violin is playing a sound above 3000 hertz to the left of you. Run it through you flowchart, does the informational processing hold up?
 6. Take a look at your flowchart from last block and figure 8. How does information flow from the long- and short-term memory? How is it modulated by attention? Have you got all information flows covered?
 
+
+<img src="./assets/FullCognitiveSystem.jpg" alt="FullCognitiveSystem" width="900"/>
+*Figure 12. The full human cognitive system.*
 
 That's all regarding the human auditory system for now! If you want to dive further into cognitve processing methods such as vertical localization, timbre or complex tone processing then please have a look at the literature below. Now let's continue with processing these sounds into actual words and their respective meanings given their situational context!
 

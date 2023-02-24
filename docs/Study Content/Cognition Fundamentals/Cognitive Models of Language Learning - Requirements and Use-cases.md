@@ -8,7 +8,7 @@ sort: 6
 
 ## Responsible AI
 
-In **today's data lab**, we will work on the Cognitive Models of Language Learning use-cases. Use-case 1-5 are related to the independent study material of Week 4. Use case 6 (Topic: Computational models of language learning) is related to the medal challenges!
+In **today's data lab**, we will work on the Cognitive Models of Language Learning use-cases. Use-case 1 and 2 are related to the independent study material of Week 4. Use case 6 (Topic: Computational models of language learning) is related to the medal challenges!
 
 ## Use-cases
 
@@ -16,12 +16,9 @@ Here is a table of the use-cases and their description.
 
 | Use-Case | Description | ILO Criteria | Link
 |----------|-------------|-------------|-------------|
-| 1 | Create a flowchart of auditory Perception | Poor & Sufficient | [clicky]()
-| 2 | Create a flowchart for language acquisition | Poor & Sufficient | [clicky]()
-| 3 | Recorded a flowchart walkthrough to demonstrate language acquisition in a simple scenario | Sufficient | [clicky]()
-| 4 | Recorded a flowchart walkthrough to demonstrate language acquisition for a complex scenario | Good | [clicky]()
-| 5 | Compare both cognitive models with the transformer network architecture | Excellent | [clicky]()
-| 6 | Operationalize your model to a computational model of language learning to demonstrate a language acquisition  | Medal Challenge | [clicky]()
+| 1 | Create a flowchart of auditory Perception | Sufficient | [clicky]()
+| 2 | Create a flowchart for language acquisition | Poor & Good and Excellent | [clicky]()
+
 
 :bell: Before we start, please make sure you have read the sections on [The final deliverables]() and [Plagiarism]() you can find in the bottom of this page.
 

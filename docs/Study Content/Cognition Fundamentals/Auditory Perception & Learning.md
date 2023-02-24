@@ -123,8 +123,15 @@ Now we are going to make a flowchart of our model of the  human auditory system;
 <img src="./assets/FullCognitiveSystem.jpg" alt="FullCognitiveSystem" width="900"/>
 *Figure 8. The full human cognitive system.*
 
-## Horizonal localization of sound
-Just hearing a sound is not enough to create perception. Therefore, let's explore the localization of sound and how it affect informational processing. Let's start with horizonatal localization as it's the easiest of the two. Horizontal localization can be defined in two distinct sensory aspects interaural intensity and interaural timing.
+## Localization of sound
+Just hearing a sound is not enough to create perception; hearing is actually dependent on our ability to locate sound in our surroundings. Just like visual perception, the localisation of sound could be compared to how we perceive depth in our field of view. Just like the human vision system, the auditory system likewise distinguishes between the monocular and binocular cues that provide information about depth, uses both monaural (one-eared) and binaural (two-eared) cues to localize sound.
+
+The pinna (see figure 1.) has a distinct shape and the specific folds of the pinna help to determine, among other things, the vertical location of the sound. Depending on how close the sound source is to our bodies, each pinna reacts differently to incoming sound waves. This interaction provides a monaural cue that aids in locating sounds above, below, in front of, or behind us. Because the sound waves received by your two ears from sounds coming from directly above, below, in front, or behind you are identical, monaural cues are essential.
+
+<img src="./assets/VerticalSoundLocalization.jpg" alt="VerticalSoundLocalization" width="900"/>
+*Figure 9. Both monaural and interaural cues are required to localize sound in 3-dimensional space.*
+
+However, unravelling how sound waves are redirected and influenced to perceive all the nuances of audio localization is complex and outside of the scope of this module. So, let's start with horizonatal localization as it's the easiest of the two. Horizontal localization can be defined in two distinct sensory aspects interaural intensity and interaural timing.
 
 **Interaural intensity**, also known as interaural level difference (ILD), refers to the difference in sound intensity or level between the two ears. This difference can help the brain localize the source of a sound in space. When a sound source is located to one side of the head, the sound wave arrives at the ear closest to the source with a higher intensity than at the ear farthest from the source. This results in a difference in the level of the sound wave between the two ears, which is known as the interaural intensity or level difference.
 

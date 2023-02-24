@@ -130,7 +130,7 @@ Just hearing a sound is not enough to create perception. Therefore, let's explor
 
 The brain uses this interaural intensity difference to determine the location of a sound source in space. Specifically, the brain compares the level difference between the two ears to a template of expected level differences stored in the long- and short-term memory for different locations in space, and uses this information to infer the location of the sound source.
 
-<img src="./assets/Interaural-Time-Difference-ITD-and-Interaural-Level-Difference-ILD.jpg" alt="Interaural-Time-Difference-ITD-and-Interaural-Level-Difference-ILD" width="900"/>
+<img src="./assets/Interaural-Time-Difference-ITD-and-Interaural-Level-Difference-ILD.png" alt="Interaural-Time-Difference-ITD-and-Interaural-Level-Difference-ILD" width="900"/>
 *Figure 10. The horizontal localization of sound displayed with a diagram of interaural intensity of the right and interaural timing on the left.*
 
 **Interaural timing:** In addition to interaural intensity, the brain also uses interaural time differences (ITD), or differences in the arrival time of sound waves at the two ears, to localize sound sources in space. When a sound source is located to one side of the head, the sound wave arrives at the ear closest to the source before it arrives at the ear farthest from the source. This results in a difference in the time of arrival of the sound wave between the two ears, which is known as the interaural time difference.
@@ -145,10 +145,10 @@ Refresher: proprioception is how the brain senses the spatial orientation and mo
 
 Sound cues with a frequency above 3000 hertz consists of waves which follow one-another up in a shorter time frame and therefore detecting these by computing interaural timing is more difficult. Therefore,detecting these using interaural intensity is more appropriate and relieable. Adversely, sound cues with a fequency below 3000 hertz consist of waves follow one another up with a longer time-frame and therefore detecting using interaural timing is more feasible and relieable.  
 
-<img src="./assets/InterauralTimeDifferenceFrequency.jpg" alt="InterauralTimeDifferenceFrequency" width="900"/>
+<img src="./assets/InterauralTimeDifferenceFrequency.png" alt="InterauralTimeDifferenceFrequency" width="900"/>
 *Figure 11. How different frequencies influence the horizontal localization of sound displayed with a diagram of interaural intensity of the left and interaural timing on the right.*
 
-## Datalab Preparation 1/2
+## Datalab Preparation 2/2
 3. Add a second ear leading up to the auditory context to your flowchart. 
 4. Imagine that a sound cello is playing a sound below 3000 hertz to the right of you. Run it through you flowchart, does the informational processing hold up?
 5. Imagine that a sound violin is playing a sound above 3000 hertz to the left of you. Run it through you flowchart, does the informational processing hold up?
@@ -159,7 +159,6 @@ That's all regarding the human auditory system for now! If you want to dive furt
 
 
 
-Relevant literature to research:
 ### Books & Papers:
 1. [Styles, E.A. (2005). Attention, Perception and Memory: An integrated Introduction. Psychology Press, Taylor & Francis.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/997b5108aa39c2ceded8eb9dd979c7333360e624/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/Attention,%20Perception%20and%20Memory%20-%20An%20integrated%20introduction.pdf)
 2. [Oxenham, A.J. (2018). How we hear: The perception and neural coding of sound. Annual Review of Psychology, 69:27-50.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/29bd304acfa39a1ae5c9aa8640a56cbbe9a18c1e/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/How%20we%20hear%20-%20The%20perception%20and%20neural%20coding%20of%20sound.pdf)

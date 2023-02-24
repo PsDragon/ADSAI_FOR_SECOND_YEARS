@@ -11,10 +11,10 @@ Just hearing is not enough though, like with the human vision system perception 
 
 
 ## Learning Objectives: 
-1. Understand the basic functioning of the human auditory system within the context of cognition.
-2. Identify appropriate perceptual features and required prior-knowledge for understanding and contextualsing sounds.
-3. Identify cognitive processes used to process relevant real-world input required for situational awareness.
-
+1. Describe the structure and function of the outer, middle and inner ear.
+2. Relate the anatomical organization of the cochlea and human auditory system to the sensory transduction of sound to the brain.
+3. Differentiate between the mechanisms for localization of horizontal sound. 
+4. Understand the basic functioning of the human auditory system within the context of cognition; specifically attention, perception and memory.
 
 ## Introduction to the Auditory System 
 The human auditory system is a complex system responsible for our sense of hearing. It consists of several components that work together to detect, process, and interpret sound waves. Please watch this quick refresher on perception, sensation and overview of the auditory system: watch untill minute 3:25 (or longer if you are interested in taste and other sensory systems).
@@ -64,7 +64,7 @@ Basilar tuning is important for our ability to distinguish between different sou
 The other important system located in the cochlea is **the vestibular system** which is responsible for providing the brain with information about the body's position and movement in space, as well as its orientation with respect to gravity. It consists of three semicircular canals and two otolith organs: the utricle and saccule which generates electrical signals that are transmitted to the brain via the vestibular nerve.
 
 <img src="./assets/VestibularSystem.png" alt="VestibularSystem" width="900"/>
-*Figure 3. A closer look a the structure of the vestibular system.*
+*Figure 5. A closer look a the structure of the vestibular system.*
 
 The semicircular canals are three fluid-filled tubes that are arranged perpendicular to each other, and they are responsible for detecting rotational movements of the head. Each canal contains a specialized sensory structure called a crista, which is covered in hair cells that are embedded in a gelatinous structure called the cupula. When the head rotates, the fluid in the canals also moves, which causes the cupula to bend and the hair cells to generate electrical signals that are sent to the brain. These signals provide information about the relative direction and speed of the head's rotation; and in combination with the motor context (which knows the position of all the limbs) the entire body.
 
@@ -85,7 +85,7 @@ The auditory cortex receives information about sound from the thalamus, which is
 The auditory cortex is organized into different regions that are specialized for processing different aspects of sound. **The primary auditory cortex** is the first region of the cortex to receive information about sound, and it is organized tonotopically, which means that different frequencies of sound are represented in different regions of the cortex. The organization of the primary auditory cortex is thought to reflect the organization of the basilar membrane in the inner ear, which is responsible for separating different frequencies of sound and also organized tonotopically.
 
 <img src="./assets/AuditoryCortex.jpg" alt="AuditoryCortex" width="900"/>
-*Figure 4. A closer look a the Auditory Cortex.*
+*Figure 6. A closer look a the Auditory Cortex.*
 
 **The secondary auditory cortex** is a collection of brain regions that are located adjacent to the primary auditory cortex and are responsible for higher-level processing of auditory information. 
 These higher-level areas of the auditory cortex are responsible for more complex aspects of sound processing, such as the identification of speech sounds, music perception, sound localization and language comphrension. The two more important parts of the secondary auditory cortext are the Wernicke's and Broca's areas which are responsible for language comphrension and speech production.
@@ -102,7 +102,7 @@ Fun facts: Wernicke's area is named after Carl Wernicke, a German neurologist wh
 
 
 <img src="./assets/BrocaWernicke.jpg" alt="BrocaWernicke" width="900"/>
-*Figure 4. A closer look at the Broca's and Wernicke's respective areas.*
+*Figure 7. A closer look at the Broca's and Wernicke's respective areas.*
 
 **Broca's area:** Broca's area is a region of the brain located in the posterior part of the left frontal lobe; therefore, one could argue it's distinct from the auditory cortex but for our purposes it doesn't really matter. This area is involved in speech production and language processing. The function of Broca's area is to coordinate the movements of the mouth, tongue, and vocal cords required for speech production. When we speak, information about the words we want to say is sent from Wernicke's area to Broca's area, which then plans and coordinates the movements required for speech.
 
@@ -113,40 +113,49 @@ In addition to its role in speech production, Broca's area is also involved in o
 Fun facts: Broca's area is named after Paul Broca, a French neurologist who first described it in the mid-1800s. He observed that damage to this region of the brain resulted in deficits in speech production, but not in the ability to understand language. Damage to Broca's area can result in a condition known as Broca's aphasia, which is characterized by difficulty with speech production, with the person often speaking slowly and with great effort, and making errors in grammar and sentence structure. However, individuals with Broca's aphasia can still understand language relatively well.
 </div>
 
+Now that we have gotten a basic overview of the auditory system we can start mapping the flow of information into a flowchart. Because who doesn't love a flowchart? :P
 
-Now that we have gotten a basic overview of the auditory system we can start mapping the flow of information into a flowchart. Because who doesn't love a flowchart?
+## Datalab Preparation 1/2
+Now we are going to make a flowchart of our model of the  human auditory system; or auditory perception more specifically, which we can use as a basis for our two use-cases:
+1. Create a flowchart of the sensory section of the auditory system. Specifically, describe the structure and function of the outer, middle and inner ear in a flowchart. Make sure to capture the important substructure and information flow; including what form the information travels in at each given step.
+2. Add the perceptual section of the auditory system. Specifically, relating the anatomical and tonotopic organization of the cochlea to the sensory transduction; transfer of information, of sound to the brain and organization thereof.
 
-## Tutorial - Auditory Perception
-Now we are going to make a flowchart of our model of the  human auditory system; or auditory perception more specifically, and fill it in with information for our NLP task:
-1. Pick a tweet from your dataset which is either a disaster or non-disaster tweet and rewrite it in your own words as if you were telling it to another person. Make sure to say it out loud so you can check whether it's actually something that makes sense as dialogue.
-2. Take a look at your flowcharts from last time and figure X. image dataset and figure 1 below. Create a flowchart of figure 1. List down the objects that you are going to identify in the in the 'High-Level Vision' section of the flowchart.
-2. Imagine that you are identifying the objects. What features/characteristics do you look out for yourself? How do you personally identify the object. List these down in the 'mid-Level Vision' section of the flowchart.
-3. Fill in the rest of the flowchart using the following steps:
-- Take a look at the lecture slides and provided literature below regarding human visual perception. Fill in the rest of the human cognitive vision system; specifically taking the input, visual perception proccesing steps and desired output in mind.
+<img src="./assets/FullCognitiveSystem.jpg" alt="FullCognitiveSystem" width="900"/>
+*Figure 8. The full human cognitive system.*
 
-<img src="./assets/CognitiveVisionSystem.jpg" alt="CognitiveVisionSystem" width="900"/>
-*Figure 1. Flowchart of a typical human cognitive vision system (de Souza Alves, T., de Oliveira, C. S., Sanin, C., & Szczerbicki, E.,2018).*
+## Horizonal localization of sound
+Just hearing a sound is not enough to create perception. Therefore, let's explore the localization of sound and how it affect informational processing. Let's start with horizonatal localization as it's the easiest of the two. Horizontal localization can be defined in two distinct sensory aspects interaural intensity and interaural timing.
 
-### Example of perceptual processing model: bla bla
-some example
+**Interaural intensity**, also known as interaural level difference (ILD), refers to the difference in sound intensity or level between the two ears. This difference can help the brain localize the source of a sound in space. When a sound source is located to one side of the head, the sound wave arrives at the ear closest to the source with a higher intensity than at the ear farthest from the source. This results in a difference in the level of the sound wave between the two ears, which is known as the interaural intensity or level difference.
+
+The brain uses this interaural intensity difference to determine the location of a sound source in space. Specifically, the brain compares the level difference between the two ears to a template of expected level differences stored in the long- and short-term memory for different locations in space, and uses this information to infer the location of the sound source.
+
+<img src="./assets/Interaural-Time-Difference-ITD-and-Interaural-Level-Difference-ILD.jpg" alt="Interaural-Time-Difference-ITD-and-Interaural-Level-Difference-ILD" width="900"/>
+*Figure 10. The horizontal localization of sound displayed with a diagram of interaural intensity of the right and interaural timing on the left.*
+
+**Interaural timing:** In addition to interaural intensity, the brain also uses interaural time differences (ITD), or differences in the arrival time of sound waves at the two ears, to localize sound sources in space. When a sound source is located to one side of the head, the sound wave arrives at the ear closest to the source before it arrives at the ear farthest from the source. This results in a difference in the time of arrival of the sound wave between the two ears, which is known as the interaural time difference.
+
+The brain uses this interaural time difference to determine the location of a sound source in space. Simmilar to interaural intensity, the brain compares the time difference between the two ears to a template; stored in the long- and short-term memory, of expected time differences for different locations in space, and uses this information to infer the location of the sound source.
+
+**Cue specific sampling - Frequency:** Both interaural intensity and timing are important cues for auditory localization and are processed by the auditory system in the brain. The information provided by these cues is integrated with other sensory information, such as visual and proprioceptive cues, to create a perception of the location of a sound source in space. Both the interaural intensity and timing are important for a range of cognitive processes, including communication, navigation, and spatial awareness. However, there is one key specialization to consider which frequency of the signal. Depending on their frequencies, these cues are processed by different groups of neurons within the primary auditory cortex.
+
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Refresher: proprioception is how the brain senses the spatial orientation and movement of parts of the body using only stimuli from brain signals that control muscle movement.
+</div>
+
+Sound cues with a frequency above 3000 hertz consists of waves which follow one-another up in a shorter time frame and therefore detecting these by computing interaural timing is more difficult. Therefore,detecting these using interaural intensity is more appropriate and relieable. Adversely, sound cues with a fequency below 3000 hertz consist of waves follow one another up with a longer time-frame and therefore detecting using interaural timing is more feasible and relieable.  
+
+<img src="./assets/InterauralTimeDifferenceFrequency.jpg" alt="InterauralTimeDifferenceFrequency" width="900"/>
+*Figure 11. How different frequencies influence the horizontal localization of sound displayed with a diagram of interaural intensity of the left and interaural timing on the right.*
+
+## Datalab Preparation 1/2
+3. Add a second ear leading up to the auditory context to your flowchart. 
+4. Imagine that a sound cello is playing a sound below 3000 hertz to the right of you. Run it through you flowchart, does the informational processing hold up?
+5. Imagine that a sound violin is playing a sound above 3000 hertz to the left of you. Run it through you flowchart, does the informational processing hold up?
+6. Take a look at your flowchart from last block and figure 8. How does information flow from the long- and short-term memory? How is it modulated by attention? Have you got all information flows covered?
 
 
-## Tutorial - Cognition Fundamentals: Learning
-Now, we are going to expand on our model of the human cognitive vision system by adding & connecting it with a cognitive model for human memory and reinforcement learning for our object detection task:
-1. Take at your current flowchart and images. As a human you need to remember a whole range of things to recognize objects: the context, concept, movemement, spacial location and individual features of an object to name a few. Consider what you need to remember in order to do the bin-picking task as a human and write these down in your flowchart.
-2. Take a look at figure 3 & 4 and your list of things to remember from step 1. Choose one of the two model displayed in figure 3 & 4 to integrate into your flowchart of the human cognitive vision system. After integrating the memory part, fill in the memory model you integrated using your list in step 1.
-<img src="./assets/Memory.jpg" alt="Memory Cognitive Model Example 1" width="1100"/>
-*Figure 3. The full human cognitive memory system.*
-<img src="./assets/Memory2.png" alt="Memory Cognitive Model Example 2" width="800"/>
-*Figure 4. A simplified human cognitive memory system.*
-
-3. Now, that we have visualised how we perceive and memorize information about the world in our flowchart. We can start to integrate a model of reinforcement learning; take a look at figure 5 and integrate it in your flowchart. List the conditions/situations which give a positive or negative rewards to a human performing this task. In other words; describe when a human would correctly or incorrectly performs this task and what type of feedback they should receive in that given condition: negative or positive (don't concern yourself with weighting; implement the value function, here yet).
-<img src="./assets/ReinforcementLearning.jpg" alt="Memory Cognitive Model Example 2" width="800"/>
-*Figure 5. The most basic form of a reinforcement learning model.*
-
-
-4. The final step is converting your model of human cognitive vision, memory and reinforcement learning to one with robots. You'll learn how to do this during the remainder of the block so you don't have to finish this today! However, make sure to keep this flowchart up-to-date so you have a clear oversight of the functionality of your robot; specifically considering how the processing steps (e.g. algorithms, if-else statememnts etc.) take the input (e.g. images, robot position of arm, pressure excerted by gripper etc.) and how these would result in the desired output.  
-
+That's all regarding the human auditory system for now! If you want to dive further into cognitve processing methods such as vertical localization, timbre or complex tone processing then please have a look at the literature below. Now let's continue with processing these sounds into actual words and their respective meanings given their situational context!
 
 
 

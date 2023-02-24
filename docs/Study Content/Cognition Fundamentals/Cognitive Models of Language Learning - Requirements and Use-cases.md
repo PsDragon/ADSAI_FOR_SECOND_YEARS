@@ -31,7 +31,16 @@ Here is a table of the use-cases and their description.
 
 ## Use-case 1: Create a flowchart of human auditory perception
 
-Some high-level description
+
+## Creative brief: Simple use-case 
+1. Pick a tweet from your dataset which is either a disaster or non-disaster tweet and rewrite it in your own words as if you were telling it to another person. Make sure to say it out loud so you can check whether it's actually something that makes sense as dialogue.
+2. Take a look at your flowcharts from last time and figure X. image dataset and figure 1 below. Create a flowchart of figure 1. List down the objects that you are going to identify in the in the 'High-Level Vision' section of the flowchart.
+2. Imagine that you are identifying the objects. What features/characteristics do you look out for yourself? How do you personally identify the object. List these down in the 'mid-Level Vision' section of the flowchart.
+3. Fill in the rest of the flowchart using the following steps:
+- Take a look at the lecture slides and provided literature below regarding human visual perception. Fill in the rest of the human cognitive vision system; specifically taking the input, visual perception proccesing steps and desired output in mind.
+
+<img src="./assets/CognitiveVisionSystem.jpg" alt="CognitiveVisionSystem" width="900"/>
+*Figure 1. Flowchart of a typical human cognitive vision system (de Souza Alves, T., de Oliveira, C. S., Sanin, C., & Szczerbicki, E.,2018).*
 
 
 __To solve this use-case, you will need to:__

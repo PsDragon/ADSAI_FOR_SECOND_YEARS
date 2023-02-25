@@ -214,26 +214,25 @@ After this datalab, you will be able to:
 - [ ] Train a logistic regression model on the features you created
 - [ ] Design new features
  
-### Week 3
-
-**Cognitive Models of Language Learning**
+### Week 3: Cognitive Models of Language Learning
 Untill now, we've been exploring the basics of natural language processing using regular expressions and basic classification models. This week we're going to continue our dive into human cognition by studing the human side of the language. Specifically how do we convert sounds or words into meaning? 
 
 This phenomena is something which has puzzled scientists for centuries but the advent of computers has brought about a revolution in the field. Cognitive scientist study this phenomena by performing experiement on human, recording their input ans a text or audio file, and then creating a computational model which tries to learn whatever the human subjects learned; the closer the match, the better the model. Since we have only 1 week, making a computational model of language learning itself optional but we are going to explore how it works and how it connects to NLP!
 
-Self-Study, datalab prep:
+**Self-Study**
 [Auditory Perception; memory & attention in the context of language/communication](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Cognitive%20Models%20of%20Language%20Learning%20-%20Requirements%20and%20Use-cases.html)
-[Cognitive theory of language acquisition](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Cognitive%20Models%20of%20Language%20Learning.html)
+[Cognitive theory of language acquisition #1](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Cognitive%20Models%20of%20Language%20Learning.html)
 
-DataLab 1, Goal(s):
-[] 1st draft: [Flowchart: Cognitve model of language learning](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Cognitive%20Models%20of%20Language%20Learning%20-%20Requirements%20and%20Use-cases.html)
+**DataLab 1**
+In this datalab session we start of with a recap session where we will review last block's material and what we delivered. During the recap session we will also look at this block's material and [what we are supposed to deliver](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Cognitive%20Models%20of%20Language%20Learning%20-%20Requirements%20and%20Use-cases.html). After which there'll be room for questions, additional explanations and feedback on previous and current work for cognition fundamentals.
 
-Self-Study, datalab prep:
-[Adaptive language acquisition & Computational models  of language acquisition](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Language%20Learning%20in%20Dynamic%20Environments.html)
+**Self-Study**
+[Cognitive theory of language acquisition #2](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Language%20Learning%20in%20Dynamic%20Environments.html)
 
-DataLab 2, Goal(s):
-[] Elaborate on: [Flowchart: Cognitve model of language learning](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Transformer%20Networks%20and%20Cognition.html)
-[] Optional Excellent: [Create computational model of language learning](link)
+**DataLab 2**
+In this datalab session we start of with a recap session where we will review the material we've learned untill now and connect it to new development in the field of cognition and AI: Transformer networks. After which we'll work on finishing both use-cases and there's time for questions and feedback.
+[Cognition and Transformer networks: A step closer?](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Transformer%20Networks%20and%20Cognition.html)
+
 
 ### Week 4
 

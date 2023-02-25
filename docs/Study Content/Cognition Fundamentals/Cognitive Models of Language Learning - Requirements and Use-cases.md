@@ -24,11 +24,11 @@ Here is a table of the use-cases and their description.
 :thumbsup: :headphones: :coffee:
 
 ## Use-case 1: Create a flowchart of language acquisition and demonstrate the information processing for a simple scenario
-Scenario description: Baby sees their mother directly in front and above her crib. The mother is repeating the same word over and over again: 'mama'. After every repetition, there are two possible outcomes:
+Scenario description: Baby sees their mother directly in front and above her crib; both are in a lit room. The mother is repeating the same word over and over again: 'mama'. After every repetition, there are two possible outcomes:
 1. The baby does not repeat the word (succesfully) or performs some other behaviour (e.g. smiling). The mother therefore repeats the word. <!--- (auditory cue, no positive or negative reinforcement learning) --->
-2. The baby repeats the word succesfully (enough). In response the mother smiles, expresses auditory excitement, and touches the baby affectively. <!--- (auditory, visual and tactile cue; positive reinforcement learning) --->
+2. The baby repeats the word succesfully (enough). In response the mother smiles and expresses auditory excitement. <!--- (auditory, visual and tactile cue; positive reinforcement learning) --->
 
-You can assume that the baby and the mother both do not have any biological or psychological defects and represent the average human.
+You can assume that the baby and the mother both do not have any biological or psychological defects and represent the average human of their given category. You only have to describe the informational processing of the elements mentioned in the scenario description. 
 
 ### Learning Behaviour to Integrate
 This scenario uses cognitive systems and processes we studied last block but it also integrate the material we studied with regards to the [auditory system](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Auditory%20Perception%20&%20Learning.html) and [cognitive models of language learning](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Cognitive%20Models%20of%20Language%20Learning.html). However, this scenario requires the see the exhibition of a type of a second type of learning behaviour we did not cover yet: mirror-neurons.
@@ -42,64 +42,20 @@ Mirror neurons are found in several areas of the brain, including the premotor c
 Research on mirror neurons has focused on a wide range of behaviors, including language, empathy, and even the ability to experience emotions. For example, studies have shown that individuals with autism, who often have difficulty with social communication and empathy, may have differences in their mirror neuron systems compared to typically developing individuals. Mirror neurons are a fascinating area of research that have provided new insights into the brain mechanisms underlying social cognition and the ability to understand and interact with others. And the scenario above describes a simple situation where they would, slowly, be connected.
 
 ### Requirements
-- Flowchart meeting the points above where the files is delivered as: .pptx, .pdf, .png, .docx, .jpeg, and .JPG. For other file extensions, contact the course instructor.
-- Recorded walkthrough (maximum of 10 minutes) in microsoft teams where explain how the information is processed by the baby. First for step one (only once) and then for step 2. Make sure your flowchart walkthrough covers all the relevant input and output criteria; and how these inputs and output are covered in the environment and to which categories they belong (e.g. tactile cue). Only focus on the cues which are relevant for understanding the situational context.
+- Flowchart meeting able to handle the informational processing described in the points above where the files is delivered as: .pptx, .pdf, .png, .docx, .jpeg, and .JPG. For other file extensions, contact the course instructor.
+- Recorded walkthrough (maximum of 10 minutes) in microsoft teams where you explain how the information is processed by the baby. First for step one (only once) and then for step 2. Make sure your flowchart walkthrough covers all the relevant input and output criteria; and how these inputs and output are covered in the environment and to which categories they belong (e.g. tactile cue). Only focus on the cues which are relevant for understanding the situational context.
 
 ### ILO Mapping Explained
 - Poor: flowchart of auditory perceptual proccesing accurately representents cognitive theory of auditory perception and language acquisition.
 - Insufficient: Input & output going into the model for acquiring the linguistic meaning of word is correctly identified.
-- Sufficient: The entire model with all; A) it's components and B) the information form (or type) at each step, is correct.
+- Sufficient: The entire model with all; A) it's components and B) the information forms (or types) at each step, is correct.
 
-
-## Use-Case 2:
-
-
-## Another Use-Case?
-1. Pick a tweet from your dataset which is either a disaster or non-disaster tweet and rewrite it in your own words as if you were telling it to another person. Make sure to say it out loud so you can check whether it's actually something that makes sense as dialogue.
-2. Take a look at your flowcharts from last time and figure X. image dataset and figure 1 below. Create a flowchart of figure 1. List down the objects that you are going to identify in the in the 'High-Level Vision' section of the flowchart.
-2. Imagine that you are identifying the objects. What features/characteristics do you look out for yourself? How do you personally identify the object. List these down in the 'mid-Level Vision' section of the flowchart.
-3. Fill in the rest of the flowchart using the following steps:
-- Take a look at the lecture slides and provided literature below regarding human visual perception. Fill in the rest of the human cognitive vision system; specifically taking the input, visual perception proccesing steps and desired output in mind.
-
-<img src="./assets/CognitiveVisionSystem.jpg" alt="CognitiveVisionSystem" width="900"/>
-*Figure 1. Flowchart of a typical human cognitive vision system (de Souza Alves, T., de Oliveira, C. S., Sanin, C., & Szczerbicki, E.,2018).*
-
-
-__To solve this use-case, you will need to:__
-- [ ] Some step
-
-Deliverables:
-- Flowchart meeting the points above where the files is delivered as: .pptx, .pdf, .png, .docx, .jpeg, and .JPG. For other file extensions, contact the course instructor. This flowchart can potentially be the same as the one for use-case 1.
-- Recorded walkthrough (maximum of 15 minutes) in microsoft teams where explain how the information is processed by the baby. First for step one (only once) and then for step 2. Make sure your flowchart walkthrough covers all the relevant input and output criteria; and how these inputs and output are covered in the environment and to which categories they belong (e.g. tactile cue). Only focus on the cues which are relevant for understanding the situational context.
-
-<br>
-
-ILO Mapping Explained:
-- Poor: flowchart of auditory perceptual proccesing accurately representents cognitive theory of auditory perception
-- Insufficient: Input & output going into the model of  auditory perceptual proccessing accurately representents cognitive theory of auditory perception
-
-
-<br>
 
 
 ## Use-case 2: Create a flowchart of language acquisition and demonstrate the information processing for a complex scenario
 
-Some high-level description
+Under construction.
 
-
-__To solve this use-case, you will need to:__
-- [ ] Some step
-
-Deliverable:
-- Flowchart meeting the points above where the files is delivered as: .pptx, .pdf, .png, .docx, .jpeg, and .JPG. For other file extensions, contact the course instructor.
-
-<br>
-
-ILO Mapping Explained:
-- Poor: flowchart of human language acquisition accurately representents cognitive theory of language acquisition
-- Insufficient: Input & output going into the model of human language acquisition accurately representents cognitive theory of language acquisition
-
-<br>
 
 
 

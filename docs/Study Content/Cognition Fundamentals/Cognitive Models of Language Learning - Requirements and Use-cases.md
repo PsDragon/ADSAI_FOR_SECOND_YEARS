@@ -4,7 +4,6 @@ sort: 6
 
 # Cognitive Models of Language Learning - Requirements & Use-cases
 
-<img src="./images/imsitu.jpg" alt="Imsitu dataset" width="800">
 
 In **today's data lab**, we will work on the Cognitive Models of Language Learning use-cases. Use-case 1 is related to the independent study material of Monday and Tuesday (week 3) whereas Use-case 2 is related to all indepdent study material.
 
@@ -12,10 +11,10 @@ In **today's data lab**, we will work on the Cognitive Models of Language Learni
 
 Here is a table of the use-cases and their description.
 
-| Use-Case | Description | ILO Criteria |
-|----------|-------------|-------------|
-| 1 | Create a flowchart of language acquisition and demonstrate the information processing for a simple scenario | Poor - Sufficient |
-| 2 | Create a flowchart of language acquisition and demonstrate the information processing for a complex scenario | Good & Excellent |
+| Use-Case | Description | ILO Criteria 
+|----------|-------------|-------------
+| 1 | Create a flowchart of language acquisition and demonstrate the information processing for a simple scenario | Poor - Sufficient 
+| 2 | Create a flowchart of language acquisition and demonstrate the information processing for a complex scenario | Good & Excellent 
 
 
 :bell: Before we start, please make sure you have read the sections on [The final deliverables](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Cognitive%20Models%20of%20Language%20Learning%20-%20Requirements%20and%20Use-cases.html#the-final-deliverables) and [Plagiarism](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Cognitive%20Models%20of%20Language%20Learning%20-%20Requirements%20and%20Use-cases.html#plagiarism) you can find in the bottom of this page.

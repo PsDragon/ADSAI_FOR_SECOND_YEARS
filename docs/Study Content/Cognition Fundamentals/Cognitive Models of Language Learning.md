@@ -3,39 +3,38 @@ sort: 8
 ---
 
 # Cognitive Models of Language Learning 
-Just what is the difference between sensing and perceiving? And how does vision actually work? What does perception even mean? What's the difference between seeing something and making sense of it? And how do we memorize and learn all of that? Today we're going to answer all of these questions!
+Human language acquisition refers to the process by which humans acquire the ability to communicate using language. This process typically begins in infancy and continues throughout childhood and adolescence. There are a few different theories about how language acquisition occurs, but most researchers agree that it involves both innate biological factors and environmental factors such as exposure to language and social interactions. 
 
-Then, we're going to apply these concepts to creating a perceptual model of human cognitive vision; how a human would see our bin-picking task. So we're going to place ourselves in the shoes of the robot, fill in the template and then elaborate on it by doing some research into human cognitive vision! 
-Seeing and perceiving however is not enough, humans will also need to remember, relate and contextualize what it sees in order to decide what to do. So after defining our model of human cognitive vision, we're going to learn about the human memory and where how reinforcement learning works!
+At birth, infants are already equipped with the ability to distinguish between different speech sounds, and over time they learn to recognize and produce the sounds used in their native language. This process is facilitated by exposure to language in the environment, as well as by the social interactions and feedback provided by caregivers and other speakers.
 
-Finally, we're going to translate our cognitive model of human vision and memory into a model for our robot which does object detection and reinforcement learning . As the project progresses you can then use your flowchart model of the robot to design & maintain an oversight of your code implementation and subsequently communicate it in your technical report!
+As children continue to develop, they begin to learn the rules of grammar and syntax, as well as the meaning of words and how they can be combined to form complex sentences. This process is also heavily influenced by social and environmental factors, such as the availability of educational resources and opportunities for practice and feedback.
 
-## Learning Objectives: 
-1. Identify appropriate perceptual features for object detection.
-2. Identify required prior-knowledge for contextualising object detection.
-3. Use cognitive models of pattern recognition to improve feature and/or object detection.
-4.	Identifiy relevant real-world input required for situational awareness & reinforcement learning.
-5.	Identify cognitive processes used to process relevant real-world input required for situational awareness & reinforcement learning.
+Human language acquisition has been studied for centuries but using computational modeling; the cognitive approach, for such studies is a relatively recent trend. However,computational approaches to language learning have become increasingly popular, mainly due to advances in developing machine learning techniques, and the availability of vast collections of experimental data on child language learning and child-adult interaction; the input-ouput which allows for supervised learning. Many of the existing computational models attempt to study the complex task of learning a language under cognitive plausibility criteria (such as memory and processing limitations that humans face), and to explain the developmental stages observed in children. By simulating the process of child language learning, computational models can show us which linguistic representations are learnable from the input that children have access to, and which mechanisms yield the same patterns of behaviour that children exhibit during this process. In doing so, computational modeling provides insight into the plausible mechanisms involved in human language acquisition, and inspires the development of better language models and techniques; specifically in data collection.
 
-## Today's Schedule:
-9:00 - 10:00: Introduction to cognition
-- Lecture (afterwards 20-min break)
-10:00 - 12:30: Perception
-- Lecture (afterwards 20-min break)
-- Tutorial: Create a flowchart for perceptual processing of sensory information for your robot!
-13:30 - 13:30 Lunch
-13:30 - 16:00 Learning
-- Lecture (afterwards 20-min break)
-- Tutorial: Create a flowchart for information; encoded perceptions, processing (a.k.a. learning) for your robot!
-16:00 - 17:00 Wrap-up/If we run late
+The chapters from the book we're going to read will provide us with an overview and the current state of are within the field of human language acquisition. It reviews the most commonly used computational frameworks, methodologies and resources for modeling human language learning, and the evaluation techniques used for assessing these computational models. While the book is aimed at scientists who want to become familiar with the available computational methods to investigate human language acquisition it will provide us with fundantional knowledge and handles data- and AI- scientist can use to improve and interpret their model results.
+
+## Goal of using this book
+So, you're goal in using this book will be to use it to improve and interpret your model results for both written text/conversation as spoken text/conversations while being able to link it to other sensory cues; e.g. pain after cursing or a smiling loved one.
+
+## Learning Objectives:
+To start of with, we're going to focus on child language acquisition because it's the least complex. Therefore, we're going to explore the first 3 chapters of [Computational modeling of human language acquisition](https://github.com/BredaUniversityADSAI/ADS-AI/blob/d42ffd034a2d1a35752d7c83c30300288a4ae153/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/Computational%20Modeling%20of%20Human%20Language%20Acquisition.pdf) so you as a student will be able to: 
+1. Understand and explain the fundamental of human language acquisition. 
+2. Understand and explain how computational models such as supervised machine learning are use to investigate human language acquision. 
+3. Understand and explain how human learn the meaning of words.
 
 
-## Lecture - Cognition Fundamentals: Perception
-Live lecture which is given on the 17th of November from 9:00 till 10:00 with a 20 min break. Take a look at your timetable to see where and when exactly the lecture takes place! If you can't wait, [here are the slides already](https://github.com/BredaUniversityADSAI/ADS-AI/blob/ba08eaff3a1f5c036abab9a5d1bdd729ad861bc9/docs/Study%20Content/Cognition%20Fundamentals/assets/lectures/Cognition%20Fundamentals%20-%20Perception.pptx) but after the lecture, there should be [a recording available here!](https://edubuas-my.sharepoint.com/:v:/g/personal/heijligers_b_buas_nl/EXq2Oz4etehLjvVx1iznypMBXXd4w4bjWHbvEtTopNEiLg?e=uD2gAb)
+
+## Datalab Preparation 
+1. Read the preface and chapter 1, 2 and 3. Skip the abstract; it's partially incorperate in the text above.
+2. Take a look at your Vision_Auditory_Cognition_Flowchart file you create yesterday. Would a human with the cognitive system described in your flowchart be able: 
+- A) to map the convert the sounds to words? If not, iterate on your flowchart to make it work.
+- B) to map those words to their respective meanings? If not, iterate on your flowchart to make it work.
+3. Take a look at use-case one. 
+- A) Can you already see how the scenario would play out if you run it through your flowchart?
+- B) 3. Answer for each of the following model(s) whether they would be suitable to learn the learn the word in use-caase 1: I. Feed-Forward Neural Network (single or multilayerd?), II. Recurrent Neural Network, III. Naive Bayes, IV. Linear Regression, V. Logistic Regression.
+
+
 
 Relevant literature to research:
-- [Summary of Concepts and Terms](https://github.com/BredaUniversityADSAI/ADS-AI/blob/260f3f788372cfb55e2a4ba2956800de1b3b14a8/docs/Study%20Content/Cognition%20Fundamentals/assets/Summary%20of%20Concepts%20and%20Terms.docx): Highly recommended read which summarizes most important concepts discussed in the literature below. It also contains various important model you can use to create cognitive systems; or systems to deal with information processing in general.
-- [Schurgin, M.W. (2018). Visual memory, the long and the short of it: A review of visual working memory and long-term memory. Attention, Perception, & Psychophysics, 80: 1035-1056.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/997b5108aa39c2ceded8eb9dd979c7333360e624/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/Visual%20memory,%20the%20long%20and%20the%20short%20of%20it%20-%20A%20review%20of%20visual%20working.pdf)
-- [Eichenbaum, H. (2017). Memory: Organization and Control. Annual Review of Psychology, 68, 19-45.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/997b5108aa39c2ceded8eb9dd979c7333360e624/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/Memory%20-%20Organization%20and%20Control.pdf)
-- [O’Reagan, J.K. (1992). Solving the “real” mysteries of visual perception: the world as an outside memory. Can J Psychol, 46(3):461-488.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/29bd304acfa39a1ae5c9aa8640a56cbbe9a18c1e/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/SOLVING%20THE%20REAL%20MYSTERIES%20OF%20VISUAL%20PERCEPTION.pdf)
-- [Szeliski, R. (2022). Computer vision: algorithms and applications. Springer Nature.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/7c3e62e0c5ba4a3939286b0462568cc2dc592acc/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/Computer%20Vision%20-%20Algorithms%20and%20Applications,%202nd%20Edition.pdf)
+1. [Alishahi, A. (2010). Computational modeling of human language acquisition. Synthesis Lectures on Human Language Technologies, 3(1), 1-107.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/d42ffd034a2d1a35752d7c83c30300288a4ae153/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/Computational%20Modeling%20of%20Human%20Language%20Acquisition.pdf)
+2. [Summary of Concepts and Terms](https://github.com/BredaUniversityADSAI/ADS-AI/blob/260f3f788372cfb55e2a4ba2956800de1b3b14a8/docs/Study%20Content/Cognition%20Fundamentals/assets/Summary%20of%20Concepts%20and%20Terms.docx): Highly recommended read which summarizes most important concepts discussed in the literature regarding cognition. It also contains various important models you can use to create cognitive systems; or systems to deal with information processing in general.

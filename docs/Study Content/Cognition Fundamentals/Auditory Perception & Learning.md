@@ -157,9 +157,12 @@ Sound cues with a frequency above 3000 hertz consists of waves which follow one-
 
 ## Datalab Preparation 2/2
 3. Add a second ear leading up to the auditory context to your flowchart. 
-4. Imagine that a sound cello is playing a sound below 3000 hertz to the right of you. Run it through you flowchart, does the informational processing hold up?
-5. Imagine that a sound violin is playing a sound above 3000 hertz to the left of you. Run it through you flowchart, does the informational processing hold up?
-6. Take a look at your flowchart from last block and figure 8. How does information flow from the long- and short-term memory? How is it modulated by attention? Have you got all information flows covered?
+4. Imagine that a sound cello is playing a sound below 3000 hertz to the right of you. Run it through you flowchart, does the informational processing flow hold up?
+5. Imagine that a sound violin is playing a sound above 3000 hertz to the left of you. Run it through you flowchart, does the informational processing flow hold up?
+6. Create a new file you call Vision_Auditory_Cognition_Flowchart. Merge your flowchart from cognition fundamentals from block B with your auditory flowchart. You flowchart should be able to describe the informational proccessing of both visual and auditory queues. Ask yourself the questions:
+- How does information flow from the long- and short-term memory? 
+- How is it modulated by attention? 
+- Have you got all information flows you learned about up untill now covered?
 
 
 <img src="./assets/FullCognitiveSystem.jpg" alt="FullCognitiveSystem" width="900"/>
@@ -173,5 +176,5 @@ That's all regarding the human auditory system for now! If you want to dive furt
 1. [Styles, E.A. (2005). Attention, Perception and Memory: An integrated Introduction. Psychology Press, Taylor & Francis.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/997b5108aa39c2ceded8eb9dd979c7333360e624/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/Attention,%20Perception%20and%20Memory%20-%20An%20integrated%20introduction.pdf)
 2. [Oxenham, A.J. (2018). How we hear: The perception and neural coding of sound. Annual Review of Psychology, 69:27-50.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/29bd304acfa39a1ae5c9aa8640a56cbbe9a18c1e/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/How%20we%20hear%20-%20The%20perception%20and%20neural%20coding%20of%20sound.pdf)
 3. [Deroy, O., Spence, C., & Noppeney, U. (2016). Metacognition in multisensory perception. Trends in Cognitive Sciences, 20, 736-747.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/29bd304acfa39a1ae5c9aa8640a56cbbe9a18c1e/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/Metacognition%20in%20multisensory%20perception%20-%20Trends%20in%20Cognitive%20Sciences.pdf)
-
-11. [Joseph, S., Teki, S., Kumar, S., Husain, M., & Griffiths, T.D. (2016). Resource allocation models of auditory working memory. Brain Research, 1640: 183-192.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/997b5108aa39c2ceded8eb9dd979c7333360e624/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/Resource%20allocation%20models%20of%20auditory%20working%20memory.pdf)
+4. [Joseph, S., Teki, S., Kumar, S., Husain, M., & Griffiths, T.D. (2016). Resource allocation models of auditory working memory. Brain Research, 1640: 183-192.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/997b5108aa39c2ceded8eb9dd979c7333360e624/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/Resource%20allocation%20models%20of%20auditory%20working%20memory.pdf)
+5. [Summary of Concepts and Terms](https://github.com/BredaUniversityADSAI/ADS-AI/blob/260f3f788372cfb55e2a4ba2956800de1b3b14a8/docs/Study%20Content/Cognition%20Fundamentals/assets/Summary%20of%20Concepts%20and%20Terms.docx): Highly recommended read which summarizes most important concepts discussed in the literature below. It also contains various important model you can use to create cognitive systems; or systems to deal with information processing in general.

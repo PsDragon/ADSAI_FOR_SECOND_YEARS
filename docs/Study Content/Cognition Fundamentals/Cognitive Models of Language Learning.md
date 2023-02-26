@@ -28,6 +28,8 @@ To start of with, we're going to focus on child language acquisition because it'
 
 ## Datalab Preparation 
 1. Read the preface and chapter 1, 2 and 3; you can skip the abstract and other preceeding parts.
+- A) Given the current developments surrounding large language models such as chatGPT, does the Innateness Hypothesis stand firm in your view?
+- B) And what about the Usage-based theories of language acquisition?
 2. Take a look at your Vision_Auditory_Cognition_Flowchart file you created yesterday. Would a human with the cognitive system described in your flowchart be able: 
 - A) to map the perceived sounds to words? If not, iterate on your flowchart to make it work.
 - B) to map those words to their respective meanings? If not, iterate on your flowchart to make it work.

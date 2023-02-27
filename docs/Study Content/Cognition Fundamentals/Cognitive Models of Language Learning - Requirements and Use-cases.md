@@ -5,7 +5,7 @@ sort: 6
 # Cognitive Models of Language Learning - Requirements & Use-cases
 
 
-In **today's data lab**, we will work on the Cognitive Models of Language Learning use-cases. Use-case 1 is related to the independent study material of Monday and Tuesday (week 3) whereas Use-case 2 is related to all indepdent study material.
+In **today's data lab**, we will work on the Cognitive Models of Language Learning use-cases. Use-case 1 is related to the independent study material of Monday and Tuesday (week 3) whereas Use-case 2 is related to all indepdent study material for cognition this block.
 
 ## Use-cases
 
@@ -27,16 +27,18 @@ Here is a table of the use-cases and their description.
 
 
 ## Use-case 1: Create a flowchart of language acquisition and demonstrate the information processing for a simple scenario
-Scenario description: Baby sees their mother directly in front and above her crib; both are in a lit room. The mother is repeating the same word over and over again: 'mama'. After every repetition, there are two possible outcomes:
+Provide a *step-by-step* walkthrough using your flowchart:
+
+Scenario description: Baby sees their mother directly in front and above her crib; both are in a well-lit room. The mother is repeating the same word over and over again: 'mama'. After every repetition, there are two possible outcomes:
 1. The baby does not repeat the word (succesfully) or performs some other behaviour (e.g. smiling). The mother therefore repeats the word. <!--- (auditory cue, no positive or negative reinforcement learning) --->
 2. The baby repeats the word succesfully (enough). In response the mother smiles and expresses auditory excitement. <!--- (auditory, visual and tactile cue; positive reinforcement learning) --->
 
 You can assume that the baby and the mother both do not have any biological or psychological defects and represent the average human of their given category. You only have to describe the informational processing of the elements mentioned in the scenario description. 
 
 ### Learning Behaviour to Integrate
-This scenario uses cognitive systems and processes we studied last block but it also integrate the material we studied with regards to the [auditory system](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Auditory%20Perception%20&%20Learning.html) and [cognitive models of language learning](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Cognitive%20Models%20of%20Language%20Learning.html). However, this scenario requires the see the exhibition of a type of a second type of learning behaviour we did not cover yet: mirror-neurons.
+This scenario uses cognitive systems and processes we studied last block but it also integrates the material we studied with regards to the [auditory system](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Auditory%20Perception%20&%20Learning.html) and [cognitive models of language learning](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Cognitive%20Models%20of%20Language%20Learning.html). However, this scenario requires the integration of a type of a second type of learning behaviour we did not cover yet: mirror-neurons.
 
-Mirror neurons are a type of neuron found in the brain that become active when an individual observes another individual performing the same action. If the individual performs that same action as the observed individual, the same neurons are activate. The discovery of mirror neurons has led to the development of the "mirror neuron theory," which proposes that these neurons play a key role in social cognition, empathy, and the ability to understand and imitate the actions of others. According to this theory, when an individual observes another person's actions, the mirror neurons in their brain fire in a way that allows them to simulate the observed action and understand its meaning.
+Mirror neurons are a type of neuron found in the brain that become active when an individual observes another individual performing the same action. If the individual performs that same action as the observed individual, the same neurons are activated. The discovery of mirror neurons has led to the development of the "mirror neuron theory," which proposes that these neurons play a key role in social cognition, empathy, and the ability to understand and imitate the actions of others. According to this theory, when an individual observes another person's actions, the mirror neurons in their brain fire in a way that allows them to simulate the observed action and understand its meaning.
 
 <img src="./assets/MirrorNeurons.png" alt="MirrorNeurons" width="900"/>
 
@@ -45,7 +47,7 @@ Mirror neurons are found in several areas of the brain, including the premotor c
 Research on mirror neurons has focused on a wide range of behaviors, including language, empathy, and even the ability to experience emotions. For example, studies have shown that individuals with autism, who often have difficulty with social communication and empathy, may have differences in their mirror neuron systems compared to typically developing individuals. Mirror neurons are a fascinating area of research that have provided new insights into the brain mechanisms underlying social cognition and the ability to understand and interact with others. And the scenario above describes a simple situation where they would, slowly, be connected.
 
 ### Requirements
-- Flowchart meeting able to handle the informational processing described in the points above where the files is delivered as: .pptx, .pdf, .png, .docx, .jpeg, and .JPG. For other file extensions, contact the course instructor.
+- Flowchart meeting able to handle the informational processing described in the points above where the files is delivered as: .pptx, .pdf, .png, .docx, .jpeg, and .jpg. For other file extensions, contact the course instructor.
 - Recorded walkthrough (maximum of 10 minutes) in microsoft teams where you explain how the information is processed by the baby. First for step one (only once) and then for step 2. Make sure your flowchart walkthrough covers all the relevant input and output criteria; and how these inputs and output are covered in the environment and to which categories they belong (e.g. tactile cue). Only focus on the cues which are relevant for understanding the situational context.
 
 ### ILO Mapping Explained
@@ -57,10 +59,37 @@ Research on mirror neurons has focused on a wide range of behaviors, including l
 
 ## Use-case 2: Create a flowchart of language acquisition and demonstrate the information processing for a complex scenario
 
-Under construction.
+**Under construction.**
+
+<!--
+## 1
+Scenario description: 
+1. A young child is located in a kitchen and sits before the TV, their mom is, audibly, cutting apples and singing to the right of the child. The child is watching an educational children's cartoon on TV where 3 dogs are walking together through a park. The dogs do not talk, only humans talk in this cartoon. The dogs look happy, and bark happily and run along a field of grass with a sunny, cloudless sky. The child immitates the happy facial expressions and smiles too. 
+2. The dogs suddenly stop running, start to look angy and start growling; all at different frequencies and volumes, at a central direction. The cartoon switches to a shot of a tree with a squirrel in it which looks scared and [squeaks (in case you're interested how that sounds, but not relevant for this scenario)](https://youtube.com/watch?v=dP2lzLin1Ho&feature=shares&t=4). This child looks scared and start crying.
+3. The mother stops cutting apples and singing, and walks towards the child saying 'aaaah sweetie'. The mother lifts the child, cuddles it and say 'here, here, come now, it's okay'.
+4. The mother directs the gaze of the child towards the tv and say 'see, it's going to be okay.'. At which point, the cartoon cuts to a shot of a young teenager running towards to the growling dogs and which commands the dogs to stop by yelling 'stop'. At which points the dogs stop and are taken away by the teenager out of the shot. The mother says 'see, it's alright' and the child stops crying.
 
 
+You can assume that the baby and the mother both do not have any biological or psychological defects and represent the average human of their given category. You only have to describe the informational processing of the elements mentioned in the scenario description. You only have to include visual and auditory cues and can skip the tactile cues. 
 
+
+### Requirements
+- Flowchart meeting able to handle the informational processing described in the points above where the files is delivered as: .pptx, .pdf, .png, .docx, .jpeg, and .jpg. For other file extensions, contact the course instructor.
+- Recorded walkthrough (maximum of 15 minutes) in microsoft teams where you explain how the information is processed by the baby. 
+SOMETHING ON THE DIFFERENT STEPS.
+Make sure your flowchart walkthrough covers all the relevant input and output criteria; and how these inputs and output are covered in the environment and to which categories they belong (e.g. tactile cue). Only focus on the cues which are relevant for understanding the situational context.
+
+### ILO Mapping Explained
+This use-case builds on the same flowchart as use-case 1, and the good criteria are as always dependent on you achieving the previous assessment rubric, therefore for this use case you will also need to do the following to achieve the respective ILO's:
+- Poor: flowchart of auditory perceptual proccesing accurately representents cognitive theory of auditory perception and language acquisition.
+- Insufficient: Input & output going into the model for acquiring the linguistic meaning of word is correctly identified.
+- Sufficient: The entire model with all; A) it's components and B) the information forms (or types) at each step, is correct.
+
+Furthermore, you can achieve the following ILO criteria by:
+- Good: Creating and demonstrating that your model flowchart for language acquisition can accomodate for for use-case 2 by being able to handle differentiating environmental conditions in the given use-case. 
+- Excellent: Demonstrating the simmilarities and distictions between transformer networks used in state-of-the-art large language models and human cognitive system in the context of language aquisition & auditory perception. 
+
+-->
 
 
 ## The final deliverables

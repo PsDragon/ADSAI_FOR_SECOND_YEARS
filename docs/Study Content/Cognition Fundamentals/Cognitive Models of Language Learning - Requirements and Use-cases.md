@@ -17,11 +17,14 @@ Here is a table of the use-cases and their description.
 | 2 | Create a flowchart of language acquisition and demonstrate the information processing for a complex scenario | Good & Excellent 
 
 
+
 :bell: Before we start, please make sure you have read the sections on [The final deliverables](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Cognitive%20Models%20of%20Language%20Learning%20-%20Requirements%20and%20Use-cases.html#the-final-deliverables) and [Plagiarism](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Cognitive%20Models%20of%20Language%20Learning%20-%20Requirements%20and%20Use-cases.html#plagiarism) you can find in the bottom of this page.
+
 
 **Let's get started: Keep the coffee flowing and the music playing!**
 
 :thumbsup: :headphones: :coffee:
+
 
 ## Use-case 1: Create a flowchart of language acquisition and demonstrate the information processing for a simple scenario
 Scenario description: Baby sees their mother directly in front and above her crib; both are in a lit room. The mother is repeating the same word over and over again: 'mama'. After every repetition, there are two possible outcomes:

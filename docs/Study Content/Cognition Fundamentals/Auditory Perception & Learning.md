@@ -156,7 +156,7 @@ Sound cues with a frequency above 3000 hertz consists of waves which follow one-
 *Figure 11. How different frequencies influence the horizontal localization of sound displayed with a diagram of interaural intensity of the left and interaural timing on the right.*
 
 ## Datalab Preparation 2/2
-3. Add a second ear leading up to the auditory context to your flowchart. 
+3. Add a second pinna to your flowchart, each representing one ear; left and right. The remainder of the information flow is the same for both ears so we just need one implementation of the rest of the system.
 4. Imagine that a sound cello is playing a sound below 3000 hertz to the right of you. Run it through you flowchart, does the informational processing flow hold up?
 5. Imagine that a sound violin is playing a sound above 3000 hertz to the left of you. Run it through you flowchart, does the informational processing flow hold up?
 6. Create a new file you call Vision_Auditory_Cognition_Flowchart. Merge your flowchart from cognition fundamentals from block B with your auditory flowchart. You flowchart should be able to describe the informational proccessing of both visual and auditory queues. Ask yourself the questions:

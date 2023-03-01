@@ -3,7 +3,15 @@ sort: 10
 ---
 
 # Transformer Networks and Cognition
-AN INTRODUCTION TO THE TOPIC
+The connection between human cognition and transformer networks lies in the ability of transformer networks to model and process complex sequential data, such as natural language. Furthermore, both sample the most relevant information previously observed for further perceptual processing and generate information based on it.
+
+Human cognition involves a wide range of processes related to perception, attention, memory, and decision-making, all of which involve the processing of complex and dynamic streams of information. Similarly, transformer networks are designed to process sequential data by attending to different parts of the sequence at different times and encoding this information in a way that can be used for downstream tasks such as language generation or image classification.
+
+Transformer networks are modeled after the architecture of the human brain, with layers of processing nodes that gradually build up representations of the input data. This process is similar to the way that humans process information, with neural connections forming and strengthening over time as new information is learned and integrated into existing knowledge.
+
+One key advantage of transformer networks is their ability to learn and adapt to new information and contexts over time. This is similar to the way that humans continually update their mental models of the world in response to new experiences and information.
+
+Therefore, the connection between human cognition and transformer networks lies in their shared ability to modulate attention (or mymic it in the case of transformer networks). Which allows both to process complex and dynamic streams of information in a flexible and adaptive way. While there are still many open questions about the nature of this connection, ongoing research in fields such as cognitive neuroscience and artificial intelligence. The developments in the fields of computer vision (DALL-E) and natural language processing (chapGPT) is helping to shed new light on the ways that these two systems intersect and inform each other.
 
 ## Learning Objectives: 
 1. Understand and evaluate the simmilarities and distictions between transformer networks used in state-of-the-art large language models and human cognitive system in the context of language aquisition & auditory perception. 
@@ -11,7 +19,7 @@ AN INTRODUCTION TO THE TOPIC
 
 
 ## Lecture - Transformer Networks and Cognition
-Live lecture which is given on the 3rd of March from 9:00 till 10:00 with a 20 min break. You can find the slides [here](LINK) and after the lecture, there should be [a recording available here!](LINK)
+Live lecture which is given on the 3rd of March from 10:00 till 11:00. You can find the slides [here](LINK) and after the lecture, there should be [a recording available here!](LINK)
 
 Relevant literature to research:
 1. [Alishahi, A. (2010). Computational modeling of human language acquisition. Synthesis Lectures on Human Language Technologies, 3(1), 1-107.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/d42ffd034a2d1a35752d7c83c30300288a4ae153/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/Computational%20Modeling%20of%20Human%20Language%20Acquisition.pdf)

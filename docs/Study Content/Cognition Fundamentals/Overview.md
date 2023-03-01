@@ -20,8 +20,8 @@ Note that [the cognitive revolution was a wider phenomena](https://en.wikipedia.
 2. Apply cognitive theories of attention, perception and memory to the domain of human-technology interaction.
 3. Describe and apply computational methods of measuring attention, perception and memory;
 
-## Year 2B - Cognitive Robotics:
-Cognitive robots achieve their goals by perceiving their environment, paying attention to the events that matter, planning what to do, anticipating the outcome of their actions and the actions of other agents, and learning from the resultant interaction. They deal with the inherent uncertainty of natural environments by continually learning, reasoning, sharing their knowledge and making decision based on that knowledge.
+## Year 2B - Visual Perception, Attention and Memory :
+Humans, and ideally robots, achieve their goals by perceiving their environment, paying attention to the events that matter, planning what to do, anticipating the outcome of their actions and the actions of other agents, and learning from the resultant interaction. They deal with the inherent uncertainty of natural environments by continually learning, reasoning, sharing their knowledge and making decision based on that knowledge.
 
 ### Course materials by Topic:
 1. [Visual Perception & Learning - Workshop](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Perception%20&%20Learning%20-%20Workshop.html); consisting of two parts: 
@@ -33,12 +33,17 @@ Cognitive robots achieve their goals by perceiving their environment, paying att
 - Actions: Interacting with static and dynamic environments.
 5. [Decision-making & Actions - Datalab](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Decision-making%20&%20Actions%20-%20Datalab%20material.html): Apply the above to the creative brief.
 
-## Year 2C - Cognition and Language Learning:
-Coming soon!
+## Year 2C - Auditory Cognition and Human Language Acquisition:
+The human auditory system is a complex system responsible for our sense of hearing and understanding language. It consists of several components that work together to detect, process, and interpret sound waves. Human language on the other hand can take several forms: sound, letters, other symbols, gestures. It's quite extensive and multi-dimensional, however we're going to focus on the fundamentals to allow you to interpret your auditory processing algorithms and natural language processing algorithms better!
 
 ## Course materials by Topic:
-1. [Cognitive Models of Language Learning (Y2C)](https://adsai.buas.nl/404)
-2. [Cognition for Natural Language Proccessing (Y2C)](https://adsai.buas.nl/404)
+1. [Auditory Perception and Learning](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Auditory%20Perception%20&%20Learning.html)
+2. [Cognitive Models of Language Learning](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Cognitive%20Models%20of%20Language%20Learning.html)
+3. [Language Learning in Dynamic Environments](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Language%20Learning%20in%20Dynamic%20Environments.html)
+4. [Transformer Networks and Cognition](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Transformer%20Networks%20and%20Cognition.html)
+
+## Use-Cases and Requirements:
+- [Cognitive Models of Language Learning - Requirements & Use-cases](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Cognitive%20Models%20of%20Language%20Learning%20-%20Requirements%20and%20Use-cases.html) 
 
 
 
@@ -65,4 +70,5 @@ Coming soon!
 15. van der Heijden, A. H. (2004). Attention in vision: Perception, communication and action. Psychology Press.
 16. Mather, G. (2016). Foundations of sensation and perception. Psychology Press. 
 17. [Szeliski, R. (2022). Computer vision: algorithms and applications. Springer Nature.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/7c3e62e0c5ba4a3939286b0462568cc2dc592acc/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/Computer%20Vision%20-%20Algorithms%20and%20Applications,%202nd%20Edition.pdf)
-
+18. [Alishahi, A. (2010). Computational modeling of human language acquisition. Synthesis Lectures on Human Language Technologies, 3(1), 1-107.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/d42ffd034a2d1a35752d7c83c30300288a4ae153/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/Computational%20Modeling%20of%20Human%20Language%20Acquisition.pdf)
+19. [Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Attention is all you need. Advances in neural information processing systems, 30.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/8fcd25ff6aa725d6aeaafab2657413b6304b174a/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/Attention%20is%20all%20you%20need%20-%20Transformer%20Networks%20Introduction.pdf)

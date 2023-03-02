@@ -59,25 +59,21 @@ Research on mirror neurons has focused on a wide range of behaviors, including l
 
 ## Use-case 2: Create a flowchart of language acquisition and demonstrate the information processing for a complex scenario
 
-**Under construction.**
-
-<!--
+Describe the auditory and visual perceptual processing of the child, and relate it to the child's acquisition of language.
 ## 1
 Scenario description: 
-1. A young child is located in a kitchen and sits before the TV, their mom is, audibly, cutting apples and singing to the right of the child. The child is watching an educational children's cartoon on TV where 3 dogs are walking together through a park. The dogs do not talk, only humans talk in this cartoon. The dogs look happy, and bark happily and run along a field of grass with a sunny, cloudless sky. The child immitates the happy facial expressions and smiles too. 
-2. The dogs suddenly stop running, start to look angy and start growling; all at different frequencies and volumes, at a central direction. The cartoon switches to a shot of a tree with a squirrel in it which looks scared and [squeaks (in case you're interested how that sounds, but not relevant for this scenario)](https://youtube.com/watch?v=dP2lzLin1Ho&feature=shares&t=4). This child looks scared and start crying.
-3. The mother stops cutting apples and singing, and walks towards the child saying 'aaaah sweetie'. The mother lifts the child, cuddles it and say 'here, here, come now, it's okay'.
-4. The mother directs the gaze of the child towards the tv and say 'see, it's going to be okay.'. At which point, the cartoon cuts to a shot of a young teenager running towards to the growling dogs and which commands the dogs to stop by yelling 'stop'. At which points the dogs stop and are taken away by the teenager out of the shot. The mother says 'see, it's alright' and the child stops crying.
+1. A young child is located in a kitchen and sits before the TV, their mom is, audibly, cutting apples and singing to the righthand-side of the child. To the lefthand-side of the child lies a dark-brown german shephard dog; a puppy called Henry. The child is watching an educational children's cartoon on TV which depicts a field of grass under a sunny, unclouded sky. A brown labrador walks into the frame, facing the camera and barks hapily (800 Hertz). Henry barks happily (3000 Hertz) back as well, at which point the child looks at Henry, smiles and looks back at the TV. A beige golden retriever walking into the scene, turns to face the camera, also barking happily (1200 Hertz). Henry barks happily (3000 Hertz) back again, the child looks at Henry, smiles and looks back at the TV. The mother says 'Stop barking Henry', she walks, passing between the child and tv, up to Henry. The mother repeats 'Stop Henry' again, Henry stops barking but regardless the mother takes Henray by his collar and guides him through the backdoor on the righthand-side of the child. She returns to cutting the apples and the child to watching TV.
+2. The 2 dogs on the TV start walking together over the grassy field. The dogs do not talk, only humans talk in this cartoon. The dogs suddenly stop running, start to look angy and start growling; both at their respective frequencies minus 300 Hertz, at  The cartoon switches to a shot of a tree with a squirrel in it which looks scared and squeaks (5000 Hertz). This child looks scared and start crying.
+3. The mother stops cutting apples, turns, and walks towards the child saying 'aaaah sweetie'. The mother lifts the child, cuddles it and say 'here, here, come now, it's okay'.
+4. The cartoon cuts to a shot of a young teenager running towards the dogs. The mother directs the gaze of the child towards the tv and says 'see, it's going to be okay.'. At which point, the teenager commands the dogs to stop by yelling 'stop!'. At which points the dogs stop and are grabbed by their collars and are taken away by teenager out of the shot. The mother says 'see, it's alright' and the child stops crying.
 
 
-You can assume that the baby and the mother both do not have any biological or psychological defects and represent the average human of their given category. You only have to describe the informational processing of the elements mentioned in the scenario description. You only have to include visual and auditory cues and can skip the tactile cues. 
+You can assume that the baby and the mother both do not have any biological or psychological defects and represent the average human of their given category. You only have to describe the informational processing of the elements mentioned in the scenario description. You only have to include visual and auditory cues for each step but can skip the tactile cues for all steps **except step 3**. If the frequency for a sound is given, you have to explain it to the appropriate sensory and perceptual depth. Only describe the details explicitly mentoined in the text.
 
 
 ### Requirements
 - Flowchart meeting able to handle the informational processing described in the points above where the files is delivered as: .pptx, .pdf, .png, .docx, .jpeg, and .jpg. For other file extensions, contact the course instructor.
-- Recorded walkthrough (maximum of 15 minutes) in microsoft teams where you explain how the information is processed by the baby. 
-SOMETHING ON THE DIFFERENT STEPS.
-Make sure your flowchart walkthrough covers all the relevant input and output criteria; and how these inputs and output are covered in the environment and to which categories they belong (e.g. tactile cue). Only focus on the cues which are relevant for understanding the situational context.
+- Recorded walkthrough (maximum of 15 minutes) in microsoft teams where you explain how the information is processed by the baby. Specifically, describe the auditory and visual perceptual processing of the child, and relate it to the child's acquisition of language. Make sure your flowchart walkthrough covers all the relevant input and output criteria; and how these inputs and output are covered in the environment and to which categories they belong (e.g. tactile, visual or auditory cue). Only focus on the cues which are relevant for understanding the situational context. Tactile cues only need to be described in terms of direct learning effect.
 
 ### ILO Mapping Explained
 This use-case builds on the same flowchart as use-case 1, and the good criteria are as always dependent on you achieving the previous assessment rubric, therefore for this use case you will also need to do the following to achieve the respective ILO's:
@@ -89,7 +85,6 @@ Furthermore, you can achieve the following ILO criteria by:
 - Good: Creating and demonstrating that your model flowchart for language acquisition can accomodate for for use-case 2 by being able to handle differentiating environmental conditions in the given use-case. 
 - Excellent: Demonstrating the simmilarities and distictions between transformer networks used in state-of-the-art large language models and human cognitive system in the context of language aquisition & auditory perception. 
 
--->
 
 
 ## The final deliverables

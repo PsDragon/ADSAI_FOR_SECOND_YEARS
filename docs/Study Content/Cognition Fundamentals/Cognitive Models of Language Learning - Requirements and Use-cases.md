@@ -60,8 +60,8 @@ Research on mirror neurons has focused on a wide range of behaviors, including l
 ## Use-case 2: Create a flowchart of language acquisition and demonstrate the information processing for a complex scenario
 
 Describe the auditory and visual perceptual processing of the child, and relate it to the child's acquisition of language.
-## 1
-Scenario description: 
+
+### Scenario description: 
 1. A young child is located in a kitchen and sits before the TV, their mom is, audibly, cutting apples and singing to the righthand-side of the child. To the lefthand-side of the child lies a dark-brown german shephard dog; a puppy called Henry. The child is watching an educational children's cartoon on TV which depicts a field of grass under a sunny, unclouded sky. A brown labrador walks into the frame, facing the camera and barks hapily (800 Hertz). Henry barks happily (3000 Hertz) back as well, at which point the child looks at Henry, smiles and looks back at the TV. A beige golden retriever walking into the scene, turns to face the camera, also barking happily (1200 Hertz). Henry barks happily (3000 Hertz) back again, the child looks at Henry, smiles and looks back at the TV. The mother says 'Stop barking Henry', she walks, passing between the child and tv, up to Henry. The mother repeats 'Stop Henry' again, Henry stops barking but regardless the mother takes Henray by his collar and guides him through the backdoor on the righthand-side of the child. She returns to cutting the apples and the child to watching TV.
 2. The 2 dogs on the TV start walking together over the grassy field. The dogs do not talk, only humans talk in this cartoon. The dogs suddenly stop running, start to look angy and start growling; both at their respective frequencies minus 300 Hertz, at  The cartoon switches to a shot of a tree with a squirrel in it which looks scared and squeaks (5000 Hertz). This child looks scared and start crying.
 3. The mother stops cutting apples, turns, and walks towards the child saying 'aaaah sweetie'. The mother lifts the child, cuddles it and say 'here, here, come now, it's okay'.

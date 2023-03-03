@@ -260,6 +260,8 @@ In weeks 1 and 2, you learned how to preprocess text data and develop language m
 
 **DataLab 1: Kaggle**
 
+10:00 Meeting with Frank
+
 Open your favorite IDE, load `train.csv` and `test.csv`, and start building your models. Preprocess the data as you have learned on Week 1. Make at least two submissions, one with a Naive Bayes model and one with a Logistic Regression model, as you have learned on Week 2. Log your submissions to `Kaggle-Y2C_2022-23_ADSAI`.
 
 After this datalab, you will be able to:

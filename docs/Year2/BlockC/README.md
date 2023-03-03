@@ -302,17 +302,38 @@ DataLab 2, Prep and Goal(s): Neural Networks 2
 
 ### Week 6
 
-DataLab 1, Prep and Goal(s): Neural Networks 3
+DataLab 1, Prep and Goal(s):
 
-DataLab 2, Prep and Goal(s): Final day of individual Kaggle submissions
+<mark>Presentation workshop 1 (09:30-12:00 Fe1.019)</mark>
+
+In Week 8, you will present your Kaggle submissions. To do this successfully, Bert will give you workshop on how to present your results.
+
+13:00-17:00 Individual Kaggle submissions
+
+DataLab 2, Prep and Goal(s): 
+
+09:00-12:00 Finalize individual Kaggle submissions
+13:00-17:00 Team formation and start of team submissions
 
 __Formative feedback III__
 
 ### Week 7
 
-DataLab 1, Prep and Goal(s): Kaggle Team submissions 1
+DataLab 1, Prep and Goal(s): 
 
-DataLab 2, Prep and Goal(s): Kaggle Team submissions 2
+<mark>Presentation workshop 2 (09:30-15:30 Fe1.038)</mark>
+
+It is time to put what you have learned in the first workshop into practice.
+
+- You will present using what they have learned in workshop 1
+- You will get feedback from Bert and peers
+- You will adjust your presentations accordingly, and present again
+
+15:30-17:00 Kaggle Team submissions
+
+DataLab 2, Prep and Goal(s): Kaggle Team submissions
+
+Sunday 22:00 Kaggle Team submission deadline and announcement of the results.
 
 ### Week 8 
 

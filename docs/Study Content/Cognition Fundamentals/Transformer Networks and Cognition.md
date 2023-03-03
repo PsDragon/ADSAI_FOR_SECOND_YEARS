@@ -16,7 +16,7 @@ Therefore, the connection between human cognition and transformer networks lies 
 
 
 ## Lecture - Transformer Networks and Cognition
-Live lecture which is given on the 3rd of March from 10:00 till 11:00. You can find the slides [here](LINK) and after the lecture, there should be [a recording available here!](LINK)
+Live lecture which is given on the 3rd of March from 10:00 till 11:00. You can find the slides [here](https://github.com/BredaUniversityADSAI/ADS-AI/blob/4359863c844d471d722c706c922a7dfa1c6e3f7c/docs/Study%20Content/Cognition%20Fundamentals/assets/lectures/Cognition%20Fundamentals%20-%20Cognitive%20Models%20of%20Language%20Learning%20&%20Large%20Language%20Models.pptx) and after the lecture, there should be [a recording available here!](LINK)
 
 Relevant literature to research:
 1. [Alishahi, A. (2010). Computational modeling of human language acquisition. Synthesis Lectures on Human Language Technologies, 3(1), 1-107.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/d42ffd034a2d1a35752d7c83c30300288a4ae153/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/Computational%20Modeling%20of%20Human%20Language%20Acquisition.pdf)

@@ -145,7 +145,6 @@ Below you will find the timeline on a day-to-day basis. Further down, there is i
 
 ## Friday
 - [DataLab: MLP from scratch 2](https://adsai.buas.nl/Study%20Content/DeepLearning/10.%20DataLab%20MLP%20from%20scratch.html)
-- [ ] Feedback Session
 
 # Week 4 : PoC - Convolutional Neural Networks with Keras
 
@@ -163,6 +162,7 @@ Below you will find the timeline on a day-to-day basis. Further down, there is i
 
 ## Friday
 - [DataLab: Working with small datasets](https://adsai.buas.nl/Study%20Content/DeepLearning/15.%20CNN%20day%205.html)
+- [ ] Feedback Session
 
 
 # Week 5 : PoC - The Machine Learning Project Lifecycle

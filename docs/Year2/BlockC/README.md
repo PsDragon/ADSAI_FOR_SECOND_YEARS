@@ -261,7 +261,7 @@ In weeks 1 and 2, you learned how to preprocess text data and develop language m
 
 **DataLab 1: Kaggle**
 
-10:00 Meeting with Frank
+<mark>10:00 Meeting with Frank</mark>
 
 Open your favorite IDE, load `train.csv` and `test.csv`, and start building your models. Preprocess the data as you have learned on Week 1. Make at least two submissions, one with a Naive Bayes model and one with a Logistic Regression model, as you have learned on Week 2. Log your submissions to `Kaggle-Y2C_2022-23_ADSAI`.
 
@@ -277,9 +277,12 @@ Study the following:
 - Speech and Language Processing
     - Chapter 6/Vector Semantics and Embeddings
 
-Note!!
-In the next DataLab on Embeddings you will build a neural network with Keras. If you need a refresher on Keras, please complete the following course:
-[Introduction to Deep Learning with Keras](https://app.datacamp.com/learn/courses/introduction-to-deep-learning-with-keras)
+<mark>Note</mark>
+
+From this point on, you will start building language models with Keras. If you need a refresher on Keras, take a look at the following:
+
+- [Introduction to Deep Learning with Keras.](https://app.datacamp.com/learn/courses/introduction-to-deep-learning-with-keras)
+- [Y1C Week 2 material](https://adsai.buas.nl/Study%20Content/DeepLearning/)
 
 **DataLab 2: Embeddings**
 
@@ -295,23 +298,21 @@ __Formative feedback II__
 
 ### Week 5
 
+**DataLab 1: Recurrent Neural Networks**
 
-DataLab 1, Prep and Goal(s): Neural Networks 1
-
-DataLab 2, Prep and Goal(s): Neural Networks 2
-
+**DataLab 2: Transformers**
 
 ### Week 6
 
-DataLab 1, Prep and Goal(s):
+**DataLab 1: Presentation workshop + Kaggle**
 
-<mark>Presentation workshop 1 (09:30-12:00 Fe1.019)</mark>
+09:30-12:00 <mark>Presentation workshop 1 Fe1.019</mark>
 
 In Week 8, you will present your Kaggle submissions. To do this successfully, Bert will give you workshop on how to present your results.
 
 13:00-17:00 Individual Kaggle submissions
 
-DataLab 2, Prep and Goal(s): 
+**DataLab 2: Kaggle**
 
 09:00-12:00 Finalize individual Kaggle submissions
 13:00-17:00 Team formation and start of team submissions
@@ -320,9 +321,9 @@ __Formative feedback III__
 
 ### Week 7
 
-DataLab 1, Prep and Goal(s): 
+**DataLab 1: Presentation workshop + Kaggle**
 
-<mark>Presentation workshop 2 (09:30-15:30 Fe1.038)</mark>
+09:30-15:30 <mark>Presentation workshop 2 Fe1.038</mark>
 
 It is time to put what you have learned in the first workshop into practice.
 
@@ -332,15 +333,16 @@ It is time to put what you have learned in the first workshop into practice.
 
 15:30-17:00 Kaggle Team submissions
 
-DataLab 2, Prep and Goal(s): Kaggle Team submissions
 
-Sunday 22:00 Kaggle Team submission deadline and announcement of the results.
+**DataLab 2: Kaggle Team submissions**
+
+Sunday 22:00 Kaggle Team submission deadline.
 
 ### Week 8 
 
-DataLab 1, Prep and Goal(s): Kaggle presentations
+**DataLab 1: Presenting your Kaggle submissions**
 
-DataLab 2, Prep and Goal(s): Holiday!
+**DataLab 2: Holiday!**
 
 
 ***

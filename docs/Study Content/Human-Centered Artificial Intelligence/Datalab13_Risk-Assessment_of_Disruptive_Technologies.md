@@ -88,7 +88,7 @@ You can find [the slides here](https://github.com/BredaUniversityADSAI/ADS-AI/bl
 
 The lecture has been scheduled in your agenda but can also be attended by [clicking this link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzlkYzZhMGYtNjA4Yy00MTY0LTg2YjktNDc0NWU0ZWY2MDZl%40thread.v2/0?context=%7b%22Tid%22%3a%220a33589b-0036-4fe8-a829-3ed0926af886%22%2c%22Oid%22%3a%225cef929d-ecf9-4fca-bf12-bc5ee065fc99%22%7d)!
 
-A video recording of the lecture can be found in [part 1](https://edubuas-my.sharepoint.com/:v:/g/personal/heijligers_b_buas_nl/EdsDFEiIsuRHk5zJVi8brdYBEz6nwwfPzGOse4AtCSQ_mg?e=OfcqJX), [part 2](https://edubuas-my.sharepoint.com/:v:/g/personal/heijligers_b_buas_nl/ETEk-fhH_zJJqBQ-XZ9QyWsBKNLlAiEuhtPhrkbP_IRHqw?e=9lOMLe), and [part 3](https://edubuas-my.sharepoint.com/:v:/g/personal/heijligers_b_buas_nl/ESoRMz-6ouNLstM1Sw0Har8BZ41ygpvIgaT1wFDBT3GlSw?e=hPIydS) after it was given and uploaded.
+A video recording of the lecture can be found in [part 1](https://edubuas-my.sharepoint.com/:v:/g/personal/heijligers_b_buas_nl/EdsDFEiIsuRHk5zJVi8brdYBf7hQ1M01kru37a_vkzMpSA?e=9J0DLW), [part 2](https://edubuas-my.sharepoint.com/:v:/g/personal/heijligers_b_buas_nl/ETEk-fhH_zJJqBQ-XZ9QyWsBJOtAeCjg-Vm2pjkedOOICg?e=mTwvtN), and [part 3](https://edubuas-my.sharepoint.com/:v:/g/personal/heijligers_b_buas_nl/ESoRMz-6ouNLstM1Sw0Har8BzePHRUQ30PY4e49WMA56mQ?e=Mq4hCi) after it was given and uploaded.
 
 
 ## 5) Introduction to Wireframe prototyping using Proto.io

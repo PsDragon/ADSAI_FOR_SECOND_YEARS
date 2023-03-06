@@ -276,6 +276,7 @@ Study the following:
 
 - Speech and Language Processing
     - Chapter 6/Vector Semantics and Embeddings
+    - Chapter 7/Neural Networks and Neural Language Models
 
 <mark>Note</mark>
 
@@ -297,6 +298,14 @@ After this datalab, you will be able to:
 __Formative feedback II__
 
 ### Week 5
+
+**Self-study**
+
+Study the following:
+
+- Speech and Language Processing
+    - Chapter 8/Sequence Labeling for Parts of Speech and Named Entities
+    - Chapter 9/Deep Learning Architectures for Sequence Processing
 
 **DataLab 1: Recurrent Neural Networks**
 

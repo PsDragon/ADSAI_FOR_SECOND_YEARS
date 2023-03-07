@@ -309,7 +309,19 @@ Study the following:
 
 **DataLab 1: Recurrent Neural Networks**
 
+[<img src="./images/githubbadge.png" alt="GitHub" width="15%"/>](https://github.com/BredaUniversityADSAI/2022-23-Y2-BlockC/blob/main/DataLabs/W5-DL1/W5-DL1-RNNs-Student-Notebook.ipynb)
+
+After this datalab, you will be able to:
+
+- [ ] Build RNNs with Keras
+
 **DataLab 2: Transformers**
+
+[<img src="./images/githubbadge.png" alt="GitHub" width="15%"/>](https://github.com/BredaUniversityADSAI/2022-23-Y2-BlockC/blob/main/DataLabs/W5-DL2/W5-DL2-Transformers-Student-Notebook.ipynb)
+
+After this datalab, you will be able to:
+
+- [ ] Build Transformers with Keras
 
 ### Week 6
 

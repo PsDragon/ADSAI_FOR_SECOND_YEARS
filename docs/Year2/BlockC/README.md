@@ -325,6 +325,18 @@ After this datalab, you will be able to:
 
 ### Week 6
 
+**Self-study**
+
+- Natural Language Processing with Python
+    - Chapter 5/Categorizing and Tagging Words
+    - Chapter 6/Learning to Classify Text
+    - Complete the exercises indicated by "Your Turn". An example:
+    >Your Turn: How many times does the word lol appear in text5? How much is this as a percentage of the total number of words in this text?
+
+TF-IDF
+
+Quiz
+
 **DataLab 1: Presentation workshop + Kaggle**
 
 09:30-12:00 <mark>Presentation workshop 1 Fe1.019</mark>

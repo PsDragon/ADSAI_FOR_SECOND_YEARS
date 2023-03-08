@@ -337,6 +337,7 @@ After this datalab, you will be able to:
     - Section 6.5 TF-IDF Weighing terms in the vector
 
 Time for a quiz
+
 [<img src="./images/githubbadge.png" alt="GitHub" width="15%"/>](https://github.com/BredaUniversityADSAI/2022-23-Y2-BlockC/blob/main/SelfStudy/W6-Quiz-Student-Notebook.ipynb)
 
 **DataLab 1: Presentation workshop + Kaggle**

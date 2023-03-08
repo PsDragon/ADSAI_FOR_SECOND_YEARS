@@ -333,9 +333,11 @@ After this datalab, you will be able to:
     - Complete the exercises indicated by "Your Turn". An example:
     >Your Turn: How many times does the word lol appear in text5? How much is this as a percentage of the total number of words in this text?
 
-TF-IDF
+- Speech and Language Processing
+    - Section 6.5 TF-IDF Weighing terms in the vector
 
-Quiz
+Time for a quiz
+[<img src="./images/githubbadge.png" alt="GitHub" width="15%"/>](https://github.com/BredaUniversityADSAI/2022-23-Y2-BlockC/blob/main/SelfStudy/W6-Quiz-Student-Notebook.ipynb)
 
 **DataLab 1: Presentation workshop + Kaggle**
 

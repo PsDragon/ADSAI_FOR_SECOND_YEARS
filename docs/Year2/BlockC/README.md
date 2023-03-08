@@ -285,6 +285,8 @@ From this point on, you will start building language models with Keras. If you n
 - [Introduction to Deep Learning with Keras.](https://app.datacamp.com/learn/courses/introduction-to-deep-learning-with-keras)
 - [Y1C Week 2 material](https://adsai.buas.nl/Study%20Content/DeepLearning/)
 
+If you are using Keras a lot, I highly suggest you to buy the book [Deep Learning with Python (2nd Edition)](https://www.manning.com/books/deep-learning-with-python)
+
 **DataLab 2: Embeddings**
 
 [<img src="./images/githubbadge.png" alt="GitHub" width="15%"/>](https://github.com/BredaUniversityADSAI/2022-23-Y2-BlockC/blob/main/DataLabs/W4-DL2/W4-DL2-Embeddings-Student-Notebook.ipynb)
@@ -298,6 +300,8 @@ After this datalab, you will be able to:
 __Formative feedback II__
 
 ### Week 5
+
+It is time to step into the world of state of the art language models. Until very recently, [LSTMs](https://www.bioinf.jku.at/publications/older/2604.pdf) were the algorithm of choice for NLP problems. In 2017, a team from Google Brain introduced [Transformers](https://arxiv.org/pdf/1706.03762.pdf) which dominates NLP applications today (e.g. The T in ChatGPT). This week you will learn how they work and how to build them using Keras.
 
 **Self-study**
 

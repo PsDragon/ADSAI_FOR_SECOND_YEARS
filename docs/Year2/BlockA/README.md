@@ -1,4 +1,4 @@
-# Block A - Analytics Translator
+# Block A - Digital Transformation
 
 A creative project brief is like an open invitation. It invites an individual to
 propose their own creative vision while still giving a clear direction on the desired outcomes.
@@ -18,8 +18,8 @@ and amaze us with your creative problem solving!
 
 In the current block, the creative brief will span the whole block (**7 weeks**) and will focus
 on key compentencies of a role unique to the data science and
-AI industry- **the analytics translator**.
-This role encompasses several skills such as communication, research, analysis,
+AI industry- **the digital transformation expert**.
+This role encompasses several skills such as communication, research, change management,
 and to a large extent, decision making.
 
 Here are some articles that describe the role in a bit more detail:

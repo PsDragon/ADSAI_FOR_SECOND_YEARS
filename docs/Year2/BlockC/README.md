@@ -307,6 +307,15 @@ Study the following:
     - Chapter 8/Sequence Labeling for Parts of Speech and Named Entities
     - Chapter 9/Deep Learning Architectures for Sequence Processing
 
+The Speech and Language Processing explains how RNNs work. In DataLab 1 you will implement them with Keras. Here are some useful guides to learn how to use RNNs with Keras:
+
+- [Recurrent Neural Networks (RNN) with Keras](https://www.tensorflow.org/guide/keras/rnn)
+- [Bidirectional LSTM on IMDB](https://keras.io/examples/nlp/bidirectional_lstm_imdb/)
+
+Similary you learned how Transformers worked. In DataLab 2, you will implement a Transformer with Keras. Take a look at the following guide:
+
+- [Text classification with Transformer](https://keras.io/examples/nlp/text_classification_with_transformer/)
+
 **DataLab 1: Recurrent Neural Networks**
 
 [<img src="./images/githubbadge.png" alt="GitHub" width="15%"/>](https://github.com/BredaUniversityADSAI/2022-23-Y2-BlockC/blob/main/DataLabs/W5-DL1/W5-DL1-RNNs-Student-Notebook.ipynb)

@@ -162,7 +162,6 @@ Below you will find the timeline on a day-to-day basis. Further down, there is i
 
 ## Friday
 - [DataLab: Working with small datasets](https://adsai.buas.nl/Study%20Content/DeepLearning/15.%20CNN%20day%205.html)
-- [ ] Feedback Session
 
 
 # Week 5 : PoC - The Machine Learning Project Lifecycle
@@ -182,6 +181,7 @@ Below you will find the timeline on a day-to-day basis. Further down, there is i
 
 ## Friday
 - [DataLab: The Machine Learning Project Lifecycle](https://adsai.buas.nl/Study%20Content/DeepLearning/20.%20ML%20workflow%20day%205.html)
+- [ ] Feedback Session
 
 # Week 6: Responsible AI (Part 2: Transparency and Interpretability)
 
@@ -199,7 +199,7 @@ Below you will find the timeline on a day-to-day basis. Further down, there is i
 
 ## Friday
 - [DataLab: Responsible AI](https://adsai.buas.nl/Study%20Content/Responsible%20and%20Explainable%20AI/UseCases.html)
-- [ ] Feedback Session
+
 
 # Week 7 : Prototype - Human Centered AI
 
@@ -218,6 +218,7 @@ Below you will find the timeline on a day-to-day basis. Further down, there is i
 
 ## Friday
 - [DataLab: Wizzard of Ozz Workshop](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Datalab14_Conceptualizing_A_Wireframe_Prototype.html)
+- [ ] Feedback Session
 
 
 # Week 8: Prototype - Human Centered AI

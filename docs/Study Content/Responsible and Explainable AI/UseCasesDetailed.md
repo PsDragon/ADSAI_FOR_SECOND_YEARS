@@ -167,7 +167,7 @@ This function returns a list of values formatted as follows: ```[Predictive Equa
 
 To solve this use-case, you will need to convert AXA's Fairness Compass into an Python function, and subsequently test this function through writing and running a unit test. Below, you can find the steps to complete this use-case:
 
-1. Take a closer look at AXA's [The Fairness Compass](https://rb.gy/vze3w3). For example, think about the arguments you need to pass to the function, and the output of the function.
+1. Take a closer look at AXA's [The Fairness Compass](https://goo.su/7o1YWGj). For example, think about the arguments you need to pass to the function, and the output of the function.
 2. Select a dataset of your choice (e.g. Imsitu, MS COCO, COMPAS, etc.).
 3. Create a train/validation/test split for your dataset.
 4. Define a binary classification task using dataset selected in the previous step.

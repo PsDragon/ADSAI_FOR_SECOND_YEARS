@@ -189,13 +189,13 @@ Below you will find the timeline on a day-to-day basis. Further down, there is i
 - [XAI: The need for explanations!](../../Study%20Content/Responsible%20and%20Explainable%20AI/XAI1.html)
 
 ## Tuesday
-- [Feature Attribution in Computer Vision](../../Study%20Content/Responsible%20and%20Explainable%20AI/XAI3.html)
+- [Feature Attribution in Computer Vision](../../Study%20Content/Responsible%20and%20Explainable%20AI/XAI2.html)
 
 ## Wednesday
 - [DataLab: Responsible AI](https://adsai.buas.nl/Study%20Content/Responsible%20and%20Explainable%20AI/UseCases.html)
 
 ## Thursday
-- [Moving beyond feature attribution](../../Study%20Content/Responsible%20and%20Explainable%20AI/XAI4.html)
+- [Moving beyond feature attribution](../../Study%20Content/Responsible%20and%20Explainable%20AI/XAI3.html)
 
 ## Friday
 - [DataLab: Responsible AI](https://adsai.buas.nl/Study%20Content/Responsible%20and%20Explainable%20AI/UseCases.html)

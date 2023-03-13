@@ -88,7 +88,9 @@ At 14:30, there's a meeting you're encouraged to take part in to ask questions a
 Implement your findings in your wireframe prototype!
 
 ## Up Next!
-Next week, we will continue building our Interface Design skills and work on our wireframe prototype!
+Next week, we will continue building our Interface Design skills and work on our wireframe prototype! 
+
+Tomorrow, we will first continue to expand our knowledge by applying it a subfield: interface design and flow! We will also continue to further work out our vertical slice tomorrow!
 
 ## Recommend Literature:
 - [Human-Centered Artificial Intelligence: Wizzard of Oz Prototyping Blog](https://medium.com/google-design/human-centered-machine-learning-a770d10562cd)

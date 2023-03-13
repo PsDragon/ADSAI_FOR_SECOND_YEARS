@@ -21,12 +21,12 @@ After this module, you'll:
 5. Create a high-level design for HCAI applications.
 
 Table of contents:
-0. Kick-off: 0.5 hours
+0. Kick-off: 1 hour
 1. Interaction and Information Processing Fundamentals: 0.5 hours
 2. Design Techniques:  1.5 hours
-3. Workshop - High-level design: 2 hours
-3. Introduction to Human-Centered Artificial Intelligence **Lecture**: 1.5 hours
-4. Workshop: 1 hour
+3. Datalab Preparation 1 - High-level design: 2 hours
+3. Introduction to Human-Centered Artificial Intelligence **Lecture**: .75 hours
+4. Datalab Preparation 2: High-Level Design for HCAI Applications: 1 hour
 
 **Now, open your worklog and plan the different tasks for today in there!**
 
@@ -120,7 +120,7 @@ As was the case with the mobile revolution, and the web before that, ML will cau
 
 Want to know more? You can read this article on [Human-Centered Machine Learning!](https://medium.com/google-design/human-centered-machine-learning-a770d10562cd)
 
-## 5) Workshop Part 2: High-Level Design for Human-Centered AI Applications
+## 5) Datalab Preparation Part 2: High-Level Design for HCAI Applications
 Now, we're going to look at our problem-solution as if there is a human agent/servant doing all the work and interaction so we can distill how our application should respond to the user. If you are struggling, take a look at the [People + AI Guidebook](https://pair.withgoogle.com/guidebook) from Google, it's a great guide for designing HCAI applications!
 
 **Open your Block C Notes - Y1C_2022-23_ADSAI**, create a header called "HCAI High-Level Design" followed by a numeric list, and answer the following questions in it:

@@ -73,6 +73,7 @@ So, let's start coming up with our own Wizzard of Oz experiment!
 2. Run the test and observe the user’s actions while making the system react to those actions by triggering the different responses the system should give at that moment in the interaction. It's best if the 'Wizzard' hides from view but that's not always possible.
 4. Take notes of what works and what does not work while doing the test.
 5. Ask participants about their impression of the system and the design. Take notes.
+6. Make sure to repeat the above steps at least once with your mentor; who should record their feedback in your learning- and work-log.
 
 **Save your HCAI design document to Github and note what your did; and your evidence, in your work- and learning-log**
 

@@ -17,14 +17,16 @@ Table of contents:
 
 **Now, open your worklog and plan the different tasks for today there!**
 
-## Questions or issues?
-If you have any questions or issues regarding the course material, please first ask your peers or ask us in the Q&A in Datalab!
+## Questions?
+
+If you have questions or issues regarding the course material, please post a message on the 'Q&A' channel in Teams. The channel will be monitored by mentors but also please help your peers if you have the answer to their question. 
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: Note down any important questions you might have!
+Tip: Note down any important HCAI related questions you might have! You can ask them during Datalab in person to the responsible lecturer for this module: Bram Heijligers
  </div>
 
 Good luck!
+
 
 
 ## 1) Introduction to User Testing

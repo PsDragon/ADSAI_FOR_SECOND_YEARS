@@ -24,14 +24,16 @@ Table of contents:
 
 **Now, open your worklog and plan the different tasks for today there!**
 
-## Questions or issues?
-If you have any questions or issues regarding the course material, please first ask your peers or ask us in the Q&A in Datalab!
+## Questions?
+
+If you have questions or issues regarding the course material, please post a message on the 'Q&A' channel in Teams. The channel will be monitored by mentors but also please help your peers if you have the answer to their question. 
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: Note down any important questions you might have!
+Tip: Note down any important HCAI related questions you might have! You can ask them during Datalab in person to the responsible lecturer for this module: Bram Heijligers
  </div>
 
 Good luck!
+
 
 ## 0) Kick-off
 The kick-off has been scheduled in your agenda but you can also attend by [clicking this link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjRjYTA1NmEtY2M1YS00YTNmLWJmZTgtZGYzNTEwMzcxNjU2%40thread.v2/0?context=%7b%22Tid%22%3a%220a33589b-0036-4fe8-a829-3ed0926af886%22%2c%22Oid%22%3a%225cef929d-ecf9-4fca-bf12-bc5ee065fc99%22%7d). The kick-off outlines what this module is about, how we will learn about HCAI and how we will assess your final deliverable: a wireframe prototype!

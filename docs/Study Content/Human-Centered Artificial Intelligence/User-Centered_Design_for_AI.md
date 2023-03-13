@@ -1,5 +1,5 @@
 ---
-sort: 8
+sort: 7
 ---
 
 # User-Centered Design for AI
@@ -21,14 +21,16 @@ Table of contents:
 
 **Now, open your worklog and plan the different tasks for today there!**
 
-## Questions or issues?
-If you have any questions or issues regarding the course material, please first ask your peers or ask us in the Q&A in Datalab!
+## Questions?
+
+If you have questions or issues regarding the course material, please post a message on the 'Q&A' channel in Teams. The channel will be monitored by mentors but also please help your peers if you have the answer to their question. 
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: Note down any important questions you might have!
+Tip: Note down any important HCAI related questions you might have! You can ask them during Datalab in person to the responsible lecturer for this module: Bram Heijligers
  </div>
 
 Good luck!
+
 
 ## 1) Adobe XD: making a wireframe prototype
 Now, it's time to finish getting to know how to use the Adobe XD application! Finish by doing the Linkedin Learning course below, specifically doing modules 7. Voice Interactions, and 9. Goodbye, to get the certificate. **Upload the certificate to GitHub and evidence it in the learning log!**

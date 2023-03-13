@@ -1,5 +1,5 @@
 ---
-sort: 7
+sort: 9
 ---
 
 # Datalab 15: Introduction to A/B-Testing
@@ -16,11 +16,13 @@ Table of contents:
 3. A/B Testing on deployed prototype: 2 hours
 4. Iterate on Wireframe Prototype: Remainder of the day
 
-## Questions or issues?
-If you have any questions or issues regarding the course material, please first ask your peers or ask us if you can't figure it out together!
+## Questions?
+
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+If you have questions or issues regarding the course material, please first ask a peer. Otherwise, ask your mentor or the responsible lecturer for the module: Bram Heijligers
+ </div>
 
 Good luck!
-
 ## 0) Stand-up
 We start by hosting a stand-up. Form groups of ~ 5 and run on-another through the following points:
 - What progress have you made up since last datalab?

@@ -1,5 +1,5 @@
 ---
-sort: 2
+sort: 5
 ---
 
 # Datalab 13: Risk-Assessment of Disruptive Technologies
@@ -24,11 +24,10 @@ Table of contents:
 6. In-Class Discussion: 0.5 Hours
 
 
-## Questions or issues?
-If you have any questions or issues regarding the course material, please first ask your peers or ask us in the Q&A in Datalab!
+## Questions?
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: Note down any important questions you might have!
+If you have questions or issues regarding the course material, please first ask a peer. Otherwise, ask your mentor or the responsible lecturer for the module: Bram Heijligers
  </div>
 
 Good luck!

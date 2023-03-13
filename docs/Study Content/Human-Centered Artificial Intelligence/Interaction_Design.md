@@ -21,7 +21,7 @@ Table of contents:
 3. Interaction Design & User Experience Design: 4 hours
 3. Workshop: Prototyping a vertical slice: 2 hours
 
-**Now, open your worklog and plan the different tasks for today there!**
+**Now, open your worklog and plan the different tasks for today in there!**
 
 ## Questions?
 

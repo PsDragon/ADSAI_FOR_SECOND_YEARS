@@ -19,7 +19,7 @@ Table of contents:
 4. Recommender systems: 1 hours
 5.
 
-**Now, open your worklog and plan the different tasks for today there!**
+**Now, open your worklog and plan the different tasks for today in there!**
 
 ## Questions?
 

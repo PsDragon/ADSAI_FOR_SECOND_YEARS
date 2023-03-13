@@ -15,7 +15,7 @@ Table of contents:
 1. User Tests in UX: 2 hours
 2. Build on Wireframe Prototype; Digital Vertical Slice: 3 hours
 
-**Now, open your worklog and plan the different tasks for today there!**
+**Now, open your worklog and plan the different tasks for today in there!**
 
 ## Questions?
 

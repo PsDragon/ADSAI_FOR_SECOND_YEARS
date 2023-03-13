@@ -16,7 +16,7 @@ Table of contents:
 2. User Interface Design: 1 hour
 3. Prototyping: Create a vertical slice: 4 hours
 
-**Now, open your worklog and plan the different tasks for today there!**
+**Now, open your worklog and plan the different tasks for today in there!**
 
 ## Questions?
 

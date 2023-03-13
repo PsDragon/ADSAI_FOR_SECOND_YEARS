@@ -13,7 +13,7 @@ Table of contents:
 2. Working on Wireframe Prototype; horizontal slice: 6 hours
 3. User Feedback: 1 Hours
 
-**Now, open your worklog and plan the different tasks for today there!**
+**Now, open your worklog and plan the different tasks for today in there!**
 
 ## Questions?
 

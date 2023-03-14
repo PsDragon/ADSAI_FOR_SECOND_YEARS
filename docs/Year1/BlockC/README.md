@@ -217,7 +217,7 @@ Below you will find the timeline on a day-to-day basis. Further down, there is i
 
 
 ## Friday
-- [] Lecture on Disruptive technologies 
+- [ ] Lecture on Disruptive technologies 
 - [DataLab: Risk-Assessment of disruptive technologies](../../Study%20Content/Business%20Understanding/BusinessUnderstandingUseCases.html)
 - [ ] Feedback Session
 

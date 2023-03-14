@@ -39,7 +39,7 @@ We start by hosting a stand-up. Form groups of ~ 5 and run on-another through th
 - What impediments are you facing or expecting?
 - With what could you use help or support?
 
-**Open your worklog and plan your day informed by the stand-up and today's schedule**
+**Now, open your worklog and plan the different tasks for today in there!**
 
 ### Q & A
 We start by briefly reflecting on what we learned yesterday. Do you have any questions? Now is the time to ask them!
@@ -90,28 +90,7 @@ The lecture has been scheduled in your agenda but can also be attended by [click
 A video recording of the lecture can be found in [part 1](https://edubuas-my.sharepoint.com/:v:/g/personal/heijligers_b_buas_nl/EdsDFEiIsuRHk5zJVi8brdYBf7hQ1M01kru37a_vkzMpSA?e=9J0DLW), [part 2](https://edubuas-my.sharepoint.com/:v:/g/personal/heijligers_b_buas_nl/ETEk-fhH_zJJqBQ-XZ9QyWsBJOtAeCjg-Vm2pjkedOOICg?e=mTwvtN), and [part 3](https://edubuas-my.sharepoint.com/:v:/g/personal/heijligers_b_buas_nl/ESoRMz-6ouNLstM1Sw0Har8BzePHRUQ30PY4e49WMA56mQ?e=Mq4hCi) after it was given and uploaded.
 
 
-## 5) Introduction to Wireframe prototyping using Proto.io
-[Look at the intro video of Proto.io](https://support.proto.io/hc/en-us/articles/220425988-Introduction-to-Proto-io-6), create a [user account](https://proto.io/en/signup/) and install the latest version of the software: Proto.io 6! Use the free trail using you student email account.
 
-Then watch the following videos and follow the instructions to get to know how to use the Proto.io application! Pause the video whenever you know how to create one of the 3 requirements below in Proto.io. It's really quite intuitive; as is to be expected of a design application! For now we are just going to create:
-1. a basic start screen with a button to continue to the main menu;
-2. a main menu screen with a button to exit the application and a button to lead to our computer vision application (empty panel)
-3. an empty panel for the computer vision application which leads back to the main menu.
-
-<iframe src="https://player.vimeo.com/video/180154545?h=160768ae29" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/180154545">Proto.io Essentials, Episode 1</a> from <a href="https://vimeo.com/protoio">Proto.io</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
-<iframe src="https://player.vimeo.com/video/180284484?h=e40946b73a" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/180284484">Proto.io Essentials, Episode 2</a> from <a href="https://vimeo.com/protoio">Proto.io</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
-<iframe src="https://player.vimeo.com/video/180290210?h=1268c31048" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/180290210">Proto.io Essentials, Episode 3</a> from <a href="https://vimeo.com/protoio">Proto.io</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
-**Save your Wireframe Prototype to Github, name it 'HCAI_Wireframe_[NameOfApplication]_[StudentName]' and note what your did; and your evidence, in your work- and learning-log**
-
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-No finished? Don't worry, we are going to continue working on this tomorrow!
- </div>
 
 ## 6) In-Class Discussion
 At 16:30, there's a class meeting where we'll discuss our progress and reflect on today activities.

@@ -2,7 +2,7 @@
 sort: 9
 ---
 
-# Datalab 15: Introduction to A/B-Testing
+# Datalab: Introduction to A/B-Testing
 Yesterday we made a deployable prototype of our vertical slice for user testing. Today, we'll have a lecture on A/B-testing after which we're going to we're going to test it with our peers. If we have time left, we'll spend it by iterating on our wireframe prototype based on the collected feedback!
 
 ## Learning Objectives:

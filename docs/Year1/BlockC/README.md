@@ -210,7 +210,7 @@ Below you will find the timeline on a day-to-day basis. Further down, there is i
 - [Interaction design](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Interaction_Design.html)
 
 ## Wednesday
-- [DataLab: Wizzard of Ozz Workshop](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Datalab14_Conceptualizing_A_Wireframe_Prototype.html)
+- [DataLab: HCAI Fundamentals & User Testing](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Datalab14_Conceptualizing_A_Wireframe_Prototype.html)
 
 ## Thursday
 - [Interface design](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Interface_Design.html)

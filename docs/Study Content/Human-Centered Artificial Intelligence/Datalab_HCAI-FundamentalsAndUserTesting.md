@@ -2,21 +2,22 @@
 sort: 3
 ---
 
-# Datalab 14: Conceptualizing a Wireframe Prototype
-Today we're going to cover user testing as a means to prototype our application. We're first going to review our vertical slice prototypes with our peers by means of a user test. Then we're going to have a Wizzard of Oz workshop and user test to prototype the AI component of our application!
+# Datalab: HCAI Fundamentals & User Testing 
+Up untill now, you essentially started making the high-level design of your application. Today, we start by reviewing your design with your peers. After which, we'll conclude the morning with an introductory lecture to Human-Centered AI Fundamentals.
+
+In the afternoon, we're going to design and test the core functionality component of our HCAI application, which the part which actually contains the AI; the computer vision algorithm. We'll design and test that AI component of our application by doing an iterative Wizzard of Oz experiment!
 
 ## Learning Objectives:
 After this module, you'll be able to run and conduct:
-1. User testing;
-2. Wizzard of Oz user testing;
+1. Demo you prototype and collect feedback;
+2. Conduct a Wizzard of Oz user test;
 
 Table of contents:
 0. Stand-up: 0.5 hours
-1. Q&A:
-2. User Testing: 1 hour
-3. Wizzard of Oz Testing: 3 hours
+1. User-testing - Demo: 1 hour
+2. Human-Centered AI Fundamentals & Applications **Lecture**: 1.5 hours
+3. Wizzard of Oz Experiment: 3.5 hours
 4. In-Class Discussion: 0.5 hours
-5. Work on creative crief: 2 hours
 
 
 ## Questions?
@@ -36,19 +37,26 @@ We start by hosting a stand-up. Form groups of ~ 5 and run on-another through th
 
 **Open your worklog and plan your day informed by the stand-up and today's schedule**
 
-## 1) Q & A
-We start by briefly reflecting on what we learned about interaction and interface design. Do you have any questions? Now is the time to ask them!
-
-## 2) User testing
+## 1) User testing: Product Demo
 All products should include some form of user testing, whether they are digital or not, interactive or non-interactive: as a designer you generally know too much about the product and technology relating to your own project. You cannot simply pretend you don't know these things; that's not how your brain works, and therefore we perform user tests to create a ecologically valid setup to test our designs!
 
-The most basic form of testing your design is simply showing it to a participant and having them 'conceptually' interact with the application. This can be a generic prototype, like you can do with your wireframe, or a more designer guided one; usually non-interactive, where you are controlling the prototype instead of the participant.
+The most basic form of testing your design is simply showing it to a participant and having them 'conceptually' interact with the application in a controlled manner: a Demo. This can be a generic prototype where the user can interact with (e.g. let the user control your wireframe), or a more guided one; (usually non-interactive but you could accept user requests for example), where you are controlling the prototype instead of the participant.
 
-**Open your HCAI design document and create a section called 'User Test Datalab 14'. Create a bullet point section for logging all feedback points of your peers!** Log feedback regardless of your considerations, refuting the feedback comes at a later stage and should not be a filter while transscribing the feedback.
+**Open your Learning Log in MS teams and create a section called 'Product Demo - [DD-MM-YYYY]' in this week's slides. Create a bullet point list for logging all feedback points of your peers (name them)!** Log feedback regardless of your considerations, refuting the feedback comes at a later stage and should not be a filter while transscribing the feedback.
 
-Run you classmate through your vertical slice and explain him along the way what will happen for each given condition and user story. Collect any feedback he might have! This is the crucial part of user testing because you will need to know what might work and what might not work in order to iterate on your design: make the best possible application.
+Run 3 classmates through your vertical slice. Explain them along the way what will happen for each given condition and user story. Start by choosing an approach for your demo:
+1. User-Controlled: Let your peers interact with your wireframe and note down what happens. Specifically, anything that seems important to you: things which work well and don't work as intended. The user should be able to navigate through the wireframe without explaination if possible, but if they have any questions you should answer them or help them if they're struggeling.
+2. Designer-Controlled: Run you peer(s) through your wireframe yourself. Explain them along the way what will happen for each given condition and user story. Answer their questions and specifically focus on the intended user-journey (how you envision using the app from start to finish; for as far as you designed thus far).
 
-**Save your HCAI design document to Github and note what your did; and your evidence, in your work- and learning-log**
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Collect any feedback they might have! This is the crucial part of user testing because you will need to know what might work and what might not work in order to iterate on your design: make the best possible application.
+ </div>
+
+
+## 2) Human-Centered AI Fundamentals & Applications
+You can find [the slides here](https://github.com/BredaUniversityADSAI/ADS-AI/blob/cbea9fe9290a5512a2ed59137ff6791ec232ddcc/docs/Study%20Content/Human-Centered%20Artificial%20Intelligence/Assets/HCAI%20Fundamentals%20and%20Applications.pptx)!
+
+A video recording of the lecture can be found in [here](https://edubuas-my.sharepoint.com/:v:/g/personal/heijligers_b_buas_nl/EdsDFEiIsuRHk5zJVi8brdYBf7hQ1M01kru37a_vkzMpSA?e=9J0DLW).
 
 ## 3) Wizzard of Oz Prototyping
 Watch the following video first!

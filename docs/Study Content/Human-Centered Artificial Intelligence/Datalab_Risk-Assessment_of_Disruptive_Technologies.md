@@ -2,7 +2,7 @@
 sort: 5
 ---
 
-# Datalab 13: Risk-Assessment of Disruptive Technologies
+# Datalab: Risk-Assessment of Disruptive Technologies
 Yesterday, you essentially started making the high-level design of your application. Today, you'll review your design with your peers and learn how to build it into a prototype you can actually use! But, before we are going to learn how to make a prototype, we are going to discuss disruptive technologies, HCAI fundamentals, trends and how it compares to traditional human-computer interaction! It's more lectures than you're used to from us, but it will be a lot of material but also a lot of fun!
 
 

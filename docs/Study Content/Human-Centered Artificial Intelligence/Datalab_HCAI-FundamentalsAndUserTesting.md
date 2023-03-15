@@ -8,15 +8,17 @@ Up untill now, you essentially started making the high-level design of your appl
 In the afternoon, we're going to design and test the core functionality component of our HCAI application, which the part which actually contains the AI; the computer vision algorithm. We'll design and test that AI component of our application by doing an iterative Wizzard of Oz experiment!
 
 ## Learning Objectives:
-After this module, you'll be able to run and conduct:
-1. Demo you prototype and collect feedback;
-2. Conduct a Wizzard of Oz user test;
+After this module, you'll be able to:
+0. Understand and apply the fundamentals of HCAI;
+1. Demo your prototype and collect feedback;
+2. Create and operate a paper prototype;
+3. Conduct a Wizzard of Oz Experiment;
 
 Table of contents:
 0. Stand-up: 0.5 hours
 1. User-testing - Demo: 1 hour
 2. Human-Centered AI Fundamentals & Applications **Lecture**: 1.5 hours
-3. Wizzard of Oz Experiment: 3.5 hours
+3. Wizzard of Oz Experiment Prototyping 3.5 hours
 4. In-Class Discussion: 0.5 hours
 
 
@@ -59,23 +61,37 @@ You can find [the slides here](https://github.com/BredaUniversityADSAI/ADS-AI/bl
 A video recording of the lecture can be found in [here](https://edubuas-my.sharepoint.com/:v:/g/personal/heijligers_b_buas_nl/EdsDFEiIsuRHk5zJVi8brdYBf7hQ1M01kru37a_vkzMpSA?e=9J0DLW).
 
 ## 3) Wizzard of Oz Prototyping
+For this design process we're going to combine two techniques runnign a Wizzard of Oz Experiment and Paper Prototying. By doing this we can very quickly design and test the core functionality of our application and make changes where needed.
+
+### A. Wizzard of Oz Experiments
 Watch the following video first!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NZR64EF3OpA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-Bla
-https://pair.withgoogle.com/guidebook/workshop
 
-So basically, Dorothy and her friends go to see the Great and Powerful Wizard of Oz, and find out that he’s a fraud with no real magic. When using the Wizard of Oz prototyping method, we try to create the illusion of a functional product, to allow for testing before producing the final version. This way, we can test the interaction before investing the time and money to truly make it functional.
-With respect to AI this is especially useful because a big challenge with machine learning systems is prototyping. If the whole value of your product is that it uses unique user data to tailor an experience to her, you can’t just prototype that up real quick and have it feel anywhere near authentic. Also, if you wait to have a fully built ML system in place to test the design, it will likely be too late to change it in any meaningful way after testing.
+So basically, Dorothy and her friends go to see the Great and Powerful Wizard of Oz, and find out that he’s a fraud with no real magic. He's prentending to be a wizzard using all kinds of tricks to simulate what an actual wizzard could do. That's what we're going to do; simulate what the actual AI behind our computer vision algorithm would do.
 
-Essentially, Wizard of Oz studies have participants interact with what they 'believe' to be an autonomous system, but which is actually being controlled by a human (usually a teammate). Having a teammate imitate an ML system’s actions like chat responses, suggesting people the participant should call, or movies suggestions can simulate interacting with an “intelligent” system. These interactions are essential to guiding the design because when participants can earnestly engage with what they perceive to be an AI, they will naturally tend to form a mental model of the system and adjust their behavior according to those models. Observing their adaptations and second-order interactions with the system are hugely valuable to informing its design.
+When using the Wizard of Oz prototyping method, we try to create the illusion of a functional product, to allow for testing before producing the final version. This way, we can test the interaction before investing the time and money to truly make it functional.
+
+With respect to AI this is especially useful because a big challenge with machine learning systems is prototyping. If the whole value of your product is that it uses unique user data to tailor an experience to them, you can’t just prototype that up real quick and have it feel anywhere near authentic. Also, if you wait to have a fully built ML system in place to test the design, it will likely be too late to change it in any meaningful way after testing.
+
+Essentially, Wizard of Oz studies have participants interact with what they 'believe' or pretend to be an autonomous system, but which is actually being controlled by a human (usually a teammate). Having a teammate or script imitate an ML system’s actions like chat responses, suggesting people the participant should call, or movies suggestions can simulate interacting with an “intelligent” system. These interactions are essential to guiding the design because when participants can earnestly engage with what they perceive to be an AI, they will naturally tend to form a mental model of the system and adjust their behavior according to those models. Observing their adaptations and second-order interactions with the system are hugely valuable to informing its design.
 
 So, let's start coming up with our own Wizzard of Oz experiment!
 
+A Wizzard of Oz experiment consists of 3 components:
+1. A script; which defines the user-journey. What does the user want to achieve and how is he going to get there?
+2. A wizzard; who is going to respond to the user input and simulate AI algorithm by simulating the desired AI output. 
+3. An test-user; who is going to pretend to be the end-user and is unaware of the contents of experiment. The test user will provide user-input based on the script provided to them which define their desired user-journey.
+
+**Open your Block C Notes - Y1C_2022-23_ADSAI**, create a header called "Wizzard of Oz Script" followed by a numeric list, and create your user-journey from start to finish. Take your user-stories into account, base your user stories on them. Start with the initial impetous to use the app (e.g. I see a beer I want to buy) and walk the user through (e.g. opens the app, opens computer vision screen, etc.) to the very end (closes app and buys the beer).
+
+
+## 4) Paper Prototyping
 [Here's a quick example walkthrough of how to create a Wizzard of Ozz (Paper) Prototype!](https://drive.google.com/file/d/15LwN3SESX8vcoFop4BmlxTsyRyNluuzq/view?usp=sharing)
 
-**Open your HCAI design document and create a section called 'Wizzard of Ozz Experiment'**
 
+
+**Open your Block C Notes - Y1C_2022-23_ADSAI and create a section called 'Wizzard of Ozz Prototype' and complete the following excercises:**
 1. Conceptualize the test using your user stories and knowning the functionality of your algorithm.
 2. Create the necessary images, videos, animations and elements to do the test. *(if you need to print materials, just ask the lecturers)*
 2. Run the test and observe the user’s actions while making the system react to those actions by triggering the different responses the system should give at that moment in the interaction. It's best if the 'Wizzard' hides from view but that's not always possible.

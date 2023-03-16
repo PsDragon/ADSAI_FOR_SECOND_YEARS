@@ -88,19 +88,19 @@ Take a look at this [exercise](https://github.com/BredaUniversityADSAI/2022-23-Y
 
 Example 1
 
-<img src="https://raw.githubusercontent.com/BredaUniversityADSAI/ADS-AI/main/docs/Study%20Content/DeepLearning/images/example1.png?token=GHSAT0AAAAAABX7VD4IFLNK4ADDTRGWLDUGZATAJEQ" width="800">
+<img src="./images/example1.png" width="800">
 
 Example 2
 
-<img src="https://raw.githubusercontent.com/BredaUniversityADSAI/ADS-AI/main/docs/Study%20Content/DeepLearning/images/example2.png?token=GHSAT0AAAAAABX7VD4IPXULWNHYXX5C3EXGZATAJ3A" width="800">
+<img src="./images/example2.png" width="800">
 
 Example 3
 
-<img src="https://raw.githubusercontent.com/BredaUniversityADSAI/ADS-AI/main/docs/Study%20Content/DeepLearning/images/example3.png?token=GHSAT0AAAAAABX7VD4JTZ4CH7YG424B75TAZATAKMQ" width="800">
+<img src="./images/example3.png" width="800">
 
 Example 4
 
-<img src="https://raw.githubusercontent.com/BredaUniversityADSAI/ADS-AI/main/docs/Study%20Content/DeepLearning/images/example4.png?token=GHSAT0AAAAAABX7VD4IYZCPAYAL2POO4LZOZATAK6A" width="800">
+<img src="./images/example4.png" width="800">
 
 ## Questions?
 

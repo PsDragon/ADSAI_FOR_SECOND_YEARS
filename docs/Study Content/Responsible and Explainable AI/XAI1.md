@@ -5,7 +5,7 @@ sort: 8
 # XAI: The need for explanations!
 
 <figure>
-    <img src="./assets/images/intro.PNG" />
+    <img src="./images/intro.PNG" />
 </figure>
 <br>
 
@@ -24,7 +24,7 @@ also provide us such answers?
 ## Interpretable machine learning and AI
 
 <figure>
-    <img src="./assets/images/xai.PNG" />
+    <img src="./images/xai.PNG" />
 </figure>
 <br>
 
@@ -109,7 +109,7 @@ classification, with traditional ML, we would start by creating hand-crafted
 features based on color, frequency domain, edge detectors and so on. While easy to explain how one arrives at such features, they are not necessarily the best features for prediction.
 
 <figure>
-    <img src="./assets/images/feature_vis.PNG" />
+    <img src="./images/feature_vis.PNG" />
     <figcaption>[Source: Interpretable ML Textbook)</figcaption>
 </figure>
 <br>

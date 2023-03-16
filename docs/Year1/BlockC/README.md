@@ -73,6 +73,35 @@ The final deliverables need to be handed in on __*Friday, the 7th of April, by 1
 
 For more information on the deliverables, see the requirements section. 
 
+## Grading conditions for Notebooks
+
+Your notebooks should satisfy the following in order to be graded:
+
+1. Make sure that the notebooks are under the folder **Deliverables** in your personal Github repo.
+2. Make sure that before delivering the notebooks, **Restart & Run all**.
+3. Make sure that your submissions are **error-free**.
+4. Make sure that the notebook **link works**.
+
+Take a look at this [exercise](https://github.com/BredaUniversityADSAI/2022-23-Y1-BlockC/blob/main/Self-Study/W3/Gradient_descent_exercises.ipynb)-[solution](https://github.com/BredaUniversityADSAI/2022-23-Y1-BlockC/blob/main/Self-Study/W3/Gradient_descent_solutions.ipynb) pair. Your deliverables should look like the solution notebook.
+
+<mark>Example notebooks that won't be graded:</mark>
+
+Example 1
+
+<img src="https://raw.githubusercontent.com/BredaUniversityADSAI/ADS-AI/main/docs/Study%20Content/DeepLearning/images/example1.png?token=GHSAT0AAAAAABX7VD4IFLNK4ADDTRGWLDUGZATAJEQ" width="800">
+
+Example 2
+
+<img src="https://raw.githubusercontent.com/BredaUniversityADSAI/ADS-AI/main/docs/Study%20Content/DeepLearning/images/example2.png?token=GHSAT0AAAAAABX7VD4IPXULWNHYXX5C3EXGZATAJ3A" width="800">
+
+Example 3
+
+<img src="https://raw.githubusercontent.com/BredaUniversityADSAI/ADS-AI/main/docs/Study%20Content/DeepLearning/images/example3.png?token=GHSAT0AAAAAABX7VD4JTZ4CH7YG424B75TAZATAKMQ" width="800">
+
+Example 4
+
+<img src="https://raw.githubusercontent.com/BredaUniversityADSAI/ADS-AI/main/docs/Study%20Content/DeepLearning/images/example4.png?token=GHSAT0AAAAAABX7VD4IYZCPAYAL2POO4LZOZATAK6A" width="800">
+
 ## Questions?
 
 If you have questions or issues regarding the course material, please post a message on the 'Q&A' channel in Teams. The channel will be monitored by mentors but also please help your peers if you have the answer to their question.

@@ -5,7 +5,7 @@ sort: 8
 # XAI: The need for explanations!
 
 <figure>
-    <img src=".\images\intro.PNG" />
+    <img src="images\intro.PNG" />
 </figure>
 <br>
 

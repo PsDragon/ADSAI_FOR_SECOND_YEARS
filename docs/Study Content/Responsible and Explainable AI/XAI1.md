@@ -154,20 +154,20 @@ To solve this assignment, you will need to work in **groups of 2-3 students** an
 
 ```You will be presenting your findings to your mentor group in the DataLab this Friday.```
 
-Please ensure that your presentation is able to answer the following questions.
+Please ensure that your presentation is able to answer the following questions. You are free to include additional topics related to XAI that might be of interest to your peers.
 
 - [ ] What is a black box model, and would you consider a deep neural networks to be a black box model? Why and Why not?
 - [ ] What is the difference between model-specific and model-agnostic XAI tools, and further what are local and global methods in the context of model-agnostic XAI methods.
-- [ ] Explain with an example, what does it mean for an explanation to be human-friendly (Focus on one aspect of a human-friendly explanation).
+- [ ] Explain with an example, what does it mean for an explanation to be human-friendly (focus on one aspect of a human-friendly explanation).
 - [ ] Explain with an example, what does it mean for a model to express it's (un)certainity in a prediction.
-- [ ] List 3 areas of application where ```explainability >> prediction performance```, and explain your motivation for doing so. 
-- [ ] List 3 areas of application where ```explainability << prediction performance```, and explain your motivation for doing so. 
+- [ ] List 3 areas of application where ```explainability >> prediction performance```, and explain your motivations for doing so. 
+- [ ] List 3 areas of application where ```explainability << prediction performance```, and explain your motivations for doing so. 
 - [ ] For your creative brief application: discuss the trade-off between explainability and prediction performance.
-- [ ] Provide a short summary of either adversarial attacks or counterfactual examples.
-- [ ] **Optional**: Apply an XAI method (e.g., GradCAM) to a creative brief use-case and interpret the results.
+- [ ] Provide a short summary of either adversarial attacks or counterfactual explanations with examples.
+- [ ] **Optional**: Apply an XAI method (e.g., GradCAM) to a creative brief use-case and discuss the results.
 - [ ] **Optional**: What is your interpretation of Article 22 of the GDPR? (Hint: you can find the article [here](https://gdpr-info.eu/art-22-gdpr/)). 
 
-
-:warning: If you use any ```external resources``` (you all know what I'm referring to here) to answer the questions, please cite them. However, keep in mind that some of these questions require some critical thinking on your part.
-
 To help answer most of the questions, please read upto (and including) chapter 3 of the **Interpretable Machine learning** textbook by Christoph Molnar, which you can access for free [here](https://christophm.github.io/interpretable-ml-book/). 
+
+
+:warning: If you use any ```external resources``` (you all know what I'm referring to here) to answer the questions, please cite them. However, keep in mind that some of these questions require some critical thinking on your part. That being said, I highly encourage you to use it as a tool to generate discussion within your group about the questions.

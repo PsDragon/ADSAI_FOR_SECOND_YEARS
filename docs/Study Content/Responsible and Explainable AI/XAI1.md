@@ -158,14 +158,14 @@ Please ensure that your presentation is able to answer the following questions.
 
 - [ ] What is a black box model, and would you consider a deep neural networks to be a black box model? Why and Why not?
 - [ ] What is the difference between model-specific and model-agnostic XAI tools, and further what are local and global methods in the context of model-agnostic XAI methods.
+- [ ] Explain with an example, what does it mean for an explanation to be human-friendly (Focus on one aspect of a human-friendly explanation).
 - [ ] Explain with an example, what does it mean for a model to express it's (un)certainity in a prediction.
-- [ ] Explain with an example, what does it mean for an explanation to be human-friendly.
 - [ ] List 3 areas of application where ```explainability >> prediction performance```, and explain your motivation for doing so. 
 - [ ] List 3 areas of application where ```explainability << prediction performance```, and explain your motivation for doing so. 
-- [ ] For your creative brief applications: discuss the trade-off between explainability and prediction performance.
-- [ ] What is your interpretation of Article 22 of the GDPR? (Hint: you can find the article [here](https://gdpr-info.eu/art-22-gdpr/)). 
-- [ ] Provide a short summary of the current state of XAI 
+- [ ] For your creative brief application: discuss the trade-off between explainability and prediction performance.
+- [ ] Provide a short summary of either adversarial attacks or counterfactual examples.
 - [ ] **Optional**: Apply an XAI method (e.g., GradCAM) to a creative brief use-case and interpret the results.
+- [ ] **Optional**: What is your interpretation of Article 22 of the GDPR? (Hint: you can find the article [here](https://gdpr-info.eu/art-22-gdpr/)). 
 
 
 :warning: If you use any ```external resources``` (you all know what I'm referring to here) to answer the questions, please cite them. However, keep in mind that some of these questions require some critical thinking on your part.

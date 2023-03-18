@@ -75,13 +75,11 @@ LIME is the based on the concept that sometimes, it's simpler to use a white-box
 
 ## Explaining neural networks
 
-Before we go deeper in explaining the predictions of neural networks (for machine vision), Lets take a step back and reflect on our own amazing ability to process, represent and reason about images. Starting with our eyes, whis is (in a very simple way) a lens which is highly sensitive to photons. However, the brain is where the magic happens. The brain takes in all these signals arising from individual photos and turns it into something that we can reason about.
-
-Just as neural networks transform data from the original raw representations into nice representations, the brain transforms our senses from complicated high-dimensional data into nice representations, from the incomprehensible to the comprehensible. My eye detects photons, but before I even become consciously aware of what my eye sees, the data goes through incredibly sophisticated transformations, turning it into something I can reason about. The brain does such a good job that vision seems easy! **It’s only when you try to understand visual data a stream of photons hitting a sensor) without using your visual system ( that you realize how incredibly complicated and difficult it can be.**
+Before we go deeper in explaining the predictions of neural networks (for machine vision), Lets take a step back and reflect on our own amazing ability to process, represent and reason about images. Starting with our eyes, which is (in a very simple way) a lens which is highly sensitive to photons. However, the brain is where the magic happens. The brain takes in all these signals arising from individual photos and turns it into something that we can reason about. Just as neural networks transform data from the original raw representations into useful representations, the brain transforms our senses from complicated high-dimensional data into useful representations, from the incomprehensible to the comprehensible. Our eyes are evolved to detect photons, but before we even become consciously aware of what our eye sees, the data goes through incredibly sophisticated transformations, turning it into something I (think I) can reason about or make predictions or provide explanations for. The brain does such a good job that vision seems easy! Yet, the human brain is also error prone. 
 
 <!-- blank line -->
 <figure class="video_container">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MgMNUne9j9c?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RgWgfdLZciM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </figure>
 <!-- blank line -->
 
@@ -92,7 +90,7 @@ the answer to this question like the answer to a lot of other questions is  -
 
 > The exponential use of neural networks and deep learning in
 various domains of application has led to a growing sense of dread -
-**How do we trust these machines?!**. The general concensus is that neural
+**How do we trust these machines?!**. The general concensus is that the predictions of a neural
 networks need to be interpretable to humans, especially in high-stakes decision making scenarios. 
 
 In general, there are two

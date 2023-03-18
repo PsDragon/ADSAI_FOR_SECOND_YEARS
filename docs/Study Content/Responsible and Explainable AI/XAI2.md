@@ -62,19 +62,14 @@ Similar to vanilla gradients, Grad-CAM provides visual explanations for CNN deci
 
 Let us start with an intuitive consideration of Grad-CAM. The goal of Grad-CAM is to understand at which parts of an image a convolutional layer “looks” for a certain classification. As a reminder, the first convolutional layer of a CNN takes as input the images and outputs feature maps that encode learned features (see the chapter on Learned Features). The higher-level convolutional layers do the same, but take as input the feature maps of the previous convolutional layers. To understand how the CNN makes decisions, Grad-CAM analyzes which regions are activated in the feature maps of the last convolutional layers.
 
-
-### Saliency maps using SmoothGrad
-
-One of the key drawbacks of vanilla gradients and Grad-CAM is that they resulting saliency maps can sometimes be very noisy. One way of dealing with is to first create multiple versions of the image with varying levels of noise. Then we create saliency maps using Grad-CAM for all the images and later, average the saliency maps to produce a final (usually noise free) map. In essense, we are trying to _average away_ the noise.
-
 ## Let's get to work!
 
-Today, we have discovered three new ways to explain **how** do neural networks make their decisions! Now let's put them to to the test and see how they perform using the ```tf_explain``` python package.
+Today, we have discovered one new ways to explain **how** do neural networks make their decisions - GradCAM! Now let's put it to to the test and see how it helps us improve the explainability of a deep neural network using the ```tf_explain``` python package.
 
 > Click [here](https://gilberttanner.com/blog/interpreting-tensorflow-model-with-tf-explain) to read more about the package.
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-I highly recommend following along this tutorial by opening a new 
+I highly recommend following along this tutorial by opening a new jupyter
 notebook and typing in the following code snippets (with comments)
  </div>
 
@@ -108,23 +103,24 @@ import PIL
 from tf_explain.core.grad_cam import GradCAM
 ```
 
-For this example, we are going to use a pre-trained model , the **VGG16** architecture which was trained on [ImageNet](https://en.wikipedia.org/wiki/ImageNet). Lastly, we are going to use the internet's favourite image, a tabbycat to investigate saliency maps. _Note that, in the image net dataset, a tabby cat is assigned a class label of 281, we will come back to this later._
+For this example, we are going to use a pre-trained model , the **VGG16** architecture which was trained on [ImageNet](https://en.wikipedia.org/wiki/ImageNet). Lastly, we are going to use the internet's favourite image, a (tabby) cat to investigate saliency maps. _Note that, in the image net dataset, a tabby cat is assigned a class label of 281 (see [here](https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a), we will come back to this later._)
 
 <figure>
     <img src=".\images\cat.jpg" />
 </figure>
 <br>
 
+Please download the above image and store it locally.
 We being by first setting the image path and it's class label.
 
 ```python
-IMAGE_PATH = "./assets/images/cat.jpg"
+IMAGE_PATH = "./assets/images/cat.jpg" 
 class_index = 281
 ```
 
-> Note that this path will change for you, and also depend on whether you are using a local or hosted runtime.
+> Note that this path will change for you.
 
-Next, we can preprocess the image so it's ready for ```keras``` and VGG16. Note that the model expects the input image to be of size 224 X 224.
+Next, we can preprocess the image so it's ready for ```keras``` and VGG16. Click [here](https://www.tensorflow.org/api_docs/python/tf/keras/applications/vgg16/VGG16) to read more about how to load this pre-trained model. Note that the model expects the input image to be of size 224 X 224.
 
 ```python
 img = tf.keras.preprocessing.image.load_img(IMAGE_PATH, target_size=(224, 224))
@@ -139,7 +135,7 @@ model = tf.keras.applications.vgg16.VGG16(weights="imagenet", include_top=True)
 model.summary()
 ```
 
-> What does include_top=TRUE do, and also investigate what happends if we set it to FALSE
+> What does include_top=TRUE do, and also investigate what happends if we set it to FALSE.
 
 So now that we have loaded the image and loaded the model. We are ready to use ```tf_explain``` to understand what does VGG16 _see_ when it classifies this image as a cat.
 
@@ -147,10 +143,10 @@ So now that we have loaded the image and loaded the model. We are ready to use `
 #first create the input in a format that the explainer expects (a tuple)
 input_img = (np.array([img]), None)
 
-#initialize the explainer
+#initialize the explainer as an instance of the GradCAM object
 explainer = GradCAM()
 
-# Compute GradCAM on VGG16
+# Obtain explanations for your image using VGG 16 and GradCAM
 grid = explainer.explain(input_img,
                          model,
                          class_index=class_index

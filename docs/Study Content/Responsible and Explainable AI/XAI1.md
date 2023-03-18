@@ -134,6 +134,14 @@ following video to learn more about feature visualization
 </figure>
 <!-- blank line -->
 
+And if you are curious about how deep neural networkds and their hidden layers may be related to how we represent and reason about images, please watch the following video.
+
+<!-- blank line -->
+<figure class="video_container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pLcIT3kjsW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
+
 
 ## Feature attribution
 

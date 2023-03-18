@@ -16,6 +16,8 @@ also provide us such answers?
 
 > This course is based on the **Interpretable Machine learning** textbook by Christoph Molnar, which you can access for free [here](https://christophm.github.io/interpretable-ml-book/). 
 
+*This 1 week module is designed to raise awareness of explainable AI and introduce you to some commonly available tools. You are not expected to gain a deep understanding of how these methods work and will have time (and resources) to do so in years 3 and 4 of your study.*
+
 ## Today's learning objectives
 - [ ] Understand the motivation for explainable machine learning & AI (XAI).
 - [ ] Become familiar with the taxonomy of XAI methods.

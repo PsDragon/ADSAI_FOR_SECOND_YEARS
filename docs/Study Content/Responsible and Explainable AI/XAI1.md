@@ -90,7 +90,7 @@ the answer to this question like the answer to a lot of other questions is  -
 
 > The exponential use of neural networks and deep learning in
 various domains of application has led to a growing sense of dread -
-**How do we trust these machines?!**. The general concensus is that the predictions of a neural
+**How do we trust these machines?!**. The general consensus is that the predictions of a neural
 networks need to be interpretable to humans, especially in high-stakes decision making scenarios. 
 
 In general, there are two
@@ -121,7 +121,7 @@ First, the image goes through many convolutional layers. In those convolutional
 layers, the network learns new and increasingly complex features in its layers.
 Then the transformed image information goes through the fully connected layers
 and turns into a classification or prediction. While this results in an improved 
-prediction performance, it often comes at a cost of interpretability. 
+prediction performance, it often comes at a cost of explanations. 
 The approach of making the learned features explicit is called Feature Visualization. 
 
 Please watch the
@@ -134,7 +134,7 @@ following video to learn more about feature visualization
 </figure>
 <!-- blank line -->
 
-And if you are curious about how deep neural networkds and their hidden layers may be related to how we represent and reason about images, please watch the following video.
+And if you are curious about how deep neural networks and their hidden layers may be related to how we represent and reason about images, please watch the following video.
 
 <!-- blank line -->
 <figure class="video_container">

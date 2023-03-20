@@ -158,7 +158,7 @@ I highly recommend going through the The Building Blocks of Interpretability blo
 
 # Group Assignment
 
-To solve this assignment, you will need to work in **groups of 2-3 students** and **prepare a presentation of 10 minutes**. Please self-organize yourselfs into groups and inform your mentor (using the teams channel). 
+To solve this assignment, you will need to work in **groups of 2-3 students** and **prepare a presentation of 10 minutes**. Please self-organize yourself into groups and inform your mentor (using the teams channel). I suggest creating a document per mentor group listing the names of the group members.
 
 ```You will be presenting your findings to your mentor group in the DataLab this Friday.```
 

@@ -69,7 +69,7 @@ In __*week 9*__, you will present your project proposal to the client. Here you 
 
 ## Deadlines & Deliverables
 
-The final deliverables need to be handed in on __*Friday, the 7th of April, by 16:59 at the latest*__. The project proposal presentations will take place in week 9 during DataLab days and will be attended by a panel of stakeholders (the lecturers responsible for the ILOs; see the Staff section).
+The final deliverables need to be handed in on __*Friday, the 7th of April, by 16:59 at the latest*__. The project proposal presentations will take place online on Microsoft Teams in week 9 during DataLab days, they'll be recorded and will be attended by a panel of stakeholders (your mentor and at least 1 other lecturer).
 
 For more information on the deliverables, see the requirements section. 
 

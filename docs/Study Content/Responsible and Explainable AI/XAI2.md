@@ -45,7 +45,7 @@ Extending the above analogy to neural networks (which can be best understood as 
 
 
 
-Recall that neural networks use **backpropogation** to learn the weights of each connection, which are then used to make the final predictions. A gradient, in general terms measures the change in an output, when the inputs are perturbed. In the context of backpropogation, the gradients carry information about the relative importance of the weights in the neural network towards the final classification. In particular, the magnitude of the gradients quantifies the contribution of a particular connection in the neural network to the final classification probability. In backpropogation, we initialize the network with random weights, and use gradient descent to optimally adjust the weights such that we minimize the final cost function (or maxmimise the classification accuracy). Please watch this video to refresh your memory on backpropogation.
+Recall that neural networks use **backpropogation** to learn the weights of each connection, which are then used to make the final predictions. A gradient, in general terms measures the change in an output, when the inputs are perturbed. In the context of backpropogation, the gradients carry information about the relative importance of the weights in the neural network towards the final classification. In particular, the magnitude of the gradients quantifies the contribution of a particular connection in the neural network to the final classification probability. In backpropogation, we initialize the network with random weights, and use gradient descent to optimally adjust the weights such that we minimize the final cost function. Please watch this video to refresh your memory on backpropogation.
 
 <!-- blank line -->
 <figure class="video_container">
@@ -191,7 +191,7 @@ What do you think? Do you feel that the network is using the facial features of 
 
 ### Optional: A deeper understanding
 To get a deeper understanding of how these methods work and their technical underpinnings, please watch the following lecture.
-If you find some concepts tricky to understand, take notes and bring them to class where we can discuss them.
+If you find some concepts tricky to understand, take notes and discuss them with your mentor.
 
 <!-- blank line -->
 <figure class="video_container">

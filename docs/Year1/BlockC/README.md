@@ -239,7 +239,7 @@ Below you will find the timeline on a day-to-day basis. Further down, there is i
 - [Interaction design](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Interaction_Design.html)
 
 ## Wednesday
-- [DataLab: HCAI Fundamentals & User Testing](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Datalab14_Conceptualizing_A_Wireframe_Prototype.html)
+- [DataLab: HCAI Fundamentals & User Testing](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Datalab_HCAI-FundamentalsAndUserTesting.html)
 
 ## Thursday
 - [Interface design](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Interface_Design.html)
@@ -247,8 +247,8 @@ Below you will find the timeline on a day-to-day basis. Further down, there is i
 
 ## Friday
 - [ ] Lecture on Disruptive technologies at Oc1.008 (from 10:00 to 12:00).
-- [DataLab: Risk-Assessment of disruptive technologies](../../Study%20Content/Business%20Understanding/BusinessUnderstandingUseCases.html)
-- [ ] Feedback Session
+- [ ] [Use-case 3: Risk-Assessment of disruptive technologies](../../Study%20Content/Business%20Understanding/BusinessUnderstandingUseCases.html)
+- [ ] Feedback Sessions
 
 
 # Week 8: Prototype - Human Centered AI
@@ -261,11 +261,11 @@ Below you will find the timeline on a day-to-day basis. Further down, there is i
 - [Designing for AI Algorithms Implementation](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Designing_for_AI_Algorithm_Implementation.html)
 
 ## Wednesday
-- [DataLab: A/B Testing](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Datalab15_Introduction_To_AB-Testing.html)
+- [DataLab: A/B Testing](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Datalab_Introduction_To_AB-Testing.html)
 
 
 ## Thursday
-- [DataLab: Wireframes and final presentation](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Datalab16_Client_Testing_of_Wireframe_Prototypes.html)
+- [Finishing up HCAI & the Project Proposal Presentation](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Datalab_Client_Testing_of_Wireframe_Prototypes.html)
 
 ## Friday
 Good Friday - Day off!

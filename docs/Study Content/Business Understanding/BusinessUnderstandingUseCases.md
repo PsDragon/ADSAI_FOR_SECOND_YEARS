@@ -89,7 +89,7 @@ __To solve this use-case, you will need to:__
 Address the disruptive technology risk in the project proposal for the application and complete the AI canvas.
 
 ### Disruptive Technology Examples Resources:
-- [Disruptive Technology Stages](www.google.com)
+- [Disruptive Technology Stages](https://github.com/BredaUniversityADSAI/ADS-AI/blob/faa8091836a7882d440483337717926390514f33/docs/Study%20Content/Human-Centered%20Artificial%20Intelligence/Assets/The%20Three%20Stages%20of%20Disruptive%20Innovation%20-%20IdeaGeneration_Incubation_and_Scaling.pdf)
 - [AI as Disruptive Technology](https://github.com/BredaUniversityADSAI/ADS-AI/blob/9d8df8385f73f49c51c3f3d788e6bacaeba20710/docs/Study%20Content/Human-Centered%20Artificial%20Intelligence/Assets/Girasa2020_Chapter_AIAsADisruptiveTechnology%20(1).pdf)
 - [Robotics](https://www.roboticsbusinessreview.com/news/5-industries-that-robotics-have-disrupted-drastically/)
 - [Computer vision](https://www.logikk.com/articles/disruptive-computer-vision-applications/#:~:text=Computer%20Vision's%20Disruptive%20Impact&text=Computer%20vision%20technology%20is%20still,work%2C%20travel%2C%20and%20live)

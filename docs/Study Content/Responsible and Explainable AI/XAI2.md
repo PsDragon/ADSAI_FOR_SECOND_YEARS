@@ -209,7 +209,5 @@ If you find some concepts tricky to understand, take notes and discuss them with
 </figure>
 <!-- blank line -->
 
-- [ ] Implement the example provided above, but using the ```eli5``` Python package and upload your notebooks to your Github repos. You can find the documentation [here](https://eli5.readthedocs.io/en/latest/tutorials/keras-image-classifiers.html).
-
 - [ ] Continue working on the group project which you are expected to present on Friday.
 

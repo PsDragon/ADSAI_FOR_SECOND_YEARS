@@ -364,6 +364,9 @@ In Week 8, you will present your Kaggle submissions. To do this successfully, Be
 **DataLab 2: Kaggle**
 
 09:00-12:00 Finalize individual Kaggle submissions
+
+<mark> 12:00 Individual Kaggle submission deadline </mark>
+
 13:00-17:00 Team formation and start of team submissions
 
 __Formative feedback III__

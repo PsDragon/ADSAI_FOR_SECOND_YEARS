@@ -167,7 +167,7 @@ Please ensure that your presentation is able to answer the following questions. 
 - [ ] What is a black box model, and would you consider a deep neural networks to be a black box model? Why and Why not?
 - [ ] What is the difference between model-specific and model-agnostic XAI tools, and further what are local and global methods in the context of model-agnostic XAI methods.
 - [ ] Explain with an example, what does it mean for an explanation to be human-friendly (focus on one aspect of a human-friendly explanation).
-- [ ] Explain with an example, what does it mean for a model to express it's (un)certainity in a prediction.
+- [ ] Explain with an example, what does it mean for a model to express it's (un)certainty in a prediction.
 - [ ] List 3 areas of application where ```explainability >> prediction performance```, and explain your motivations for doing so. 
 - [ ] List 3 areas of application where ```explainability << prediction performance```, and explain your motivations for doing so. 
 - [ ] For your creative brief application: discuss the trade-off between explainability and prediction performance.

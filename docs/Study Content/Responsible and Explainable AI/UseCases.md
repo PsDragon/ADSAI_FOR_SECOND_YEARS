@@ -146,7 +146,7 @@ __To solve this use-case, you will need to:__
 - [ ] Elaborate on your approach, the choices you made, and results of the fairness evaluation (e.g., determination of suitable group fairness metric, outcome of group fairness metric calculation, etc.). Use the ```[student number]_responsible_ai.ipynb``` file, which is provided in your personal BUAs GitHub repository.
 - [ ] Test your group fairness function by writing a unit test with the Python package ```pytest```.
 
-For more information on to create the group fairness taxonomy function, click [here](https://adsai.buas.nl/Study%20Content/Responsible%20and%20Explainable%20AI/UseCasesDetailed.html). 
+For more information on how to create the group fairness taxonomy function, click [here](https://adsai.buas.nl/Study%20Content/Responsible%20and%20Explainable%20AI/UseCasesDetailed.html). 
 
 ## Use-case 6: Apply one/multiple explainable AI method(s) to the image classifier
 

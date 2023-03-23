@@ -167,7 +167,10 @@ This function returns a list of values formatted as follows: ```[Predictive Equa
 
 To solve this use-case, you will need to convert AXA's Fairness Compass into an Python function, and subsequently test this function through writing and running a unit test. Below, you can find the steps to complete this use-case:
 
-1. Take a closer look at AXA's [The Fairness Compass](https://goo.su/7o1YWGj). For example, think about the arguments you need to pass to the function, and the output of the function.
+1. Take a closer look at AXA's [The Fairness Compass](https://goo.su/7o1YWGj). For example, think about the arguments you need to pass to the function (i.e., <span style="color:green">decision nodes</span>), and the output of the function (i.e., <span style="color:red">final decision nodes, which are the group fairness metrics you set up for Use-case 4</span>). See image below:
+
+<img src="./images/fairness_compas3.png" alt="Fairness Compass metrics" width="600">
+
 2. Select a dataset of your choice (e.g. Imsitu, MS COCO, COMPAS, etc.).
 3. Create a train/validation/test split for your dataset.
 4. Define a binary classification task using dataset selected in the previous step.
@@ -185,9 +188,19 @@ To solve this use-case, you will need to convert AXA's Fairness Compass into an 
 11. Train the binary classification model on the dataset. You can save the weights of the model to a .h5 file.
 12. Compute the confusion matrices for the protected/sensitive test sets using the weights of the trained model.  
 13. Load the outputs of the confusion matrices for the protected/sensitive attribute test sets into the group fairness taxonomy function.
-14. Load the group fairness metrics you created for __Use-case 4__ into the group fairness taxonomy function. 
+14. Load the group fairness metrics you created for __Use-case 4__ into the group fairness taxonomy function. Remember, you used the following metrics:
+
+<img src="./images/fairness_compas1.png" alt="Fairness Compass metrics" width="600">
+
+<img src="./images/fairness_compas2.png" alt="Fairness Compass metrics" width="600">
+
 15. Create a control flow for the group fairness taxonomy function by incorporating conditional statements (e.g., if-else statements).
 16. Elaborate on your approach, the choices you made, and results of the fairness evaluation (e.g., determination of suitable group fairness metric, outcome of group fairness metric calculation, etc.). Use the ```[student number]_responsible_ai.ipynb``` file, which is provided in your personal BUAs GitHub repository.
+
+:bell: A diamond-shaped node, known as a decision node, indicates a point in a process where a choice must be made. Following the path from the decision node will eventually lead to a final node, which represents the final result of the decision path, i.e, - a particular metric for group fairness. To receive additional information (e.g., data task examples) about the decision path, you can click on the nodes: 
+
+![The Fairness Compass nodes](./images/FairnessNodes.gif)
+
 17. Test your group fairness function by writing a unit test with the Python package ```pytest```. 
 
 ***

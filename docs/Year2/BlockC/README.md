@@ -407,5 +407,27 @@ The medal courses for this block have been specifically selected to help boost y
 
 <img src="./images/medals.png" alt="medals.png" width="60%"/>
 
+## ILO 4.0 - Notebook mapping
+
+Here is how student notebooks are related to the ILO 4.0 Natural Language Processing criteria
+
+ILO 4.0 Poor:
+- W1-DL1-Regular-Expressions-Student-Notebook.ipynb
+
+ILO 4.0 Insufficient:
+- W1-DL2-Tweet-Processing-Student-Notebook.ipynb
+
+ILO 4.0 Sufficient:
+- W2-DL1-Naive-Bayes-Student-Notebook.ipynb
+- W2-DL2-Logistic-Regression-Student-Notebook.ipynb
+
+ILO 4.0 Good:
+- W4-DL2-Embeddings-Student-Notebook.ipynb
+- W6-Quiz-Student-Notebook.ipynb
+
+ILO 4.0 Excellent:
+- W5-DL1-RNNs-Student-Notebook.ipynb
+- W5-DL2-Transformers-Student-Notebook.ipynb
+
 
 *** 

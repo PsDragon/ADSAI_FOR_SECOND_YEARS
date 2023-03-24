@@ -59,7 +59,7 @@ Maybe there are important pieces of information regarding the AI to communicate 
 A/B testing, also known as split testing, is a method of comparing two different versions of a webpage or app to determine which one performs better. The process involves randomly dividing users into two groups, with each group being shown a different version of the page. The results are then analyzed to determine which version is more effective at achieving the desired outcome, such as increasing sales or conversions.  With the A/B test you only test one variable at a time and to ensure that your sample size is large enough to achieve statistically significant results.
 
 The A/B test can be considered the most basic kind of randomized controlled experiment.
-You must estimate the sample size you need to achieve a statistical significance, which will help you make sure the result you’re seeing “isn’t just because of background noise”.
+You must estimate the sample size you need to achieve a statistical significance, which will help you make sure the result you’re seeing “isn’t just because of background noise”. You can use [online tools](https://www.optimizely.com/sample-size-calculator/#/?conversion=3&effect=20&significance=95) to do it or calculate it manually yourself.
 
 
 The video below explains A/B testing in detail.
@@ -70,21 +70,21 @@ The video below explains A/B testing in detail.
 </figure>
 <!-- blank line -->
 
-*Video 1. 'A/B Testing in Data Science Interviews by a Google Data Scientist | DataInterview.*
+*Video 1. 'A/B Testing in Data Science Interviews by a Google Data Scientist.DataInterview.*
 
 ## 5) Practical example or the key to success (an interesting read)
 Booking.com is a popular online travel agency known for its extensive and successful use of A/B testing to improve its website. The company runs over 1,000 tests per day, which amounts to more than 400,000 tests per year. Booking.com's A/B testing program is considered one of the largest and most sophisticated in the industry.
 
 One of the keys to Booking.com's success is its dedicated A/B testing team. The team consists of experienced data analysts, developers, and designers who work together to identify opportunities for optimization and run tests to validate their hypotheses. The team follows a structured approach to A/B testing, starting with clear hypotheses based on data analysis and user feedback.
 
-Before starting a test, the team defines clear goals and KPIs to ensure that the results are meaningful and relevant to the business. They also take care to ensure that the tests are statistically valid by using appropriate sample sizes and testing durations. This helps to minimize false positives and false negatives and ensure that the results are reliable.
+Before starting a test, the team defines clear goals and [KPIs](https://www.kpi.org/kpi-basics/) to ensure that the results are meaningful and relevant to the business. They also take care to ensure that the tests are statistically valid by using appropriate sample sizes and testing durations. This helps to minimize false positives and false negatives and ensure that the results are reliable.
 
 ![Process](https://assets.website-files.com/614e240a0e0b0fa20bb1471d/62cc7d60213919156901e2e1_48842-0lfi-1skwvnhnrx0n-2.png)
 *Figure 1. Booking.com’s Testing Process*
 
 Booking.com's A/B testing program is supported by sophisticated machine learning algorithms and automation tools. These tools help the team to identify patterns and trends in the test results and suggest new hypotheses for further testing. They also help to streamline the testing process by automating tasks such as test setup, data collection, and analysis.
 
-Through its extensive use of A/B testing, Booking.com has been able to continuously optimize its website and improve its user experience. Some of the notable improvements that have resulted from A/B testing include faster page load times, more prominent calls-to-action, and personalized search results. Booking.com's success with A/B testing has made it a model for other businesses looking to improve their online presence and user experience.
+Through its extensive use of A/B testing, Booking.com has been able to continuously optimize its website and improve its user experience. Some of the notable improvements that have resulted from A/B testing include faster page load times, more prominent [calls-to-action](https://en.wikipedia.org/wiki/Call_to_action_(marketing)), and personalized search results. Booking.com's success with A/B testing has made it a model for other businesses looking to improve their online presence and user experience.
 
 
 ## Next up!

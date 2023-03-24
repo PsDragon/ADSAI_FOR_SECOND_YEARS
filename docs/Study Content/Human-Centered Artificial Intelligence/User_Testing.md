@@ -80,6 +80,7 @@ One of the keys to Booking.com's success is its dedicated A/B testing team. The 
 Before starting a test, the team defines clear goals and [KPIs](https://www.kpi.org/kpi-basics/) to ensure that the results are meaningful and relevant to the business. They also take care to ensure that the tests are statistically valid by using appropriate sample sizes and testing durations. This helps to minimize false positives and false negatives and ensure that the results are reliable.
 
 ![Process](https://assets.website-files.com/614e240a0e0b0fa20bb1471d/62cc7d60213919156901e2e1_48842-0lfi-1skwvnhnrx0n-2.png)
+
 *Figure 1. Booking.com’s Testing Process*
 
 Booking.com's A/B testing program is supported by sophisticated machine learning algorithms and automation tools. These tools help the team to identify patterns and trends in the test results and suggest new hypotheses for further testing. They also help to streamline the testing process by automating tasks such as test setup, data collection, and analysis.
@@ -92,9 +93,6 @@ Please summarize the steps that you need to conduct for A/B testing and upload i
 
 ## Next up!
 Coming Datalab we will reflect on user feedback and user testing again and give you an opportunity to ask any questions you might have.
-
-
-
 
 # Resources
 ## Recommend Literature:

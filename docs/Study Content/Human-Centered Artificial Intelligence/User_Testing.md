@@ -56,10 +56,10 @@ Our core funtionality is now ready to be tested! Great, the next feature we need
 Maybe there are important pieces of information regarding the AI to communicate to the user? Or maybe the user needs to label some information in order to assist the algorithm or the development of the application itself via crowdsourcing?
 
 ## 4) Definition of A/B Testing
-A/B testing, also known as split testing, is a method of comparing two different versions of a webpage or app to determine which one performs better. The process involves randomly dividing users into two groups, with each group being shown a different version of the page. The results are then analyzed to determine which version is more effective at achieving the desired outcome, such as increasing sales or conversions.  With the A/B test you only test one variable at a time and to ensure that your sample size is large enough to achieve statistically significant results.
+A/B testing, also known as split testing, is a method of comparing two different versions of a webpage or app to determine which one performs better. The process involves randomly dividing users into two groups, with each group being shown a different version of the page. The results are then analyzed to determine which version is more effective at achieving the desired outcome, such as increasing sales or conversions.  With the A/B test you only test one variable at a time and to ensure that your sample size is large enough to achieve [statistically significant results](https://hbr.org/2016/02/a-refresher-on-statistical-significance).
 
 The A/B test can be considered the most basic kind of randomized controlled experiment.
-You must estimate the sample size you need to achieve a statistical significance, which will help you make sure the result you’re seeing “isn’t just because of background noise”. You can use [online tools](https://www.optimizely.com/sample-size-calculator/#/?conversion=3&effect=20&significance=95) to do it or calculate it manually yourself.
+You must estimate the sample size you need to achieve a statistical significance, which will help you make sure the result you’re seeing “isn’t just because of background noise”. You can use [online tools](https://www.optimizely.com/sample-size-calculator/#/?conversion=3&effect=20&significance=95) to calculate it.
 
 
 The video below explains A/B testing in detail.
@@ -86,11 +86,14 @@ Booking.com's A/B testing program is supported by sophisticated machine learning
 
 Through its extensive use of A/B testing, Booking.com has been able to continuously optimize its website and improve its user experience. Some of the notable improvements that have resulted from A/B testing include faster page load times, more prominent [calls-to-action](https://en.wikipedia.org/wiki/Call_to_action_(marketing)), and personalized search results. Booking.com's success with A/B testing has made it a model for other businesses looking to improve their online presence and user experience.
 
+## 6) DataLab preparation 
+
+Please summarize the steps that you need to conduct for A/B testing and upload it to GitHub. 
 
 ## Next up!
 Coming Datalab we will reflect on user feedback and user testing again and give you an opportunity to ask any questions you might have.
 
-Tomorrow, we will deploy our user testing setup and learn about A/B testing!
+
 
 
 # Resources

@@ -67,6 +67,9 @@ To create our vertical slice, we first need to define what the user can actually
 The following video will explain the concept of  vertical slice in more detail in more detail!
 <iframe src="https://edubuas-my.sharepoint.com/personal/heijligers_b_buas_nl/_layouts/15/embed.aspx?UniqueId=84e01d03-f5b2-416f-a25c-ba9ae31af88c&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Meeting with Heijligers, Bram-20230321_205953-Meeting Recording.mp4"></iframe>
 
+Note that you need to log into the BUas SSO (Single Sign-On) to view the video; e.g. log into your student portal. If you are signed in and it still doesn't work, contact Bram Heijligers using the Q&A channel. If that still doesn't work, [please click here](https://edubuas-my.sharepoint.com/:v:/g/personal/heijligers_b_buas_nl/EQMd4ISy9W9Boly6muMa-IwBVRRbHqZi0ni_CyOFaHv8wQ?e=oVlRqV)
+
+
 So, we already made the computer vision algorithm which contains our core functionality and we've gathered our dataset which represents our Proof-of-Concept (PoC). Ofcourse, doing the programming; turning our Juypter notebook into .py scripts and integrating them in an API, to actually create the real application is something outside the scope of this project (that'll come next block). However, the UI and UX is something we can design, prototype and test already for our envisoned application. That way we can detect early design flaws and change them before we would actually start building the full application. So, to start designing the UX; and UI, we need to know what the user needs and wants to do, so let's **learn to define user-stories by watching the video below:**
 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="640" height="360" src="https://www.linkedin.com/learning/embed/software-design-developing-effective-requirements/user-stories?autoplay=false&claim=AQEdMXouytUZwgAAAX2AJ9-QmZzRCVyggq0_gN4OsER1UeDvyb5vFXysEBbnj6yt4EIp7yyj-OKCujqvYam9qXfkZQ-mElXZwAN8um3FRffnKPRW07gamB8f41ZYCfz4tfHrepnMK2V_w0JA8gjvBfYeqnbzM7SabbIV_vAM6qYV2hS4AwSyMoA8CuXJGvSd8G-nwe0tigTADllj-jyPOtf7WqWeeg9dt5Jkt0OSiZ8Ue9T_yQ-iDzGKZArn1o9vNPTnNYYPzvgHxWtMe1FnF7LZ6dz9eqBmEqf8O4lYLMFKJOAB8PBLgty5DqH03DNikHgNo5jmw2Um_VV6D8E-fpgEn9McdPm9Pg-xm3XYqw_kje8Wz7SWgoxOU1hL3NLUsCcwsLm1e_diDmqNTPPI265PXEVNvRX_dTloFPVszs6-CdScGS0kzNtdrQsdSkQKNU8hhnkxJa30PjqxUuht1Ea2bti3ToKoz-5xxX_HScFTcqZ0m0t-yXY4smGcUEiUg24iPvfuTWajxdAesd7VYPJb5KrHG3TiLbXBvkU9tq4yXPz5qobW1LDUvIfuyViPNSolyI6OwHDhp3nLVTFfY63K6uoGPeGevNt3CV47mgeYVetj0vaHOKJuJWrqBlYyt9ypazXKiWUd7kMy6cm6fH1juEvADa5ouLzsw62LIurCJ44obFtVwrnjn2pciMq3hvQd_miKrlS7j9Fk6WPUmlPXAk19AJYyhHJTzFez52syx_xa_hM&lipi=urn%3Ali%3Apage%3Ad_learning_content%3BrPd%2FRTAHQxifYD2luO6XRA%3D%3D&licu" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true" frameborder="0" style="position:absolute;width:100%;height:100%;left:0"></iframe></div><p><strong><a href="https://www.linkedin.com/learning/software-design-developing-effective-requirements/user-stories?trk=embed_lil">User-stories</a></strong> from <strong><a href="https://www.linkedin.com/learning/software-design-developing-effective-requirements?trk=embed_lil">Software Design: Developing Effective Requirements</a></strong> by <strong><a href="https://www.linkedin.com/learning/instructors/neelam-dwivedi?trk=embed_lil">Neelam Dwivedi</a></strong></p>
@@ -110,11 +113,11 @@ Make sure to finish your vertical slice today!
 **Save your Wireframe Prototype to Github by exporting is a .zip file, name it 'HCAI_Wireframe_[NameOfApplication]_[StudentName]' (if you didn't do so already) and note what your did in your work- and learning log; and link your .zip file as evidence.**
 
 ## Datalab Preparation Checklist:
-[] Datalab Preparation 1: High-level Design
-[] Datalab Preparation Part 2: High-Level Design for HCAI Applications
-[] Datalab Preparation 3: Defining User Stories
-[] Datalab Preparation 4: Interaction Design
-[] Datalab Preparation 5: Create a vertical slice in Proto.io
+- [] Datalab Preparation 1: High-level Design
+- [] Datalab Preparation Part 2: High-Level Design for HCAI Applications
+- [] Datalab Preparation 3: Defining User Stories
+- [] Datalab Preparation 4: Interaction Design
+- [] Datalab Preparation 5: Create a vertical slice in Proto.io
 
 ## Next up!
 Coming Datalab, we are going to test your vertical slice 2 user-test: a demo in the form of a peer-review and Wizzard of Oz Prototyping. We are also going to learn more on what sets HCAI apart from regular human-computer interaction!

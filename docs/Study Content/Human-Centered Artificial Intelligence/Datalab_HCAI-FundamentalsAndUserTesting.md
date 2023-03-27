@@ -3,9 +3,9 @@ sort: 3
 ---
 
 # Datalab: HCAI Fundamentals & User Testing 
-Up untill now, you essentially started making the high-level design of your application. Today, we start by reviewing your design with your peers. After which, we'll conclude the morning with an introductory lecture to Human-Centered AI Fundamentals.
+If you followed along as planned, you have now finished the high-level design of your application. Before we go an do any more design work, it's smart and efficient to see how well what we have up untill now works. That's why we start today, after the stand-up, by reviewing your designs up untill now with your peers. After which, we'll conclude the morning with an introductory lecture to Human-Centered AI Fundamentals to expand on your design toolkit.
 
-In the afternoon, we're going to design and test the core functionality component of our HCAI application, which the part which actually contains the AI; the computer vision algorithm. We'll design and test that AI component of our application by doing an iterative Wizzard of Oz experiment!
+In the afternoon, we're going to design and test the core functionality component of our HCAI application, which is he part which actually contains the AI; the computer vision algorithm. We'll design and test that AI component of our application by doing an iterative Wizzard of Oz experiment, which will help us determine how the user should interact with and operate our AI component.
 
 ## Learning Objectives:
 After this module, you'll be able to:
@@ -40,13 +40,18 @@ We start by hosting a stand-up. Form groups of ~ 5 and run on-another through th
 **Open your worklog and plan your day informed by the stand-up and today's schedule**
 
 ## 1) User testing: Product Demo
-All products should include some form of user testing, whether they are digital or not, interactive or non-interactive: as a designer you generally know too much about the product and technology relating to your own project. You cannot simply pretend you don't know these things; that's not how your brain works, and therefore we perform user tests to create a ecologically valid setup to test our designs!
+All products should include some form of user testing, whether they are digital or not, interactive or non-interactive: as a designer you generally know too much about the product and technology related to your own project. You cannot simply pretend you don't know these things; that's not how your brain works, and therefore we perform user tests to create a ecologically valid setup to test our designs!
 
-The most basic form of testing your design is simply showing it to a participant and having them 'conceptually' interact with the application in a controlled manner: a Demo. This can be a generic prototype where the user can interact with (e.g. let the user control your wireframe), or a more guided one; (usually non-interactive but you could accept user requests for example), where you are controlling the prototype instead of the participant.
+The most basic form of testing your design is simply showing it to a 'user' and having them 'conceptually' interact with the application in a controlled manner: a demo. This can be a generic prototype where the user can interact with (e.g. let the user control your wireframe), or a more guided one; (usually non-interactive but you could accept user requests for example), where you are controlling the prototype instead of the participant.
 
 **Open your Learning Log in MS teams and create a section called 'Product Demo - [DD-MM-YYYY]' in this week's slides. Create a bullet point list for logging all feedback points of your peers (name them)!** Log feedback regardless of your considerations, refuting the feedback comes at a later stage and should not be a filter while transscribing the feedback.
 
-Run 3 classmates through your vertical slice. Explain them along the way what will happen for each given condition and user story. Start by choosing an approach for your demo:
+Form groups of (max) 3 classmates and run your classmates; or users, through your vertical slice. 
+
+**As a user:** When you are assuming the role of the user, be sure to ask questions and give feedback. Especially, if anything isn't clear, intuitive, if you don't understand what is going on, or why something is done in a certain way. Any feedback or suggestions are welcome to a designer in this stage; even punching hole in a design, because this is the best design stage to adress those! 
+
+
+**As a designer:** When you are assuming the role of the designer, explain to your users what will happen for each given condition and user story. Start by choosing an approach for your demo:
 1. User-Controlled: Let your peers interact with your wireframe and note down what happens. Specifically, anything that seems important to you: things which work well and don't work as intended. The user should be able to navigate through the wireframe without explaination if possible, but if they have any questions you should answer them or help them if they're struggeling.
 2. Designer-Controlled: Run you peer(s) through your wireframe yourself. Explain them along the way what will happen for each given condition and user story. Answer their questions and specifically focus on the intended user-journey (how you envision using the app from start to finish; for as far as you designed thus far).
 

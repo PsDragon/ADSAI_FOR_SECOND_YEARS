@@ -233,7 +233,7 @@ Below you will find the timeline on a day-to-day basis. Further down, there is i
 # Week 7 : Prototype - Human Centered AI
 
 ## Monday
-- [Interaction & information processing fundamentals](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Interaction_Information_Processing_Fundamentals.html)
+- [Interaction & information processing fundamentals](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/InformationProcessingFundamentals_And_ConceptDesign.html)
 
 ## Tuesday
 - [Interaction design](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Interaction_Design.html)

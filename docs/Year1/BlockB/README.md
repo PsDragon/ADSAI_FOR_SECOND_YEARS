@@ -1,2 +1,2 @@
 
-# Block B: Data Preparation and Understanding
+# Data Preparation and Understanding

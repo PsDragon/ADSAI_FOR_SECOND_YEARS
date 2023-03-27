@@ -52,7 +52,8 @@ Want to see the slides? [Click this link!](./Assets/HCAI Kick-off.pptx)
 
 Missed the kick-off? Watch it back over here:
 <iframe src="https://edubuas-my.sharepoint.com/personal/heijligers_b_buas_nl/_layouts/15/embed.aspx?UniqueId=686add29-3750-4ef1-99d4-fde0debeefb8&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Human-Centered Artificial Intelligence_ Kick-Off-20230327_100223-Meeting Recording.mp4"></iframe>
-Note that you need to log into the BUas SSO (Single Sign-On) to view the video; e.g. log into your student portal. If you are signed in and it still doesn't work, contact Bram Heijligers using the Q&A channel. 
+
+Note that you need to log into the BUas SSO (Single Sign-On) to view the video; e.g. log into your student portal. If you are signed in and it still doesn't work, contact Bram Heijligers using the Q&A channel. If that still doesn't work, [please click here](https://edubuas-my.sharepoint.com/:v:/g/personal/heijligers_b_buas_nl/ESndamhQN_FOmdT94N6-77gBVJSU0_1rnqVFxUNaAjXBsg).
 
 
 

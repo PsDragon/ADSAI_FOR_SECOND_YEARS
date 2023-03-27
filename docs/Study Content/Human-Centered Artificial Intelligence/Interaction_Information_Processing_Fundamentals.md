@@ -2,7 +2,7 @@
 sort: 1
 ---
 
-# Information Processing Fundamentals & Interaction Design
+# Information Processing Fundamentals & Concept Design
 The current era is often referred to as the "Information Age" or "Digital Age," characterized by the rapid development and widespread use of information and communication technologies (ICTs) such as computers, the internet, and mobile devices. In this age, information is the most valuable resource, and once could argue that data has become the currency of the world. 
 
 With the proliferation of ICTs, people can access and share information from anywhere in the world in real-time. This has led to an explosion of information, with more data being created and exchanged every day than ever before. This development has transformed the way we live, work, and communicate, and will continue to shape our society in the years to come, bringing about fundamental changes such as:
@@ -50,7 +50,9 @@ The kick-off has been scheduled in your agenda but you can also attend by [click
 
 Want to see the slides? [Click this link!](./Assets/HCAI Kick-off.pptx)
 
-Missed the kick-off? Watch it back [over here!]()
+Missed the kick-off? Watch it back over here:
+<iframe src="https://edubuas-my.sharepoint.com/personal/heijligers_b_buas_nl/_layouts/15/embed.aspx?UniqueId=686add29-3750-4ef1-99d4-fde0debeefb8&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Human-Centered Artificial Intelligence_ Kick-Off-20230327_100223-Meeting Recording.mp4"></iframe>
+Note that you need to log into the BUas SSO (Single Sign-On) to view the video; e.g. log into your student portal. If you are signed in and it still doesn't work, contact Bram Heijligers using the Q&A channel. 
 
 
 

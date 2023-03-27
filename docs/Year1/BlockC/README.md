@@ -240,6 +240,7 @@ Below you will find the timeline on a day-to-day basis. Further down, there is i
 
 ## Wednesday
 - [DataLab: HCAI Fundamentals & User Testing](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Datalab_HCAI-FundamentalsAndUserTesting.html)
+- [ ] Feedback Session
 
 ## Thursday
 - [Interface design](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Interface_Design.html)

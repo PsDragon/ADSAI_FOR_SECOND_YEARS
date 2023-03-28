@@ -104,11 +104,13 @@ In addition to Conda, there are several other tools available for managing Pytho
 
 Each of these alternatives has its own strengths and weaknesses, so it is important to evaluate each one based on your specific needs and requirements.
 
-:pencil: __3a__ Download the [Titanic](https://web.stanford.edu/class/archive/cs/cs109/cs109.1166/problem12.html) dataset in CSV format and save it to a directory named ```titanic```. 
+:pencil: __3a__ Create new directory named ['src'](https://packaging.python.org/en/latest/tutorials/packaging-projects/). For now you do not need to know why it is called 'src'. You will learn more about this naming convention in the next knowledge module chapters. 
 
-:pencil: __3b__ Create a Python script called ```titanic.py``` and place it in the same directory as the Titanic dataset.
+:pencil: __3b__ Download the [Titanic](https://web.stanford.edu/class/archive/cs/cs109/cs109.1166/problem12.html) dataset in CSV format and save it to the directory 'src'. 
 
-:pencil: __3c__ Use a virtual environment manager such as venv, conda, or pipenv to create a new virtual environment called ```titanic-env```.
+:pencil: __3c__ Create a Python script called ```titanic.py``` and place it in the same directory as the Titanic dataset.
+
+:pencil: __3__ Use a virtual environment manager such as venv, conda, or pipenv to create a new virtual environment called ```titanic-env```.
 
 ***
 
@@ -130,6 +132,8 @@ Some of the key features of Poetry include:
 - Plugin system: Poetry has a plugin system that allows you to extend its functionality. For example, there are plugins for integrating Poetry with other tools like Pytest or Black.
 
 Overall, Poetry simplifies the process of managing dependencies in your Python projects, making it easier to share and distribute your code.
+
+:pencil: __5a__ Activate the ```titanic-env``` virtual environment and install the package Poetry. 
 
 Here is a quick guide on how to install Poetry on a Windows machine:
 
@@ -163,8 +167,6 @@ That is it! You now have Poetry installed on your Windows machine.
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Note: You may also choose to publish your project as a package on the Python Package Index (PyPI), which is a collection of open-source software for the Python programming language, if you are willing to take on an additional challenge. For more details, contact coding wizard Nitin. 
 </div>
-
-:pencil: __5a__ Activate the ```titanic-env``` virtual environment and install the package Poetry. 
 
 :pencil: __5b__ Then, use Poetry to install the following packages:
 

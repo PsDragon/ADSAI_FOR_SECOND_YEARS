@@ -15,7 +15,7 @@ __1. Virtual environments & Package management with Python__ <br>
 5. Continuous Integration with Python <br>
 6. Deployment with Python <br>
 
-__After this module, you will be able to:__
+__After this chapter, you will be able to:__
 
 - [ ] Define the terms 'virtual environment', 'package management' and 'technical debt' in machine learning
 - [ ] Describe the relative importance of ML code in a real-world ML system

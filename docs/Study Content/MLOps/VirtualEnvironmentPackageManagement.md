@@ -4,16 +4,18 @@ sort: 1
 
 ## MLOps: Virtual environments & Package management with Python
 
+### Chapter overview
+
+I. __Virtual environments & Package management with Python__ <br>
+II. Production-Level code with Python <br>
+III. Documentation for Python <br>
+IV Testing with Python <br>
+V. Continuous Integration with Python <br> 
+VI. Deployment with Python <br>
+
 ### 1. Introduction
 
-Hi there :sparkles: :books: :smiley:. Welcome to the first chapter of the MLOps with Python knowledge module. In this module, you will learn about virtual environments and package management in Python. Throughout this module, you will be guided towards online resources that will help you acquire knowledge of various MLOps topics. In addition, we created some Python exercises, using the Titanic dataset, for you to practice your newly gained knowledge; you will build your first Python package! After completing the chapter, you should be able to apply your knowledge to the Creative Brief. Let us get started :rocket:!
-
-__1. Virtual environments & Package management with Python__ <br>
-2. Production-Level code with Python <br>
-3. Documentation for Python <br>
-4. Testing with Python <br>
-5. Continuous Integration with Python <br>
-6. Deployment with Python <br>
+Hi there :sparkles: :books: :smiley:. Welcome to the first chapter of the __*MLOps with Python*__ knowledge module. In this module, you will learn about virtual environments and package management in Python. Throughout this module, you will be guided towards online resources that will help you acquire knowledge of various MLOps topics. In addition, we created some Python exercises, using the Titanic dataset, for you to practice your newly gained knowledge; you will build your first Python package! After completing the chapter, you should be able to apply your knowledge to the Creative Brief. Let us get started :rocket:!
 
 __After this chapter, you will be able to:__
 

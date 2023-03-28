@@ -114,12 +114,7 @@ Each of these alternatives has its own strengths and weaknesses, so it is import
 
 ***
 
-### 4. Containerization
-
-### Add material by Dean?
-***
-
-### 5. Package management
+### 4. Package management
 
 [Poetry](https://python-poetry.org/) is a Python package manager that aims to provide a simple and efficient way to manage dependencies in your Python projects. It allows you to define your project's dependencies in a ```pyproject.toml``` file, which is more user-friendly than the traditional ```requirements.txt``` file. With poetry, you can easily install, update, and remove dependencies, as well as create virtual environments for your projects.
 
@@ -132,7 +127,7 @@ Some of the key features of Poetry include:
 
 Overall, Poetry simplifies the process of managing dependencies in your Python projects, making it easier to share and distribute your code.
 
-:pencil: __5a__ Activate the ```titanic-env``` virtual environment and install the package Poetry. 
+:pencil: __4a__ Activate the ```titanic-env``` virtual environment and install the package Poetry. 
 
 Here is a quick guide on how to install Poetry on a Windows machine:
 
@@ -167,7 +162,7 @@ That is it! You now have Poetry installed on your Windows machine.
 Note: You may also choose to publish your project as a package on the Python Package Index (PyPI), which is a collection of open-source software for the Python programming language, if you are willing to take on an additional challenge. For more details, contact coding wizard Nitin. 
 </div>
 
-:pencil: __5b__ Then, use Poetry to install the following packages:
+:pencil: __4b__ Then, use Poetry to install the following packages:
 
 - [ ] ```pandas```
 - [ ] ```numpy```
@@ -181,13 +176,13 @@ For example, if you want to install the Pandas package, you can use the followin
 poetry add pandas
 ```
 
-:pencil: __5c__ Import the necessary packages in your ```titanic.py``` script and conduct a basic exploratory data analysis on the Titanic dataset. 
+:pencil: __4c__ Import the necessary packages in your ```titanic.py``` script and conduct a basic exploratory data analysis on the Titanic dataset. 
 
-:pencil: __5d__ Train a logistic regression model on the dataset, and evaluate its performance.
+:pencil: __4d__ Train a logistic regression model on the dataset, and evaluate its performance.
 
 ***
 
-### 6. Blended learning
+### 5. Blended learning
 
 There are many online resources available on the topic of virtual environments and package management in Python. Please, check the following resources:
 

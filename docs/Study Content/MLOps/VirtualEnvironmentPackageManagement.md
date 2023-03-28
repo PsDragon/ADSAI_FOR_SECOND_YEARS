@@ -6,18 +6,28 @@ sort: 1
 
 ### 1. Introduction
 
-This module will help you acquire knowledge of virtual environments and package management in Python by guiding you towards online resources. In addition, it will give you tips on how you can apply your newly gained knowledge to the creative brief.
+Hi there :sparkles: :books: :smiley:. Welcome to the first chapter of the MLOps with Python knowledge module. In this module, you will learn about virtual environments and package management in Python. Throughout this module, you will be guided towards online resources that will help you acquire knowledge of various MLOps topics. In addition, we created some Python exercises, using the Titanic dataset, for you to practice your newly gained knowledge; you will build your first Python package! After completing the chapter, you should be able to apply your knowledge to the Creative Brief. Let us get started :rocket:!
+
+__1. Virtual environments & Package management with Python__ <br>
+2. Production-Level code with Python <br>
+3. Documentation for Python <br>
+4. Testing with Python <br>
+5. Continuous Integration with Python <br>
+6. Deployment with Python <br>
 
 __After this module, you will be able to:__
 
-- [ ] Acquire knowledge of virtual environments and package management in python by completing the exercises and consulting online resources
-- [ ] Apply knowledge of virtual environments and package management in python to the creative brief
+- [ ] Define the terms 'virtual environment', 'package management' and 'technical debt' in machine learning
+- [ ] Describe the relative importance of ML code in a real-world ML system
+- [ ] Explain the benefits of using virtual environments and package management in Python
+- [ ] Create a virtual environment in Python 
+- [ ] Install Python packages in a virtual environment using a package manager
 
 <img src="./images/PythonEnvPackage.jpg" alt="Python setup for production ready ML code" width="600">
 
 *Figure 1. Python setup for production ready ML code.*
 
-Using a virtual environment along with a package manager enables efficient management of dependencies and packages required for a machine learning project in a well-organized manner. This approach ensures reproducibility of your code and simplifies collaboration with other data professionals.
+Using a virtual environment along with a package manager enables efficient management of dependencies and packages required for a machine learning project in a well-organized manner. For example, it will combat what we call 'technical debt' (More on this in the next section!) by making your code reproducible, which in turn will simplify the collaboration with other data professionals (Yes, you will be working in a team this block...).
 
 ***
 
@@ -27,7 +37,7 @@ Technical debt is a term used in software development that describes the expense
 
 <img src="./images/TechnicalDebt.png" alt="Raster vs. vector data" width="600">
 
-*Figure 1. Technical debt and the relative importance of ML code in real-world ML systems.*
+*Figure 1. Technical debt and the machine learning life-cycle.*
 
 :bell: ML code is makes up only a small fraction of the total codebase in a real-world ML system. This means that the majority of the codebase is not ML code, but rather code that is used to manage the ML system :open_mouth: (See Figure 1.).
 
@@ -43,9 +53,20 @@ Original scientific paper by D. Sculley et al. regarding technical debt in machi
 
 - [Hidden Technical Debt in Machine Learning Systems](https://proceedings.neurips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)
 
+:pencil: __1a__ Find a GitHub ML project that you like and check out the codebase. How many lines of code are ML code? How many lines of code are not ML code? What is the ratio of ML code to non-ML code? Write your answer down.
+
+:pencil: __1b__ Would you say that the project has a lot of technical debt? Why or why not? Write your answer down.
+
 ***
 
 ### 3. Virtual environment
+
+
+<img src="./images/GergelySzerovay.jpg" align="left" width="50"/>
+
+> I have over two decades of professional experience as a developer, I know a wide variety of frameworks and programming languages, and one of my favorites is Python. I've been teaching it for quite some time now, and according to my experience, establishing Python environments is a challenging topic - [Gergely Szerovay](https://www.freecodecamp.org/news/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c/), Freecodecamp contributer. 
+
+<br clear="left"/>
 
 Creating a virtual environment in Python for your machine learning projects is essential to ensure that the dependencies and packages required for the project are isolated from the global environment. This helps avoid conflicts with other installed packages or versions of Python. By creating a virtual environment, you can ensure that your project has access to the required dependencies and packages without affecting the global Python installation. Additionally, virtual environments can be easily shared with others, making it easier to collaborate on projects. Overall, using a virtual environment in Python for your machine learning projects is a best practice that helps maintain a clean and organized development environment.
 
@@ -53,7 +74,7 @@ Let us take a look at how to create a virtual environment in Python using [Conda
 
 __Step 1: Install Conda__
 
-If you have not installed Conda yet, you can download it from the official Anaconda website: https://www.anaconda.com/products/individual
+If you have not installed Conda yet, you can download it from the official [Anaconda](https://www.anaconda.com/products/individual) website.
 
 __Step 2: Create a virtual environment__
 
@@ -78,7 +99,7 @@ With the virtual environment activated, you can install any packages you need. F
 ```bash
 conda install pandas
 ```
-This will install pandas and any dependencies it needs in the 'myenv' environment.
+This will install Pandas and any dependencies it needs in the 'myenv' environment.
 
 __Step 5: Deactivate the virtual environment__
 
@@ -104,19 +125,19 @@ In addition to Conda, there are several other tools available for managing Pytho
 
 Each of these alternatives has its own strengths and weaknesses, so it is important to evaluate each one based on your specific needs and requirements.
 
-:pencil: __3a__ Create new directory named ['src'](https://packaging.python.org/en/latest/tutorials/packaging-projects/). For now you do not need to know why it is called 'src'. You will learn more about this naming convention in the next knowledge module chapters. 
+:pencil: __3a__ Create new directory named ['src'](https://packaging.python.org/en/latest/tutorials/packaging-projects/). For now you do not need to know why it is called 'src'. You will learn more about this naming convention in one of the next knowledge module chapters. 
 
 :pencil: __3b__ Download the [Titanic](https://web.stanford.edu/class/archive/cs/cs109/cs109.1166/problem12.html) dataset in CSV format and save it to the directory 'src'. 
 
 :pencil: __3c__ Create a Python script called ```titanic.py``` and place it in the same directory as the Titanic dataset.
 
-:pencil: __3__ Use a virtual environment manager such as venv, conda, or pipenv to create a new virtual environment called ```titanic-env```.
+:pencil: __3__ Use a virtual environment manager such as Venv, Conda, or Pipenv to create a new virtual environment called ```titanic-env```.
 
 ***
 
 ### 4. Package management
 
-[Poetry](https://python-poetry.org/) is a Python package manager that aims to provide a simple and efficient way to manage dependencies in your Python projects. It allows you to define your project's dependencies in a ```pyproject.toml``` file, which is more user-friendly than the traditional ```requirements.txt``` file. With poetry, you can easily install, update, and remove dependencies, as well as create virtual environments for your projects.
+[Poetry](https://python-poetry.org/) is a Python package manager that aims to provide a simple and efficient way to manage dependencies in your Python projects. It allows you to define your project's dependencies in a [```pyproject.toml```](https://betterprogramming.pub/a-pyproject-toml-developers-cheat-sheet-5782801fb3ed) file, which is more user-friendly than the traditional [```requirements.txt```](https://learnpython.com/blog/python-requirements-file/) file. With Poetry, you can easily install, update, and remove dependencies, as well as create virtual environments for your projects.
 
 Some of the key features of Poetry include:
 
@@ -146,7 +167,7 @@ curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poet
 ```
 If you do not have curl installed, you can download the script manually from this link: https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py and save it to your local machine.
 
-Once the installation is complete, close the command prompt and open it again. This will refresh your environment variables.
+Once the installation is complete, close the Command Prompt and open it again. This will refresh your environment variables.
 
 __Step 3: Verify that Poetry is installed correctly by typing the following command:__
 

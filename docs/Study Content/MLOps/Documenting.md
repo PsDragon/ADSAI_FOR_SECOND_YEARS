@@ -1,20 +1,28 @@
 
 ## MLOps: Documenting for Python
 
+### Chapter overview
+
+I. Virtual environments & Package management with Python <br>
+II. Production-Level code with Python <br>
+III. __Documentation for Python__ <br>
+IV Testing with Python <br>
+V. Continuous Integration with Python <br> 
+VI. Deployment with Python <br>
+
 ### 1. Introduction
 
-This module will help you acquire knowledge regarding documenting for Python by guiding you towards online resources. In addition, it will give you tips on how you can apply your newly gained knowledge to the creative brief.
 
-__After this module, you will be able to:__
-
-- [ ] Acquire knowledge of documenting for Python by completing the exercises and consulting online resources
-- [ ] Apply knowledge of documenting for Python to the creative brief
+In the first two chapters of the knowledge module, you developed a Python program that examines the Titanic dataset. In this chapter, you will learn to document your Python code - e.g., adding comments and explanations to the code to make it easier to understand for other data professionals. Furthermore, you will learn how to utilize Sphinx, a tool that generates documentation for your code. Proper documentation is important because it helps other people to understand your code, collaborate with you, maintain the code over time, and reuse your code in their own projects.
 
 <img src="./images/Documenting.jpg" alt="Documenting Python code" width="600">
 
 *Figure 1. Documenting Python code.*
 
-Documenting Python code means adding comments and explanations to the code to make it easier to understand for other data professionals. It is important because it helps other people understand your code, collaborate with you, maintain the code over time, and reuse your code in their own projects.
+__After this chapter, you will be able to:__
+
+- [ ] Explain the purpose of docstrings in Python
+- [ ] Write docstrings for Python functions, either manually or using an extension in VSCode
 
 ***
 
@@ -65,7 +73,7 @@ The video below shows how to install and use autoDocstring in VSCode:
 
 ### 3. Sfinx 
 
-## Add material by Nitin
+### Add material by Nitin
 
 ***
 

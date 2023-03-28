@@ -116,8 +116,7 @@ Each of these alternatives has its own strengths and weaknesses, so it is import
 
 ### 4. Containerization
 
-### Nitin material
-
+### Add material by Dean?
 ***
 
 ### 5. Package management

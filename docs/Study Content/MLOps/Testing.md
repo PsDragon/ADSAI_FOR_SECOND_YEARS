@@ -25,20 +25,25 @@ __After this module, you will be able to:__
 
 ***
 
-### 3. Debugging
-
-### Add material by Irene 
-
-
-***
-
-### 3. Unit testing
+### 3. Logging
 
 ### Add material by Nitin
 
 ***
 
-### 4. Blended learning
+### 4. Debugging
+
+### Add material by Irene 
+
+***
+
+### 5. Unit testing
+
+### Add material by Nitin
+
+***
+
+### 6. Blended learning
 
 There are many online resources available on the topic of testing with Python. Please, check the following resources:
 

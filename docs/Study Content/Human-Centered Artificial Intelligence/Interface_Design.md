@@ -3,7 +3,7 @@ sort: 4
 ---
 
 # Interface Design
-After covering the basics of interaction design, we're going to look at interface design: the means by which users communicate with computerized devices. We're also going to look into flow theory, engagement and immersioin! Finally, we're going to continue working on our wireframe prototype, specifically finishing the vertical slice of our wireframe prototype in proto.io!
+After covering the basics of HCAI, we're going to zoom in at interface design: the means, or medium, by which users communicate with computerized devices. We're also going to look into flow theory, engagement and immersion! Finally, we're going to continue working on our wireframe prototype, specifically finishing the vertical slice of our wireframe prototype in proto.io!
 
 ## Learning Objectives:
 After this module, you'll gain a basic understanding and learn how to apply:
@@ -15,6 +15,7 @@ Table of contents:
 1. Flow: 1 hour
 2. User Interface Design: 1 hour
 3. Prototyping: Create a vertical slice: 4 hours
+4. Update learning- & worklog: 0.5 hours
 
 **Now, open your worklog and plan the different tasks for today in there!**
 
@@ -23,7 +24,7 @@ Table of contents:
 If you have questions or issues regarding the course material, please post a message on the 'Q&A' channel in Teams. The channel will be monitored by mentors but also please help your peers if you have the answer to their question. 
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: Note down any important HCAI related questions you might have! You can ask them during Datalab in person to the responsible lecturer for this module: Bram Heijligers
+Tip: Note down any important HCAI related questions you might have! You can ask them during Datalab in person to the responsible lecturer for this module: Bram Heijligers.
  </div>
 
 Good luck!
@@ -31,7 +32,7 @@ Good luck!
 
 
 ## 1) Flow
-In positive psychology, [flow](https://www.sciencedirect.com/topics/psychology/flow-theory) is considered to a mental state in which a person is fully immersed; fully focussed; fully involved and fully enjoying a given activity. Essentially, it's a form of complete absorbtion into the activity: all that matters and all the mind is involved in is the activity and it's relevant elements. That's what it means to be in the flow!
+In positive psychology, [flow](https://www.sciencedirect.com/topics/psychology/flow-theory) is considered to a mental state in which a person is fully immersed; fully focussed; fully involved and fully enjoying a given activity. Essentially, it's a form of complete absorbtion into the activity: all that matters and all the mind is involved in is the activity and it's relevant elements. That's what it means to "be in the flow"!
 
 **Do the full LinkedIn Learning course below and save the certificate to your github and evidence it in your learning- and worklog**
 
@@ -40,8 +41,17 @@ In positive psychology, [flow](https://www.sciencedirect.com/topics/psychology/f
 **Did you do the full course already? Make sure to get the certificate an upload it to GitHub and evidence it in both your worklog and learning log!**
 
 ## 2) User Interface Design
-**An interface is essentially a means of interaction** between two objects: two stars inferfacing with each other using gravity or a person; or user, and a computer interfacing with one another using some computerized device. A User Interface (UI) can be low-fidelity like controlling a electricity generator with some buttons, medium-fidelity like a keyboard and a programming IDE where one has to literally insert and verbalize the commands, or high-fidelity where the user is guided through the functionality the computerized environment provides like a fancy smartphone app or virtual game! Note that fidelity is a measure of how the quality of the interaction; whereof visual fidelity is a component which is important but other means of interaction (audio, haptic, movement, etc.) and how interaction takes place (timing, conditions for triggering, consequent effects etc.) are equally important.
-Now that we know what a user inferface is, let's dive deeper into how we can design one for our application!
+**An interface is essentially a means of interaction** between two objects: two stars inferfacing with each other using gravity or a person; or user, and a computer interfacing with one another using some computerized device to exchange information. A User Interface (UI) can be: 
+- low-fidelity like controlling a electricity generator with some buttons; 
+- medium-fidelity like a keyboard and a programming IDE where one has to literally insert and verbalize the commands;
+- or high-fidelity where the user is guided through the functionality the computerized environment provides like a fancy smartphone app or virtual game! 
+Note that fidelity is a measure of the quality of the interaction; and UX in extension. Visual fidelity will for most people immeditately spring to mind but it is a component; usually the most important one overall but there are many other means of interaction: 
+- audio;
+- haptic;
+- movement; 
+- etc. 
+There's more ofcourse; it's related to our sense but usually smell isn't incorperated so let's not deviate and limit ourselfs to the aformentoined 4. And it's not just the type of interaction but also how interaction takes place (timing, conditions for triggering, consequent effects etc.) are equally important.
+Now that we know what a User Inferface (UI) is for and howit facilitates interaction, let's dive deeper into how we can design one for our application!
 
 **Do the full LinkedIn Learning course below and save the certificate to your github and evidence it in your learning- and worklog**
 
@@ -51,15 +61,22 @@ Now that we know what a user inferface is, let's dive deeper into how we can des
 
 Want more information? Here's a [good article with some concise universal guidelines!](https://www.interaction-design.org/literature/topics/ui-design)
 
-## 4) Prototyping: Create a vertical slice
-Now, use the skills you learned so far to create a vertical slice of only the screen(s) where you computer vision algorithm is actively used in Proto.io.
+## 4) Prototyping: Create a horizontal slice
+Now, use the skills you learned so far to create a horizontal slice of the full application from start to finish! Make sure to include the screen(s) where you computer vision algorithm is actively used in Proto.io. So for the beer bottle scanner app, this would just be the camera and what the user can do there; which user stories are connected to using that feature?
 
-So for the beer bottle scanner app, this would just be the camera and what the user can do there; which user stories are connected to using that feature?
+Run through your horizontal slice, how does it feel? Make some notes on your different versions in your Block C Notes - Y1C_2022-23_ADSAI. Maybe you want to finalize your wireframe already as much as possible? Add audio effects if you're feeling fancy, it's a lot of fun :p
 
+## 5) Prepare you learning log and worklog for the feedback session tomorrow!
+
+### Done early? 
+Take a look at your project proposal presentation, which slides can you already fill-in and which do you need to update? Feel like going ahead with designing? Feel free to do so, just design the rest of your app at will and embellish it! You can also look into some of the resources offered over the last couple of days to see if you can further substantiate your design; maybe you want to include some more advance metrics like crowdsourcing or quantified self aspects? You can find link to extra information in the [HCAI Fundamentals & Applications Powerpoint](https://github.com/BredaUniversityADSAI/ADS-AI/blob/cbea9fe9290a5512a2ed59137ff6791ec232ddcc/docs/Study%20Content/Human-Centered%20Artificial%20Intelligence/Assets/HCAI%20Fundamentals%20and%20Applications.pptx)! 
+Alternatively, you could start with Monday's material or work on other parts of the creative brief!
 
 
 ## Next up!
-Coming Datalab, we will user test our vertical slice prototypes by peer-reviewing them! After that we're going to do a very magical Wizzard of Oz workshop, and ofcourse it'll be an opportunity to ask any questions you might have!
+Coming Datalab, we will look at potential disruptive technology risks for our app and use-case. Also you'll have your feedback sessions so please be prepared!
+
+Next Wednesday, we will user test our vertical slice prototypes by peer-reviewing them! After that we're going to do a very magical Wizzard of Oz workshop, and ofcourse it'll be an opportunity to ask any questions you might have!
 
 
 # Resources

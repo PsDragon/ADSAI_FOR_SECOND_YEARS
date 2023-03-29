@@ -113,11 +113,11 @@ Make sure to finish your vertical slice today!
 **Save your Wireframe Prototype to Github by exporting is a .zip file, name it 'HCAI_Wireframe_[NameOfApplication]_[StudentName]' (if you didn't do so already) and note what your did in your work- and learning log; and link your .zip file as evidence.**
 
 ## Datalab Preparation Checklist:
-- [] Datalab Preparation 1: High-level Design
-- [] Datalab Preparation Part 2: High-Level Design for HCAI Applications
-- [] Datalab Preparation 3: Defining User Stories
-- [] Datalab Preparation 4: Interaction Design
-- [] Datalab Preparation 5: Create a vertical slice in Proto.io
+- [ ] Datalab Preparation 1: High-level Design
+- [ ] Datalab Preparation Part 2: High-Level Design for HCAI Applications
+- [ ] Datalab Preparation 3: Defining User Stories
+- [ ] Datalab Preparation 4: Interaction Design
+- [ ] Datalab Preparation 5: Create a vertical slice in Proto.io
 
 ## Next up!
 Coming Datalab, we are going to test your vertical slice 2 user-test: a demo in the form of a peer-review and Wizzard of Oz Prototyping. We are also going to learn more on what sets HCAI apart from regular human-computer interaction!

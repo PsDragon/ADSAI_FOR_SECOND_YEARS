@@ -80,7 +80,7 @@ __To solve this use-case, you will need to:__
 
 - [ ] Step 1.
 
-    - Attend the lecture on disruptive technologies and, using __disruptive technology risks from the lecture slides [Week 7](https://edubuas.sharepoint.com/:b:/t/FAI1.P2-01Project1BADSAI2022-23copy/EQ2JWqnxJk1JnJLKR5WTxTYBRv0LE_jJQ7wcE-uJ78b16Q?e=RaB2As)__; identify/explain risks that applicable for your computer vision application.
+    - Attend the lecture on disruptive technologies and, using __disruptive technology risks from the lecture slides[ Week 7](https://edubuas.sharepoint.com/:b:/t/FAI1.P2-01Project1BADSAI2022-23copy/EQ2JWqnxJk1JnJLKR5WTxTYBRv0LE_jJQ7wcE-uJ78b16Q?e=RaB2As) identify/explain risks that applicable for your computer vision application.
     - identify/explain risks that applicable for your computer vision application.
     - fill the project proposal presentation. 
 

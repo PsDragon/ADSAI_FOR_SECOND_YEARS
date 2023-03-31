@@ -233,19 +233,19 @@ Below you will find the timeline on a day-to-day basis. Further down, there is i
 # Week 7 : Prototype - Human Centered AI
 
 ## Monday
-- [Interaction & information processing fundamentals](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Interaction_Information_Processing_Fundamentals.html)
+- [Interaction & information processing fundamentals](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/InformationProcessingFundamentals_And_ConceptDesign.html)
 
 ## Tuesday
 - [Interaction design](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Interaction_Design.html)
 
 ## Wednesday
-- [DataLab: HCAI Fundamentals & User Testing](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Datalab_HCAI-FundamentalsAndUserTesting.html)
+- [DataLab: HCAI Fundamentals & User Testing #1](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Datalab_HCAI-FundamentalsAndUserTesting.html)
 
 ## Thursday
 - [Interface design](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Interface_Design.html)
 
 
-## Friday
+## Friday: Risk-Assessment of disruptive technologies
 - [ ] Lecture on Disruptive technologies at Oc1.008 (from 10:00 to 12:00).
 - [ ] [Use-case 3: Risk-Assessment of disruptive technologies](../../Study%20Content/Business%20Understanding/BusinessUnderstandingUseCases.html)
 - [ ] Feedback Sessions
@@ -261,7 +261,7 @@ Below you will find the timeline on a day-to-day basis. Further down, there is i
 - [Designing for AI Algorithms Implementation](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Designing_for_AI_Algorithm_Implementation.html)
 
 ## Wednesday
-- [DataLab: A/B Testing](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Datalab_Introduction_To_AB-Testing.html)
+- [DataLab: User Testing #2: A/B Testing](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Datalab_Introduction_To_AB-Testing.html)
 
 
 ## Thursday

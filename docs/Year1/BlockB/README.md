@@ -1,5 +1,8 @@
 # Block B - Data Understanding and Preparation
 
+<<<<<<< HEAD
+# Data Preparation and Understanding
+=======
 Each of the 8 weeks has a fixed structure : on Monday, Tuesday and Thursday you work individually on the development of basic skills, which are needed to execute the DataLab assignments (Wednesday and Friday). 
 Kindly follow the table of contents below, this will guide you through what is expected of you on a daily basis. 
 
@@ -215,3 +218,4 @@ These topics are advanced topics that will help you get a better understanding o
 ## Friday
 - **Project Dissemination** 
 - [DataLab: Creative Brief](../../Study%20Content/Programming/13.DataLabPR4.html)
+>>>>>>> parent of eaf9b7d1 (Update README.md)

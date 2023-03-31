@@ -174,7 +174,7 @@ To solve this use-case, you will need to convert AXA's Fairness Compass into an 
 2. Select a dataset of your choice (e.g. Imsitu, MS COCO, COMPAS, etc.).
 3. Create a train/validation/test split for your dataset.
 4. Define a binary classification task using dataset selected in the previous step.
-5. Select a protected/sensitive attribute in the dataset.
+5. Select a protected/sensitive attribute in the dataset (Note: it is simpler to have two categories, e.g., 'male' and 'female'.).
 6. Split your test set based on the protected/sensitive attribute.
 7. Specify a policy or 'worldview'/equal base rates? for your binary classification task.
 8. Determine which evaluation metric is most sensitive to fairness: 
@@ -186,7 +186,7 @@ To solve this use-case, you will need to convert AXA's Fairness Compass into an 
 9. Determine which error is most sensitive to fairness regarding your binary classification task (i.e., False Positives, False Negatives or False Positives and False Negatives). __Important: It depends on the the label you assign to the target variables categories (e.g., positive and negative class)!__
 10. Build an ANN model in Python, using Tensorflow's Keras, that can be used to classify data instances into two classes (i.e., binary classification task).
 11. Train the binary classification model on the dataset. You can save the weights of the model to a .h5 file.
-12. Compute the confusion matrices for the protected/sensitive test sets using the weights of the trained model.  
+12. Compute the confusion matrices for the protected/sensitive test sets using the weights of the trained model (e.g., 'male' and 'female', 'Hispanic' and 'Asian').  
 13. Load the outputs of the confusion matrices for the protected/sensitive attribute test sets into the group fairness taxonomy function.
 14. Load the group fairness metrics you created for __Use-case 4__ into the group fairness taxonomy function. Remember, you used the following metrics:
 

@@ -1,5 +1,5 @@
 ---
-sort: 7
+sort: 6
 ---
 
 # Designing for AI Algorithms Implementation

@@ -3,17 +3,17 @@ sort: 8
 ---
 
 # Datalab: Introduction to A/B-Testing
-Yesterday we made a deployable prototype of our vertical slice for user testing. Today, we'll have a lecture on A/B-testing after which we're going to we're going to test it with our peers. If we have time left, we'll spend it by iterating on our wireframe prototype based on the collected feedback!
+During the self-study days we've designed an A/B test which we could use to compare our 2 different wireframe prototypes. So, today we're going to conduct our A/B-test in class and then we're going to do a statistical test to see whether our improved version is a significant improvement! If we have time left, we'll spend it by iterating on our wireframe prototype based on the collected feedback!
 
 ## Learning Objectives:
 After this module, you'll:
-1. be able to design and run A/B-tests;
+1. be able to design and run A/B tests;
+2. analyse the data from an A/B test.
 
 Table of contents:
 0. Stand-up: 0.5 hours
-1. Q&A: .5 hours
-2. A/B Testing Lecture: 1 hour
-3. A/B Testing on deployed prototype: 2 hours
+1. A/B Testing on deployed prototype: 4 hours
+2. Data Analysis: 1-2 hours
 4. Iterate on Wireframe Prototype: Remainder of the day
 
 ## Questions?
@@ -23,6 +23,7 @@ If you have questions or issues regarding the course material, please first ask 
  </div>
 
 Good luck!
+
 ## 0) Stand-up
 We start by hosting a stand-up. Form groups of ~ 5 and run on-another through the following points:
 - What progress have you made up since last datalab?
@@ -32,15 +33,8 @@ We start by hosting a stand-up. Form groups of ~ 5 and run on-another through th
 
 **Open your worklog and plan your day informed by the stand-up and today's schedule**
 
-## 1) Q & A
-We start by briefly reflecting on what we learned about user feedback and user testing. Do you have any questions? Now is the time to ask them!
 
-## 2) A/B Testing Lecture
-This lecture will be delivered live but you can preview the slide [here](https://github.com/BredaUniversityADSAI/ADS-AI/blob/1eb74434bf364a3e3e62ee84ae32260b573e5b20/docs/Study%20Content/Human-Centered%20Artificial%20Intelligence/Assets/AB-Testing.pptx)!
-
-You can watch back [the lecture over here](https://edubuas-my.sharepoint.com/:v:/r/personal/heijligers_b_buas_nl/Documents/Recordings/A_B%20Testing-20220412_101044-Meeting%20Recording.mp4?csf=1&web=1&e=Du6HJ8).
-
-## 3) A/B Testing on deployed prototype
+## 1) A/B Testing on deployed prototype
 Yesterday you made the version of your vertical slice as you envisioned it. But now, we're going to create a second version of you vertical slice which is slightly different then the one you created yesterday. First test your prototype with a classmate and identify points of improvement for you veritical slice to subject to A/B-testing, implement that change in the vertical slice of you wireframe prototype and deploy that version as well for user testing.
 
 If you don't know what to change, ask the lecturers to look together with you for anything which might serve as a possible improvement. Then, run through the steps above.
@@ -51,14 +45,19 @@ Let several of your classmates; or passer-by's (anyone you fancy apart from the 
 
 **Save your HCAI design document to Github and note what your did; and your evidence, in your work- and learning-log**
 
-## 4) Iterate on Wireframe Prototype
+
+## 2) Data Analysis
+1. Download [the following notebook]() and make sure you have the required packages installed.
+2. next steps...
+
+## 3) Iterate on Wireframe Prototype
 Now, based on the feedback you collected today; start improving on your design in your HCAI design document. If you have time left, you can try to immediately implement these design changes into you wireframe prototype!
 
-## 5) In-Class Discussion
+## 4) In-Class Discussion
 At 16:30, there's a meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
 
 ## Up Next!
-Tomorrow, we will cover the Development integration of AI algorithms!
+Tomorrow, we make any last changes we might want to make and finalize our Project Proposal Presentation! 
 
 
 ## Recommend Literature:

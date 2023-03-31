@@ -254,11 +254,11 @@ Below you will find the timeline on a day-to-day basis. Further down, there is i
 # Week 8: Prototype - Human Centered AI
 
 ## Monday
-- [U/X testing using A/B testing](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/User_Testing.html)
-
-## Tuesday
 - [User-Centered design for AI](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/User-Centered_Design_for_AI.html)
 - [Designing for AI Algorithms Implementation](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Designing_for_AI_Algorithm_Implementation.html)
+
+## Tuesday
+- [U/X testing using A/B testing](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/User_Testing.html)
 
 ## Wednesday
 - [DataLab: User Testing #2: A/B Testing](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Datalab_Introduction_To_AB-Testing.html)

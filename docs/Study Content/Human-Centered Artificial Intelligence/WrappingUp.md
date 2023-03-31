@@ -2,10 +2,8 @@
 sort: 9
 ---
 
-# DEPRACTED PAGE IN 2023 --> GOOD FRIDAY IS A DAY OFF
-
-# Datalab: Client Testing of Wireframe Prototypes
-The last day of the block, and the last datalab of block C. Time goes fast! Today, we're simply going to use our time to make a client presentation where you'll give a demo of your application! We'll have the time to employ all the design and testing techniques we learned the last two weeks as well.
+# Wrapping-Up: Client Testing of Wireframe Prototypes
+The last day of the block C. Time goes fast! Today, we're simply going to use our time to finalize our client presentation where you'll give a demo of your application! We'll have the time to employ all the design and testing techniques we learned the last two weeks as well.
 
 ## Learning Objectives:
 After this module, you'll be able to demo your prototype to clients.

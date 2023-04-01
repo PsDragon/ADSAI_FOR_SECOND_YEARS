@@ -3,21 +3,26 @@ sort: 8
 ---
 
 # User-Centered Design for AI
-When we looked into interaction design, we already covered the basics of Human-Centered AI products and experiences. Today, we're going to dive deeper into this topic and look how our deeper understanding might influence our design and implement these changes. Then, we're going to learn about horizontal prototyping and create a horizontal prototype from our current wireframe!
+When we looked into interaction and interface design, we covered the basics of human-computer interaction. In the HCAI Fundamentals and Applications lecture we briefly covered the key concepts concerning Human-Centered AI products and experiences. Today, we're going to dive deeper into designing for AI, exploring in more detail how:
+- design for AI algorithm implementation;
+- to create a user-centered design for AI.
+Then we're going to look at our designs and see how we can use our deeper understanding to improve on our design. 
 
 ## Learning Objectives:
 After this module, you'll understand and know how to apply the basic principles of:
 1. Human-Centered Artifical Intelligence;
 2. UX & AI; Adaptive interfaces;
 3. UX & AI: Recommender systems
-We will start by completing our course of using Adobe XD.
+4.  designing for AI Algorithms implementation.
+
 
 Table of contents:
-1.
-2. Human-Centered Artifical Intelligence: 1 hours
-3. UX & AI; Adaptive interfaces: 1 hours
-4. Recommender systems: 1 hours
-5.
+1. Human-Centered Artifical Intelligence: 1 hours
+2. UX & AI; Adaptive interfaces: 1 hours
+3. Recommender systems: 1 hours
+4. Designing for AI Algorithms Implementation: 2 hours
+5. User Feedback: 1 Hours
+6. Iterating on Wireframe Prototype; 1 hour
 
 **Now, open your worklog and plan the different tasks for today in there!**
 
@@ -29,23 +34,75 @@ If you have questions or issues regarding the course material, please post a mes
 Tip: Note down any important HCAI related questions you might have! You can ask them during Datalab in person to the responsible lecturer for this module: Bram Heijligers
  </div>
 
+
 Good luck!
 
 
-## 1) Adobe XD: making a wireframe prototype
-Now, it's time to finish getting to know how to use the Adobe XD application! Finish by doing the Linkedin Learning course below, specifically doing modules 7. Voice Interactions, and 9. Goodbye, to get the certificate. **Upload the certificate to GitHub and evidence it in the learning log!**
+## 1) Human-Centered Artifical Intelligence
+Last Wednesday we covered HCAI from a high-level perspective to get us all quickly going so we could quickly prototype our core design. Let's now recap and dive deeper into the field to better understand how HCAI connects everyhting we have been doing this block together!
 
-<div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="640" height="360" src="https://www.linkedin.com/learning/embed/learning-adobe-xd-2020/designing-for-different-screen-sizes?autoplay=false&claim=AQEoqI8m4y2P3AAAAX7lnsdpbLXDbe2rF-spXBBgFSlLJYljocDNPeLhwPakzNaBHo4Dgl6eajRz-pcIqwUKOR2Fsq63rL8O6dEX3mrChNAm9t99BrQ57TcJF_yOwmjcJpj9WJPdqlYvIQD0zC7KMSFLSn4xnDFu5r13DbfXaPchVTYz01MZf5MGwYeLSG_ByqM9OHqaKJ1lEGtMMG3tXXdTq6I37_l3AHyx8qcCswIXf8uexCleJd9TkVVWmPUmFAsBfj_36oyD53CE71b86l-KiqIuulXrp1BTlXhMZVHltrKUcKfaCF-lGS6L7qhchb14J5qAM_wBwIVi0v6al2MmUGzrR-PV8GaxcoJ801YxsXwPIBwl-P8HNOcx3IXe8bCqBnIDMVY3kLlQg4SxIxk4FA6sizMpEs2b4TPCW2D0PGt5jzeplDl2MfCUM7wpyOGmwiOjyXvbHlr74fUQM9z5dDyhXZJVyHO-5Dh2_cptIThZDf1Gi3LE90zXHjPm4QSq_FOBGmPf5FIamQq8ap2yPxmNu7VpZZUT3nUK5gc21ibebrbRuDxfcfP9To057Kaf663mNzTgXwb8K4B9ZQxy-l7_-XL9psGC0OMLUXgCGpJHGdUMpGrIuPzyOlDBO2uhP0NXLtcCUVZVLPN37jWyVEMgNxnUCkx_IEvkt2Z5I6MtgfqH8lnXvXkLYzXMu3W7HlKwzdx_Z_d3Owmd9FZNcPvg7srALOhJW5YPkk1yvIZOo14&lipi=urn%3Ali%3Apage%3Ad_learning_content%3BGAwvuj%2FdSZqaUqN4IDdyYg%3D%3D&licu" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true" frameborder="0" style="position:absolute;width:100%;height:100%;left:0"></iframe></div><p><strong><a href="https://www.linkedin.com/learning/learning-adobe-xd-2020/designing-for-different-screen-sizes?trk=embed_lil">Designing for different screen sizes</a></strong> from <strong><a href="https://www.linkedin.com/learning/learning-adobe-xd-2020?trk=embed_lil">Learning Adobe XD (2020)</a></strong> by <strong><a href="https://www.linkedin.com/learning/instructors/tom-green?trk=embed_lil">Tom Green</a></strong></p>
+Human-centered artificial intelligence (AI) refers to the design and development of AI systems with a primary focus on human needs, values, and well-being. This approach to AI puts people at the center of the design process, prioritizing their needs, preferences, and perspectives, and taking into account the social and ethical implications of AI. Keeping these values in mind makes sure that whatever we create is actually much more usefull and impactfull; ChatGPT was explicitly designed for its usability for example. 
 
-## 2) Human-Centered Artifical Intelligence
-Google is making a lot great resources on this topic and is leading the world in Human-Centered Artificial Intelligence. The guy who you saw earlier talking about HCAI made a great article about it. Read the full text over [here](https://medium.com/google-design/human-centered-machine-learning-a770d10562cd)
+Human-centered AI involves understanding human behavior, preferences, and decision-making processes, and incorporating this understanding into the design of AI systems; serving as an extension of our human capabilities. Therefore, it also involves ensuring that AI systems are transparent, explainable, and accountable, so that people can understand how they work, trust them, and hold them accountable for their actions; thereby keeping human needs in mind. So by prioritizing human needs and values, human-centered AI has the potential to improve people's lives, enhance their decision-making capabilities, and enable them to achieve their goals faster, more efficiently, with greater efficacy; and in a safe and ethical manner. 
+
+### Further reading
+However, technology is progressing rapidly and within that the field of AI is in a class of its own. Therefore, it's difficult to keep up to date with the latest developments as new models and techniques enter the field, become mainstream or get outdated. Luckily, Google is making a lot great resources on this topic and is leading the world in Human-Centered Artificial Intelligence; even though Google grip is slipping with rising stars such as OpenAI. The guy who you saw earlier talking about HCAI made a great article about it. [Read the full text over here](https://medium.com/google-design/human-centered-machine-learning-a770d10562cd) to reiterate the concepts and expand on your core understanding!
+
+
+## 2) Recommender systems: how to teach a machine
+Recommender systems are a type of artificial intelligence that is designed to provide personalized recommendations to users. These systems, usually, use machine learning algorithms and statistical models to analyze user data and behavior, in order to generate recommendations that are tailored to each individual user's preferences and interests.
+
+There are various types of AI recommender systems, but the most common ones are:
+- Content-based recommenders - which recommend items based on the similarity of their content to items that a user has previously interacted with.
+- Collaborative filtering recommenders - which recommend items based on the similarity of the user's preferences to those of other users.
+- Hybrid recommenders - which combine content-based and collaborative filtering techniques to generate recommendations.
+
+AI recommender systems are widely used in e-commerce (Booking.com), social media (Instagram, TikTok), and other online platforms (Google Search) to help users discover new products, services, and content. They are also used in healthcare, education, and other domains to provide personalized recommendations to patients, students, and other users.
+The effectiveness of AI recommender systems depends on the quality of the data they are trained on, the sophistication of the algorithms used, and the design of the user interface. To ensure that recommender systems are trustworthy, ethical, and effective, it is important to incorporate human-centered design principles into their development and evaluation.
+
+Human-centered recommender systems prioritize the interests and well-being of users over the interests of businesses or advertisers; they should empower the user. Therefore, they are designed to respect users' privacy and autonomy and to give them control over their data and preferences; thereby empowering them to steer the recommender in a way which serves them best. This means that users should be able to easily understand how the system works, what data is being used, and how their preferences are being used to generate recommendations.
+
+Another important aspect of human-centered recommender systems is that they should be transparent and explainable. Users should be able to understand how the system generates recommendations, and they should be able to easily provide feedback on the quality of the recommendations. This feedback should be used to improve the system and make it more user-centered over time.
+
+Finally, human-centered recommender systems should be designed to promote diversity and reduce biases. They should be sensitive to cultural and individual differences, and should avoid reinforcing existing biases or discrimination. This means that the system should provide a variety of options and perspectives to users, rather than just promoting the most popular or profitable options.
+
+### Further reading
+Recommendation systems such a netflix, spotify or youtube also provide a user experience ofcourse. And as argued above, designing a UX with machine- or deep-learning in mind brings about different design constraints then regular; more state-machine based, UX design. [Read the following article to gain a deeper understanding of how this works](https://design.google/library/designing-and-learning-teachable-machine/).
 
 ##  3) UX & AI; Adaptive interfaces
-AI; machine learning or reactive, has the ability to make our UX systems & UI interaces adaptive! This is something which bring UI and UX to a new level. This article will help you understand how they can enabled that; and where you should and shouldn't apply it.
-[Read the full acticle over here](https://design.google/library/ux-ai/).
+AI; machine learning or reactive, has the ability to make our UX systems & UI interaces adaptive! This is something which bring UI and UX to a new level. Although interesting, this isn't the main focus of this module If you are interested however, you can use [this libray to delve further into the topic](https://design.google/library/ux-ai/); and where you should and shouldn't apply it.
 
-## 4) UX & AI: Recommender systems
-Recommendation systems such a netflix, spotify or youtube also provide a user experience ofcourse. As you can imagine by now, designing a UX with machine- or deep-learning in mind brings about different design constraints then regular UX design. [Read the following article to gain a deeper understanding of how this works](and [read the second article over here!](https://design.google/library/designing-and-learning-teachable-machine/).
+## 4) Quality user feedback
+User feedback is essential to any digital application: if the user provides some kind of input to the digital devices, then they will expect some kind of response that:
+1. Their input has been registered.
+2. That their input is meaningful and has some kind of effect. Or not, if it's a faulty interaction.
+Here's funny demo of succesfull interaction followed by apt user feedback, followed by unsuccesfull interactions with apt user feedback:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OAQ7l33UF3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The user needs to know what is going on with the device given some interaction he does, otherwise he is not able to anticipate what will happen if he does activity x,y or z. And if he doesn't know what will happen if he does a given activity then the design is not intuitive and the user will drop the product/application.
+
+You can further improve user feedback by making it feel rewarding to the user: this is called juicy feedback.
+
+### Rewarding User Feedback: Juicy Design
+Juicy design refers to the idea that large amounts of sensory (usually audiovisual or tactile feedback) contribute to a positive user experience which can contribute to positive user experience and
+continued and increased engagement and invoke a state of flow. Juicy design is a concept which is very popular in game design, therefore we're going to take a short expedition into the world of game design.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fy0aCDmgnxg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## 5) Designing for the implementation of AI Algorithms
+The process concerning designing for AI algorithm implementation involves a number of steps and considerations. Although HCAI needs to consider the entirety of the process, it is really set apart by the integration, maintainance en monitoring off an algorithm once released. For this block we've essentially followed the following structure: 
+
+1. Define the problem (business understanding): Before designing an AI algorithm, it is important to clearly define the problem you are trying to solve. This involves understanding the user needs, the data sources available, and the performance metrics that will be used to evaluate the algorithm.
+2. Gather and prepare data (responsible AI): AI algorithms require high-quality data to train and test. You will need to gather and prepare data sets that are relevant to the problem you are trying to solve. This may involve cleaning, transforming, and normalizing data to ensure that it is consistent and reliable.
+3. Choose the right algorithm (deep learning): There are many different AI algorithms available, each with its own strengths and weaknesses. You will need to choose the algorithm that is best suited to your problem, data, and performance metrics.
+4. Train and test the algorithm (deep learning and responsible AI): Once you have chosen an algorithm, you will need to train it on your data sets and test it to evaluate its performance. This may involve tweaking the algorithm parameters or trying different algorithms until you achieve the desired results. Furthemore, you also need to be able to understand the algorithm, explain it to stakeholders and ensure it is as responsible as possible; transparant, unbiased and fair.
+5. Integrate the algorithm (HCAI): Once the algorithm has been trained and tested, you will need to integrate it into your system or application. This may involve developing APIs or other interfaces to allow other systems to access the algorithm.
+6. Monitor and maintain the algorithm (HCAI): AI algorithms require ongoing monitoring and maintenance to ensure that they continue to perform well over time. You will need to monitor the algorithm's performance, update it as needed, and retrain it periodically to ensure that it remains accurate and effective.
+
+In block D we'll bring step 5 and 6 further as we're going to deploy our algorithm/data analysis in the real-world; e.g. using an API. For now though, we'll focus on the design for it; which comes first ofcourse. To help you along with this, Google features some great articles. We've already read some of them today. 
+
+Now, open your notes document and create a note section with the header "How to design for the implementation of AI Algorithms". Then go and read [this acticle](https://design.google/library/simulating-intelligence/) and note down design principles for AI algorithm implementation; specifically focussing on the differences with regular UX design. Then look at your project using your newly fangled design principles and adjust your UX design; and derivative components, accordingly. Make sure to document what you change.
+
+**Upload your document to Github!**
 
 ## 4) Wireframe Prototype
 **Open your HCAI design document and create a section called 'User-Centered Design for AI' and note down any points which might be relevant for you design you learned today!**

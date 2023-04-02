@@ -107,25 +107,29 @@ Want to collect data outside of the questionnaire setup or research something mo
 
 ### DataLab preparation 3. Measuring A and B using a survey:
 Remember the questionnaire you were handed in block A to collect feedback on your dashboard for Data Science? We're now going to user that software again to create our own questionnaire. 
-1. Let's start by getting familliar with Qualtrics by doing [the planning and designing a survey tutorial!](https://basecamp.qualtrics.com/) Or, if you think the software is intuitive, go ahead and just start building your questionnaire; it's really quite intuitve: the UX of Qualtrics is (mostly) well-designed!
-2. Create a new project on [Qualtrics](https://buas.eu.qualtrics.com/Q/MyProjectsSection)
+1. You can do it thoughrough by doing [the planning and designing a survey tutorial](https://basecamp.qualtrics.com/) or just go ahead and follow the steps below to start building your questionnaire; it's really quite intuitve: the UX of Qualtrics is (mostly) well-designed!
+2. Log into and create a new project on [Qualtrics](https://buas.eu.qualtrics.com/Q/MyProjectsSection) in the 'projects' section.
 3. Go for the first option 'Survey' under the header 'From scratch'.
-4. Click on 'Get started'
-5. Name it: "AB-test_HCAI_Version_X" and create the survey (don't use any template, just a blank project).
-6. Now, let's create 1 basic question which is going to be the same question asked to whoever tests version A or B. It has to be the same question, otherwise we can't really compare A and B:
+4. Click on 'Get started'.
+5. Name it: "AB-test_HCAI_Version_X" and create the survey (don't use any template, just a blank project). Change the Default Question Block to a matrix table by changing the question type (under "suvery"--> "builder"). 
+6. Now, let's create some basic questions which are going to be the same questions asked to whoever tests version A or B. The same question(s) has to be the same question, otherwise we can't really compare A and B:
 - Create questionnaire matrix
 - Select 'likert' scale and allow the user 7 options, ranging from 'Completely Agree' to 'Completely Disagree' with the 4 marking 'neutral'. 
 - Add the first question: 'I understood what I could use the app for'
 - Add the second question: 'I found the application intuitive to use'
-- Add the third question: 'I enjoyed using the application'
-- Add the fourth question: 'I thought the application was useful'
+- Add the third question: 'I thought the application was useful'
+- Add the fourth question: 'I enjoyed using the application'
+- Write a fift question which is specific to your core feature. 
 - If you want you can add more questions, but please don't add more then 8 as we only have 2 minute per questionnaire.
-7. Test your questionnaire does it work? Does it also work in mobile mode? We're going to use our mobile phones to record the data.
-8. Save your questionnaire, then create 2 exact copies of it and name them: "AB-test_HCAI_Version_A" and "AB-test_HCAI_Version_B" respectively.
+7. Click on Preview. Test your questionnaire does it work? Does it also work in mobile mode? We're going to use our mobile phones to record the data.
+8. Open the survey to respondents by clicking on Publish and clicking Publish, name it "Target_Score", click Publish. Copy the link and open it in your browser. Fill-in the desired score you would want you wireframe to get, that's going to be our aimed design outcome; think where do your priorities lie. Doing this will also allow us to inspect the structure of your data.
+9. Go to the 'Data & Analysis' tab. Click on 'Export & Import' and then click on 'Export'. Set your export to 'use numeric values' and click on 'download'.
+10. Open the following [T-testIndependentSamplesHCAI Juypter Notebook](./Assets/T-testIndependentSamplesHCAI.ipynb), import your CSV file and follow the steps in notebook. You can use [this dataset as a B version] 
+8. Save your questionnaire as a template (maybe you want to test more after our initial test tomorrow), then create 2 exact copies of it and name them: "AB-test_HCAI_Version_A" and "AB-test_HCAI_Version_B" respectively.
 9. Distribute the questionnaires, and generate links for each respective questionnaire which you save to your "A/B Test plan" file in an appropriate location. Then, generate QR codes for version A and B and paste those in the A/B Test plan so you test subject (strickly they're called participants) can easily scan the QR code and fill in the questionnaire after they're done with the test.
+10. Test the QR codes by opening the questionnaires but **do not** fill them in.
 
 **Check if everything works. If it does, you are all set to start the A/B test! Good job!**
-
 
 ## Next up!
 Coming Datalab we will actually run our A/B test and do a statistical analysis; a T-test. Then we're going to use the results to iterate on our design and finalize it!

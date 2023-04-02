@@ -1,8 +1,8 @@
 ---
-sort: 8
+sort: 5
 ---
 
-# User-Centered Design for AI
+# UX-Design for AI & Algorithm implementation
 When we looked into interaction and interface design, we covered the basics of human-computer interaction. In the HCAI Fundamentals and Applications lecture we briefly covered the key concepts concerning Human-Centered AI products and experiences. Today, we're going to dive deeper into designing for AI, exploring in more detail how:
 - to create a user-centered design for AI;
 - to design for AI algorithm implementation.
@@ -10,19 +10,19 @@ Then we're going to look at our designs and see how we can use our deeper unders
 
 ## Learning Objectives:
 After this module, you'll understand and know how to apply the basic principles of:
-1. Human-Centered Artifical Intelligence;
+1. User-Centered Design for AI;
 2. UX & AI; Adaptive interfaces;
 3. UX & AI: Recommender systems;
 4. Designing for AI Algorithms implementation.
 
 
 Table of contents:
-1. Human-Centered Artifical Intelligence: 1 hours
-2. UX & AI; Adaptive interfaces: 1 hours
+1. User-Centered Design for AI: 1 hours
+2. UX & AI; Adaptive interfaces: **optional**
 3. Recommender systems: 1 hours
-4. Designing for AI Algorithms Implementation: 2 hours
-5. User Feedback: 1 Hours
-6. Iterating on Wireframe Prototype; 1 hour
+4. User Feedback: 1 Hours
+5. Designing for AI Algorithms Implementation: 1 hours
+6. Iterating on Wireframe Prototype: -
 
 **Now, open your worklog and plan the different tasks for today in there!**
 

@@ -254,18 +254,17 @@ Below you will find the timeline on a day-to-day basis. Further down, there is i
 # Week 8: Prototype - Human Centered AI
 
 ## Monday
-- [User-Centered design for AI](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/User-Centered_Design_for_AI.html)
-- [Designing for AI Algorithms Implementation](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Designing_for_AI_Algorithm_Implementation.html)
+- [UX-Design for AI & Algorithm Implementation](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/UXDesignForAI_and_AlgorithmImplementation.html)
 
 ## Tuesday
-- [U/X testing using A/B testing](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/User_Testing.html)
+- [A/B user tests](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/ABUserTests.html)
 
 ## Wednesday
-- [DataLab: User Testing #2: A/B Testing](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Datalab_Introduction_To_AB-Testing.html)
+- [DataLab: User Testing #2: A/B Testing](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Datalab_Conducting_an_ABUserTest.html)
 
 
 ## Thursday
-- [Finishing up HCAI & the Project Proposal Presentation](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/Datalab_Client_Testing_of_Wireframe_Prototypes.html)
+- [Wrapping up HCAI](../../Study%20Content/Human-Centered%20Artificial%20Intelligence/HCAI_WrappingUp.html)
 
 ## Friday
 Good Friday - Day off!

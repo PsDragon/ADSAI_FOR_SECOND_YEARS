@@ -1,6 +1,4 @@
----
-sort: 6
----
+
 
 # Designing for AI Algorithms Implementation
 Today we start with some reading: an article how to design for the implementation of AI Algorithms. The rest of the day is mostly about working on your wireframe prototype!
@@ -37,21 +35,7 @@ Google features some great articles, we've read some of them before. Now, open y
 With those changes to the design document we made our laste iterative design loop which included new design techniques. Next, we're going to implement any design changes you made in the prototype. If you're finished with that just keep working untill you consider your prototype finished!
 If you are saturated or don't have enough time: there's time to work on it tomorrow as well but preferably you can use that time to test it with your peers and lecturers.
 
-## 3) User feedback
-User feedback is essential to any digital application: if the user provides some kind of input to the digital devices, then they will expect some kind of response that:
-1. Their input has been registered.
-2. That their input is meaningful and has some kind of effect. Or not, if it's a faulty interaction.
-Here's funny demo of succesfull interaction followed by apt user feedback, followed by unsuccesfull interactions with apt user feedback:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OAQ7l33UF3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The user needs to know what is going on with the device given some interaction he does, otherwise he is not able to anticipate what will happen if he does activity x,y or z. And if he doesn't know what will happen if he does a given activity then the design is not intuitive and the user will drop the product/application.
-
-You can further improve user feedback by making it feel rewarding to the user: this is called juicy feedback.
-
-### Rewarding User Feedback: Juicy Design
-Juicy design refers to the idea that large amounts of sensory (usually audiovisual or tactile feedback) contribute to a positive user experience which can contribute to positive user experience and
-continued and increased engagement and invoke a state of flow. Juicy design is a concept which is very popular in game design, therefore we're going to take a short expedition into the world of game design.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Fy0aCDmgnxg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Next up!
 Coming Datalab we will reflect on designing for AI Algorithms Implementation again and give you an opportunity to ask any questions you might have.

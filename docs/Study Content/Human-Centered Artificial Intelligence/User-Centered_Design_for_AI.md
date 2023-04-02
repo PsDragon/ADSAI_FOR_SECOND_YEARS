@@ -4,16 +4,16 @@ sort: 8
 
 # User-Centered Design for AI
 When we looked into interaction and interface design, we covered the basics of human-computer interaction. In the HCAI Fundamentals and Applications lecture we briefly covered the key concepts concerning Human-Centered AI products and experiences. Today, we're going to dive deeper into designing for AI, exploring in more detail how:
-- design for AI algorithm implementation;
-- to create a user-centered design for AI.
+- to create a user-centered design for AI;
+- to design for AI algorithm implementation.
 Then we're going to look at our designs and see how we can use our deeper understanding to improve on our design. 
 
 ## Learning Objectives:
 After this module, you'll understand and know how to apply the basic principles of:
 1. Human-Centered Artifical Intelligence;
 2. UX & AI; Adaptive interfaces;
-3. UX & AI: Recommender systems
-4.  designing for AI Algorithms implementation.
+3. UX & AI: Recommender systems;
+4. Designing for AI Algorithms implementation.
 
 
 Table of contents:
@@ -38,15 +38,17 @@ Tip: Note down any important HCAI related questions you might have! You can ask 
 Good luck!
 
 
-## 1) Human-Centered Artifical Intelligence
+## 1) HCAI: UX-design for AI
 Last Wednesday we covered HCAI from a high-level perspective to get us all quickly going so we could quickly prototype our core design. Let's now recap and dive deeper into the field to better understand how HCAI connects everyhting we have been doing this block together!
 
-Human-centered artificial intelligence (AI) refers to the design and development of AI systems with a primary focus on human needs, values, and well-being. This approach to AI puts people at the center of the design process, prioritizing their needs, preferences, and perspectives, and taking into account the social and ethical implications of AI. Keeping these values in mind makes sure that whatever we create is actually much more usefull and impactfull; ChatGPT was explicitly designed for its usability for example. 
+Human-centered artificial intelligence (AI) refers to the design and development of AI systems with a primary focus on human needs, values, and well-being. This approach to AI puts people at the center of the design process, prioritizing their needs, preferences, and perspectives, and taking into account the social and ethical implications of AI. Keeping these values in mind makes sure that whatever we create is actually much more usefull and impactfull; ChatGPT creators mentoin that their key breakthrough was achieved because they always kept its usability in mind for example. 
 
-Human-centered AI involves understanding human behavior, preferences, and decision-making processes, and incorporating this understanding into the design of AI systems; serving as an extension of our human capabilities. Therefore, it also involves ensuring that AI systems are transparent, explainable, and accountable, so that people can understand how they work, trust them, and hold them accountable for their actions; thereby keeping human needs in mind. So by prioritizing human needs and values, human-centered AI has the potential to improve people's lives, enhance their decision-making capabilities, and enable them to achieve their goals faster, more efficiently, with greater efficacy; and in a safe and ethical manner. 
+Human-centered AI involves understanding human behavior, preferences, and decision-making processes, and incorporating this understanding into the design of AI systems; serving as an extension of our human capabilities. Therefore, it also involves ensuring that AI systems are transparent, explainable, and accountable, so that people can understand how they work, trust them, and hold them accountable for their actions. So by prioritizing human needs and values, human-centered AI has the potential to improve people's lives, enhance their decision-making capabilities, and enable them to achieve their goals faster, more efficiently, with greater efficacy; and in a safe and ethical manner. 
 
-### Further reading
-However, technology is progressing rapidly and within that the field of AI is in a class of its own. Therefore, it's difficult to keep up to date with the latest developments as new models and techniques enter the field, become mainstream or get outdated. Luckily, Google is making a lot great resources on this topic and is leading the world in Human-Centered Artificial Intelligence; even though Google grip is slipping with rising stars such as OpenAI. The guy who you saw earlier talking about HCAI made a great article about it. [Read the full text over here](https://medium.com/google-design/human-centered-machine-learning-a770d10562cd) to reiterate the concepts and expand on your core understanding!
+### Datalab Prep, Excercise 1. UX-design for AI:
+Technology is progressing rapidly and within that the field of AI is in a class of its own. Therefore, it's difficult to keep up to date with the latest developments as new models and techniques enter the field, become mainstream or get outdated. Luckily, Google is making a lot great resources on this topic and is leading the world in Human-Centered Artificial Intelligence; even though Google grip is slipping with rising stars such as OpenAI. The guy who you saw earlier talking about HCAI made a great article about it: 
+1. [Read the full text over here](https://medium.com/google-design/human-centered-machine-learning-a770d10562cd) to reiterate the concepts and expand on your core understanding! While reading, consider how you could use the techniques and insights presented in the article to (potentially) improve on your design.  
+2. In the **Block C Notes - Y1C_2022-23_ADSAI** document, write down at least one possible design iteration based on the full text. Or if your design is perfect, argue why it is using the insights and techniques presented in the article.
 
 
 ## 2) Recommender systems: how to teach a machine
@@ -66,8 +68,10 @@ Another important aspect of human-centered recommender systems is that they shou
 
 Finally, human-centered recommender systems should be designed to promote diversity and reduce biases. They should be sensitive to cultural and individual differences, and should avoid reinforcing existing biases or discrimination. This means that the system should provide a variety of options and perspectives to users, rather than just promoting the most popular or profitable options.
 
-### Further reading
-Recommendation systems such a netflix, spotify or youtube also provide a user experience ofcourse. And as argued above, designing a UX with machine- or deep-learning in mind brings about different design constraints then regular; more state-machine based, UX design. [Read the following article to gain a deeper understanding of how this works](https://design.google/library/designing-and-learning-teachable-machine/).
+### Datalab Prep: Excercise 2. Recommender Systems
+Recommendation systems such a netflix, spotify or youtube also provide a user experience ofcourse. And as argued above, designing a UX with machine- or deep-learning in mind brings about different design constraints then regular; more state-machine based, UX design. 
+1. [Read the following article to gain a deeper understanding of how this works](https://design.google/library/designing-and-learning-teachable-machine/) to reiterate the concepts and expand on your core understanding! While reading, consider how you could use the techniques and insights presented in the article to (potentially) improve on your design.  
+2. In the **Block C Notes - Y1C_2022-23_ADSAI** document, write down at least one possible design iteration based on the full text. If your design doesn't make use of a recommendation system, consider if you could add value by adding one and explain why; adversely if it wouldn't add value then explain why it does not. Or if your design is perfect, argue why it is using the insights and techniques presented in the article.
 
 ##  3) UX & AI; Adaptive interfaces
 AI; machine learning or reactive, has the ability to make our UX systems & UI interaces adaptive! This is something which bring UI and UX to a new level. Although interesting, this isn't the main focus of this module If you are interested however, you can use [this libray to delve further into the topic](https://design.google/library/ux-ai/); and where you should and shouldn't apply it.
@@ -88,6 +92,9 @@ Juicy design refers to the idea that large amounts of sensory (usually audiovisu
 continued and increased engagement and invoke a state of flow. Juicy design is a concept which is very popular in game design, therefore we're going to take a short expedition into the world of game design.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fy0aCDmgnxg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Datalab Prep: Excercise 3. User Feedback
+1. Consider how you could use the techniques and insights about user feedback you were just presented to improve on your design. Then in the **Block C Notes - Y1C_2022-23_ADSAI** document, write down at least one possible design iteration regarding user-feedback. Or if your user feedback is already perfect, argue why it is using the insights and techniques presented in the pressented text.
+
 ## 5) Designing for the implementation of AI Algorithms
 The process concerning designing for AI algorithm implementation involves a number of steps and considerations. Although HCAI needs to consider the entirety of the process, it is really set apart by the integration, maintainance en monitoring off an algorithm once released. For this block we've essentially followed the following structure: 
 
@@ -100,30 +107,31 @@ The process concerning designing for AI algorithm implementation involves a numb
 
 In block D we'll bring step 5 and 6 further as we're going to deploy our algorithm/data analysis in the real-world; e.g. using an API. For now though, we'll focus on the design for it; which comes first ofcourse. To help you along with this, Google features some great articles. We've already read some of them today. 
 
-Now, open your notes document and create a note section with the header "How to design for the implementation of AI Algorithms". Then go and read [this acticle](https://design.google/library/simulating-intelligence/) and note down design principles for AI algorithm implementation; specifically focussing on the differences with regular UX design. Then look at your project using your newly fangled design principles and adjust your UX design; and derivative components, accordingly. Make sure to document what you change.
+### Datalab Prep: Excercise 4. Designing for AI Algorithm Implementation
+1. Read [this acticle](https://design.google/library/simulating-intelligence/) and consider  
+2. Open the **Block C Notes - Y1C_2022-23_ADSAI** document, write down at least one possible design iteration to better implement your computer vision component. 
+3. Are there any other AI algorithms; e.g recommender system, which you have to implement? Write down how you would implement these, and how they would work together with other AI components specifically; does tuning/add new data for one have implications for the other?
 
-**Upload your document to Github!**
 
 ## 4) Wireframe Prototype
-**Open your HCAI design document and create a section called 'User-Centered Design for AI' and note down any points which might be relevant for you design you learned today!**
 
-Now, taking all this mind: what can you apply to your own application design? What should you iterate on? Note all this down in the bullet points you just created.
+### Datalab Prep: Excercise 5. Wireframe iteration.
+1. **Open your wireframe prototype in proto.io. Export your project and save it to GitHub as a zipped folder named "YourNameAppHere_Baseline".** If your project is too big somehow, save it to your Microsoft Onedrive using teams or sharepoint.
+2. Take a look at the previous 4 excercises and consider how you could improve you wireframe for each excercise. **Now, start making the improvememnts but only implement the design iterations for 1 excercise at a time!** Then, save your project, export your project as a zipped folder and name it:
+- "YourNameAppHere_Ex1-UXAI"
+- "YourNameAppHere_Ex2-Reccomder"
+- "YourNameAppHere_Ex3-UXFeedback"
+- "YourNameAppHere_Ex4-Algorithm"
 
-Next, start implementing these design changes in your wireframe prototype and build the full horizontal slice!
-A horizontal is essential a prototype of the full version of your application: design and build in from back to front! From start-up till the exit of the application!
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jQg27pFGmWA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-**Save your HCAI design document to Github and note what your did; and your evidence, in your work- and learning-log**
+We're doing this so we can keep track of our design iterations but more importantly, we're going to want a selection of different version of your app design to investigate which one is best in the upcoming datalab! Intuitively, you last design would be the best one, but quantifying how good a design actually is and why is rather difficult as it turns out... Humans experience is difficult quantify and is even harder to definitively explain; there are so many influencing factors!
 
 
-## 5) New project?
-For this course, we already had our AI Algorithm and we just had to implement it, but if you ever need to start the proces from scratch you should take a look at the [AI guidebook provided by Google](https://pair.withgoogle.com/guidebook). It's really great!
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Within this module we have looked at a pletora of design techniques and lenses to shape our application design. However there are many approach to take for an app design and many more technqiues to consider. If need more information or even need to start the proces from scratch you should take a look at the [AI guidebook provided by Google](https://pair.withgoogle.com/guidebook). It's really great!
+ </div>
 
 ## Next up!
-Coming Datalab we will reflect on User-Centered Design for AI again and give you an opportunity to ask any questions you might have.
-
-Tomorrow, we will cover designing for AI Algorithms!
-
+Tomorrow will see us desiging an user-test which can statistically prove which version of an app design is the best one! It's crucial if you want to pass this course so be sure to prepare it well!
 
 ## Recommend Literature:
 −	[Interaction Design: beyond human-computer interaction](https://login.proxy1.dom1.nhtv.nl/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cat01829a&AN=buas.303541695&site=eds-live)   

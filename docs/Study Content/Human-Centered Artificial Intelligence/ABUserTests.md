@@ -2,17 +2,17 @@
 sort: 6
 ---
 
-# User Testing
+# A/B User Tests
 Today we will dive deeper into user feedback and user testing. How do we really know what works and what doesn't? This is one of the most difficult topic in UX-design and all the more within HCAI. How do we know what results from what? How do we isolate a given factor an pinpoint it as the cause for a given functionality? 
 
 Then we are going to take our new knowledge; as well as the feedback on your design collected last datalab, and apply it to our design to create a new vertical slice for our wireframe prototype!
 
 ## Learning Objectives:
 After this module, you'll be able to:
-1. create rewarding user feedback;
-2. create and conduct various user tests in UX;
-3. create and deploy a digital vertical slice of your wireframe prototype.
-4. conduct and understand a/b testing
+1. create and conduct various user tests in UX;
+2. understand the basic principles of A/B testing
+3. design an A/B test
+4. deploy a vertical slice for your wireframe prototype for a user test
 
 Table of contents:
 1. User Testing: 2 hours
@@ -42,7 +42,7 @@ All products should include some form of user testing, whether they are digital 
 <div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="640" height="360" src="https://www.linkedin.com/learning/embed/ux-foundations-usability-testing/usability-testing?autoplay=false&claim=AQHOrBs7sRA7bgAAAYc4G3VwRyjtl09DSc4hm2BGzmz2HsgpG5KVMahFKsi9Q0uLPb8IOCnV8sWLMhQEBEVKvZC2wxi5isYrdN3Z2-b86a29jGkygoTySt1wNGwPpAbxKc4D6T9jbbmqLNY8HgZ0AMRqLzTbCA3zXWfr7dWabvW1B3e3I-xfIZv2VRYQNrh2WYobbvW5txD-pwKwm9ZCAzSeJ_DxS5xUlCg6DUco_9_N0MOCUYvjM8SwkZrgA9YGZr1Mig_zFbqjLHOIlh5ClV8C3_hKhfF3dEhRdz0FRaZIz25uHy9T-pn1T_nGas9YxhDN-T76LtLQi-oYilwh9fkfir_QuGtXrJSc-c-ZiwHFBURsz6D3z90xCNZw6r62GgF_JS50TyOd7T-WC0mRfLkXYXKyfLF3zFurYbndE0Vo1FxK76zGzME3H5f0GtsV17Z7yMpZ6GzmUPIjMHtrFtmPtMakqtJoRrsjtteJ-3CvNwW45SfQubixSj6LzhkdOyLEsE856_4sEkDEoF8987FzKsklDcVGe5xasNJcrEMIcK5eJ21MPoKCFiKnljkIKCsGcsn7DgvvQbMRsUwKQ51sZO73t1uc3HcVTSF-6tgtqeqVlfnFNPQ7g-bclf8CkOgmAVwnL4qNNI_rz9GRswnlV7uc9w3pIoFx7ykwkYjXq6-lvQcMasJCWXfLL5bEJ1oEAZYIigrD4dHdIolW8ww5Bg9DweppUwtFHr_bGktnuTVCCPv3BoAJvIiY858hl2Mjlf4d_KBac5d-ms4C7lJBtydLAn2JdqsMvK3KIIhJh8lfaHWw-zTHcZfmD8l3eDYq0E8fDqbwbpiyb7CNxt1Rwe9JvVLfGx8uHRcM72T8VSBhFEaWd3ybQ6fRLTfyUrnfR-vdhDPMlj5H5a2R6uhguDbv6xJuCoey408xI7tOfOWgWiZsoDaSnNBVFQ37pi_LalToKyRWj29AQus-rnysgjBzZhkUB-0jqd1e5Sn_RtFchsj5pm9L1I4GX_WLO3-zVVPUXesgyDnNxpYzfRNKz-UKk-c6uuKUI3FiJBZZiI0QlZumM72UjYzidNXV9vwjK-5GQl29L2zakSypmdfCoaspRNnicymbBW-BF05K4Clpd0--F8wCxUlYRjYULxdRh2PZUxDK-Km5VcaXpV5Dzuvh_wiuUgPiHUY5e0WhwUiOh6o&lipi=urn%3Ali%3Apage%3Ad_learning_content%3B6%2BWZR3jcSh%2BYV2ReH3Ov5Q%3D%3D&licu" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true" frameborder="0" style="position:absolute;width:100%;height:100%;left:0"></iframe></div><p><strong><a href="https://www.linkedin.com/learning/ux-foundations-usability-testing/usability-testing?trk=embed_lil">Usability testing</a></strong> from <strong><a href="https://www.linkedin.com/learning/ux-foundations-usability-testing?trk=embed_lil">UX Foundations: Usability Testing</a></strong> by <strong><a href="https://www.linkedin.com/learning/instructors/chris-nodder?trk=embed_lil">Chris Nodder</a></strong></p>
 
 
-### DataLab preparation 1
+### DataLab preparation, Excercise 1:
 **Make sure to get the certificate an upload it to GitHub and evidence it in both your worklog and learning log!**
 
 
@@ -79,12 +79,12 @@ Booking.com's A/B testing program is supported by sophisticated machine learning
 
 Through its extensive use of A/B testing, Booking.com has been able to continuously optimize its website and improve its user experience. Some of the notable improvements that have resulted from A/B testing include faster page load times, more prominent [calls-to-action](https://en.wikipedia.org/wiki/Call_to_action_(marketing)), and personalized search results. Booking.com's success with A/B testing has made it a model for other businesses looking to improve their online presence and user experience.
 
-### DataLab preparation 2: Planning for A/B testing
+### DataLab preparation, Excercise 2. Planning for A/B testing.
 **open your Block C Notes - Y1C_2022-23_ADSAI document, create a section called 'Planning for A/B testing' and do the following excercises.**
-1. Please summarize the steps that you need to conduct for A/B testing. 
+1. Summarize the steps that you need to conduct for A/B testing. 
 2. Open you learning log and take a look at the feedback you collected from your peers and lecturers during Datalab this week. Write down one or more iterating options for your application design. Make sure to iterate on your user stories based on the feedback. 
-
-3. Consider you core functionality; your computer vision algorithm, and how it's embedded in your application design. How is the user going to make operate it? Come up with several brief alternative designs and write them down in your Block C Notes file. Just changing some basic interaction or button.
+3. Consider the 4 (or more) design iterations you made in proto.io in yesterday's self-study material. Which ones are of particular value do you think, create a ordered (best on on top, least valuable one at the bottom) list of them and argue why it is or isn't the most valuable one. Then consider the iterations you made in excercise two and add those to the list, reorder the list and explain again why which one is best.
+4. Now, select 
 3. 
 
 ### DataLab preparation 3: Setting up for A/B testing

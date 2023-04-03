@@ -7,10 +7,10 @@ sort: 1
 ### Chapter overview
 
 I. __Databases, Data Definition Language (DDL) clauses I & Data Manipulation Language (DML) clauses__ <br>
+II. Data Query Language (DQL) clauses <br>
 III. DataLab: Use-Cases <br>
-IV. Data Query Language (DQL) clauses I <br>
-V. Data Definition Language (DDL) clauses II <br> 
-VI. DataLab: Use-Cases <br>
+IV. Data Definition Language (DDL) clauses II <br>
+V. DataLab: Use-Cases <br> 
 
 ### 1. Introduction
 

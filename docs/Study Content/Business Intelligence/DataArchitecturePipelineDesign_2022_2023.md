@@ -35,7 +35,7 @@ __After this chapter, you will be able to:__
 - [ ] Explain the difference between a relational and a non-relational (i.e., NoSQL) database.
 - [ ] List, and describe some advantages and disadvantages of using a relational database.
 - [ ] Install a PostgreSQL database server and client on your local device.
-- [ ] Apply Data Definition Language (DDL) and Data Manipulation Language (DML) clauses.
+- [ ] Apply Data Definition Language (DDL) and Data Manipulation Language (DML) clauses to create and manipulate tables in a PostgreSQL database.
 
 
 :pencil: __1a__ Complete module ```1. Data Warehouse Foundations``` of the LinkedIn course Implementing a Data Warehouse SQL Server 2019 by Adam Wilbert, which you can find [here](https://www.linkedin.com/learning/implementing-a-data-warehouse-sql-server-2019/data-warehouse-core-concepts?u=36359204).
@@ -199,6 +199,10 @@ WHERE youth = 11;
 
 ### 7. Additional resources 
 
+<img src="./images/data_warrior.png" alt="Books banner" width="450"/>
+
+*Figure 3. An example of how you might look when you reach the level of data wrangling SQL wizard/action hero/avatar etc...*
+
 Do you have time left, and have the desire to become a data wrangling SQL wizard, explore the following additional resources:
 
 __Interactive exercises:__
@@ -215,24 +219,22 @@ __Books/articles/webpages etc.:__
 
 ***
 
-## __Codebook__
+### Codebook
 
-|Variable                  |Data type |Description                                                                                                                                                                                                                              
-|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|                                                                                                                                                                                                                            
-|BuurtCode                 |String    |Neighbourhood ID                                                                                                                                                                                                                         
-|BuurtNaam                 |String    |Neighbourhood name                                                                                                                                                                                                                      
-|ClientAchternaam          |String    |Client's last name                                                                                                                                                                                                                      
-|ClientGeboorteJaar        |Integer   |Client's birth year                                                                                                                                                                                                                      
-|ClientGeslacht            |String    |Client's biological sex                                                                                                                                                                                                                  
-|ClientKey                 |Integer   |Client ID                                                                                                                                                                                                                             
-|Clienttussenvoegsel       |String    |Client's middle name                                                                                                                                                                                                                     
-|Clientvoornamen           |String    |Client's first name                                                                                                                                                                                                                    
-|Datum                     |date      |Date of NotaRegelBedrag                                                                                                                                                                                                                  
-|GemeenteCode              |Integer   |Municipality ID                                                                                                                                                                                                                          
-|GemeenteNaam              |String    |Municipality name                                                                                                                                                                                                                        
-|NotaKey                   |Integer   |Youth care invoice ID                                                                                                                                                                                                                   
-|NotaRegelBedrag           |Float     |Youth care invoice                                                                                                                                                                                                                       
-|ProductKey                |Integer   |Youth care product ID                                                                                                                                                                                                                 
-|ProductNaam               |String    |Youth care product name                                                                                                                                                                                                                
-|ZorgleverancierKey        |Integer   |Youth care supplier ID                                                                                                                                                                                                                  
-|ZorgleverancierNaam       |String    |Youth care supplier name                                                                                                                                                                                                            
+|Number|Variable           |Description              |
+|------|-------------------|-------------------------|
+|1     |ClientKey          |Client ID                |
+|2     |ClientVoornamen    |Client first name        |
+|3     |ClientTussenvoegsel|Client middle name       |
+|4     |ClientAchternaam   |Client last name         |
+|5     |GeboorteJaar       |Client birth year        |
+|6     |ClientGeslacht     |Client sex               |
+|7     |NotaRegelBedrag    |Invoice amount in Euro's |
+|8     |NotaJaar           |Invoice year             |
+|9     |NotaKwartaal       |Invoice quarter          |
+|10    |NotaMaand          |Invoice month            |
+|11    |BuurtCode          |Neighborhood ID          |
+|12    |BuurtNaam          |Neighborhood name        |
+
+***
+

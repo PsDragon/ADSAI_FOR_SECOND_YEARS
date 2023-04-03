@@ -80,27 +80,32 @@ Through its extensive use of A/B testing, Booking.com has been able to continuou
 ### DataLab preparation, Excercise 2. Planning for A/B testing.
 **Open your Block C Notes - Y1C_2022-23_ADSAI document, create a section called 'Planning for A/B testing' and do the following excercises.**
 1. Summarize the steps that you need to conduct for A/B testing. 
-2. Open your learning log and look at the feedback you collected from your peers and lecturers during Datalab this week. Create an **ordered** list (best on top, least valuable one at the bottom) and write down one or more iterating options for your application design. Make sure to iterate on your user stories based on the feedback. If you have already incorporated all feedback received so far, briefly write down here that you already did so and skip this step.
+2. Open your learning log and look at the feedback you collected from your peers and lecturers during Datalab this week. Create an **ordered** list (best on top, least valuable one at the bottom) and write down one or more iterating options for your application designs. Make sure to iterate on your user stories based on the feedback. If you have already incorporated all feedback received so far, briefly write down here that you already did so and skip this step.
 3. Consider the 4 (or more) design iterations you made in proto.io in yesterday's self-study material. Which ones are of particular value, do you think? Add them to the **ordered** list and argue why it is or isn't the most valuable one. Then consider the iterations you made in exercise two and add those to the list, reorder the list and explain again which one is best.
 4. Now, let's select two designs you want to compare to see which is best. Follow the outline of the steps for A/B testing you created. Remember that you want the two prototype versions to only differ in 1 isolated aspect (e.g. one includes a mechanic for the user to provide feedback on the classification; the user rates the output provided, the other version doesn't but is the same in all other aspects). Essentially, you will have one baseline wireframe (the one without the design change you want to test); version A, and one wireframe with the design change (a.k.a. hypothesized design improvement) you want to test; version B. 
 Selecting what to test can be difficult, but to help your selection process, you can consider:
 - The baseline version of the wireframe you created yesterday;
 - the 4 (+) design iterations you created yesterday;
-- the iterations to the design you could consider based on step 2 above here (which you should implement in your wireframe then);
+- the iterations to the design you could consider based on step 2 above here (which means you should implement **one** of those changes in your wireframe then);
 - the latest; and most complete version of your design/wireframe, implement it and either A) compare it to an earlier version, or B) come up with another potential improvement, integrate it in your wireframe and use the new wireframe for the A/B test.
-- Want to collect data outside of the questionnaire setup or research something more specific? [Take a look at this page for more advance methods of feedback collection](https://support.proto.io/hc/en-us/articles/220363528-Getting-feedback)!
-5. **Note down which versions you chose for your A/B test, how you made your selection and why you chose to test these versions. Then create an ordered list and use the steps you outlined in step 1 of the exercise to create planning for your A/B test! Ensure your entire test plan can be conducted in 6 minutes: 4 minutes for the actual user test and 2 minutes for the questionnaire!** 
+- Want to collect data outside of the survey setup or research something more specific? [Take a look at this page for more advance methods of feedback collection](https://support.proto.io/hc/en-us/articles/220363528-Getting-feedback)!
+5. Note down which versions you chose for your A/B test, how you made your selection, why you chose to test these versions, and finally your hypothesis. Then create an ordered list and use the steps you outlined in step 1 of the exercise to create planning for your A/B test! Ensure your entire test plan can be conducted in 6 minutes: 4 minutes for the actual user test and 2 minutes for the survey!
 6. Once you've made your selection and composed your plan:
 - Create a folder on Github and name it "AB_test".
 - Add your A/B Test plan by creating a Word document named "A/B Test plan" in that folder and copy-pasting your A/B test plan as created in the previous step.
 - Create a folder named "A" and a folder named "B". 
-- Prepare both your wireframes by exporting your project in proto.io as a zipped folder (if you haven't done so already at least) and adding the baseline version to folder A and the (hypothesized) improved version to folder B.
+- Prepare both your wireframes by exporting your project in proto.io as a zipped folder (if you haven't done so already at least) and adding the baseline version to folder A and the (hypothesized) improved version to folder B. 
+- Now that you have evidence you A/B test and setup your A/B test you are ready to go. If you prefer you can also share your project using a sharable link, this is especially useful if you have a smartphone or tablet app because you can generate a QR code from that sharable link and simply have participants scan the QR code to test your wireframe prototype!
 
 **Check if everything works. If it does, you are almost set to start the A/B test. Only the measurement method remains, let's cover that now!**
 
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Note: In both industry and academic settings, survey and questionnaire are often used interchangeably.
+ </div>
+
 ### DataLab preparation 3. Measuring A and B using a survey:
-Remember the questionnaire you were handed in block A to collect feedback on your dashboard for Data Science? We will now use that software again to create our own questionnaire. 
-1. You can do it thoroughly by doing [the planning and designing a survey tutorial](https://basecamp.qualtrics.com/) or just go ahead and follow the steps below to start building your questionnaire; it's really quite intuitive: the UX of Qualtrics is (mostly) well-designed!
+Remember the survey you were handed in block A to collect feedback on your dashboard for Data Science? We will now use that software again to create our own survey. 
+1. You can do it thoroughly by doing [the planning and designing a survey tutorial](https://basecamp.qualtrics.com/) or just go ahead and follow the steps below to start building your survey; it's really quite intuitive: the UX of Qualtrics is (mostly) well-designed!
 2. Log into and create a new project on [Qualtrics](https://buas.eu.qualtrics.com/Q/MyProjectsSection) in the 'projects' section.
 3. Go for the first option, 'Survey' under the header 'From scratch'.
 4. Click on 'Get started'.
@@ -113,19 +118,19 @@ Remember the questionnaire you were handed in block A to collect feedback on you
 - Add the third question: 'I thought the application was useful.'
 - Add the fourth question: 'I enjoyed using the application.'
 - Write a fift question which is specific to your core feature. 
-- If you want you can add more questions, please don't add more than 8 as we only have 2 minutes per questionnaire.
+- If you want you can add more questions, please don't add more than 8 as we only have 2 minutes per survey.
 <figure>
 <center>
     <img src="./Assets/AB-test_QualtricsExample.jpg" />
 </center>
 </figure>
-7. Click on Preview. Test your questionnaire. Does it work? Does it also work in mobile mode? We're going to use our mobile phones to record the data.
+7. Click on Preview. Test your survey. Does it work? Does it also work in mobile mode? We're going to use our mobile phones to record the data.
 8. Open the survey to respondents by clicking on Publish and clicking Publish, name it "Target_Score", and click Publish. Copy the link and open it in your browser. Fill in the desired score you would want your wireframe to get; that's going to be our aimed design outcome; think where your priorities lie. Doing this will also allow us to inspect the structure of your data.
 9. Go to the 'Data & Analysis tab. Click on 'Export & Import' and then click on 'Export'. Set your export to 'use numeric values' and click on 'download'.
 10. Open the following [T-testIndependentSamplesHCAI Juypter Notebook](./Assets/T-testIndependentSamplesHCAI.ipynb), import your CSV file and follow the steps in the notebook. You can use [this dataset as a B version] 
-8. Save your questionnaire as a template (maybe you want to test more after our initial test tomorrow), then create 2 exact copies of it and name them: "AB-test_HCAI_Version_A" and "AB-test_HCAI_Version_B" respectively.
-9. Distribute the questionnaires, and generate links for each respective questionnaire which you save to your "A/B Test plan" file in an appropriate location. Then, generate QR codes for versions A and B and paste those in the A/B Test plan so your test subject (strictly, they're called participants) can easily scan the QR code and fill in the questionnaire after they're done with the test.
-10. Test the QR codes by opening the questionnaires but **do not** fill them in.
+8. Save your survey as a template (maybe you want to test more after our initial test tomorrow), then create 2 exact copies of it and name them: "AB-test_HCAI_Version_A" and "AB-test_HCAI_Version_B" respectively.
+9. Distribute the survey, and generate links for each respective survey which you save to your "A/B Test plan" file in an appropriate location. Then, generate QR codes for versions A and B and paste those in the A/B Test plan so your test subject (strictly, they're called participants) can easily scan the QR code and fill in the survey after they're done with the test.
+10. Test the QR codes by opening the survey but **do not** fill them in.
 
 **Check if everything works. If it does, you are all set to start the A/B test! Good job!**
 

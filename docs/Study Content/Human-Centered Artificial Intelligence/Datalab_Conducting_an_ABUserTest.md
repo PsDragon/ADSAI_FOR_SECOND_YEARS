@@ -3,18 +3,25 @@ sort: 7
 ---
 
 # Datalab: Introduction to A/B-Testing
-During the self-study days we've designed an A/B test which we could use to compare our 2 different wireframe prototypes. So, today we're going to conduct our A/B-test in class and then we're going to do a statistical test to see whether our improved version is a significant improvement! If we have time left, we'll spend it by iterating on our wireframe prototype based on the collected feedback!
+During the self-study days we've designed an A/B test which we could use to compare our 2 different wireframe prototypes. So, today we're going to conduct our A/B-test in class and then we're going to do a statistical test to see whether our improved version is a significant improvement or not! Then, depending on the outcome and your goal, we're either going to iterate on our wireframe prototype based on the collected feedback, finalize our design, or do another A/B test.
 
 ## Learning Objectives:
 After this module, you'll:
-1. be able to design and run A/B tests;
-2. analyse the data from an A/B test.
+1. be able to conduct A/B tests;
+2. analyse the data from a simple A/B test;
+3. iterate on your application design in a data-driven manner.
 
 Table of contents:
 0. Stand-up: 0.5 hours
-1. A/B Testing on deployed prototype: 4 hours
+1. A/B Testing on deployed prototype: 
+- Setting up: 9:30 - 10:00
+- Round 1: 9:45 - 10:45 
+- Round 2: 11:00 - 12:00
+- Round 3: 13:00 - 14:00
+- Round 4: 14:15 - 15:15
+- Round 5: 15:30 - 16:30 **Optional** 
 2. Data Analysis: 1-2 hours
-4. Iterate on Wireframe Prototype: Remainder of the day
+
 
 ## Questions?
 
@@ -24,40 +31,50 @@ If you have questions or issues regarding the course material, please first ask 
 
 Good luck!
 
-## 0) Stand-up
-We start by hosting a stand-up. Form groups of ~ 5 and run on-another through the following points:
-- What progress have you made up since last datalab?
-- What progress do you anticipate to make today?
-- What impediments are you facing or expecting?
-- With what could you use help or support?
-
 **Open your worklog and plan your day informed by the stand-up and today's schedule**
 
 
-## 1) A/B Testing on deployed prototype
-Yesterday you made the version of your vertical slice as you envisioned it. But now, we're going to create a second version of you vertical slice which is slightly different then the one you created yesterday. First test your prototype with a classmate and identify points of improvement for you veritical slice to subject to A/B-testing, implement that change in the vertical slice of you wireframe prototype and deploy that version as well for user testing.
+## 1) A/B Testing on wireframe prototype
+Yesterday, you have worked on setting up your A/B test by preparing two wireframe prototypes for the experiment and by building a survey for you to use to collect data. If you've done all preparation, you should have the following prepared:
+- Test Plan to conduct the A/B Test
+- Wireframe prototypes: Version A & B
+- Surveys: Version A & B (didn't manage to prepare this in time? Message on Teams Bram)
+- [T-testIndependentSamplesHCAI Juypter Notebook](./Assets/T-testIndependentSamplesHCAI.ipynb) (Okay if you didn't prepare this, you can do this later.)
 
-If you don't know what to change, ask the lecturers to look together with you for anything which might serve as a possible improvement. Then, run through the steps above.
+Now, we're going to have 4 rounds where we'll test on another's wireframes. When it's your turn to set-up, you'll have 15 minutes to get out your test plan and do 10 rounds, each lasting 6 minutes, to do a user-test and to let your participant fill in the questionnaire. 
 
-**Done with you new deployed version for user testing? Open your HCAI design document and create a section called 'A/B Test Datalab 15'. Create a bullet point section for logging all feedback point!**
+Let's make our experiment a little bit more random by [tossing a coin](https://justflipacoin.com/#flip-a-coin) to choose which version you start with: A or B. Let's say heads is A and tails is B.
 
-Let several of your classmates; or passer-by's (anyone you fancy apart from the lecturers) test your vertical slice and note along the way what/if different interactions between occur. Every other intersting feedback point should be noted too but in a seperate bullet point list called: "Non A/B-test feedback:". This is the crucial part of user testing because you will need to know what might work and what might not work in order to iterate on your design: make the best possible application.
+The schedule is going to be:
 
-**Save your HCAI design document to Github and note what your did; and your evidence, in your work- and learning-log**
+| Timeslots | Hn0.015 Experimentors | Hn0.015 Participants | Library Experimentors | Library Participants
+|-----------|-------------|-------------|-------------|-------------|
+| 9:45 - 10:45 | Mentor Group HEI/KOZ | Mentor Group BLR | Mentor Group BHU | Mentor Group ASW |
+| 11:00 - 12:00 | Mentor Group ASW | Mentor Group BHU | Mentor Group BLR | Mentor Group HEI/KOZ |
+| 13:00 - 14:00 | Mentor Group HEI/KOZ | Mentor Group BHU | Mentor Group BLR | Mentor Group ASW |
+| 14:15 - 15:15 | Mentor Group ASW | Mentor Group BLR | Mentor Group BHU | Mentor Group HEI/KOZ |
+| 16:00 - 17:00 | - | - | - | - |
+
+So, let's setup our A/B tests as described in our test-plan if you are up for being an experimentor! If you are a participant, get out your phone so you can fill in the questionnaires of your peers. 
+
+**For the last round, we're just going to allow whoever is eager to run another test to do so. There's a 45 minute break so you can make some potential quick changes to your wireframe.**
 
 
 ## 2) Data Analysis
-1. Download [the following notebook]() and make sure you have the required packages installed.
-2. next steps...
+1. Go to qualtrics and take a look at the descriptive data. Download a table with the descriptive data for each question for both version A and B. Past the descriptive data table for both A and B in your learning log for week 8. 
+2. Take a look at your descriptive data. What do the descriptive statistics say about your design by themselves if you interpret them as they are? 
+3. Go back to qualtrics and download the data as a CSV file; [same way as you did yesterday](https://adsai.buas.nl/Study%20Content/Human-Centered%20Artificial%20Intelligence/ABUserTests.html#datalab-preparation-3-measuring-a-and-b-using-a-survey) for both version A and B of your survey. 
+3. Do the data analysis using the [T-testIndependentSamplesHCAI Juypter Notebook](./Assets/T-testIndependentSamplesHCAI.ipynb) you setup yesterday. Import the data you just exported in step 2. Do the data analysis by following the steps in the notebook. Add the results to your learning log for week 8; just copy-past the output and add bullet points for each question.
+3. Interpret your results in your learning log: Check which questions have a significant difference between them and which haven't. How big is the mean increase for the questions where there was a significant difference? What does this say about you application and the aspect of the app?
 
-## 3) Iterate on Wireframe Prototype
-Now, based on the feedback you collected today; start improving on your design in your HCAI design document. If you have time left, you can try to immediately implement these design changes into you wireframe prototype!
 
-## 4) In-Class Discussion
-At 16:30, there's a meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
+## 3) Done?
+Done with the analysis and time left? You can now either:
+- Iterate on your wireframe prototype or the design as recorded in the project proposal presentation based on the feedback you collected today.
+- Setup another A/B - test; for this you would create a 'C' version which slightly iterates on your 'B' version (e.g. one simple hypothesized improvement).
 
 ## Up Next!
-Tomorrow, we make any last changes we might want to make and finalize our Project Proposal Presentation! 
+Tomorrow, we make any last changes we might want to make to our design as decribed in our project proposal presentation (and potentially our notes), and we'll finalize our wireframe prototype! 
 
 
 ## Recommend Literature:

@@ -89,7 +89,7 @@ Selecting what to test can be difficult, but to help your selection process, you
 - the iterations to the design you could consider based on step 2 above here (which means you should implement **one** of those changes in your wireframe then);
 - the latest; and most complete version of your design/wireframe, implement it and either A) compare it to an earlier version, or B) come up with another potential improvement, integrate it in your wireframe and use the new wireframe for the A/B test.
 - Want to collect data outside of the survey setup or research something more specific? [Take a look at this page for more advance methods of feedback collection](https://support.proto.io/hc/en-us/articles/220363528-Getting-feedback)!
-5. Note down which versions you chose for your A/B test, how you made your selection, why you chose to test these versions, and finally your hypothesis. Then create an ordered list and use the steps you outlined in step 1 of the exercise to create planning for your A/B test! Ensure your entire test plan can be conducted in 6 minutes: 4 minutes for the actual user test and 2 minutes for the survey!
+5. Note down which versions you chose for your A/B test, how you made your selection, why you chose to test these versions, and finally your hypothesis. Then create an ordered list and use the steps you outlined in step 1 of the exercise to create planning for your A/B test! Ensure your entire test plan can be conducted in roughly 6 minutes: 4 minutes for the actual user test and 2 minutes for the survey!
 6. Once you've made your selection and composed your plan:
 - Create a folder on Github and name it "AB_test".
 - Add your A/B Test plan by creating a Word document named "A/B Test plan" in that folder and copy-pasting your A/B test plan as created in the previous step.
@@ -135,7 +135,7 @@ Remember the survey you were handed in block A to collect feedback on your dashb
 **Check if everything works. If it does, you are all set to start the A/B test! Good job!**
 
 ## Next up!
-Coming Datalab we will actually run our A/B test and do the statistical analysis provided in the notebook; a T-test. Then we're going to use the results to iterate on our design and finalize it!
+Coming Datalab we will actually run our A/B test and do the statistical analysis provided in the notebook; a T-test. Then we're going to use the results the next day to iterate on our design and finalize it!
 
 # Resources
 ## Recommend Literature:

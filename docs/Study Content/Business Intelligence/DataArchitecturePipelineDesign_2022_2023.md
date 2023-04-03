@@ -9,7 +9,7 @@ sort: 1
 I. __Databases, Data Definition Language (DDL) clauses I & Data Manipulation Language (DML) clauses__ <br>
 II. Data Query Language (DQL) clauses <br>
 III. DataLab: Use-Cases <br>
-IV. Data Definition Language (DDL) clauses II <br>
+IV. Data Definition Language (DDL) clauses II & Python <br>
 V. DataLab: Use-Cases <br> 
 
 ### 1. Introduction
@@ -36,7 +36,6 @@ __After this chapter, you will be able to:__
 - [ ] List, and describe some advantages and disadvantages of using a relational database.
 - [ ] Install a PostgreSQL database server and client on your local device.
 - [ ] Apply Data Definition Language (DDL) and Data Manipulation Language (DML) clauses to create and manipulate tables in a PostgreSQL database.
-
 
 :pencil: __1a__ Complete module ```1. Data Warehouse Foundations``` of the LinkedIn course Implementing a Data Warehouse SQL Server 2019 by Adam Wilbert, which you can find [here](https://www.linkedin.com/learning/implementing-a-data-warehouse-sql-server-2019/data-warehouse-core-concepts?u=36359204).
 
@@ -199,9 +198,9 @@ WHERE youth = 11;
 
 ### 7. Additional resources 
 
-<img src="./images/data_warrior.png" alt="Books banner" width="450"/>
+<img src="./images/data_warrior.png" alt="SQL wizard" width="450"/>
 
-*Figure 3. An example of how you might look when you reach the level of data wrangling SQL wizard/action hero/avatar etc...*
+*Figure 2. An example of how you might look when you reach the level of data wrangling SQL wizard/action hero/avatar etc...*
 
 Do you have time left, and have the desire to become a data wrangling SQL wizard, explore the following additional resources:
 

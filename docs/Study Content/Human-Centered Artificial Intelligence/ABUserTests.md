@@ -3,21 +3,19 @@ sort: 6
 ---
 
 # A/B User Tests
-Today we will dive deeper into user feedback and user testing. How do we really know what works and what doesn't? This is one of the most difficult topic in UX-design and all the more within HCAI. How do we know what results from what? How do we isolate a given factor an pinpoint it as the cause for a given functionality? 
-
-Then we are going to take our new knowledge; as well as the feedback on your design collected last datalab, and apply it to our design to create a new vertical slice for our wireframe prototype!
+Today we will dive deeper into user feedback and user testing. How do we really know what works and what doesn't? This is one of the most challenging topic in UX design and all the more within HCAI. How do we know what results from what? How do we isolate and pinpoint a given factor as the cause for a given functionality? 
 
 ## Learning Objectives:
 After this module, you'll be able to:
 1. create and conduct various user tests in UX;
 2. understand the basic principles of A/B testing
 3. design an A/B test
-4. deploy a vertical slice for your wireframe prototype for a user test
+4. deploy your wireframe prototype for a A/B user test
 
 Table of contents:
 1. User Testing: 2 hours
 2. A/B testing: 4 hour
-3. Wireframe Iteration: 2 hours
+3. Wireframe Iteration: *optional*
 
 
 **Now, open your worklog and plan the different tasks for today in there!**
@@ -35,7 +33,7 @@ Good luck!
 
 
 ## 1) User Testing
-All products should include some form of user testing, whether they are digital or not, interactive or non-interactive: as a designer you generally know too much about the product and technology relating to your own project. You cannot simply pretend you don't know these things; that's not how your brain works, and therefore we perform user tests to create a ecologically valid setup to test our designs!
+All products should include some form of user testing, whether they are digital or not, interactive or non-interactive: as a designer, you generally know too much about the product and technology relating to your own project. You cannot simply pretend you don't know these things; that's not how your brain works, and therefore we perform user tests to create an ecologically valid setup to test our designs!
 
 **Do the full LinkedIn Learning course below and save the certificate to your github and evidence it in your learning- and worklog**
 
@@ -80,59 +78,59 @@ Booking.com's A/B testing program is supported by sophisticated machine learning
 Through its extensive use of A/B testing, Booking.com has been able to continuously optimize its website and improve its user experience. Some of the notable improvements that have resulted from A/B testing include faster page load times, more prominent [calls-to-action](https://en.wikipedia.org/wiki/Call_to_action_(marketing)), and personalized search results. Booking.com's success with A/B testing has made it a model for other businesses looking to improve their online presence and user experience.
 
 ### DataLab preparation, Excercise 2. Planning for A/B testing.
-**open your Block C Notes - Y1C_2022-23_ADSAI document, create a section called 'Planning for A/B testing' and do the following excercises.**
+**Open your Block C Notes - Y1C_2022-23_ADSAI document, create a section called 'Planning for A/B testing' and do the following excercises.**
 1. Summarize the steps that you need to conduct for A/B testing. 
-2. Open you learning log and take a look at the feedback you collected from your peers and lecturers during Datalab this week. Create an ordered list (best on on top, least valuable one at the bottom) and write down one or more iterating options for your application design. Make sure to iterate on your user stories based on the feedback. If you already incorperated all feedback received so far, just briefly write down here that you already did so and skip this step.
-3. Consider the 4 (or more) design iterations you made in proto.io in yesterday's self-study material. Which ones are of particular value do you think? Add them to the ordered  list and argue why it is or isn't the most valuable one. Then consider the iterations you made in excercise two and add those to the list, reorder the list and explain again why which one is best.
-4. Now, let's select two design you really want to compare to see which one is best. Follow the outline of the steps for A/B testing; and remember that you want the two prototype versions to only differ in 1 isolated aspect (e.g. one includes a mechanic for the user to provide feedback on the classification; user rates the output provided, the other version doesn't but is the same in all other aspects). Essentially, you will have one baseline wireframe (the one without the design change you want to test); version A, and one wireframe with the design change (a.k.a. hypothesized design improvement) you want to test; version B. 
-Selecting what to test can be difficult, but to help your selection you can consider:
-- The baseline version of your wireframe you created yesterday;
+2. Open your learning log and look at the feedback you collected from your peers and lecturers during Datalab this week. Create an **ordered** list (best on top, least valuable one at the bottom) and write down one or more iterating options for your application design. Make sure to iterate on your user stories based on the feedback. If you have already incorporated all feedback received so far, briefly write down here that you already did so and skip this step.
+3. Consider the 4 (or more) design iterations you made in proto.io in yesterday's self-study material. Which ones are of particular value, do you think? Add them to the **ordered** list and argue why it is or isn't the most valuable one. Then consider the iterations you made in exercise two and add those to the list, reorder the list and explain again which one is best.
+4. Now, let's select two designs you want to compare to see which is best. Follow the outline of the steps for A/B testing you created. Remember that you want the two prototype versions to only differ in 1 isolated aspect (e.g. one includes a mechanic for the user to provide feedback on the classification; the user rates the output provided, the other version doesn't but is the same in all other aspects). Essentially, you will have one baseline wireframe (the one without the design change you want to test); version A, and one wireframe with the design change (a.k.a. hypothesized design improvement) you want to test; version B. 
+Selecting what to test can be difficult, but to help your selection process, you can consider:
+- The baseline version of the wireframe you created yesterday;
 - the 4 (+) design iterations you created yesterday;
 - the iterations to the design you could consider based on step 2 above here (which you should implement in your wireframe then);
-- the latest; and most complete, version of your design/wireframe, implement it and either A) compare it to and earlier version, or B) come up with another potential improvement, integrate it in your wireframe and use the new wireframe for the A/B test.
-
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Want to collect data outside of the questionnaire setup or research something more specific? [Take a look at this page for more advance methods of feedback collection](https://support.proto.io/hc/en-us/articles/220363528-Getting-feedback)!
- </div>
-
-**Note down which versions you choose, how you made your selection and why you ended up choosing to test these version. Then create and ordered list and use the steps you outlined in step 1 of the excercise to create planning for you A/B test! Make sure your entire test-plan can be conducted in 6 minutes: 4 minutes for the actual user test and 2 minutes for the questionnaire!** 
-
-5. Once you've made your selection and composed your plan:
+- the latest; and most complete version of your design/wireframe, implement it and either A) compare it to an earlier version, or B) come up with another potential improvement, integrate it in your wireframe and use the new wireframe for the A/B test.
+- Want to collect data outside of the questionnaire setup or research something more specific? [Take a look at this page for more advance methods of feedback collection](https://support.proto.io/hc/en-us/articles/220363528-Getting-feedback)!
+5. **Note down which versions you chose for your A/B test, how you made your selection and why you chose to test these versions. Then create an ordered list and use the steps you outlined in step 1 of the exercise to create planning for your A/B test! Ensure your entire test plan can be conducted in 6 minutes: 4 minutes for the actual user test and 2 minutes for the questionnaire!** 
+6. Once you've made your selection and composed your plan:
 - Create a folder on Github and name it "AB_test".
-- Add your A/B Test plan by creating a Word document named "A/B Test plan" in that folder and copy-pasting you A/B test plan as created in the previous step there.
+- Add your A/B Test plan by creating a Word document named "A/B Test plan" in that folder and copy-pasting your A/B test plan as created in the previous step.
 - Create a folder named "A" and a folder named "B". 
-- Prepare both your wireframes by exporting your project in proto.io as a zipped folder (if you haven't done so already at least) and adding the baseline version to folder A and the (hypothesized) improved version to folder B. 
+- Prepare both your wireframes by exporting your project in proto.io as a zipped folder (if you haven't done so already at least) and adding the baseline version to folder A and the (hypothesized) improved version to folder B.
 
 **Check if everything works. If it does, you are almost set to start the A/B test. Only the measurement method remains, let's cover that now!**
 
 ### DataLab preparation 3. Measuring A and B using a survey:
-Remember the questionnaire you were handed in block A to collect feedback on your dashboard for Data Science? We're now going to user that software again to create our own questionnaire. 
-1. You can do it thoughrough by doing [the planning and designing a survey tutorial](https://basecamp.qualtrics.com/) or just go ahead and follow the steps below to start building your questionnaire; it's really quite intuitve: the UX of Qualtrics is (mostly) well-designed!
+Remember the questionnaire you were handed in block A to collect feedback on your dashboard for Data Science? We will now use that software again to create our own questionnaire. 
+1. You can do it thoroughly by doing [the planning and designing a survey tutorial](https://basecamp.qualtrics.com/) or just go ahead and follow the steps below to start building your questionnaire; it's really quite intuitive: the UX of Qualtrics is (mostly) well-designed!
 2. Log into and create a new project on [Qualtrics](https://buas.eu.qualtrics.com/Q/MyProjectsSection) in the 'projects' section.
-3. Go for the first option 'Survey' under the header 'From scratch'.
+3. Go for the first option, 'Survey' under the header 'From scratch'.
 4. Click on 'Get started'.
-5. Name it: "AB-test_HCAI_Version_X" and create the survey (don't use any template, just a blank project). Change the Default Question Block to a matrix table by changing the question type (under "suvery"--> "builder"). 
-6. Now, let's create some basic questions which are going to be the same questions asked to whoever tests version A or B. The same question(s) has to be the same question, otherwise we can't really compare A and B:
-- Create questionnaire matrix
-- Select 'likert' scale and allow the user 7 options, ranging from 'Completely Agree' to 'Completely Disagree' with the 4 marking 'neutral'. 
-- Add the first question: 'I understood what I could use the app for'
-- Add the second question: 'I found the application intuitive to use'
-- Add the third question: 'I thought the application was useful'
-- Add the fourth question: 'I enjoyed using the application'
+5. Name it: "AB-test_HCAI_Version_X" and create the survey (don't use any template, just a blank project). Change the Default Question Block to a matrix table by changing the question type (under "Survey"--> "Builder"). 
+6. Now, let's create some basic questions which are going to be the same questions asked to whoever tests version A or B. The same question(s) has to be the same question; otherwise we can't really compare A and B:
+- Create a questionnaire matrix
+- Select 'Likert' scale and allow the user 7 options, ranging from 'Completely Agree' to 'Completely Disagree' with the fourth marking 'neutral'. 
+- Add the first question: 'I understood what I could use the app for.'
+- Add the second question: 'I found the application intuitive to use.'
+- Add the third question: 'I thought the application was useful.'
+- Add the fourth question: 'I enjoyed using the application.'
 - Write a fift question which is specific to your core feature. 
-- If you want you can add more questions, but please don't add more then 8 as we only have 2 minute per questionnaire.
-7. Click on Preview. Test your questionnaire does it work? Does it also work in mobile mode? We're going to use our mobile phones to record the data.
-8. Open the survey to respondents by clicking on Publish and clicking Publish, name it "Target_Score", click Publish. Copy the link and open it in your browser. Fill-in the desired score you would want you wireframe to get, that's going to be our aimed design outcome; think where do your priorities lie. Doing this will also allow us to inspect the structure of your data.
-9. Go to the 'Data & Analysis' tab. Click on 'Export & Import' and then click on 'Export'. Set your export to 'use numeric values' and click on 'download'.
-10. Open the following [T-testIndependentSamplesHCAI Juypter Notebook](./Assets/T-testIndependentSamplesHCAI.ipynb), import your CSV file and follow the steps in notebook. You can use [this dataset as a B version] 
+- If you want you can add more questions, please don't add more than 8 as we only have 2 minutes per questionnaire.
+<figure>
+<center>
+    <img src="./Assets/AB-test_QualtricsExample.jpg" />
+</center>
+</figure>
+7. Click on Preview. Test your questionnaire. Does it work? Does it also work in mobile mode? We're going to use our mobile phones to record the data.
+8. Open the survey to respondents by clicking on Publish and clicking Publish, name it "Target_Score", and click Publish. Copy the link and open it in your browser. Fill in the desired score you would want your wireframe to get; that's going to be our aimed design outcome; think where your priorities lie. Doing this will also allow us to inspect the structure of your data.
+9. Go to the 'Data & Analysis tab. Click on 'Export & Import' and then click on 'Export'. Set your export to 'use numeric values' and click on 'download'.
+10. Open the following [T-testIndependentSamplesHCAI Juypter Notebook](./Assets/T-testIndependentSamplesHCAI.ipynb), import your CSV file and follow the steps in the notebook. You can use [this dataset as a B version] 
 8. Save your questionnaire as a template (maybe you want to test more after our initial test tomorrow), then create 2 exact copies of it and name them: "AB-test_HCAI_Version_A" and "AB-test_HCAI_Version_B" respectively.
-9. Distribute the questionnaires, and generate links for each respective questionnaire which you save to your "A/B Test plan" file in an appropriate location. Then, generate QR codes for version A and B and paste those in the A/B Test plan so you test subject (strickly they're called participants) can easily scan the QR code and fill in the questionnaire after they're done with the test.
+9. Distribute the questionnaires, and generate links for each respective questionnaire which you save to your "A/B Test plan" file in an appropriate location. Then, generate QR codes for versions A and B and paste those in the A/B Test plan so your test subject (strictly, they're called participants) can easily scan the QR code and fill in the questionnaire after they're done with the test.
 10. Test the QR codes by opening the questionnaires but **do not** fill them in.
 
 **Check if everything works. If it does, you are all set to start the A/B test! Good job!**
 
 ## Next up!
-Coming Datalab we will actually run our A/B test and do a statistical analysis; a T-test. Then we're going to use the results to iterate on our design and finalize it!
+Coming Datalab we will actually run our A/B test and do the statistical analysis provided in the notebook; a T-test. Then we're going to use the results to iterate on our design and finalize it!
 
 # Resources
 ## Recommend Literature:

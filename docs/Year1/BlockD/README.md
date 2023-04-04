@@ -9,9 +9,35 @@ Block D is the capstone course of the propaedeutic stage of your bachelor degree
 
 As a result, you will spend most of your time on your project.
 
-## Project Based Learning - Creative Brief
+This block will focus on the __*Deployment*__ phase of the __*CRISP-DM*__ lifecycle; you will learn how to deploy your model or application! 
 
-The municipality of Breda examined the state of segregation in Breda and the extent to which Breda's policy is effective in combating segregation in the city. There are several indications that segregation and social inequality between neighbourhoods have increased in the past 10 years. Recent research points to a further increase in social inequality in the Netherlands since the outbreak of the corona crisis. It is therefore imperative that the city of Breda combats such rising inequalities. One of the key driving factors of such segregation is Quality of Life (QoL).
+<figure>
+    <img src="./CRISP-DM_Process_Diagram.png" />
+</figure>
+
+*Figure 1. CRISP-DM Lifecycle.*
+
+## Creative Brief: Improve Breda
+The program "Verbeter Breda" (Improve Breda) works towards equal opportunities, no matter where you grow up in Breda. Within one generation, we want to achieve this. By 2040, everyone should have sufficient opportunities to create a valuable life for themselves, with a focus on housing, education, and income. Residents, schools, businesses, police, housing corporations, healthcare and welfare organizations, the municipality, and the national government work together towards a continuously better Breda.
+
+### Equal opportunities for everyone in Breda
+According to the report by the [Audit Office (in Dutch)](https://www.verbeterbreda.nl/uploads/file/104?download=1), there are 16 neighborhoods in Breda: Geeren Noord, Geeren Zuid, Biesdonk, Wisselaar, Doornbos, Linie, Tuinzigt, Schorsmolen/Fellenoord, and the intermediate areas of Haagdijken, Muizenberg, Kesteren, Brabantpark Oost (Epelenberg, Ringenbuurt/Wilderen), Heuvel, and Haagpoort. These neighborhoods bring together people from different backgrounds and cultures, where there is a strong sense of community and entrepreneurial spirit. These are places where people live with ambitions and talents, but apparently, there are also more people with fewer opportunities on average. And it's imperative to do something about that.
+
+In order to make Breda Better, the municipality came up with several cases where more insight using data could be used to create a Better Breda:
+
+| Theme: | Problem Statement: | Proposed Data: | Description : |
+| Seggregation | The municipality of Breda is facing the challenge of social segregation, which refers to the separation of different groups of people based on socioeconomic status, race, or other factors. By addressing social segregation and identifying key influencing factors, the municipality of Breda can promote a more inclusive and cohesive community that benefits all residents. | --- | --- |
+| Green-index | Municipality Breda wants to become more sustainable and green; a city within a forest. To achieve this goal, they have developed the green index of Breda. The municipality now requires the green index for the entire city and a better understanding of the factors that contribute to a given green index score. | --- | --- |
+| Safety | Ensuring the safety, both real and perceived, of the citizens is crucial for maintaining a high quality of life in the municipality of Breda. However, the municipality faces challenges in defining and measuring perceived safety, as well as identifying the factors that influence it. Additionally, the municipality needs to determine the appropriate allocation of resources to address upcoming safety concerns. | --- | --- |
+| Public Nuissance | To maintain its appeal for a diverse population, Breda must address and minimize public nuisance. However, the municipality faces difficulties in defining public nuisance, understanding its impact on quality of life, and attracting new residents. Furthermore, accurately predicting the necessary number of BOAs (enforcement officers) to prevent public nuisance is a crucial challenge for the municipality. | --- | --- |
+| Pandemic Consequences | The COVID-19 pandemic has had a profound and far-reaching impact on the municipality of Breda, both in the short and long term. To fully understand the implications of the pandemic, it is essential to examine the differences in various aspects of life before, during, and after the pandemic. It is essential to understand how these changes have affected the municipality of Breda and to develop strategies to mitigate any negative effects and build a more resilient future. | --- | --- |
+| Quality of Life | VerbeterBreda aims to improve the quality of lifea nd well-being(QoL)of its inhabitants. Currently QoL places more emphasis on socio-economic indicators. However, climate change affects QoL and its influence is becoming stronger. To this end, it becomes important to understand the effect of weather and environmental variables on QoL in Breda. | --- | --- |
+| City Bussle | The measurement of congestion and city bustle in the municipality of Breda is currently based on the number of people moving in and out of the city center. This city bustle can have a significant impact on the overall liveability and attractiveness of the city center, particularly in regards to parking availability and ease of access for visitors. Reducing congestion and city bustle can improve the liveability and attractiveness of its city center, making it a more desirable destination for visitors and residents alike. | --- | --- |
+| --- | --- | --- | --- |
+
+
+
+<!---Therefore, the municipality of Breda examined the state of segregation in Breda and the extent to which Breda's policy is effective in combating segregation in the city. There are several indications that segregation and social inequality between neighbourhoods have increased in the past 10 years. Recent research points to a further increase in social inequality in the Netherlands since the outbreak of the corona crisis. It is therefore imperative that the city of Breda combats such rising inequalities. One of the key driving factors of such segregation is Quality of Life (QoL).
 
  QoL is traditionally defined by two components:
 
@@ -19,8 +45,9 @@ The municipality of Breda examined the state of segregation in Breda and the ext
 2. Environmental quality indicators.
 
 Socio-economic indicators include features such as house prices, perception of neighbourhood safety, migration patterns etc. and environmental quality indicators such as noise levels, CO2 levels etc. Traditionally, experts were used to identify key features which could predict QoL accurately and thus help combat neighbourhood segregation – this involved hand-picking features which were hypothesized to be a key determinant of QoL and using those features to help minimize neighbourhood segregation.
+-->
 
-**Your creative brief for this block expects you to use the skills and knowledge you have gained over the course of this year to build a tool for the City of Breda to help combat rising segregation in a completely data-driven manner**. This could be for example, a dashboard to provide useful insights, or an AI model that helps predict QoL, or ideally, a combination of both. Once you have developed the tool, you are expected to provide recommendations to the city of Breda in terms of policy to combat neighbourhood segregation.
+**Your creative brief for this block expects you to use the skills and knowledge you have gained over the course of this year to build a tool for the City of Breda to help combat rising segregation in a completely data-driven manner**. This could be for example, a dashboard to provide useful insights, or an AI model that helps predict QoL, or ideally, a combination of both. Once you have developed and deployed the tool, you are expected to provide recommendations to the city of Breda in terms of policy to combat neighbourhood segregation.
 
 <figure>
     <img src=".\breda.PNG" />

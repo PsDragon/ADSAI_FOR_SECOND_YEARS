@@ -42,14 +42,17 @@ Your presentation skills aren't graded here; you can use the presentation as an 
 Stuck?
 
 Often people find it difficult to judge what to include when presenting their design; even when given such explicit constraints as in the template. Design is a bit difficult like that because in the end all components are important to create a holistic whole; a product with a coherent UX & function. However, a good rule of thumb for this is to focus on only the interaction which is directly needed to realize the value which is fundamental to the use case; or functionality of the app. 
+</div>
 
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Stuck?
 If you still have difficulty pinning that down after using that lens; envision a good and a bad scenario for you end-user and then focus on the app functionality used in that scenario. E.g. your persona uses the app and A) all works as inteded, and B) things go wrong; but the apps helps the user recover and learns from the mistake (helped by the user).
  </div>
 
 ### Presentation tips
 If you want more tips on how to make the presentation look great with respect to showcasing your application design, then [here's a guide which picks walkthroughs and products tours apart instead](https://www.appcues.com/blog/product-tours-walkthroughs-ultimate-guide). You can find many more usefull tips and techniques if you google something like 'how to do a UX walkthrough' or 'how to do a product tour'.
 
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #faebcc; border-color: #fcf8e3;">
 Want to record a demo of your wireframe prototype instead? Recording a walkthrough of your wireframe prototype can be easily done by setting up a Microsoft teams meeting for you alone, where you then share your screen and record it. Of course, it's automatically evidence then as well; good stuff! Alternatively, for Windows OS you can also use the Microsoft game bar: press "Windows Key + G" and record your prototype.
  </div>
 

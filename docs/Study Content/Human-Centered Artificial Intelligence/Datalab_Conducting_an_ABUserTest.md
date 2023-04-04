@@ -3,7 +3,7 @@ sort: 7
 ---
 
 # Datalab: Introduction to A/B-Testing
-During the self-study days, we designed an A/B test that we could use to compare our two different wireframe prototypes. So, today we're going to conduct our A/B-test in class, and then we will do a statistical test to see whether our improved version is a significant improvement or not! Then, depending on the outcome and your goal, we will iterate on our wireframe prototype based on the collected feedback, finalize our design, or do another A/B test.
+During the self-study days, we designed an A/B test that we could use to compare our two different wireframe prototypes (A & B). So, today we're going to conduct our A/B-test in class, and then we will do a statistical test to see whether our improved version is a significant improvement or not! Then, depending on the outcome and your goal, we will iterate on our wireframe prototype based on the collected feedback, finalize our design, or do another A/B test.
 
 ## Learning Objectives:
 After this module, you'll:
@@ -35,7 +35,7 @@ Good luck!
 
 
 ## 1) A/B Testing your wireframe prototypes
-Yesterday, you have worked on setting up your A/B test by preparing two wireframe prototypes for the experiment and by building a survey for you to use to collect data. If you've done all preparation, you should have the following prepared:
+Yesterday, you have worked on setting up your A/B test by preparing two wireframe prototypes for the experiment and by building a survey to use to collect data. If you've done all preparation, you should have the following prepared:
 - a test plan to conduct the A/B Test;
 - wireframe prototypes: Version A & B;
 - surveys: version A & B (didn't manage to prepare this in time? Message on Teams Bram);
@@ -55,7 +55,7 @@ The schedule is going to be:
 | 14:15 - 15:15 | Mentor Group ASW | Mentor Group BLR | Mentor Group BHU | Mentor Group HEI/KOZ |
 | 16:00 - 17:00 | any willing | any willing | any willing | any willing |
 
-So, let's setup our A/B tests as described in our test-plan if you are up for being an experimentor! If you are a participant, get out your phone so you can fill in the questionnaires of your peers. 
+So, let's setup our A/B tests as described in our test-plan if it's your turn to be an experimentor! If you are a participant, get out your phone so you can fill in the questionnaires of your peers. 
 
 **For the last round, we're just going to allow whoever is eager to run another test to do so. There's a 45 minute break so you can make some potential quick changes to your wireframe.**
 
@@ -71,7 +71,7 @@ So, let's setup our A/B tests as described in our test-plan if you are up for be
 ## 3) Done?
 Done with the analysis and time left? You can now either:
 - Based on the feedback you collected today, Iterate on your wireframe prototype or the design as recorded in the project proposal presentation.
-- Set up another A/B - test; for this, you would create a 'C' version which slightly iterates on your 'B' version (e.g. one simple hypothesized improvement).
+- Set up another A/B - test; for this, you would create a 'C' version which slightly iterates on your 'B' version (e.g. one simple hypothesized improvement). Then you export your wireframe or share it as interactable prototype and run the test again using the same questionnaire.
 
 
 ## Up Next!

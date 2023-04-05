@@ -148,10 +148,22 @@ Make sure to be at the Datalab at 9:00 AM! We're going to the municipality toget
 ## Friday
 [**HOLIDAY**]
 
-# Week 3: Project work & the Weather stations
+# Week 3: Data Management and Analysis with PostgreSQL and Python
 
 ## Monday
-[DataLab: Build your own weather stations](../../Study%20Content/Geospatial%20Analytics/WeatherStationWorkshop.html)
+- [Databases, Data Definition Language (DDL) clauses I & Data Manipulation Language (DML) clauses](../../Study%20Content/Business%20Intelligence/DataArchitecturePipelineDesign_2022_2023.html)
+
+## Tuesday
+- [Data Query Language (DQL) clauses](../../Study%20Content/Business%20Intelligence/SQL_DQL_2022_2023.html)
+
+## Wednesday
+- [DataLab: Creative Brief](../../Study%20Content/Business%20Intelligence/UseCases.html)
+
+## Thursday
+- [Data Definition Language (DDL) clauses II & Python](../../Study%20Content/Business%20Intelligence/SQL_DDL2_2022_2023.html)
+
+## Friday
+- [DataLab: Creative Brief](../../Study%20Content/Business%20Intelligence/UseCases.html)
 
 ## The rest of the block is dedicated to project work.
 

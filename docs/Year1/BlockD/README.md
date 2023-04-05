@@ -167,17 +167,25 @@ Make sure to be at the Datalab at 9:00 AM! We're going to the municipality toget
 
 ## The rest of the block is dedicated to project work.
 
-
-
 **Every Tuesday and Friday,
 in the datalab you will be provided feedback on your (teams)
 progress using the Jira dashboard, and in addition, every Friday you are expected to review your sprint, do a sprint retrospective and plan a
 new sprint.**
 
-__Useful Resources:__
+__Knowledge Modules:__
 
-[Geospatial analytics](../../Study%20Content/Geospatial%20Analytics/GeospatialAnalytics1.html)
+Below, you will find some additional knowledge modules on various topics, such as MLOps and  geospatial analytics. You are not required to complete these modules, but they will help to broaden your knowledge and understanding, which in turn will help you to succeed in your project.
 
-[Time series](../../Study%20Content/Time%20Series/TimeSeries1.html)
+- MLOps 
+    - [Virtual environments & Package management with Python](../../Study%20Content/MLOps/VirtualEnvironmentPackageManagement.html)
+    - [Production-Level code with Python](../../Study%20Content/MLOps/CodeFormatting.html)
+    - [Documenting for Python](../../Study%20Content/MLOps/Documenting.html)
+    - [Testing with Python](../../Study%20Content/MLOps/Testing.html)
+    - [Continuous Integration with Python](../../Study%20Content/MLOps/ContinuousIntegration.html)
+    - [Deployment with Python](../../Study%20Content/MLOps/Deployment.html)
 
-[Sociology](../../Study%20Content/Sociology/Sociology1.html)
+- [Sociology](../../Study%20Content/Sociology/Sociology1.html)
+
+- [Geospatial analytics](../../Study%20Content/Geospatial%20Analytics/GeospatialAnalytics1.html)
+
+- [Time series](../../Study%20Content/Time%20Series/TimeSeries1.html)

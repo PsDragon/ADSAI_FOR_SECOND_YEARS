@@ -165,7 +165,7 @@ This function returns a list of values formatted as follows: ```[Predictive Equa
 
 ## Use-case 5: Write Python function; group fairness taxonomy 
 
-To solve this use-case, you will need to convert AXA's Fairness Compass into an Python function, and subsequently test this function through writing and running a unit test. Below, you can find the steps to complete this use-case:
+To solve this use-case, you will need to convert AXA's Fairness Compass into an Python function. Below, you can find the steps to complete this use-case:
 
 1. Take a closer look at AXA's [The Fairness Compass](https://goo.su/7o1YWGj). For example, think about the arguments you need to pass to the function (i.e., <span style="color:green">decision nodes</span>), and the output of the function (i.e., <span style="color:red">final decision nodes, which are the group fairness metrics you set up for Use-case 4</span>). See image below:
 
@@ -200,8 +200,6 @@ To solve this use-case, you will need to convert AXA's Fairness Compass into an 
 :bell: A diamond-shaped node, known as a decision node, indicates a point in a process where a choice must be made. Following the path from the decision node will eventually lead to a final node, which represents the final result of the decision path, i.e, - a particular metric for group fairness. To receive additional information (e.g., data task examples) about the decision path, you can click on the nodes: 
 
 ![The Fairness Compass nodes](./images/FairnessNodes.gif)
-
-17. Test your group fairness function by writing a unit test with the Python package ```pytest```. 
 
 ***
 

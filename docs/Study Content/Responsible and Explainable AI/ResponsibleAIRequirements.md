@@ -40,8 +40,7 @@ In order to solve the Creative Brief, you are expected to adhere to the followin
 
 - A Jupyter notebook, named ```[student number]_responsible_ai.ipynb```, containing relevant Python code snippets and written explanations. You can find the file in your personal BUAs GitHub repository. 
 - A completed ```calculate_metrics.py``` file, which is provided in your personal BUAs GitHub repository. 
-- A Python script containing the unit test for the group fairness taxonomy function, as is specified in use-case 5. 
 
-__The Jupyter notebook, and the aforementioned Python scripts are to be uploaded to GitHub no later than 5pm on last DataLab day.__
+__The Jupyter notebook, and the aforementioned Python script are to be uploaded to GitHub no later than 5pm on last DataLab day.__
 
 ***

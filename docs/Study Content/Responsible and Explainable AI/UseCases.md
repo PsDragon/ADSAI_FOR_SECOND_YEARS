@@ -144,7 +144,6 @@ __To solve this use-case, you will need to:__
 - [ ] Train a binary classification model on the dataset. 
 - [ ] Evaluate the binary classification model's fairness on a group level by writing a Python function for the group fairness taxonomy, based on AXA's Fairness Compass.
 - [ ] Elaborate on your approach, the choices you made, and results of the fairness evaluation (e.g., determination of suitable group fairness metric, outcome of group fairness metric calculation, etc.). Use the ```[student number]_responsible_ai.ipynb``` file, which is provided in your personal BUAs GitHub repository.
-- [ ] Test your group fairness function by writing a unit test with the Python package ```pytest```.
 
 For more information on how to create the group fairness taxonomy function, click [here](https://adsai.buas.nl/Study%20Content/Responsible%20and%20Explainable%20AI/UseCasesDetailed.html). 
 
@@ -162,11 +161,11 @@ If you have come this far, you have now completed the Creative Brief section for
 
 ## Deliverables
 
-If you are done with the use-cases, you can move on to documentation, ensure that you have saved and committed all your work to Github. Documentation is a very important part of the project, and you will need to ensure that you have a project proposal presentation, a Python script called ```calculate_metrics.py```, a Jupyter Notebook called ```[student number]_responsible_ai.ipynb```, and a Python script containing the unit test for the group fairness taxonomy function, as is specified in use-case 5. 
+If you are done with the use-cases, you can move on to documentation, ensure that you have saved and committed all your work to Github. Documentation is a very important part of the project, and you will need to ensure that you have a project proposal presentation, a Python script called ```calculate_metrics.py```, and a Jupyter Notebook called ```[student number]_responsible_ai.ipynb```.
 
 :bell: Please, rename the notebook by adding your student number, - e.g., ```12345678_responsible_ai.ipynb```. 
 
-Start to work on the Responsible AI use-cases as soon as possible. Do not wait until Week 8 to start with your project proposal presentation, Python scripts, or Jupyter Notebook. You will need to work on the deliverables in stages.
+Start to work on the Responsible AI use-cases as soon as possible. Do not wait until Week 8 to start with your project proposal presentation, Python script, or Jupyter Notebook. You will need to work on the deliverables in stages.
 
 ## Plagiarism
 

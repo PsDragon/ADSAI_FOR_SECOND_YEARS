@@ -63,21 +63,36 @@ Please use the following datasets to help you solve the creative brief. You will
 
 | Dataset: | Publisher: | Measurement level: | Description : |
 | --- | --- | --- | --- |
-| Statistische gegevens per vierkant en postcode 2020-2019-2018 | CBS/SN | Grid | Annual publication of demographics, housing, energy, social security, density, and proximity of facilities to  low-regional division into grids and postal code, 2015 and beyond |
-| Green index | Municipality of Breda | Grid | Score indicating the degree of greenery on a grid level |
-| Heat stress index | Municipality of Breda | Grid | Score indicating the level of heat stress on a grid level |
-| Livability index | Municipality of Breda | Grid | Score indicating the livability on a grid level |
-| Move house | Municipality of Breda | Grid | The number of households moving from Breda to another location (within or outside the municipality) |
-| Survey Data | Municipality of Breda | Neighbourhood | Survey regarding social capital and neighborhood participation |
-| Klimaateffectatlas | Klimaateffectatlas | Various | A collection of datasets illustrating the effects of climate change on people and their living environment |
-
-You can find all the datasets, except for the [Klimaateffectatlas](https://www.klimaateffectatlas.nl/en/), [here](https://edubuas-my.sharepoint.com/:f:/g/personal/blerck_i_buas_nl/EsTq18u6_kpAmo3O8YfXbcwB7VPo0iGMUGw55O0uItuaog?e=sqvTso).
+| [General Statistical Data]() | CBS/SN | Grid/Neighboorhood/Borough | Annual publication of sociological data of the Central Bureau of Statistics of the Netherlands. Contains demographics, housing, energy, social security, density, and proximity of facilities to  low-regional division into grids and postal code, 2015 and beyond |
+| [Green index]() | Municipality of Breda | Grid | Score indicating the degree of greenery on a grid level |
+| [Heat stress index]() | Municipality of Breda | Grid | Score indicating the level of heat stress on a grid level |
+| [Livability index]() | Municipality of Breda | Grid | Score indicating the livability on a grid level |
+| [Move house]() | Municipality of Breda | Grid | The number of households moving from Breda to another location (within or outside the municipality) |
+| [Buurt enquête]() | Municipality of Breda | Neighbourhood | Survey regarding social capital and neighborhood participation |
+| [Klimaateffectatlas](https://www.klimaateffectatlas.nl/en/) | Klimaateffectatlas | Various | A collection of datasets illustrating the effects of climate change on people and their living environment |
+| [POI](https://www.arcgis.com/home/item.html?id=90830abcc0a54b04a968c451e4122341) | Esri Nederland | Grid | This dataset contains interesting points, lines and areas from OpenStreetMap in the Netherlands. These locations have a specific function and have been designated by us as Points of Interest. This is a collection of interesting locations that are also available as separate layers:
+Eat Drink
+healthcare
+Leisure & Tourism
+Traffic and transport
+Stores
+Public services
+Amenities and facilities
+Points of Interest (combined layer)  |
+| [Police]() | xyz | xyz | xyz |
+| [RIVM]() | xyz | xyz | xyz |
+| [Rijkswaterstaat]() | xyz | xyz | xyz |
+| [xyz]() | Oplaadpunten | xyz | xyz |
+| [xyz]() | Mobility | xyz | xyz |
+| [City-Control Breda]() | Municipality of Breda | xyz | xyz |
+| [Stads enquête]()  | Municipality of Breda | xyz | xyz |
+Ask your mentor for any questions regarding the datasets, if they can't help you we'll relay your question to the relevant contact person at the municipality.
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Note: When you want to use a dataset, make a copy, and save it to your local device. Do not change the original datasets in the shared OneDrive directory!
 </div>
 
-> Please refer to the [project brief](https://edubuas.sharepoint.com/:w:/t/2021-22DFGA1.P4ADSAI/EfWuvBXhTEZDjrXp1QB8z_wB9DoVGHl2NBiaRyodoYYx1w?e=KnCnXZ) for more detailed information.
+
 
 ### Team-based working - Agile Scrum
 

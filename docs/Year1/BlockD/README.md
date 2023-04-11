@@ -52,6 +52,7 @@ Socio-economic indicators include features such as house prices, perception of n
     <img src=".\breda.PNG" />
 </figure>
 <br>
+*Figure 2. An overview of the municipality of Breda.*
 
 In addition, you are expected to ensure that your solution complies to the
 latest legal and ethical frameworks. Introductory workshops will be provided on this subject.
@@ -108,6 +109,18 @@ Please watch the following video to get a brief introduction to scrum as a agile
 <!-- blank line -->
 
 # Block Outline
+
+## Project Timeline
+
+This project aims to adress one of the problem statements corresponding to the [themes]() Breda Municipality wants to adress. Below, you will find the project timeline, which gives you an overview of the tasks related to the different project phases: 
+
+<figure>
+<center>
+    <img src="./images/Y1D Timeline.jpg" />
+</center>
+</figure>
+
+*Figure 3. Project timeline.*
 
 # Week 1 : Agile project Management
 

@@ -167,7 +167,7 @@ Make sure to be at the Datalab at 9:00 AM! We're going to the municipality toget
 ## Friday
 [**HOLIDAY**]
 
-# Week 3: Data Management and Analysis with PostgreSQL and Python
+# Week 2: Data Management and Analysis with PostgreSQL and Python
 
 ## Monday
 - [Databases, Data Definition Language (DDL) clauses I & Data Manipulation Language (DML) clauses](../../Study%20Content/Business%20Intelligence/DataArchitecturePipelineDesign_2022_2023.html)

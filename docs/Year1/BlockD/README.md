@@ -12,7 +12,7 @@ As a result, you will spend most of your time on your project.
 This block will focus on the __*Deployment*__ phase of the __*CRISP-DM*__ lifecycle; you will learn how to deploy your model or application! 
 
 <figure>
-    <img src="./CRISP-DM_Process_Diagram.png" />
+    <img src=".\assets\CRISP-DM_Process_Diagram.png" />
 </figure>
 
 *Figure 1. CRISP-DM Lifecycle.*
@@ -49,7 +49,7 @@ Socio-economic indicators include features such as house prices, perception of n
 **Your creative brief for this block expects you to use the skills and knowledge you have gained over the course of this year to build a tool for the City of Breda to help combat rising segregation in a completely data-driven manner**. This could be for example, a dashboard to provide useful insights, or an AI model that helps predict QoL, or ideally, a combination of both. Once you have developed and deployed the tool, you are expected to provide recommendations to the city of Breda in terms of policy to combat neighbourhood segregation.
 
 <figure>
-    <img src=".\breda.PNG" />
+    <img src=".\assets\breda.PNG" />
 </figure>
 <br>
 *Figure 2. An overview of the municipality of Breda.*
@@ -71,14 +71,14 @@ Please use the following datasets to help you solve the creative brief. You will
 | [Move house]() | Municipality of Breda | Grid | The number of households moving from Breda to another location (within or outside the municipality) |
 | [Buurt enquête]() | Municipality of Breda | Neighbourhood | Survey regarding social capital and neighborhood participation |
 | [Klimaateffectatlas](https://www.klimaateffectatlas.nl/en/) | Klimaateffectatlas | Various | A collection of datasets illustrating the effects of climate change on people and their living environment |
-| [POI](https://www.arcgis.com/home/item.html?id=90830abcc0a54b04a968c451e4122341) | Esri Nederland | Grid | This dataset contains interesting points, lines and areas from OpenStreetMap in the Netherlands. These locations have a specific function and have been designated by us as Points of Interest. |
+| [POI](https://www.arcgis.com/home/item.html?id=90830abcc0a54b04a968c451e4122341) | Esri Nederland | Grid | OpenStreetMap dataset of the Netherlands. These locations have a specific function by the Municipality have been designated as Points of Interest. |
 | [Police]() | xyz | xyz | xyz |
 | [RIVM]() | xyz | xyz | xyz |
 | [Rijkswaterstaat]() | xyz | xyz | xyz |
 | [xyz]() | Oplaadpunten | xyz | xyz |
 | [xyz]() | Mobility | xyz | xyz |
 | [City-Control Breda]() | Municipality of Breda | xyz | xyz |
-| [Stads enquête]()  | Municipality of Breda | xyz | xyz |
+| [Stads enquête]() | Municipality of Breda | xyz | xyz |
 Ask your mentor for any questions regarding the datasets, if they can't help you we'll relay your question to the relevant contact person at the municipality.
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
@@ -116,13 +116,63 @@ This project aims to adress one of the problem statements corresponding to the [
 
 <figure>
 <center>
-    <img src="./images/Y1D Timeline.jpg" />
+    <img src=".\assets\Y1D Timeline.jpg" />
 </center>
 </figure>
 
 *Figure 3. Project timeline.*
 
-# Week 1 : Agile project Management
+
+# Week 1: Legal frameworks governing AI
+
+## Monday
+[Introduction to the European Union Law-Making Process](../../Study%20Content/Digital%20Transformation/Legal%201.html)
+
+## Tuesday
+[DataLab: Implementing AI law in practice](../../Study%20Content/Digital%20Transformation/DataLab,%20Legal%201.html)
+[When GDPR meets AI](../../Study%20Content/Digital%20Transformation/Legal%203.html)
+
+## Wednesday
+[The Proposed Artificial Intelligence Act](../../Study%20Content/Digital%20Transformation/Legal%202.html)
+
+## Thursday
+[**HOLIDAY**](https://youtu.be/5wdjwp-rB7E)
+
+## Friday - WORK-AT-HOME
+- [ ] Today, we're going to spend reading the creative brief so we know what to do. Reading is considered hard work by many, sustaining concentration is no small feat. So let's take today to read the creative brief completely. Good news: it's the page you're on! Scroll to the top and read thoroughly untill you reach the bottom. If you have any questions, post them in the Q&A channel.
+- [ ] Don't think that we haven't noticed that you didn't read the brief entirely. Come now, read it!
+- [ ] Good. Now, that we have read the creative brief, we're going to [download the following template](".\assets\Y1D Timeline.jpg"). Name it FirstnameLastname_ProjectProposals. This is the powerpoint presentation which you're going to use to present your project proposals to your team Wednesday morning. Cool, now pick one of the themes, choose 3 of the provided problem statements and write down in less than a 100 words these problem statements interested you using the slides. If you have trouble choosing, you can make a table with the different qualities and rank/rate you arguments, e.g.
+**Bram's Project Ranking Table of Greater Dexterity**
+| Quality\Theme | Theme 1 | Theme 2 | Theme 3 |
+| --- | --- | --- | --- |
+| Interest | medium | high | high |
+| Difficulty | easy | normal | hard |
+| Notes | I see an easy way to create a valuable solution | cool and feasible | Would be so cool, but maybe too big of a project |
+| Awesomeness | 3 | 6 | 9 |
+
+- [ ] [Setup your Environment]()
+
+[**HOLIDAY**]()
+
+# Week 2: Data Management and Analysis with PostgreSQL and Python
+
+## Monday
+- [Databases, Data Definition Language (DDL) clauses I & Data Manipulation Language (DML) clauses](../../Study%20Content/Business%20Intelligence/DataArchitecturePipelineDesign_2022_2023.html)
+
+## Tuesday
+- [Data Query Language (DQL) clauses](../../Study%20Content/Business%20Intelligence/SQL_DQL_2022_2023.html)
+
+## Wednesday
+- [DataLab: Creative Brief](../../Study%20Content/Business%20Intelligence/UseCases.html)
+
+## Thursday
+- [Data Definition Language (DDL) clauses II & Python](../../Study%20Content/Business%20Intelligence/SQL_DDL2_2022_2023.html)
+
+## Friday
+- [DataLab: Creative Brief](../../Study%20Content/Business%20Intelligence/UseCases.html)
+
+
+# Week 3: Agile project Management
 
 ## Monday
 9 AM - 10 AM: [Block D Kickoff](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTJiMDA1NjQtNzA2Ny00MDJmLTg1ZDMtNmU2OTkxMWQxYTc4%40thread.v2/0?context=%7b%22Tid%22%3a%220a33589b-0036-4fe8-a829-3ed0926af886%22%2c%22Oid%22%3a%225cef929d-ecf9-4fca-bf12-bc5ee065fc99%22%7d)
@@ -150,39 +200,6 @@ Make sure to be at the Datalab at 9:00 AM! We're going to the municipality toget
 ## Friday
 [DataLab: Project vision and roadmap - Creative Brief](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/5.%20DataLab%202%20Scrum.html)
 
-# Week 2 : Legal frameworks governing AI
-
-## Monday
-[Introduction to the European Union Law-Making Process](../../Study%20Content/Digital%20Transformation/Legal%201.html)
-
-## Tuesday
-[DataLab: Implementing AI law in practice](../../Study%20Content/Digital%20Transformation/DataLab,%20Legal%201.html)
-
-## Wednesday
-[The Proposed Artificial Intelligence Act](../../Study%20Content/Digital%20Transformation/Legal%202.html)
-
-## Thursday
-[When GDPR meets AI](../../Study%20Content/Digital%20Transformation/Legal%203.html)
-
-## Friday
-[**HOLIDAY**]
-
-# Week 2: Data Management and Analysis with PostgreSQL and Python
-
-## Monday
-- [Databases, Data Definition Language (DDL) clauses I & Data Manipulation Language (DML) clauses](../../Study%20Content/Business%20Intelligence/DataArchitecturePipelineDesign_2022_2023.html)
-
-## Tuesday
-- [Data Query Language (DQL) clauses](../../Study%20Content/Business%20Intelligence/SQL_DQL_2022_2023.html)
-
-## Wednesday
-- [DataLab: Creative Brief](../../Study%20Content/Business%20Intelligence/UseCases.html)
-
-## Thursday
-- [Data Definition Language (DDL) clauses II & Python](../../Study%20Content/Business%20Intelligence/SQL_DDL2_2022_2023.html)
-
-## Friday
-- [DataLab: Creative Brief](../../Study%20Content/Business%20Intelligence/UseCases.html)
 
 ## The rest of the block is dedicated to project work.
 

@@ -7,23 +7,23 @@ Block D is the capstone course of the propaedeutic stage of your bachelor degree
 - [ ] Less emphasis is put on delivery of knowledge and skills. Self-guided learning (under supervision) is the new standard;
 - [ ] Skills training mainly consists of project management, communication and working in teams;
 
-As a result, you will spend most of your time on your project.
+As a result, you will spend most of your time on your project as a team. Before you start working in a team though, you will first have to complete you individual part consisting of an legal review, an EDA using Python and SQL, which culminates in a Project Proposal Presentation which you present on Wednesday Week 3. You will each present at least 1 project idea substantiated by your EDA and your legal review. Then, your team will pick one of the project ideas and start working them as a team from then onwards. More on that later.
 
-This block will focus on the __*Deployment*__ phase of the __*CRISP-DM*__ lifecycle; you will learn how to deploy your model or application! 
+This block will focus on the __*Deployment*__ phase of the __*CRISP-DM*__ lifecycle; you will learn how to deploy your model or application! Last block, you've learned how to justify the development of a project by creating a project proposal which you backed up with a substatiated design and proof-of-concept. Now, you're going to again propose a project but based on your EDA and the specific client requirements instead. They're open, they don't really know what they want, they just want 'tools' to solve the problems. This happens more often in industry, 'we have data and we have problems, and we think the data can solve our problems but we don't know how'; difficult for us as unclarity and abstraction makes it difficult to judge what to do... However, these situation do give us more agency and creativity to solve a problem so let's get started **creating something we can deploy!**
 
 <figure>
     <img src=".\assets\CRISP-DM_Process_Diagram.png" />
 </figure>
 
-*Figure 1. CRISP-DM Lifecycle.*
+*Figure 1. CRISP-DM Lifecycle. Note how the Deployment phase isn't highlighted because I didn't had time to do graphical design yet. I'm not an illustrator.*
 
 ## Creative Brief: Improve Breda
-The program "Verbeter Breda" (Improve Breda) works towards equal opportunities, no matter where you grow up in Breda. Within one generation, we want to achieve this. By 2040, everyone should have sufficient opportunities to create a valuable life for themselves, with a focus on housing, education, and income. Residents, schools, businesses, police, housing corporations, healthcare and welfare organizations, the municipality, and the national government work together towards a continuously better Breda.
+*'The program "Verbeter Breda" (Improve Breda) works towards equal opportunities, no matter where you grow up in Breda. Within one generation, we want to achieve this. By 2040, everyone should have sufficient opportunities to create a valuable life for themselves, with a focus on housing, education, and income. Residents, schools, businesses, police, housing corporations, healthcare and welfare organizations, the municipality, and the national government work together towards a continuously better Breda.'* - Municipality of Breda
 
 ### Equal opportunities for everyone in Breda
 According to the report by the [Audit Office (in Dutch)](https://www.verbeterbreda.nl/uploads/file/104?download=1), there are 16 neighborhoods in Breda: Geeren Noord, Geeren Zuid, Biesdonk, Wisselaar, Doornbos, Linie, Tuinzigt, Schorsmolen/Fellenoord, and the intermediate areas of Haagdijken, Muizenberg, Kesteren, Brabantpark Oost (Epelenberg, Ringenbuurt/Wilderen), Heuvel, and Haagpoort. These neighborhoods bring together people from different backgrounds and cultures, where there is a strong sense of community and entrepreneurial spirit. These are places where people live with ambitions and talents, but apparently, there are also more people with fewer opportunities on average. And it's imperative to do something about that.
 
-In order to make Breda Better, the municipality came up with several cases where more insight using data could be used to create a Better Breda:
+In order to make Breda Better, the municipality came up with several cases where more insight using data could be used to create a Better Breda. Each case consists of a theme; for a clear context, and problem statement; to direct your problem solving:
 
 | Theme: | Problem Statement: | 
 | [Seggregation](../../Year1/BlockD/Themes/Seggration.html) | The municipality of Breda is facing the challenge of social segregation, which refers to the separation of different groups of people based on socioeconomic status, race, or other factors. By addressing social segregation and identifying key influencing factors, the municipality of Breda can promote a more inclusive and cohesive community that benefits all residents. | 
@@ -71,6 +71,9 @@ Please use the following datasets to help you solve the creative brief. You will
 | [Move house]() | Municipality of Breda | Grid | The number of households moving from Breda to another location (within or outside the municipality) |
 | [Buurt enquête]() | Municipality of Breda | Neighbourhood | Survey regarding social capital and neighborhood participation |
 | [Klimaateffectatlas](https://www.klimaateffectatlas.nl/en/) | Klimaateffectatlas | Various | A collection of datasets illustrating the effects of climate change on people and their living environment |
+
+| Dataset: | Publisher: | Measurement level: | Description : |
+| --- | --- | --- | --- |
 | [POI](https://www.arcgis.com/home/item.html?id=90830abcc0a54b04a968c451e4122341) | Esri Nederland | Grid | OpenStreetMap dataset of the Netherlands. These locations have a specific function by the Municipality have been designated as Points of Interest. |
 | [Police]() | xyz | xyz | xyz |
 | [RIVM]() | xyz | xyz | xyz |
@@ -78,7 +81,8 @@ Please use the following datasets to help you solve the creative brief. You will
 | [xyz]() | Oplaadpunten | xyz | xyz |
 | [xyz]() | Mobility | xyz | xyz |
 | [City-Control Breda]() | Municipality of Breda | xyz | xyz |
-| [Stads enquête]() | Municipality of Breda | xyz | xyz |
+| [Stads enquête]() | Municipality of Breda | xyz | xyz | 
+
 Ask your mentor for any questions regarding the datasets, if they can't help you we'll relay your question to the relevant contact person at the municipality.
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
@@ -94,11 +98,17 @@ For block D, you are expected to follow an agile project management methodology 
 The Scrum methodology is characterized by short phases called “sprints” wherein
 project work: tasks, occurs. During sprint planning, the project team identifies a
 small part of the scope; a set of tasks, to be completed during the upcoming sprint,
-which is usually a two week period of time.
+which is usually a two week period of time. But we'll stick to a 1 week sprint to match to the project timeline and give everyone a chance to become a Scrum-master:
+<figure>
+<center>
+    <img src=".\assets\Y1D Timeline.jpg" />
+</center>
+</figure>
+You will start working as a team from week 4 onwards, meaning that there will be 5 sprints and that teams may be no larger then 5 person in order to give everyone the chance to be a Scrum-master.
 
 At the end of the sprint, this work should be ready to be delivered to the
-client. Finally, the sprint ends with a sprint review and retrospective—or
-rather, lessons learned. This cycle is repeated throughout the project
+Product Owner **each Friday before 9:00**, who assesses the delivered work. That same Friday, the sprint ends with a sprint review and retrospective—or
+rather; lessons learned. This cycle is repeated throughout the project
 lifecycle until the entirety of the scope has been delivered or block D is at an end.
 
 Please watch the following video to get a brief introduction to scrum as a agile project management methodology.
@@ -126,6 +136,18 @@ This project aims to adress one of the problem statements corresponding to the [
 # Week 1: Legal frameworks governing AI
 
 ## Monday
+**9 AM - 12 AM: Block D Kickoff in Fe1.018!**
+| Time | Topic | Presentor | 
+| --- | --- | --- | 
+| 9:00 - 10:00 | Block Kick-Off and announcements | ADS&AI Staff | 
+| 10:30 | Municipality Project Brief | Municipality of Breda |
+| 11:00 | A day in the life of: Wim | Wim |
+| 11:15 | A day in the life of: Erik | Erik |
+| 11:30 | A day in the life of: Thom | Thom |
+| 11:45 | A day in the life of: Data Compliance Officer | TBD |
+
+
+From then onwards, self-study day:
 [Introduction to the European Union Law-Making Process](../../Study%20Content/Digital%20Transformation/Legal%201.html)
 
 ## Tuesday
@@ -201,17 +223,19 @@ Make sure to be at the Datalab at 9:00 AM! We're going to the municipality toget
 [DataLab: Project vision and roadmap - Creative Brief](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/5.%20DataLab%202%20Scrum.html)
 
 
+
 ## The rest of the block is dedicated to project work.
 
-**Every Tuesday and Friday,
+**Every Wednesday and Friday,
 in the datalab you will be provided feedback on your (teams)
-progress using the Jira dashboard, and in addition, every Friday you are expected to review your sprint, do a sprint retrospective and plan a
+progress using the Trello board, and in addition, every Friday you are expected to review your sprint, do a sprint retrospective and plan a
 new sprint.**
 
-__Knowledge Modules:__
+## Knowledge Modules:
 
-Below, you will find some additional knowledge modules on various topics, such as MLOps and  geospatial analytics. You are not required to complete these modules, but they will help to broaden your knowledge and understanding, which in turn will help you to succeed in your project.
+Below, you will find some additional knowledge modules on various topics, such as MLOps and  geospatial analytics. The mandatory knowledge modules are required for the deployment ILO, and are therefore mandatory to include in the project planning as to be completed sometime before the end of the project. The optional knowledge modules are not required, but they will help to broaden your knowledge and understanding, which in turn will help you to succeed in your project.
 
+### Mandatory
 - MLOps 
     - [Virtual environments & Package management with Python](../../Study%20Content/MLOps/VirtualEnvironmentPackageManagement.html)
     - [Production-Level code with Python](../../Study%20Content/MLOps/CodeFormatting.html)
@@ -220,6 +244,7 @@ Below, you will find some additional knowledge modules on various topics, such a
     - [Continuous Integration with Python](../../Study%20Content/MLOps/ContinuousIntegration.html)
     - [Deployment with Python](../../Study%20Content/MLOps/Deployment.html)
 
+### Optional
 - [Sociology](../../Study%20Content/Sociology/Sociology1.html)
 
 - [Geospatial analytics](../../Study%20Content/Geospatial%20Analytics/GeospatialAnalytics1.html)

@@ -171,8 +171,7 @@ From then onwards, self-study day:
 | Difficulty | easy | normal | hard |
 | Notes | I see an easy way to create a valuable solution | cool and feasible | Would be so cool, but maybe too big of a project |
 | Awesomeness | 3 | 6 | 9 |
-
-- [ ] [Setup your Environment]()
+- [ ] [Virtual environments & Package management with Python](../../Study%20Content/MLOps/VirtualEnvironmentPackageManagement.html)
 
 [**HOLIDAY**]()
 
@@ -225,11 +224,12 @@ Make sure to be at the Datalab at 9:00 AM! We're going to the municipality toget
 
 
 ## The rest of the block is dedicated to project work.
+**Every self-study day your team will start with a stand-up at the start of the day which will be hosted in microsoft teams (which you will evidence for that day in your learning log). Then you will start your project work
 
-**Every Wednesday and Friday,
-in the datalab you will be provided feedback on your (teams)
-progress using the Trello board, and in addition, every Friday you are expected to review your sprint, do a sprint retrospective and plan a
-new sprint.**
+**Every Wednesday and Friday, you will meet in the datalabs for project work at 9:00. If you are later then 9:15, you will start by singing [the scrum anthem](https://youtu.be/gRWBw_p6-kQ) in the specially assigned Karaoke Room (Fe3.029) instead. 
+- On Wednesday you will simply do a stand-up and work on your project. Additionally, you will have a individual feedback session eveery other week.
+- On Friday you will **fill in the peer-review form for that week** which you will then use to provide to your team with feedback during the sprint review and sprint retrospective. Meaning that you will need to have your peer-review form filled in before starting the sprint review. You will then plan a
+new sprint using sprint planning poker.**
 
 ## Knowledge Modules:
 

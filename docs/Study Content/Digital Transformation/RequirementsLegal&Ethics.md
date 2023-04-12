@@ -26,9 +26,9 @@ __Requirements:__
 
 - The reasoning for not including certain legal and ethical aspects in the checklist is justified;
 
-- The checklist needs to be filled in. 
+- The checklist needs to be filled in;
 
-- Provide evidence and explanations behind ethical and legal decision making in the context of the given project.  
+- Provides evidence and explanations of legal and ethical decision-making for aspects within the checklist (if possible).  
 
 __Deliverable(s):__
 
@@ -40,5 +40,5 @@ The final report should be uploaded to GitHub no later than 5 pm on the last Dat
 
 *De Ethische Data Assistent (DEDA).* (2017). Utrecht Data School. https://dataschool.nl/deda/
 
-European Commission. (2021, December 20). https://ec.europa.eu/newsroom/dae/document.cfm?doc_id=68342
+European Commission (2021, December 20). https://ec.europa.eu/newsroom/dae/document.cfm?doc_id=68342
 

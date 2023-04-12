@@ -39,7 +39,17 @@ __After this chapter, you will be able to:__
 
 ### 2. Refactoring 
 
-Code refactoring refers to the process of restructuring existing computer code *without changing its external behavior* to ensure that the code is clean before you ship it to production. Refactoring is intended to improve the design, structure, and/or implementation of the existing code to make it more readable and easier to understand. Refactoring is a key part of the software development process, and it is often done in conjunction with code review.
+Code refactoring refers to the process of restructuring existing computer code *without changing its external behavior* to ensure that the code is clean before you ship it to production. Please watch this video to learn more about code refactoring:
+
+<!-- blank line -->
+<figure class="video_container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D4auWwMsEnY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
+
+You learned about the concept of technical debt, refactoring is intended to reduce this debt by improving the design, structure, and/or implementation of the existing code to make it more readable and easier to understand. Refactoring is a key part of the software development process, and it is often done in conjunction with code review.
+
+:bell: Code review is a process in which one or more people check a piece of code for errors before it is integrated into the codebase. It is a critical step in the software development process, as it helps to ensure that the code is of high quality and meets the requirements of the project.
 
 __Why refactor code?__
 
@@ -58,7 +68,7 @@ __How to refactor code?__
 - __Refactor code manually:__ You can refactor code manually by changing the code yourself. This is the most common way to refactor code.
 - __Use an automated refactoring tool:__ You can also use an automated refactoring tool to refactor code. For example, you can use an automated refactoring tool is VS Code [clicky](https://code.visualstudio.com/docs/editor/refactoring).
 
-:warning: Refactoring code is a time-consuming process. Therefore, it is important to make sure that you have a good understanding of the code before you start refactoring it.
+:warning: Refactoring existing code is a time-consuming process. Therefore, it is important to make sure that you have a good understanding of the code before you start refactoring it.
 
 Here's an example of a piece of code that needs to be refactored:
 
@@ -75,20 +85,21 @@ The code above is not very readable. It is difficult to understand what the code
 
 ```python
 
-def get_data(path):
+def get_data(path, cols_to_drop):
     # Get data from the web
     data = pd.read_csv(path)
     # Drop columns
-    data = data.drop(['Name'], axis=1)
+    data = data.drop(cols_to_drop, axis=1)
     # Return data
     return data
 
 PATH = 'https://raw.githubusercontent.com/dataprofessor/data/master/delaney_solubility_with_descriptors.csv'
-df = get_data(PATH)
+cols_to_drop = ['Name']
+df = get_data(PATH, cols_to_drop)
 
 ```
 
-The refactored code is much easier to understand. It is also easier to maintain and debug. For example, if we need to change the URL of the data, we only need to change the URL in the global variable `PATH` function. We do not need to change the URL in multiple places in the code.
+The refactored code is much easier to understand. It is also easier to maintain and debug. For example, if we need to change the URL of the data, we only need to change the URL in the global variable `PATH` function. We do not need to change the URL in multiple places in the code. Further, if we need to drop more columns, we only need to add the column names to the list `cols_to_drop` in the function `get_data()`. We do not need to change the code in multiple places in the code.
 
 :bell: Global variables are variables that are defined outside of a function. They can be accessed by any function in the program. In the example above, the global variable `PATH` is defined outside of the function `get_data()`. Therefore, the function `get_data()` can access the global variable `PATH`.
 

@@ -34,6 +34,11 @@ __Deliverable(s):__
 
 The final report should be uploaded to GitHub no later than 5 pm on the last Data Lab Day.
 
+__Debates__
+
+Throughout the block B you are required to participate in  debates during dedicated Data Lab days. At the beginning  of  Block B, you will receive the class division for debates and your roles during  debates.
+
+
 ***
 
 ## __Literature__

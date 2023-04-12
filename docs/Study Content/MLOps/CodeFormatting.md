@@ -39,9 +39,71 @@ __After this chapter, you will be able to:__
 
 ### 2. Refactoring 
 
-## Material by Nitin
+Code refactoring refers to the process of restructuring existing computer code *without changing its external behavior* to ensure that the code is clean before you ship it to production. Refactoring is intended to improve the design, structure, and/or implementation of the existing code to make it more readable and easier to understand. Refactoring is a key part of the software development process, and it is often done in conjunction with code review.
 
-***
+__Why refactor code?__
+
+- __Improve code readability:__ Refactoring code can make it easier to understand and maintain. This is especially important when you work on a project with multiple people.
+- __Improve code quality:__ Refactoring code can help you to identify and fix bugs, and improve the overall quality of your code.
+- __Improve code performance:__ Refactoring code can help you to improve the performance of your code. For example, you can refactor code to reduce the number of lines of code, which can improve the performance of your code.
+
+__When to refactor code?__
+
+- __When you add a new feature:__ When you add a new feature to your code, you should refactor your code to make it easier to understand and maintain.
+- __When you fix a bug:__ When you fix a bug in your code, you should refactor your code to make it easier to understand and maintain.
+- __When you want to improve the performance of your code:__ When you want to improve the performance of your code, you should refactor your code to make it easier to understand and maintain.
+
+__How to refactor code?__
+
+- __Refactor code manually:__ You can refactor code manually by changing the code yourself. This is the most common way to refactor code.
+- __Use an automated refactoring tool:__ You can also use an automated refactoring tool to refactor code. For example, you can use an automated refactoring tool is VS Code [clicky](https://code.visualstudio.com/docs/editor/refactoring).
+
+:warning: Refactoring code is a time-consuming process. Therefore, it is important to make sure that you have a good understanding of the code before you start refactoring it.
+
+Here's an example of a piece of code that needs to be refactored:
+
+```python
+
+path = 'https://raw.githubusercontent.com/dataprofessor/data/master/delaney_solubility_with_descriptors.csv'
+data = pd.read_csv(path)
+data = data.drop(['Name'], axis=1)
+data.head()
+
+```
+
+The code above is not very readable. It is difficult to understand what the code does. Therefore, we should refactor the code to make it easier to understand. Here's the refactored code:
+
+```python
+
+def get_data(path):
+    # Get data from the web
+    data = pd.read_csv(path)
+    # Drop columns
+    data = data.drop(['Name'], axis=1)
+    # Return data
+    return data
+
+PATH = 'https://raw.githubusercontent.com/dataprofessor/data/master/delaney_solubility_with_descriptors.csv'
+df = get_data(PATH)
+
+```
+
+The refactored code is much easier to understand. It is also easier to maintain and debug. For example, if we need to change the URL of the data, we only need to change the URL in the global variable `PATH` function. We do not need to change the URL in multiple places in the code.
+
+:bell: Global variables are variables that are defined outside of a function. They can be accessed by any function in the program. In the example above, the global variable `PATH` is defined outside of the function `get_data()`. Therefore, the function `get_data()` can access the global variable `PATH`.
+
+:bell: On the other hand, a local variable is a variable that is defined inside a function. It can only be accessed by the function in which it is defined. In the example above, the local variable `path` is defined inside the function `get_data()`. Therefore, the function `get_data()` can access the local variable `path`, but other functions cannot access the local variable `path`.
+
+:book: By convention, global variables are written in all capital letters. For example, the global variable `PATH` is written in all capital letters. Whereas, local variables are written in lowercase letters. For example, the local variable `path` is written in lowercase letters.
+
+To learn more about code refactoring, check out the following resources:
+
+
+- [Free Code Camp](https://www.freecodecamp.org/news/best-practices-for-refactoring-code/)
+- [Video Tutorials](https://www.youtube.com/watch?v=q9Hp0Mo7dEA&list=PLTgRMOcmRb3NARHkkwYePP4ROXPyBJMhj)
+
+> Focussing on writing clean code is a good habit to get into. It will make your code easier to understand and maintain. It will also make your code easier to debug. However, it takes a minimal of 2-3 years of experience to become a good programmer. Therefore, do not be too hard on yourself if you are not a good programmer yet. Just keep practicing and you will get there :muscle:.
+
 
 ### 3. Linters & Code formatters 
 

@@ -11,28 +11,28 @@ Use - case 3 can only be finalised after finishing all other tasks for your proj
 
 While data is bringing various benefits to different companies and businesses, it also presents unique ethical and legal challenges. Doing ethics and legal right is not just a moral responsibility: it's obligatory for every business. Therefore, it’s crucial to have ethical and legal knowledge when working in the field of data science and applying this knowledge in the context of each project. 
 
-__Use case 1__
+__Use-case 1__
 
-1.	Download DEDA and ALTAI frameworks.
+- [ ] Download DEDA and ALTAI frameworks.
 
-2.	After carefully evaluating the data needed for your project and the scope of your project, identify elements within DEDA and ALTAI that are important for your given project.
+- [ ] After carefully evaluating the data needed for your project and the scope of your project, identify elements within DEDA and ALTAI that are important for your given project.
 
-3.	Using the DEDA and ALTAI frameworks, identify legal and ethical aspects that are not applicable to your project's context.
+- [ ] Using the DEDA and ALTAI frameworks, identify legal and ethical aspects that are not applicable to your project's context.
 
-4.	Create the checklist for ethical and legal enquiry of the project.
+- [ ] Create the checklist for ethical and legal enquiry of the project.
 
 5.	 For your own planning and success of your assignment, check the created checklist and identify elements within the check list which you can fill in now. Based on your project flow and SCRUM planning, identify dates when you will be able to fill in other elements within your checklist. Make sure to keep your ethical and legal responsibilities in mind throughout the duration of the project.
 
-__Use case 2__
+__Use-case 2__
 
-1.	Explain the relevance of legal and ethical aspects included in the checklists for this project.
+- [ ] Explain the relevance of legal and ethical aspects included in the checklists for this project.
 
-2.	Justify the reasoning for not including certain legal and ethical aspects in the checklist for your project.
+- [ ] Justify the reasoning for not including certain legal and ethical aspects in the checklist for your project.
 
 
-__Use case 3__
+__Use-case 3__
 
-After you finished your project for gemeente Breda, provide evidence and explanations of legal and ethical decision-making for aspects within the checklist (where possible).
+- [ ] After you finished your project for gemeente Breda, provide evidence and explanations of legal and ethical decision-making for aspects within the checklist (where possible).
 
 
 __Deliverable(s):__

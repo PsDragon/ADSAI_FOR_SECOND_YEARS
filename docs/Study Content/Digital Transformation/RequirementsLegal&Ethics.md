@@ -14,21 +14,21 @@ For the final assignment, students are asked to create a checklist for ethical a
 
 __Requirements:__
 
-- Create a checklist for ethical and legal inquire of the project using DEDA and ALTAI frameworks;
+- [ ] Create a checklist for ethical and legal inquire of the project using DEDA and ALTAI frameworks;
 
-- The checklist needs to be based on the literature provided during the module;
+- [ ] The checklist needs to be based on the literature provided during the module;
 
-- The legal and ethical aspects important for the project are identified and included into the checklist;
+- [ ] The legal and ethical aspects important for the project are identified and included into the checklist;
 
-- The legal and ethical aspects not important for the project are identified and not included into the checklist;
+- [ ] The legal and ethical aspects not important for the project are identified and not included into the checklist;
 
-- The relevance of legal and ethical aspects included in the checklists for this project is explained;
+- [ ] The relevance of legal and ethical aspects included in the checklists for this project is explained;
 
-- The reasoning for not including certain legal and ethical aspects in the checklist is justified;
+- [ ] The reasoning for not including certain legal and ethical aspects in the checklist is justified;
 
-- The checklist needs to be filled in;
+- [ ] The checklist needs to be filled in;
 
-- Provides evidence and explanations of legal and ethical decision-making for aspects within the checklist (if possible).  
+- [ ] Provides evidence and explanations of legal and ethical decision-making for aspects within the checklist (if possible).  
 
 __Deliverable(s):__
 

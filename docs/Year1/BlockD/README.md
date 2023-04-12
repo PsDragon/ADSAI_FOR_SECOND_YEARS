@@ -133,7 +133,7 @@ This project aims to adress one of the problem statements corresponding to the [
 *Figure 3. Project timeline.*
 
 
-# Week 1: Legal frameworks governing AI
+# Week 1: Legal & Ethical frameworks governing AI
 
 ## Monday
 **9 AM - 12 AM: Block D Kickoff in Fe1.018!**
@@ -148,14 +148,14 @@ This project aims to adress one of the problem statements corresponding to the [
 
 
 From then onwards, self-study day:
-[Introduction to the European Union Law-Making Process](../../Study%20Content/Digital%20Transformation/Legal%201.html)
+[Rotterdam case: welfare fraud. Introduction to DEDA Framework](../../Study%20Content/Digital%20Transformation/Legal%20&%20Ethics%201.html)
 
 ## Tuesday
-[DataLab: Implementing AI law in practice](../../Study%20Content/Digital%20Transformation/DataLab,%20Legal%201.html)
-[When GDPR meets AI](../../Study%20Content/Digital%20Transformation/Legal%203.html)
+[The Proposed Artificial Intelligence Act. ALTAI Framework](../../Study%20Content/Digital%20Transformation/Legal%20&%20Ethics%202.html)
 
 ## Wednesday
-[The Proposed Artificial Intelligence Act](../../Study%20Content/Digital%20Transformation/Legal%202.html)
+
+LING
 
 ## Thursday
 [**HOLIDAY**](https://youtu.be/5wdjwp-rB7E)

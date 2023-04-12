@@ -13,7 +13,7 @@ During the first independent study day, you will get insights into DEDA Framewor
 ### 2. LING
 
  
- ### 3. DEDA framework
+### 3. DEDA framework
 
 __3a__ What is DEDA framework?
 

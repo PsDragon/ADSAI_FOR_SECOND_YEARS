@@ -87,10 +87,9 @@ __3c__ [Download](https://ec.europa.eu/newsroom/dae/document.cfm?doc_id=68342) a
 
 *Artificial Intelligence Act: What Is the European Approach for AI?* (2021, October 16). Lawfare. Retrieved December 2, 2021, from https://www.lawfareblog.com/artificial-intelligence-act-what-european-approach-ai
 
-*De Ethische Data Assistent (DEDA).* (2017). Utrecht Data School. https://dataschool.nl/deda/
+European Commission. (2021, December 20). https://ec.europa.eu/newsroom/dae/document.cfm?doc_id=68342
 
 Lukianets, N. (2021, May 5). *A (more) visual guide to the proposed EU Artificial Intelligence Act.* Medium. Retrieved December 2, 2021, from https://lukianets.medium.com/a-more-visual-guide-to-the-proposed-eu-artificial-intelligence-act-64ae0e550ac3  
-
 Mueller, B. (2021, May 4). *The Artificial Intelligence Act: A Quick Explainer. Center for Data Innovation.* Retrieved December 2, 2021, from https://datainnovation.org/2021/05/the-artificial-intelligence-act-a-quick-explainer/
 
 

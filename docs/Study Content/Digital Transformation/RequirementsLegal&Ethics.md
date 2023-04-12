@@ -43,10 +43,7 @@ Throughout the block B you are required to participate in  debates during dedica
 
 ## __Literature__
 
-Committee on Professional Ethics of the American Statistical Association (2018, April 14). *Ethical Guidelines for Statistical Practice.* https://www.amstat.org//asa/files/pdfs/EthicalGuidelines.pdf
-
 *De Ethische Data Assistent (DEDA).* (2017). Utrecht Data School. https://dataschool.nl/deda/
 
-Dignum, V. (2019). *Responsible Artificial Intelligence: How to Develop and Use AI in a Responsible Way (Artificial Intelligence: Foundations, Theory, and Algorithms).*
+European Commission. (2021, December 20). https://ec.europa.eu/newsroom/dae/document.cfm?doc_id=68342
 
-*General Data Protection Regulation (GDPR) – Official Legal Text.* (2019, 2 september). General Data Protection Regulation (GDPR). https://gdpr-info.eu/

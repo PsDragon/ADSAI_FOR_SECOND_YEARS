@@ -31,4 +31,5 @@ __Make sure to upload your answers to GitHub__
 ***
 
 ## __Literature__
+
 *De Ethische Data Assistent (DEDA).* (2017). Utrecht Data School. https://dataschool.nl/deda/

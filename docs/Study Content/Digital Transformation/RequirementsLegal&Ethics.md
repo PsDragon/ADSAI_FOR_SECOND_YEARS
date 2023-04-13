@@ -32,7 +32,7 @@ __Requirements:__
 
 __Deliverable(s):__
 
-The final report should be uploaded to GitHub no later than 5 pm on the last Data Lab Day.
+The final checklist should be uploaded to GitHub no later than 5 pm on the last Data Lab Day.
 
 ***
 

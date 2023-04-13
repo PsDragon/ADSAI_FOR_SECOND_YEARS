@@ -2,7 +2,7 @@
 sort: 7
 ---
 
-# __Ethics & Law__
+# __Legal & Ethics__
 
 While data is bringing various benefits to different companies and businesses, it also presents unique ethical and legal challenges. Doing ethics and legal right is not just a moral responsibility: it's obligatory of every business. Therefore, it’s crucial to have ethical and legal knowledge when working in the field of data science. That is the core focus of this module - to acquire knowledge in ethics and law.
 

@@ -221,7 +221,7 @@ Make sure to be at the Datalab at 9:00 AM! We're going to the municipality toget
 ## Friday
 [DataLab: Project vision and roadmap - Creative Brief](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/5.%20DataLab%202%20Scrum.html)
 
-
+[DataLab: Check List for ethical & legal decision making.__Use-Case 1__](https://adsai.buas.nl/Study%20Content/Digital%20Transformation/UseCases:%20Legal%20&%20Ethics.html)
 
 ## The rest of the block is dedicated to project work.
 **Every self-study day your team will start with a stand-up at the start of the day which will be hosted in microsoft teams (which you will evidence for that day in your learning log). Then you will start your project work

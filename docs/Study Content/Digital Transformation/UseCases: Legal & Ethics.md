@@ -13,6 +13,8 @@ While data is bringing various benefits to different companies and businesses, i
 
 __Use-case 1:  Check List for ethical & legal decision making__
 
+In this use-case, which is related to the __‘Sufficient'__ of ILO 3, you will be asked to create and fill in the Check List for ethical and legal inquiry of the project.
+
 __To solve this use-case, you will need to:__ 
 
 - [ ] Download DEDA and ALTAI frameworks.
@@ -27,7 +29,9 @@ __To solve this use-case, you will need to:__
 
 5.	 For your own planning and success of your assignment, check the created checklist and identify elements within the check list which you can fill in now. Based on your project flow and SCRUM planning, identify dates when you will be able to fill in other elements within your checklist. Make sure to keep your ethical and legal responsibilities in mind throughout the duration of the project.
 
-__Use-case 2: Check List for ethical & legal decision making__
+__Use-case 2: Explanation of elements within the checklist for ethical & legal decision making__
+
+In this use-case, which is related to the __‘Good'__ of ILO 3, you will be asked to explain the elements within the checklist for ethical & legal decision making.
 
 __To solve this use-case, you will need to:__ 
 
@@ -37,7 +41,9 @@ __To solve this use-case, you will need to:__
 
 - [ ] __Documents individual contribution:__ Keep track of the data you have selected and the steps you have taken to preprocess the data.
 
-__Use-case 3: Check List for ethical & legal decision making__
+__Use-case 3: Evidencing of ethical decision making__
+
+In this use-case, which is related to the __‘Excellent'__ of ILO 3, you will be asked to evidence your ethical and legal decision making.
 
 __To solve this use-case, you will need to:__ 
 

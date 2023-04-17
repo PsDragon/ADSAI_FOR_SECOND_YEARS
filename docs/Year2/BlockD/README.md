@@ -49,7 +49,7 @@ Requirements:
 - Store and manage code in a code repository, such as Azure DevOps or GitHub
 
 
-## Project Deliverables - Due Friday 23rd June 2023
+## Project Deliverables - Due Friday 23rd June 2023 at 16:59
 
 - [ ] A GitHub repository containing all the code and documentation for your project.
 - [ ] A README.md file containing a description of your project, how to install your package and how to use it.
@@ -57,6 +57,7 @@ Requirements:
 - [ ] Microsoft Azure ML workspace containing your model/s.
 - [ ] A demo of the deployed model/s.
 - [ ] Project planning and scoping document, including tasks, timelines and sprint planning.
+- [ ] Learning log, work log, and completed peer reviews.
 
 ## Team-based working - Agile Scrum
 
@@ -72,7 +73,7 @@ client. Finally, the sprint ends with a sprint review and retrospective—or
 rather, lessons learned. This cycle is repeated throughout the project
 lifecycle until the entirety of the scope has been delivered or block D is at an end.
 
-Please watch the following video to get a brief introduction to scrum as a agile project management methodology.
+Please watch the following video to get a brief refresher on scrum as an agile project management methodology.
 
 <div style="text-align:center">
 <!-- blank line -->
@@ -84,6 +85,8 @@ Please watch the following video to get a brief introduction to scrum as a agile
 <img src="./images/scrum_framework.png" alt="emergency.jpeg" width="80%"/> 
 
 </div>
+
+In this block we will be using Azure DevOps to manage our project and facilitate our agile project management methodology.
 
 ***
 
@@ -109,28 +112,37 @@ GitHub Medals will be awarded will be awarded with the following criteria:
 
 This week you will be introduced to the concept of MLOps and the tools and technologies that are used to productionise and deploy machine learning models. You will also be briefed on the project and start planning and scoping your project.
 
+### Goals for this Week
+
+- [ ] Understand the concept of MLOps and the tools, technologies and frameworks that are used to productionise and deploy machine learning models.
+- [ ] Create a project plan and road map for your project.
+- [ ] Create a plan for your python package.
+
 ### Suggested Learning Modules
 
 - [MLOps: Machine Learning Operations]()
 - [Virtual environments & Package management with Python]()
-- [Production-Level code with Python]()
+- [Production Ready Code with Python]()
 - [Working with Azure Devops]()
 
 
-# Week 2-3 - Creating Production Ready Code
+# Week 2-3 - Creating Production Ready Code (ILO 4)
 
 Over the next two weeks you will create production ready code. You will learn how to write clean, modular and well documented code. That conforms with industry best practices. You will also learn how to build and distribute Python packages, and how to use logging and testing to ensure that your code is robust and reliable.
 
+### Goals for this Sprint
+
+- [ ] Create a complete well documented and tested Python package, that can be installed and used by others.
+
 ### Suggested Learning Modules
 
+- [Testing and Logging with Python]()
 - [Continuous Integration with Python]()
-- [Testing with Python]()
-- [Logging with Python]()
-- [Building and Distributing Python Packages]()
 - [Documentation for Python]()
+- [Building and Distributing Python Packages]()
 - [Building Packages for Users - CLIs and APIs]()
 
-# Week 4-5 - Data Pipelines and Model Training in the Cloud
+# Week 4-5 - Data Pipelines and Model Training in the Cloud (ILO 5)
 
 Weeks 4 and 5 will focus on creating data pipelines and model training pipelines. You will create versioned models, data assets, and environments. You will also learn how to automate the model training process. You will also learn how to deploy your model to a cloud platform.
 
@@ -141,11 +153,11 @@ Weeks 4 and 5 will focus on creating data pipelines and model training pipelines
 - [Deployment Options and Strategies]()
 - [CI/CT/CD with Azure Pipelines]()
 
-# Week 6-7 - Model Deployment and Monitoring
+# Week 6-7 - Model Deployment and Monitoring (ILO 6)
 
 Weeks 6 and 7 will focus on model deployment and monitoring. You use what you have learnt to deploy and monitor your model in the cloud. 
 
-# Week 8 - Testing and Evaluation
+# Week 8 - Testing and Evaluation (ILO 4-6)
 
 Week 8 will focus on testing and evaluation. You will test your deployment and evaluate its performance. You will also create a demo of your model, and wrap up your project.
 

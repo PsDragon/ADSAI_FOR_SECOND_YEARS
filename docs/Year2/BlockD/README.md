@@ -23,7 +23,7 @@ Robots are increasingly being used in warehouses to automate the picking and pac
 <img src="./images/WWA-3113-scaled.jpg" alt="Bin Picking" width="50%"/>
 </div>
 
-For more details click [here]()
+For more details click [here](./docs/Year2/BlockD/Creative Brief - Natural Language Processing.md)
 
 ### Option 2: Natural Language Processing 
 
@@ -33,7 +33,7 @@ During emergencies, individuals, news agencies, disaster relief organizations, a
 <img src="./images/emergency.jpeg" alt="emergency.jpeg" width="50%"/> 
 </div>
 
-For more details click [here]()
+For more details click [here](./docs/Year2/BlockD/Creative Brief - Natural Language Processing.md)
 
 ## Project Requirements
 
@@ -150,6 +150,7 @@ Weeks 6 and 7 will focus on model deployment and monitoring. You use what you ha
 Week 8 will focus on testing and evaluation. You will test your deployment and evaluate its performance. You will also create a demo of your model, and wrap up your project.
 
 ***
+
 ## Staff Members
 
 | Name   |  Availability |  Week | Email  | Subject  |
@@ -157,7 +158,7 @@ Week 8 will focus on testing and evaluation. You will test your deployment and e
 | Dean van Aswegen (Lecturer) <img src="./images/DeanProfile.jpg" alt="Dean van Aswegen profile picture" width="200"/> | Mon, Tue, Wed, Thu, Fri  |  ALL OF THEM!!! | aswegen.d@buas.nl | MLOps |
 | Alican Noyan , PhD.<img src="./images/AlicanProfile.jpg" alt="Alican Noyan profile picture" width="200"/>|  Mon, Wed, Thu, Fri  | Consult as required |  noyan.a@buas.nl | NLP | 
 | Frank Peters, PhD. <img src="./images/FrankProfile.jpeg" alt="Frank Peters profile picture" width="200"/> | Mon, Tue, Wed, Thu |  Omnipresent | peters.f@buas.nl | Supreme Leader of the ADSAI Department, A.K.A. 'El Patron'  |
-|  |  |  |  |  |
+
 ***
 
 

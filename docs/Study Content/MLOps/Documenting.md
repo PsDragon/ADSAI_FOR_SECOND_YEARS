@@ -71,11 +71,28 @@ The video below shows how to install and use autoDocstring in VSCode:
 
 ***
 
-### 3. Sfinx 
+### 3. Sphinx 
 
-### Add material by Nitin
+```Sphinx``` is a tool that generates documentation for your code. It is a popular tool for Python projects and is used by many popular Python projects such as TensorFlow, Pandas, and NumPy. To learn more about ```Sphinx```, please watch the following video:
 
-***
+</figure>
+<!-- blank line -->
+<figure class="video_container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rqyby56IHus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</figure>
+<!-- blank line -->
+
+Jokes aside, ```Sphinx``` is one the most important tools for documenting your code. Using docstrings (user or machine generated) as a basis, ```Sphinx``` can generate a website with the documentation for your code. This website can be hosted on a server and made available to the public.
+
+To learn more about ```Sphinx```, please check out the following resources:
+
+- [Sphinx Documentation](https://www.sphinx-doc.org/en/master/)
+- [Sphinx Tutorial](https://www.sphinx-doc.org/en/master/tutorial/index.html)
+
+> Note that tools such as ```Sphinx``` cannot be used on a Jupyter Notebook natively. You will need to install some additional extensions to make it work. But I do not ever recommend using Jupyter Notebooks for writing production-level code.
+
+:bell: The best way to learn how to use ```Sphinx``` is to read it's documentation, try it out on a sample script, and apply it to your project scripts. In addition to creating documentation, learning how to read and engage with the documentation of popular Python projects is also a very important skill. So, please, try to read the documentation of ```Sphinx```.
+
 
 ### 4. Blended learning
 

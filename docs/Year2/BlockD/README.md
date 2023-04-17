@@ -35,7 +35,7 @@ During emergencies, individuals, news agencies, disaster relief organizations, a
 
 For more details click [here](./docs/Year2/BlockD/Creative Brief - Natural Language Processing.md)
 
-## Project Requirements
+## General Project Requirements
 
 Select one of the given options and develop a production-grade model that can be deployed on a cloud platform. Your tasks include creating a robust codebase, establishing data ingestion and model training pipelines, devising a model deployment approach, and implementing a monitoring strategy. Additionally, you must demonstrate your deployed model(s) in action.
 
@@ -160,5 +160,7 @@ Week 8 will focus on testing and evaluation. You will test your deployment and e
 | Frank Peters, PhD. <img src="./images/FrankProfile.jpeg" alt="Frank Peters profile picture" width="200"/> | Mon, Tue, Wed, Thu |  Omnipresent | peters.f@buas.nl | Supreme Leader of the ADSAI Department, A.K.A. 'El Patron'  |
 
 ***
+
+{% include list.liquid all=true %}
 
 

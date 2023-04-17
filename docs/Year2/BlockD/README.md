@@ -2,15 +2,38 @@
 
 In Blocks B and C you built machine learning models for computer vision and natural language processing. The focus was on the modelling component of the CRISP-DM cycle. You produced proof of concept models that were able to solve a given problem. However, these models were not production ready. In this block you will learn how to productionise and deploy your model/s to a cloud platform. You will also learn how to monitor your model/s and ensure that they are continuously retrained on new data. You will create a robust codebase and establish data ingestion and model training pipelines. Additionally, you will learn how to devise a model deployment approach and implement a monitoring strategy. Finally, you will learn how to demonstrate your deployed model/s in action.
 
+### Learning Objectives
+
+By the end of this block you will be able to:
+
+- [ ] Understand the concept of MLOps and the role of DevOps in the ML lifecycle
+- [ ] Create a robust codebase and establish data ingestion and model training pipelines
+- [ ] Productionise and deploy your model/s to a cloud platform using different deployment strategies
+- [ ] Monitor your model/s and ensure that they are continuously retrained on new data
+- [ ] Create professional documentation for your project
+
 
 # Project Based Learning - Creative Brief
 
-| Option 1: Computer Vision and Robotics | Option 2: Natural Language Processing |
-|---|---|
-| In block C, you built computer vision models for object detection, localisation and pose prediction. This block your task is to productionise and deploy your model/s to a cloud platform. | During emergencies, individuals, news agencies, disaster relief organizations, and emergency management agencies use social media for communication, information diffusion, making sense of the event, and managing risks. As a result, Twitter has become an essential communication channel during natural disasters and terror attacks. On the other hand, Twitter contains vast amounts of misinformation, making accurate identification of emergency tweets indispensable. In block C, you built NLP models for identifying emergency tweets. This block your task is to productionise and deploy your model/s to a cloud platform.  |
-<img src="./images/WWA-3113-scaled.jpg" alt="Bin Picking" width="300"/> | <img src="./images/emergency.jpeg" alt="emergency.jpeg" width="250"/> | 
-| For more details click [here]() | For more details click [here]() |
+### Option 1: Computer Vision and Robotics 
 
+Robots are increasingly being used in warehouses to automate the picking and packing of goods. This is a highly repetitive task that is prone to human error. Computer vision models can be used for object detection, localisation and pose prediction, which are essential for robotic manipulation. In block C, you built proof of concept computer vision models for object detection, localisation and pose prediction. This block your task is to productionise and deploy your model/s to a cloud platform. 
+
+<div style="text-align:center">
+<img src="./images/WWA-3113-scaled.jpg" alt="Bin Picking" width="50%"/>
+</div>
+
+For more details click [here]()
+
+### Option 2: Natural Language Processing 
+
+During emergencies, individuals, news agencies, disaster relief organizations, and emergency management agencies use social media for communication, information diffusion, making sense of the event, and managing risks. As a result, Twitter has become an essential communication channel during natural disasters and terror attacks. On the other hand, Twitter contains vast amounts of misinformation, making accurate identification of emergency tweets indispensable. In block C, you built NLP models for identifying emergency tweets. This block your task is to productionise and deploy your model/s to a cloud platform. 
+
+<div style="text-align:center">
+<img src="./images/emergency.jpeg" alt="emergency.jpeg" width="50%"/> 
+</div>
+
+For more details click [here]()
 
 ## Project Requirements
 
@@ -18,10 +41,10 @@ Select one of the given options and develop a production-grade model that can be
 
 Requirements:
 
-- Develop a scalable API that accepts input data and returns predictions along with - confidence scores
+- Develop a scalable API that accepts input data and returns predictions along with confidence scores
 - Ensure that the model supports automatic retraining on a weekly basis
 - Continuously monitor prediction accuracy to prevent model drift
-- Maintain clear records of the deployed model and its training process for auditing purposes
+- Maintain clear records of the deployed model and its training process for auditing purposes (data, code, and model versioning)
 - Minimize manual intervention in deployment, with manual approval required for production
 - Store and manage code in a code repository, such as Azure DevOps or GitHub
 
@@ -50,11 +73,17 @@ rather, lessons learned. This cycle is repeated throughout the project
 lifecycle until the entirety of the scope has been delivered or block D is at an end.
 
 Please watch the following video to get a brief introduction to scrum as a agile project management methodology.
+
+<div style="text-align:center">
 <!-- blank line -->
 <figure class="video_container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gy1c4_YixCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 <!-- blank line -->
+
+<img src="./images/scrum_framework.png" alt="emergency.jpeg" width="80%"/> 
+
+</div>
 
 ***
 

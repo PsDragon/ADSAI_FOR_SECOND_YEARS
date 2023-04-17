@@ -2,6 +2,6 @@
 sort: 1
 ---
 
-# MLOps
+# MLOps II
 
 {% include list.liquid all=true %}

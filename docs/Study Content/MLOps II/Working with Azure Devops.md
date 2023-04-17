@@ -1,3 +1,7 @@
+---
+sort: 8
+---
+
 # Azure Devops
 
 Azure Devops is a cloud-based service that provides a set of tools to manage your software development life cycle. 

@@ -1,5 +1,8 @@
 # Microsoft Azure Machine Learning
 
+
+<img src=https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/ai/_images/ml-ops-python.png#lightbox width="100%"/>
+
 Docs: https://learn.microsoft.com/en-us/azure/machine-learning/?view=azureml-api-2
 
 https://learn.microsoft.com/en-us/training/modules/intro-to-azure-ml/

@@ -25,12 +25,39 @@ To better understand the importance of MLOps, watch the following video:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZVWg18AXXuE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-This blog post from Neptune.ai provides a good overview of MLOps: [MLOps: What It Is, Why It Matters, and How to Implement It](https://neptune.ai/blog/mlops)
+These blog posts from Neptune.ai and Microsoft provide a good overview of MLOps read at least 1 of them: 
+- [ ] [MLOps: What It Is, Why It Matters, and How to Implement It - Neptune](https://neptune.ai/blog/mlops)
+- [ ] [Machine learning operations - Microsoft](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/ai-machine-learning-mlops)
 
 Once you have watched the video and read the blog post, complete the one of the following courses to learn more about MLOps:
 
 - [ ] [MLOps for Business](https://app.datacamp.com/learn/courses/mlops-for-business) on DataCamp
 - [ ] [MLOps Essentials: Model Development and Integration](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/getting-started-with-mlops?resume=false) on LinkedIn Learning
 
+:pencil: Q1. What is MLOps? <br>
+:pencil: Q2. What are the main components of MLOps? <br>
+:pencil: Q3. List 3 MLOps Tool for experiment tracking.<br>
+
 :+1: That's it for today! Enjoy your journey into the world of MLOps!
+
+## Additional Resources
+
+- [Google MLOps Whitepaper](./pdfs/practitioners_guide_to_mlops_whitepaper%20-%20GCP.pdf)
+- [Microsoft MLOps Whitepaper](./pdfs/MLOps%20whitepaper%20-%20Azure.pdf)
+- [MLOps for Dummies](./pdfs/mlops_for_dummies_databricks_special_edition.pdf)
+- [The Big Book of MLOps](./pdfs/the-big-book-of-mlops-final-062722.pdf)
+- [MLOps.org](https://ml-ops.org/) - This is a great resource for all things MLOps. It contains a list of MLOps tools, frameworks, and best practices.
+- [Data Camp Course on Cloud Computing](
+https://campus.datacamp.com/courses/understanding-cloud-computing/cloud-providers-and-case-studies?ex=4)
+
+
+- [CRISP-ML](https://ml-ops.org/content/crisp-ml):
+<div style="text-align:center">
+<img src="https://ml-ops.org/img/crisp-ml-process.jpg" alt="Bin Picking" width="100%"/>
+</div>
+
+
+
+
+
 

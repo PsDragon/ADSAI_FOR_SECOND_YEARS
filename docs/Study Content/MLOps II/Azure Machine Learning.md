@@ -1,5 +1,6 @@
 # Microsoft Azure Machine Learning
 
+https://learn.microsoft.com/en-us/azure/machine-learning/concept-model-management-and-deployment?view=azureml-api-2
 
 <img src=https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/ai/_images/ml-ops-python.png#lightbox width="100%"/>
 
@@ -51,5 +52,10 @@ https://learn.microsoft.com/en-us/training/paths/build-first-machine-operations-
 https://learn.microsoft.com/en-us/training/paths/develop-custom-object-detection-models-with-nvidia-and-azure-machine-learning/
 
 https://learn.microsoft.com/en-us/training/paths/train-models-azure-machine-learning-cli-v2/
+
+
+## Good datacamp course on cloud computing:
+
+https://campus.datacamp.com/courses/understanding-cloud-computing/cloud-providers-and-case-studies?ex=4
 
 

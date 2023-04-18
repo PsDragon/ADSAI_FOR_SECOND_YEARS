@@ -23,7 +23,7 @@ Robots are increasingly being used in warehouses to automate the picking and pac
 <img src="./images/WWA-3113-scaled.jpg" alt="Bin Picking" width="50%"/>
 </div>
 
-For more details click [here](./docs/Year2/BlockD/Creative Brief - Natural Language Processing.md)
+For more details click [here](https://adsai.buas.nl/Year2/BlockD/Creative%20Brief%20-%20Computer%20Vision.html)
 
 ### Option 2: Natural Language Processing 
 
@@ -33,7 +33,7 @@ During emergencies, individuals, news agencies, disaster relief organizations, a
 <img src="./images/emergency.jpeg" alt="emergency.jpeg" width="50%"/> 
 </div>
 
-For more details click [here](./docs/Year2/BlockD/Creative Brief - Natural Language Processing.md)
+For more details click [here](https://adsai.buas.nl/Year2/BlockD/Creative%20Brief%20-%20Natural%20Language%20Processing.html)
 
 ## General Project Requirements
 
@@ -81,12 +81,20 @@ Please watch the following video to get a brief refresher on scrum as an agile p
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gy1c4_YixCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 <!-- blank line -->
+</div>
+
+The following diagram illustrates the Scrum framework, showing the roles, events, artifacts, and flow of Scrum:
+
+<div style="text-align:center">
 
 <img src="./images/scrum_framework.png" alt="emergency.jpeg" width="80%"/> 
 
 </div>
 
-In this block we will be using Azure DevOps to manage our project and facilitate our agile project management methodology.
+In this block we will be using Azure DevOps to manage our project and facilitate our agile project management methodology. We will be using the following Azure DevOps features:
+
+- [ ] **Boards** - To manage our project backlog and tasks, plan our sprints, and track our progress.
+- [ ] **Repos** - To store our code and documentation.
 
 ***
 
@@ -120,10 +128,10 @@ This week you will be introduced to the concept of MLOps and the tools and techn
 
 ### Suggested Learning Modules
 
-- [MLOps: Machine Learning Operations]()
-- [Virtual environments & Package management with Python]()
-- [Production Ready Code with Python]()
-- [Working with Azure Devops]()
+- [MLOps: Machine Learning Operations](https://adsai.buas.nl/Study%20Content/MLOps%20II/Introduction%20to%20MLOps.html)
+- [Virtual environments & Package management with Python](https://adsai.buas.nl/Study%20Content/MLOps%20II/VirtualEnvironmentPackageManagement.html)
+- [Production Ready Code with Python](https://adsai.buas.nl/Study%20Content/MLOps%20II/CodeFormatting.html)
+- [Working with Azure Devops](https://adsai.buas.nl/Study%20Content/MLOps%20II/Working%20with%20Azure%20Devops.html)
 
 
 # Week 2-3 - Creating Production Ready Code (ILO 4)
@@ -136,9 +144,9 @@ Over the next two weeks you will create production ready code. You will learn ho
 
 ### Suggested Learning Modules
 
-- [Testing and Logging with Python]()
-- [Continuous Integration with Python]()
-- [Documentation for Python]()
+- [Testing and Logging with Python](https://adsai.buas.nl/Study%20Content/MLOps%20II/Testing.html)
+- [Continuous Integration with Python](https://adsai.buas.nl/Study%20Content/MLOps%20II/ContinuousIntegration.html)
+- [Documentation for Python](https://adsai.buas.nl/Study%20Content/MLOps%20II/Documenting.html)
 - [Building and Distributing Python Packages]()
 - [Building Packages for Users - CLIs and APIs]()
 

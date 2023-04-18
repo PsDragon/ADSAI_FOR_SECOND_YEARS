@@ -7,6 +7,15 @@ sort: 8
 Azure Devops is a cloud-based service that provides a set of tools to manage your software development life cycle. 
 Azure DevOps is a suite of tools and services provided by Microsoft that aims to streamline and improve the software development lifecycle. It offers a range of integrated tools for version control, continuous integration, continuous deployment, testing, and project management. In this block we will focus on the project management features of Azure DevOps, which are primarily handled through Azure Boards. Most of the other features will be handled using Azure Machine Learning which will be introduced later in the block.
 
+__After this chapter, you will be able to:__
+
+- [ ] Describe the key features of Azure DevOps
+- [ ] Use Azure DevOps to do the following:
+  - [ ] Create and manage a backlog for your project
+  - [ ] Plan sprints and assign tasks to team members
+  - [ ] Create and use Kanban board to monitor your project's progress
+
+
 <div style="text-align:center">
 <img src="https://zeevector.com/wp-content/uploads/Microsoft-Azure-DevOps-logo.png" alt="Azure Devops Logo" width="30%" > <img src="https://media.licdn.com/dms/image/D4D12AQH4aAEOi1BToQ/article-inline_image-shrink_400_744/0/1671963791772?e=1686182400&v=beta&t=XkwRl8tdw38kIp7_MiJP_WxcKzpAo3o-hNhn3bvPXbY" alt="Azure Boards Logo" width="30%" > <img src="https://media.licdn.com/dms/image/D4D12AQEm0hTxZ9Efag/article-inline_image-shrink_1000_1488/0/1671964375737?e=1686182400&v=beta&t=aiKbDhfKmyTWw_KdGxvN5gNetOwaPDtO_45k2doFezc" alt="Azure Repos Logo" width="20%" >
 </div>
@@ -43,12 +52,14 @@ The following video provides an overview of Azure DevOps and its features. You o
 </div>
 
 
-# Exercises
+# Group Exercises 
+
+__Complete the following exercises in your groups in the first Datalab__
 
 For the following exercises you will need to sign into Azure DevOps. You can do this by going to [https://dev.azure.com](https://dev.azure.com) and clicking on the Sign In button in the top right corner. You will then be prompted to enter your Microsoft account credentials. Sign in using your BUas email address and password.
 
-## Exercise 1: Create a Backlog for your Project
+### Exercise 1: Create a Backlog for your Project
 
-## Exercise 2: Create and plan your first sprint for your Project
+### Exercise 2: Create and plan your first sprint for your Project
 
-## Exercise 3: Create a Kanban Board for your Project
+### Exercise 3: Create a Kanban Board for your Project

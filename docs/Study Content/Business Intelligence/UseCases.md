@@ -74,7 +74,7 @@ __To solve this use-case, you will need to:__
 
 __How to connect to the PostgreSQL database:__
 
-First you will need to be connected tto the BUas VPN. You can find the instructions on how to do this [here](). Once you are connected to the VPN you will be able to connect to the database.
+First you will need to be connected tto the BUas VPN. You can find the instructions on how to do this [here](https://adsai.buas.nl/Study%20Content/VPN%20Access/VPN%20Access.html). Once you are connected to the VPN you will be able to connect to the database.
 
 Use the following code to connect to the database:
 

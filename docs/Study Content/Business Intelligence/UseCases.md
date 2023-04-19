@@ -74,7 +74,44 @@ __To solve this use-case, you will need to:__
 
 __How to connect to the PostgreSQL database:__
 
-__Dean, can you add some information here?__
+First you will need to be connected tto the BUas VPN. You can find the instructions on how to do this [here](). Once you are connected to the VPN you will be able to connect to the database.
+
+Use the following code to connect to the database:
+
+```python
+from sqlalchemy import create_engine
+
+user = "your_user_name"
+password = "your_password"
+host = "145.101.164.141"
+port = "5432"
+database = "adsai_1d"
+
+# PostgreSQL connection string
+connection_string = f"postgresql://{user}:{password}@{host}:{port}/{database}"
+
+# Create a new SQLAlchemy engine using the connection string
+engine = create_engine(connection_string)
+```
+
+Use the following code to check that everything is working correctly:
+
+```python
+from sqlalchemy import text
+
+# Define a simple query to test the connection
+test_query = text("SELECT 1")
+
+# Execute the query using the SQLAlchemy engine
+result = engine.execute(test_query)
+
+# Check if the result matches the expected output
+if result.scalar() == 1:
+    print("Connection successful!")
+else:
+    print("Connection failed!")
+```
+If the output is "Connection successful!" then you are good to go :+1:
 
 ***
 

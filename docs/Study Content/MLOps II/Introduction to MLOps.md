@@ -1,3 +1,7 @@
+---
+sort: 1
+---
+
 # Introduction to MLOps
 
 Welcome to the module on MLOps Fundamentals Frameworks and Industry Best Practices. In this module, you will learn about the basics of MLOps, its importance, and how to implement it in your Machine Learning projects. Furthermore, we will dive into the different frameworks and tools that are available for MLOps, as well as discuss industry best practices.
@@ -53,7 +57,7 @@ https://campus.datacamp.com/courses/understanding-cloud-computing/cloud-provider
 
 - [CRISP-ML](https://ml-ops.org/content/crisp-ml):
 <div style="text-align:center">
-<img src="https://ml-ops.org/img/crisp-ml-process.jpg" alt="Bin Picking" width="100%"/>
+<img src="https://ml-ops.org/img/mlops-stack.jpg" alt="Bin Picking" width="100%"/>
 </div>
 
 

@@ -148,19 +148,10 @@ This project aims to adress one of the problem statements corresponding to the [
 
 
 From then onwards, self-study day:
-[Rotterdam case: welfare fraud. Introduction to DEDA Framework](../../Study%20Content/Digital%20Transformation/Legal%20&%20Ethics%201.html)
+[Rotterdam case: Welfare Fraud. Introduction to DEDA Framework](../../Study%20Content/Digital%20Transformation/Legal%20&%20Ethics%201.html)
 
 ## Tuesday
-[The Proposed Artificial Intelligence Act. ALTAI Framework](../../Study%20Content/Digital%20Transformation/Legal%20&%20Ethics%202.html)
 
-## Wednesday
-
-LING
-
-## Thursday
-[**HOLIDAY**](https://youtu.be/5wdjwp-rB7E)
-
-## Friday - WORK-AT-HOME
 - [ ] Today, we're going to spend reading the creative brief so we know what to do. Reading is considered hard work by many, sustaining concentration is no small feat. So let's take today to read the creative brief completely. Good news: it's the page you're on! Scroll to the top and read thoroughly untill you reach the bottom. If you have any questions, post them in the Q&A channel.
 - [ ] Don't think that we haven't noticed that you didn't read the brief entirely. Come now, read it!
 - [ ] Good. Now, that we have read the creative brief, we're going to [download the following template](".\assets\Y1D Timeline.jpg"). Name it FirstnameLastname_ProjectProposals. This is the powerpoint presentation which you're going to use to present your project proposals to your team Wednesday morning. Cool, now pick one of the themes, choose 3 of the provided problem statements and write down in less than a 100 words these problem statements interested you using the slides. If you have trouble choosing, you can make a table with the different qualities and rank/rate you arguments, e.g.
@@ -172,6 +163,16 @@ LING
 | Notes | I see an easy way to create a valuable solution | cool and feasible | Would be so cool, but maybe too big of a project |
 | Awesomeness | 3 | 6 | 9 |
 - [ ] [Virtual environments & Package management with Python](../../Study%20Content/MLOps/VirtualEnvironmentPackageManagement.html)
+
+## Wednesday
+
+LING
+
+## Thursday
+[**HOLIDAY**](https://youtu.be/5wdjwp-rB7E)
+
+## Friday - WORK-AT-HOME
+[The Proposed Artificial Intelligence Act. ALTAI Framework](../../Study%20Content/Digital%20Transformation/Legal%20&%20Ethics%202.html)
 
 [**HOLIDAY**]()
 

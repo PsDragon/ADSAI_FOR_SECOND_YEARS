@@ -181,10 +181,6 @@ If the installation was successful, this should display the version number of Po
 
 That is it! You now have Poetry installed on your Windows machine.
 
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Note: You may also choose to publish your project as a package on the Python Package Index (PyPI), which is a collection of open-source software for the Python programming language, if you are willing to take on an additional challenge. For more details, contact coding wizard Nitin. 
-</div>
-
 :pencil: __4b__ Then, use Poetry to install the following packages:
 
 - [ ] ```pandas```

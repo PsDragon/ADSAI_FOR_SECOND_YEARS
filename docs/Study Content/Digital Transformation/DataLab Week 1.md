@@ -1,7 +1,8 @@
+---
 sort: 4
 ---
 
-## __DataLab Week 1.
+## __DataLab Week 1__
 \
 <img src="./images/datalab_banner.jpg" alt="Books banner" width="600"/>
 

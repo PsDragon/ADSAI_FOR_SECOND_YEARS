@@ -166,7 +166,7 @@ From then onwards, self-study day:
 
 ## Wednesday
 
-LING
+[DataLab. Week 1](https://adsai.buas.nl/Study%20Content/Digital%20Transformation/DataLab%20Week%201.html)
 
 ## Thursday
 [**HOLIDAY**](https://youtu.be/5wdjwp-rB7E)

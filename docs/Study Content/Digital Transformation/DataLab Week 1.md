@@ -42,7 +42,7 @@ Do not hesitate to ask feedback from your mentors as well.
 
 ## 4) Discussion with the mentor (5 min per person)
 
-During this discussion, you will be asked to present/discuss the theme you picked yesterday with your mentor. Explain why you picked a certain theme and why it is interesting for you. 
+During this discussion, you will be asked to present/discuss the theme you picked yesterday with your mentor. Explain why you picked a certain theme and why it is interesting for you. Note mentors feedback. 
 
 ## 4) DEDA Framework
 

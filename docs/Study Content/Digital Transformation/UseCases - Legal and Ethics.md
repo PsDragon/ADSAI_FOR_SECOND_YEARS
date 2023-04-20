@@ -4,7 +4,7 @@ sort: 2
 
 # __Use-cases: Legal & Ethics__
 
-In **today's data lab**, we will work on Legal & Ethics use cases. Use-case 1 (Topic: Check List for ethical & legal decision making), Use-case 2 (Topic: Explanation of elements within the checklist for ethical & legal decision making) and Use-case 3 (Topic: Evidencing of ethical-decision making) are related to the independent study material of Week 1. For the success of your assignment you need to complete Use-cases 2 in week 4 of Block D. The Use - case 1 can be partially completed during week 4, however, some elements within Use-case 1, need to be worked on throughout the duration of your project.
+In **today's data lab**, we will work on Legal & Ethics use cases. Use-case 1 (Topic: Check List for ethical & legal decision making), Use-case 2 (Topic: Explanation of elements within the checklist for ethical & legal decision making) and Use-case 3 (Topic: Evidencing of ethical-decision making) are related to the independent study material of Week 1. For the success of your assignment you need to complete Use-cases 2 in week 4 of Block D. The Use - case 1 can be partially completed during week 3, however, some elements within Use-case 1, need to be worked on throughout the duration of your project.
 Use - case 3 can only be finalised after finishing all other tasks for your project for gemeente Breda. 
 
 ### Use-cases: 

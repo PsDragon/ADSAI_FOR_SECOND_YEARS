@@ -6,9 +6,9 @@ sort: 4
 <img src="./images/datalab_banner.jpg" alt="Books banner" width="600"/>
 
 
-For today’s DataLab we have a lot of activities scheduled that will help you to create your final checklist.  We will begin with our general standup and after you will be asked to present (as well as discuss) your project proposal to your classmates. 
+For today’s DataLab we have a lot of activities scheduled that will help you to create your final checklist.  We will begin with our general standup and after you will be asked to discuss the theme, you picked yesterday during the independent study day, with your mentor. In the meantime, you need to discuss the Rotterdam welfare benefits case with your peers. 
 
-Once it’s done, start filling in the DEDA Framework for your problem statement.
+Once it’s done, start filling in the DEDA Framework for your theme.
 
 ## Questions or issues?
 
@@ -28,13 +28,24 @@ __1b__ Answer the following questions:
 
 ## 3) Presentations of your project proposal
 
-Make groups of 5 peers within your mentor groups and present your project proposal. Once the presentations are done, discuss your project proposals in the group and give each other feedback. Thus, you need to open your notes file and take notes. Note down all valuable feedback in your notes file and upload it to your GitHub repository once finished and reference it in your learning log for this week. 
+Make groups of 5 within your mentor groups and discuss the Rotterdam welfare benefits case and answer the following questions together with your group:
+
+1. How could Gementee Rotterdam avoid this from happening in the future?
+
+2. Which mistakes did Accenture make?
+
+3. Looking at the DEDA framework, which points were ignored while developing the ML algorithm for Gementee Rotterdam? 
+
 
 Do not hesitate to ask feedback from your mentors as well.
 
+## 4) Discussion with the mentor (5 min per person)
+
+During this discussion, you will be asked to present/discuss the theme you picked yesterday with your mentor. Explain why you picked a certain theme and why it is interesting for you. 
+
 ## 4) DEDA Framework
 
-Spend the rest of the day filling in the DEDA Framework for your problem statement. In case you cant answer some of the questions without the help of municipality, click [this link]() to record your question to the municipality of Breda.
+Spend the rest of the day filling in the DEDA Framework for the theme. In case you cant answer some of the questions without the help of the municipality, click [this link]() to record your question to the municipality of Breda.
 
 
 

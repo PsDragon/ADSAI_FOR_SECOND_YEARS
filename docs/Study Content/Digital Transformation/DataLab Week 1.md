@@ -27,7 +27,7 @@ __1b__ Answer the following questions:
 - What am I working on today?
 - What issues are blocking me?
 
-## 3) Presentations of your project proposal
+## 3) The Rotterdam welfare benefits case
 
 Make groups of 5 within your mentor groups and discuss the Rotterdam welfare benefits case and answer the following questions together with your group:
 
@@ -40,7 +40,7 @@ Make groups of 5 within your mentor groups and discuss the Rotterdam welfare ben
 
 Do not hesitate to ask feedback from your mentors as well.
 
-## 4) Discussion with the mentor (5 min per person)
+## 4) Discussion with the mentor (5 -7 min per person)
 
 During this discussion, you will be asked to present/discuss the theme you picked yesterday with your mentor. Explain why you picked a certain theme and why it is interesting for you. Note mentors feedback. 
 

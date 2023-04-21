@@ -2,9 +2,9 @@
 sort: 1
 ---
 
-## MLOps: Virtual environments & Package management with Python
+# MLOps: Virtual environments & Package management with Python
 
-### Chapter overview
+## Chapter overview
 
 I. __Virtual environments & Package management with Python__ <br>
 II. Production-Level code with Python <br>
@@ -13,7 +13,7 @@ IV Testing with Python <br>
 V. Continuous Integration with Python <br> 
 VI. Deployment with Python <br>
 
-### 1. Introduction
+## 1. Introduction
 
 Hi there :sparkles: :books: :smiley:. Welcome to the first chapter of the __*MLOps with Python*__ knowledge module. In this module, you will learn about virtual environments and package management in Python. Throughout this module, you will be guided towards online resources that will help you acquire knowledge of various MLOps topics. In addition, we created some Python exercises, using the Titanic dataset, for you to practice your newly gained knowledge; you will build your first Python package! After completing the chapter, you should be able to apply your knowledge to the Creative Brief. Let us get started :rocket:!
 
@@ -33,7 +33,7 @@ Using a virtual environment along with a package manager enables efficient manag
 
 ***
 
-### 2. What is technical debt?
+## 2. What is technical debt?
 
 Technical debt is a term used in software development that describes the expense of maintaining a codebase that was not created with maintainability and scalability as priorities. In machine learning, technical debt can be the result of poorly designed models, data pipelines, or infrastructure that are challenging to maintain, scale, or improve over time.
 
@@ -47,9 +47,12 @@ Technical debt can accumulate in machine learning projects that rely on outdated
 
 Want to learn more about technical debt in machine learning? Check out the following video and article:
 
+<div style="text-align: center">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/V18AsBIHlWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
 *Video 1. Machine Learning, Technical Debt, and You - D. Sculley (Google).*
+</div>
 
 Original scientific paper by D. Sculley et al. regarding technical debt in machine learning systems:
 
@@ -61,7 +64,7 @@ Original scientific paper by D. Sculley et al. regarding technical debt in machi
 
 ***
 
-### 3. Virtual environment
+## 3. Virtual environment
 
 
 <img src="./images/GergelySzerovay.jpg" align="left" width="50"/>
@@ -71,6 +74,13 @@ Original scientific paper by D. Sculley et al. regarding technical debt in machi
 <br clear="left"/>
 
 Creating a virtual environment in Python for your machine learning projects is essential to ensure that the dependencies and packages required for the project are isolated from the global environment. This helps avoid conflicts with other installed packages or versions of Python. By creating a virtual environment, you can ensure that your project has access to the required dependencies and packages without affecting the global Python installation. Additionally, virtual environments can be easily shared with others, making it easier to collaborate on projects. Overall, using a virtual environment in Python for your machine learning projects is a best practice that helps maintain a clean and organized development environment.
+
+<div style="text-align: center">
+<img src="https://www.dataquest.io/wp-content/uploads/2022/01/python-virtual-envs1.webp" alt="Raster vs. vector data" width="600">
+
+*Figure 1. Python virtual environments. Image from [Data Quest](https://www.dataquest.io/blog/a-complete-guide-to-python-virtual-environments/) *
+</div>
+
 
 Let us take a look at how to create a virtual environment in Python using [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
 
@@ -120,33 +130,28 @@ Note: The manual installation of CUDA and CuDNN, which are essential for acceler
 In addition to Conda, there are several other tools available for managing Python environments. Below you can find some of the most widely used ones:
 
 - [Virtualenv](https://pypi.org/project/virtualenv/): This is a tool for creating isolated Python environments. It can be used to manage different versions of Python and Python packages. It is lightweight and simple to use.
-- [Pyenv](https://pypi.org/project/pyenv/): This is a tool for managing multiple versions of Python on a single machine. It can be used to install and switch between different versions of Python, and to create virtual environments.
+- [Pyenv](https://pypi.org/project/pyenv/): This is a tool for managing multiple versions of Python on a single machine. It can be used to install and switch between different versions of Python, and to create virtual environments. Pyenv is often used in combination with with Poetry, where Poetry is used to manage dependencies and Pyenv is used to manage Python versions. Poetry will be covered in the next section.
 - [Venv](https://pypi.org/project/venv/): This is a module included in Python's standard library that can be used to create virtual environments. It is similar to Virtualenv, but with some added functionality.
 - [Pipenv](https://pypi.org/project/pipenv/): This is a tool that combines virtual environment creation with package management. It creates a virtual environment for each project and manages package dependencies using a Pipfile.
-- [Docker](https://hub.docker.com/): This is a tool for creating lightweight, portable containers that can be used to package applications and their dependencies. It can be used to create isolated environments for Python applications.
+- [Docker](https://hub.docker.com/): This is a tool for creating lightweight, portable containers that can be used to package applications and their dependencies. It can be used to create isolated environments for Python applications. We will learn more about Docker later in this course.
 
 Each of these alternatives has its own strengths and weaknesses, so it is important to evaluate each one based on your specific needs and requirements.
 
-:pencil: __3a__ Create new directory named ['src'](https://packaging.python.org/en/latest/tutorials/packaging-projects/). For now you do not need to know why it is called 'src'. You will learn more about this naming convention in one of the next knowledge module chapters. 
-
-:pencil: __3b__ Download the [Titanic](https://web.stanford.edu/class/archive/cs/cs109/cs109.1166/problem12.html) dataset in CSV format and save it to the directory 'src'. 
-
-:pencil: __3c__ Create a Python script called ```titanic.py``` and place it in the same directory as the Titanic dataset.
-
-:pencil: __3__ Use a virtual environment manager such as Venv, Conda, or Pipenv to create a new virtual environment called ```titanic-env```.
+:pencil: __3__ Use a virtual environment manager such as Pyenv, Venv, Conda, or Pipenv to create a new virtual environment called ```numbers-env```. Make sure it is using Python 3.9. In the next exercise, we will install the required packages in this environment using Poetry as our package manager.
 
 ***
 
-### 4. Package management
+## 4. Package management
 
-[Poetry](https://python-poetry.org/) is a Python package manager that aims to provide a simple and efficient way to manage dependencies in your Python projects. It allows you to define your project's dependencies in a [```pyproject.toml```](https://betterprogramming.pub/a-pyproject-toml-developers-cheat-sheet-5782801fb3ed) file, which is more user-friendly than the traditional [```requirements.txt```](https://learnpython.com/blog/python-requirements-file/) file. With Poetry, you can easily install, update, and remove dependencies, as well as create virtual environments for your projects.
+[Poetry](https://python-poetry.org/) is a Python package manager that aims to provide a simple and efficient way to manage dependencies in your Python projects. It allows you to define your project's dependencies in a [```pyproject.toml```](https://betterprogramming.pub/a-pyproject-toml-developers-cheat-sheet-5782801fb3ed) file, which is more user-friendly and more configurable than the traditional [```requirements.txt```](https://learnpython.com/blog/python-requirements-file/) file. With Poetry, you can easily install, update, and remove dependencies, as well as create virtual environments for your projects. You can also specify both runtime and development dependencies, which makes it easy to separate dependencies that are needed for running your code from those that are only needed for development. 
 
 Some of the key features of Poetry include:
 
-- Dependency management: Poetry allows you to define dependencies and their versions in a single file. It also resolves dependencies and ensures that they are compatible with each other.
+- __Dependency management:__ Poetry allows you to define dependencies and their versions in a single file. It also resolves dependencies and ensures that they are compatible with each other.
 - Virtual environments: Poetry automatically creates and manages virtual environments for your projects, which helps to keep your dependencies isolated from each other.
-- Packaging: Poetry can package your project as a Python wheel or source distribution, which makes it easy to distribute and install your project on other systems.
+- __Packaging:__ Poetry can package your project as a Python wheel or source distribution, which makes it easy to distribute and install your project on other systems. It also allows you to publish your project to PyPI.
 - Plugin system: Poetry has a plugin system that allows you to extend its functionality. For example, there are plugins for integrating Poetry with other tools like Pytest or Black.
+- Cross-platform: Poetry is available for Windows, macOS, and Linux.
 
 Overall, Poetry simplifies the process of managing dependencies in your Python projects, making it easier to share and distribute your code.
 
@@ -155,6 +160,121 @@ Watch the following video to learn more about Poetry:
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0f3moPe_bhk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+
+### Using Poetry
+
+You can find a list of all the available commands in the [Poetry documentation](https://python-poetry.org/docs/basic-usage/). Here are some of the most commonly used commands:
+
+```tip
+Before you start:
+It is recommended to create a virtual environment inside your project directory. This way, you can easily delete the project and all of its dependencies later on. To do this, use the following command:
+
+
+- poetry config virtualenvs.in-project true
+
+
+This command sets the virtualenvs.in-project configuration to true, telling Poetry to create the virtual environment as a .venv directory within the project root for all your projects. Now, when you create a new project using poetry new, the virtual environment will be placed in the project root by default when you run poetry install.
+```
+
+- #### Creating a new Project:
+
+To create a new project with a src folder and a pyproject.toml file, use the following command:
+
+```bash
+poetry new <project_name> --src
+```
+Replace <project_name> with your desired project name. This command will generate a new directory with the given name, containing a basic project structure with the necessary files and directories.
+
+e.g. ```poetry new myproject --src``` will create a new directory named ```myproject``` with the following structure:
+
+<div style="text-align:center">
+<img src="./images/poetry_dir.png" width="200">
+</div>
+
+- #### Initializing a Project:
+
+To initialize an existing project with a pyproject.toml file, use the following command:
+
+```bash
+poetry init
+```
+
+This command is used to initialize an existing project with a pyproject.toml file. It will ask you a series of questions about your project, such as the name, version, description, author, and license. You can also specify the dependencies for your project in this file. It is an easy way to update and existing project with a pyproject.toml file, so that you can use Poetry to manage your dependencies.
+
+
+- #### Adding Packages:
+
+To add a package to your project and automatically update the pyproject.toml file, use the following command:
+
+```bash
+poetry add <package_name>
+```
+
+e.g. ```poetry add pandas``` or ```poetry add pandas==1.2.3``` (to install a specific version)
+
+To add a package as a development dependency, use the following command:
+
+```bash
+poetry add <package_name> --dev
+```
+
+e.g. ```poetry add pytest --dev```
+
+Development dependencies are not installed by default when you install your project. They are only installed when you run the ```poetry install``` command with the ```--dev``` flag. The reason for splitting dependencies into runtime and development dependencies is that you may not need all of them when you are running your code in production. For example, you may need a package like pytest to run your tests, but you do not need it when you are running your code in production.  
+
+- #### Removing Packages:
+
+```bash
+poetry remove <package_name>
+```
+e.g. ```poetry remove pandas```
+
+- ### Installing Dependencies:
+
+To install the dependencies specified in your project's pyproject.toml file, use the following command:
+
+```bash
+poetry install
+```
+This command reads the pyproject.toml file and installs the specified dependencies in the project's virtual environment. If a poetry.lock file is present, Poetry will use the locked versions of the packages.
+
+To install both runtime and development dependencies, use the following command:
+
+```bash
+poetry install --dev
+```
+
+- #### Updating Dependencies:
+
+To update your project's dependencies to their latest compatible versions, use the following command:
+
+```bash
+poetry update
+```
+
+This command checks for newer versions of the packages listed in your pyproject.toml file and updates them accordingly. It will also update your ```poetry.lock``` file to maintain dependency consistency.
+
+- Creating a Virtual Environment:
+
+Create a new virtual environment for your project to isolate dependencies using the following command:
+
+```bash
+poetry shell
+```
+
+This command creates and activates a new virtual environment for your project. Any packages installed while the virtual environment is active will be installed within this environment.
+
+To deactivate the virtual environment, use the ```exit``` command.
+
+- #### Running a Script:
+
+To run a script within your project's virtual environment, use the following command:
+
+```bash
+poetry run <script_name>
+```
+Replace <script_name> with the name of the script you want to run. This command will execute the specified script in the context of your project's virtual environment, ensuring that the correct dependencies are available.
+
 
 :pencil: __4a__ Activate the ```titanic-env``` virtual environment and install the package Poetry. 
 
@@ -194,20 +314,16 @@ That is it! You now have Poetry installed on your Windows machine.
 - [ ] ```matplotlib```
 - [ ] ```seaborn```
 - [ ] ```sklearn```
+- [ ] ```tensorflow==2.10.1```
 
-For example, if you want to install the Pandas package, you can use the following command:
 
-```bash
-poetry add pandas
-```
+:pencil: __4c__ Import the necessary packages in your ```numbers.py``` script and conduct a basic exploratory data analysis on the MNIST dataset. 
 
-:pencil: __4c__ Import the necessary packages in your ```titanic.py``` script and conduct a basic exploratory data analysis on the Titanic dataset. 
-
-:pencil: __4d__ Train a logistic regression model on the dataset, and evaluate its performance.
+:pencil: __4d__ Train a CNN classification model on the dataset, and evaluate its performance.
 
 ***
 
-### 5. Blended learning
+## 5. Blended learning
 
 There are many online resources available on the topic of virtual environments and package management in Python. Please, check the following resources:
 

@@ -115,6 +115,9 @@ To learn more about code refactoring, check out the following resources:
 
 > Focussing on writing clean code is a good habit to get into. It will make your code easier to understand and maintain. It will also make your code easier to debug. However, it takes a minimal of 2-3 years of experience to become a good programmer. Therefore, do not be too hard on yourself if you are not a good programmer yet. Just keep practicing and you will get there :muscle:.
 
+:pencil: __2a__ Refactor the code in your ```titanic.py``` script'to make it modular. You can use the example above as a guide.
+
+:bell: A modular script is a script that is divided into multiple functions. Each function performs a specific task. For example, the function `get_data()` in the example above gets the data from the web. The function `clean_data()` in the example above cleans the data. The function `split_data()` in the example above splits the data into training and test sets. The function `train_model()` in the example above trains the model. The function `evaluate_model()` in the example above evaluates the model. The function `save_model()` in the example above saves the model.
 
 ### 3. Linters & Code formatters 
 

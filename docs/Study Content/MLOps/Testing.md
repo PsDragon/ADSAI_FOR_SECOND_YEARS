@@ -153,6 +153,8 @@ To learn more about logging in Python, check out the following resources:
 
 :warning: Do not store sensitive information in your logs. This includes passwords, API keys, and other confidential information. :warning:
 
+:pencil: __2a__ Apply Logging to the functions you created in your ```titanic.py``` script.
+
 ### 4. Debugging
 
 A debugger is a tool that allows data professionals to step through their code and track down bugs or errors that may be causing their program to malfunction. The debugger enables you to pause the execution of your code at any given point, inspect the values of variables and functions, and even modify the code in real-time to test different scenarios. This can be incredibly helpful in finding and fixing errors in your code.
@@ -201,6 +203,8 @@ To learn more about unit testing in Python, check out the following resources:
 - [Pytest documentation](https://docs.pytest.org/en/7.3.x/)
 - [Datacamp Unit Testing Tutorial](https://www.datacamp.com/community/tutorials/unit-testing-python)
 - [Datacamp Unit Testing Course](https://app.datacamp.com/learn/courses/unit-testing-for-data-science-in-python)
+
+:pencil: __5a__ Design unit tests to the functions you created in your ```titanic.py``` script.
 
 ### 6. Blended learning
 

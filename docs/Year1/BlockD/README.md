@@ -1,6 +1,6 @@
 # Block D - Team-based Working
 
-Block D is the capstone course of the propaedeutic stage of your bachelor degree. Next to several training elements in planning group projects, keeping track of your individual contribution and group collaboration, you are asked to do a full CRISP-DM cycle in a small group. Many of the dynamics will change in this block:
+Block D is the capstone course of the propaedeutic stage of your bachelor degree where you are asked to do a full CRISP-DM cycle in a small group which should result in some kind of data science product like a dashboard, model, package or application. Next to working as a team, you will also need to keep track of your individual contribution and group collaboration. But to start of, you will also complete several knowledge modules individually and prepare several small project proposals to your group in week 3. You'll then select/combine ideas and start working as a group from then onwards. Many of the dynamics will therefore change in this block:
 
 - [ ] Groupwork replaces individual work, but assessment will still be done on your individual contribution;
 - [ ] The assessment of your groupwork skills are an explicit element of the assessment in this block;
@@ -15,7 +15,7 @@ This block will focus on the __*Deployment*__ phase of the __*CRISP-DM*__ lifecy
     <img src=".\assets\CRISP-DM_Process_Diagram.png" />
 </figure>
 
-*Figure 1. CRISP-DM Lifecycle. Note how the Deployment phase isn't highlighted because I didn't had time to do graphical design yet. I'm not an illustrator.*
+*Figure 1. CRISP-DM Lifecycle.*
 
 ## Creative Brief: Improve Breda
 *'The program "Verbeter Breda" (Improve Breda) works towards equal opportunities, no matter where you grow up in Breda. Within one generation, we want to achieve this. By 2040, everyone should have sufficient opportunities to create a valuable life for themselves, with a focus on housing, education, and income. Residents, schools, businesses, police, housing corporations, healthcare and welfare organizations, the municipality, and the national government work together towards a continuously better Breda.'* - Municipality of Breda
@@ -95,10 +95,7 @@ Note: When you want to use a dataset, make a copy, and save it to your local dev
 
 For block D, you are expected to follow an agile project management methodology called 'Scrum'. Introductory workshops will introduce you to the scrum way of working.
 
-The Scrum methodology is characterized by short phases called “sprints” wherein
-project work: tasks, occurs. During sprint planning, the project team identifies a
-small part of the scope; a set of tasks, to be completed during the upcoming sprint,
-which is usually a two week period of time. But we'll stick to a 1 week sprint to match to the project timeline and give everyone a chance to become a Scrum-master:
+The Scrum methodology is characterized by short phases called “sprints” wherein project work: tasks, occurs. During sprint planning, the project team identifies a small part of the scope; a set of tasks, to be completed during the upcoming sprint, which is usually a two week period of time. But we'll stick to a 1 week sprint to match to the project timeline and give everyone a chance to become a Scrum-master:
 <figure>
 <center>
     <img src=".\assets\Y1D Timeline.jpg" />

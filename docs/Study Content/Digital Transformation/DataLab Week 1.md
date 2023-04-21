@@ -46,7 +46,7 @@ During this discussion, you will be asked to present/discuss the theme you picke
 
 ## 4) DEDA Framework
 
-Spend the rest of the day filling in the DEDA Framework for the theme. In case you cant answer some of the questions without the help of the municipality, click [this link]() to record your question to the municipality of Breda.
+Spend the rest of the day filling in the DEDA Framework for the theme. In case you cant answer some of the questions without the help of the municipality, click [this link](https://edubuas.sharepoint.com/:x:/t/FAI1.P4-01Project1DADSAI2022-23/EUAccJTOujtFjWO_7WQelXABGe3ehCRhLXviVIBI0IiACQ?e=xFg4PY) to record your question to the municipality of Breda.
 
 
 

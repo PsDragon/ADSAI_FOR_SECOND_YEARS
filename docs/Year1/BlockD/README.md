@@ -118,22 +118,12 @@ Please watch the following video to get a brief introduction to scrum as a agile
 </figure>
 <!-- blank line -->
 
-# Block Outline
 
-## Project Timeline
-
-This project aims to adress one of the problem statements corresponding to the [themes]() Breda Municipality wants to adress. Below, you will find the project timeline, which gives you an overview of the tasks related to the different project phases: 
-
-<figure>
-<center>
-    <img src=".\assets\Y1D Timeline.jpg" />
-</center>
-</figure>
-
-*Figure 3. Project timeline.*
-
-
-# Week 1: Legal & Ethical frameworks governing AI
+# Week 1: Business Understanding - Legal & Ethical frameworks governing AI
+Week goals:
+- [ ] Understand Breda Municipality's need & how data helps them
+- [ ] Use legal & ethical frameworks governing AI for your project proposal
+- [ ] Set Smart Goals
 
 ## Monday
 **9 AM - 12 AM: Block D Kickoff in Fe1.018!**
@@ -147,8 +137,8 @@ This project aims to adress one of the problem statements corresponding to the [
 | 11:45 | A day in the life of: Data Compliance Officer | TBD |
 
 
-From then onwards, self-study day:
-[Rotterdam case: Welfare Fraud. Introduction to DEDA Framework](../../Study%20Content/Digital%20Transformation/Legal%20&%20Ethics%201.html)
+After that we continue withsome short self-study material:
+- [Rotterdam case: Welfare Fraud. Introduction to DEDA Framework](../../Study%20Content/Digital%20Transformation/Legal%20&%20Ethics%201.html)
 
 ## Tuesday
 
@@ -162,7 +152,11 @@ From then onwards, self-study day:
 | Difficulty | easy | normal | hard |
 | Notes | I see an easy way to create a valuable solution | cool and feasible | Would be so cool, but maybe too big of a project |
 | Awesomeness | 3 | 6 | 9 |
-- [ ] [Virtual environments & Package management with Python](../../Study%20Content/MLOps/VirtualEnvironmentPackageManagement.html)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LQ5Uj1nryBc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+- [ ] Set SMARTER Goals: Take a look at SMARTER goals slides in the beginning of the learning log. Then take a look at your self-reflection from last block and start making SMARTER goals by following the steps on the slides! SMARTER goal setting comes in different shapes and size, this one is specifically taylored for educational growth.
+- [ ] Setting up for the block: [Virtual environments & Package management with Python](../../Study%20Content/MLOps/VirtualEnvironmentPackageManagement.html)
 
 ## Wednesday
 
@@ -174,9 +168,7 @@ From then onwards, self-study day:
 ## Friday - WORK-AT-HOME
 [The Proposed Artificial Intelligence Act. ALTAI Framework](../../Study%20Content/Digital%20Transformation/Legal%20&%20Ethics%202.html)
 
-[**HOLIDAY**]()
-
-# Week 2: Data Management and Analysis with PostgreSQL and Python
+# Week 2: Data Understanding - Data Management and Analysis with PostgreSQL and Python
 
 ## Monday
 - [Databases, Data Definition Language (DDL) clauses I & Data Manipulation Language (DML) clauses](../../Study%20Content/Business%20Intelligence/DataArchitecturePipelineDesign_2022_2023.html)
@@ -192,37 +184,43 @@ From then onwards, self-study day:
 
 ## Friday
 - [DataLab: Creative Brief](../../Study%20Content/Business%20Intelligence/UseCases.html)
+- Groups are announced at 16:00 in Datalab
 
+# Week 3: Bringing Data & Business Understanding Together - Agile Project Management
 
-# Week 3: Agile project Management
-
-## Monday
+## Monday & Tuesday
 9 AM - 10 AM: [Block D Kickoff](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTJiMDA1NjQtNzA2Ny00MDJmLTg1ZDMtNmU2OTkxMWQxYTc4%40thread.v2/0?context=%7b%22Tid%22%3a%220a33589b-0036-4fe8-a829-3ed0926af886%22%2c%22Oid%22%3a%225cef929d-ecf9-4fca-bf12-bc5ee065fc99%22%7d)
 
 - [The scrum approach to project success](../../Study%20Content/Agile%20Project%20Management/1.1.%20The%20scrum%20approach%20to%20project%20success.html)
 - [Essential roles for scrum teams](../../Study%20Content/Agile%20Project%20Management/1.2.%20Essential%20roles%20for%20scrum%20teams.html)
 - [Project vision and roadmaps](../../Study%20Content/Agile%20Project%20Management/1.3.%20Project%20vision%20and%20roadmaps.html)
-
-## Tuesday
-Make sure to be at the Datalab at 9:00 AM! We're going to the municipality together to meet our clients and meet a real-life data scientist: Wim! Then we'll return for a workshop from 2 guest lecturers on the agile project management we'll use this block: Scrum! After which we'll have drinks together! ***If you're late without a valid excuse, you're going to have to pay for Zhanna's Vodka shots!***
-- **9 AM to 12 AM: Site Visit: A day in the life of Wim**
-
-- **13 PM to 17 PM: Scrum Workshop**
-
-- **17 PM+: Drinks!**
-
-## Wednesday
-[Creating a Project Vision and Roadmap](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/3.%20Creating%20a%20Project%20Vision,%20Roadmap%20and%20Project%20Planning.html)
-
-
-## Thursday
+- [Creating a Project Vision and Roadmap](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/3.%20Creating%20a%20Project%20Vision,%20Roadmap%20and%20Project%20Planning.html)
 - [Sprint planning and standups using Jira](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/4.1.%20Sprint%20planning%20and%20standups.html)
 - [Wrapping up a sprint and retrospectives](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/4.2.%20Wrapping%20up%20a%20sprint%20and%20retrospectives.html)
 
-## Friday
-[DataLab: Project vision and roadmap - Creative Brief](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/5.%20DataLab%202%20Scrum.html)
+## Wednesday
+- **9 AM to 12 AM: Project Pitches**
+Within mentor group; 3 groups per mentor​
 
-[DataLab: Check List for ethical & legal decision making](../../Study%20Content/Digital%20Transformation/UseCases%20-%20Legal%20and%20Ethics.html)  - __Use Case 1__.
+Project pitches within mentor group  separate classrooms for each; mentor + students curate projects. 4 classroom, 10 minute pitches, teams rotate; 1 every hour
+
+- **13 PM to 17 PM: Scrum Workshop**
+
+- [DataLab: Project vision and roadmap - Creative Brief](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/5.%20DataLab%202%20Scrum.html)
+- [DataLab: Check List for ethical & legal decision making](../../Study%20Content/Digital%20Transformation/UseCases%20-%20Legal%20and%20Ethics.html)  - __Use Case 1__.
+
+- Meantime: work on project roadmap, backlog, plan first sprint  Planning Poker
+- Take a look at the Mandatory Knowledge modules at the bottom of the page. Take them into account when creating the project backlog and estimate them story points using story points.
+
+## Thursday
+[**HOLIDAY**]()
+
+## Friday
+[**HOLIDAY**]()
+
+
+
+# Week 4: Data Pre-processing 
 
 ## The rest of the block is dedicated to project work.
 **Every self-study day your team will start with a stand-up at the start of the day which will be hosted in microsoft teams (which you will evidence for that day in your learning log). Then you will start your project work
@@ -232,6 +230,55 @@ Make sure to be at the Datalab at 9:00 AM! We're going to the municipality toget
 - On Friday you will **fill in the peer-review form for that week** which you will then use to provide to your team with feedback during the sprint review and sprint retrospective. Meaning that you will need to have your peer-review form filled in before starting the sprint review. You will then plan a
 new sprint using sprint planning poker.
 Please make sure to steadily fill in your checklist for ethics & legal assignment. You can find use cases for ethics & legal by clicking [this link](../../Study%20Content/Digital%20Transformation/UseCases%20-%20Legal%20and%20Ethics.html) and the overall requirements [here](../../Study%20Content/Digital%20Transformation/RequirementsLegal&Ethics.html) .**
+
+## Preparing for the Sounding Board Session
+
+
+## Wednesday
+- **9:00 - 12:00 @ Fe1.027**: Sounding Board Sessions (Panel of Municipality Breda Data Science Team)
+- **15:30- 16:30 @ Fe1.018**: Guest Lecturer on Agile in Practise - PhD Research by Ruben Steegh
+
+## Friday​
+
+Morning: Start Peer-Review (6 weeks) at 9:00 sharp.​ Take the 
+
+First sprint Review, Retrospective, Planning Poker
+
+Morning: Review, Retrospective  45 minutes per team (instead of 60)​
+
+Afternoon: Sprint Planning  45 minutes of planning poker per team
+- Take a look at the Mandatory Knowledge modules at the bottom of the page. Take them into account when creating the project backlog and estimate them story points using story points.
+
+
+# Week 5: Data Modelling 
+Same structure as week 4 but now hopefully focussed mainly on data modelling. Apart from:
+
+## Wednesday:
+- [ ] Team Communication Workshop in Datalab
+
+# Week 6: Evaluation (& Iteration) 
+Same structure as week 4 but now hopefully focussed mainly on data modelling evaluation (& iteration). Apart from:
+
+# Week 7: Deployment 
+Same structure as week 4 but now hopefully focussed mainly on deploying your project. Apart from:
+
+# Week 8: Client Demonstration 
+Same structure as week 4 but now hopefully focussed mainly on presenting you project to the client.  Apart from:
+
+## Preparing for Poster Presentation
+- [Setting up Instructions]()
+- [Giving feedback & voting]()
+
+## Wednesday
+- **9:00 - 16:00 @ Innovation Square**: Poster Presentation and Voting
+- **16:00 Onwards @ Innovation Square**: Drinks
+
+
+## Friday: 
+- [Recorded Project Retrospectives with Mentor]()
+- **14:30- 17:00 @ Fe1.018**: Final Client Presentations - Top projects are presented to the Municipality of Breda.
+
+
 
 ## Knowledge Modules:
 

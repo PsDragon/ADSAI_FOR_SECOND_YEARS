@@ -150,6 +150,12 @@ Some of the key features of Poetry include:
 
 Overall, Poetry simplifies the process of managing dependencies in your Python projects, making it easier to share and distribute your code.
 
+Watch the following video to learn more about Poetry:
+
+<div style="text-align:center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0f3moPe_bhk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 :pencil: __4a__ Activate the ```titanic-env``` virtual environment and install the package Poetry. 
 
 Here is a quick guide on how to install Poetry on a Windows machine:

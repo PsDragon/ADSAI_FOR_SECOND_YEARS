@@ -27,7 +27,7 @@ __To solve this use-case, you will need to:__
 
 - [ ] __Documents individual contribution:__ Keep track of the data you have selected and the steps you have taken to preprocess the data.
 
-5.	 For your own planning and success of your assignment, check the created checklist and identify elements within the check list which you can fill in now. Based on your project flow and SCRUM planning, identify dates when you will be able to fill in other elements within your checklist. Make sure to keep your ethical and legal responsibilities in mind throughout the duration of the project.
+ For your own planning and success of your assignment, check the created checklist and identify elements within the checklist which you can fill in now. Based on your project flow and SCRUM planning, identify dates when you will be able to fill in other elements within your checklist. Make sure to keep your ethical and legal responsibilities in mind throughout the duration of the project.
 
 __Use-case 2: Explanation of elements within the checklist for ethical & legal decision making__
 

@@ -222,7 +222,7 @@ Make sure to be at the Datalab at 9:00 AM! We're going to the municipality toget
 ## Friday
 [DataLab: Project vision and roadmap - Creative Brief](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/5.%20DataLab%202%20Scrum.html)
 
-[DataLab: Check List for ethical & legal decision making.](https://adsai.buas.nl/Study%20Content/Digital%20Transformation/UseCases:%20Legal%20&%20Ethics.html)- __Use Case 1__.
+[DataLab: Check List for ethical & legal decision making](../../Study%20Content/Digital%20Transformation/UseCases%20-%20Legal%20and%20Ethics.html)  - __Use Case 1__.
 
 ## The rest of the block is dedicated to project work.
 **Every self-study day your team will start with a stand-up at the start of the day which will be hosted in microsoft teams (which you will evidence for that day in your learning log). Then you will start your project work
@@ -230,7 +230,8 @@ Make sure to be at the Datalab at 9:00 AM! We're going to the municipality toget
 **Every Wednesday and Friday, you will meet in the datalabs for project work at 9:00. If you are later then 9:15, you will start by singing [the scrum anthem](https://youtu.be/gRWBw_p6-kQ) in the specially assigned Karaoke Room (Fe3.029) instead. 
 - On Wednesday you will simply do a stand-up and work on your project. Additionally, you will have a individual feedback session eveery other week.
 - On Friday you will **fill in the peer-review form for that week** which you will then use to provide to your team with feedback during the sprint review and sprint retrospective. Meaning that you will need to have your peer-review form filled in before starting the sprint review. You will then plan a
-new sprint using sprint planning poker.**
+new sprint using sprint planning poker.
+Please make sure to steadily fill in your checklist for ethics & legal assignment. You can find use cases for ethics & legal by clicking [this link](../../Study%20Content/Digital%20Transformation/UseCases%20-%20Legal%20and%20Ethics.html) and the overall requirements [here](../../Study%20Content/Digital%20Transformation/RequirementsLegal&Ethics.html) .**
 
 ## Knowledge Modules:
 

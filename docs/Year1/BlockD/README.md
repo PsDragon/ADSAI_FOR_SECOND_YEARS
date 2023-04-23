@@ -46,7 +46,7 @@ In order to make Breda Better, the municipality came up with several cases where
 Socio-economic indicators include features such as house prices, perception of neighbourhood safety, migration patterns etc. and environmental quality indicators such as noise levels, CO2 levels etc. Traditionally, experts were used to identify key features which could predict QoL accurately and thus help combat neighbourhood segregation – this involved hand-picking features which were hypothesized to be a key determinant of QoL and using those features to help minimize neighbourhood segregation.
 -->
 
-**Your creative brief for this block expects you to use the skills and knowledge you have gained over the course of this year to build a tool for the City of Breda to help combat rising segregation in a completely data-driven manner**. This could be for example, a dashboard to provide useful insights, or an AI model that helps predict QoL, or ideally, a combination of both. Once you have developed and deployed the tool, you are expected to provide recommendations to the city of Breda in terms of policy to combat neighbourhood segregation.
+**Your creative brief for this block expects you to use the skills and knowledge you have gained over the course of this year to build a tool to improve Breda in a completely data-driven manner**. This could be for example, a dashboard to provide useful insights, or an AI model that helps predict QoL, or ideally, a combination of both. Once you have developed and deployed the tool, you are expected to provide recommendations to the city of Breda in terms of policy: button they could press or tune as it were to influence Breda and Improve it.
 
 <figure>
     <img src=".\assets\breda.PNG" />
@@ -120,7 +120,7 @@ Please watch the following video to get a brief introduction to scrum as a agile
 Week goals:
 - [ ] Understand Breda Municipality's need & how data helps them
 - [ ] Use legal & ethical frameworks governing AI for your project proposal
-- [ ] Set Smart Goals
+- [ ] Set SMARTER Goals
 
 ## Monday
 **9 AM - 12 AM: Block D Kickoff in Fe1.018!**
@@ -141,7 +141,7 @@ After that we continue withsome short self-study material:
 
 - [ ] Today, we're going to spend reading the creative brief so we know what to do. Reading is considered hard work by many, sustaining concentration is no small feat. So let's take today to read the creative brief completely. Good news: it's the page you're on! Scroll to the top and read thoroughly untill you reach the bottom. If you have any questions, post them in the Q&A channel.
 - [ ] Don't think that we haven't noticed that you didn't read the brief entirely. Come now, read it!
-- [ ] Good. Now, that we have read the creative brief, we're going to [download the following template](".\assets\Y1D Timeline.jpg"). Name it FirstnameLastname_ProjectProposals. This is the powerpoint presentation which you're going to use to present your project proposals to your team Wednesday morning. Cool, now pick one of the themes, choose 3 of the provided problem statements and write down in less than a 100 words these problem statements interested you using the slides. If you have trouble choosing, you can make a table with the different qualities and rank/rate you arguments, e.g.
+- [ ] Good. Now, that we have read the creative brief, we're going to [download the following template](".\assets\FILENAME"). Name it FirstnameLastname_ProjectProposals. This is the powerpoint presentation which you're going to use to present your project proposals to your team Wednesday morning. Cool, now pick one of the themes, choose 3 of the provided problem statements and write down in less than a 100 words these problem statements interested you using the slides. If you have trouble choosing, you can make a table with the different qualities and rank/rate you arguments, e.g.
 **Bram's Project Ranking Table of Greater Dexterity**
 | Quality\Theme | Theme 1 | Theme 2 | Theme 3 |
 | --- | --- | --- | --- |

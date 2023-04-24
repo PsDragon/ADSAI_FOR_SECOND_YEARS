@@ -21,9 +21,9 @@ __After this chapter, you will be able to:__
 
 - [ ] Define the terms 'virtual environment', 'package management' and 'technical debt' in machine learning
 - [ ] Describe the relative importance of ML code in a real-world ML system
-- [ ] Explain the benefits of using virtual environments and package management in Python
+- [ ] Explain the benefits of using virtual environments and package management in Python 
 - [ ] Create a virtual environment in Python 
-- [ ] Install Python packages in a virtual environment using a package manager
+- [ ] Install Python packages in a virtual environment using the package manager Poetry
 
 <img src="./images/PythonEnvPackage.jpg" alt="Python setup for production ready ML code" width="600">
 
@@ -55,22 +55,21 @@ Original scientific paper by D. Sculley et al. regarding technical debt in machi
 
 - [Hidden Technical Debt in Machine Learning Systems](https://proceedings.neurips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)
 
-:pencil: __1a__ Find a GitHub ML project that you like and check out the codebase. How many lines of code are ML code? How many lines of code are not ML code? What is the ratio of ML code to non-ML code? Write your answer down.
+:pencil: __2a__ Find a GitHub ML project that you like and check out the codebase. How many lines of code are ML code? How many lines of code are not ML code? What is the ratio of ML code to non-ML code? Write your answer down.
 
-:pencil: __1b__ Would you say that the project has a lot of technical debt? Why or why not? Write your answer down.
+:pencil: __2b__ Would you say that the project has a lot of technical debt? Why or why not? Write your answer down.
 
 ***
 
 ### 3. Virtual environment
 
-
-<img src="./images/GergelySzerovay.jpg" align="left" width="50"/>
+<img src="./images/GergelySzerovay.jpg" align="left" width="80"/>
 
 > I have over two decades of professional experience as a developer, I know a wide variety of frameworks and programming languages, and one of my favorites is Python. I've been teaching it for quite some time now, and according to my experience, establishing Python environments is a challenging topic - [Gergely Szerovay](https://www.freecodecamp.org/news/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c/), Freecodecamp contributer. 
 
 <br clear="left"/>
 
-Creating a virtual environment in Python for your machine learning projects is essential to ensure that the dependencies and packages required for the project are isolated from the global environment. This helps avoid conflicts with other installed packages or versions of Python. By creating a virtual environment, you can ensure that your project has access to the required dependencies and packages without affecting the global Python installation. Additionally, virtual environments can be easily shared with others, making it easier to collaborate on projects. Overall, using a virtual environment in Python for your machine learning projects is a best practice that helps maintain a clean and organized development environment.
+By creating a virtual environment, you can ensure that your project has access to the required dependencies and packages without affecting the global Python installation (i.e, 'base'). Additionally, virtual environments can be easily shared with others, making it easier to collaborate on projects. Thus, using a virtual environment in Python for your machine learning projects is a best practice that helps maintain a clean and organized development environment.
 
 Let us take a look at how to create a virtual environment in Python using [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
 
@@ -133,7 +132,7 @@ Each of these alternatives has its own strengths and weaknesses, so it is import
 
 :pencil: __3c__ Create a Python script called ```titanic.py``` and place it in the same directory as the Titanic dataset.
 
-:pencil: __3__ Use a virtual environment manager such as Venv, Conda, or Pipenv to create a new virtual environment called ```titanic-env```.
+:pencil: __3d__ Use a virtual environment manager such as Venv, Conda, or Pipenv to create a new virtual environment called ```titanic-env```.
 
 ***
 

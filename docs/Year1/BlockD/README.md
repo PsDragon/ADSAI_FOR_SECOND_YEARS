@@ -72,13 +72,14 @@ Note that the amount of new knowledge and skills to acquire via GitHub classroom
 
 ### Datasets
 
-Please use the following datasets to help you solve the creative brief. You will be provided access to the data during Week 1 of the project. Please note that you are not expected to use all data. Think about a problem to solve; the data you pick will also depend on how you plan to approach the creative brief. **You can extract all the data from our** [SQL Server here]() or from the internet using the links below in case of some public datasets/databases. The non-public data from the Municipality itself is released from Friday 17:00 onwards (first finish your business understanding, legal and ethics parts) so let's start exploring on our data laking. 
+Please use the following datasets to help you solve the creative brief. You will be provided access to the data during Week 1 of the project. Please note that you are not expected to use all data. Think about a problem to solve; the data you pick will also depend on how you plan to approach the creative brief. **You can extract all the data from our** [SQL Server here]() or from the internet using the links below in case of some public datasets/databases. The non-public data from the Municipality itself is released from Friday 17:00 onwards (first finish your business understanding, legal and ethics parts) so let's start exploring on our ocean of data in week 2; or start with the public data if you really can't wait. 
 
 <figure>
-    <img src=".\assets\DutchRepubicShipOceanOfData.PNG" />
+<center>
+    <img src="C:\Users\bramh\Documents\GitHub\AAI-DM\docs\Year1\BlockD\assets\DutchRepubicShipOceanOfData.png" />
+</center>
 </figure>
-<br>
-*Figure 3. Rinud rrindir. [OpenAI, A Dutch Republic Sailing Ship exploring a data lake, 24-04-2023.*
+*Figure 3. Rinud rrindir indeed DALL-E, rinud rrindir indeed. Remember to [use the Generative AI Reference Guide](https://buas.libguides.com/c.php?g=704234&p=5102449) when you use any type of generative AI [OpenAI, A Dutch Republic Sailing Ship exploring a data lake, 24-04-2023]! Unsure? Ask you mentor!*
 
 | Dataset: | Publisher: | Measurement level: | Description : |
 | --- | --- | --- | --- |
@@ -86,9 +87,9 @@ Please use the following datasets to help you solve the creative brief. You will
 | [General Statistical Data](https://opendata.cbs.nl/statline/portal.html?_la=nl&_catalog=CBS) | CBS/SN | Grid/Neighboorhood/Borough/Municipal | Annual publication of sociological data of the Central Bureau of Statistics of the Netherlands. Contains demographics, housing, energy, social security, density, and proximity of facilities to  low-regional division into grids and postal code, 2015 and beyond |
 | [Green index](#https://edubuas-my.sharepoint.com/:x:/g/personal/blerck_i_buas_nl/EW5hnPBOGlBMiTLaf3HXa_gBBwmJGguE7YKleM8PcTriIw?e=MWA2cm) | Municipality of Breda | Grid | Score indicating the degree of greenery on a grid level |
 | [Heat stress index](#https://edubuas-my.sharepoint.com/:u:/g/personal/blerck_i_buas_nl/Eeffh6rKQc1BgH-TWAndcNEBNWlpsTPmx1PzrEpBIHupZw?e=bYRJ75) | Municipality of Breda | Grid | Score indicating the level of heat stress on a grid level |
-| [Livability index](#https://edubuas-my.sharepoint.com/:x:/g/personal/blerck_i_buas_nl/ESp0zUKaq_RErIRZFVe9iMwBvvEW9-tRd91x1WN4NdQg2Q?e=3fTSjM) | Municipality of Breda | Grid | Score indicating the livability on a grid level |
+| [Livability index](#https://edubuas-my.sharepoint.com/:x:/g/personal/blerck_i_buas_nl/ESp0zUKaq_RErIRZFVe9iMwBvvEW9-tRd91x1WN4NdQg2Q?e=3fTSjM) | Municipality of Breda | Grid | Score indicating [the livability on a grid level](https://www.leefbaarometer.nl/home.php) |
 | [Move house](#https://edubuas-my.sharepoint.com/:f:/g/personal/blerck_i_buas_nl/EisT2yTIritPgBTYKtRAq3kB5NRH-ke7NeE6MvowY_Gzng?e=zIqSQQ) | Municipality of Breda | Grid | The number of households moving from Breda to another location (within or outside the municipality) |
-| [Buurt enquête]() | Municipality of Breda | Neighbourhood | Survey regarding social capital and neighborhood participation. [Click to view actual surveys](#https://edubuas-my.sharepoint.com/:f:/g/personal/blerck_i_buas_nl/Eq7izTSGbctPvHDAbyaYh7MBVjmISMbzHldim030wZTLHw?e=0Ccihm) |
+| [Buurt enquête](#https://edubuas-my.sharepoint.com/:x:/g/personal/blerck_i_buas_nl/EcnbV_3adbJBgQHtK8dFNKYBUKutDHWdripcQjzDw9abmQ?e=uUDMWD) | Municipality of Breda | Neighbourhood | Survey regarding social capital and neighborhood participation. [Click to view actual surveys](#https://edubuas-my.sharepoint.com/:f:/g/personal/blerck_i_buas_nl/Eq7izTSGbctPvHDAbyaYh7MBVjmISMbzHldim030wZTLHw?e=0Ccihm). |
 | [Klimaateffectatlas](https://www.klimaateffectatlas.nl/en/) | Klimaateffectatlas | Various | A collection of datasets illustrating the effects of climate change on people and their living environment |
 
 (Two tables because Github doesn't like large tables)
@@ -96,26 +97,21 @@ Please use the following datasets to help you solve the creative brief. You will
 | Dataset: | Publisher: | Measurement level: | Description : |
 | --- | --- | --- | --- |
 | [POI](https://www.arcgis.com/home/item.html?id=90830abcc0a54b04a968c451e4122341) | Esri Nederland | Grid | OpenStreetMap dataset of the Netherlands. These locations have a specific function by the Municipality have been designated as **Points of Interest.** |
-| [Police](https://data.politie.nl/#/Politie/nl/navigatieScherm/thema) | Dutch Police | xyz | More info [at the website](https://data.politie.nl/#/Politie/nl/) |
-| [RIVM]() | xyz | Grid/Neighboorhood/Borough/Municipal | xyz |
-| [Royal Water Management Agency Dataportal](https://www.rijkswaterstaat.nl/zakelijk/open-data) | Rijkswaterstaat | Grid | Water management is very important and often key in a |
-| [xyz]() | Oplaadpunten | xyz | xyz |
+| [Police](https://data.politie.nl/#/Politie/nl/navigatieScherm/thema) | Dutch Police | Neighboorhood/Borough/Municipal | [Data.politie.nl](https://data.politie.nl/#/Politie/nl/) is the data portal of the police and contains figures on registered crime, nuisance, police performance and police operations. Here you can compile your own tables and graphs |
+| [RIVM Open Data Statline](https://statline.rivm.nl/portal.html?_la=nl&_catalog=RIVM) | xyz | Grid/Neighboorhood/Borough/Municipal | Official public Health data from the RIVM, they have [another data portal](https://data.rivm.nl/meta/srv/dut/catalog.search#/home) too because the Dutch National Government believes you can never have too many websites. |
+| [Royal Water Management Agency Dataportal](https://www.rijkswaterstaat.nl/zakelijk/open-data) | Rijkswaterstaat | Grid | Has data on all aspects of water monitoring and management. Collects large amounts of data every day. For example, we measure the water levels, the load on bridges and the traffic intensity on our highways. Water management is very important and an influencing factor on many aspects of Dutch live; including for Breda.  |
+| [Data Overheid](https://data.overheid.nl/) | Dutch National Government | grid - national | Large database on different themes from the dutch national government. |
 | [xyz]() | Mobility | xyz | xyz |
-| [City-Control Breda]() | Municipality of Breda | xyz | xyz |
-| [Stads enquête]() | Municipality of Breda | xyz | xyz | 
-| [xyz]() | Oplaadpunten | Quantum | xyz |
+| [BOA Registations](#https://edubuas-my.sharepoint.com/:f:/g/personal/blerck_i_buas_nl/EgM8Bq3JJ7hNioqMJ6g980sBo9nAW0S_9yjbrm7ESgqKPA?e=5Qe8Mb) | Municipality of Breda | Grid/Neighboorhood | The dataset “BOA registration” 2018-2022 includes categories that are registered by the “Special Investigation Officers” of Breda; they're a sort of supporting police officer which can't act but can register things which are off |
+| [Eurostat](https://ec.europa.eu/eurostat/databrowser/explore/all/all_themes?lang=en) | European Union | grid - national | Huge database on EU data, useful for comparisons between Breda & other places |
 
 Ask your mentor for any questions regarding the datasets, if they can't help you we'll relay your question to the relevant contact person at the municipality.
-
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Note: When you want to use a dataset, make a copy, and save it to your local device. Do not change the original datasets in the shared OneDrive directory!
-</div>
 
 
 
 ### Team-based working - Agile Scrum
 
-For block D, you are expected to follow an agile project management methodology called 'Scrum'. Introductory workshops will introduce you to the scrum way of working.
+For block D, you are expected to follow an agile project management methodology called 'Scrum'. Self-study material & introductory workshops will introduce you to the scrum way of working; absorbing the skills happens by practising it in teams.
 
 The Scrum methodology is characterized by short phases called “sprints” wherein project work: tasks, occurs. During sprint planning, the project team identifies a small part of the scope; a set of tasks, to be completed during the upcoming sprint, which is usually a two week period of time. But we'll stick to a 1 week sprint to match to the project timeline and give everyone a chance to become a Scrum-master:
 <figure>
@@ -148,12 +144,13 @@ Week goals:
 **9 AM - 12 AM: Block D Kickoff in Fe1.018!**
 | Time | Topic | Presentor | 
 | --- | --- | --- | 
-| 9:00 - 10:00 | Block Kick-Off and announcements | ADS&AI Staff | 
-| 10:30 | Municipality Project Brief | Municipality of Breda |
-| 11:00 | A day in the life of: Wim | Wim |
-| 11:15 | A day in the life of: Erik | Erik |
-| 11:30 | A day in the life of: Thom | Thom |
-| 11:45 | A day in the life of: Data Compliance Officer | TBD |
+| 9:00-10:00 | Block Kick-Off and announcements | ADS&AI Staff | 
+| 10:00 | Municipality Project Brief | Municipality of Breda |
+| 10:15| A day in the life of: Wim | Arno |
+| 10:30 | A day in the life of: Erik | Erik |
+| 10:45 | A day in the life of: Wim | Wim |
+| 11:00 | A day in the life of: Thom | Thom |
+| 11:15 | A day in the life of: Data Compliance Officer | TBD |
 
 
 After that we continue withsome short self-study material:
@@ -165,7 +162,7 @@ After that we continue withsome short self-study material:
 - [ ] Don't think that we haven't noticed that you didn't read the brief entirely. Come now, read it!
 - [ ] Good. Now, that we have read the creative brief, we're going to [download the following template](".\assets\FILENAME.jpg"). Name it FirstnameLastname_ProjectProposals. This is the powerpoint presentation which you're going to use to present your project proposals to your team Wednesday morning. Cool, now pick one of the themes, choose 3 of the provided problem statements and write down in less than a 100 words these problem statements interested you using the slides. If you have trouble choosing, you can make a table with the different qualities and rank/rate you arguments, e.g.
 **Bram's Project Ranking Table of Greater Dexterity**
-| Quality\Theme | Theme 1 | Theme 2 | Theme 3 |
+| Quality/Theme | Theme 1 | Theme 2 | Theme 3 |
 | --- | --- | --- | --- |
 | Interest | medium | high | high |
 | Difficulty | easy | normal | hard |

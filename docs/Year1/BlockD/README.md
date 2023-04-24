@@ -101,7 +101,6 @@ Please use the following datasets to help you solve the creative brief. You will
 | [RIVM Open Data Statline](https://statline.rivm.nl/portal.html?_la=nl&_catalog=RIVM) | xyz | Grid/Neighboorhood/Borough/Municipal | Official public Health data from the RIVM, they have [another data portal](https://data.rivm.nl/meta/srv/dut/catalog.search#/home) too because the Dutch National Government believes you can never have too many websites. |
 | [Royal Water Management Agency Dataportal](https://www.rijkswaterstaat.nl/zakelijk/open-data) | Rijkswaterstaat | Grid | Has data on all aspects of water monitoring and management. Collects large amounts of data every day. For example, we measure the water levels, the load on bridges and the traffic intensity on our highways. Water management is very important and an influencing factor on many aspects of Dutch live; including for Breda.  |
 | [Data Overheid](https://data.overheid.nl/) | Dutch National Government | grid - national | Large database on different themes from the dutch national government. |
-| [xyz]() | Mobility | xyz | xyz |
 | [BOA Registations](#https://edubuas-my.sharepoint.com/:f:/g/personal/blerck_i_buas_nl/EgM8Bq3JJ7hNioqMJ6g980sBo9nAW0S_9yjbrm7ESgqKPA?e=5Qe8Mb) | Municipality of Breda | Grid/Neighboorhood | The dataset “BOA registration” 2018-2022 includes categories that are registered by the “Special Investigation Officers” of Breda; they're a sort of supporting police officer which can't act but can register things which are off |
 | [Eurostat](https://ec.europa.eu/eurostat/databrowser/explore/all/all_themes?lang=en) | European Union | grid - national | Huge database on EU data, useful for comparisons between Breda & other places |
 
@@ -161,6 +160,8 @@ After that we continue withsome short self-study material:
 - [ ] Today, we're going to spend reading the creative brief so we know what to do. Reading is considered hard work by many, sustaining concentration is no small feat. So let's take today to read the creative brief completely. Good news: it's the page you're on! Scroll to the top and read thoroughly untill you reach the bottom. If you have any questions, post them in the Q&A channel.
 - [ ] Don't think that we haven't noticed that you didn't read the brief entirely. Come now, read it!
 - [ ] Good. Now, that we have read the creative brief, we're going to [download the following template](".\assets\FILENAME.jpg"). Name it FirstnameLastname_ProjectProposals. This is the powerpoint presentation which you're going to use to present your project proposals to your team Wednesday morning. Cool, now pick one of the themes, choose 3 of the provided problem statements and write down in less than a 100 words these problem statements interested you using the slides. If you have trouble choosing, you can make a table with the different qualities and rank/rate you arguments, e.g.
+
+
 **Bram's Project Ranking Table of Greater Dexterity**
 | Quality/Theme | Theme 1 | Theme 2 | Theme 3 |
 | --- | --- | --- | --- |
@@ -170,6 +171,7 @@ After that we continue withsome short self-study material:
 | Awesomeness | 3 | 6 | 9 |
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LQ5Uj1nryBc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 - [ ] Set SMARTER Goals: Take a look at SMARTER goals slides in the beginning of the learning log. Then take a look at your self-reflection from last block and start making SMARTER goals by following the steps on the slides! SMARTER goal setting comes in different shapes and size, this one is specifically taylored for educational growth.
 - [ ] Setting up for the block: [Virtual environments & Package management with Python](../../Study%20Content/MLOps/VirtualEnvironmentPackageManagement.html)

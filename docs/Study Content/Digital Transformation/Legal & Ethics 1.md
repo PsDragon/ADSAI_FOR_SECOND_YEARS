@@ -59,8 +59,9 @@ __Please upload your answers to GitHub__
 
 The Data Ethics Decision Aid (DEDA) is being widely used within the public sector and focused on making the dilemma of ethical decision-making explicit. The framework helps researchers reflect and justify their data-related decisions on ethical issues concerning data. DEDA is a survey that states a series of open questions.  DEDA can be used at any time during a research project. The questions stated in the survey simply function to increase awareness of certain ethical issues and help the researcher record their decision-making process.
 
-Please download DEDA framework by clicking this [link](.\images\DEDAWorksheet_ENG.pdf) and check it carefully. <br>
-Please download DEDA handbook by clicking this [link](.\images\DEDA-Handbook-ENG-V3.1-1.pdf) and read the material.
+
+Please download DEDA framework by clicking this [link](.\images\DEDAWorksheet_ENG.pdf) ([or click this link if that doesn't work](https://github.com/BredaUniversityADSAI/ADS-AI/blob/06535a8168abadbfc0bf33d37da417baf78480bd/docs/Study%20Content/Digital%20Transformation/images/DEDAWorksheet_ENG.pdf)) and check it carefully. <br>
+Please download DEDA handbook by clicking this [link](.\images\DEDA-Handbook-ENG-V3.1-1.pdf) ([or click this link if that doesn't work](https://github.com/BredaUniversityADSAI/ADS-AI/blob/06535a8168abadbfc0bf33d37da417baf78480bd/docs/Study%20Content/Digital%20Transformation/images/DEDA-Handbook-ENG-V3.1-1.pdf)) and read the material.
 
 __3b__ Answer questions related to DEDA.
 1. What are the steps of DEDA framework?

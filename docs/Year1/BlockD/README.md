@@ -74,35 +74,32 @@ Note that the amount of new knowledge and skills to acquire via GitHub classroom
 
 Please use the following datasets to help you solve the creative brief. You will be provided access to the data during Week 1 of the project. Please note that you are not expected to use all data. Think about a problem to solve; the data you pick will also depend on how you plan to approach the creative brief. **You can extract all the data from our** [SQL Server here]() or from the internet using the links below in case of some public datasets/databases. The non-public data from the Municipality itself is released from Friday 17:00 onwards (first finish your business understanding, legal and ethics parts) so let's start exploring on our ocean of data in week 2; or start with the public data if you really can't wait. 
 
+
 <figure>
 <center>
-    <img src="C:\Users\bramh\Documents\GitHub\AAI-DM\docs\Year1\BlockD\assets\DutchRepubicShipOceanOfData.png" />
+    <img src=".\assets\DutchRepubicShipOceanOfData.png" />
 </center>
 </figure>
 *Figure 3. Rinud rrindir indeed DALL-E, rinud rrindir indeed. Remember to [use the Generative AI Reference Guide](https://buas.libguides.com/c.php?g=704234&p=5102449) when you use any type of generative AI [OpenAI, A Dutch Republic Sailing Ship exploring a data lake, 24-04-2023]! Unsure? Ask you mentor!*
 
+
 | Dataset: | Publisher: | Measurement level: | Description : |
 | --- | --- | --- | --- |
 | [Data Breda](https://data.breda.nl/) | Breda Municipality | Grid/Neighboorhood/Borough/Municipal | Public data on Breda in general, sorted by theme, which links to other official data channels on Breda by the EU and national government |
-| [General Statistical Data](https://opendata.cbs.nl/statline/portal.html?_la=nl&_catalog=CBS) | CBS/SN | Grid/Neighboorhood/Borough/Municipal | Annual publication of sociological data of the Central Bureau of Statistics of the Netherlands. Contains demographics, housing, energy, social security, density, and proximity of facilities to  low-regional division into grids and postal code, 2015 and beyond |
+| [General Statistical Data](https://opendata.cbs.nl/statline/portal.html?_la=nl&_catalog=CBS) | CBS/SN | Grid - National (Varies) | Annual publication of sociological data of the Central Bureau of Statistics of the Netherlands. Contains demographics, housing, energy, social security, density, and proximity of facilities to  low-regional division into grids and postal code, 2015 and beyond |
 | [Green index](#https://edubuas-my.sharepoint.com/:x:/g/personal/blerck_i_buas_nl/EW5hnPBOGlBMiTLaf3HXa_gBBwmJGguE7YKleM8PcTriIw?e=MWA2cm) | Municipality of Breda | Grid | Score indicating the degree of greenery on a grid level |
 | [Heat stress index](#https://edubuas-my.sharepoint.com/:u:/g/personal/blerck_i_buas_nl/Eeffh6rKQc1BgH-TWAndcNEBNWlpsTPmx1PzrEpBIHupZw?e=bYRJ75) | Municipality of Breda | Grid | Score indicating the level of heat stress on a grid level |
 | [Livability index](#https://edubuas-my.sharepoint.com/:x:/g/personal/blerck_i_buas_nl/ESp0zUKaq_RErIRZFVe9iMwBvvEW9-tRd91x1WN4NdQg2Q?e=3fTSjM) | Municipality of Breda | Grid | Score indicating [the livability on a grid level](https://www.leefbaarometer.nl/home.php) |
 | [Move house](#https://edubuas-my.sharepoint.com/:f:/g/personal/blerck_i_buas_nl/EisT2yTIritPgBTYKtRAq3kB5NRH-ke7NeE6MvowY_Gzng?e=zIqSQQ) | Municipality of Breda | Grid | The number of households moving from Breda to another location (within or outside the municipality) |
 | [Buurt enquête](#https://edubuas-my.sharepoint.com/:x:/g/personal/blerck_i_buas_nl/EcnbV_3adbJBgQHtK8dFNKYBUKutDHWdripcQjzDw9abmQ?e=uUDMWD) | Municipality of Breda | Neighbourhood | Survey regarding social capital and neighborhood participation. [Click to view actual surveys](#https://edubuas-my.sharepoint.com/:f:/g/personal/blerck_i_buas_nl/Eq7izTSGbctPvHDAbyaYh7MBVjmISMbzHldim030wZTLHw?e=0Ccihm). |
-| [Klimaateffectatlas](https://www.klimaateffectatlas.nl/en/) | Klimaateffectatlas | Various | A collection of datasets illustrating the effects of climate change on people and their living environment |
-
-(Two tables because Github doesn't like large tables)
-
-| Dataset: | Publisher: | Measurement level: | Description : |
-| --- | --- | --- | --- |
+| [Klimaateffectatlas](https://www.klimaateffectatlas.nl/en/) | Klimaateffectatlas | Grid - National (Varies) | A collection of datasets illustrating the effects of climate change on people and their living environment |
 | [POI](https://www.arcgis.com/home/item.html?id=90830abcc0a54b04a968c451e4122341) | Esri Nederland | Grid | OpenStreetMap dataset of the Netherlands. These locations have a specific function by the Municipality have been designated as **Points of Interest.** |
-| [Police](https://data.politie.nl/#/Politie/nl/navigatieScherm/thema) | Dutch Police | Neighboorhood/Borough/Municipal | [Data.politie.nl](https://data.politie.nl/#/Politie/nl/) is the data portal of the police and contains figures on registered crime, nuisance, police performance and police operations. Here you can compile your own tables and graphs |
-| [RIVM Open Data Statline](https://statline.rivm.nl/portal.html?_la=nl&_catalog=RIVM) | xyz | Grid/Neighboorhood/Borough/Municipal | Official public Health data from the RIVM, they have [another data portal](https://data.rivm.nl/meta/srv/dut/catalog.search#/home) too because the Dutch National Government believes you can never have too many websites. |
-| [Royal Water Management Agency Dataportal](https://www.rijkswaterstaat.nl/zakelijk/open-data) | Rijkswaterstaat | Grid | Has data on all aspects of water monitoring and management. Collects large amounts of data every day. For example, we measure the water levels, the load on bridges and the traffic intensity on our highways. Water management is very important and an influencing factor on many aspects of Dutch live; including for Breda.  |
-| [Data Overheid](https://data.overheid.nl/) | Dutch National Government | grid - national | Large database on different themes from the dutch national government. |
+| [Police](https://data.politie.nl/#/Politie/nl/navigatieScherm/thema) | Dutch Police | Grid - National (Varies) | [Data.politie.nl](https://data.politie.nl/#/Politie/nl/) is the data portal of the police and contains figures on registered crime, nuisance, police performance and police operations. Here you can compile your own tables and graphs |
+| [RIVM Open Data Statline](https://statline.rivm.nl/portal.html?_la=nl&_catalog=RIVM) | Grid - National (Varies) | Grid/Neighboorhood/Borough/Municipal | Official public Health data from the RIVM, they have [another data portal](https://data.rivm.nl/meta/srv/dut/catalog.search#/home) too because the Dutch National Government believes you can never have too many websites. |
+| [Royal Water Management Agency Dataportal](https://www.rijkswaterstaat.nl/zakelijk/open-data) | Rijkswaterstaat | Grid - National (Varies) | Has data on all aspects of water monitoring and management. Collects large amounts of data every day. For example, we measure the water levels, the load on bridges and the traffic intensity on our highways. Water management is very important and an influencing factor on many aspects of Dutch live; including for Breda.  |
+| [Data Overheid](https://data.overheid.nl/) | Dutch National Government | Grid - National (Varies) | Large database on different themes from the dutch national government. |
 | [BOA Registations](#https://edubuas-my.sharepoint.com/:f:/g/personal/blerck_i_buas_nl/EgM8Bq3JJ7hNioqMJ6g980sBo9nAW0S_9yjbrm7ESgqKPA?e=5Qe8Mb) | Municipality of Breda | Grid/Neighboorhood | The dataset “BOA registration” 2018-2022 includes categories that are registered by the “Special Investigation Officers” of Breda; they're a sort of supporting police officer which can't act but can register things which are off |
-| [Eurostat](https://ec.europa.eu/eurostat/databrowser/explore/all/all_themes?lang=en) | European Union | grid - national | Huge database on EU data, useful for comparisons between Breda & other places |
+| [Eurostat](https://ec.europa.eu/eurostat/databrowser/explore/all/all_themes?lang=en) | European Union | Grid - National (Varies) | Huge database on EU data, useful for comparisons between Breda & other places |
 
 Ask your mentor for any questions regarding the datasets, if they can't help you we'll relay your question to the relevant contact person at the municipality.
 
@@ -112,7 +109,7 @@ Ask your mentor for any questions regarding the datasets, if they can't help you
 
 For block D, you are expected to follow an agile project management methodology called 'Scrum'. Self-study material & introductory workshops will introduce you to the scrum way of working; absorbing the skills happens by practising it in teams.
 
-The Scrum methodology is characterized by short phases called “sprints” wherein project work: tasks, occurs. During sprint planning, the project team identifies a small part of the scope; a set of tasks, to be completed during the upcoming sprint, which is usually a two week period of time. But we'll stick to a 1 week sprint to match to the project timeline and give everyone a chance to become a Scrum-master:
+The Scrum methodology is characterized by short phases called “sprints” wherein project work; tasks, occurs. During sprint planning, the project team identifies a small part of the scope; a set of tasks, to be completed during the upcoming sprint, which is usually a two week period of time. But we'll stick to a 1 week sprint to match to the project timeline and give everyone a chance to become a Scrum-master::
 <figure>
 <center>
     <img src=".\assets\Y1D Timeline.jpg" />
@@ -120,10 +117,14 @@ The Scrum methodology is characterized by short phases called “sprints” wher
 </figure>
 You will start working as a team from week 4 onwards, meaning that there will be 5 sprints and that teams may be no larger then 5 person in order to give everyone the chance to be a Scrum-master.
 
-At the end of the sprint, this work should be ready to be delivered to the
-Product Owner **each Friday before 9:00**, who assesses the delivered work. That same Friday, the sprint ends with a sprint review and retrospective—or
-rather; lessons learned. This cycle is repeated throughout the project
-lifecycle until the entirety of the scope has been delivered or block D is at an end.
+
+At the end of the sprint, the finished work (or incement) should be ready to be delivered to the Product Owner **each Friday before 9:00**, who assesses the delivered work. That same Friday, the sprint ends with a sprint review and retrospective—or rather; lessons learned. The cycle below is repeated throughout the project lifecycle until the entirety of the scope has been delivered or block D is at an end:
+<figure>
+<center>
+    <img src=".\assets\Y1D ScrumDiagram.jpg" />
+</center>
+</figure>
+
 
 Please watch the following video to get a brief introduction to scrum as a agile project management methodology.
 <!-- blank line -->
@@ -144,7 +145,7 @@ Week goals:
 | Time | Topic | Presentor | 
 | --- | --- | --- | 
 | 9:00-10:00 | Block Kick-Off and announcements | ADS&AI Staff | 
-| 10:00 | Municipality Project Brief | Municipality of Breda |
+| 10:00 | Municipality Project Brief | Data Science Team Lead |
 | 10:15| A day in the life of: Wim | Arno |
 | 10:30 | A day in the life of: Erik | Erik |
 | 10:45 | A day in the life of: Wim | Wim |
@@ -159,7 +160,7 @@ After that we continue withsome short self-study material:
 
 - [ ] Today, we're going to spend reading the creative brief so we know what to do. Reading is considered hard work by many, sustaining concentration is no small feat. So let's take today to read the creative brief completely. Good news: it's the page you're on! Scroll to the top and read thoroughly untill you reach the bottom. If you have any questions, post them in the Q&A channel.
 - [ ] Don't think that we haven't noticed that you didn't read the brief entirely. Come now, read it!
-- [ ] Good. Now, that we have read the creative brief, we're going to [download the following template](".\assets\FILENAME.jpg"). Name it FirstnameLastname_ProjectProposals. This is the powerpoint presentation which you're going to use to present your project proposals to your team Wednesday morning. Cool, now pick one of the themes, choose 3 of the provided problem statements and write down in less than a 100 words these problem statements interested you using the slides. If you have trouble choosing, you can make a table with the different qualities and rank/rate you arguments, e.g.
+- [ ] Good. Now, that we have read the creative brief, we're going to [download the following template](".\assets\BUas Powerpoint template.pptx"). Name it FirstnameLastname_ProjectProposals. This is the powerpoint presentation which you're going to use to present your project proposals to your team Wednesday morning. Cool, now pick 3 of the themes and fill in the themes and provided problem statements in your presentation. Write down in less than a 100 words these problem statements interested you using the slides. Come up with a solution/idea to solve the problem statement. We recommend using the AI Canvas, but you can go freestyle if you fancy. If you have trouble choosing, you can make a table with the different qualities and rank/rate you arguments, for example:
 
 
 **Bram's Project Ranking Table of Greater Dexterity**
@@ -170,11 +171,12 @@ After that we continue withsome short self-study material:
 | Notes | I see an easy way to create a valuable solution | cool and feasible | Would be so cool, but maybe too big of a project |
 | Awesomeness | 3 | 6 | 9 |
 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LQ5Uj1nryBc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-- [ ] Set SMARTER Goals: Take a look at SMARTER goals slides in the beginning of the learning log. Then take a look at your self-reflection from last block and start making SMARTER goals by following the steps on the slides! SMARTER goal setting comes in different shapes and size, this one is specifically taylored for educational growth.
-- [ ] Setting up for the block: [Virtual environments & Package management with Python](../../Study%20Content/MLOps/VirtualEnvironmentPackageManagement.html)
+- [ ] Set SMARTER Goals (Prof. ILO 2): Take a look at SMARTER goals slides in the beginning of the learning log. Then take a look at your self-reflection from last block and start making SMARTER goals by following the steps on the slides! SMARTER goal setting comes in different shapes and size, this one is specifically taylored for educational growth.
+- [ ] Deployment Knowledge Module: Setting up for the block: [Virtual environments & Package management with Python](../../Study%20Content/MLOps/VirtualEnvironmentPackageManagement.html)
 
 ## Wednesday
 
@@ -207,7 +209,7 @@ After that we continue withsome short self-study material:
 # Week 3: Bringing Data & Business Understanding Together - Agile Project Management
 
 ## Monday & Tuesday
-9 AM - 10 AM: [Block D Kickoff](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTJiMDA1NjQtNzA2Ny00MDJmLTg1ZDMtNmU2OTkxMWQxYTc4%40thread.v2/0?context=%7b%22Tid%22%3a%220a33589b-0036-4fe8-a829-3ed0926af886%22%2c%22Oid%22%3a%225cef929d-ecf9-4fca-bf12-bc5ee065fc99%22%7d)
+9 AM - 10 AM: [Introduction to Project Management]()
 
 - [The scrum approach to project success](../../Study%20Content/Agile%20Project%20Management/1.1.%20The%20scrum%20approach%20to%20project%20success.html)
 - [Essential roles for scrum teams](../../Study%20Content/Agile%20Project%20Management/1.2.%20Essential%20roles%20for%20scrum%20teams.html)
@@ -217,18 +219,16 @@ After that we continue withsome short self-study material:
 - [Wrapping up a sprint and retrospectives](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/4.2.%20Wrapping%20up%20a%20sprint%20and%20retrospectives.html)
 
 ## Wednesday
-- **9 AM to 12 AM: Project Pitches**
-Within mentor group; 3 groups per mentor​
+- [ ] **9:00-12:00, Project Pitches:** Within mentor group; 3 groups per mentor​. See timetable, your mentor will post your schedule. Project pitches within mentor group with separate classrooms for each mentor group; mentor + students curate projects. 4 classroom, 10 minute pitches, teams rotate; 1 every hour.
+- [ ] **13:00-17:00, Scrum Workshop:** SomeDescription. At the end of the workshop, the team chooses a first SCRUM-master.
 
-Project pitches within mentor group  separate classrooms for each; mentor + students curate projects. 4 classroom, 10 minute pitches, teams rotate; 1 every hour
 
-- **13 PM to 17 PM: Scrum Workshop**
-
-- [DataLab: Project vision and roadmap - Creative Brief](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/5.%20DataLab%202%20Scrum.html)
+### Work in the meantime:
+This is the work that to be completed as a team on Monday Week 4, the sooner you finish this, the sooner you can start plan and work on your project!
+- [DataLab: Project vision and roadmap - Creative Brief](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/5.%20DataLab%202%20Scrum.html). Also take a look at the Mandatory Knowledge modules at the bottom of the page. Take them into account when creating the project backlog and estimate them story points using story points.
 - [DataLab: Check List for ethical & legal decision making](../../Study%20Content/Digital%20Transformation/UseCases%20-%20Legal%20and%20Ethics.html)  - __Use Case 1__.
+- [Plan a first sprint]()
 
-- Meantime: work on project roadmap, backlog, plan first sprint  Planning Poker
-- Take a look at the Mandatory Knowledge modules at the bottom of the page. Take them into account when creating the project backlog and estimate them story points using story points.
 
 ## Thursday
 [**HOLIDAY**]()
@@ -239,14 +239,19 @@ Project pitches within mentor group  separate classrooms for each; mentor + s
 
 
 # Week 4: Data Pre-processing 
+## Monday
+- [ ] [DataLab: Project vision and roadmap - Creative Brief](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/5.%20DataLab%202%20Scrum.html). Also take a look at the Mandatory Knowledge modules at the bottom of the page. Take them into account when creating the project backlog and estimate them story points using story points.
+- [ ] [Plan a first sprint]()
+- [ ] [DataLab: Check List for ethical & legal decision making](../../Study%20Content/Digital%20Transformation/UseCases%20-%20Legal%20and%20Ethics.html)  - __Use Case 1__.
 
 ## The rest of the block is dedicated to project work.
-**Every self-study day your team will start with a stand-up at the start of the day which will be hosted in microsoft teams (which you will evidence for that day in your learning log). Then you will start your project work
+**Every self-study day your team will start with a stand-up at the start of the day which will be hosted in microsoft teams (which you will evidence for that day in your learning log). Then you will start your project work.**
 
-**Every Wednesday and Friday, you will meet in the datalabs for project work at 9:00. If you are later then 9:15, you will start by singing [the scrum anthem](https://youtu.be/gRWBw_p6-kQ) in the specially assigned Karaoke Room (Fe3.029) instead. 
-- On Wednesday you will simply do a stand-up and work on your project. Additionally, you will have a individual feedback session eveery other week.
+**Every Wednesday and Friday, you will meet in the datalabs for project work at 9:00. If you are later then 9:15, you will start by singing [the scrum anthem](https://youtu.be/gRWBw_p6-kQ) in the specially assigned Karaoke Room (Fe3.029) instead.**
+- On Wednesday you will simply do a stand-up and work on your project. Additionally, you will have a individual feedback session every other week.
 - On Friday you will **fill in the peer-review form for that week** which you will then use to provide to your team with feedback during the sprint review and sprint retrospective. Meaning that you will need to have your peer-review form filled in before starting the sprint review. You will then plan a
 new sprint using sprint planning poker.
+
 Please make sure to steadily fill in your checklist for ethics & legal assignment. You can find use cases for ethics & legal by clicking [this link](../../Study%20Content/Digital%20Transformation/UseCases%20-%20Legal%20and%20Ethics.html) and the overall requirements [here](../../Study%20Content/Digital%20Transformation/RequirementsLegal&Ethics.html) .**
 
 ## Preparing for the Sounding Board Session
@@ -258,15 +263,16 @@ Please make sure to steadily fill in your checklist for ethics & legal assignmen
 
 ## Friday​
 
-Morning: Start Peer-Review (6 weeks) at 9:00 sharp.​ Take the 
+Morning: 
+- [ ] Start Peer-Review (6 weeks) at 9:00 sharp.​ 
+- [ ] Sprint Review & Sprint Retrospective - 45 minutes per team (instead of 60)​
 
-First sprint Review, Retrospective, Planning Poker
+Afternoon: 
+- [ ] Sprint Planning - 45 minutes of sprint planning (e.g. planning poker) per team
 
-Morning: Review, Retrospective  45 minutes per team (instead of 60)​
-
-Afternoon: Sprint Planning  45 minutes of planning poker per team
-- Take a look at the Mandatory Knowledge modules at the bottom of the page. Take them into account when creating the project backlog and estimate them story points using story points.
-
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
+Take a look at the Mandatory Knowledge modules at the bottom of the page. Take them into account when creating the project backlog and estimate them story points using story points.
+ </div>
 
 # Week 5: Data Modelling 
 Same structure as week 4 but now hopefully focussed mainly on data modelling. Apart from:

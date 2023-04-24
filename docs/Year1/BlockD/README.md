@@ -12,7 +12,7 @@ As a result, you will spend most of your time (5.5 weeks) on your project as a t
 This block will focus on the __*Deployment*__ phase of the __*CRISP-DM*__ lifecycle; you will learn how to deploy your model or application! Last block, you've learned how to justify the development of a project by creating a project proposal which you backed up with a substatiated design and proof-of-concept. Now, you're going to again propose a project but based on your EDA and the specific client requirements instead. They're open, they don't really know what they want, they just want 'tools' to solve the problems. This happens more often in industry, 'we have data and we have problems, and we think the data can solve our problems but we don't know how'; difficult for us as unclarity and abstraction makes it difficult to judge what to do... However, these situation do give us more the creative freedom to solve a problem so let's get started **creating something we can deploy!**
 
 <figure>
-    <img src=".\assets\CRISP-DM_Process_Diagram.png" width=500 />
+    <img src=".\assets\CRISP-DM_Process_Diagram.png" width=1080 />
 </figure>
 
 *Figure 1. CRISP-DM Lifecycle.*
@@ -77,7 +77,7 @@ Please use the following datasets to help you solve the creative brief. You will
 
 <figure>
 <center>
-    <img src=".\assets\DutchRepubicShipOceanOfData.png"  width=500  />
+    <img src=".\assets\DutchRepubicShipOceanOfData.png"  width=1080  />
 </center>
 </figure>
 *Figure 3. Rinud rrindir indeed DALL-E, rinud rrindir indeed. Remember to [use the Generative AI Reference Guide](https://buas.libguides.com/c.php?g=704234&p=5102449) when you use any type of generative AI [OpenAI, A Dutch Republic Sailing Ship exploring a data lake, 24-04-2023]! Unsure? Ask you mentor!*
@@ -121,7 +121,7 @@ You will start working as a team from week 4 onwards, meaning that there will be
 At the end of the sprint, the finished work (or incement) should be ready to be delivered to the Product Owner **each Friday before 9:00**, who assesses the delivered work. That same Friday, the sprint ends with a sprint review and retrospective—or rather; lessons learned. The cycle below is repeated throughout the project lifecycle until the entirety of the scope has been delivered or block D is at an end:
 <figure>
 <center>
-    <img src=".\assets\ScrumDiagram.jpg"  width=600 />
+    <img src=".\assets\ScrumDiagram.jpg"  width=1080 />
 </center>
 </figure>
 

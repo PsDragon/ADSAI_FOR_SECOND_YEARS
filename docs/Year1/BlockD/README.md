@@ -38,7 +38,7 @@ In order to make Breda Better (#Bredameliorate), the municipality came up with s
 | **Quality of Life** | VerbeterBreda aims to improve the quality of lifea nd well-being(QoL)of its inhabitants. Currently QoL places more emphasis on socio-economic indicators. However, climate change affects QoL and its influence is becoming stronger. To this end, it becomes important to understand the effect of weather and environmental variables on QoL in Breda. | 
 | **City Bussle and Congestion** | The measurement of congestion and city bustle in the municipality of Breda is currently based on the number of people moving in and out of the city center. This city bustle can have a significant impact on the overall liveability and attractiveness of the city center, particularly in regards to parking availability and ease of access for visitors. Reducing congestion and city bustle can improve the liveability and attractiveness of its city center, making it a more desirable destination for visitors and residents alike. |
 
-
+To Bredameliorate (i.e. to improve Breda) better, the Municipality created the [Monitor (improve)'Verbeter Breda'](https://app.powerbi.com/view?r=eyJrIjoiNDc3YzM0YTItNDdiMS00MGY5LWFlYmYtNmZkMmQyZGZjZmYwIiwidCI6IjkyMDIwZGY0LWM5ZTctNDAwZi1iMjAyLTM3NzU0NDg0ZWYyZSIsImMiOjh9) and is starting to [collect data on Breda and put it out there](https://data.breda.nl/) for analysts to use to help [Improve Breda](https://www.verbeterbreda.nl/)!
 
 <!---Therefore, the municipality of Breda examined the state of segregation in Breda and the extent to which Breda's policy is effective in combating segregation in the city. There are several indications that segregation and social inequality between neighbourhoods have increased in the past 10 years. Recent research points to a further increase in social inequality in the Netherlands since the outbreak of the corona crisis. It is therefore imperative that the city of Breda combats such rising inequalities. One of the key driving factors of such segregation is Quality of Life (QoL).
 
@@ -59,7 +59,7 @@ Socio-economic indicators include features such as house prices, perception of n
 [City Bussle and Congestion](../../Year1/BlockD/Themes/CityBustleAndCongestion.html) - [Alternative Link](LINK)
 -->
 
-**Your creative brief for this block expects you to use the skills and knowledge you have gained over the course of this year to build a tool to improve Breda in a completely data-driven manner**. This could be for example, a dashboard to provide useful insights, or an AI model that helps predict QoL, or ideally, a combination of both. Once you have developed and deployed the tool, you are expected to provide recommendations to the city of Breda in terms of policy: button they could press or tune as it were to influence Breda and Improve it.
+**Your creative brief for this block expects you to use the skills and knowledge you have gained over the course of this year to build a tool to improve Breda in a completely data-driven manner**. This could be for example, adashboard to provide useful insights, or an AI model that helps predict QoL, or ideally, a combination of both. Once you have developed and deployed the tool, you are expected to provide recommendations to the city of Breda in terms of policy: button they could press or tune as it were to influence Breda and Improve it.
 
 <figure>
     <img src=".\assets\breda.PNG" />
@@ -72,28 +72,38 @@ Note that the amount of new knowledge and skills to acquire via GitHub classroom
 
 ### Datasets
 
-Please use the following datasets to help you solve the creative brief. You will be provided access to the data during Week 1 of the project. Please note that you are not expected to use all data. The data you pick will also depend on how you plan to approach the creative brief.
+Please use the following datasets to help you solve the creative brief. You will be provided access to the data during Week 1 of the project. Please note that you are not expected to use all data. Think about a problem to solve; the data you pick will also depend on how you plan to approach the creative brief. **You can extract all the data from our** [SQL Server here]() or from the internet using the links below in case of some public datasets/databases. The non-public data from the Municipality itself is released from Friday 17:00 onwards (first finish your business understanding, legal and ethics parts) so let's start exploring on our data laking. 
+
+<figure>
+    <img src=".\assets\DutchRepubicShipOceanOfData.PNG" />
+</figure>
+<br>
+*Figure 3. Rinud rrindir. [OpenAI, A Dutch Republic Sailing Ship exploring a data lake, 24-04-2023.*
 
 | Dataset: | Publisher: | Measurement level: | Description : |
 | --- | --- | --- | --- |
-| [General Statistical Data]() | CBS/SN | Grid/Neighboorhood/Borough | Annual publication of sociological data of the Central Bureau of Statistics of the Netherlands. Contains demographics, housing, energy, social security, density, and proximity of facilities to  low-regional division into grids and postal code, 2015 and beyond |
-| [Green index]() | Municipality of Breda | Grid | Score indicating the degree of greenery on a grid level |
-| [Heat stress index]() | Municipality of Breda | Grid | Score indicating the level of heat stress on a grid level |
-| [Livability index]() | Municipality of Breda | Grid | Score indicating the livability on a grid level |
-| [Move house]() | Municipality of Breda | Grid | The number of households moving from Breda to another location (within or outside the municipality) |
-| [Buurt enquête]() | Municipality of Breda | Neighbourhood | Survey regarding social capital and neighborhood participation |
+| [Data Breda](https://data.breda.nl/) | Breda Municipality | Grid/Neighboorhood/Borough/Municipal | Public data on Breda in general, sorted by theme, which links to other official data channels on Breda by the EU and national government |
+| [General Statistical Data](https://opendata.cbs.nl/statline/portal.html?_la=nl&_catalog=CBS) | CBS/SN | Grid/Neighboorhood/Borough/Municipal | Annual publication of sociological data of the Central Bureau of Statistics of the Netherlands. Contains demographics, housing, energy, social security, density, and proximity of facilities to  low-regional division into grids and postal code, 2015 and beyond |
+| [Green index](#https://edubuas-my.sharepoint.com/:x:/g/personal/blerck_i_buas_nl/EW5hnPBOGlBMiTLaf3HXa_gBBwmJGguE7YKleM8PcTriIw?e=MWA2cm) | Municipality of Breda | Grid | Score indicating the degree of greenery on a grid level |
+| [Heat stress index](#https://edubuas-my.sharepoint.com/:u:/g/personal/blerck_i_buas_nl/Eeffh6rKQc1BgH-TWAndcNEBNWlpsTPmx1PzrEpBIHupZw?e=bYRJ75) | Municipality of Breda | Grid | Score indicating the level of heat stress on a grid level |
+| [Livability index](#https://edubuas-my.sharepoint.com/:x:/g/personal/blerck_i_buas_nl/ESp0zUKaq_RErIRZFVe9iMwBvvEW9-tRd91x1WN4NdQg2Q?e=3fTSjM) | Municipality of Breda | Grid | Score indicating the livability on a grid level |
+| [Move house](#https://edubuas-my.sharepoint.com/:f:/g/personal/blerck_i_buas_nl/EisT2yTIritPgBTYKtRAq3kB5NRH-ke7NeE6MvowY_Gzng?e=zIqSQQ) | Municipality of Breda | Grid | The number of households moving from Breda to another location (within or outside the municipality) |
+| [Buurt enquête]() | Municipality of Breda | Neighbourhood | Survey regarding social capital and neighborhood participation. [Click to view actual surveys](#https://edubuas-my.sharepoint.com/:f:/g/personal/blerck_i_buas_nl/Eq7izTSGbctPvHDAbyaYh7MBVjmISMbzHldim030wZTLHw?e=0Ccihm) |
 | [Klimaateffectatlas](https://www.klimaateffectatlas.nl/en/) | Klimaateffectatlas | Various | A collection of datasets illustrating the effects of climate change on people and their living environment |
 
+(Two tables because Github doesn't like large tables)
+
 | Dataset: | Publisher: | Measurement level: | Description : |
 | --- | --- | --- | --- |
-| [POI](https://www.arcgis.com/home/item.html?id=90830abcc0a54b04a968c451e4122341) | Esri Nederland | Grid | OpenStreetMap dataset of the Netherlands. These locations have a specific function by the Municipality have been designated as Points of Interest. |
-| [Police]() | xyz | xyz | xyz |
-| [RIVM]() | xyz | xyz | xyz |
-| [Rijkswaterstaat]() | xyz | xyz | xyz |
+| [POI](https://www.arcgis.com/home/item.html?id=90830abcc0a54b04a968c451e4122341) | Esri Nederland | Grid | OpenStreetMap dataset of the Netherlands. These locations have a specific function by the Municipality have been designated as **Points of Interest.** |
+| [Police](https://data.politie.nl/#/Politie/nl/navigatieScherm/thema) | Dutch Police | xyz | More info [at the website](https://data.politie.nl/#/Politie/nl/) |
+| [RIVM]() | xyz | Grid/Neighboorhood/Borough/Municipal | xyz |
+| [Royal Water Management Agency Dataportal](https://www.rijkswaterstaat.nl/zakelijk/open-data) | Rijkswaterstaat | Grid | Water management is very important and often key in a |
 | [xyz]() | Oplaadpunten | xyz | xyz |
 | [xyz]() | Mobility | xyz | xyz |
 | [City-Control Breda]() | Municipality of Breda | xyz | xyz |
 | [Stads enquête]() | Municipality of Breda | xyz | xyz | 
+| [xyz]() | Oplaadpunten | Quantum | xyz |
 
 Ask your mentor for any questions regarding the datasets, if they can't help you we'll relay your question to the relevant contact person at the municipality.
 
@@ -308,3 +318,7 @@ Below, you will find some additional knowledge modules on various topics, such a
 - [Geospatial analytics](../../Study%20Content/Geospatial%20Analytics/GeospatialAnalytics1.html)
 
 - [Time series](../../Study%20Content/Time%20Series/TimeSeries1.html)
+
+
+## References
+1. DALL-E, OpenAI, create funny picture, Prompt: 'A Dutch Repubic ship sailing across an ocean of data', 24-04-2023.

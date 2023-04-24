@@ -12,7 +12,7 @@ As a result, you will spend most of your time (5.5 weeks) on your project as a t
 This block will focus on the __*Deployment*__ phase of the __*CRISP-DM*__ lifecycle; you will learn how to deploy your model or application! Last block, you've learned how to justify the development of a project by creating a project proposal which you backed up with a substatiated design and proof-of-concept. Now, you're going to again propose a project but based on your EDA and the specific client requirements instead. They're open, they don't really know what they want, they just want 'tools' to solve the problems. This happens more often in industry, 'we have data and we have problems, and we think the data can solve our problems but we don't know how'; difficult for us as unclarity and abstraction makes it difficult to judge what to do... However, these situation do give us more the creative freedom to solve a problem so let's get started **creating something we can deploy!**
 
 <figure>
-    <img src=".\assets\CRISP-DM_Process_Diagram.png" />
+    <img src=".\assets\CRISP-DM_Process_Diagram.png" width=500 />
 </figure>
 
 *Figure 1. CRISP-DM Lifecycle.*
@@ -33,10 +33,10 @@ In order to make Breda Better (#Bredameliorate), the municipality came up with s
 | **Segregation** | The municipality of Breda is facing the challenge of social segregation, which refers to the separation of different groups of people based on socioeconomic status, race, or other factors. By addressing social segregation and identifying key influencing factors, the municipality of Breda can promote a more inclusive and cohesive community that benefits all residents. | 
 | **Green-index** | Municipality Breda wants to become more sustainable and green; a city within a forest. To achieve this goal, they have developed the green index of Breda. The municipality now requires the green index for the entire city and a better understanding of the factors that contribute to a given green index score. |
 | **Public Safety** | Ensuring the safety, both real and perceived, of the citizens is crucial for maintaining a high quality of life in the municipality of Breda. However, the municipality faces challenges in defining and measuring perceived safety, as well as identifying the factors that influence it. Additionally, the municipality needs to determine the appropriate allocation of resources to address upcoming safety concerns. |
-| **Public Nuissance** | To maintain its appeal for a diverse population, Breda must address and minimize public nuisance. However, the municipality faces difficulties in defining public nuisance, understanding its impact on quality of life, and attracting new residents. Furthermore, accurately predicting the necessary number of BOAs (enforcement officers) to prevent public nuisance is a crucial challenge for the municipality. |
+| **Public Nuisance** | To maintain its appeal for a diverse population, Breda must address and minimize public nuisance. However, the municipality faces difficulties in defining public nuisance, understanding its impact on quality of life, and attracting new residents. Furthermore, accurately predicting the necessary number of BOAs (enforcement officers) to prevent public nuisance is a crucial challenge for the municipality. |
 | **Pandemic Consequences** | The COVID-19 pandemic has had a profound and far-reaching impact on the municipality of Breda, both in the short and long term. To fully understand the implications of the pandemic, it is essential to examine the differences in various aspects of life before, during, and after the pandemic. It is essential to understand how these changes have affected the municipality of Breda and to develop strategies to mitigate any negative effects and build a more resilient future. |
 | **Quality of Life** | VerbeterBreda aims to improve the quality of lifea nd well-being(QoL)of its inhabitants. Currently QoL places more emphasis on socio-economic indicators. However, climate change affects QoL and its influence is becoming stronger. To this end, it becomes important to understand the effect of weather and environmental variables on QoL in Breda. | 
-| **City Bussle and Congestion** | The measurement of congestion and city bustle in the municipality of Breda is currently based on the number of people moving in and out of the city center. This city bustle can have a significant impact on the overall liveability and attractiveness of the city center, particularly in regards to parking availability and ease of access for visitors. Reducing congestion and city bustle can improve the liveability and attractiveness of its city center, making it a more desirable destination for visitors and residents alike. |
+| **City Bustle and Congestion** | The measurement of congestion and city bustle in the municipality of Breda is currently based on the number of people moving in and out of the city center. This city bustle can have a significant impact on the overall liveability and attractiveness of the city center, particularly in regards to parking availability and ease of access for visitors. Reducing congestion and city bustle can improve the liveability and attractiveness of its city center, making it a more desirable destination for visitors and residents alike. |
 
 To Bredameliorate (i.e. to improve Breda) better, the Municipality created the [Monitor (improve)'Verbeter Breda'](https://app.powerbi.com/view?r=eyJrIjoiNDc3YzM0YTItNDdiMS00MGY5LWFlYmYtNmZkMmQyZGZjZmYwIiwidCI6IjkyMDIwZGY0LWM5ZTctNDAwZi1iMjAyLTM3NzU0NDg0ZWYyZSIsImMiOjh9) and is starting to [collect data on Breda and put it out there](https://data.breda.nl/) for analysts to use to help [Improve Breda](https://www.verbeterbreda.nl/)!
 
@@ -77,7 +77,7 @@ Please use the following datasets to help you solve the creative brief. You will
 
 <figure>
 <center>
-    <img src=".\assets\DutchRepubicShipOceanOfData.png" />
+    <img src=".\assets\DutchRepubicShipOceanOfData.png"  width=500  />
 </center>
 </figure>
 *Figure 3. Rinud rrindir indeed DALL-E, rinud rrindir indeed. Remember to [use the Generative AI Reference Guide](https://buas.libguides.com/c.php?g=704234&p=5102449) when you use any type of generative AI [OpenAI, A Dutch Republic Sailing Ship exploring a data lake, 24-04-2023]! Unsure? Ask you mentor!*
@@ -121,7 +121,7 @@ You will start working as a team from week 4 onwards, meaning that there will be
 At the end of the sprint, the finished work (or incement) should be ready to be delivered to the Product Owner **each Friday before 9:00**, who assesses the delivered work. That same Friday, the sprint ends with a sprint review and retrospective—or rather; lessons learned. The cycle below is repeated throughout the project lifecycle until the entirety of the scope has been delivered or block D is at an end:
 <figure>
 <center>
-    <img src=".\assets\Y1D ScrumDiagram.jpg" />
+    <img src=".\assets\ScrumDiagram.jpg"  width=600 />
 </center>
 </figure>
 

@@ -80,6 +80,7 @@ Please use the following datasets to help you solve the creative brief. You will
     <img src=".\assets\DutchRepubicShipOceanOfData.png"  width=1080  />
 </center>
 </figure>
+
 *Figure 3. Rinud rrindir indeed DALL-E, rinud rrindir indeed. Remember to [use the Generative AI Reference Guide](https://buas.libguides.com/c.php?g=704234&p=5102449) when you use any type of generative AI [OpenAI, A Dutch Republic Sailing Ship exploring a data lake, 24-04-2023]! Unsure? Ask you mentor!*
 
 

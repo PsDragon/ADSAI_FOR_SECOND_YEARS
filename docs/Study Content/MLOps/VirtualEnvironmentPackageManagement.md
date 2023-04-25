@@ -168,9 +168,21 @@ curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poet
 ```
 If you do not have curl installed, you can download the script manually from this link: https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py and save it to your local machine.
 
-Once the installation is complete, close the Command Prompt and open it again. This will refresh your environment variables.
+__Step 3: Add Poetry to your PATH environment variable__
 
-__Step 3: Verify that Poetry is installed correctly by typing the following command:__
+Windows 10/11 instructions: 
+
+1. Press the 'Win' key on your keyboard, then type 'Environment Variables' and click on 'Edit the system environment variables'.
+2. In the 'System Properties' window that appears, click on the 'Environment Variables' button at the bottom right.
+3. In the 'Environment Variables' window, under 'User variables' (the top section), find the 'Path' variable, and click on the 'Edit' button. If there isn't a 'Path' variable, click on the 'New' button to create one.
+4. In the 'Edit environment variable' window, click on the 'New' button and then paste %APPDATA%\Python\Scripts. If you had to create a new 'Path' variable, set the variable name to 'Path' and the value to %APPDATA%\Python\Scripts.
+5. Click 'OK' to save the changes and close the 'Edit environment variable' window. Then click 'OK' again to close the 'Environment Variables' window, and finally 'OK' to close the 'System Properties' window.
+
+After completing these steps, you will have added %APPDATA%\Python\Scripts to your user PATH, and the changes should take effect immediately. If you have any command prompts or applications open that rely on the PATH, you may need to restart them for the changes to take effect.
+
+For more instructions on how to add a directory to your user PATH on other operating systems, click [here](https://python-poetry.org/docs/#installing-with-the-official-installer). 
+
+__Step 4: Verify that Poetry is installed correctly by typing the following command:__
 
 ```bash
 poetry --version

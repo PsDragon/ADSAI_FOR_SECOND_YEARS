@@ -160,7 +160,7 @@ You can do this by pressing the Windows key and typing 'cmd' into the search bar
 __Step 2: Install Poetry using the following command:__
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python -
+curl -sSL https://install.python-poetry.org | python3 -
 ```
 If you do not have curl installed, you can download the script manually from this link: https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py and save it to your local machine.
 

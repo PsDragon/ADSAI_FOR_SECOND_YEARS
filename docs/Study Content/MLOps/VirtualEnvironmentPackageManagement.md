@@ -204,7 +204,7 @@ poetry new titanic
 
 Now you should see a ```.toml``` and a ```.lock``` file in your 'src' folder. 
 
-:pencil: __4c__ Then, use Poetry to install the following packages:
+:pencil: __4c__ Navigate inside the 'titanic' folder. Then, use Poetry to install the following packages:
 
 - [ ] ```pandas```
 - [ ] ```numpy```

@@ -126,13 +126,9 @@ In addition to Conda, there are several other tools available for managing Pytho
 
 Each of these alternatives has its own strengths and weaknesses, so it is important to evaluate each one based on your specific needs and requirements.
 
-:pencil: __3a__ Create new directory named ['src'](https://packaging.python.org/en/latest/tutorials/packaging-projects/). For now you do not need to know why it is called 'src'. You will learn more about this naming convention in one of the next knowledge module chapters. 
+:pencil: __3a__ Use a virtual environment manager such as Venv, Conda, or Pipenv to create a new virtual environment called ```titanic-env```.
 
-:pencil: __3b__ Download the [Titanic](https://web.stanford.edu/class/archive/cs/cs109/cs109.1166/problem12.html) dataset in CSV format and save it to the directory 'src'. 
-
-:pencil: __3c__ Create a Python script called ```titanic.py``` and place it in the same directory as the Titanic dataset.
-
-:pencil: __3d__ Use a virtual environment manager such as Venv, Conda, or Pipenv to create a new virtual environment called ```titanic-env```.
+:pencil: __3b__ Create a folder called 'poetry-project' on your computer. 
 
 ***
 
@@ -196,13 +192,17 @@ That is it! You now have Poetry installed on your Windows machine.
 Note: You may also choose to publish your project as a package on the Python Package Index (PyPI), which is a collection of open-source software for the Python programming language, if you are willing to take on an additional challenge. For more details, contact coding wizard Nitin. 
 </div>
 
-:pencil: __4b__ Navigate inside the 'src' folder and run the following command inside: 
+:pencil: __4a__ Navigate inside the 'poetry-project' folder and run the following command inside: 
 
 ```bash
 poetry new titanic
 ```
 
-Now you should see a ```.toml``` and a ```.lock``` file in your 'src' folder. 
+Now you should see a ```.toml``` and a ```.lock``` file in your 'titanic' folder. 
+
+:pencil: __3b__ Download the [Titanic](https://web.stanford.edu/class/archive/cs/cs109/cs109.1166/problem12.html) dataset in CSV format and save it to a folder called 'data' in the 'titanic' folder.  
+
+:pencil: __3c__ Create a Python script called ```titanic.py``` and place it in the 'titanic' folder.
 
 :pencil: __4c__ Navigate inside the 'titanic' folder. Then, use Poetry to install the following packages:
 

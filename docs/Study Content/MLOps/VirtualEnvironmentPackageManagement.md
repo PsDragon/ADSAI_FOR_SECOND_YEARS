@@ -196,7 +196,15 @@ That is it! You now have Poetry installed on your Windows machine.
 Note: You may also choose to publish your project as a package on the Python Package Index (PyPI), which is a collection of open-source software for the Python programming language, if you are willing to take on an additional challenge. For more details, contact coding wizard Nitin. 
 </div>
 
-:pencil: __4b__ Then, use Poetry to install the following packages:
+:pencil: __4b__ Navigate inside the 'src' folder and run the following command inside: 
+
+```bash
+poetry new titanic
+```
+
+Now you should see a ```.toml``` and a ```.lock``` file in your 'src' folder. 
+
+:pencil: __4c__ Then, use Poetry to install the following packages:
 
 - [ ] ```pandas```
 - [ ] ```numpy```
@@ -210,9 +218,9 @@ For example, if you want to install the Pandas package, you can use the followin
 poetry add pandas
 ```
 
-:pencil: __4c__ Import the necessary packages in your ```titanic.py``` script and conduct a basic exploratory data analysis on the Titanic dataset. 
+:pencil: __4d__ Import the necessary packages in your ```titanic.py``` script and conduct a basic exploratory data analysis on the Titanic dataset. 
 
-:pencil: __4d__ Train a logistic regression model on the dataset, and evaluate its performance.
+:pencil: __4e__ Train a logistic regression model on the dataset, and evaluate its performance.
 
 ***
 

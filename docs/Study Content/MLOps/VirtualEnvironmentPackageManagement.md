@@ -82,7 +82,7 @@ __Step 2: Create a virtual environment__
 Open up your terminal or command prompt and type the following command to create a new virtual environment:
 
 ```bash
-conda create --name myenv
+conda create -n myenv
 ```
 This command creates a new virtual environment called 'myenv'. You can replace 'myenv' with any name you like.
 

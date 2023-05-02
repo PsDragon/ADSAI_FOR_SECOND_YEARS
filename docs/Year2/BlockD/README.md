@@ -149,11 +149,12 @@ Over the next two weeks you will create production ready code. You will learn ho
 
 ### Suggested Learning Modules
 
+- [MLOps Maturity Levels - Article from MS Azure ML Accelerator](https://microsoft.github.io/azureml-ops-accelerator/1-MLOpsFoundation/1-MLOpsOverview/2-MLOpsMaturityModel.html)
 - [Testing and Logging with Python](https://adsai.buas.nl/Study%20Content/MLOps%20II/Testing.html)
 - [Continuous Integration with Python](https://adsai.buas.nl/Study%20Content/MLOps%20II/ContinuousIntegration.html)
 - [Documentation for Python](https://adsai.buas.nl/Study%20Content/MLOps%20II/Documenting.html)
-- [Building and Distributing Python Packages]()
-- [Building Packages for Users - CLIs and APIs]()
+- [Building Packages for Users - CLIs and APIs](../../Study%20Content/MLOps%20II/Package%20User%20Interfaces%20-%20CLI%20and%20API.md)
+- [Building and Distributing Python Packages](../../Study%20Content/MLOps%20II/Building%20and%20Distributing%20Python%20Packages.md)
 - [Production Ready Code Cheat Sheet](https://adsai.buas.nl/Study%20Content/MLOps%20II/PRC%20Cheat%20Sheet.html) 
 
 # Week 4-5 - Data Pipelines and Model Training in the Cloud (ILO 5)

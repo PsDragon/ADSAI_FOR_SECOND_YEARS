@@ -1,5 +1,5 @@
 ---
-sort: 4
+sort: 6
 ---
 
 ## MLOps: Continuous Integration with Python 

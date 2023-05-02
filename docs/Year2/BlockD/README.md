@@ -134,6 +134,10 @@ This week you will be introduced to the concept of MLOps and the tools and techn
 - [Working with Azure Devops](https://adsai.buas.nl/Study%20Content/MLOps%20II/Working%20with%20Azure%20Devops.html)
 - [Production Ready Code Cheat Sheet](https://adsai.buas.nl/Study%20Content/MLOps%20II/PRC%20Cheat%20Sheet.html) 
 
+### Datalabs
+
+-[Datalab 1: Project and Package Planning](https://adsai.buas.nl/Study%20Content/MLOps%20II/Datalab1.html)
+
 
 # Week 2-3 - Creating Production Ready Code (ILO 4)
 

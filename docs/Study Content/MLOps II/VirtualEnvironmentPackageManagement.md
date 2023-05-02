@@ -15,7 +15,7 @@ VI. Deployment with Python <br>
 
 ## 1. Introduction
 
-Hi there :sparkles: :books: :smiley:. Welcome to the first chapter of the __*MLOps with Python*__ knowledge module. In this module, you will learn about virtual environments and package management in Python. Throughout this module, you will be guided towards online resources that will help you acquire knowledge of various MLOps topics. In addition, we created some Python exercises, using the Titanic dataset, for you to practice your newly gained knowledge; you will build your first Python package! After completing the chapter, you should be able to apply your knowledge to the Creative Brief. Let us get started :rocket:!
+Hi there :sparkles: :books: :smiley:. Welcome to the first chapter of the __*MLOps with Python*__ knowledge module. In this module, you will learn about virtual environments and package management in Python. Throughout this module, you will be guided towards online resources that will help you acquire knowledge of various MLOps topics. In addition, we created some Python exercises, using the MNIST dataset, for you to practice your newly gained knowledge; you will build your first Python package! After completing the chapter, you should be able to apply your knowledge to the Creative Brief. Let us get started :rocket:!
 
 __After this chapter, you will be able to:__
 
@@ -276,7 +276,7 @@ poetry run <script_name>
 Replace <script_name> with the name of the script you want to run. This command will execute the specified script in the context of your project's virtual environment, ensuring that the correct dependencies are available.
 
 
-:pencil: __4a__ Activate the ```titanic-env``` virtual environment and install the package Poetry. 
+:pencil: __4a__ Activate the ```numbers-env``` virtual environment and install the package Poetry. 
 
 Here is a quick guide on how to install Poetry on a Windows machine:
 

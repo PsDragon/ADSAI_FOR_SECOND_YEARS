@@ -1,5 +1,9 @@
 # Microsoft Azure Machine Learning
 
+## Levels of MLOps with Azure Examples
+
+https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/mlops-maturity-model-with-azure-machine-learning/ba-p/3520625
+
 https://learn.microsoft.com/en-us/azure/machine-learning/concept-model-management-and-deployment?view=azureml-api-2
 
 <img src=https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/ai/_images/ml-ops-python.png#lightbox width="100%"/>

@@ -21,11 +21,12 @@ In this chapter, you will learn to write production-level code with Python. Unti
 
 *Figure 1. Production code meme.*
 
-:bell: 'Production-level' refers to code that is designed to be implemented in practical, real-world scenarios such as applications, systems, or products. It involves optimizing the code for factors such as performance, reliability, scalability, and maintainability to ensure its suitability for deployment.
+:bell: 'Production-level' refers to code /that is designed to be implemented in practical, real-world scenarios such as applications, systems, or products. It involves optimizing the code for factors such as performance, reliability, scalability, and maintainability to ensure its suitability for deployment.
 
 __After this chapter, you will be able to:__
 
 - [ ] Describe the process of code formatting/linting with Python
+- [ ] Understand the purpose, benefits and best practices of modular code
 - [ ] Apply code formatting/linting techniques to a Python script using commonly used tools, such as Isort, Black and Flake8
 
 :warning: When you work with Python scripts, installing an IDE is highly recommended. There are numerous (free) suitable IDEs available. For example:
@@ -37,7 +38,143 @@ __After this chapter, you will be able to:__
 
 ***
 
-### 2. Refactoring 
+Before we get started consider this LinkedIn [post](https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-artificialintelligence-activity-7053751718106259456-VHuX?utm_source=share&utm_medium=member_android) from Damien Benveniste an expert in building large scale end to end Machine Learning capabilities and deploying them in production.
+
+<img src="./images/linkedin.png" alt="Production code" width="400"/>
+
+We will explore some of these concepts in the coming sections and modules.
+
+### 2. Functions and Modular Code
+
+Writing modular code has numerous benefits, such as improved readability, maintainability, and reusability. Let's dive into some examples using the MNIST dataset to showcase the differences between bad and good practices.
+
+👎 **Bad Practice:**
+
+Here's an example of non-modular code that trains a simple neural network on the MNIST dataset:
+
+```python
+import tensorflow as tf
+from tensorflow.keras import layers, models
+
+# Load and preprocess the data
+mnist = tf.keras.datasets.mnist
+(x_train, y_train), (x_test, y_test) = mnist.load_data()
+x_train, x_test = x_train / 255.0, x_test / 255.0
+
+# Build the model
+model = models.Sequential()
+model.add(layers.Flatten(input_shape=(28, 28)))
+model.add(layers.Dense(128, activation='relu'))
+model.add(layers.Dropout(0.2))
+model.add(layers.Dense(10, activation='softmax'))
+
+# Compile the model
+model.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
+
+# Train the model
+model.fit(x_train, y_train, epochs=5, validation_split=0.2)
+
+# Evaluate the model
+test_loss, test_acc = model.evaluate(x_test, y_test)
+print(f'Test accuracy: {test_acc}')
+```
+
+This code is not modular, as it combines data loading, preprocessing, model building, and training all into a single script without any separation. It iss easier and faster to write code like this when doing quick proof of concepts, but it quickly becomes unmanageable in larger projects that need to be deployed to production and maintained by more than one person.
+
+👍 **Good Practice:**
+
+Now, let's refactor the code into a more modular form (what it means to refactor and how to do it is covered in the next section):
+
+```python
+# utils.py
+def load_mnist_data():
+    mnist = tf.keras.datasets.mnist
+    (x_train, y_train), (x_test, y_test) = mnist.load_data()
+    return (x_train, y_train), (x_test, y_test)
+
+def preprocess_data(x_train, x_test):
+    x_train, x_test = x_train / 255.0, x_test / 255.0
+    return x_train, x_test
+
+# models.py
+def build_mnist_model():
+    model = models.Sequential()
+    model.add(layers.Flatten(input_shape=(28, 28)))
+    model.add(layers.Dense(128, activation='relu'))
+    model.add(layers.Dropout(0.2))
+    model.add(layers.Dense(10, activation='softmax'))
+    return model
+
+def compile_model(model):
+    model.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
+    return model
+
+def train_model(model, x_train, y_train, epochs=5, validation_split=0.2):
+    model.fit(x_train, y_train, epochs=epochs, validation_split=validation_split)
+    return model
+
+def evaluate_model(model, x_test, y_test):
+    test_loss, test_acc = model.evaluate(x_test, y_test)
+    return test_loss, test_acc
+
+# main.py
+from utils import load_mnist_data, preprocess_data
+from models import build_mnist_model, compile_model, train_model, evaluate_model
+
+def main():
+    (x_train, y_train), (x_test, y_test) = load_mnist_data()
+    x_train, x_test = preprocess_data(x_train, x_test)
+
+    model = build_mnist_model()
+    model = compile_model(model)
+    model = train_model(model, x_train, y_train)
+
+    test_loss, test_acc = evaluate_model(model, x_test, y_test)
+    print(f'Test accuracy: {test_acc}')
+
+if __name__ == "__main__":
+    main()
+```
+
+Here, we've separated the code into different functions and modules, making it more modular. The single python script or notebook in the first example has been split into three modules (```utils.py```, ```models.py```, ```main.py```), each containing their own functions.
+
+🌟 **Benefits of Modular Code:**
+
+1. **Readability**: By breaking the code into smaller functions and modules, it becomes easier to read and understand. Each function has a specific purpose, making it clear what each part of the code does.
+
+2. **Maintainability**: Modular code is easier to maintain, as changes in one function or module are less likely to impact others. When you need to modify a part of the code, it's much easier to locate the relevant function or module.
+
+3. **Reusability**: Functions and modules can be reused in other parts of the code or even in other projects. For example, the `load_mnist_data()` and `preprocess_data()` functions can be reused in another project that also works with the MNIST dataset.
+
+4. **Testing**: Writing modular code makes it simpler to test individual functions or modules. In our good practice example, we can now easily test functions like `load_mnist_data()`, `preprocess_data()`, or `build_mnist_model()` without having to run the entire script.
+
+5. **Collaboration**: Modular code is more collaborative-friendly, as multiple developers can work on different functions or modules without causing conflicts or confusion.
+
+Writing modular code using functions and modules enhances readability, maintainability, and reusability. It also simplifies testing and collaboration, making your code more robust and efficient in the long run. By refactoring the MNIST example into a more modular form, we've demonstrated how to apply good practices to improve the overall quality of the code.
+
+When writing modular code we make extensive use of functions, here are some best practices to think about when writing functions:
+
+1. **Give your functions a clear purpose**: Write functions that do one thing and do it well. This makes them easier to understand, test, and reuse. This is the golden rule when writing functions.
+
+2. **Use descriptive function names**: Choose function names that describe what the function does, making it easier for others (and your future self) to understand your code.
+
+3. **Keep functions short and focused**: Shorter functions are easier to understand and maintain. If a function becomes too long or complex, consider breaking it into smaller functions.
+
+4. **Use function arguments and return values**: Instead of relying on global variables, pass input data as arguments and return the results. This makes your functions more flexible and easier to test.
+
+6. **Follow the DRY principle**: Don't repeat yourself. If you find yourself writing similar code in multiple places, refactor it into a separate function.
+
+5. **Write docstrings**: Add docstrings to your functions to explain what they do, the parameters they take, and the values they return. This makes your code more maintainable and easier for others to understand. (docstrings will be covered in a later learning module.)
+
+7. **Use type hints**: Add type hints to your functions for better readability and to catch potential bugs early. (Type hints will be covered in a later learning module.)
+
+8. **Adhere to a consistent coding style**: Following a consistent coding style, such as PEP 8, makes your code more readable and maintainable.
+
+9. **Handle exceptions gracefully**: Use try-except blocks to catch and handle exceptions, making your functions more robust and less prone to crashes. (Exception handling will be covered in a later learning module.)
+
+10. **Write unit tests**: Write tests for your functions to ensure they work as expected and to catch bugs before they become critical issues. (Unit tests will be covered in a later learning module.)
+
+### 3. Refactoring 
 
 Code refactoring refers to the process of restructuring existing computer code *without changing its external behavior* to ensure that the code is clean before you ship it to production. Please watch this video to learn more about code refactoring:
 
@@ -115,8 +252,10 @@ To learn more about code refactoring, check out the following resources:
 
 > Focussing on writing clean code is a good habit to get into. It will make your code easier to understand and maintain. It will also make your code easier to debug. However, it takes a minimal of 2-3 years of experience to become a good programmer. Therefore, do not be too hard on yourself if you are not a good programmer yet. Just keep practicing and you will get there :muscle:.
 
+:pencil: __3a__ Refactor the ```numbers.py``` script you created last time into modules and a ```main.py``` script. Make use use the best practices for functions that you have learned.
 
-### 3. Linters & Code formatters 
+
+### 4. Linters & Code formatters 
 
 Who does not have one or more 'Untitled' Jupyter Notebook on your computer? I think most of us are guilty of this offense :sweat_smile:. These notebooks are often the result of a quick experiment or a small coding exercise. However, when you want to write production-level code, you want to make sure that your code is readable, consistent, and well-documented. For most of us this is difficult to achieve without the help of tools. Luckily, there are tools that can help you to write better code, called linters and code formatters.
 
@@ -126,11 +265,27 @@ Who does not have one or more 'Untitled' Jupyter Notebook on your computer? I th
 
 In this section, we will cover three commonly used tools: [Isort](https://pycqa.github.io/isort/), [Black](https://black.readthedocs.io/en/stable/), and [Flake8](https://flake8.pycqa.org/en/latest/). Isort automatically sorts and organizes Python imports, Black automatically formats code based on a style guide called [PEP8](https://peps.python.org/pep-0008/) (Sounds familiar, right? ...), and Flake8, a linter, checks for issues with code style, syntax, and logic. The latter, works together with Black to ensure that your code looks and works as it should.
 
-:pencil: __3a__ Use Poetry to install the packages Isort, Black and Flake8 in the ```titanic-env``` environment. Use the following command:
+:pencil: __4a__ Use Poetry to install the packages Isort, Black and Flake8 in the ```numbers-env``` environment that you created last time. Use the following command:
 
 ```bash
-poetry add [package name]
+poetry add <package_name>
 ```
+
+:pencil: __4b__ Use Isort to sort the imports in your ```numbers.py``` script.
+
+For example, if you want to run a package with Poetry on your ```numbers.py``` script, you can use the following command:
+
+```bash
+poetry run <package_name> numbers.py
+```
+
+:pencil: __4c__ Use Flake8 to check the formatting of your ```numbers.py``` script. If there are any formatting errors, use Black to automatically fix them.
+
+:pencil: __4d__ What errors did Flake8 find in your ```numbers.py``` script? How did Black fix them? Write your answer down. 
+
+:pencil: __4e__ Repeat the steps above for all the modules and scripts in your package.  
+
+***
 
 :warning: To enable Isort, Black and Flake8 in your IDE, you have to change some settings. For example, in VSCode, you have to go to 'File', then 'Preferences', and 'Settings':
 
@@ -146,21 +301,7 @@ poetry add [package name]
 
 ![Enable Flake8 in VSCode](./images/Flake8.gif)
 
-:pencil: __3b__ Use Isort to sort the imports in your ```titanic.py``` script.
-
-For example, if you want to run a package with Poetry on your ```titanic.py``` script, you can use the following command:
-
-```bash
-poetry run [package name] titanic.py
-```
-
-:pencil: __3c__ Use Flake8 to check the formatting of your ```titanic.py``` script. If there are any formatting errors, use Black to automatically fix them.
-
-:pencil: __3d__ What errors did Flake8 find in your ```titanic.py``` script? How did Black fix them? Write your answer down. 
-
-***
-
-### 4. Blended learning
+### 5. Blended learning
 
 There are many online resources available on the topic of production-level code with Python. Please, check the following resources:
 

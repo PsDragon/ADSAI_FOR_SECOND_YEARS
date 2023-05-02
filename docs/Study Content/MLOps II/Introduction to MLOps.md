@@ -23,24 +23,65 @@ MLOps, short for Machine Learning Operations, is the practice of combining Machi
 
 MLOps is a relatively new field, and it is still evolving. However, it is becoming increasingly important as more organizations adopt machine learning. MLOps is a key component of the machine learning lifecycle, and it is essential for building and deploying machine learning models at scale.
 
-To better understand the importance of MLOps, watch the following video:
+<div style="text-align:center">
+<img src="https://ml-ops.org/img/mlops-loop-en.jpg" alt="Bin Picking" width="80%"/>
+
+*image from mlops.org* 
+</div>
+
+### Core Concepts of MLOps
+
+1. **Continuous Integration (CI)**: The practice of regularly merging code changes from multiple contributors into a shared repository, allowing teams to detect and fix issues quickly.
+2. **Continuous Delivery (CD)**: Ensuring that software is always in a releasable state by automatically building, testing, and deploying code changes.
+3. **Continuous Training (CT)**: The process of continuously training and updating ML models with new data to maintain their performance.
+4. **Continuous Monitoring (CM)**: The practice of tracking the performance of deployed ML models and identifying potential issues in real-time.
+5. **Model Management**: Managing the lifecycle of ML models, including versioning, deployment, and monitoring.
+6. **Reproducibility**: Ensuring that ML experiments and models can be reliably recreated by others with the same data, code, and environment.
+7. **Experiment Tracking**: Logging and managing the results of ML experiments, including hyperparameters, metrics, and artifacts, such as trained models.
+8. **Model Explainability**: Providing human-understandable explanations for the predictions made by ML models.
+9. **Model Governance**: Establishing policies and procedures for the development, deployment, and monitoring of ML models to ensure their ethical and responsible use.
+
+### Importance of MLOps
+
+1. **Faster deployment**: MLOps allows you to deploy ML models more quickly and efficiently by automating the build, test, and deployment processes.
+2. **Improved collaboration**: MLOps fosters collaboration between Data Scientists, Machine Learning Engineers, and DevOps teams, ensuring that ML models are built and deployed effectively.
+3. **Model performance**: MLOps helps to maintain the performance of ML models by continuously training them with new data and monitoring their performance in production.
+4. **Model reproducibility**: MLOps promotes reproducibility by ensuring that ML experiments and models can be reliably recreated with the same data, code, and environment.
+5. **Model governance**: MLOps helps organizations establish policies and procedures for the development, deployment, and monitoring of ML models to ensure their ethical and responsible use.
+6. **Reduced technical debt**: MLOps promotes best practices and standardization across the ML lifecycle, reducing the accumulation of technical debt and making it easier to maintain and scale ML projects.
+7. **Increased trust in ML models**: MLOps enables organizations to better understand and explain the decisions made by their ML models, increasing trust in their predictions and fostering responsible AI adoption.
+
+To better understand the importance of MLOps, watch the following video from Microsoft:
 
 <div style="text-align:center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZVWg18AXXuE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-These blog posts from Neptune.ai and Microsoft provide a good overview of MLOps read at least 1 of them: 
+These blog posts from MLOps.org, Neptune.ai, and Microsoft provide a good overview of MLOps read the first one and at least 1 of the last 2: 
+- [ ] [MLOps Principles](https://ml-ops.org/content/mlops-principles) - If you decide to read nothing else read this!
 - [ ] [MLOps: What It Is, Why It Matters, and How to Implement It - Neptune](https://neptune.ai/blog/mlops)
 - [ ] [Machine learning operations - Microsoft](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/ai-machine-learning-mlops)
 
-Once you have watched the video and read the blog post, complete the one of the following courses to learn more about MLOps:
+Once you have watched the video and read the blog post/s, complete the one of the following courses to learn more about MLOps:
 
 - [ ] [MLOps for Business](https://app.datacamp.com/learn/courses/mlops-for-business) on DataCamp
 - [ ] [MLOps Essentials: Model Development and Integration](https://www.linkedin.com/learning/mlops-essentials-model-development-and-integration/getting-started-with-mlops?resume=false) on LinkedIn Learning
 
 :pencil: Q1. What is MLOps? <br>
 :pencil: Q2. What are the main components of MLOps? <br>
-:pencil: Q3. List 3 MLOps Tool for experiment tracking.<br>
+:pencil: Q3. List 3 MLOps Tools for experiment tracking.<br>
+
+### Typical MLOps Architecture for Deploying ML Models
+
+The system that you deliver at the end of this block will most likely look something like this:
+
+<div style="text-align:center">
+<img src="https://ml-ops.org/img/mlops-phasen.jpg" alt="Bin Picking" width="80%"/>
+
+*image from mlops.org* 
+</div>
+
+Keep this diagram in the back of your mind while working through the knowledge modelss for this block and with planning and building your systems for deployment.
 
 :+1: That's it for today! Enjoy your journey into the world of MLOps!
 

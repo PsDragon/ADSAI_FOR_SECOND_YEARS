@@ -154,7 +154,7 @@ poetry add [package name]
 For example, if you want to run a package with Poetry on your ```titanic.py``` script, you can use the following command:
 
 ```bash
-poetry run [package name] titanic.py
+poetry run [package name] poetry-project/titanic/titanic.py
 ```
 
 :pencil: __3c__ Use Flake8 to check the formatting of your ```titanic.py``` script. If there are any formatting errors, use Black to automatically fix them.

@@ -43,7 +43,7 @@ __After this chapter, you will be able to:__
 
 ### 2. Data pipeline
 
-A traditional data pipeline transports raw data from software-as-a-service (SaaS) platforms and database sources to data warehouses for use by analytics and business intelligence (BI) tools, such as Power BI (introduced in week 3!). In this section, we are going to review the various components and stages of a data pipeline.
+A traditional data pipeline transports raw data from software-as-a-service (SaaS) platforms and database sources to data warehouses for use by analytics and business intelligence (BI) and Data science tools, such as Power BI. In this section, we are going to review the various components and stages of a data pipeline.
 
 <img src="./images/etl.png" alt="ETL" width="600"/>
 
@@ -94,11 +94,13 @@ Let us take a closer look at what a database is and how we can interact with it 
 
 A database is an organized collection of structured information, or data, typically stored in a computer system, such as your laptop. It is usually controlled by a database management system, also known as DBMS. Together, the data and the DBMS, along with the applications that are associated with them (e.g. PostgreSQL client), are referred to as a database system, often shortened to database. In this section, you will explore the different types of databases, and their corresponding strengths and weaknesses.
 
-:pencil: __4a__ a) What is a SQL or relational database, and b) how does it differ from a so-called NoSQL database? Explain your answer
+:pencil: __4a__ Complete the ```What is a Database?``` module in Codeacademy, which you can find, [here](https://www.codecademy.com/paths/design-databases-with-postgresql/tracks/what-is-a-database/modules/welcome-to-design-databases-with-postgresql/informationals/welcome-to-design-databases-with-postgresql). This module will help you to answer the questions in this section, as well as the questions in the next two sections.
 
-:pencil: __4b__ List three advantages/disadvantages of using a relational database. Write your answer down.
+:pencil: __4b__ a) What is a SQL or relational database, and b) how does it differ from a so-called NoSQL database? Explain your answer
 
-:pencil: __4c__ The start-up HomeRobot is looking for a lightweight relational database management system (RDBMS) that they can embed in their Internet-of-Things (IoT) application. They have asked you, as a seasoned data engineer/analyst, for advice; which RDBMS would you recommend to them? Explain your answer.
+:pencil: __4c__ List three advantages/disadvantages of using a relational database. Write your answer down.
+
+:pencil: __4d__ The start-up HomeRobot is looking for a lightweight relational database management system (RDBMS) that they can embed in their Internet-of-Things (IoT) application. They have asked you, as a seasoned data engineer/analyst, for advice; which RDBMS would you recommend to them? Explain your answer.
 
 ***
 

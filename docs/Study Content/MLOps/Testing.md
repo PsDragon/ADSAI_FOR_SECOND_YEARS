@@ -19,9 +19,9 @@ Now that you have created a Python program that is of production quality, you ca
 
 __After this module, you will be able to:__
 
-- [ ] Explain the importance of testing with Python
-- [ ] Apply type hinting to Python code
-- [ ] Use the debugger in VSCode to fix bugs in Python code
+- [ ] Explain the importance of testing with Python.
+- [ ] Apply type hinting to Python code.
+- [ ] Use the debugger in VSCode to fix bugs in Python code.
 
 <img src="./images/Testing.jpg" alt="Testing with Python" width="600"/>
 
@@ -146,14 +146,9 @@ Now, in the above example, if you wish to store all INFO messages in the ```log.
 2021-07-27 15:00:00,000 - __main__ - WARNING - Low confidence in assigned class label!
 ```
 
-To learn more about logging in Python, check out the following resources:
-
-- [Python Logging Tutorial](https://realpython.com/python-logging/)
-- [Datacamp Logging Tutorial](https://www.datacamp.com/tutorial/logging-in-python)
-
 :warning: Do not store sensitive information in your logs. This includes passwords, API keys, and other confidential information. :warning:
 
-:pencil: __2a__ Apply Logging to the functions you created in your ```titanic.py``` script.
+:pencil: __3a__ Apply Logging to the functions you created in your ```titanic.py``` script.
 
 ### 4. Debugging
 
@@ -198,16 +193,21 @@ Unit testing is a software testing method by which individual units of source co
 Unit tests are typically written by the developers of the code themselves. 
 Python has a built-in module called [unittest](https://docs.python.org/3/library/unittest.html) that can be used to write unit tests. However, the industry is moving towards using the [pytest](https://docs.pytest.org/en/6.2.x/) framework for unit testing. The pytest framework is more flexible and easier to use than the unittest module.
 
-To learn more about unit testing in Python, check out the following resources:
-
-- [Pytest documentation](https://docs.pytest.org/en/7.3.x/)
-- [Datacamp Unit Testing Tutorial](https://www.datacamp.com/community/tutorials/unit-testing-python)
-- [Datacamp Unit Testing Course](https://app.datacamp.com/learn/courses/unit-testing-for-data-science-in-python)
-
 :pencil: __5a__ Design unit tests to the functions you created in your ```titanic.py``` script.
 
 ### 6. Blended learning
 
 There are many online resources available on the topic of testing with Python. Please, check the following resources:
+
+__Courses:__
+
+- [Datacamp Unit Testing Course](https://app.datacamp.com/learn/courses/unit-testing-for-data-science-in-python)
+
+__Books/articles/webpages etc.:__
+
+- [Python Logging Tutorial](https://realpython.com/python-logging/)
+- [Datacamp Logging Tutorial](https://www.datacamp.com/tutorial/logging-in-python)
+- [Pytest documentation](https://docs.pytest.org/en/7.3.x/)
+- [Datacamp Unit Testing Tutorial](https://www.datacamp.com/community/tutorials/unit-testing-python)
 
 ***

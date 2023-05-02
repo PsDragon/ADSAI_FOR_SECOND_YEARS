@@ -4,14 +4,23 @@ sort: 5
 
 ## MLOps: Deployment with Python
 
+### Chapter overview
+
+I. Virtual environments & Package management with Python <br>
+II. Production-Level code with Python <br>
+III. Documentation for Python <br>
+IV Testing with Python <br>
+V. Continuous Integration with Python <br> 
+VI. __Deployment with Python__ <br>
+
 ### 1. Introduction
 
-In this chapter, you will learn to use the command-line interface (CLI) to interact with a Python program by typing commands into a terminal. You will also learn how to use ```Streamlit``` to create and share user-friendly, custom web apps for your project. 
+In this chapter, you will learn to use the command line interface (CLI) to interact with a Python program by typing commands into a terminal. You will also learn how to use ```Streamlit``` to create and share a user-friendly, custom web app for your project. 
 
 __After this chapter you will be able to:__
 
-- [ ] Acquire knowledge of deployment with Python by completing the exercises and consulting online resources
-- [ ] Apply knowledge of deployment with Python to the creative brief
+- [ ] Explain what a command line interface (CLI) is.
+- [ ] Use command line arguments to pass parameters to a Python script, using the package Argparse or Typer.
 
 ***
 
@@ -35,7 +44,7 @@ Python packages Argparse and Typer are two popular libraries used for building c
 :pencil: __2c__ Run the script from the command line with:
 
 ```bash
-python titanic.py --path titanic.csv --columns Name Sex Age --filter "Sex == 'female' and Age > 18"
+python poetry-project/titanic/titanic.py --path poetry-project/titanic/data/titanic.csv --columns Name Sex Age --filter "Sex == 'female' and Age > 18"
 ```
 
 <details><summary>Answer</summary>
@@ -121,6 +130,5 @@ __Books/articles/webpages etc.:__
 - [Streamlit official blog](https://blog.streamlit.io/)
 - [Build Command-Line Interfaces With Python's argparse](https://realpython.com/command-line-interfaces-python-argparse/)
 - [FastAPI Tutorial: An Introduction to Using FastAPI](https://www.datacamp.com/tutorial/introduction-fastapi-tutorial)
-
 
 ***

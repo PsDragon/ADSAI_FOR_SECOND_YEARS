@@ -62,4 +62,4 @@ For the following exercises you will need to sign into Azure DevOps. You can do 
 
 ### Exercise 2: Create and plan your first sprint for your Project
 
-### Exercise 3: Create a Kanban Board for your Project
+### Exercise 3: Track Tasks Using Azure Boards for your Project

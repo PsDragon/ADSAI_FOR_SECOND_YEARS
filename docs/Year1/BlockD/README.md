@@ -319,11 +319,11 @@ Below, you will find some additional knowledge modules on various topics, such a
     - [Deployment with Python](../../Study%20Content/MLOps/Deployment.html)
 
 ### Optional
-- [Sociology](../../Study%20Content/Sociology/Sociology1.html)
+- [Sociology](../../Study%20Content/Sociology/Sociology1_v2.html)
 
-- [Geospatial analytics](../../Study%20Content/Geospatial%20Analytics/GeospatialAnalytics1.html)
+- [Geospatial analytics](../../Study%20Content/Geospatial%20Analytics/GeospatialAnalytics1_v2.html)
 
-- [Time series](../../Study%20Content/Time%20Series/TimeSeries1.html)
+- [Time series](../../Study%20Content/Time%20Series/TimeSeries1_v2.html)
 
 
 ## References

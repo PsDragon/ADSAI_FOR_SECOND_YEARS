@@ -252,7 +252,7 @@ To learn more about code refactoring, check out the following resources:
 
 > Focussing on writing clean code is a good habit to get into. It will make your code easier to understand and maintain. It will also make your code easier to debug. However, it takes a minimal of 2-3 years of experience to become a good programmer. Therefore, do not be too hard on yourself if you are not a good programmer yet. Just keep practicing and you will get there :muscle:.
 
-:pencil: __3a__ Refactor the ```numbers.py``` script you created last time into modules and a ```main.py``` script. Make use use the best practices for functions that you have learned.
+:pencil: __3a__ Refactor the ```numbers.py``` script you created last time into modules and a ```main.py``` script. Make use of the best practices for functions that you have learned.
 
 
 ### 4. Linters & Code formatters 

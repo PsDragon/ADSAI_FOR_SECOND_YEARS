@@ -15,7 +15,6 @@ VI. Deployment with Python <br>
 
 ### 1. Introduction
 
-
 In the first two chapters of the knowledge module, you developed a Python program that examines the Titanic dataset. In this chapter, you will learn to document your Python code - e.g., adding comments and explanations to the code to make it easier to understand for other data professionals. Furthermore, you will learn how to utilize Sphinx, a tool that generates documentation for your code. Proper documentation is important because it helps other people to understand your code, collaborate with you, maintain the code over time, and reuse your code in their own projects.
 
 <img src="./images/Documenting.jpg" alt="Documenting Python code" width="600">
@@ -62,15 +61,25 @@ There are many different docstring formatting styles available in Python, below 
 
 The choice of which style to use is largely a matter of personal preference, but it is important to be consistent in your documentation style throughout your codebase.
 
-:pencil: __2a__ Write a docstring for one of the functions you created in your ```titanic.py``` script that follows the Google Style format.
+:pencil: __2a__ Write a docstring for one of the functions you created in the last few modules that follows the Google Style format.
 
-:pencil: __2b__ Install the extension [autoDocstring](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring) in VSCode and use it to generate docstrings for the other functions you created in your ```titanic.py``` script.
+:pencil: __2b__ Install the extension [autoDocstring](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring) in VSCode and use it to generate docstrings for the other functions you created.
 
 The video below shows how to install and use autoDocstring in VSCode:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2xa9_A8HH3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 *Video 2. Autodocstring in VSCode.*
+
+:bulb: __Important:__ If you are using the autoDocstring extension in VSCode, it is important to make sure the generated docstrings are detailed and specific to your use case. Generic docstrings are not always helpful.
+
+#### Docstring Example
+The following example shows how to write a docstring for the ```predict_digit``` function that we have been working with in the last few modules. The docstring is written in the Google Style format.
+
+```Python
+
+
+```
 
 ***
 
@@ -95,6 +104,9 @@ To learn more about ```Sphinx```, please check out the following resources:
 > Note that tools such as ```Sphinx``` cannot be used on a Jupyter Notebook natively. You will need to install some additional extensions to make it work. But I do not ever recommend using Jupyter Notebooks for writing production-level code.
 
 :bell: The best way to learn how to use ```Sphinx``` is to read it's documentation, try it out on a sample script, and apply it to your project scripts. In addition to creating documentation, learning how to read and engage with the documentation of popular Python projects is also a very important skill. So, please, try to read the documentation of ```Sphinx```.
+
+
+#### Sphinx Example
 
 
 ### 4. Blended learning

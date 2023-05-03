@@ -9,7 +9,7 @@ sort: 5
 I. Virtual environments & Package management with Python <br>
 II. Production-Level code with Python <br>
 III. Documentation for Python <br>
-IV __Testing with Python__ <br>
+IV. __Testing with Python__ <br>
 V. Continuous Integration with Python <br> 
 VI. Deployment with Python <br>
 
@@ -48,13 +48,48 @@ Type hinting is not enforced by the Python interpreter, meaning that you can sti
 
 Overall, type hinting can make your code more self-documenting, help you catch errors earlier in the development process, and improve collaboration with other data professionals who may be working with your code.
 
-:pencil: __2a__ Apply type hinting to the functions you created in your ```titanic.py``` script.
+:pencil: __2a__ Apply type hinting to the functions in the modules and ```main.py``` script you created last time.
 
-***
+#### Type hinting example 
+
+Here is an example of how to using type hinting in Python, using the ```predict_digit``` function from the last data lab: 
+
+- Without type hinting:
+
+```python
+def predict_digit(model, image):
+    # Ensure the image has the right dimensions for the model
+    image = np.expand_dims(image, axis=0)
+    image = np.expand_dims(image, axis=-1)
+
+    # Make predictions
+    predictions = model.predict(image)
+    predicted_digit = np.argmax(predictions)
+
+    return predicted_digit
+```
+
+The above function takes two parameters, ```model``` and ```image```, but it is not clear what type of data these parameters should be. In addition, it is not clear what type of data the function returns. This can make it difficult to understand how the function works and what kind of data it expects. In order to make the function more clear, we can use type hinting to indicate what type of data the parameters and return value should be:
+
+- With type hinting:
+
+```python
+def predict_digit(model: tf.keras.Model, image: np.ndarray) -> int:
+    # Ensure the image has the right dimensions for the model
+    image = np.expand_dims(image, axis=0)
+    image = np.expand_dims(image, axis=-1)
+
+    # Make predictions
+    predictions = model.predict(image)
+    predicted_digit = np.argmax(predictions)
+
+    return predicted_digit
+```
+The use of type hinting is purely for documentation purposes, meaning that it does not affect how the function works. However, it can be useful for making your code more clear and easier to understand. You can use tools like [mypy](https://mypy.readthedocs.io/en/stable/) to check that your type hints are correct and to enforce type hints in your code.
 
 ### 3. Logging
 
-Logging is a process that involves writing code to track the progress of your program and record any errors that may occur. This can be useful for debugging your code and identifying bugs or errors that may be causing your program to malfunction. In addition, logging can be used to track the performance of your program and help you to identify areas that may need to be optimized.
+Logging is a process that involves writing code to track the progress of your program and record any errors that may occur. This can be useful for debugging your code and identifying bugs or errors that may be causing your program to malfunction. In addition, logging can be used to track the performance of your program and help you to identify areas that may need to be optimized. It is also a way to inform users of your program about what is happening and any errors that may occur.
 
 <!-- blank line -->
 <figure class="video_container">
@@ -153,6 +188,14 @@ To learn more about logging in Python, check out the following resources:
 
 :warning: Do not store sensitive information in your logs. This includes passwords, API keys, and other confidential information. :warning:
 
+:pencil: __3a__ Apply logging to the functions in the modules and ```main.py``` script you created last time.
+
+#### Logging Example
+
+The following code shows an example of how you might use logging in a Python program, using the ```predict.py``` and ```train_and_evaluate.py``` modules from week 1 data lab 1:
+
+Click [here](./Examples/logging_example.md) for the example.
+
 ### 4. Debugging
 
 A debugger is a tool that allows data professionals to step through their code and track down bugs or errors that may be causing their program to malfunction. The debugger enables you to pause the execution of your code at any given point, inspect the values of variables and functions, and even modify the code in real-time to test different scenarios. This can be incredibly helpful in finding and fixing errors in your code.
@@ -177,9 +220,29 @@ To use the debugger in VSCode, follow these steps:
 
 :bell: Python also has a build in debugger called [pdb](https://docs.python.org/3/library/pdb.html). You can use this to debug your code in the terminal (in your IDE). For more information, check out this [tutorial](https://realpython.com/python-debugging-pdb/).
 
-:pencil: __4a__ Use the debugger to debug the ```titanic.py``` script. Did you find any bugs? If so, fix them.
+:pencil: __4a__ Use the debugger to debug the ```numbers_errors.py``` script (you can download it [here](./numbers_errors.py)). Did you find any bugs? If so, fix them using the debugger in VSCode.
 
-***
+The corrected code should have the following output:
+
+```python
+1500/1500 [==============================] - 3s 1ms/step - loss: 0.2812 - accuracy: 0.9194 - val_loss: 0.1618 - val_accuracy: 0.9542
+Epoch 2/5
+1500/1500 [==============================] - 2s 1ms/step - loss: 0.1267 - accuracy: 0.9620 - val_loss: 0.1163 - val_accuracy: 0.9672
+Epoch 3/5
+1500/1500 [==============================] - 2s 1ms/step - loss: 0.0853 - accuracy: 0.9744 - val_loss: 0.1085 - val_accuracy: 0.9686
+Epoch 4/5
+1500/1500 [==============================] - 2s 1ms/step - loss: 0.0641 - accuracy: 0.9812 - val_loss: 0.0984 - val_accuracy: 0.9722
+Epoch 5/5
+1500/1500 [==============================] - 2s 1ms/step - loss: 0.0485 - accuracy: 0.9849 - val_loss: 0.0879 - val_accuracy: 0.9736
+313/313 [==============================] - 1s 1ms/step - loss: 0.0756 - accuracy: 0.9750
+Test accuracy: 0.9750000238418579
+Sample predictions: [7 2 1 0 4]
+True labels: [7 2 1 0 4]
+```
+
+<div style="text-align:center">
+<img src="./images/example_output.png" alt="Testing with Python" width="80%"/>
+</div>
 
 ### 5. Unit testing
 
@@ -191,7 +254,7 @@ Unit testing is a software testing method by which individual units of source co
 </figure>
 <!-- blank line -->
 
-:bulb: I was introduced to TDD by a [senior software engineer](https://europe.naverlabs.com/people_user/Michael-Niemaz/) when I was working as a intern (machine learning engineer) at [Naver Labs Europe]https://europe.naverlabs.com/about/) building ML algorithms from scratch. He convinced me that TDD is a very useful practice that helps you write better code. I have been using TDD ever since as a useful programming paradigm and I highly recommend it!!
+:bulb: I (Nitin) was introduced to TDD by a [senior software engineer](https://europe.naverlabs.com/people_user/Michael-Niemaz/) when I was working as a intern (machine learning engineer) at [Naver Labs Europe]https://europe.naverlabs.com/about/) building ML algorithms from scratch. He convinced me that TDD is a very useful practice that helps you write better code. I have been using TDD ever since as a useful programming paradigm and I highly recommend it!!
 
 Unit tests are typically written by the developers of the code themselves. 
 Python has a built-in module called [unittest](https://docs.python.org/3/library/unittest.html) that can be used to write unit tests. However, the industry is moving towards using the [pytest](https://docs.pytest.org/en/6.2.x/) framework for unit testing. The pytest framework is more flexible and easier to use than the unittest module.
@@ -202,8 +265,110 @@ To learn more about unit testing in Python, check out the following resources:
 - [Datacamp Unit Testing Tutorial](https://www.datacamp.com/community/tutorials/unit-testing-python)
 - [Datacamp Unit Testing Course](https://app.datacamp.com/learn/courses/unit-testing-for-data-science-in-python)
 
-### 6. Blended learning
+:pencil: __5a__ Write a unit test for any of the functions in the modules and ```main.py``` script you created last time.
 
-There are many online resources available on the topic of testing with Python. Please, check the following resources:
+:pencil: __5b__ Run the unit test you wrote in the previous exercise using ```pytest```.
+
+#### Unit Testing Example
+
+The following code shows an example of how you might use unit testing in a Python program, using the ```predict.py``` module from week 1 data lab 1:
+
+The unit test tests for the data type of the output as well as if the correct value is predicted based on a known input. This helps ensure that the `predict_digit` function returns a value with the correct data type, which in this case is an integer and that the value is correct. Let's add this check to the `test_predict.py` file (we will create this file in the tests folder):
+
+```python
+import numpy as np
+import tensorflow as tf
+from data import load_and_preprocess_data
+from predict import predict_digit, load_model
+
+def test_predict_digit():
+    # Load the saved model
+    model = load_model('models/mnist_model')
+
+    # Load and preprocess data
+    (_, _), (test_images, test_labels) = load_and_preprocess_data()
+
+    # Select a specific image and its label from the test dataset
+    sample_idx = 42  # You can change this to any index within the test set
+    image = test_images[sample_idx]
+    expected_digit = test_labels[sample_idx]
+
+    # Test the predict_digit function
+    predicted_digit = predict_digit(model, image)
+
+    # Check the data type of the predicted_digit
+    assert isinstance(predicted_digit, int), f'Expected data type int, but got {type(predicted_digit)}'
+
+    # Check if the predicted_digit matches the expected_digit
+    assert predicted_digit == expected_digit, f'Expected {expected_digit}, but got {predicted_digit}'
+```
+
+The test checks both the data type of the output and whether the predicted digit matches the expected digit. Run the test with the `pytest` command:
+
+```
+pytest
+```
+
+This will run all the tests in the `tests` folder. In this case, it will run the `test_predict.py` test.
+
+Make sure your terminal is in the root directory of the project (i.e. the same directory as the `tests` folder)
+
+The test should pass if the prediction is correct and the output has the right data type. If the test fails, you'll see a detailed output showing the cause of the failure, and you can adjust the test or fix the issue in the `predict.py` module accordingly.
+
+Here's an example output for a passed test and a failed test.
+
+**Passed test:**
+
+```
+============================= test session starts ==============================
+platform [your_platform] -- Python [your_python_version], pytest-[pytest_version], py-[py_version], pluggy-[pluggy_version]
+cachedir: .pytest_cache
+rootdir: [your_project_directory]
+collected 1 item
+
+test_predict.py .                                                        [100%]
+
+============================== 1 passed in 2.21s ===============================
+```
+
+**Failed test:**
+
+Let's say we deliberately change the expected data type in the test to `float` to simulate a failed test. Update the `test_predict.py` file:
+
+```python
+# Check the data type of the predicted_digit
+assert isinstance(predicted_digit, float), f'Expected data type float, but got {type(predicted_digit)}'
+```
+
+Now, when you run the test with `pytest`, you'll get a failed test output like this:
+
+```
+============================= test session starts ==============================
+platform [your_platform] -- Python [your_python_version], pytest-[pytest_version], py-[py_version], pluggy-[pluggy_version]
+cachedir: .pytest_cache
+rootdir: [your_project_directory]
+collected 1 item
+
+test_predict.py F                                                        [100%]
+
+=================================== FAILURES ===================================
+______________________________ test_predict_digit ______________________________
+
+    def test_predict_digit():
+        # ...
+        predicted_digit = predict_digit(model, image)
+
+        # Check the data type of the predicted_digit
+>       assert isinstance(predicted_digit, float), f'Expected data type float, but got {type(predicted_digit)}'
+E       AssertionError: Expected data type float, but got <class 'int'>
+E       assert False
+
+test_predict.py:19: AssertionError
+=========================== short test summary info ============================
+FAILED test_predict.py::test_predict_digit - AssertionError: Expected data ty...
+============================== 1 failed in 2.19s ===============================
+```
+
+The failed test output shows the exact line of code where the test failed, the AssertionError message, and a summary of the failed tests. You can use this information to identify and fix issues in your code or update the test if needed. Don't forget to change the expected data type back to `int` in the test after reviewing the failed test output.
 
 ***

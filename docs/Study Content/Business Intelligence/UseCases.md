@@ -81,8 +81,8 @@ Use the following code to connect to the database:
 ```python
 from sqlalchemy import create_engine
 
-user = "your_user_name"
-password = "your_password"
+user = "user1"
+password = "1234"
 host = "145.101.164.141"
 port = "5432"
 database = "adsai_1d"
@@ -112,6 +112,32 @@ else:
     print("Connection failed!")
 ```
 If the output is "Connection successful!" then you are good to go :+1:
+
+You can check what data tables are available and what data relationships exist between the tables using the following code:
+
+```python
+from sqlalchemy import create_engine, MetaData
+from sqlalchemy.orm import declarative_base
+from sqlalchemy.inspection import inspect
+
+metadata = MetaData(bind=engine)
+metadata.reflect()
+
+Base = declarative_base(metadata=metadata)
+
+# List available tables
+print("Tables:")
+for table_name in metadata.tables:
+    print(table_name)
+
+# List relationships
+print("\nRelationships:")
+inspector = inspect(engine)
+for table_name in metadata.tables:
+    print(f"Table: {table_name}")
+    for foreign_key in inspector.get_foreign_keys(table_name):
+        print(f"  Foreign key: {foreign_key['constrained_columns']} -> {foreign_key['referred_table']}.{foreign_key['referred_columns']}")
+```
 
 ***
 

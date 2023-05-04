@@ -25,6 +25,7 @@ __After this chapter, you will be able to:__
 
 - [ ] Explain the purpose of docstrings in Python
 - [ ] Write docstrings for Python functions, either manually or using an extension in VSCode
+- [ ] Use Sphinx to generate documentation for your Python code
 
 ***
 
@@ -74,16 +75,67 @@ The video below shows how to install and use autoDocstring in VSCode:
 :bulb: __Important:__ If you are using the autoDocstring extension in VSCode, it is important to make sure the generated docstrings are detailed and specific to your use case. Generic docstrings are not always helpful.
 
 #### Docstring Example
-The following example shows how to write a docstring for the ```predict_digit``` function that we have been working with in the last few modules. The docstring is written in the Google Style format.
+The following example shows how to write a docstring for the ```predict.py``` module that we have been working with in the last few weeks. The docstring is written in the Google Style format.
 
-```Python
+```python
+import numpy as np
+import tensorflow as tf
+from data import load_and_preprocess_data
 
+def load_model(model_path: str) -> tf.keras.Model:
+    """Load a TensorFlow model from the given path.
 
+    Args:
+        model_path (str): Path to the saved model.
+
+    Returns:
+        tf.keras.Model: Loaded TensorFlow model.
+    """
+    return tf.keras.models.load_model(model_path)
+
+def predict_digit(model: tf.keras.Model, image: np.ndarray) -> int:
+    """Predict the digit in the given image using the provided model.
+
+    Args:
+        model (tf.keras.Model): Pre-trained TensorFlow model.
+        image (np.ndarray): Input image of shape (28, 28).
+
+    Returns:
+        int: Predicted digit.
+    """
+    # Ensure the image has the right dimensions for the model
+    image = np.expand_dims(image, axis=0)
+    image = np.expand_dims(image, axis=-1)
+
+    # Make predictions
+    predictions = model.predict(image)
+    predicted_digit = np.argmax(predictions)
+
+    return predicted_digit
+
+if __name__ == '__main__':
+    # Load the saved model
+    model = load_model('models/mnist_model')
+
+    # Load and preprocess data
+    (_, _), (test_images, test_labels) = load_and_preprocess_data()
+
+    # Predict a digit using a sample image from the test set
+    sample_idx = 42  # You can change this to any index within the test set
+    image = test_images[sample_idx]
+    label = test_labels[sample_idx]
+    predicted_digit = predict_digit(model, image)
+
+    print(f'Predicted digit: {predicted_digit}')
+    print(f'Actual digit: {label}')
 ```
+
+The Google-style docstrings provide information about the function's purpose, its input arguments, and its return values. This makes the code more readable and easier to understand for other developers who may use or modify the module.
+
 
 ***
 
-### 3. Sphinx 
+### 3. Automated Documentation Pages: Sphinx 
 
 ```Sphinx``` is a tool that generates documentation for your code. It is a popular tool for Python projects and is used by many popular Python projects such as TensorFlow, Pandas, and NumPy. To learn more about ```Sphinx```, please watch the following video:
 
@@ -103,10 +155,236 @@ To learn more about ```Sphinx```, please check out the following resources:
 
 > Note that tools such as ```Sphinx``` cannot be used on a Jupyter Notebook natively. You will need to install some additional extensions to make it work. But I do not ever recommend using Jupyter Notebooks for writing production-level code.
 
-:bell: The best way to learn how to use ```Sphinx``` is to read it's documentation, try it out on a sample script, and apply it to your project scripts. In addition to creating documentation, learning how to read and engage with the documentation of popular Python projects is also a very important skill. So, please, try to read the documentation of ```Sphinx```.
+:bell: The best way to learn how to use ```Sphinx``` is to read it's documentation, try it out on a sample script, and apply it to your project scripts. In addition to creating documentation, learning how to read and engage with the documentation of popular Python projects is also a very important skill. So, please, try to read the documentation of ```Sphinx```. If you aren't able to create a documentation page for your project using the documentation, you can use the following example as a guide.
 
 
 #### Sphinx Example
+
+Hey there! 👋 Let's create some awesome documentation for your Python project using Sphinx! 📚
+
+Sphinx is a powerful documentation generator that can create beautiful HTML documentation for your Python code. We'll go through the steps to set up Sphinx, create the documentation, and host it using GitHub Pages. 🌐
+
+**Step 1: Install Sphinx and other necessary packages**
+
+First, you'll need to install Sphinx, the theme we'll be using (sphinx_rtd_theme), and other necessary packages:
+
+```bash
+pip install sphinx sphinx-autobuild sphinx_rtd_theme
+```
+OR
+```bash
+poetry add sphinx sphinx-autobuild sphinx_rtd_theme
+```
+
+**Step 2: Set up the Sphinx project**
+
+Next, create a new directory called `docs` in your project root (outside the src folder), navigate to it, and run the `sphinx-quickstart` command in a terminal to initialize your Sphinx project.
+
+Follow the prompts, filling in the required information. You can accept the defaults for most options. When asked for the theme, choose `sphinx_rtd_theme`.
+
+**Step 3: Configure Sphinx**
+
+Open the generated `docs/conf.py` file and add the following lines at the start:
+
+```python
+import sphinx_rtd_theme
+import os
+import sys
+
+# Add the path to the folder containing your Python source code files
+sys.path.insert(0, os.path.abspath('../src'))
+```
+
+This will import the `sphinx_rtd_theme` package and add the `src` folder to the Python path so that Sphinx can find your Python modules.
+
+Then, find the `html_theme` setting and set it to `'sphinx_rtd_theme'`:
+
+```python
+html_theme = 'sphinx_rtd_theme'
+```
+
+Add which ever of the following extensions that are not already present in the `extensions` list:
+
+```python
+extensions = [
+   'sphinx.ext.duration',
+   'sphinx.ext.doctest',
+   'sphinx.ext.autodoc',
+   'sphinx.ext.autosummary',
+]
+```
+
+This will enable the extensions that we'll be using to generate the documentation, specifically it will allow us to automatically generate documentation for our Python modules.
+
+**Step 4: Add your Python modules to the documentation**
+
+Now, let's tell Sphinx to automatically generate documentation for your Python modules. Open the `docs/index.rst` file and add the following lines after the `.. toctree::` directive:
+
+```
+Welcome to MNIST Project's documentation!
+=========================================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+.. automodule:: train
+   :members:
+
+.. automodule:: predict
+   :members:
+```
+
+Only the automodule directives directives need to be added. Add one for each module that you want documented.
+
+Make sure to replace `train` and `predict` with the actual names of your Python modules. In this example, we're telling Sphinx to automatically generate documentation for the `train.py` and `predict.py` modules and include all of their members (functions, classes, etc.) in the documentation. Sphinx will use the docstrings in your modules to generate the documentation.
+
+**Step 5: Generate the HTML documentation**
+
+Navigate back to the `docs` directory and run the following command:
+
+```bash
+make html
+```
+
+This will generate the HTML documentation in the `_build/html` directory. Open `_build/html/index.html` in your browser to check it out! 🎉
+
+We could stop here and just manually upload the documentation to a server, but let's go one step further and host the documentation on GitHub Pages.
+
+**Step 6: Make the documentation more clear and presentable**
+
+You can add normal markdown to the `docs/index.rst` file to make the documentation more clear and presentable. For example, you can add an Introduction section with a description description, and headings for each module:
+
+```
+.. MNIST Project documentation master file, created by
+   sphinx-quickstart on Thu May  4 10:06:21 2023.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to MNIST Project's documentation!
+=========================================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+Introduction
+============
+
+This documentation covers the usage and functionality of the following modules:
+
+- ``train``: A module that trains a neural network model for digit recognition using the MNIST dataset.
+- ``predict``: A module that uses the trained model to predict the digit in a given image.
+
+Train Module
+============
+
+.. automodule:: train
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Predict Module
+==============
+
+.. automodule:: predict
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
+```	
+
+**Step 7: Host the documentation on GitHub Pages**
+
+To host the documentation on GitHub Pages, follow these steps:
+
+1. Create a new branch in your project called `gh-pages`:
+
+   ```bash
+   git checkout -b gh-pages
+   ```
+
+3. Add, commit, and push the changes to the `gh-pages` branch:
+
+   ```bash
+   git add .
+   git commit -m "Add Sphinx documentation"
+   git push origin gh-pages
+   ```
+
+4. Go to your GitHub repository's settings and scroll down to the GitHub Pages section. Select the `gh-pages` branch as the source and the source folder to `/docs` and the and click Save.
+
+And that's it! 🚀 Your documentation is now hosted on GitHub Pages at `https://<your-username>.github.io/<your-repo-name>/`. Share your beautiful documentation with the world! 🌍
+
+Remember, whenever you make changes to your code or documentation, you'll need to rebuild the HTML documentation using `make html` and update the `gh-pages` branch to keep everything in sync. 😄
+
+Happy documenting! 📝
+
+
+**:bulb: Bonus Step: Automatically build the documentation when you push to GitHub**
+
+1. Create the workflow file: On your main branch create a new directory named `.github` in your project root if it doesn't already exist, and inside it, create another directory named `workflows`. Then, create a new file named `sphinx.yml` in the workflows directory. Copy the following into the file:
+
+```yaml
+name: Sphinx build
+
+on: push
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Build HTML
+      uses: ammaraskar/sphinx-action@master
+    - name: Upload artifacts
+      uses: actions/upload-artifact@v3
+      with:
+        name: html-docs
+        path: docs/_build/html/
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      if: github.ref == 'refs/heads/master'
+      with:
+        github_token: ${{ secrets.DOCS }}
+        publish_dir: docs/_build/html
+```
+
+:warning: Make sure to replace `DOCS` with the name of your GitHub secret that contains your GitHub personal access token.
+
+:pencil: 1: Ask ChatGPT to explain each part of the workflow file. <br>
+:pencil: 2: Ask ChatGPT to explain how to create a GitHub personal access token and add it as a secret in your GitHub repository.   <br>
+
+The above instructions use a `requirements.txt` file in the `docs` directory to install the necessary packages. However, if you're using Poetry to manage your project's dependencies, you can use the following tutorial to automatically build the documentation whenever you push to GitHub: [Sphinx Documentation on GitHub Pages using Poetry](https://tomasfarias.dev/posts/sphinx-docs-with-poetry-and-github-pages/)
+
+2. Create a requirements file for your documentation dependencies: Create a new file named `requirements.txt` in your `docs` directory and add your dependencies, such as the `sphinx_rtd_theme` and any other required packages (like `numpy` or `pandas`):
+
+```
+sphinx_rtd_theme
+numpy
+```
+
+:warning: Make sure to add all of your package dependencies to the `requirements.txt` file. If you don't, the GitHub Actions workflow will not be able to build the documentation correctly.
+
+3. Commit and push the changes to your main branch: Add, commit, and push the changes to your main branch:
+
+```bash
+git add .
+git commit -m "Add GitHub Actions workflow for Sphinx documentation"
+git push origin main
+```
+
+4. Enable GitHub Pages: Go to your GitHub repository's settings, scroll down to the GitHub Pages section, select the `gh-pages` branch in the "Source" dropdown menu (it should already be selected), and change the source folder to `/(root)` and the and click Save.
+
+After completing these steps, every time you push changes to your main branch, the GitHub Actions workflow will automatically build the HTML documentation using Sphinx and deploy it to the `gh-pages` branch. You should be able to see your HTML documentation at the designated URL: `https://<your-username>.github.io/<your-repo-name>/`.
+
+:warning: Remember to update the `docs/requirements.txt` file if you add new dependencies.
 
 
 ### 4. Blended learning

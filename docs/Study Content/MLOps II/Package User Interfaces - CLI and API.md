@@ -95,7 +95,7 @@ if __name__ == "__main__":
     main()
 ```
 
-Save the code as `calculator.py` and run it in the terminal with the following command:
+:pencil: Save the code as `calculator.py` and run it in the terminal with the following command:
 
 ```bash
 python calculator.py 5 3 add
@@ -112,8 +112,7 @@ Now let's explore `Typer`, a more modern and user-friendly library for building 
 ```bash
 pip install typer
 ```
-
-Now, let's create a CLI that greets the user with a personalized message:
+Let's create the same calculator CLI we built earlier, but this time using `Typer`:
 
 ```python
 import typer
@@ -121,24 +120,36 @@ import typer
 app = typer.Typer()
 
 @app.command()
-def greet(name: str, age: int, city: str):
-    typer.echo(f"Hello, {name}! You are {age} years old and live in {city}.")
+def calculator(x: float, y: float, operation: str = typer.Option(..., help="Arithmetic operation", case_sensitive=False, choices=["add", "subtract", "multiply", "divide"])):
+    if operation.lower() == "add":
+        result = x + y
+    elif operation.lower() == "subtract":
+        result = x - y
+    elif operation.lower() == "multiply":
+        result = x * y
+    elif operation.lower() == "divide":
+        result = x / y
+
+    typer.echo(f"Result: {result}")
 
 if __name__ == "__main__":
     app()
 ```
 
-Save the code as `greet.py` and run it in the terminal with the following command:
+:pencil: Save the code as `calculator_typer.py` and run it in the terminal with the following command:
 
 ```bash
-python greet.py John 30 "New York"
+python calculator_typer.py calculator 5 3 add
 ```
 
-You should see the output: `Hello, John! You are 30 years old and live in New York.`
+You should see the output: `Result: 8.0`
 
 Great job, you've just built a CLI using `Typer`! 🎊
 
 As you can see, `Typer` offers a cleaner syntax and supports type annotations, making it easier to create more advanced and user-friendly CLIs.
 
 In the upcoming sections, we'll dive deeper into `argparse` and `Typer`, exploring their features and learning how to create more advanced CLIs that can handle complex arguments, provide helpful error messages, and even support features like tab completion. Get ready to sharpen your CLI-building skills! 🛠️🚀
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tLKKmouUams" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

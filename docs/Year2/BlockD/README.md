@@ -128,15 +128,15 @@ This week you will be introduced to the concept of MLOps and the tools and techn
 
 ### Suggested Learning Modules
 
-- [MLOps: Machine Learning Operations](https://adsai.buas.nl/Study%20Content/MLOps%20II/Introduction%20to%20MLOps.html)
-- [Virtual environments & Package management with Python](https://adsai.buas.nl/Study%20Content/MLOps%20II/VirtualEnvironmentPackageManagement.html)
-- [Production Ready Code with Python](https://adsai.buas.nl/Study%20Content/MLOps%20II/CodeFormatting.html)
-- [Working with Azure Devops](https://adsai.buas.nl/Study%20Content/MLOps%20II/Working%20with%20Azure%20Devops.html)
+- [MLOps: Machine Learning Operations](https://adsai.buas.nl/Study%20Content/MLOps%20II/1.%20Introduction%20to%20MLOps.html)
+- [Virtual environments & Package management with Python](https://adsai.buas.nl/Study%20Content/MLOps%20II/2.%20VirtualEnvironmentPackageManagement.html)
+- [Production Ready Code with Python](https://adsai.buas.nl/Study%20Content/MLOps%20II/3.%20CodeFormatting.html)
+- [Working with Azure Devops](https://adsai.buas.nl/Study%20Content/MLOps%20II/4.%20Working%20with%20Azure%20Devops.html)
 - [Production Ready Code Cheat Sheet](https://adsai.buas.nl/Study%20Content/MLOps%20II/PRC%20Cheat%20Sheet.html) 
 
 ### Datalabs
 
-- [Datalab 1: Project and Package Planning](https://adsai.buas.nl/Study%20Content/MLOps%20II/Datalab1.html)
+- [Datalab 1: Project and Package Planning](https://adsai.buas.nl/Study%20Content/MLOps%20II/5.%20Datalab1.html)
 
 
 # Week 2-3 - Creating Production Ready Code (ILO 4)
@@ -150,12 +150,11 @@ Over the next two weeks you will create production ready code. You will learn ho
 ### Suggested Learning Modules
 
 - [MLOps Maturity Levels - Article from MS Azure ML Accelerator](https://microsoft.github.io/azureml-ops-accelerator/1-MLOpsFoundation/1-MLOpsOverview/2-MLOpsMaturityModel.html)
-- [Testing and Logging with Python](https://adsai.buas.nl/Study%20Content/MLOps%20II/Testing.html)
-- [Continuous Integration with Python](https://adsai.buas.nl/Study%20Content/MLOps%20II/ContinuousIntegration.html)
-- [Documentation for Python](https://adsai.buas.nl/Study%20Content/MLOps%20II/Documenting.html)
-- [Building Packages for Users - CLIs and APIs](../../Study%20Content/MLOps%20II/Package%20User%20Interfaces%20-%20CLI%20and%20API.md)
-- [Building and Distributing Python Packages](../../Study%20Content/MLOps%20II/Building%20and%20Distributing%20Python%20Packages.md)
-- [Production Ready Code Cheat Sheet](https://adsai.buas.nl/Study%20Content/MLOps%20II/PRC%20Cheat%20Sheet.html) 
+- [Testing and Logging with Python](https://adsai.buas.nl/Study%20Content/MLOps%20II/6.%20Testing.html)
+- [Documentation for Python](https://adsai.buas.nl/Study%20Content/MLOps%20II/7.%20Documenting.html)
+- [Client-side Continuous Integration Tools with Python](https://adsai.buas.nl/Study%20Content/MLOps%20II/8.%20ContinuousIntegration.html)
+- [Building Packages for Users - CLIs and APIs](../../Study%20Content/MLOps%20II/9.%20Package%20User%20Interfaces%20-%20CLI%20and%20API.html)
+- [Building and Distributing Python Packages](../../Study%20Content/MLOps%20II/10.%20Building%20and%20Distributing%20Python%20Packages.html) 
 
 # Week 4-5 - Data Pipelines and Model Training in the Cloud (ILO 5)
 

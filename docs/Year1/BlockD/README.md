@@ -84,6 +84,11 @@ Please use the following datasets to help you solve the creative brief. You will
 *Figure 3. Rinud rrindir indeed DALL-E, rinud rrindir indeed. Remember to [use the Generative AI Reference Guide](https://buas.libguides.com/c.php?g=704234&p=5102449) when you use any type of generative AI [OpenAI, A Dutch Republic Sailing Ship exploring a data lake, 24-04-2023]! Unsure? Ask you mentor!*
 
 
+
+**Remember to use a** [translator extension](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=en) **if you are not a native dutch speaker!**
+
+
+
 | Dataset: | Publisher: | Measurement level: | Description : |
 | --- | --- | --- | --- |
 | [Data Breda](https://data.breda.nl/) | Breda Municipality | Grid/Neighboorhood/Borough/Municipal | Public data on Breda in general, sorted by theme, which links to other official data channels on Breda by the EU and national government |
@@ -92,7 +97,7 @@ Please use the following datasets to help you solve the creative brief. You will
 | [Heat stress index](#https://edubuas-my.sharepoint.com/:u:/g/personal/blerck_i_buas_nl/Eeffh6rKQc1BgH-TWAndcNEBNWlpsTPmx1PzrEpBIHupZw?e=bYRJ75) | Municipality of Breda | Grid | Score indicating the level of heat stress on a grid level |
 | [Livability index](#https://edubuas-my.sharepoint.com/:x:/g/personal/blerck_i_buas_nl/ESp0zUKaq_RErIRZFVe9iMwBvvEW9-tRd91x1WN4NdQg2Q?e=3fTSjM) | Municipality of Breda | Grid | Score indicating [the livability on a grid level](https://www.leefbaarometer.nl/home.php) |
 | [Move house](#https://edubuas-my.sharepoint.com/:f:/g/personal/blerck_i_buas_nl/EisT2yTIritPgBTYKtRAq3kB5NRH-ke7NeE6MvowY_Gzng?e=zIqSQQ) | Municipality of Breda | Grid | The number of households moving from Breda to another location (within or outside the municipality) |
-| [Buurt enquête](#https://edubuas-my.sharepoint.com/:x:/g/personal/blerck_i_buas_nl/EcnbV_3adbJBgQHtK8dFNKYBUKutDHWdripcQjzDw9abmQ?e=uUDMWD) | Municipality of Breda | Neighbourhood | Survey regarding social capital and neighborhood participation. [Click to view actual surveys](#https://edubuas-my.sharepoint.com/:f:/g/personal/blerck_i_buas_nl/Eq7izTSGbctPvHDAbyaYh7MBVjmISMbzHldim030wZTLHw?e=0Ccihm). |
+| [Buurt enquête](#https://edubuas-my.sharepoint.com/:x:/g/personal/blerck_i_buas_nl/EcnbV_3adbJBgQHtK8dFNKYBUKutDHWdripcQjzDw9abmQ?e=uUDMWD) | Municipality of Breda | Neighbourhood | Survey regarding social capital and neighborhood participation. [Click to view actual surveys](https://edubuas-my.sharepoint.com/:f:/g/personal/blerck_i_buas_nl/Eq7izTSGbctPvHDAbyaYh7MBVjmISMbzHldim030wZTLHw?e=0Ccihm). |
 | [Klimaateffectatlas](https://www.klimaateffectatlas.nl/en/) | Klimaateffectatlas | Grid - National (Varies) | A collection of datasets illustrating the effects of climate change on people and their living environment |
 | [POI](https://www.arcgis.com/home/item.html?id=90830abcc0a54b04a968c451e4122341) | Esri Nederland | Grid | OpenStreetMap dataset of the Netherlands. These locations have a specific function by the Municipality have been designated as **Points of Interest.** |
 | [Police](https://data.politie.nl/#/Politie/nl/navigatieScherm/thema) | Dutch Police | Grid - National (Varies) | [Data.politie.nl](https://data.politie.nl/#/Politie/nl/) is the data portal of the police and contains figures on registered crime, nuisance, police performance and police operations. Here you can compile your own tables and graphs |
@@ -164,7 +169,7 @@ After that we continue withsome short self-study material:
 
 - [ ] Today, we're going to spend reading the creative brief so we know what to do. Reading is considered hard work by many, sustaining concentration is no small feat. So let's take today to read the creative brief completely. Good news: it's the page you're on! Scroll to the top and read thoroughly untill you reach the bottom. If you have any questions, post them in the Q&A channel.
 - [ ] Don't think that we haven't noticed that you didn't read the brief entirely. Come now, read it!
-- [ ] Good. Now, that we have read the creative brief, we're going to [download the following template](".\assets\BUas Powerpoint template.pptx"). Name it FirstnameLastname_ProjectProposals. This is the powerpoint presentation which you're going to use to present your project proposals to your team Wednesday morning. Cool, now pick 3 of the themes and fill in the themes and provided problem statements in your presentation. Write down in less than a 100 words these problem statements interested you using the slides. Come up with a solution/idea to solve the problem statement. We recommend using the AI Canvas, but you can go freestyle if you fancy. If you have trouble choosing, you can make a table with the different qualities and rank/rate you arguments, for example:
+- [ ] Good. Now, that we have read the creative brief, we're going to [download the following template]("./assets/BUas Powerpoint template.pptx"). Name it FirstnameLastname_ProjectProposals. This is the powerpoint presentation which you're going to use to present your project proposals to your team Wednesday morning. Cool, now pick 3 of the themes and fill in the themes and provided problem statements in your presentation. Write down in less than a 100 words these problem statements interested you using the slides. Come up with a solution/idea to solve the problem statement. We recommend using the AI Canvas, but you can go freestyle if you fancy. If you have trouble choosing, you can make a table with the different qualities and rank/rate you arguments, for example:
 
 
 **Bram's Project Ranking Table of Greater Dexterity**
@@ -216,13 +221,13 @@ After that we continue withsome short self-study material:
 # Week 3: Bringing Data & Business Understanding Together - Agile Project Management
 
 ## Monday & Tuesday
-9 AM - 10 AM: [Introduction to Project Management]()
+10 AM - 11 AM: [Introduction to Project Management](https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2QyMmQ2ODktNzYwMy00NDk2LTgwMjYtMDAyNmNmMzkxNDMx%40thread.v2/0?context=%7b%22Tid%22%3a%220a33589b-0036-4fe8-a829-3ed0926af886%22%2c%22Oid%22%3a%225cef929d-ecf9-4fca-bf12-bc5ee065fc99%22%7d)
 
 - [The scrum approach to project success](../../Study%20Content/Agile%20Project%20Management/1.1.%20The%20scrum%20approach%20to%20project%20success.html)
 - [Essential roles for scrum teams](../../Study%20Content/Agile%20Project%20Management/1.2.%20Essential%20roles%20for%20scrum%20teams.html)
 - [Project vision and roadmaps](../../Study%20Content/Agile%20Project%20Management/1.3.%20Project%20vision%20and%20roadmaps.html)
 - [Creating a Project Vision and Roadmap](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/3.%20Creating%20a%20Project%20Vision,%20Roadmap%20and%20Project%20Planning.html)
-- [Sprint planning and standups using Jira](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/4.1.%20Sprint%20planning%20and%20standups.html)
+- [Sprint planning and standups using Trello](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/4.1.%20Sprint%20planning%20and%20standups.html)
 - [Wrapping up a sprint and retrospectives](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/4.2.%20Wrapping%20up%20a%20sprint%20and%20retrospectives.html)
 
 ## Wednesday
@@ -248,7 +253,7 @@ This is the work that to be completed as a team on Monday Week 4, the sooner you
 # Week 4: Data Pre-processing 
 ## Monday
 - [ ] [DataLab: Project vision and roadmap - Creative Brief](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/5.%20DataLab%202%20Scrum.html). Also take a look at the Mandatory Knowledge modules at the bottom of the page. Take them into account when creating the project backlog and estimate them story points using story points.
-- [ ] [Plan a first sprint]()
+- [ ] Plan a first sprint with your Product Owner (together or with their consent).
 - [ ] [DataLab: Check List for ethical & legal decision making](../../Study%20Content/Digital%20Transformation/UseCases%20-%20Legal%20and%20Ethics.html)  - __Use Case 1__.
 
 ## The rest of the block is dedicated to project work.
@@ -259,7 +264,7 @@ This is the work that to be completed as a team on Monday Week 4, the sooner you
 - On Friday you will **fill in the peer-review form for that week** which you will then use to provide to your team with feedback during the sprint review and sprint retrospective. Meaning that you will need to have your peer-review form filled in before starting the sprint review. You will then plan a
 new sprint using sprint planning poker.
 
-Please make sure to steadily fill in your checklist for ethics & legal assignment. You can find use cases for ethics & legal by clicking [this link](../../Study%20Content/Digital%20Transformation/UseCases%20-%20Legal%20and%20Ethics.html) and the overall requirements [here](../../Study%20Content/Digital%20Transformation/RequirementsLegal&Ethics.html) .**
+Please make sure to steadily fill in your checklist for ethics & legal assignment. You can find use cases for ethics & legal by clicking [this link](../../Study%20Content/Digital%20Transformation/UseCases%20-%20Legal%20and%20Ethics.html) and the overall requirements [here](../../Study%20Content/Digital%20Transformation/RequirementsLegal&Ethics.html).
 
 ## Preparing for the Sounding Board Session
 
@@ -288,13 +293,15 @@ Same structure as week 4 but now hopefully focussed mainly on data modelling. Ap
 - [ ] Team Communication Workshop in Datalab
 
 # Week 6: Evaluation (& Iteration) 
-Same structure as week 4 but now hopefully focussed mainly on data modelling evaluation (& iteration). Apart from:
+Same structure as week 4 but without sounding board session and guest lectures. Preferably, focussed mainly on data modelling evaluation (& iteration). Apart from:
+- NA
 
 # Week 7: Deployment 
-Same structure as week 4 but now hopefully focussed mainly on deploying your project. Apart from:
+Same structure as week 5. Preferably, focussed mainly on data modelling evaluation (& iteration). Apart from:
+- NA
 
 # Week 8: Client Demonstration 
-Same structure as week 4 but now hopefully focussed mainly on presenting you project to the client.  Apart from:
+Same structure as week 5. Preferably, focussed mainly on data modelling evaluation (& iteration). Apart from:
 
 ## Preparing for Poster Presentation
 - [Setting up Instructions]()

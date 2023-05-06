@@ -12,7 +12,7 @@ As a result, you will spend most of your time (5.5 weeks) on your project as a t
 This block will focus on the __*Deployment*__ phase of the __*CRISP-DM*__ lifecycle; you will learn how to deploy your model or application! Last block, you've learned how to justify the development of a project by creating a project proposal which you backed up with a substatiated design and proof-of-concept. Now, you're going to again propose a project but based on your EDA and the specific client requirements instead. They're open, they don't really know what they want, they just want 'tools' to solve the problems. This happens more often in industry, 'we have data and we have problems, and we think the data can solve our problems but we don't know how'; difficult for us as unclarity and abstraction makes it difficult to judge what to do... However, these situation do give us more the creative freedom to solve a problem so let's get started **creating something we can deploy!**
 
 <figure>
-    <img src=".\assets\CRISP-DM_Process_Diagram.png" width=1080 />
+    <img src="./assets/CRISP-DM_Process_Diagram.png" width=1080 />
 </figure>
 
 *Figure 1. CRISP-DM Lifecycle.*
@@ -62,7 +62,7 @@ Socio-economic indicators include features such as house prices, perception of n
 **Your creative brief for this block expects you to use the skills and knowledge you have gained over the course of this year to build a tool to improve Breda in a completely data-driven manner**. This could be for example, adashboard to provide useful insights, or an AI model that helps predict QoL, or ideally, a combination of both. Once you have developed and deployed the tool, you are expected to provide recommendations to the city of Breda in terms of policy: button they could press or tune as it were to influence Breda and Improve it.
 
 <figure>
-    <img src=".\assets\breda.PNG" />
+    <img src="./assets/breda.PNG" />
 </figure>
 <br>
 *Figure 2. An overview of the municipality of Breda.*
@@ -77,7 +77,7 @@ Please use the following datasets to help you solve the creative brief. You will
 
 <figure>
 <center>
-    <img src=".\assets\DutchRepubicShipOceanOfData.png"  width=1080  />
+    <img src="./assets/DutchRepubicShipOceanOfData.png"  width=1080  />
 </center>
 </figure>
 
@@ -113,7 +113,7 @@ For block D, you are expected to follow an agile project management methodology 
 The Scrum methodology is characterized by short phases called “sprints” wherein project work; tasks, occurs. During sprint planning, the project team identifies a small part of the scope; a set of tasks, to be completed during the upcoming sprint, which is usually a two week period of time. But we'll stick to a 1 week sprint to match to the project timeline and give everyone a chance to become a Scrum-master::
 <figure>
 <center>
-    <img src=".\assets\Y1D Timeline.jpg" />
+    <img src="./assets/Y1D Timeline.jpg" />
 </center>
 </figure>
 You will start working as a team from week 4 onwards, meaning that there will be 5 sprints and that teams may be no larger then 5 person in order to give everyone the chance to be a Scrum-master.
@@ -143,6 +143,8 @@ Week goals:
 
 ## Monday
 **9 AM - 12 AM: Block D Kickoff in Fe1.018!**
+
+
 | Time | Topic | Presentor | 
 | --- | --- | --- | 
 | 9:00-10:00 | Block Kick-Off and announcements | ADS&AI Staff | 
@@ -152,6 +154,7 @@ Week goals:
 | 10:45 | A day in the life of: Wim | Wim |
 | 11:00 | A day in the life of: Thom | Thom |
 | 11:15 | A day in the life of: Data Compliance Officer | TBD |
+
 
 
 After that we continue withsome short self-study material:
@@ -165,12 +168,15 @@ After that we continue withsome short self-study material:
 
 
 **Bram's Project Ranking Table of Greater Dexterity**
+
+
 | Quality/Theme | Theme 1 | Theme 2 | Theme 3 |
 | --- | --- | --- | --- |
 | Interest | medium | high | high |
 | Difficulty | easy | normal | hard |
 | Notes | I see an easy way to create a valuable solution | cool and feasible | Would be so cool, but maybe too big of a project |
 | Awesomeness | 3 | 6 | 9 |
+
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LQ5Uj1nryBc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

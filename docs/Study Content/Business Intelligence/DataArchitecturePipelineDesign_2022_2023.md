@@ -18,7 +18,7 @@ Hello everyone! This week, our main focus will be on getting to know the dataset
 
 During the first half of the day, you will be introduced to the core concepts of data architecture and pipeline design. You will learn about the ETL process and how to design tables in a data warehouse.
 
-In the second half of the day, we will delve into the fundamental concepts of database design and Structured Query Language (SQL). You will begin by taking the Design Databases with PostgreSQL course on Codeacademy, followed by some additional SQL exercises that will focus on specific clauses of Data Definition Language (DDL) and Data Manipulation Language (DML).
+In the second half of the day, we will delve into the fundamental concepts of database design and Structured Query Language (SQL). You will begin by taking the Design Databases with PostgreSQL course on Codeacademy (Use your BUas email to create the account!), followed by some additional SQL exercises that will focus on specific clauses of Data Definition Language (DDL) and Data Manipulation Language (DML).
 
 <img src="./images/sql_types_1.png" alt="SQL" width="450"/>
 

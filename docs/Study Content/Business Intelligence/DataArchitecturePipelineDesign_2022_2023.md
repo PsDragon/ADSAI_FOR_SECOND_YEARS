@@ -232,6 +232,8 @@ WHERE youth = 11;
 Do you have time left, and have the desire to become a data wrangling SQL wizard, explore the following additional resources:
 
 __Interactive exercises:__
+- DataCamp: [Introduction to SQL](https://app.datacamp.com/learn/courses/introduction-to-sql).
+- DataCamp: [Creating PostgreSQL Databases](https://app.datacamp.com/learn/courses/creating-postgresql-databases).
 - PostgreSQL Exercises: [Modifying data](https://pgexercises.com/questions/updates/).
 - Intro to SQL: Querying and managing data: [SQL basics](https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/v/welcome-to-sql), and [Modifying databases with SQL](https://www.khanacademy.org/computing/computer-programming/sql/modifying-databases-with-sql/a/using-sql-to-update-a-database).
 

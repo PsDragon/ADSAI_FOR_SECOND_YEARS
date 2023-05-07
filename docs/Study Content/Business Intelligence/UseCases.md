@@ -1,5 +1,5 @@
 ---
-sort: 13
+sort: 3
 ---
 
 # __DataLab: Creative Brief__
@@ -33,10 +33,10 @@ Here is a table of the use-cases and their description.
 
 | Use-Case | Description | Dataset | Week | Individual/Team
 |----------|-------------|-------------|-------------|-------------|
-| 1 | Select, combine, and preproccess the data | All | Weeks 3-8 | Individual/Team 
-| 2 | Describe, and explore the data | Selected dataset(s) | Week 3 | Individual
-| 3 | Assess the quality of the data | Selected dataset(s) | Week 3 | Individual
-| 4 | Propose improvements to the data management strategy | N.A. | Week 3-8 | Team
+| 1 | Select, combine, and preproccess the data | All | Weeks 2-8 | Individual/Team 
+| 2 | Describe, and explore the data | Selected dataset(s) | Week 2 | Individual
+| 3 | Assess the quality of the data | Selected dataset(s) | Week 2 | Individual
+| 4 | Propose improvements to the data management strategy | N.A. | Week 2-8 | Team
 
 :bell: Before we start, please make sure you have read the sections on Deliverables and Plagiarism you can find in the bottom of this page.
 
@@ -159,8 +159,9 @@ __To solve this use-case, you will need to:__
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Nk2OmH6yeLI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-*Video 2. 2.3 Criteria: validity and reliability | Quantitative methods | The Scientific Method | UvA.*
+*Video 2. 2.3 Criteria: validity and reliability, Quantitative methods, The Scientific Method, UvA.*
 
+- [ ] Draft a report, where you summarize your findings, - i.e. data quality report.  
 - [ ] __*Documents individual contribution:*__ Keep track of any issues you find with the data, such as missing or incomplete data, outliers, or bias. 
 
 ***
@@ -181,6 +182,7 @@ __To solve this use-case, you will need to:__
 - [ ] Determine the costs and benefits: Evaluate the costs and benefits of your proposed improvements (Also see previous step!). This will help you make a strong business case for your proposal.
 - [ ] Develop a communication plan: Develop a communication plan to engage stakeholders and keep them informed of your progress. This can help ensure that your proposal is well-received and supported by your organization.
 - [ ] Monitor: Finally, determine how you could monitor the the effectiveness of you proposed improvements. This will help you ensure that your improvements are achieving their desired outcomes and making a positive impact on your organization.
+- [ ] __*Documents individual contribution:*__ Keep track of your proposed improvements to the data management strategy of the municipality of Breda.
 
 If you have come this far, you have now completed the Creative Brief section for the knowledge module __*Data Management and Analysis with PostgreSQL and Python*__. Congratulations! :tada: :tada: :tada:
 
@@ -190,7 +192,11 @@ If you have come this far, you have now completed the Creative Brief section for
 
 ### Deliverables
 
-If you are done with the use-cases, you can move on to documentation, ensure that you have saved and committed all your work to Github. Documentation is a very important part of the project, and you will need to ensure that you have a ...
+If you are done with the use-cases, ensure that you have saved and committed all your (individual) work to Github:
+
+- [ ] Individual contribution to the use-cases. As evidence, you can, for example, include Python scripts, SQL queries, and/or markdown files.
+- [ ] The data quality report (Use-case 3)
+- [ ] The data management strategy proposal (Use-case 4)
 
 ***
 

@@ -160,8 +160,6 @@ Let us start with some simple exercises to get you familiar with the PostgreSQL 
 
 :pencil: __6b__ Identify, describe, and subsequently correct the error(s) in the following SQL statements. Make sure to run all the statements, one by one, and in the same order as they are listed below.
 
-``` sql
-
 Example 1a:
 
 ``` sql

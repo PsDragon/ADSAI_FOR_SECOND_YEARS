@@ -14,7 +14,7 @@ V. DataLab: Use-Cases <br>
 
 ### 1. Introduction
 
-Hello everyone! This week, our main focus will be on getting to know the datasets that you will be working with in the upcoming weeks. Some of these datasets are stored in a data warehouse, which means you will need to learn how to interact with a database using Structured Query Language (SQL).
+Hello everyone! This week, our main focus will be on getting to know the datasets that you will be working with in the upcoming weeks. Some of these datasets are stored in a database, which means you will need to learn how to interact with a database using Structured Query Language (SQL). For more information on how to connect to the database, please see the DataLab Github page related to ILO 5, [here](https://adsai.buas.nl/Study%20Content/Business%20Intelligence/UseCases.html).
 
 During the first half of the day, you will be introduced to the core concepts of data architecture and pipeline design. You will learn about the ETL process and how to design tables in a data warehouse.
 
@@ -68,7 +68,7 @@ Better integration and deeper analytics</a>.
 
 ### 3. Designing a data warehouse
 
-:pencil: __3a__ Read pages 10-17 of the book The data warehouse toolkit by Kimball and Ross (2013) (optional).
+:pencil: __3a__ Read pages 10-17 of the book The data warehouse toolkit by Kimball and Ross (2013). See Additional resources section (optional).
 
 :pencil: __3b__ Define the term 'star schema'. Write your answer down.
 
@@ -106,7 +106,7 @@ A database is an organized collection of structured information, or data, typica
 
 ### 5. Install PostgreSQL database server & client
 
-To easily access a database, you need a database client. In this section, you are going to install the PostgreSQL database server, and a so-called database client (e.g. PgAdmin).
+To easily access a database, you need a database client. In this section, you are going to install the PostgreSQL database server, and a so-called database client (e.g. PgAdmin, VSCode with extensions).
 
 :pencil:__5a__ Watch the video Introduction to PostgreSQL by Adam Wilbert on LinkedIn Learning, and read the article [What is PostgreSQL?](https://www.postgresqltutorial.com/what-is-postgresql/).
 
@@ -115,15 +115,28 @@ To easily access a database, you need a database client. In this section, you ar
 
 :pencil: __5b__ Install the PostgreSQL database server:
 
-- [Install PostgreSQL on Windows](https://www.postgresqltutorial.com/install-postgresql/).
+- [Install PostgreSQL on Windows](https://www.postgresqltutorial.com/install-postgresql/)
 
-:pencil: __5c__ Install a PostgreSQL compatible client:
+:pencil: __5c__ Install a PostgreSQL compatible client. For example:
 
 - [PgAdmin](https://www.pgadmin.org/download/)
-- [DBeaver](https://dbeaver.io/download/)
-- etc.
+- [VSCode with PostgreSQL extension](https://marketplace.visualstudio.com/items?itemName=ckolkman.vscode-postgres) 
 
-:pencil: __5d__ Connect PostgreSQL client to server. For PgAdmin, see online [tutorial](https://www.postgresqltutorial.com/connect-to-postgresql-database/).
+:pencil: __5d__ Connect PostgreSQL client to server:
+
+- [PgAdmin](https://www.postgresqltutorial.com/connect-to-postgresql-database/)
+
+See the video below, for a quick introduction to PostgreSQL and PgAdmin: 
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WFT5MaZN6g4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+*Video 2. pgAdmin Tutorial - How to Use pgAdmin.*
+
+- VSCode with PostgreSQL extension, see video below:
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Cc9d2c8UuKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+*Video 3. Getting Started with the PostgreSQL extension for VS Code.*
 
 ***
 
@@ -135,7 +148,9 @@ Let us start with some simple exercises to get you familiar with the PostgreSQL 
 
 :pencil: __6a__ What happens if you try to create a table with an existing name? Write your answer down.
 
-:pencil: __6b__ Identify, describe, and subsequently correct the error(s) in the following SQL statements.
+:pencil: __6b__ Identify, describe, and subsequently correct the error(s) in the following SQL statements. Make sure to run all the statements, one by one, and in the same order as they are listed below.
+
+``` sql
 
 Example 1a:
 
@@ -151,13 +166,13 @@ CREATE TABLE youth (
 INSERT INTO youth
 VALUES
   (
-    1, 'Jan', 24, 4657, 2014
+    1, 24, 'Jan', 4657, 2014
 	),
 	(
-		1, 'Jan', 51, 45, 2014
+		1, 51, 'Jan', 45, 2014
 	),
 	(
-		2, 'Anne', 205, 6778, 2008
+		2, 205, 'Anne', 6778, 2008
 	);
 ```
 
@@ -172,9 +187,11 @@ CREATE TABLE youth (
   GeboorteJaar INTEGER NOT NULL
 );
 
-INSERT INTO youth VALUES (1, 'Jan', 24, 4657, 2014);
-INSERT INTO youth VALUES (1, 'Jan', 51, 45, 2014);
-INSERT INTO youth VALUES (2, 'Anne', 205, 6778, 2008);
+INSERT INTO youth VALUES (1, 24, 'Jan', 4657, 2014);
+
+INSERT INTO youth VALUES (1, 51, 'Jan', 45, 2014);
+
+INSERT INTO youth VALUES (2, 205, 'Anne', 6778, 2008);
 ```
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
 Note: Example 1a, and 1b look similar, but present a very different output when you run the corresponding SQL queries.
@@ -183,7 +200,7 @@ Note: Example 1a, and 1b look similar, but present a very different output when 
 Example 2:
 
 ``` sql
-INSERT INTO youth VALUES (11, Bert, 106, 2234.50, 2005)
+INSERT INTO youth VALUES (11, 106, Bert, 2234.50, 2005)
 ```
 Example 3:
 

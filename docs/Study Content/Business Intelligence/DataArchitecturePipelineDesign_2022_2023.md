@@ -37,6 +37,16 @@ __After this chapter, you will be able to:__
 - [ ] Install a PostgreSQL database server and client on your local device.
 - [ ] Apply Data Definition Language (DDL) and Data Manipulation Language (DML) clauses to create and manipulate tables in a PostgreSQL database.
 
+__Homework exercises__
+
+For the DataLab preparation (Week 1, Wednesday), you are expected fill in a Microsoft Teams Form called ```DataLab Preparation I```:
+
+<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=m1gzCjYA6E-oKT7Qkmr4hsCvWaRFpgJJl_TbT_q5NzJUOVNOSUdKR1lERUlHUllFOEhZMTE3OU9NWi4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+
+If the embedded Microsoft form does not work in your browser, click [here](https://forms.office.com/e/WvwSUjDFZY).
+
+To avoid multiple submissions, answer the questions that pop up (:pencil:) as you navigate the content below in a text editor of your choice (e.g., Notepad ++, Word, etc.) before entering them into the Microsoft Form. 
+
 :pencil: __1a__ Complete module ```1. Data Warehouse Foundations``` of the LinkedIn course Implementing a Data Warehouse SQL Server 2019 by Adam Wilbert, which you can find [here](https://www.linkedin.com/learning/implementing-a-data-warehouse-sql-server-2019/data-warehouse-core-concepts?u=36359204).
 
 ***

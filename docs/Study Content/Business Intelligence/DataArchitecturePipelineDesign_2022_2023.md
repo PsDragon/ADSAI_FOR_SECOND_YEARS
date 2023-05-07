@@ -88,10 +88,6 @@ Better integration and deeper analytics</a>.
 
 :pencil: __3c__ Provide an example of a selection of facts and dimensions joined in a star schema. You can use Google's [Jamboard](https://jamboard.google.com/) or a simple piece of paper for your schema. Export/import your drawing to PNG, and upload it to your GitHub repository.
 
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Note: In the upcoming independent study days we will shift our focus from the data warehouse to the transactional database. However do not despair, the star schema is here to stay!
-</div>
-
 :pencil: __3d__ Describe the ETL process. Write your answer down in a maximum of 150 words.
 
 :pencil: __3e__ Create an infographic that covers the topics (of the first two modules) of the LinkedIn course Data Warehouse SQL Server 2019 by Adam Wilbert. You can use Google's [Jamboard](https://jamboard.google.com/) or a simple piece of paper for your infographic. Export/import your drawing to PNG, and upload it to your GitHub repository.

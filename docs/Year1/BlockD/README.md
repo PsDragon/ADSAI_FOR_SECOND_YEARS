@@ -104,7 +104,7 @@ Please use the following datasets to help you solve the creative brief. You will
 | [RIVM Open Data Statline](https://statline.rivm.nl/portal.html?_la=nl&_catalog=RIVM) | Grid - National (Varies) | Grid/Neighboorhood/Borough/Municipal | Official public Health data from the RIVM, they have [another data portal](https://data.rivm.nl/meta/srv/dut/catalog.search#/home) too because the Dutch National Government believes you can never have too many websites. |
 | [Royal Water Management Agency Dataportal](https://www.rijkswaterstaat.nl/zakelijk/open-data) | Rijkswaterstaat | Grid - National (Varies) | Has data on all aspects of water monitoring and management. Collects large amounts of data every day. For example, we measure the water levels, the load on bridges and the traffic intensity on our highways. Water management is very important and an influencing factor on many aspects of Dutch live; including for Breda.  |
 | [Data Overheid](https://data.overheid.nl/) | Dutch National Government | Grid - National (Varies) | Large database on different themes from the dutch national government. |
-| [BOA Registations](#https://edubuas-my.sharepoint.com/:f:/g/personal/blerck_i_buas_nl/EgM8Bq3JJ7hNioqMJ6g980sBo9nAW0S_9yjbrm7ESgqKPA?e=5Qe8Mb) | Municipality of Breda | Grid/Neighboorhood | The dataset “BOA registration” 2018-2022 includes categories that are registered by the “Special Investigation Officers” of Breda; they're a sort of supporting police officer which can't act but can register things which are off or require the intervention of the police. Not yet disclosed as Non-Disclosure Agreement between BUas and the Municipality is not signed. Geographic data, requires doing the [geopspatial analytics tutorial](https://adsai.buas.nl/Study%20Content/Geospatial%20Analytics/GeospatialAnalytics1_v2.html) |
+| [BOA Registations](#https://edubuas-my.sharepoint.com/:f:/g/personal/blerck_i_buas_nl/EgM8Bq3JJ7hNioqMJ6g980sBo9nAW0S_9yjbrm7ESgqKPA?e=5Qe8Mb) | Municipality of Breda | Grid/Neighboorhood | The dataset “BOA registration” 2018-2022 includes categories that are registered by the “Special Investigation Officers” of Breda; they're a sort of supporting police officer which can't act but can register things which are off or require the intervention of the police. Data not yet available as Non-Disclosure Agreement between BUas and the Municipality is not signed. Geographic data, requires doing the [geopspatial analytics tutorial](https://adsai.buas.nl/Study%20Content/Geospatial%20Analytics/GeospatialAnalytics1_v2.html) |
 | [Eurostat](https://ec.europa.eu/eurostat/databrowser/explore/all/all_themes?lang=en) | European Union | Grid - National (Varies) | Huge database on EU data, useful for comparisons between Breda & other places |
 
 Ask your mentor for any questions regarding the datasets, if they can't help you we'll relay your question to the relevant contact person at the municipality.
@@ -229,18 +229,18 @@ After that we continue withsome short self-study material:
 - [Project vision and roadmaps](../../Study%20Content/Agile%20Project%20Management/1.3.%20Project%20vision%20and%20roadmaps.html)
 - [Creating a Project Vision and Roadmap](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/3.%20Creating%20a%20Project%20Vision,%20Roadmap%20and%20Project%20Planning.html)
 - [Sprint planning and standups using Trello](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/4.1.%20Sprint%20planning%20and%20standups.html)
-- [Wrapping up a sprint and retrospectives](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/4.2.%20Wrapping%20up%20a%20sprint%20and%20retrospectives.html)
+
 
 ## Wednesday
 - [ ] **9:00-12:00, Project Pitches:** Within mentor group; 3 groups per mentor​. See timetable, your mentor will post your schedule. Project pitches within mentor group with separate classrooms for each mentor group; mentor + students curate projects. 4 classroom, 10 minute pitches, teams rotate; 1 every hour.
 - [ ] **13:00-17:00, Scrum Workshop:** SomeDescription. At the end of the workshop, the team chooses a first SCRUM-master.
 
 
-### Work in the meantime:
+### Ready to work :
 This is the work that to be completed as a team on Monday Week 4, the sooner you finish this, the sooner you can start plan and work on your project!
 - [DataLab: Project vision and roadmap - Creative Brief](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/5.%20DataLab%202%20Scrum.html). Also take a look at the Mandatory Knowledge modules at the bottom of the page. Take them into account when creating the project backlog and estimate them story points using story points.
 - [DataLab: Check List for ethical & legal decision making](../../Study%20Content/Digital%20Transformation/UseCases%20-%20Legal%20and%20Ethics.html)  - __Use Case 1__.
-- [Plan a first sprint]()
+- [Plan a first sprint](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/4.1.%20Sprint%20planning%20and%20standups.html)
 
 
 ## Thursday
@@ -275,6 +275,9 @@ Please make sure to steadily fill in your checklist for ethics & legal assignmen
 - **15:30- 16:30 @ Fe1.018**: Guest Lecturer on Agile in Practise - PhD Research by Ruben Steegh
 - Feedback Sessions
   
+## Thursday
+- [ ] Refresh your knowledge on [Wrapping up a sprint and doing retrospectives retrospectives](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/4.2.%20Wrapping%20up%20a%20sprint%20and%20retrospectives.html)
+
 ## Friday​
 
 Morning: 

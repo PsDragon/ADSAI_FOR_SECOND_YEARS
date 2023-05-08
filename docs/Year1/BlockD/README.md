@@ -223,24 +223,17 @@ After that we continue withsome short self-study material:
 
 ## Monday & Tuesday
 10 AM - 11 AM: [Introduction to Project Management](https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2QyMmQ2ODktNzYwMy00NDk2LTgwMjYtMDAyNmNmMzkxNDMx%40thread.v2/0?context=%7b%22Tid%22%3a%220a33589b-0036-4fe8-a829-3ed0926af886%22%2c%22Oid%22%3a%225cef929d-ecf9-4fca-bf12-bc5ee065fc99%22%7d)
+- [The scrum approach to project success](../../Study%20Content/Agile%20Project%20Management/1.The%20scrum%20approach%20to%20project%20success.html)
+- [Essential roles for scrum teams](../../Study%20Content/Agile%20Project%20Management/2.Essential%20roles%20for%20scrum%20teams.html)
+- [Project Vision, Roadmap and Planning](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/3.%20Creating%20a%20Project%20Vision,%20Roadmap%20and%20Project%20Planning.html)
 
-- [The scrum approach to project success](../../Study%20Content/Agile%20Project%20Management/1.1.%20The%20scrum%20approach%20to%20project%20success.html)
-- [Essential roles for scrum teams](../../Study%20Content/Agile%20Project%20Management/1.2.%20Essential%20roles%20for%20scrum%20teams.html)
-- [Project vision and roadmaps](../../Study%20Content/Agile%20Project%20Management/1.3.%20Project%20vision%20and%20roadmaps.html)
-- [Creating a Project Vision and Roadmap](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/3.%20Creating%20a%20Project%20Vision,%20Roadmap%20and%20Project%20Planning.html)
-- [Sprint planning and standups using Trello](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/4.1.%20Sprint%20planning%20and%20standups.html)
 
 
 ## Wednesday
 - [ ] **9:00-12:00, Project Pitches:** Within mentor group; 3 groups per mentor​. See timetable, your mentor will post your schedule. Project pitches within mentor group with separate classrooms for each mentor group; mentor + students curate projects. 4 classroom, 10 minute pitches, teams rotate; 1 every hour.
-- [ ] **13:00-17:00, Scrum Workshop:** SomeDescription. At the end of the workshop, the team chooses a first SCRUM-master.
+- [ ] **13:00-17:00, Scrum Workshop:** SomeDescription. At the end of the workshop, the team chooses a first SCRUM-master. 
+- [ ] While you wait untill you get to do the Scrum Workshop; or when you are done with it. Go and **complete the next steps** be for coming monday. **Remember that you need consent of your PO to set your project vision and start your sprint!**
 
-
-### Ready to work :
-This is the work that to be completed as a team on Monday Week 4, the sooner you finish this, the sooner you can start plan and work on your project!
-- [DataLab: Project vision and roadmap - Creative Brief](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/5.%20DataLab%202%20Scrum.html). Also take a look at the Mandatory Knowledge modules at the bottom of the page. Take them into account when creating the project backlog and estimate them story points using story points.
-- [DataLab: Check List for ethical & legal decision making](../../Study%20Content/Digital%20Transformation/UseCases%20-%20Legal%20and%20Ethics.html)  - __Use Case 1__.
-- [Plan a first sprint](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/4.1.%20Sprint%20planning%20and%20standups.html)
 
 
 ## Thursday
@@ -253,9 +246,9 @@ This is the work that to be completed as a team on Monday Week 4, the sooner you
 
 # Week 4: Data Pre-processing 
 ## Monday
-- [ ] [DataLab: Project vision and roadmap - Creative Brief](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/5.%20DataLab%202%20Scrum.html). Also take a look at the Mandatory Knowledge modules at the bottom of the page. Take them into account when creating the project backlog and estimate them story points using story points.
-- [ ] Plan a first sprint with your Product Owner (together or with their consent).
-- [ ] [DataLab: Check List for ethical & legal decision making](../../Study%20Content/Digital%20Transformation/UseCases%20-%20Legal%20and%20Ethics.html)  - __Use Case 1__.
+- [ ] - [Plan a first sprint](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/4.Sprint%20planning%20and%20standups.html) with your Product Owner (together online in MS Teams or with their consent otherwise evidence).
+- [ ] [Get the Product Owner to sign-off on your Project Vision, Roadmap and first Sprint](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/5.Getting%20Product%20Owner%20Approvement.html). Also take a look at the Mandatory Knowledge modules at the bottom of the page. Take them into account when creating the project backlog and estimate them story points as well (as in in [datalab prep 1](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/1.The%20scrum%20approach%20to%20project%20success.html#datalab-preparation-1)). The earlier you can get this the better; e.g. Datalab Week 3, Wednesday.
+- [ ] Keep the [Check List for ethical & legal decision making](../../Study%20Content/Digital%20Transformation/UseCases%20-%20Legal%20and%20Ethics.html)  - __Use Case 1__. in mind!
 
 ## The rest of the block is dedicated to project work.
 **Every self-study day your team will start with a stand-up at the start of the day which will be hosted in microsoft teams (which you will evidence for that day in your learning log). Then you will start your project work.**
@@ -276,7 +269,7 @@ Please make sure to steadily fill in your checklist for ethics & legal assignmen
 - Feedback Sessions
   
 ## Thursday
-- [ ] Refresh your knowledge on [Wrapping up a sprint and doing retrospectives retrospectives](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/4.2.%20Wrapping%20up%20a%20sprint%20and%20retrospectives.html)
+- [ ] Refresh your knowledge on [Wrapping up a sprint and doing retrospectives retrospectives](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/6.%20Wrapping%20up%20a%20sprint%20and%20retrospectives.html)
 
 ## Friday​
 

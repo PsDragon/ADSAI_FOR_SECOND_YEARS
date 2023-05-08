@@ -246,7 +246,7 @@ After that we continue withsome short self-study material:
 
 # Week 4: Data Pre-processing 
 ## Monday
-- [ ] - [Plan a first sprint](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/4.Sprint%20planning%20and%20standups.html) with your Product Owner (together online in MS Teams or with their consent otherwise evidence).
+- [ ] [Plan a first sprint](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/4.Sprint%20planning%20and%20standups.html) with your Product Owner (together online in MS Teams or with their consent otherwise evidence).
 - [ ] [Get the Product Owner to sign-off on your Project Vision, Roadmap and first Sprint](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/5.Getting%20Product%20Owner%20Approvement.html). Also take a look at the Mandatory Knowledge modules at the bottom of the page. Take them into account when creating the project backlog and estimate them story points as well (as in in [datalab prep 1](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/1.The%20scrum%20approach%20to%20project%20success.html#datalab-preparation-1)). The earlier you can get this the better; e.g. Datalab Week 3, Wednesday.
 - [ ] Keep the [Check List for ethical & legal decision making](../../Study%20Content/Digital%20Transformation/UseCases%20-%20Legal%20and%20Ethics.html)  - __Use Case 1__. in mind!
 

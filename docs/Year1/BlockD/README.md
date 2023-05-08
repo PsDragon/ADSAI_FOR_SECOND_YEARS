@@ -93,18 +93,18 @@ Please use the following datasets to help you solve the creative brief. You will
 | --- | --- | --- | --- |
 | [Data Breda](https://data.breda.nl/) | Breda Municipality | Grid/Neighboorhood/Borough/Municipal | Public data on Breda in general, sorted by theme, which links to other official data channels on Breda by the EU and national government |
 | [General Statistical Data](https://opendata.cbs.nl/statline/portal.html?_la=nl&_catalog=CBS) | CBS/SN | Grid - National (Varies) | Annual publication of sociological data of the Central Bureau of Statistics of the Netherlands. Contains demographics, housing, energy, social security, density, and proximity of facilities to  low-regional division into grids and postal code, 2015 and beyond |
-| [Green index](#https://edubuas-my.sharepoint.com/:x:/g/personal/blerck_i_buas_nl/EW5hnPBOGlBMiTLaf3HXa_gBBwmJGguE7YKleM8PcTriIw?e=MWA2cm) | Municipality of Breda | Grid | Score indicating the degree of greenery on a grid level |
-| [Heat stress index](#https://edubuas-my.sharepoint.com/:u:/g/personal/blerck_i_buas_nl/Eeffh6rKQc1BgH-TWAndcNEBNWlpsTPmx1PzrEpBIHupZw?e=bYRJ75) | Municipality of Breda | Grid | Score indicating the level of heat stress on a grid level |
-| [Livability index](#https://edubuas-my.sharepoint.com/:x:/g/personal/blerck_i_buas_nl/ESp0zUKaq_RErIRZFVe9iMwBvvEW9-tRd91x1WN4NdQg2Q?e=3fTSjM) | Municipality of Breda | Grid | Score indicating [the livability on a grid level](https://www.leefbaarometer.nl/home.php) |
-| [Move house](#https://edubuas-my.sharepoint.com/:f:/g/personal/blerck_i_buas_nl/EisT2yTIritPgBTYKtRAq3kB5NRH-ke7NeE6MvowY_Gzng?e=zIqSQQ) | Municipality of Breda | Grid | The number of households moving from Breda to another location (within or outside the municipality) |
-| [Buurt enquête](#https://edubuas-my.sharepoint.com/:x:/g/personal/blerck_i_buas_nl/EcnbV_3adbJBgQHtK8dFNKYBUKutDHWdripcQjzDw9abmQ?e=uUDMWD) | Municipality of Breda | Neighbourhood | Survey regarding social capital and neighborhood participation. [Click to view actual surveys](https://edubuas-my.sharepoint.com/:f:/g/personal/blerck_i_buas_nl/Eq7izTSGbctPvHDAbyaYh7MBVjmISMbzHldim030wZTLHw?e=0Ccihm). |
+| Green index | Municipality of Breda | Grid | Score indicating the degree of greenery on a grid level. Available on SQL server. |
+| [Heat stress index](https://edubuas-my.sharepoint.com/:u:/g/personal/blerck_i_buas_nl/Eeffh6rKQc1BgH-TWAndcNEBNWlpsTPmx1PzrEpBIHupZw?e=bYRJ75) | Municipality of Breda | Grid | Score indicating the level of heat stress on a grid level |
+| Livability index | Municipality of Breda | Grid | Score indicating [the livability on a grid level](https://www.leefbaarometer.nl/home.php) |
+| [Move house](https://edubuas-my.sharepoint.com/:f:/g/personal/blerck_i_buas_nl/EisT2yTIritPgBTYKtRAq3kB5NRH-ke7NeE6MvowY_Gzng?e=zIqSQQ) | Municipality of Breda | Grid | The number of households moving from Breda to another location (within or outside the municipality) |
+| Buurt enquête | Municipality of Breda | Neighbourhood | Survey regarding social capital and neighborhood participation. [Click to view actual surveys](https://edubuas-my.sharepoint.com/:f:/g/personal/blerck_i_buas_nl/Eq7izTSGbctPvHDAbyaYh7MBVjmISMbzHldim030wZTLHw?e=0Ccihm). |
 | [Klimaateffectatlas](https://www.klimaateffectatlas.nl/en/) | Klimaateffectatlas | Grid - National (Varies) | A collection of datasets illustrating the effects of climate change on people and their living environment |
 | [POI](https://www.arcgis.com/home/item.html?id=90830abcc0a54b04a968c451e4122341) | Esri Nederland | Grid | OpenStreetMap dataset of the Netherlands. These locations have a specific function by the Municipality have been designated as **Points of Interest.** |
 | [Police](https://data.politie.nl/#/Politie/nl/navigatieScherm/thema) | Dutch Police | Grid - National (Varies) | [Data.politie.nl](https://data.politie.nl/#/Politie/nl/) is the data portal of the police and contains figures on registered crime, nuisance, police performance and police operations. Here you can compile your own tables and graphs |
 | [RIVM Open Data Statline](https://statline.rivm.nl/portal.html?_la=nl&_catalog=RIVM) | Grid - National (Varies) | Grid/Neighboorhood/Borough/Municipal | Official public Health data from the RIVM, they have [another data portal](https://data.rivm.nl/meta/srv/dut/catalog.search#/home) too because the Dutch National Government believes you can never have too many websites. |
 | [Royal Water Management Agency Dataportal](https://www.rijkswaterstaat.nl/zakelijk/open-data) | Rijkswaterstaat | Grid - National (Varies) | Has data on all aspects of water monitoring and management. Collects large amounts of data every day. For example, we measure the water levels, the load on bridges and the traffic intensity on our highways. Water management is very important and an influencing factor on many aspects of Dutch live; including for Breda.  |
 | [Data Overheid](https://data.overheid.nl/) | Dutch National Government | Grid - National (Varies) | Large database on different themes from the dutch national government. |
-| [BOA Registations](#https://edubuas-my.sharepoint.com/:f:/g/personal/blerck_i_buas_nl/EgM8Bq3JJ7hNioqMJ6g980sBo9nAW0S_9yjbrm7ESgqKPA?e=5Qe8Mb) | Municipality of Breda | Grid/Neighboorhood | The dataset “BOA registration” 2018-2022 includes categories that are registered by the “Special Investigation Officers” of Breda; they're a sort of supporting police officer which can't act but can register things which are off |
+| [BOA Registations](#https://edubuas-my.sharepoint.com/:f:/g/personal/blerck_i_buas_nl/EgM8Bq3JJ7hNioqMJ6g980sBo9nAW0S_9yjbrm7ESgqKPA?e=5Qe8Mb) | Municipality of Breda | Grid/Neighboorhood | The dataset “BOA registration” 2018-2022 includes categories that are registered by the “Special Investigation Officers” of Breda; they're a sort of supporting police officer which can't act but can register things which are off or require the intervention of the police. Not yet disclosed as Non-Disclosure Agreement between BUas and the Municipality is not signed. |
 | [Eurostat](https://ec.europa.eu/eurostat/databrowser/explore/all/all_themes?lang=en) | European Union | Grid - National (Varies) | Huge database on EU data, useful for comparisons between Breda & other places |
 
 Ask your mentor for any questions regarding the datasets, if they can't help you we'll relay your question to the relevant contact person at the municipality.
@@ -210,6 +210,7 @@ After that we continue withsome short self-study material:
 
 ## Wednesday
 - [DataLab: Creative Brief](../../Study%20Content/Business%20Intelligence/UseCases.html)
+- Feedback Sessions - Make sure to have set your SMARTER Goals!
 
 ## Thursday
 - [Data Definition Language (DDL) clauses II & Python](../../Study%20Content/Business%20Intelligence/SQL_DDL2_2022_2023.html)
@@ -272,7 +273,8 @@ Please make sure to steadily fill in your checklist for ethics & legal assignmen
 ## Wednesday
 - **9:00 - 12:00 @ Fe1.027**: Sounding Board Sessions (Panel of Municipality Breda Data Science Team)
 - **15:30- 16:30 @ Fe1.018**: Guest Lecturer on Agile in Practise - PhD Research by Ruben Steegh
-
+- Feedback Sessions
+  
 ## Friday​
 
 Morning: 
@@ -294,7 +296,9 @@ Same structure as week 4 but now hopefully focussed mainly on data modelling. Ap
 
 # Week 6: Evaluation (& Iteration) 
 Same structure as week 4 but without sounding board session and guest lectures. Preferably, focussed mainly on data modelling evaluation (& iteration). Apart from:
-- NA
+
+## Wednesday
+- Feedback Sessions
 
 # Week 7: Deployment 
 Same structure as week 5. Preferably, focussed mainly on data modelling evaluation (& iteration). Apart from:
@@ -306,6 +310,7 @@ Same structure as week 5. Preferably, focussed mainly on data modelling evaluati
 ## Preparing for Poster Presentation
 - [Setting up Instructions]()
 - [Giving feedback & voting]()
+- Optional: Plan a feedback session with your mentor
 
 ## Wednesday
 - **9:00 - 16:00 @ Innovation Square**: Poster Presentation and Voting

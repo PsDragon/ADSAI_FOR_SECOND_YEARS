@@ -35,7 +35,7 @@ Here is a table of the use-cases and their description.
 |----------|-------------|-------------|-------------|-------------|
 | 1 | Select, combine, and preproccess the data | All | Weeks 2-8 | Individual/Team 
 | 2 | Describe, and explore the data | Selected dataset(s) | Week 2 | Individual
-| 3 | Assess the quality of the data | Selected dataset(s) | Week 2 | Individual
+| 3 | Assess the quality of the data | Selected dataset(s) | Week 2 | Individual/Team
 | 4 | Propose improvements to the data management strategy | N.A. | Week 2-8 | Team
 
 :bell: Before we start, please make sure you have read the sections on Deliverables and Plagiarism you can find in the bottom of this page.

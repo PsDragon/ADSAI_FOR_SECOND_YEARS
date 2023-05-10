@@ -127,7 +127,7 @@ You will start working as a team from week 4 onwards, meaning that there will be
 At the end of the sprint, the finished work (or incement) should be ready to be delivered to the Product Owner **each Friday before 9:00**, who assesses the delivered work. That same Friday, the sprint ends with a sprint review and retrospective—or rather; lessons learned. The cycle below is repeated throughout the project lifecycle until the entirety of the scope has been delivered or block D is at an end:
 <figure>
 <center>
-    <img src=".\assets\ScrumDiagram.jpg"  width=1080 />
+    <img src="./assets/ScrumDiagram.jpg"  width=1080 />
 </center>
 </figure>
 

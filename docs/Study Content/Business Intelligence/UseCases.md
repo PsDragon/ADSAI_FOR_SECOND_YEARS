@@ -155,12 +155,7 @@ __To solve this use-case, you will need to:__
 *Video 1. What should you do with outliers? by Cassie Kozyrkov, the secret crush of Alican (Please do not tell his wife :grin:).*
 
 - [ ] Check for bias: It is also important to check for bias in the data. Bias can occur when the data is not representative of the population being studied or when certain observations are overrepresented. This can result in incorrect conclusions or predictions. Identifying sources of bias can help ensure that the data is accurate and unbiased. Common sources of bias include selection bias, measurement bias, and reporting bias.
-- [ ] Evaluate the quality of data sources: In addition to assessing the data itself, it is important to evaluate the quality of the data sources. This could involve checking the reliability and validity of the data sources, as well as assessing the methodology used for data collection. Ensuring that the data sources are trustworthy and appropriate for the research question can help ensure the accuracy and reliability of the data.
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Nk2OmH6yeLI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-*Video 2. 2.3 Criteria: validity and reliability, Quantitative methods, The Scientific Method, UvA.*
-
+- [ ] Evaluate the quality of data sources: In addition to assessing the data itself, it is important to evaluate the quality of the data sources. This could involve assessing the methodology used for data collection.
 - [ ] Draft a report, where you summarize your findings, - i.e. data quality report.  
 - [ ] __*Documents individual contribution:*__ Keep track of any issues you find with the data, such as missing or incomplete data, outliers, or bias. 
 

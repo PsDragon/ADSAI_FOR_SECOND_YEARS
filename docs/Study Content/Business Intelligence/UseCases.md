@@ -76,6 +76,8 @@ __How to connect to the PostgreSQL database:__
 
 First you will need to be connected tto the BUas VPN. You can find the instructions on how to do this [here](https://adsai.buas.nl/Study%20Content/VPN%20Access/VPN%20Access.html). Once you are connected to the VPN you will be able to connect to the database.
 
+Second, __use version <= 1.4.16 of ```sqlalchemy```__. Multiple functions were altered in the latest version of SQLAlchemy!
+
 Use the following code to connect to the database:
 
 ```python

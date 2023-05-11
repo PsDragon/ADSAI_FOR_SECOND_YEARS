@@ -232,7 +232,28 @@ After that we continue withsome short self-study material:
 
 ## Wednesday
 - [ ] **9:00-12:00, Project Pitches:** Within mentor group; 3 groups per mentor​. See timetable, your mentor will post your schedule. Project pitches within mentor group with separate classrooms for each mentor group; mentor + students curate projects. 4 classroom, 10 minute pitches, teams rotate; 1 every hour.
+
+### Morning schedule
+
+| Mentor Group | Classrooms | Order of group workshops | 
+| --- | --- | --- |
+| BLR | Fe2.032 | 1, 2, 3 |
+| HEI/KOZ | Hn2.017 | 4, 5, 6 |
+| BHU | Fe3.030 | 7, 8, 9 |
+| NOY | Fe3.032 | 10, 11, 12 |
+
+
 - [ ] **13:00-17:00, Scrum Workshop:** At the end of the workshop, the team chooses a first SCRUM-master. 
+
+### Afternoon schedule
+
+| Mentor Group | Classrooms | Order of group workshops | 
+| --- | --- | --- |
+| BLR | Hn0.015 | 1, 2, 3 |
+| HEI/KOZ | Hs2.028 | 4, 5, 6 |
+| BHU | Hs2.031 | 7, 8, 9 |
+| NOY | Hn0.015 | 10, 11, 12 |
+
 - [ ] While you wait untill you get to do the Scrum Workshop; or when you are done with it. Go and **complete the next steps** be for coming monday. **Remember that you need consent of your PO to set your project vision and start your sprint!**
 
 

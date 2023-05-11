@@ -35,11 +35,25 @@ It is important to test your code because it helps you to find bugs and error be
 
 One way to test your code is by using type hinting, which is a feature in Python that allows you to annotate the types of variables, function parameters, and return values in their code. This means that data professionals can indicate to Python what kind of data to expect, such as strings, integers, lists, dictionaries, or custom classes. A popular Python package for type hinting is [mypy](https://mypy.readthedocs.io/en/stable/), which is a static type checker that can be used to check the type hints in your code.
 
-Here is an example:
+To install with poetry:
+
+```bash
+poetry add mypy
+```
+
+Here is an example of type hinting in Python:
 
 ```python
 def greeting(name: str) -> str:
     return "Hello, " + name
+
+greeting("Anne")
+```
+
+To check for error, run:
+
+```bash
+poetry run mypy [Python script]
 ```
 
 In this code, we are defining a function called greeting that takes a parameter called name that is of type ```str```. The ```-> str``` notation indicates that the function returns a string. This is a simple example, but type hinting can be used to annotate more complex types, such as lists, dictionaries, or custom classes. For a cheat sheet of the most common types, click [here](https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html).
@@ -48,7 +62,16 @@ Type hinting is not enforced by the Python interpreter, meaning that you can sti
 
 Overall, type hinting can make your code more self-documenting, help you catch errors earlier in the development process, and improve collaboration with other data professionals who may be working with your code.
 
-:pencil: __2a__ Apply type hinting to the functions you created in your ```titanic.py``` script.
+:pencil: __2a__ What happens when you try to run ```mypy``` on the following code? Why does this happen?
+
+```python
+def greeting(name: str) -> str:
+    return "Hello, " + name
+
+greeting(1)
+```
+
+:pencil: __2b__ Apply type hinting to the functions you created in your ```titanic.py``` script. Run ```mypy``` to check for errors. Fix any errors that you find.
 
 ***
 

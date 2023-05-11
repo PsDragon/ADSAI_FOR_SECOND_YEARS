@@ -27,7 +27,7 @@ __After this chapter, you will be able to:__
 
 - [ ] Describe the process of code formatting/linting with Python
 - [ ] Apply code formatting/linting techniques to a Python script using commonly used tools, such as Isort, Black and Flake8
-- [ ] Become familiar with "clean-code", and understand how to refactor a script.
+- [ ] Become familiar with 'clean-code', and understand how to refactor a Python script.
 
 :warning: When you work with Python scripts, installing an IDE is highly recommended. There are numerous (free) suitable IDEs available. For example:
 
@@ -128,7 +128,11 @@ Who does not have one or more 'Untitled' Jupyter Notebook on your computer? I th
 
 *Figure 2. 'Untitled' notebook meme.*
 
-In this section, we will cover three commonly used tools: [Isort](https://pycqa.github.io/isort/), [Black](https://black.readthedocs.io/en/stable/), and [Flake8](https://flake8.pycqa.org/en/latest/). Isort automatically sorts and organizes Python imports, Black automatically formats code based on a style guide called [PEP8](https://peps.python.org/pep-0008/) (Sounds familiar, right? ...), and Flake8, a linter, checks for issues with code style, syntax, and logic. The latter, works together with Black to ensure that your code looks and works as it should.
+In this section, we will cover three commonly used tools: 
+
+- [Isort](https://pycqa.github.io/isort/): Isort automatically sorts and organizes Python imports.
+- [Black](https://black.readthedocs.io/en/stable/): Black automatically formats code based on a style guide called [PEP8](https://peps.python.org/pep-0008/) (Sounds familiar, right? ...).
+- [Flake8](https://flake8.pycqa.org/en/latest/): Flake8, a linter, checks for issues with code style, syntax, and logic. Furthermore, it works together with Black to ensure that your code looks and works as it should.
 
 :pencil: __3a__ Use Poetry to install the packages Isort, Black and Flake8 in the ```titanic-env``` environment. Use the following command:
 
@@ -171,7 +175,6 @@ There are many online resources available on the topic of production-level code 
 __Courses:__
 
 - [Software Engineering for Data Scientists in Python](https://app.datacamp.com/learn/courses/software-engineering-for-data-scientists-in-python)
-- [Developing Python Packages](https://app.datacamp.com/learn/courses/developing-python-packages)
 
 __Videos:__
 

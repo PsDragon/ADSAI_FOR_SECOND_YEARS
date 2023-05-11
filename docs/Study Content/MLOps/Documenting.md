@@ -1,3 +1,6 @@
+---
+sort: 3
+---
 
 ## MLOps: Documenting for Python
 
@@ -100,7 +103,6 @@ There are many online resources available on the topic of documenting for Python
 
 __Videos:__
 
-- [Code Reviewing in Python](https://www.youtube.com/watch?v=1CKNMgG7D64&list=PLnK6m_JBRVNqskWiXLxx1QRDDng9O8Fsf)
 - [Docstrings - Python Tips and Tricks #10](https://www.youtube.com/watch?v=QZhANCk5OXc)
 
 ***

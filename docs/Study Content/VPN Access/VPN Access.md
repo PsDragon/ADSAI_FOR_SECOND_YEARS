@@ -4,11 +4,11 @@ Follow the steps below to access the VPN:
 
 1. Download the VPN client from the [VPN download page](https://openvpn.net/community-downloads/). (Use the Windows 64-bit MSI installer)
 
-1. Install the VPN client. (Use the default settings)
+2. Install the VPN client. (Use the default settings)
 
-1. Download the VPN configuration files from [here](https://edubuas-my.sharepoint.com/:u:/g/personal/aswegen_d_buas_nl/Ef0rfzJJdVREoI-d-rnIyiABnnr0fNcQ3oGmtF2uLTDUIg?e=YgZG0F)
+3. Download the VPN configuration files from [here](https://edubuas-my.sharepoint.com/:u:/g/personal/aswegen_d_buas_nl/Ef0rfzJJdVREoI-d-rnIyiABnnr0fNcQ3oGmtF2uLTDUIg?e=YgZG0F)
 
-1. Extract the files from the zip file. These are the files you need:
+4. Extract the files from the zip file. These are the files you need:
 
 <div style="text-align:center">
 <img src="./images/vpn_files.png" width="40%"/>

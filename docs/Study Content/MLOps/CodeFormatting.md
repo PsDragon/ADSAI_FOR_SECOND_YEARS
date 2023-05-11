@@ -27,6 +27,7 @@ __After this chapter, you will be able to:__
 
 - [ ] Describe the process of code formatting/linting with Python
 - [ ] Apply code formatting/linting techniques to a Python script using commonly used tools, such as Isort, Black and Flake8
+- [ ] Become familiar with "clean-code", and understand how to refactor a script.
 
 :warning: When you work with Python scripts, installing an IDE is highly recommended. There are numerous (free) suitable IDEs available. For example:
 

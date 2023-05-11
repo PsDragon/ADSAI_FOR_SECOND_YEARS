@@ -49,32 +49,7 @@ python poetry-project/titanic/titanic.py --path poetry-project/titanic/data/tita
 
 <details><summary>Answer</summary>
 <p>
-
-```python
-
-import argparse
-import pandas as pd
-
-parser = argparse.ArgumentParser(description='Process Titanic dataset')
-parser.add_argument('--path', type=str, required=True, help='Path to Titanic dataset file')
-parser.add_argument('--columns', nargs='+', default=['Survived', 'Pclass', 'Sex', 'Age', 'Fare'], help='List of column names to select')
-parser.add_argument('--filter', type=str, default='Age > 18', help='Filter expression to apply to the dataset')
-
-args = parser.parse_args()
-
-# Load the dataset
-df = pd.read_csv(args.path)
-
-# Select the columns specified by the user
-df = df[args.columns]
-
-# Apply the filter expression specified by the user
-df = df.query(args.filter)
-
-# Print the resulting dataframe
-print(df.head())
-
-```
+<script src="https://gist.github.com/irenevanblerck/de6594a9c02aae78ba144c55758e54a1.js"></script>
 
 This would select the Name, Sex, and Age columns from the Titanic dataset, and then apply a filter to only select female passengers over 18 years old. The resulting dataframe would be printed to the console.
 

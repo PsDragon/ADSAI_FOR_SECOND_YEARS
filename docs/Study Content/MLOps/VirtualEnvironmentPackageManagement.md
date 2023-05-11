@@ -134,7 +134,9 @@ Each of these alternatives has its own strengths and weaknesses, so it is import
 
 ### 4. Package management
 
-[Poetry](https://python-poetry.org/) is a Python package manager that aims to provide a simple and efficient way to manage dependencies in your Python projects. It allows you to define your project's dependencies in a [```pyproject.toml```](https://betterprogramming.pub/a-pyproject-toml-developers-cheat-sheet-5782801fb3ed) file, which is more user-friendly than the traditional [```requirements.txt```](https://learnpython.com/blog/python-requirements-file/) file. With Poetry, you can easily install, update, and remove dependencies, as well as create virtual environments for your projects.
+Poetry is a Python package manager that aims to provide a simple and efficient way to manage dependencies in your Python projects. It allows you to define your project's dependencies in a [```pyproject.toml```](https://betterprogramming.pub/a-pyproject-toml-developers-cheat-sheet-5782801fb3ed) file, which is more user-friendly than the traditional [```requirements.txt```](https://learnpython.com/blog/python-requirements-file/) file. With Poetry, you can easily install, update, and remove dependencies, as well as create virtual environments for your projects.
+
+:bell: [Poetry](https://python-poetry.org/) has really good documentation. Make sure to check it out!
 
 Some of the key features of Poetry include:
 

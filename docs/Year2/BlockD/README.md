@@ -150,9 +150,9 @@ Over the next two weeks you will create production ready code. You will learn ho
 ### Suggested Learning Modules
 
 - [MLOps Maturity Levels - Article from MS Azure ML Accelerator](https://microsoft.github.io/azureml-ops-accelerator/1-MLOpsFoundation/1-MLOpsOverview/2-MLOpsMaturityModel.html)
-- [Testing and Logging with Python](https://adsai.buas.nl/Study%20Content/MLOps%20II/6.%20Testing.html)
-- [Documentation for Python](https://adsai.buas.nl/Study%20Content/MLOps%20II/7.%20Documenting.html)
-- [Client-side Continuous Integration Tools with Python](https://adsai.buas.nl/Study%20Content/MLOps%20II/8.%20ContinuousIntegration.html)
+- [Testing and Logging with Python](../../Study%20Content/MLOps%20II/6.%20Testing.html)
+- [Documentation for Python](../../Study%20Content/MLOps%20II/7.%20Documenting.html)
+- [Client-side Continuous Integration Tools with Python](../../Study%20Content/MLOps%20II/8.%20ContinuousIntegration.html)
 - [Building Packages for Users - CLIs and APIs](../../Study%20Content/MLOps%20II/9.%20Package%20User%20Interfaces%20-%20CLI%20and%20API.html)
 - [Building and Distributing Python Packages](../../Study%20Content/MLOps%20II/10.%20Building%20and%20Distributing%20Python%20Packages.html) 
 
@@ -161,11 +161,11 @@ Over the next two weeks you will create production ready code. You will learn ho
 Weeks 4 and 5 will focus on creating data pipelines and model training pipelines. You will create versioned models, data assets, and environments. You will also learn how to automate the model training process. You will also learn how to deploy your model to a cloud platform.
 
 ### Suggested Learning Modules
-- [Intro to the Cloud and MLOps Tools]()
-- [Microsoft Azure]()
-- [Containerisation with Docker]()
-- [Deployment Options and Strategies]()
-- [CI/CT/CD with Azure Pipelines]()
+- [Intro to the Cloud and MLOps Tools](../../Study%20Content/MLOps%20II/11.%20Intro%20to%20the%20Cloud%20and%20MLOps%20Tools.html)
+- [Microsoft Azure](../../Study%20Content/MLOps%20II/12.%20Azure%20Machine%20Learning.html)
+- [Containerisation with Docker](../../Study%20Content/MLOps%20II/13.%20Containerisation.html)
+- [Deployment Options and Strategies](../../Study%20Content/MLOps%20II/15.%20Deployment%20Options%20and%20Strategies.html)
+- [CI/CT/CD with Azure Pipelines](../../Study%20Content/MLOps%20II/)
 
 # Week 6-7 - Model Deployment and Monitoring (ILO 6)
 

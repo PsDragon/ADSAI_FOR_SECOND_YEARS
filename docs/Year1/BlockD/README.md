@@ -360,6 +360,15 @@ Below, you will find some additional knowledge modules on various topics, such a
 
 - [Time series](../../Study%20Content/Time%20Series/TimeSeries1_v2.html)
 
+## Medal Challenges 
+
+You are encouraged to get the best out of yourself. Therefore, within the ADS&AI program, we regularly allow you to push yourself further by giving you so-called bronze-silver-gold challenges. By achieving these, you can earn badges for your GitHub page, which mark excellent teams as:
+
+![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=bronzemedal): the third best project of this block.
+
+![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=silvermedal): the second best project of this block.
+
+![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=goldmedal): the very best project of this block. 
 
 ## References
 1. DALL-E, OpenAI, create funny picture, Prompt: 'A Dutch Repubic ship sailing across an ocean of data', 24-04-2023.

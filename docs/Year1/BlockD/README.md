@@ -223,7 +223,7 @@ After that we continue withsome short self-study material:
 # Week 3: Bringing Data & Business Understanding Together - Agile Project Management
 
 ## Monday & Tuesday
-10 AM - 11 AM: [Introduction to Project Management](https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2QyMmQ2ODktNzYwMy00NDk2LTgwMjYtMDAyNmNmMzkxNDMx%40thread.v2/0?context=%7b%22Tid%22%3a%220a33589b-0036-4fe8-a829-3ed0926af886%22%2c%22Oid%22%3a%225cef929d-ecf9-4fca-bf12-bc5ee065fc99%22%7d)
+10 AM - 11 AM: [Introduction to Project Management](https://edubuas-my.sharepoint.com/:v:/g/personal/heijligers_b_buas_nl/Edk-P-iz5PVCiSQ85cI7hdMBb7VqQ8xixrzzrn_pbe_WRw?e=tsCUDs) (recorded video lecture)
 - [The scrum approach to project success](../../Study%20Content/Agile%20Project%20Management/1.The%20scrum%20approach%20to%20project%20success.html)
 - [Essential roles for scrum teams](../../Study%20Content/Agile%20Project%20Management/2.Essential%20roles%20for%20scrum%20teams.html)
 - [Project Vision, Roadmap and Planning](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/3.%20Creating%20a%20Project%20Vision,%20Roadmap%20and%20Project%20Planning.html)

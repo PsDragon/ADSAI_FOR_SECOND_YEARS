@@ -162,14 +162,20 @@ Weeks 4 and 5 will focus on creating data pipelines and model training pipelines
 
 ### Suggested Learning Modules
 - [Intro to the Cloud and MLOps Tools](../../Study%20Content/MLOps%20II/11.%20Intro%20to%20the%20Cloud%20and%20MLOps%20Tools.html)
-- [Microsoft Azure](../../Study%20Content/MLOps%20II/12.%20Azure%20Machine%20Learning.html)
+- [Microsoft Azure Machine Learning I](../../Study%20Content/MLOps%20II/12.%20Azure%20Machine%20Learning.html)
+- [Application Programming Interfaces (APIs)](../../Study%20Content/MLOps%20II/14.%20Application%20Programming%20Interfaces%20-%20APIs.html)
 - [Containerisation with Docker](../../Study%20Content/MLOps%20II/13.%20Containerisation.html)
-- [Deployment Options and Strategies](../../Study%20Content/MLOps%20II/15.%20Deployment%20Options%20and%20Strategies.html)
-- [CI/CT/CD with Azure Pipelines](../../Study%20Content/MLOps%20II/)
+- [MLFlow](../../Study%20Content/MLOps%20II/16.%20MLFlow.html)
+
 
 # Week 6-7 - Model Deployment and Monitoring (ILO 6)
 
 Weeks 6 and 7 will focus on model deployment and monitoring. You use what you have learnt to deploy and monitor your model in the cloud. 
+
+### Suggested Learning Modules
+- [Azure Machine Learning II](../../Study%20Content/MLOps%20II/15.%20Azure%20Machine%20Learning%20II.html)
+- [Deployment Options and Strategies](../../Study%20Content/MLOps%20II/16.%20Deployment%20Options%20and%20Strategies.html)
+- [CI/CT/CD with Azure Pipelines](../../Study%20Content/MLOps%20II/)
 
 # Week 8 - Testing and Evaluation (ILO 4-6)
 

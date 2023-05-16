@@ -347,8 +347,8 @@ Below, you will find some additional knowledge modules on various topics, such a
 ### Mandatory
 - MLOps 
     - [Virtual environments & Package management with Python](../../Study%20Content/MLOps/VirtualEnvironmentPackageManagement.html)
-    - [Production-Level code with Python](../../Study%20Content/MLOps/CodeFormatting.html)
-    - [Documenting for Python](../../Study%20Content/MLOps/Documenting.html)
+    - [Production-Level code with Python](../../Study%20Content/MLOps/ProductionLevelCode.html)
+    - [Documenting for Python](../../Study%20Content/MLOps/Documentation.html) 
     - [Testing with Python](../../Study%20Content/MLOps/Testing.html)
     - [Continuous Integration with Python](../../Study%20Content/MLOps/ContinuousIntegration.html)
     - [Deployment with Python](../../Study%20Content/MLOps/Deployment.html)

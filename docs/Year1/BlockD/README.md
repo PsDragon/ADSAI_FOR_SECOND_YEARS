@@ -231,7 +231,7 @@ After that we continue withsome short self-study material:
 
 
 ## Wednesday
-- [ ] **9:00-12:00, Project Pitches:** Within mentor group; 3 groups per mentor​. See timetable, your mentor will post your schedule. Project pitches within mentor group with separate classrooms for each mentor group; mentor + students curate projects. 4 classroom, 10 minute pitches, teams rotate; 1 every hour.
+- [ ] **9:00-12:00, Project Pitches:** Within mentor group; 3 groups per mentor​. See the schedule below. Project pitches within mentor group with separate classrooms for each mentor group; mentor + students curate projects. 4 classroom, 5 minute pitches (max 10 minutes), teams rotate; 50 minutes.
 
 ### Morning schedule
 

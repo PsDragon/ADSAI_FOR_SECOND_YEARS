@@ -20,6 +20,7 @@ Now that you have created a Python program that is of production quality, you ca
 __After this module, you will be able to:__
 
 - [ ] Explain the importance of testing with Python.
+- [ ] Use LOGGING to debug Python code.
 - [ ] Apply type hinting to Python code.
 - [ ] Use the debugger in VSCode to fix bugs in Python code.
 

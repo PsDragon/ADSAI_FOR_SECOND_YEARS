@@ -247,12 +247,8 @@ After that we continue withsome short self-study material:
 
 ### Afternoon schedule
 
-| Mentor Group | Classrooms | Order of group workshops | 
-| --- | --- | --- |
-| BLR | Hn0.015 | 1, 2, 3 |
-| HEI/KOZ | Hs2.028 | 4, 5, 6 |
-| BHU | Hs2.031 | 7, 8, 9 |
-| NOY | Hn0.015 | 10, 11, 12 |
+#### Scrum workshop
+You are all to come to Oc1.008 for a workshop on Scrum. This will be a fun and practical way of getting acquainted with the process of scrum. Contrary to initial messages, you will all participate at the same time. The workshop will take about 2 to 3 hours.
 
 - [ ] While you wait untill you get to do the Scrum Workshop; or when you are done with it. Go and **complete the next steps** be for coming monday. **Remember that you need consent of your PO to set your project vision and start your sprint!**
 

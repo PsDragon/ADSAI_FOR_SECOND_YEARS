@@ -243,12 +243,11 @@ After that we continue withsome short self-study material:
 | NOY | Fe3.032 | 10, 11, 12 |
 
 
-- [ ] **13:00-17:00, Scrum Workshop:** At the end of the workshop, the team chooses a first SCRUM-master. 
 
 ### Afternoon schedule
 
 #### Scrum workshop
-You are all to come to Oc1.008 for a workshop on Scrum. This will be a fun and practical way of getting acquainted with the process of scrum. Contrary to initial messages, you will all participate at the same time. The workshop will take about 2 to 3 hours.
+You are all to come to Oc1.008 for a workshop on Scrum. This will be a fun and practical way of getting acquainted with the process of scrum. Contrary to initial messages, you will all participate at the same time. The workshop will take about 2 to 3 hours. At the end of the workshop, the team chooses a first Scrum-master. 
 
 - [ ] While you wait untill you get to do the Scrum Workshop; or when you are done with it. Go and **complete the next steps** be for coming monday. **Remember that you need consent of your PO to set your project vision and start your sprint!**
 

@@ -280,12 +280,12 @@ Please make sure to steadily fill in your checklist for ethics & legal assignmen
 
 
 ## Wednesday
-- **9:00 - 12:00 @ Fe1.027**: Sounding Board Sessions (Panel of Municipality Breda Data Science Team)
 - **15:30- 16:30 @ Fe1.018**: Guest Lecturer on Agile in Practise - PhD Research by Ruben Steegh
 - Feedback Sessions
   
 ## Thursday
 - [ ] Refresh your knowledge on [Wrapping up a sprint and doing retrospectives retrospectives](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/6.%20Wrapping%20up%20a%20sprint%20and%20retrospectives.html)
+- **14:00 - 17:00 @ Microsoft Teams**: Sounding Board Sessions (Panel of Municipality Breda Data Science Team)
 
 ## Friday​
 

@@ -237,9 +237,9 @@ After that we continue withsome short self-study material:
 
 | Mentor Group | Classrooms | Order of group workshops | 
 | --- | --- | --- |
-| BLR | Fe2.032 | 1, 2, 3 |
-| HEI/KOZ | Hn2.017 | 4, 5, 6 |
-| BHU | Fe3.030 | 7, 8, 9 |
+| BLR | Fe2.032 | 4, 5, 6 |
+| HEI/KOZ | Hn2.017 | 7, 8, 9 |
+| BHU | Fe3.030 | 1, 2, 3 |
 | NOY | Fe3.032 | 10, 11, 12 |
 
 

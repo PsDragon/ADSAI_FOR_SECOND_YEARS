@@ -158,7 +158,13 @@ Over the next two weeks you will create production ready code. You will learn ho
 
 # Week 4-5 - Data Pipelines and Model Training in the Cloud (ILO 5)
 
-Weeks 4 and 5 will focus on creating data pipelines and model training pipelines. You will create versioned models, data assets, and environments. You will also learn how to automate the model training process. You will also learn how to deploy your model to a cloud platform.
+Weeks 4 and 5 will focus on creating data pipelines and model training pipelines. You will create versioned models, data assets, and environments. You will also learn how to automate the model training process. 
+
+Goals for this Sprint
+
+- [ ] Host and manage your data in the cloud.
+- [ ] Manage environments and dependencies in the cloud.
+- [ ] Create a data pipeline and model training pipeline in the cloud.
 
 ### Suggested Learning Modules
 - [Intro to the Cloud and MLOps Tools](../../Study%20Content/MLOps%20II/11.%20Intro%20to%20the%20Cloud%20and%20MLOps%20Tools.html)
@@ -170,7 +176,7 @@ Weeks 4 and 5 will focus on creating data pipelines and model training pipelines
 
 # Week 6-7 - Model Deployment and Monitoring (ILO 6)
 
-Weeks 6 and 7 will focus on model deployment and monitoring. You use what you have learnt to deploy and monitor your model in the cloud. 
+Weeks 6 and 7 will focus on model deployment and monitoring. You will learn how to deploy your model to a cloud platform. You will then use what you have learnt to deploy and monitor your model in the cloud. 
 
 ### Suggested Learning Modules
 - [Azure Machine Learning II](../../Study%20Content/MLOps%20II/15.%20Azure%20Machine%20Learning%20II.html)

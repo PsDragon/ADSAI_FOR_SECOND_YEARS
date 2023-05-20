@@ -20,6 +20,7 @@ Now that you have created a Python program that is of production quality, you ca
 __After this module, you will be able to:__
 
 - [ ] Explain the importance of testing with Python.
+- [ ] Use LOGGING to debug Python code.
 - [ ] Apply type hinting to Python code.
 - [ ] Use the debugger in VSCode to fix bugs in Python code.
 
@@ -203,7 +204,7 @@ To use the debugger in VSCode, follow these steps:
 
 ### 5. Unit testing
 
-Unit testing is a software testing method by which individual units of source code are tested to determine whether they are fit for use. Before we head into the details of unit tests, let's take a small detour to test driven development (TDD). TDD is a software development process that involves writing tests before writing the actual code. The idea behind TDD is that you write tests that specify the desired behavior of your code. Then, you write the code to make the tests pass. This ensures that your code is working as intended. 
+Unit testing is a software testing method by which individual units of source code are tested to determine whether they are fit for use. Before we head into the details of unit tests, let's take a small detour to test driven development (TDD). TDD is a software development process that involves designing tests before writing the actual code. The idea behind TDD is that you write tests that specify the desired behavior of your code. Then, you write the code to make the tests pass. This ensures that your code is working as intended. 
 
 <!-- blank line -->
 <figure class="video_container">
@@ -211,12 +212,46 @@ Unit testing is a software testing method by which individual units of source co
 </figure>
 <!-- blank line -->
 
-:bulb: I was introduced to TDD by a [senior software engineer](https://europe.naverlabs.com/people_user/Michael-Niemaz/) when I was working as a intern (machine learning engineer) at [Naver Labs Europe]https://europe.naverlabs.com/about/) building ML algorithms from scratch. He convinced me that TDD is a very useful practice that helps you write better code. I have been using TDD ever since as a useful programming paradigm and I highly recommend it!!
+:bulb: I was introduced to TDD when I was working as a intern (machine learning engineer) at [Naver Labs Europe]https://europe.naverlabs.com/about/) building ML algorithms from scratch. He convinced me that TDD is a very useful practice that helps you write better code. I have been using TDD ever since as a useful programming paradigm and I highly recommend it!!
 
 Unit tests are typically written by the developers of the code themselves. 
 Python has a built-in module called [unittest](https://docs.python.org/3/library/unittest.html) that can be used to write unit tests. However, the industry is moving towards using the [pytest](https://docs.pytest.org/en/6.2.x/) framework for unit testing. The pytest framework is more flexible and easier to use than the unittest module.
 
+In Python, with Poetry, once you've written your tests, you can run them using the following command:
+
+```python
+poetry run pytest
+```
+
 :pencil: __5a__ Design unit tests to the functions you created in your ```titanic.py``` script.
+
+How many unit tests do you need to write? Well, that depends on the complexity of your code. The general rule of thumb is that you should write enough tests to cover all possible scenarios. For example, if you have a function that takes two arguments, you should write at least two tests: one for when both arguments are valid and one for when one or both arguments are invalid. A general rule of thumb is that you should write at least one test for each function that is being exposed to the user.
+
+:bulb: Code coverage is a metric that measures how much of your code is covered by unit tests. The higher the code coverage, the more confident you can be that your code is working as intended. You can use the [pytest-cov](https://pytest-cov.readthedocs.io/en/latest/) plugin to measure the code coverage of your unit tests. 
+
+To install the plugin, run the following command:
+
+```python
+poetry add pytest-cov
+```
+
+To run the tests with code coverage, run the following command:
+
+```python
+poetry run pytest --cov
+```
+
+This will generate a report that shows the code coverage of your unit tests. You can also generate a HTML report by running the following command:
+
+```python
+poetry run pytest --cov --cov-report html
+```
+
+This will generate a HTML report in the ```htmlcov``` folder. You can open the ```index.html``` file in your browser to view the report. 
+
+> Please note that for assessment, we have strict requirements regarding the overall test coverage of your codebase.
+
+It is important to note that a code coverage of 100% does not mean that your code is bug-free. It only means that all lines of code are executed at least once during the unit tests. It is still possible that there are bugs in your code that are not caught by the unit tests. Therefore, it is important to write unit tests that cover all possible scenarios.
 
 ### 6. Blended learning
 

@@ -98,7 +98,7 @@ Please use the following datasets to help you solve the creative brief. You will
 | [Heat stress index](https://edubuas-my.sharepoint.com/:u:/g/personal/blerck_i_buas_nl/Eeffh6rKQc1BgH-TWAndcNEBNWlpsTPmx1PzrEpBIHupZw?e=bYRJ75) | Municipality of Breda | Grid | Score indicating the level of heat stress on a grid level. Geographic data, requires doing the [geopspatial analytics tutorial](https://adsai.buas.nl/Study%20Content/Geospatial%20Analytics/GeospatialAnalytics1_v2.html) |
 | [Move house](https://edubuas-my.sharepoint.com/:f:/g/personal/blerck_i_buas_nl/EisT2yTIritPgBTYKtRAq3kB5NRH-ke7NeE6MvowY_Gzng?e=zIqSQQ) | Municipality of Breda | Grid | The number of households moving from Breda to another location (within or outside the municipality). Geographic data, requires doing the [geopspatial analytics tutorial](https://adsai.buas.nl/Study%20Content/Geospatial%20Analytics/GeospatialAnalytics1_v2.html) |
 | Buurt enquête | Municipality of Breda | Neighbourhood | Survey regarding social capital and neighborhood participation. [Click to view actual surveys](https://edubuas-my.sharepoint.com/:f:/g/personal/blerck_i_buas_nl/Eq7izTSGbctPvHDAbyaYh7MBVjmISMbzHldim030wZTLHw?e=0Ccihm) and [click here to view the codebook](https://edubuas-my.sharepoint.com/:x:/g/personal/blerck_i_buas_nl/EX_5l_STLsRKjmUoLUKaFNsBSl8t-RFS-32T6MiV5DhRcg?e=LRXkyq). |
-| [Klimaateffectatlas](https://www.klimaateffectatlas.nl/en/) | Klimaateffectatlas | Grid - National (Varies) | A collection of datasets illustrating the effects of climate change on people and their living environment |
+| [Klimaateffectatlas](https://edubuas-my.sharepoint.com/:f:/g/personal/blerck_i_buas_nl/EnBuY4Akh5pErImnumUNH0EB2qUnu7muV_AntaVjXmQg1w?e=xoemP7) | Klimaateffectatlas | Grid - National (Varies) | A collection of datasets illustrating the effects of climate change on people and their living environment |
 | [POI](https://www.arcgis.com/home/item.html?id=90830abcc0a54b04a968c451e4122341) | Esri Nederland | Grid | OpenStreetMap dataset of the Netherlands. These locations have a specific function by the Municipality have been designated as **Points of Interest.** |
 | [Police](https://data.politie.nl/#/Politie/nl/navigatieScherm/thema) | Dutch Police | Grid - National (Varies) | [Data.politie.nl](https://data.politie.nl/#/Politie/nl/) is the data portal of the police and contains figures on registered crime, nuisance, police performance and police operations. Here you can compile your own tables and graphs |
 | [RIVM Open Data Statline](https://statline.rivm.nl/portal.html?_la=nl&_catalog=RIVM) | Grid - National (Varies) | Grid/Neighboorhood/Borough/Municipal | Official public Health data from the RIVM, they have [another data portal](https://data.rivm.nl/meta/srv/dut/catalog.search#/home) too because the Dutch National Government believes you can never have too many websites. |
@@ -231,28 +231,23 @@ After that we continue withsome short self-study material:
 
 
 ## Wednesday
-- [ ] **9:00-12:00, Project Pitches:** Within mentor group; 3 groups per mentor​. See timetable, your mentor will post your schedule. Project pitches within mentor group with separate classrooms for each mentor group; mentor + students curate projects. 4 classroom, 10 minute pitches, teams rotate; 1 every hour.
+- [ ] **9:00-12:00, Project Pitches:** Within mentor group; 3 groups per mentor​. See the schedule below. Project pitches within mentor group with separate classrooms for each mentor group; mentor + students curate projects. 4 classroom, 5 minute pitches (max 10 minutes), teams rotate; 50 minutes.
 
 ### Morning schedule
 
 | Mentor Group | Classrooms | Order of group workshops | 
 | --- | --- | --- |
-| BLR | Fe2.032 | 1, 2, 3 |
-| HEI/KOZ | Hn2.017 | 4, 5, 6 |
-| BHU | Fe3.030 | 7, 8, 9 |
+| BLR | Fe2.032 | 4, 5, 6 |
+| HEI/KOZ | Hn2.017 | 7, 8, 9 |
+| BHU | Fe3.030 | 1, 2, 3 |
 | NOY | Fe3.032 | 10, 11, 12 |
 
 
-- [ ] **13:00-17:00, Scrum Workshop:** At the end of the workshop, the team chooses a first SCRUM-master. 
 
 ### Afternoon schedule
 
-| Mentor Group | Classrooms | Order of group workshops | 
-| --- | --- | --- |
-| BLR | Hn0.015 | 1, 2, 3 |
-| HEI/KOZ | Hs2.028 | 4, 5, 6 |
-| BHU | Hs2.031 | 7, 8, 9 |
-| NOY | Hn0.015 | 10, 11, 12 |
+#### Scrum workshop
+You are all to come to Oc1.008 for a workshop on Scrum. This will be a fun and practical way of getting acquainted with the process of scrum. Contrary to initial messages, you will all participate at the same time. The workshop will take about 2 to 3 hours. At the end of the workshop, the team chooses a first Scrum-master. 
 
 - [ ] While you wait untill you get to do the Scrum Workshop; or when you are done with it. Go and **complete the next steps** be for coming monday. **Remember that you need consent of your PO to set your project vision and start your sprint!**
 
@@ -285,12 +280,12 @@ Please make sure to steadily fill in your checklist for ethics & legal assignmen
 
 
 ## Wednesday
-- **9:00 - 12:00 @ Fe1.027**: Sounding Board Sessions (Panel of Municipality Breda Data Science Team)
 - **15:30- 16:30 @ Fe1.018**: Guest Lecturer on Agile in Practise - PhD Research by Ruben Steegh
 - Feedback Sessions
   
 ## Thursday
 - [ ] Refresh your knowledge on [Wrapping up a sprint and doing retrospectives retrospectives](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/6.%20Wrapping%20up%20a%20sprint%20and%20retrospectives.html)
+- **14:00 - 17:00 @ Microsoft Teams**: Sounding Board Sessions (Panel of Municipality Breda Data Science Team)
 
 ## Friday​
 
@@ -347,8 +342,8 @@ Below, you will find some additional knowledge modules on various topics, such a
 ### Mandatory
 - MLOps 
     - [Virtual environments & Package management with Python](../../Study%20Content/MLOps/VirtualEnvironmentPackageManagement.html)
-    - [Production-Level code with Python](../../Study%20Content/MLOps/CodeFormatting.html)
-    - [Documenting for Python](../../Study%20Content/MLOps/Documenting.html)
+    - [Production-Level code with Python](../../Study%20Content/MLOps/ProductionLevelCode.html)
+    - [Documenting for Python](../../Study%20Content/MLOps/Documentation.html) 
     - [Testing with Python](../../Study%20Content/MLOps/Testing.html)
     - [Continuous Integration with Python](../../Study%20Content/MLOps/ContinuousIntegration.html)
     - [Deployment with Python](../../Study%20Content/MLOps/Deployment.html)

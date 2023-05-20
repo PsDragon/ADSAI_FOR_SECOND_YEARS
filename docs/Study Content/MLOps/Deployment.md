@@ -21,6 +21,7 @@ __After this chapter you will be able to:__
 
 - [ ] Explain what a command line interface (CLI) is.
 - [ ] Use command line arguments to pass parameters to a Python script, using the package Argparse or Typer.
+- [ ] Use ```streamlit``` to deploy a data-app.
 
 ***
 

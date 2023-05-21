@@ -166,11 +166,14 @@ Goals for this Sprint
 - [ ] Manage environments and dependencies in the cloud.
 - [ ] Create a data pipeline and model training pipeline in the cloud.
 
+    ⚠️ Before you have your sprint planning meetings please work on any outstanding issues from the previous sprint, as well the first module below and start the second module (up to and including section 2.1) ⚠️
+
 ### Suggested Learning Modules
 - [Intro to the Cloud and MLOps Tools](../../Study%20Content/MLOps%20II/11.%20Intro%20to%20the%20Cloud%20and%20MLOps%20Tools.html)
 - [Microsoft Azure Machine Learning I](../../Study%20Content/MLOps%20II/12.%20Azure%20Machine%20Learning.html)
 - [Application Programming Interfaces (APIs)](../../Study%20Content/MLOps%20II/14.%20Application%20Programming%20Interfaces%20-%20APIs.html)
 - [Containerisation with Docker](../../Study%20Content/MLOps%20II/13.%20Containerisation.html)
+- [Microsoft Azure Machine Learning II](../../Study%20Content/MLOps%20II/15.%20Azure%20Machine%20Learning%202.html)
 - [MLFlow](../../Study%20Content/MLOps%20II/16.%20MLFlow.html)
 
 
@@ -179,8 +182,8 @@ Goals for this Sprint
 Weeks 6 and 7 will focus on model deployment and monitoring. You will learn how to deploy your model to a cloud platform. You will then use what you have learnt to deploy and monitor your model in the cloud. 
 
 ### Suggested Learning Modules
-- [Azure Machine Learning II](../../Study%20Content/MLOps%20II/15.%20Azure%20Machine%20Learning%20II.html)
-- [Deployment Options and Strategies](../../Study%20Content/MLOps%20II/16.%20Deployment%20Options%20and%20Strategies.html)
+- [Azure Machine Learning III](../../Study%20Content/MLOps%20II/17.%20Azure%20Machine%20Learning%20II.html)
+- [Deployment Options and Strategies](../../Study%20Content/MLOps%20II/18.%20Deployment%20Options%20and%20Strategies.html)
 - [CI/CT/CD with Azure Pipelines](../../Study%20Content/MLOps%20II/)
 
 # Week 8 - Testing and Evaluation (ILO 4-6)

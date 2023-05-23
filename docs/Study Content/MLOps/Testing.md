@@ -198,6 +198,40 @@ To use the debugger in VSCode, follow these steps:
 
 :bell: Python also has a build in debugger called [pdb](https://docs.python.org/3/library/pdb.html). You can use this to debug your code in the terminal (in your IDE). For more information, check out this [tutorial](https://realpython.com/python-debugging-pdb/).
 
+To debug your ```titanic.py``` script in combination with VSCode and ```poetry``` please, follow the steps below:
+
+1. Open your project in Visual Studio Code.
+2. In the top menu, click on 'View' and then select 'Command Palette' (you can also use the shortcut Ctrl+Shift+P on Windows/Linux).
+3. In the Command Palette, start typing 'Preferences: Open Workspace (JSON)' and select the option when it appears. This will open the ```settings.json``` file for your workspace.
+If the ```settings.json``` file is empty or does not exist, paste the the following code snippet directly into the file:
+
+```json
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+	    "name": "Python: run poetry pytest",
+	    "type": "python",
+	    "request": "launch",
+	    "pythonPath": "${workspaceFolder}/anaconda3/envs/poetry_conda",
+	    "cwd": "${workspaceFolder}",
+	    "module": "pytest",
+	    "args": [
+	    ],
+	    "console": "integratedTerminal",
+	    "justMyCode": false,
+	}
+    ]
+
+}
+```
+
+If the ```settings.json``` file already contains other configurations, add a comma (,) at the end of the last configuration before pasting the new code snippet.
+4. After pasting the code snippet, save the ```settings.json``` file (Ctrl+S or Command+S).
+Close and reopen the project or workspace for the changes to take effect.
+
+:bell: The code snippet assumes that you have Anaconda installed and a Conda environment named ```poetry_conda``` with Python available at ${workspaceFolder}/anaconda3/envs/poetry_conda. Make sure to modify the pythonPath value in the code snippet if your environment setup is different. To find the correct path, open a terminal and run ```conda env list```. The path to the environment will be listed under the second column. 
+
 :pencil: __4a__ Use the debugger to debug the ```titanic.py``` script. Did you find any bugs? If so, fix them.
 
 ***

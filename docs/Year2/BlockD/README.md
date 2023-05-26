@@ -173,7 +173,7 @@ Goals for this Sprint
 - [Microsoft Azure Machine Learning I](../../Study%20Content/MLOps%20II/12.%20Azure%20Machine%20Learning.html)
 - [Application Programming Interfaces (APIs)](../../Study%20Content/MLOps%20II/14.%20Application%20Programming%20Interfaces%20-%20APIs.html)
 - [Containerisation with Docker](../../Study%20Content/MLOps%20II/13.%20Containerisation.html)
-- [Microsoft Azure Machine Learning II](../../Study%20Content/MLOps%20II/15.%20Azure%20Machine%20Learning%202.html)
+- [Microsoft Azure Machine Learning II](../../Study%20Content/MLOps%20II/15.%20Azure%20Machine%20Learning%20II.html)
 - [MLFlow](../../Study%20Content/MLOps%20II/16.%20MLFlow.html)
 
 

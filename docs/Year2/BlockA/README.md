@@ -31,10 +31,14 @@ Here are some articles that describe the role in a bit more detail:
 
 
 ## Creative Brief: AI at BUAS
+<!-- rewrite to align with BUas strategic agenda, data-driven policy & BUas + strategy -->
 
 Advances in artificial intelligence (AI) are predicted to impact nearly all
-domains of the Breda University of Applied Sciences (Buas). While there is no debate
-about the positive effects AI may have on these domains,
+domains of the Breda University of Applied Sciences (Buas). 
+
+In fact, BUas has made it a strategic priority to become a data-driven organisation and being able to work with data and AI is aimed to be a BUas + competency. Meaning that all students should have some basic capacity to work with data and AI.
+
+While there is no debate about the positive effects AI may have on these domains,
 the technology entails risks and disruptions that warrant attention.
 While the management of Buas have begun to discuss AI and it’s applications
 more frequently, the general attitudes and sentiment of the various domains
@@ -49,6 +53,14 @@ For an example of how this understanding is gained, and why research skills are 
 explore and understand (staff and student)
 attitudes, knowledge, acceptance, and perceived impact of AI across
 Buas domains and guide stakeholders towards the best course of action regarding AI at Buas.**
+
+<!-- What to add:
+How are the students currently using generative AI?
+What do the students need to know about AI?
+What data collection technqiques do the students need to use?
+How do they need to frame their problems for data analysis?
+ -->
+
 
 ## Project timeline
 

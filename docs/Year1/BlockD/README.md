@@ -304,7 +304,7 @@ Take a look at the Mandatory Knowledge modules at the bottom of the page. Take t
 Same structure as week 4 but now hopefully focussed mainly on data modelling. Apart from:
 
 ## Wednesday:
-- [ ] Team Communication Workshop in Datalab
+- [ ] 14:00 - Team Communication Workshop in Datalab
 
 # Week 6: Evaluation (& Iteration) 
 Same structure as week 4 but without sounding board session and guest lectures. Preferably, focussed mainly on data modelling evaluation (& iteration). Apart from:

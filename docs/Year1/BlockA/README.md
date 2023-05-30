@@ -84,6 +84,9 @@ To change the world, we must first be able to measure it. Measuring and quantify
 
 The SGD Hub@BUAs, hereafter the client, has approached you as an aspiring – data professional – to track and explore the global and country-level progress towards the Sustainable Development Goals:
 
+<!-- convert to short description of what the students need to do: above
+
+Below: convert to use-cases page using Irene's template -->
 __1. Define a data-driven research question__
 
 You are expected to frame a data-driven research question related to a sustainable development goal. Questions can range from simple (e.g., how country X is performing on indicator Y) to complex (e.g., how country X is performing on indicator Y, and what are the key variables related to Y). Use SDGTracker to help formulate your problem statement.

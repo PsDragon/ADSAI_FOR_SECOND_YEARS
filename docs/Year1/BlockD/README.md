@@ -284,7 +284,7 @@ Please make sure to steadily fill in your checklist for ethics & legal assignmen
 - Feedback Sessions
   
 ## Thursday
-- [ ] Refresh your knowledge on [Wrapping up a sprint and doing retrospectives retrospectives](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/6.%20Wrapping%20up%20a%20sprint%20and%20retrospectives.html)
+- [ ] Refresh your knowledge on [Wrapping up a sprint and doing retrospectives retrospectives](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/6.Wrapping%20up%20a%20sprint%20and%20retrospectives.html)
 - **14:00 - 17:00 @ Microsoft Teams**: Sounding Board Sessions (Panel of Municipality Breda Data Science Team)
 
 ## Friday​

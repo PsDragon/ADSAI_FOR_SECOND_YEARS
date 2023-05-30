@@ -98,7 +98,7 @@ You are expected to apply Exploratory Data Analysis (EDA) concepts learned in th
 
 __4. Analyse your data and visualize your findings__
 
-You are expected to apply concepts learned in the workshops and generate appropriate visualisations, which support your arguments towards answering the research question, in Power BI.
+You are expected to apply concepts learned in the workshops and [generate appropriate visualisations](https://adsai.buas.nl/Study%20Content/Business%20Intelligence/images/chart_suggestion.jpg), which support your arguments towards answering the research question, in Power BI. Furthermore, you are expected to calculate and interpret at least 1 measure of association such as a correlation coefficient and it's effect size related to your research question.
 
 __5. Provide a solution to your research question with supporting arguments (based on your analysis)__
 
@@ -106,6 +106,7 @@ You are expected to answer your research question with supporting arguments base
 
 __6. Present your findings to the client__
 
+Presenting your findings is important and requires you to think of an [intuitive user design (guidelines)](https://www.nngroup.com/articles/principles-visual-design/#:~:text=Summary%3A%20The%20principles%20of%20scale,increase%20usability%20when%20applied%20correctly.) to effectively convey your findings to the client. 
 In DataLab 2, Week 7, you are expected to provide a live demo of your dashboard to the client, staff and your peers. Students, staff, and the client will be allowed to vote for the best dashboard.
 
 #### __Deliverable(s)__

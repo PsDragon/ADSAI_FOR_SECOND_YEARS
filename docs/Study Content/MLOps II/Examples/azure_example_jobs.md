@@ -1,5 +1,7 @@
-# Running Azure ML Command Jobs
+# Running Azure ML Command Jobs (Work in Progress 🚧)
 
+
+This example is adapted from this Microsoft Learn [tutorial](https://learn.microsoft.com/en-us/azure/machine-learning/tutorial-azure-ml-in-a-day?view=azureml-api-2). Check out the tutorial for more details.
 ## Setup
 
 Clone the repo
@@ -16,9 +18,3 @@ poetry install
 
 ## Check out the notebook
 
-
-
-
-### RECREATE THIS TUTORIAL - with MNIST e.g. make it easier to follow and understand
-
-https://learn.microsoft.com/en-us/azure/machine-learning/tutorial-azure-ml-in-a-day?view=azureml-api-2

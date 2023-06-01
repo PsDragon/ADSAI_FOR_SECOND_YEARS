@@ -5,11 +5,11 @@ sort: 1
 
 This block focusses on ... TEXT (IRENE)
 
-Below, you will find a table displaying the use-cases and their descriptions.
+Below, you will find a table displaying the tasks and their descriptions.
 
-| Use Case | Description |
+| Task | Description |
 | --- | --- |
-| 1. Presentation on AI in Science Fiction | Identify, and analyze AI applications in fictional and real-life (business) scenarios by examining and applying relevant concepts from AI literature and theory. |
+| 3.1 Presentation on AI in Science Fiction | Identify, and analyze AI applications in fictional and real-life (business) scenarios by examining and applying relevant concepts from AI literature and theory. |
 |  |  |
 |  |  |
 |  |  |
@@ -24,13 +24,13 @@ Below, you will find a table displaying the use-cases and their descriptions.
 
 TEXT (IRENE)
 
-## Use-case 1: Presentation on AI in Science Fiction
+## Task 3.1: Presentation on AI in Science Fiction
 
-In this use-case, which is related to the 'Insufficient' criteria of ILO 3.1, you will be asked to ... ETC. 
+For this task, which is related to ILO 3.1, you will be asked to ... ETC. 
 
 TEXT (IRENE)
 
-### To solve this use-case, you will need to:
+### To solve this task, you will need to:
 
 :point_right: __Identify, and describe an AI topic within the movie Minority Report, and connect it to the relevant domain(s), and subdomain(s) of the Taxonomy of AI__
 
@@ -59,35 +59,34 @@ For instance, let's say the chosen AI topic is 'Natural Language Processing (NLP
 
 - [ ] TEXT
 
+## Introduction to Python programming?
 
-## Data science?
+TEXT (ALICAN)
 
-TEXT (BRAM)
+## Task ...: 
 
-## Use-case 2: 
+For this task, which is related to the '...' criteria of ILO ..., you will be asked to ... ETC. 
 
-In this use-case, which is related to the '...' criteria of ILO ..., you will be asked to ... ETC. 
+TEXT (ALICAN)
 
-TEXT (BRAM)
+### To solve this task, you will need to:
 
-### To solve this use-case, you will need to:
-
-:point_right: __TEXT (BRAM)__
+:point_right: __TEXT (ALICAN)__
 
 
 - [ ] 
 - [ ] 
 - [ ] 
 
-## Use-case 3: 
+## Task ...: 
 
-In this use-case, which is related to the '...' criteria of ILO ..., you will be asked to ... ETC. 
+For this task, which is related to the '...' criteria of ILO ..., you will be asked to ... ETC. 
 
-TEXT (BRAM)
+TEXT (ALICAN)
 
-### To solve this use-case, you will need to:
+### To solve this task, you will need to:
 
-:point_right: __TEXT (BRAM)__
+:point_right: __TEXT (ALICAN)__
 
 
 - [ ] 
@@ -96,21 +95,61 @@ TEXT (BRAM)
 
 ETC. 
 
-Are you finished with all the use-case, and still have time remaining, please have a look at the Medal Challenges! 
+## Data science?
+
+TEXT (ALICAN)
+
+## Task ...: 
+
+For this task, which is related to the '...' criteria of ILO ..., you will be asked to ... ETC. 
+
+TEXT (ALICAN)
+
+### To solve this task, you will need to:
+
+:point_right: __TEXT (ALICAN)__
+
+
+- [ ] 
+- [ ] 
+- [ ] 
+
+## Task ...: 
+
+For this task, which is related to the '...' criteria of ILO ..., you will be asked to ... ETC. 
+
+TEXT (ALICAN)
+
+### To solve this task, you will need to:
+
+:point_right: __TEXT (ALICAN)__
+
+
+- [ ] 
+- [ ] 
+- [ ] 
+
+ETC. 
+
+Are you finished with all the tasks, and still have time remaining, please have a look at the Medal Challenges! 
 
 ## Deliverables
 
 ### Introduction to artificial intelligence
 
-TEXT (IRENE )
+TEXT (IRENE)
 
 - [ ] A 7-minute presentation (make sure to also hand-in the slides!)
+
+### Introduction to Python programming
+
+TEXT (ALICAN)
 
 ### Data Science?
 
 TEXT (BRAM)
 
-Start to work on the use-cases as soon as possible. Do not wait until Week 8 to start with your ...., ...., or .... You will need to work on the deliverables in stages.
+Start to work on the DataLab tasks as soon as possible. Do not wait until Week 8 to start with your ...., ...., or .... You will need to work on the deliverables in stages.
 
 ## Plagiarism
 

@@ -179,6 +179,12 @@ Goals for this Sprint
 
 # Week 6-7 - Model Deployment and Monitoring (ILO 6)
 
+Goals for this Sprint
+
+- [ ] Create an API for your model - for inference and training.
+- [ ] Deploy your model to the cloud - using multiple deployment methods/strategies.
+- [ ] Setup monitoring for your model.
+
 Weeks 6 and 7 will focus on model deployment and monitoring. You will learn how to deploy your model to a cloud platform. You will then use what you have learnt to deploy and monitor your model in the cloud. 
 
     ⚠️ Before you have your sprint planning meetings please work on any outstanding issues from the previous sprint ⚠️
@@ -187,7 +193,7 @@ Weeks 6 and 7 will focus on model deployment and monitoring. You will learn how 
 - [ML Application Deployment Options and Strategies](../../Study%20Content/MLOps%20II/17.%20Deployment%20Options%20and%20Strategies.html)
 - [Azure Machine Learning III - Deployment](../../Study%20Content/MLOps%20II/18.%20Azure%20Machine%20Learning%20III.html)
 
-:eight_pointed_black_star:Coming Soon:
+🌟 Coming Soon:
 - [Advanced GitHub and CI/CT/CD](../../Study%20Content/MLOps%20II/19.%20Advanced%20GitHub%20Techniques.html)
 - [Azure Machine Learning IV - Monitoring and Automation](../../Study%20Content/MLOps%20II/19.%20Azure%20Machine%20Learning%20IV.html)
 

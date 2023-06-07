@@ -319,14 +319,41 @@ Same structure as week 5. Preferably, focussed mainly on data modelling evaluati
 # Week 8: Client Demonstration 
 Same structure as week 5. Preferably, focussed mainly on data modelling evaluation (& iteration). Apart from:
 
-## Preparing for Poster Presentation
+## Preparing for the Conference Presentations
 - [Setting up Instructions]()
-- [Giving feedback & voting]()
 - Optional: Plan a feedback session with your mentor
 
-## Wednesday
-- **9:00 - 16:00 @ Innovation Square**: Poster Presentation and Voting
-- **16:00 Onwards @ Innovation Square**: Drinks
+### Setting up for the Y1D Conference Presentations
+The goal of the conference presentation is to create a good high-level understanding of you entire project, while allowing to go further in depth by alternating between pieces of evidence. You are free to use any of the tools taught during this curriculum or others; the goal is to tell a good story with your data. You can use a dashboard, a powerpoint, a combination, give a product demo and have some specs outline on the side. Whateven approach you choose; make sure you presentation adequately covers the following deliverables:
+- [ ] The AI Canvas for your project: how your project is going to create value?
+- [ ] The machine learning lifecycle: what did you build to create that value? Demonstrate the entire product, how it functions and keeps functioning.
+- [ ] ILO 3 - 7: How does the project achieve each group ILO? You can use the [assessment survey employed by staff](https://buas.eu.qualtrics.com/jfe/form/SV_08nFgP0EQcluqkC) as a lens to judge you meeting those points! Password: Pass1
+
+Ofcourse you can present more, such as recommendations to the municipality, if you believe it to be relevant
+
+
+
+## Wednesday - Conference Presentation
+**9:00 - 16:00 @ Innovation Square**: Poster Presentation and Voting
+- Setting up: 9:00 - 9:30
+- Round 1: 9:30 – 12:30
+- Round 2: 13:30 – 16:00
+
+During the conference:
+- [ ] All groups present all day, i.e. both rounds.
+- [ ] 2-3 team members present during a round, the other walk-around, view the other projects, and vote using your phone.
+- [ ] Each team member must present once, make agreements on who presents in which round.
+- [ ] Team members must alternate (presenting a second time is voluntary)
+- [ ] You must have your QR codes clearly visible for both Assessment and Medal Voting
+
+QR Codes with surveys are dispensed for each group: 
+- [ ] [Assessment: password protected and used by staff only](https://buas.eu.qualtrics.com/jfe/form/SV_08nFgP0EQcluqkC), open version for you to test your project with; password: Pass1
+- [ ] [Medals: everyone can vote once](https://buas.eu.qualtrics.com/jfe/form/SV_eS6WkqVZZthbmS2)
+
+Assessment
+
+**16:00 Onwards @ Innovation Square**: Drinks
+- You can leave if after this if you want to!
 
 
 ## Friday: 

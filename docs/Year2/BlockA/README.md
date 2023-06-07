@@ -18,8 +18,8 @@ and amaze us with your creative problem solving!
 
 In the current block, the creative brief will span the whole block (**7 weeks**) and will focus
 on key compentencies of a role unique to the data science and
-AI industry- **the analytics translator**.
-This role encompasses several skills such as communication, research, analysis,
+AI industry- **the digital transformation consultant**. In some sectors, also known as an **analytics translator**.
+This role encompasses several skills such as data analysis, communication, research, analysis,
 and to a large extent, decision making.
 
 Here are some articles that describe the role in a bit more detail:
@@ -37,33 +37,20 @@ Advances in artificial intelligence (AI) are predicted to impact nearly all
 domains of the Breda University of Applied Sciences (Buas). 
 
 In fact, BUas has made it a strategic priority to become a data-driven organisation and being able to work with data and AI is aimed to be a BUas + competency. Meaning that all students should have some basic capacity to work with data and AI.
-
-While there is no debate about the positive effects AI may have on these domains,
-the technology entails risks and disruptions that warrant attention.
-While the management of Buas have begun to discuss AI and it’s applications
-more frequently, the general attitudes and sentiment of the various domains
-are yet to be taken into account.  It is vital to understand how these domains
-think about AI and understand factors that influence the acceptance of AI in
-these domains. Such understanding is essential to crafting informed policy
-and identifying opportunities to include AI in the curriculum of these domains and help prepare students for the rise of AI in their domains.
-
-For an example of how this understanding is gained, and why research skills are essential, click [here](https://universitybusiness.co.uk/comment/preparing-students-for-an-ai-future/) and [here](https://governanceai.github.io/US-Public-Opinion-Report-Jan-2019/executive-summary.html). 
+TODO: Add details about the AI in BUas project
 
 **Your goal for this block is to use quantitative and qualitative methods to
 explore and understand (staff and student)
 attitudes, knowledge, acceptance, and perceived impact of AI across
 Buas domains and guide stakeholders towards the best course of action regarding AI at Buas.**
 
-<!-- What to add:
-How are the students currently using generative AI?
-What do the students need to know about AI?
-What data collection technqiques do the students need to use?
-How do they need to frame their problems for data analysis?
- -->
+In particular, you are expected to investigate the following questions:
 
+TODO: ADD RQs here.
 
 ## Project timeline
 
+TODO: Convert to trello timeline and pretend you came up with it.
 <figure>
     <img src="./images/phases.png"/>
 </figure>
@@ -75,32 +62,11 @@ data collection, and data management; while allowing for individual preferences 
 data analyses and project dissemination.
 
 The project timeline is aligned with the knowledge modules you will find on
-the ADSAI digital learning environment. A proposed [day-by-day timeline can be found here](https://edubuas.sharepoint.com/:x:/r/teams/2022-23AFGA2.P1ADSAI/Class%20Materials/Y2blockA_PlanningProposal.xlsx?d=wdec80798c0834878afba8fdb85d7c82d&csf=1&web=1&e=LP7dmD) if you find that helpful.
+the ADSAI digital learning environment. 
 
 
 ### Week 1
-The block begins with a block kickoff
-followed by a mini-conference in AI. This conference will provide you with insights
-into how the different domains in Buas tend to think about AI (general attitudes,
- acceptance, percepetion, knowledge etc.). 
-
-> 8 September, Chapel, Buas <br>
-Student conference: AI Applied to Buas Domains. <br>
-
-
-
-| Time  | Speaker | Topic |
-| ------------- | ------------- |------------- |
-| 09:00  |------------------- | Walk-in|
-| 09:20  | Frank Peters | Kick-off|
-| 09:30  | Sergey Patsko | Designing Business cases for AI|
-| 10:30  |Joost de Kruif| The use of data in mobility |
-| 11:30  |-------------------| Coffee Break |
-| 12:00  |Bert Smit| Data and AI in Hotel & Facility Management |
-| 13:00  |-------------------| Lunch Break|
-| 14:00  |Carlos Santos| Virtual Humans & AI |
-| 15:30  |Marnix van Gisbergen| How AI changes the media landscape|
-| 16:00  |-------------------| Closing|
+**no conference this year**
 
 Use this week to perform a literature review and design hypotheses which you will then put
 to the test in the upcoming weeks. 
@@ -127,7 +93,7 @@ The knowledge modules linked to this phase are:
 
 - [ ] [Research Methods:](https://www.coursera.org/learn/research-methods){:target="_blank"} <br> Complete the first 3 week modules and take a screenshot of each completed quiz; your score does not count towards your final grade, and attach it to your learning log. Do the week 4 module on Thursday the 15th of September, reflect on your research design in your learning log in separate slide and iterate on it accordingly.
 - [ ] [Quantitative Methods:](https://www.coursera.org/learn/quantitative-methods){:target="_blank"} Complete the first 6 week modules and take a screenshot of each completed quiz; your score does not count towards your final grade, and attach it to your learning log. 
-- [ ] Qualitative Methods: Covered by a Guest Lecture by Shima Rezaei Rashnoodi on Monday Week 3 from 10:00 - 12:00; check your calendar for the location, and a workshop on Friday in datalab days in week 3. Attendance is mandatory and recorded. In case of absence, contact your mentor for a valid leave of absence and an alternative knowledge module.
+- [ ] Qualitative Methods: Covered by a Guest Lecture by Shima Rezaei Rashnoodi on Monday Week 3 from 10:00 - 12:00; check your calendar for the location, and a workshop on Friday in datalab days in week 3. Attendance is mandatory and recorded. In case of absence, contact your mentor for a valid leave of absence and an alternative knowledge module. 
 
 
 ### Week 5-6

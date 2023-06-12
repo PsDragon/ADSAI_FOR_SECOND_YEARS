@@ -103,6 +103,8 @@ The `env` variable represents the environment where we want to run our job. An e
 
 In a nutshell 🥜, this piece of code is defining a Command Job: it tells Azure ML what code to run, what inputs to provide, where to run the code (the compute target), and in what environment the code should be run. It also assigns a friendly name to the job for easy identification. The Command Job is not run immediately - it will be run later when we call `ml_client.create_or_update(job)`.
 
+The script that the command job will run is the `train.py` file in the `src/number_predictor` folder. You can find the script [here](https://github.com/Deanis/Example-App/blob/5e3a009d3c38998882f11935fce469ddd10b5d1c/src/number_predictor/train.py). Check it out and make sure you understand what the script does and the inputs it expects.
+
 ## Step 5: Submit the Job 🚀
 
 Once our command job is well-configured, it's time to submit the job.

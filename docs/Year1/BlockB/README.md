@@ -40,7 +40,6 @@ We start with the content data and then move on to the ratings data. You have al
 
 To understand what the ratings data measure, please read the [ratings data glossary](https://edubuas.sharepoint.com/:w:/t/2022-23BFAI1.P2-01ADSAI/Ebf8wQ7u3kFNt6207XGFzxcBc0Cw768ZzJf6mgfSHeYZGg?e=Luz5gh).
 
-Please click [here](https://adsai.buas.nl/Study%20Content/Programming/11.DataLabPR3.html#use-case-1-data-preparation-and-processing) for more details.
 
 ## Use-case 2: Linking Content Data to Ratings Data
 
@@ -128,7 +127,7 @@ Again, please summarize your main findings either in your notebook, the notes fi
 
 ## Use-case 4: Social Media Analysis
 
-In this use-case, we will use the social media data to understand how the shows are performing on social media. In particular, we will look at the number of tweets and the number of retweets for each show, and calculate twitter engagement for each show and fragment.
+In this use-case, we will use the social media data to understand how the shows are performing on social media. In particular, we will look at the number of tweets and the number of retweets for each show, and calculate twitter engagement for each show and fragment. Please note that this use-case is not mandatory for assessment.
 
 > The tweets are posted by [npo1](https://twitter.com/op1npo?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor); the broadcaster of the show Op1.
 
@@ -173,8 +172,6 @@ Well done! If you have come this far, you have now created the one (flat) file t
 :yellow_heart::raised_hands::dancer::snake::computer:
 
 ### Twitter Metric Analysis
-
-See [here](https://adsai.buas.nl/Study%20Content/Programming/12.Python%20for%20Society.html#twitters-metrics) for more information regarding twitter metrics.
 
 - [ ] calculate the twitter engagement for each show using the ```public.metrics```. 
 - [ ] visualize the top 5 shows based on twitter engagement.
@@ -225,8 +222,6 @@ If you seek a challenge (and a higher grade), you can:
 :yellow_heart::raised_hands::dancer::snake::computer:
 
 If you have come this far, you have now completed the entire creative brief and you are officially a data science ninja!! Congratulations! :tada::tada::tada:
-
-> if you still have time remaining, please have a look at the [Medal Challenges](https://adsai.buas.nl/Year1/BlockB/#medal-challenges).
 
 ## Use-case 6: Submission Checklist
 

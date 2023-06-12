@@ -46,13 +46,11 @@ Buas domains and guide stakeholders towards the best course of action regarding 
 
 In particular, you are expected to investigate the following questions:
 
-TODO: ADD RQs here.
+TODO: ADD  RQs here.
 
 ## Project timeline
 
-TODO: Convert to trello timeline and pretend you came up with it.
-<figure>
-    <img src="./images/phases.png"/>
+<img src="./images/phases.png"/>
 </figure>
 <br>
 

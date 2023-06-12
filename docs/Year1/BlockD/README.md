@@ -327,7 +327,7 @@ Same structure as week 5. Preferably, focussed mainly on data modelling evaluati
 The goal of the conference presentation is to create a good high-level understanding of you entire project, while allowing to go further in depth by alternating between pieces of evidence. You are free to use any of the tools taught during this curriculum or others; the goal is to tell a good story with your data. You can use a dashboard, a powerpoint, a combination, give a product demo and have some specs outline on the side. Whateven approach you choose; make sure you presentation adequately covers the following deliverables:
 - [ ] The AI Canvas for your project: how your project is going to create value?
 - [ ] The machine learning lifecycle: what did you build to create that value? Demonstrate the entire product, how it functions and keeps functioning.
-- [ ] ILO 3 - 7: How does the project achieve each group ILO? You can use the [assessment survey employed by staff](https://buas.eu.qualtrics.com/jfe/form/SV_08nFgP0EQcluqkC) as a lens to judge you meeting those points!
+- [ ] ILO 3 - 7: How does the project achieve each group ILO? You can use the [assessment survey employed by staff](https://buas.eu.qualtrics.com/jfe/form/SV_08nFgP0EQcluqkC) as a lens to judge you meeting those points! Password: Pass1
 
 Ofcourse you can present more, such as recommendations to the municipality, if you believe it to be relevant
 
@@ -347,7 +347,7 @@ During the conference:
 - [ ] You must have your QR codes clearly visible for both Assessment and Medal Voting
 
 QR Codes with surveys are dispensed for each group: 
-- [ ] [Assessment: password protected and used by staff only](https://buas.eu.qualtrics.com/jfe/form/SV_08nFgP0EQcluqkC), open version for you to test your project with; password: ThisIsAPassword
+- [ ] [Assessment: password protected and used by staff only](https://buas.eu.qualtrics.com/jfe/form/SV_08nFgP0EQcluqkC), open version for you to test your project with; password: Pass1
 - [ ] [Medals: everyone can vote once](https://buas.eu.qualtrics.com/jfe/form/SV_eS6WkqVZZthbmS2)
 
 Assessment

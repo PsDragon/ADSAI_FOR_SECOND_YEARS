@@ -45,6 +45,26 @@ We need to feed our service principal with our tenant ID, client ID, and client 
 ```python
 from azure.ml import MLClient
 from azure.identity import ClientSecretCredential
+from azureml.core.authentication import ServicePrincipalAuthentication
+
+subscription_id = "0a94de80-6d3b-49f2-b3e9-ec5818862801"
+resource_group = "buas-y2"
+workspace_name = "NLP-goblins"
+tenant_id = "0a33589b-0036-4fe8-a829-3ed0926af886"
+client_id = "a2230f31-0fda-428d-8c5c-ec79e91a49f5"
+client_secret = "aTw8Q~wmEvkNZcjcVOu.l1PL8KZ_sF~VJ3zvZc2b"
+
+service_principal = ServicePrincipalAuthentication(
+    tenant_id=tenant_id,
+    service_principal_id=client_id,
+    service_principal_password=client_secret,
+)
+ 
+workspace = Workspace(subscription_id=subscription_id,
+                      resource_group=resource_group,
+                      workspace_name=workspace_name,
+                      auth=service_principal
+                      )
 
 credential = ClientSecretCredential(tenant_id="<tenant-id>", 
                                     client_id="<client-id>", 

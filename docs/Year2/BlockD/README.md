@@ -139,7 +139,7 @@ This week you will be introduced to the concept of MLOps and the tools and techn
 - [Datalab 1: Project and Package Planning](https://adsai.buas.nl/Study%20Content/MLOps%20II/5.%20Datalab1.html)
 
 
-# Week 2-3 - Creating Production Ready Code (ILO 4)
+# Week 2-3 - Creating Production Ready Code (ILO 3)
 
 Over the next two weeks you will create production ready code. You will learn how to write clean, modular and well documented code. That conforms with industry best practices. You will also learn how to build and distribute Python packages, and how to use logging and testing to ensure that your code is robust and reliable.
 
@@ -156,7 +156,7 @@ Over the next two weeks you will create production ready code. You will learn ho
 - [Building Packages for Users - CLIs and APIs](../../Study%20Content/MLOps%20II/9.%20Package%20User%20Interfaces%20-%20CLI%20and%20API.html)
 - [Building and Distributing Python Packages](../../Study%20Content/MLOps%20II/10.%20Building%20and%20Distributing%20Python%20Packages.html) 
 
-# Week 4-5 - Data Pipelines and Model Training in the Cloud (ILO 5)
+# Week 4-5 - Data Pipelines and Model Training in the Cloud (ILO 4)
 
 Weeks 4 and 5 will focus on creating data pipelines and model training pipelines. You will create versioned models, data assets, and environments. You will also learn how to automate the model training process. 
 
@@ -177,7 +177,7 @@ Goals for this Sprint
 - [MLFlow](../../Study%20Content/MLOps%20II/16.%20MLFlow.html)
 
 
-# Week 6-7 - Model Deployment and Monitoring (ILO 6)
+# Week 6-7 - Model Deployment and Monitoring (ILO 5)
 
 Goals for this Sprint
 
@@ -198,7 +198,7 @@ Weeks 6 and 7 will focus on model deployment and monitoring. You will learn how 
 - [Advanced GitHub and CI/CT/CD](../../Study%20Content/MLOps%20II/19.%20Advanced%20GitHub%20Techniques.html)
 - [Azure Machine Learning IV - Monitoring and Automation](../../Study%20Content/MLOps%20II/19.%20Azure%20Machine%20Learning%20IV.html)
 
-# Week 8 - Testing and Evaluation (ILO 4-6)
+# Week 8 - Testing and Evaluation (ILO 3-5)
 
 Week 8 will focus on testing and evaluation. You will test your deployment and evaluate its performance. You will also create a demo of your model, and wrap up your project.
 

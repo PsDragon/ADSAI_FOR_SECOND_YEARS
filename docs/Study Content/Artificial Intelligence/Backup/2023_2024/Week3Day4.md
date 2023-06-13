@@ -6,10 +6,10 @@ sort: 14
 
 ### Week 3: Chapter overview
 
-I. __Taxonomy of AI II & State-of-the-art AI__ <br>
+I. Taxonomy of AI II & State-of-the-art AI <br>
 II. DataLab I: Creative Brief <br>
 III. Risks & Benefits of AI <br>
-IV. Python programming <br>
+IV. __Python programming__ <br>
 V. DataLab II: 'AI in Science Fiction' presentations <br>
 
 ### 1. Introduction 

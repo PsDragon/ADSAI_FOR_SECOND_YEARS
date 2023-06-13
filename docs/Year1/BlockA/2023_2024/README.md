@@ -6,7 +6,20 @@ Block A, focusses on the first stage of the *__CRISP-DM__* process, known as *__
 
 *Figure 1. CRISP DM phases.*
 
-During this phase, you will acquire the skills necessary to formulate a research question that can be addressed through data analysis. You will learn how to find, and collect appropriate data from relevant sources, explore and analyze the collected data, and visualize your findings effectively. By applying these techniques, you will be able to propose a solution to your research question, substantiated by sound arguments derived from your analysis. Finally, you will gain proficiency in presenting your findings to the client in a clear and concise manner.
+During this phase, you will acquire the skills necessary to formulate a research question that can be addressed through data analysis. You will learn how to find, and collect appropriate data from relevant sources, explore and analyze the collected data, and visualize your findings effectively using the programming language Python and the dashboarding tool Power BI. By doing so, you will be able to propose a solution to your research question, substantiated by sound arguments derived from your analysis. Finally, you will gain proficiency in presenting your findings to the client in a clear and concise manner.
+
+### Staff Members
+
+| Name   |  Availability |  Mentor Group | Email  | Knowledge Module(s)  |
+|---|---|---|---|---|
+| Dean van Aswegen (Lecturer), MSc. <img src="./DeanProfile.jpg" alt="Dean van Aswegen profile picture" width="200"/>| Mon, Tues, Wed, Thur, Fri  |  Block A, Group 1 (1FAI-01), Year 1 | aswegen.d@buas.nl | :heavy_check_mark: Introduction to Artificial Intelligence <br> :heavy_check_mark: Introduction to Python Programming <br> :heavy_check_mark: Introduction to Data Science <br>  | 
+| Alican Noyan (Lecturer), PhD.<img src="./AlicanProfile.jpg" alt="Alican Noyan profile picture" width="200"/>|  Mon, Wed, Thu, Fri  | Block A, Group 2 (1FAI-04), Year 1  |  noyan.a@buas.nl | :heavy_check_mark: Introduction to Artificial Intelligence <br> :heavy_check_mark: Introduction to Python Programming <br> :heavy_check_mark: Introduction to Data Science <br> |
+| Irene van Blerck (Lecturer), MSc. <img src="./IreneProfile.jpg" alt="Irene van Blerck profile picture" width="200"/>   |  Tue, Wed, Thu, Fri | Block A, Group 4 (1FAI-02), Year 1 |  blerck.i@buas.nl | :heavy_check_mark: Introduction to Artificial Intelligence <br> :heavy_check_mark: Introduction to Python Programming <br> :heavy_check_mark: Introduction to Data Science <br> |
+| Zhanna Kozlova (Lecturer), MA. <img src="./ZhannaProfile.jpg" alt="Zhanna Kozlova profile picture" width="200"/>  | Fri  |  Block A, Group 5 (1FAI-03), Year 1 | kozlova.z@buas.nl  | :heavy_check_mark: Introduction to Artificial Intelligence <br> :x: Introduction to Python Programming <br> :x: Introduction to Data Science <br> |  
+| Bert Heesakkers (Lecturer), MSc. <img src="./BertProfile.png" alt="Bert Heesakkers profile picture" width="200"/> | NA | Workshops | heesakkers.b@buas.nl | :heavy_check_mark: Introduction to Artificial Intelligence <br> :x: Introduction to Python Programming <br> :x: Introduction to Data Science <br> |
+| Frank Peters (Program manager), PhD. <img src="./FrankProfile.jpeg" alt="Frank Peters profile picture" width="200"/> | Mon, Tue, Wed, Thu |  NA | peters.f@buas.nl | NA |
+
+***
 
 ## Project Based Learning - Creative Brief
 
@@ -22,9 +35,11 @@ The objective is to *__develop an interactive dashboard utilizing your newly acq
 
 Good luck!
 
-## Timeline
+***
 
-The ADS&AI program is structured into 8-week blocks. On Monday, Wednesday and Thursday you work individually on the development of fundamental skills, which are needed to successfully complete the Creative brief. In *__DataLab__*, scheduled on the Tuesday's and Friday's, you apply your knowledge to the Creative Brief by completing a list of tasks. 
+## Project Based Learning - Knowledge Modules
+
+The ADS&AI program is structured into 8-week blocks. On Monday, Wednesday and Thursday you work individually on the development of fundamental skills, which are needed to successfully complete the Creative brief. In *__DataLab__* (Mandatory! See [DataLab Attendance & Preparation](ADD URL), for more information), scheduled on the Tuesday's and Friday's, you apply your knowledge to the Creative Brief by completing a list of tasks, which you can find [here](ADD URL). 
 
 The block is further divided into two phases, centered around three *__knowledge modules__*:
 
@@ -80,7 +95,9 @@ In DataLab 2, Week 7, you are expected to provide a live demo of your dashboard 
 
 TEXT (ALICAN)
 
-### Challenges 
+***
+
+## Project Based Learning - Medal Challenges 
 
 You are encouraged to get the best out of yourself. Therefore, within the ADS&AI program, we regularly allow you to push yourself further by giving you so-called bronze-silver-gold challenges. By achieving these, you can earn badges for your GitHub page, which mark excellent students: 
 
@@ -90,7 +107,7 @@ You are encouraged to get the best out of yourself. Therefore, within the ADS&AI
 
 ***
 
-## Project Timeline
+## Project Based Learning - Timeline
 
 ### Week 1: Introduction to Artificial Intelligence
 
@@ -230,54 +247,5 @@ TEXT (BRAM)
 
 #### Friday
 - []()
-
-
-***
-
-## General Information
-
-### Meet the Staff Members
-
-| Name   |  Availability |  Mentor Group | Email  | Subject  |
-|---|---|---|---|---|
-| Dean van Aswegen (Lecturer), MSc. <img src="./DeanProfile.jpg" alt="Dean van Aswegen profile picture" width="200"/>| Mon, Tues, Wed, Thur, Fri  |  Block A, Group 1 (1FAI-01), Year 1 | aswegen.d@buas.nl | Data Science and AI | 
-| Alican Noyan (Lecturer), PhD.<img src="./AlicanProfile.jpg" alt="Alican Noyan profile picture" width="200"/>|  Mon, Wed, Thu, Fri  | Block A, Group 2 (1FAI-04), Year 1  |  noyan.a@buas.nl | Data Science |
-| Irene van Blerck (Lecturer), MSc. <img src="./IreneProfile.jpg" alt="Irene van Blerck profile picture" width="200"/>   |  Tue, Wed, Thu, Fri | Block A, Group 4 (1FAI-02), Year 1 |  blerck.i@buas.nl | Responsible AI, Computer vision |
-| Bram Heijligers (Lecturer), MSc. <img src="./BramProfile.jpg" alt="Bram Heijligers profile picture" width="200"/> |  Wed, Thur, Fri | Block A, Group 5 (1FAI-03), Year 1  | heijligers.b@buas.nl | Data Science |
-| Zhanna Kozlova (Lecturer), MA. <img src="./ZhannaProfile.jpg" alt="Zhanna Kozlova profile picture" width="200"/>  |   |  Block A, Group 5 (1FAI-03), Year 1 | kozlova.z@buas.nl  |   
-| Bert Heesakkers (Lecturer), MSc. <img src="./BertProfile.png" alt="Bert Heesakkers profile picture" width="200"/> | NA | Workshops | heesakkers.b@buas.nl |   |
-| Frank Peters (Program manager), PhD. <img src="./FrankProfile.jpeg" alt="Frank Peters profile picture" width="200"/> | Mon, Tue, Wed, Thu |  NA | peters.f@buas.nl |   |
-
-### DataLab Attendance & Preparation
-
-Regular attendance and punctuality in every DataLab is required of each student (by default from 9:00 to 17:00). A student who has incurred absences of more than two DataLab sessions without a valid reason throughout the block shall not be given credit for the ILO 1.3.
-
-A student is considered late when they are not yet present during the Standup session, and until the fifteenth minute from the start of DataLab (9:15) Two instances of lateness are counted as one absence.
-
-In case of absence, the student needs to fill in the 'DataLab Absence' [form](https://adsai.buas.nl/Contact%20Us/DataLabAttendance.html) in a timely manner (before 9:00), and subsequently proposes and completes activities that are acceptable alternatives to the in-class learning activities. For more details, contact your mentor.
-
-*__Good__* excuses to miss DataLab:
-
-- Personal illness
-- Family emergency
-- Death of a loved one
-- Medical appointment
-- Public transportation issue
-- Car (or Other) accident
-- Etc.
-
-*__Bad__* excuses to miss DataLab:
-
-- Oversleeping
-- Being hangover
-- Having no babysitter for your rabbit, dog, cat, etc.
-- Boy band breakups and/or related drama
-- A birthday party for a four-legged pal
-- Having no clean underwear to put on
-- Going to the beach because a doctor said that you needed more vitamin D
-- The universe telling you to take a day off
-- Etc.
-
-The DataLab preparation exercises should be uploaded to Brightspace before the start of the corresponding DataLab session.
 
 ***

@@ -203,14 +203,27 @@ First, we'll need an image to test. For this example, let's assume we have a 28x
 Here's how we can load the image and convert it into the base64-encoded text format that our endpoint expects:
 
 ```python
-import base64
 from PIL import Image
+import base64
+import io
 
-# Open the image, convert it to grayscale, and resize it
-image = Image.open('test_image.png')
-data = np.array(image)
-# Encode the image to base64
-base64_image = base64.b64encode(data.tobytes()).decode('utf-8')
+# Open the image file
+img = Image.open('./data/test_image.png')
+# Create a BytesIO object
+buffered = io.BytesIO()
+# Save the image as jpeg to the BytesIO object
+img.save(buffered, format='png')
+# Get the byte value of the BytesIO object
+img_byte = buffered.getvalue()
+# Encode the byte to base64
+img_base64 = base64.b64encode(img_byte)
+# If you want to decode to string for storing in json or db
+img_base64_str = img_base64.decode()
+
+# See what the base64 encoded image looks like
+print(f"img_base64_str: {img_base64_str}")
+
+base64_image = img_base64_str
 ```
 
 Now, we can send the HTTP request to our endpoint. We'll need to include our base64-encoded image in the body of the POST request:

@@ -59,37 +59,14 @@ In DataLab II, Week 3, you are required to give a 7-minute presentation, where y
 
 ### 2. Business Understanding & Reporting | Case Presentation (Week 4-7)
 
-To change the world, we must first be able to measure it. Measuring and quantifying what matters is a crucial component of evaluating progress. In September 2015, all countries agreed to adopt specific goals as targets or indicators for global development. Collectively, these goals are known as the United Nations Sustainable Development Goals (SDGs).
+To change the world, we must first be able to measure it. Measuring and quantifying what matters is a crucial component of evaluating progress. In September 2015, all countries agreed to adopt specific goals as targets or indicators for global development. Collectively, these goals are known as the United Nations Sustainable Development Goals (SDGs). Many institutions, organizations and companies have decided to adopt these goals. One of them is BUas, it's aim is to become more sustainable as well; but how?
 
-The SGD Hub@BUAs, hereafter the client, has approached you as an aspiring – data professional – to track and explore the global and country-level progress towards the Sustainable Development Goals:
+To figure this out, the SGD HUB of BUas, referred to as the client, has approached you as an aspiring data professional with an important task: to track and explore global, country-level or BUas-level progress towards the Sustainable Development Goals (SDGs). In this project, you will be involved in a series of tasks aimed at leveraging data to gain insights and provide solutions related to sustainable development. Your responsibilities include framing a data-driven research question, gathering accurate data from the Sustainable Development Goals databank, conducting exploratory data analysis, analyzing the data and visualizing the findings, and ultimately presenting your conclusions to the client. 
 
-<!-- convert to short description of what the students need to do: above
+Throughout this process, you will be applying concepts and tools learned in workshops, such as SDGTracker for problem formulation and Power BI for visualization. The culmination of your efforts will be the presentation of your findings through an intuitive user interface, with a live demonstration of your dashboard to the client, staff, and peers. This presentation will also include an opportunity for everyone to vote on the best dashboard. Let's delve into the details of each step and embark on this meaningful journey towards understanding and promoting sustainable development.
 
-Below: convert to use-cases page using Irene's template -->
-__1. Define a data-driven research question__
+This individual project [consists of the following steps]().
 
-You are expected to frame a data-driven research question related to a sustainable development goal. Questions can range from simple (e.g., how country X is performing on indicator Y) to complex (e.g., how country X is performing on indicator Y, and what are the key variables related to Y). Use SDGTracker to help formulate your problem statement.
-
-__2. Gather accurate data from a relevant source__
-
-You are expected to use the Sustainable Development Goals databank in order to gather the appropriate dataset to answer your research question. Use SDGDataBank to collect the relevant data.
-
-__3. Explore your data__
-
-You are expected to apply Exploratory Data Analysis (EDA) concepts learned in the workshops to your dataset.
-
-__4. Analyse your data and visualize your findings__
-
-You are expected to apply concepts learned in the workshops and [generate appropriate visualisations](https://adsai.buas.nl/Study%20Content/Business%20Intelligence/images/chart_suggestion.jpg), which support your arguments towards answering the research question, in Power BI. Furthermore, you are expected to calculate and interpret at least 1 measure of association such as a correlation coefficient and it's effect size related to your research question.
-
-__5. Provide a solution to your research question with supporting arguments (based on your analysis)__
-
-You are expected to answer your research question with supporting arguments based on the work conducted in the previous DataLabs.
-
-__6. Present your findings to the client__
-
-Presenting your findings is important and requires you to think of an [intuitive user design (guidelines)](https://www.nngroup.com/articles/principles-visual-design/#:~:text=Summary%3A%20The%20principles%20of%20scale,increase%20usability%20when%20applied%20correctly.) to effectively convey your findings to the client. 
-In DataLab 2, Week 7, you are expected to provide a live demo of your dashboard to the client, staff and your peers. Students, staff, and the client will be allowed to vote for the best dashboard.
 
 ### 3. Introduction to Python programming (Weeks 1-8)
 
@@ -104,6 +81,10 @@ You are encouraged to get the best out of yourself. Therefore, within the ADS&AI
 ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=bronzemedal) ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=silvermedal) ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=goldmedal)
 
  <img src="./ChallengesBlockA.png" alt="Challenges, Block A" width="700"/> 
+
+1. Bronze ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=bronzemedal) : 
+2. Silver ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=silvermedal) : Do a linear/multiple linear regression analysis in python.
+3. Gold ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=goldmedal) : Come up with a (data-driven) good policy measure to help BUas achieve the SDG Goals
 
 ***
 

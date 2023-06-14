@@ -95,41 +95,197 @@ TEXT (ALICAN)
 
 ETC. 
 
-## Data science?
+## Data science
+To realize the project, the following tasks need to be completed:
 
-TEXT (ALICAN)
+| Task | Description |
+| --- | --- |
+| 4.1 Define a data-driven research question | You are expected to frame a data-driven research question related to a sustainable development goal. Questions can range from simple (e.g., how country X is performing on indicator Y) to complex (e.g., how country X is performing on indicator Y, and what are the key variables related to Y). Use SDGTracker to help formulate your problem statement. |
+| 4.2 Gather accurate data from a relevant source | You are expected to use the Sustainable Development Goals databank in order to gather the appropriate dataset to answer your research question. Use SDGDataBank to collect the relevant data. |
+| 4.3 Explore your data | You are expected to apply Exploratory Data Analysis (EDA) concepts learned in the workshops to your dataset. |
+| 4.4 Analyse your data and visualize your findings | You are expected to apply concepts learned in the workshops and [generate appropriate visualisations](https://adsai.buas.nl/Study%20Content/Business%20Intelligence/images/chart_suggestion.jpg), which support your arguments towards answering the research question, in Power BI. Furthermore, you are expected to calculate and interpret at least 1 measure of association such as a correlation coefficient and it's effect size related to your research question. |
+| 4.5 Supplement your solution to your research question with supporting arguments | You are expected to answer your research question with supporting arguments based on your analysis and the interpretation of your results to create a considerate picture of your research and provide recommendations for next steps. |
+| 4.6 Present your findings to the client | Presenting your findings is important and requires you to think of an [intuitive user design (guidelines)](https://www.nngroup.com/articles/principles-visual-design/#:~:text=Summary%3A%20The%20principles%20of%20scale,increase%20usability%20when%20applied%20correctly.) to effectively convey your findings to the client. In DataLab 2, Week 7, you are expected to provide a live demo of your dashboard to the client, staff and your peers. Students, staff, and the client will be allowed to vote for the best dashboard. |
 
-## Task ...: 
 
-For this task, which is related to the '...' criteria of ILO ..., you will be asked to ... ETC. 
 
-TEXT (ALICAN)
+## Task 4.1 Define a data-driven research question: 
+
+For this task, which is related to the 'Poor' criteria of ILO 4.2, you are expected to frame a data-driven research question related to a sustainable development goal. Questions can range from simple (e.g., how country X is performing on indicator Y) to complex (e.g., how country X is performing on indicator Y, and what are the key variables related to Y). Use SDGTracker to help formulate your problem statement. 
+
+Links to relevant materials:
+- [link]
+
+### To solve this task, you will need to use Power-BI to:
+
+:point_right: __TEXT (ALICAN)__
+
+
+- [ ] Pick an SDG Indicator and subsequently a topic
+- [ ] Research your topic and refer your sources
+- [ ] Find/select relevant data
+- [ ] Formulate a problem statement
+- [ ] Formulate a research question
+- [ ] Finalize it into a coherrent introduction with a closing statement
+
+Writing a coherent introduction section, ask yourself the following questions:
+- What are the important factors(or variables) for the reader to know? 
+- What is the context is important to understand the problem?
+
+Finish your introduction with a strong closing statement/justification by answering the folowing questions:
+ - What is the problem? 
+ - Why is it a problem? 
+ - How is your question going to provide insight in into the problem?
+
+## Task 4.2 Gather accurate data from a relevant source: 
+
+For this task, which is related to the 'Poor' and 'Insufficient' criteria of ILO 4.2, you are expected to use the Sustainable Development Goals databank in order to gather the appropriate dataset to answer your research question. Use SDGDataBank to collect the relevant data and import it in a flat file format. 
+
+
+Links to relevant materials:
+- [link]
+
+### To solve this task, you will need to use Power-BI to:
+
+:point_right: __TEXT (ALICAN)__
+
+
+- [ ] Data Selection
+- [ ] Data Cleaning and Transformation
+- [ ] Data Analysis
+
+### Data Selection:
+
+Demonstrate your understanding by answering the following questions using your dashboard: 
+
+- Which data is exist in the world?
+
+- Which data is needed?
+
+- How the data can be aquired?
+
+
+### Data Cleaning & Transformation:
+
+Demonstrate you can apply your understanding by answering the following questions using your dashboard: 
+
+- Which data needs to be cleaned an why?
+
+- How did you clean your data?
+
+- Which data transformation steps do you need to take?
+
+
+
+
+## Task 4.3 Explore your data: 
+
+For this task, which is related to the 'Insufficient' criteria of ILO 4.1, and to the 'Sufficient' and 'Good' criteria of ILO 4.2; you are expected to apply Exploratory Data Analysis (EDA) concepts learned in the workshops to your dataset to create informative data visualisations, summary statistics and tables based on your EDA.
+
+Links to relevant materials:
+- [link]
+
+### To solve this task, you will need to use Power-BI to:
+
+:point_right: __TEXT (ALICAN)__
+
+
+- [ ] Do an Exploratory Data Analysis; Evaluate your data by answering the following questions using your dashboard: 
+1. What does the data distribution tell you for each variable of interest?
+2. What do the summary statistics tell for each variable of interest?
+3. Which data visualisation method is most appropriate?
+
+
+- [ ] Create [generate appropriate data visualisations](https://adsai.buas.nl/Study%20Content/Business%20Intelligence/images/chart_suggestion.jpg) and tables which are:
+
+1. Informative: of the data (e.g. distribution)
+2. Meaningful: relevant to the data-driven research question
+3. Unbiased: towards your own expectations
+4. Visually clear & appealing
+
+- [ ]Subsequently, explain the visualisations and tables where needed. Make sure they have appropriate:
+1. legends;
+2. labels;
+3. comments or text explanations.
+
+
+
+## Task 4.4 Analyse your data and visualize your findings: 
+
+For this task, which is related to the 'Sufficient' criteria of ILO 4.1, and to the 'Sufficient' and 'Good' criteria of ILO 4.2; you are expected to calculate and interpret at least 1 measure of association such as a correlation coefficient and it's effect size related to your research question. Furthermore, you are expected to apply concepts learned in the workshops and [generate appropriate visualisations](https://adsai.buas.nl/Study%20Content/Business%20Intelligence/images/chart_suggestion.jpg), which support your arguments towards answering the research question, in Power BI.  
+
+Links to relevant materials:
+- [link]
 
 ### To solve this task, you will need to:
 
 :point_right: __TEXT (ALICAN)__
 
 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Calculate and interpret a measures of association (such as a correlation coefficient)
+- [ ] Create appropriate visualisations to answer your research question in Power Bi
 
-## Task ...: 
 
-For this task, which is related to the '...' criteria of ILO ..., you will be asked to ... ETC. 
+
+## Task 4.5 Supplement your solution to your research question with supporting arguments: 
+
+For this task, which is related to the '...' criteria of ILO ..., you are expected to answer your research question with supporting arguments based on your analysis and the interpretation of your results to create a considerate picture of your research and provide recommendations for next steps. |
+
+
+### To solve this task, you will need to use power BI to illustrate:
+
+:point_right: __TEXT (ALICAN)__
+
+- [ ] Considerations in interpreting the data
+- [ ] Recommendations for future analyses
+
+
+### Considerations in interpreting the data:
+Meet the following criteria:
+1. Communicate an unbiased understanding of possible considerations and limitations of the analysis(e.g. Missing data, distribution, collection concerns, domain problems etc.)
+2. Interpret findings and explains possible considerations with domain knowledge
+
+
+
+ILO: 4.2 (sufficient, good, excellent)
+
+### Recommendations for future analyses & data-driven decisions:
+Meet the following criteria:
+1. Form an unbiased judgement on the considerations and interpretation  
+2. Propose meaningful future analyses (e.g. correlational or linear regression) for your problem statement/domain; next steps
+3. Consider the CRISP-DM, frame your proposed steps in the context of the framework; how would a loop through the CRISP-DM be filled in given your next steps?
+
+
+
+ILO: 4.2 (sufficient, good, excellent), ILO 4.1 (sufficient, excellent)
+
+
+
+
+## Task 4.6 Present your findings to the client: 
+
+For this task, which is related to the 'Good' criteria of ILO 4.1, and to the 'Sufficient', 'Good', 'Excellent' criteria of ILO 4.2; you will be asked to present your findings to the client during a data science conference. Presenting your findings is important and requires you to think of an [intuitive user design (guidelines)](https://www.nngroup.com/articles/principles-visual-design/#:~:text=Summary%3A%20The%20principles%20of%20scale,increase%20usability%20when%20applied%20correctly.) to effectively convey your findings to the client. In DataLab 2, Week 8, you are expected to provide a live demo of your dashboard to the client, staff and your peers. Students, staff, and the client will be allowed to vote for the best dashboard. |
 
 TEXT (ALICAN)
 
 ### To solve this task, you will need to:
+- [ ] Write a conclusion, which is a clear summary of the following:
+1. A summary of the problem and research question 
+2. The findings of the EDA
+3. Your interpretation of the EDA
+4. Considerations in your EDA/the data
+5. Next steps for analysis; next CRISP-DM cycle
 
 :point_right: __TEXT (ALICAN)__
 
+Look at your dashboard and reconsider it's design; how it conveys information, and reconsider:
 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Is the story I'm telling using my data and findings clear and compelling?
+- [ ] Is the user experience of my dashboard fitting for the data story I'm trying to convey?
 
-ETC. 
+If not, which techniques can I use to achieve this end? - Note down how you iterate in your learning log!
+
+- [ ] Finally, consider the CRISM-DM project lifecycle and how your project would progress given that model.
 
 Are you finished with all the tasks, and still have time remaining, please have a look at the Medal Challenges! 
 

@@ -33,26 +33,27 @@ COPY . /app
 # Install poetry
 RUN pip install poetry
 
-# Install dependencies using poetry
-RUN poetry config virtualenvs.create false && poetry install
+# Install only runtime dependencies using poetry
+RUN poetry config virtualenvs.create false && poetry install --only main
 
-# Make port 80 available to the world outside this container
-EXPOSE 80
+# Install additional dependencies
+# This is needed for the FastAPI app to accept file uploads
+RUN pip install python-multipart
 
-# Run app.py when the container launches
-CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "80"]
+# Set the startup command to run your API
+ENTRYPOINT ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "80"]
 ```	
 
 ## Step 3: Build the Container Image 🏗️
 
 ```bash
-docker build -t test-api-image .
+docker build -t docker_username/test-api-image .
 ```
 
 ## Step 4: Run the Container Image and Test the API Locally 🧪
 
 ```bash
-docker run -p 80:80 test-api-image
+docker run -p 80:80 docker_user_name/test-api-image
 ```
 
 ## Step 5: Deploy the Container Image to ACI 🚀
@@ -96,4 +97,38 @@ container_group = ContainerGroup(location='westeurope', containers=[container], 
 # Create the container group
 container_client.container_groups.begin_create_or_update(RESOURCE_GROUP, CONTAINER_NAME, container_group)
 ```
+
+## Step 6: Test the API in ACI 🧪
+
+First you can navigate to the Azure portal and find the IP address of your container. The first test will be to open the FastAPI docs page in your browser. You can do this by navigating to the following URL in your browser.
+
+```bash
+http://<container_IP>:80/docs
+```
+Here you can test the API as you did with the local version of the API.
+
+Then you can use the following code to test the API.
+
+```python
+import requests
+
+# The URL of the API
+container_IP = 'IP address of your container' # Found in the Azure portal
+api_url = f'http://{container_IP}:80/'
+endpoint = 'predict_file/'
+url = api_url + endpoint
+
+# Load the image file
+image_file = open('./data/4.png', 'rb')
+
+# Create the payload
+payload = {'image_file': image_file}
+
+# Send the POST request
+response = requests.post(url, files=payload)
+
+# Print the response
+print(response.json())
+```
+
 

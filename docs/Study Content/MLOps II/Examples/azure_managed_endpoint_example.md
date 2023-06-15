@@ -1,6 +1,5 @@
 # A Beginner's Guide to Azure ML Managed Endpoints 🔚
 
-
 Hello, future Data Scientist! 👋 In this tutorial, we'll walk you through deploying a registered model to a managed machine learning endpoint using the Azure ML Python SDK v2. Think of this as turning your model into an online service. This service can receive input data, process it, and return predictions, all in real-time through a REST API. How cool is that? 🚀
 
 This tutorial is inspired by this [Microsoft Learn tutorial](https://learn.microsoft.com/en-us/azure/machine-learning/how-to-deploy-online-endpoints?view=azureml-api-2&tabs=python), which we recommend for a deeper understanding. But, for now, grab your ☕️ and let's get started! 
@@ -176,6 +175,8 @@ blue_deployment = ManagedOnlineDeployment(
     instance_type="Standard_D2_v2",
     instance_count=1,
 )
+
+ml_client.begin_create_or_update(blue_deployment).result()
 ```
 
 - `name` is the name we're giving to this particular deployment. This should be unique within the endpoint.
@@ -187,6 +188,14 @@ blue_deployment = ManagedOnlineDeployment(
 - `instance_count` is the number of instances to use for this deployment. You might want to use more than one if you expect a high volume of requests and need to scale out to handle it. This can be increased or decreased later if needed.
 
 After we've defined our deployment, we then ask Azure ML to create or update the deployment using the `ml_client.begin_create_or_update(blue_deployment).result()` line of code. This is similar to the `begin_create_or_update()` method we used for the endpoint. It starts the process of creating or updating the deployment on Azure ML, waits for the operation to complete, and then returns the result. 
+
+Finally, we need to assign traffic to our deployment, as by defualt it will not be receiving any traffic. 
+
+```python
+endpoint = ml_client.online_endpoints.get(name=endpoint_name)
+# Update the traffic distribution
+endpoint.traffic["blue"] = 100
+```
 
 So in simple terms, we're telling Azure ML how to set up our model to serve predictions, and then we're asking it to go ahead and make it happen! 🚀
 

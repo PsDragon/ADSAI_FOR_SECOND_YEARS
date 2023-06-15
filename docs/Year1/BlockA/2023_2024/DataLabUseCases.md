@@ -3,13 +3,13 @@ sort: 1
 ---
 # DataLab: Creative Brief
 
-TEXT (IRENE)
+In the DataLab, you will work on tasks that align with the ILO criteria. By successfully completing these tasks, you will produce a set of deliverables that will serve as tangible proof of meeting the criteria.
 
-Below, you will find a table displaying the tasks. their ILO mapping, and descriptions.
+Below, you will find a table displaying the tasks. their ILO mapping, and description:
 
-| Task | ILO |  Description |
-| --- | --- |--- |
-| 1 Presentation on AI in Science Fiction | 3.1 | Identify, and analyze AI applications in fictional and real-life (business) scenarios by examining and applying relevant concepts from AI literature and theory. |
+| Task | ILO & Knowledge Module |  Description |
+| --- | --- |--- | 
+| 1 Presentation on AI in Science Fiction | 3.1 Introduction to Artificial Intelligence | Identify, and analyze AI applications in fictional and real-life (business) scenarios by examining and applying relevant concepts from AI literature and theory. |
 | 2 Define a data-driven research question | | You are expected to frame a data-driven research question related to a sustainable development goal. Questions can range from simple (e.g., how country X is performing on indicator Y) to complex (e.g., how country X is performing on indicator Y, and what are the key variables related to Y). Use SDGTracker to help formulate your problem statement. |
 | 3 Gather accurate data from a relevant source | | You are expected to use the Sustainable Development Goals databank in order to gather the appropriate dataset to answer your research question. Use SDGDataBank to collect the relevant data. |
 | 4 Explore your data | | You are expected to apply Exploratory Data Analysis (EDA) concepts learned in the workshops to your dataset. |
@@ -18,6 +18,12 @@ Below, you will find a table displaying the tasks. their ILO mapping, and descri
 | 7 Present your findings to the client | | Presenting your findings is important and requires you to think of an [intuitive user design (guidelines)](https://www.nngroup.com/articles/principles-visual-design/#:~:text=Summary%3A%20The%20principles%20of%20scale,increase%20usability%20when%20applied%20correctly.) to effectively convey your findings to the client. In DataLab 2, Week 7, you are expected to provide a live demo of your dashboard to the client, staff and your peers. Students, staff, and the client will be allowed to vote for the best dashboard. |
 
 :bell: Before we start, please make sure you have read the sections on Deliverables and Plagiarism you can find in the bottom of this page.
+
+Let us start with the first DataLab task... 
+
+<iframe src="https://giphy.com/embed/JIX9t2j0ZTN9S" width="240" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/JIX9t2j0ZTN9S"></a></p>
+
+*Why a picture of a cat? Well, why not?*
 
 ## Task 1: Presentation on AI in Science Fiction
 
@@ -34,7 +40,7 @@ For this task, which is related to ILO 3.1, you will be asked to give a 7-minute
 
 :point_right: __Provide one example of an AI application within a real-life (business) setting that is related to your chosen AI topic__
 
-For instance, let's say the chosen AI topic is 'Natural Language Processing (NLP)'. 
+For instance, let us say the chosen AI topic is 'Natural Language Processing (NLP)'. 
 
 - [ ] Look for case studies, articles, or reports that highlight the successful implementation of NLP in a business context. This could include applications such as chatbots, sentiment analysis, or language translation. 
 
@@ -45,12 +51,32 @@ For instance, let's say the chosen AI topic is 'Natural Language Processing (NLP
 
 :point_right: __Evaluate the technical feasibility of the AI topic by critically assessing its application within a real-life (business) setting__
 
-- [ ] Find out what the relevant AI literature says about the technical feasibility of your chosen AI topic. For example, what are the limitations of the AI topic....
-- [ ] TEXT (IRENE)
+- [ ] Learn as much about your chosen AI topic as possible. This includes its current capabilities, its limitations, and the technological advancements it might require to function effectively in your chosen setting.
+
+:bell: Two Minute Papers is a great way to get a quick overview of the state-of-the-art AI research. Check out the [Two Minute Papers YouTube channel](https://www.youtube.com/user/keeroyz) for inspiration.
+
+- [ ] Assess what kind of infrastructure would be needed to support this AI application. Consider factors like data storage, computational resources, necessary hardware, network capabilities, and software compatibility. If the infrastructure needs are too high or expensive, the application may not be technically feasible.
+- [ ] Consider the level of technical expertise required to implement and maintain the AI technology. This involves not just the initial development and deployment, but also ongoing support, troubleshooting, and potential updates. If there is a shortage of professionals skilled in this specific AI technology, it could hinder the feasibility.
+- [ ] Think about how well this AI technology could integrate with existing systems in the chosen business setting. If the integration process would be too complex or disruptive, this could affect the feasibility of the AI technology.
+- [ ] Examine how reliable the AI technology is. Is it consistent in its operations? How well does it perform under different conditions? Unreliable or underperforming technology could lead to issues in a real-life business setting.
+- [ ] Take into account the costs of developing, implementing, maintaining, and potentially upgrading the AI technology. These costs should be weighed against the projected benefits and returns the technology is expected to provide. For inspiration, check out the UPenn blog post [The hidden costs of AI: Impending energy and resource strain](https://penntoday.upenn.edu/news/hidden-costs-ai-impending-energy-and-resource-strain)
 
 :point_right: __Articulate the potential ethical and/or legal consequences of implementing the chosen AI topic in a real-life (business) setting__
 
-- [ ] TEXT
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JHU77dRMRVg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+*Video 1. How the AI revolution disrupts societies.*
+
+- [ ] Identify the potential ethical issues related to your chosen AI application. Some possible ethical issues could include bias in decision-making, privacy concerns, transparency in how the AI reaches its decisions, and the potential for [job loss](https://link.springer.com/article/10.1007/s10551-023-05339-7) due to automation.
+
+AND/OR
+
+- [ ] Identify the potential legal issues related to your chosen AI application. This could involve understanding the various laws and regulations related to data protection, privacy, intellectual property, and non-discrimination that are applicable in the jurisdiction(s) where your AI application will be used. Within an EU/Dutch context, you could consider the following laws and regulations:
+
+    - General Data Protection Regulation (GDPR): This EU regulation protects the privacy and personal data of EU citizens. It requires organizations to inform users about how their data is used, enables users to access their data, and allows them to correct or delete their data. This applies even if your organization isn't based in the EU, but handles EU citizens' data.
+    - Dutch Copyright Act (i.e., Auteurswet): If your AI application creates new content or uses existing copyrighted material, this law is relevant. The Dutch Copyright Act protects the rights of authors of literary, scientific, and artistic works.
+    - Dutch Telecommunications Act (i.e., Telecommunicatiewet): If your AI application involves the processing of traffic or location data, the use of cookies, or direct marketing activities, you should review the relevant provisions in the Telecommunications Act.
+    - Sector-Specific Regulations: Just like everywhere else, sector-specific regulations may apply. If your AI is used in healthcare, for example, you need to comply with the Dutch Medical Treatment Contracts Act (WGBO) and the Dutch Medical Devices Act (i.e., Wet medische hulpmiddelen).
 
 ## Task ...: 
 

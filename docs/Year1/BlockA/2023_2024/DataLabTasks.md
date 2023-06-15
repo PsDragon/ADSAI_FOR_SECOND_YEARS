@@ -51,6 +51,13 @@ For instance, let us say the chosen AI topic is 'Natural Language Processing (NL
 
 :point_right: __Evaluate the technical feasibility of the AI topic by critically assessing its application within a real-life (business) setting__
 
+Basically, we will try to answer the following question, keeping our chosen AI topic in mind:
+
+<video src="./queen.mp4" controls="controls" style="max-width: 365px;">
+</video>
+
+Step-by-step, this means we need to:
+
 - [ ] Learn as much about your chosen AI topic as possible. This includes its current capabilities, its limitations, and the technological advancements it might require to function effectively in your chosen setting.
 
 :bell: Two Minute Papers is a great way to get a quick overview of the state-of-the-art AI research. Check out the [Two Minute Papers YouTube channel](https://www.youtube.com/user/keeroyz) for inspiration.

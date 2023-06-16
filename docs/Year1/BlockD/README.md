@@ -357,7 +357,7 @@ QR Codes with surveys are dispensed for each group:
 
 
 ## Friday: 
-- [Recorded Project Retrospectives](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/7.ProjectRetrospective.html) with Mentor: Aim for an hour, max duration of 1,5 hours total!
+- [Recorded Project Retrospective](https://adsai.buas.nl/Study%20Content/Agile%20Project%20Management/7.ProjectRetrospective.html) with Mentor: Aim for an hour, max duration of 1,5 hours total!
 - **14:30- 17:00 @ Fe1.018**: Final Client Presentations - Top projects are presented to the Municipality of Breda.
 
 

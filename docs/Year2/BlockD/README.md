@@ -193,9 +193,9 @@ Weeks 6 and 7 will focus on model deployment and monitoring. You will learn how 
 - [ML Application Deployment Options and Strategies](../../Study%20Content/MLOps%20II/17.%20Deployment%20Options%20and%20Strategies.html)
 - [Application Programming Interfaces (APIs)](../../Study%20Content/MLOps%20II/14.%20Application%20Programming%20Interfaces%20-%20APIs.html)
 - [Azure Machine Learning III - Deployment](../../Study%20Content/MLOps%20II/18.%20Azure%20Machine%20Learning%20III.html)
+- [Advanced GitHub and CI/CT/CD](../../Study%20Content/MLOps%20II/19.%20Advanced%20GitHub%20Techniques.html)
 
 🌟 Coming Soon:
-- [Advanced GitHub and CI/CT/CD](../../Study%20Content/MLOps%20II/19.%20Advanced%20GitHub%20Techniques.html)
 - [Azure Machine Learning IV - Monitoring and Automation](../../Study%20Content/MLOps%20II/19.%20Azure%20Machine%20Learning%20IV.html)
 
 # Week 8 - Testing and Evaluation (ILO 3-5)

@@ -46,7 +46,7 @@ The block is further divided into two phases, centered around three *__knowledge
 - Introduction to Data Science (BRAM, NEEDs TO BE CHANGED?)
 - Introduction to Python programming (ALICAN, NEEDS TO BE CHANGED?)
 
-<img src="./BlockAFigure.png" alt="Block A, Year 1, Overview" width="600"/>
+<img src="./TimelineY1BlockA.png" alt="Block A, Year 1, Overview" width="1000"/>
 
 *Figure 3. Overview Block A, Year 1.*
 
@@ -79,10 +79,6 @@ You are encouraged to get the best out of yourself. Therefore, within the ADS&AI
 ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=bronzemedal) ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=silvermedal) ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=goldmedal)
 
  <img src="./ChallengesBlockA.png" alt="Challenges, Block A" width="700"/> 
-
-1. Bronze ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=bronzemedal) : 
-2. Silver ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=silvermedal) : Do a linear/multiple linear regression analysis in python.
-3. Gold ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=goldmedal) : Come up with a (data-driven) good policy measure to help BUas achieve the SDG Goals
 
 ***
 

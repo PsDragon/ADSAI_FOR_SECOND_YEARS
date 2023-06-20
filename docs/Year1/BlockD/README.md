@@ -353,7 +353,7 @@ QR Codes with surveys are dispensed for each group:
 
 
 **16:00 Onwards @ Innovation Square**: Free drinks!
-- You can leave if after this if you want to!
+- You can leave after this if you want to!
 
 
 ## Friday: 

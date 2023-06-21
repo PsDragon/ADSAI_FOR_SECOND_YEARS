@@ -149,7 +149,7 @@ train_component = command(
                         },
                         outputs=dict(model=Output(type="uri_folder", mode="rw_mount")),
                         code=component_path,
-                        command="python train.py --use-uri --data-path ${{inputs.data}} --model-path ${{outputs.model}}",
+                        command="python train.py --use-uri --data-path {% raw %}${{inputs.data}}{% endraw %} --model-path {% raw %}${{outputs.model}}{% endraw %}",
                         environment=env,
                         #compute_target=compute_target.name,
                     )

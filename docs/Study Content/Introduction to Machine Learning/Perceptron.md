@@ -67,5 +67,10 @@ __3c__  Write down the mathematical equation that represents the decision-bounda
 
 __3d__ After completing the Codecademy workshop, and the perceptron tutorial by Pablo Caceres, would you provide the same answer to exercise 1b? Explain your answer.
 
+## Next up!
+Coming Datalab we will reflect on the perceptron again and give you an opportunity to ask any questions you might have.
+
+In Datalab, we will apply the perceptron algorithm to the Oosterhout dataset in the context of our problem statement!
+
 ## Resources
 - [Codecademy](https://www.codecademy.com/learn/machine-learning)

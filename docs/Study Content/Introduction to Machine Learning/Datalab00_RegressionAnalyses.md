@@ -1,5 +1,5 @@
 ---
-sort: 5
+sort: 3
 ---
 
 # Datalab 00: Regression Algorithms
@@ -10,38 +10,26 @@ We start with the Yelp Regression mini-project from Codecademy to put the knowle
 1. Create an appropriate multiple regression model for a given research question.
 
 Table of contents:
-0. Stand-up: 0.5 hours
-1. Q&A: 0.5 hours
-2. Mini-Project: Yelp Regression: 3.5 hours
-3. Oosterhout Dataset: Multiple Regression: 3 hours
-4. Day-reflection: 0.5 hours
+0. Q&A: 0.5 hours
+1. Mini-Project: Yelp Regression: 4 hours
+2. Oosterhout Dataset: Multiple Regression: 3 hours
 
 ## Questions or issues?
-If you have any questions or issues regarding the course material after the Q&A, please first ask your peers or ask us if you can't figure it out together!
-
+If you have any questions or issues regarding the course material, please first ask your peers or ask us if you can't figure it out together!
 
 Good luck!
 
-## 0) Stand-up
-We start by hosting a stand-up. Form groups of ~ 5 and run on-another through the following points:
-- What progress have you made up since last datalab?
-- What progress do you anticipate to make today?
-- What impediments are you facing or expecting?
-- With what could you use help or support?
-
-**Open your worklog and plan your day informed by the stand-up and today's schedule**
-
-## 1) Q & A
+## 0) Q & A
 We start by briefly reflecting on what we learned about supervised vs. unsupervised learning and about regression algorithms. Do you have any questions? Now is the time to ask them!
 
 
-## 2) Yelp Regression Project
+## 1) Yelp Regression Project
 Now, we're introduced to multiple linear regression; it's time to apply these fundamentals by doing a workshop. Open the [Basics of Machine Learning course](https://www.codecademy.com/learn/machine-learning) on Codecademy and complete the module: **Yelp Regression Project**, specifically:
 - Info: Yelp Rating Predictor Cumulative Project
 - Article: Yelp Dataset Terms of Use
 
 
-## 3) Oosterhout Dataset: Multiple Regression
+## 2) Oosterhout Dataset: Multiple Regression
 ### Document your code
 Write your argumentation down in a in-line comments; and for every line of code: write an in-line comment explaining what the line of code does exactly. Figure 1. below is a good demonstration of documented code.
 <figure>
@@ -58,7 +46,7 @@ The [example script](https://github.com/BredaUniversityADSAI/ADS-AI/tree/main/do
 4. Test, re-fit and validate your model. Create a new model on a new line for every re-fit. Keep track of any predictor variables you exclude from the full model when re-fitting. Motivate why you are excluding; or including new variables using in-line comments.
 5. Continue till 16:00, or stop when you feel you can no longer improve the model.Then save your file to your GitHub repository.
 
-## 4) Day-reflection
+## 2) In-Class Discussion
 At 16:30, there's a meeting you're encouraged to take part in to ask questions and to discuss our progress and reflect on today activities.
 
 ## Up Next!

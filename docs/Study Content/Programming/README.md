@@ -2,6 +2,6 @@
 sort: 1
 ---
 
-# Introduction to Programming with Python
+# Programming in Python
 
 {% include list.liquid all=true %}

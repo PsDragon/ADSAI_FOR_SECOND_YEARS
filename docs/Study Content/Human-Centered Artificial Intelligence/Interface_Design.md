@@ -3,36 +3,35 @@ sort: 4
 ---
 
 # Interface Design
-After covering the basics of HCAI, we're going to zoom in at interface design: the means, or medium, by which users communicate with computerized devices. We're also going to look into flow theory, engagement and immersion! Finally, we're going to continue working on our wireframe prototype, specifically finishing the vertical slice of our wireframe prototype in proto.io!
+After covering the basics of interaction design, we're going to look into interface design: the means by which users communicate with computerized devices. We're also going to look into flow theory and cover prototyping techniques, specifically you're going to learn how to build a wireframe prototype!
 
-## Learning Objectives:
-After this module, you'll gain a basic understanding and learn how to apply:
-1. Flow-Theory;
-2. User Interface Design;
-3. Prototyping a vertical slice with proto.io.
+## 0) Learning Objectives:
+After this module you'll gain a basic understanding and learn how to apply:
+1. Flow;
+2. Interface Design;
+3. Prototyping Techniques.
 
 Table of contents:
-1. Flow: 1 hour
-2. User Interface Design: 1 hour
-3. Prototyping: Create a vertical slice: 4 hours
-4. Update learning- & worklog: 0.5 hours
+1. Flow: .5 hours
+2. User Interface Design: .5 hours
+3. Proto.io Tutorial: 1 hour
+4. Defining User Stories: 1 hour
+5. Prototyping: Building a wireframe prototype: 4 hours
 
-**Now, open your worklog and plan the different tasks for today in there!**
+**Now, open your worklog and plan your day informed by the stand-up and today's schedule**
 
-## Questions?
-
-If you have questions or issues regarding the course material, please post a message on the 'Q&A' channel in Teams. The channel will be monitored by mentors but also please help your peers if you have the answer to their question. 
+## Questions or issues?
+If you have any questions or issues regarding the course material, please first ask your peers or ask us in the Q&A in Datalab!
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #8a6d3b;; background-color: #fcf8e3; border-color: #faebcc;">
-Tip: Note down any important HCAI related questions you might have! You can ask them during Datalab in person to the responsible lecturer for this module: Bram Heijligers.
+Tip: Note down any important questions you might have!
  </div>
 
 Good luck!
 
 
-
 ## 1) Flow
-In positive psychology, [flow](https://www.sciencedirect.com/topics/psychology/flow-theory) is considered to a mental state in which a person is fully immersed; fully focussed; fully involved and fully enjoying a given activity. Essentially, it's a form of complete absorbtion into the activity: all that matters and all the mind is involved in is the activity and it's relevant elements. That's what it means to "be in the flow"!
+In positive psychology, [flow](https://www.sciencedirect.com/topics/psychology/flow-theory) is considered to a mental state in which a person is fully immersed; fully focussed; fully involved and fully enjoying a given activity. Essentially, it's a form of complete absorbtion into the activity: all that matters and all the mind is involved in is the activity and it's relevant elements. That's what it means to be in the flow!
 
 **Do the full LinkedIn Learning course below and save the certificate to your github and evidence it in your learning- and worklog**
 
@@ -41,20 +40,8 @@ In positive psychology, [flow](https://www.sciencedirect.com/topics/psychology/f
 **Did you do the full course already? Make sure to get the certificate an upload it to GitHub and evidence it in both your worklog and learning log!**
 
 ## 2) User Interface Design
-**An interface is essentially a means of interaction** between two objects: two stars inferfacing with each other using gravity or a person; or user, and a computer interfacing with one another using some computerized device to exchange information. A User Interface (UI) can be: 
-- low-fidelity like controlling a electricity generator with some buttons; 
-- medium-fidelity like a keyboard and a programming IDE where one has to literally insert and verbalize the commands;
-- or high-fidelity where the user is guided through the functionality the computerized environment provides like a fancy smartphone app or virtual game! 
-
-Note that fidelity is a measure of the quality of the interaction; and UX in extension. Visual fidelity will for most people immeditately spring to mind but it is a component; usually the most important one overall but there are many other means of interaction: 
-
-- audio;
-- haptic;
-- movement; 
-- etc. 
-
-There's more ofcourse; it's related to our sense but usually smell isn't incorperated so let's not deviate and limit ourselfs to the aformentoined 4. And it's not just the type of interaction but also how interaction takes place (timing, conditions for triggering, consequent effects etc.) are equally important.
-Now that we know what a User Inferface (UI) is for and howit facilitates interaction, let's dive deeper into how we can design one for our application!
+**An interface is essentially a means of interaction** between two objects: two stars inferfacing with eachother using gravity or a person; or user, and a computer interfacing with one another using some computerized device. A User Interface (UI) can be low-fidelity like controlling a electricity generator with some buttons, medium-fidelity like a keyboard and a programming IDE where one has to literally insert and verbalize the commands, or high-fidelity where the user is guided through the functionality the computerized environment provides like a fancy smartphone app or virtual game!
+Now that we know what a user inferface is, let's dive deeper into how we can design one!
 
 **Do the full LinkedIn Learning course below and save the certificate to your github and evidence it in your learning- and worklog**
 
@@ -64,36 +51,51 @@ Now that we know what a User Inferface (UI) is for and howit facilitates interac
 
 Want more information? Here's a [good article with some concise universal guidelines!](https://www.interaction-design.org/literature/topics/ui-design)
 
-## 4) Prototyping: Create a horizontal slice
-Now, use the skills you learned so far to create a horizontal slice of the full application from start to finish! Make sure to include the screen(s) where you computer vision algorithm is actively used in Proto.io. So for the beer bottle scanner app, this would just be the camera and what the user can do there; which user stories are connected to using that feature?
+## 3) Proto: making a wireframe prototype
+[Look at the intro video of Proto.io](https://support.proto.io/hc/en-us/articles/220425988-Introduction-to-Proto-io-6), create a [user account](https://proto.io/en/signup/) and install the latest version of the software: Proto.io 6!
 
-Run through your horizontal slice, how does it feel? Make some notes on your different versions in your Block C Notes - Y1C_2022-23_ADSAI if you iterate on them; what works and what not? How do you iterate on them? Maybe you want to finalize your wireframe already as much as possible? Add audio effects if you're feeling fancy, it's a lot of fun :p
+Then watch the following videos and follow the instructions to get to know how to use the Proto.io application! It's really quite intuitive; as is to be expected of a design application!
+<iframe src="https://player.vimeo.com/video/180154545?h=160768ae29" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/180154545">Proto.io Essentials, Episode 1</a> from <a href="https://vimeo.com/protoio">Proto.io</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
+<iframe src="https://player.vimeo.com/video/180284484?h=e40946b73a" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/180284484">Proto.io Essentials, Episode 2</a> from <a href="https://vimeo.com/protoio">Proto.io</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-**Save your Wireframe Prototype to Github by exporting is a .zip file, name it 'HCAI_Wireframe_[NameOfApplication]_[StudentName]' (if you didn't do so already) and note what your did in your work- and learning log; and link your .zip file as evidence.**
+<iframe src="https://player.vimeo.com/video/180290210?h=1268c31048" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/180290210">Proto.io Essentials, Episode 3</a> from <a href="https://vimeo.com/protoio">Proto.io</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-## 5) Prepare you learning log and worklog for the feedback session tomorrow!
+Now that we have come to grips with creating a wireframe prototype using Proto.io, we're going to design a vertical slice for our own computer vision algorithm! Tomorrow in class, we're going to demonstrate our vertical slice prototype to our classmates and gather feedback! For that we're first going to define what would make up our vertical slice using **user stories** after which we are going to build that part using Proto.io!
 
-### Done early? 
-Take a look at your project proposal presentation, which slides can you already fill-in and which do you need to update? Feel like going ahead with designing? Feel free to do so, just design the rest of your app at will and embellish it! You can also look into some of the resources offered over the last couple of days to see if you can further substantiate your design; maybe you want to include some more advance metrics like crowdsourcing or quantified self aspects? You can find link to extra information in the [HCAI Fundamentals & Applications Powerpoint](https://github.com/BredaUniversityADSAI/ADS-AI/blob/cbea9fe9290a5512a2ed59137ff6791ec232ddcc/docs/Study%20Content/Human-Centered%20Artificial%20Intelligence/Assets/HCAI%20Fundamentals%20and%20Applications.pptx)! 
-Alternatively, you could start with Monday's material or work on other parts of the creative brief!
+A vertical slice is essentially the core of your application prototyped and only that. For you that will mean that you design the interaction around how you are going to use the deep learning algorithm which is going to do the computer vision magic.
 
-## Datalab Preparation Checklist:
-- [ ] Datalab Preparation 1: Certificate of LinkedIn Learning Course - The power of flow in interaction design from Interaction Design: Flow by Diane Cronenwett
-- [ ] Datalab Preparation 2: Certificate of LinkedIn Learning Course - Introducing the interface from Interaction Design: Interface by Diane Cronenwett
-- [ ] Datalab Preparation 3: Create a Horizontal slice in Proto.io
+The following video will explain this concept in more detail!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jQg27pFGmWA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+So, we already made the algorithm which contains our core functionality and the database and actual logic/software architecture creating is something we don't do in this block, but the UI is something we are going to make for our application. To start making the UI, we need to know what the user needs to do, which is where user stories come in.
+
+Watch following video:
+
+<div style="position:relative;height:0;padding-bottom:56.25%"><iframe width="640" height="360" src="https://www.linkedin.com/learning/embed/software-design-developing-effective-requirements/user-stories?autoplay=false&claim=AQEdMXouytUZwgAAAX2AJ9-QmZzRCVyggq0_gN4OsER1UeDvyb5vFXysEBbnj6yt4EIp7yyj-OKCujqvYam9qXfkZQ-mElXZwAN8um3FRffnKPRW07gamB8f41ZYCfz4tfHrepnMK2V_w0JA8gjvBfYeqnbzM7SabbIV_vAM6qYV2hS4AwSyMoA8CuXJGvSd8G-nwe0tigTADllj-jyPOtf7WqWeeg9dt5Jkt0OSiZ8Ue9T_yQ-iDzGKZArn1o9vNPTnNYYPzvgHxWtMe1FnF7LZ6dz9eqBmEqf8O4lYLMFKJOAB8PBLgty5DqH03DNikHgNo5jmw2Um_VV6D8E-fpgEn9McdPm9Pg-xm3XYqw_kje8Wz7SWgoxOU1hL3NLUsCcwsLm1e_diDmqNTPPI265PXEVNvRX_dTloFPVszs6-CdScGS0kzNtdrQsdSkQKNU8hhnkxJa30PjqxUuht1Ea2bti3ToKoz-5xxX_HScFTcqZ0m0t-yXY4smGcUEiUg24iPvfuTWajxdAesd7VYPJb5KrHG3TiLbXBvkU9tq4yXPz5qobW1LDUvIfuyViPNSolyI6OwHDhp3nLVTFfY63K6uoGPeGevNt3CV47mgeYVetj0vaHOKJuJWrqBlYyt9ypazXKiWUd7kMy6cm6fH1juEvADa5ouLzsw62LIurCJ44obFtVwrnjn2pciMq3hvQd_miKrlS7j9Fk6WPUmlPXAk19AJYyhHJTzFez52syx_xa_hM&lipi=urn%3Ali%3Apage%3Ad_learning_content%3BrPd%2FRTAHQxifYD2luO6XRA%3D%3D&licu" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true" frameborder="0" style="position:absolute;width:100%;height:100%;left:0"></iframe></div><p><strong><a href="https://www.linkedin.com/learning/software-design-developing-effective-requirements/user-stories?trk=embed_lil">User-stories</a></strong> from <strong><a href="https://www.linkedin.com/learning/software-design-developing-effective-requirements?trk=embed_lil">Software Design: Developing Effective Requirements</a></strong> by <strong><a href="https://www.linkedin.com/learning/instructors/neelam-dwivedi?trk=embed_lil">Neelam Dwivedi</a></strong></p>
+
+So, say I have a beer label scanning algorithm, then I want to just build a prototype screen of how the user would see a beer bottle, what information he has, what can he do with that core functionality? My user might be able to click on a pop-up which automatically google that specific beer or brings him to some library of beers so I can get more information. Or I can save the beer, and add to my library of beers I consumed; with that I may be able to give it a review containing a score, a description and a taste profile. And every time I scan that beer again, those interaction options will pop-up.
+So, as a user I:
+- can scan beer bottle labels;
+- can save the label;
+- can review the beer *by assigning a score, description and taste profile*
+
+Now, open your design document, create a section called 'User Stories' and start creating your own user stories. Tomorrow in class, we're going to demonstrate our vertical slice prototype to our classmates and gather feedback! So make sure to finish it before the end of the day so you can do some user tests(peer reviews in this case) tomorrow!
+
+**Upload your document to Github!**
 
 ## Next up!
-Coming Datalab, we will look at potential disruptive technology risks for our app and use-case. Also you'll have your feedback sessions so please be prepared!
-
-Next Wednesday, we will user test our vertical slice prototypes by peer-reviewing them! After that we're going to do a very magical Wizzard of Oz workshop, and ofcourse it'll be an opportunity to ask any questions you might have!
+Coming Datalab we will user test our vertical slice prototypes by peer-reviewing them! After that we're going to do a very magical Wizzard of Oz workshop and ofcourse it'll be an opportunity to ask any questions you might have!
 
 
-# Resources
-## Recommend Literature:
+## Resources
+###Recommend Literature:
 −	[Interaction Design: beyond human-computer interaction](https://login.proxy1.dom1.nhtv.nl/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cat01829a&AN=buas.303541695&site=eds-live)   
 −	[UX Fundamentals for Non-UX Professionals : User Experience Principles for Managers, Writers, Designers, and Developers](https://login.proxy1.dom1.nhtv.nl/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=edsebk&AN=1892077&site=eds-live)
 
-## Further Reading:
+###Further Reading:
 −	[Designing with Data](http://shop.oreilly.com/product/0636920026228.do)
 −	[The Design of Everyday Things, Donald A. Norman](https://login.proxy1.dom1.nhtv.nl/login?url=https://search.ebscohost.com/login.aspx?direct=true&db=cat01829a&AN=buas.393706974&site=eds-live)

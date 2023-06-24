@@ -1,258 +1,163 @@
 # Block A - Business Understanding
 
-## General Information
+Each of the 8 weeks has a fixed structure : on Monday, Wednesday and Thursday you work individually on the development of basic skills, which are needed to execute the DataLab assignments. Kindly follow the table of content below, this will guide you through what is expected of you on a daily basis.
 
-Each of the seven/eight weeks has a fixed structure: on Monday, Wednesday and Thursday you work individually on the development of basic skills, which are needed to execute the DataLab assignments.
+Project Timeline :
 
-### Meet the Staff Members
+Week 1-2: [Digital Transformation & Artificial Intelligence](#week-1--digital-transformation--artificial-intelligence)
 
-| Name   |  Availability |  Mentor Group | Email  | Subject  |
-|---|---|---|---|---|
-| Dean van Aswegen (Lecturer), MSc. <img src="./DeanProfile.jpg" alt="Dean van Aswegen profile picture" width="200"/>| Mon, Tues, Wed, Thur, Fri  |  Block A, Group 1 (1FAI-01), Year 1 | aswegen.d@buas.nl | Data Science and AI | 
-| Alican Noyan (Lecturer), PhD.<img src="./AlicanProfile.jpg" alt="Alican Noyan profile picture" width="200"/>|  Mon, Wed, Thu, Fri  | Block A, Group 2 (1FAI-04), Year 1  |  noyan.a@buas.nl | Data Science |
-| Gilmara Merrill (Lecturer), MSc. <img src="./GilmaraProfile.png" alt="Gilmara Merrill profile picture" width="200"/> | Wed, Thu, Fri | Block A, Group 3 (1FAI-05), Year 1 | merrill.g@buas.nl | Digital Transformation & Change Management |
-| Irene van Blerck (Lecturer), MSc. <img src="./IreneProfile.jpg" alt="Irene van Blerck profile picture" width="200"/>   |  Tue, Wed, Thu, Fri | Block A, Group 4 (1FAI-02), Year 1 |  blerck.i@buas.nl | Responsible AI, Computer vision |
-| Bram Heijligers (Lecturer), MSc. <img src="./BramProfile.jpg" alt="Bram Heijligers profile picture" width="200"/> |  Wed, Thur, Fri | Block A, Group 5 (1FAI-03), Year 1  | heijligers.b@buas.nl | Data Science |
-| Zhanna Kozlova (Lecturer), MA. <img src="./ZhannaProfile.jpg" alt="Zhanna Kozlova profile picture" width="200"/>  |   |  Block A, Group 5 (1FAI-03), Year 1 | kozlova.z@buas.nl  |   
-| Nitin Bhushan (Lecturer), PhD.  <img src="./NitinProfile.jpg" alt="Nitin Bhushan profile picture" width="200"/>  |  Mon, Wed, Thu, Fri  | Block A, Group 1, Year 2 | bhushan.n@buas.nl | Data Science and AI  |
-| Bert Heesakkers (Lecturer), MSc. <img src="./BertProfile.png" alt="Bert Heesakkers profile picture" width="200"/> | NA | Workshops | heesakkers.b@buas.nl |   |
-| Frank Peters (Program manager), PhD. <img src="./FrankProfile.jpeg" alt="Frank Peters profile picture" width="200"/> | Mon, Tue, Wed, Thu |  NA | peters.f@buas.nl |   |
+Week 3-5: [Data Science](#week-3--data-science)
 
-### DataLab Attendance & Preparation
+Week 6-8: [Programming in Python](#week-6--programming-in-python)
 
-Regular attendance and punctuality in every DataLab is required of each student (by default from 9:00 to 17:00). A student who has incurred absences of more than two DataLab sessions without a valid reason throughout the block shall not be given credit for the ILO 1.3.
+# Week 1 : Digital Transformation & Artificial Intelligence
 
-A student is considered late when they are not yet present during the Standup session, and until the fifteenth minute from the start of DataLab (9:15) Two instances of lateness are counted as one absence.
+## Monday
+- [Foundations of AI (1): Philosophy, and history of AI](../../Study%20Content/Artificial%20Intelligence/FoundationsOfAI1.html)
+- [Turing Test & Chatbots (1): Article](../../Study%20Content/Artificial%20Intelligence/TuringTestChatbots1.html)
 
-In case of absence, the student needs to fill in the 'DataLab Absence' [form](https://adsai.buas.nl/Contact%20Us/DataLabAttendance.html) in a timely manner (before 9:00), and subsequently proposes and completes activities that are acceptable alternatives to the in-class learning activities. For more details, contact your mentor.
+## Tuesday
+- [AI in Science Fiction (1): Minority Report & Outline](../../Study%20Content/Artificial%20Intelligence/AIInScienceFiction1.html)
 
-*__Good__* excuses to miss DataLab:
+## Wednesday
+- [Scientific writing (1): The structure of a paragraph and rules of writing; Bias-free language ](../../Study%20Content/Digital%20Transformation/Scientific%20writing%201)
 
-- Personal illness
-- Family emergency
-- Death of a loved one
-- Medical appointment
-- Public transportation issue
-- Car (or Other) accident
-- Etc.
+## Thursday
+- [Foundations of AI (2): Symbolic/non-symbolic AI & Intelligent agents](../../Study%20Content/Artificial%20Intelligence/FoundationsOfAI2.html)
 
-*__Bad__* excuses to miss DataLab:
+## Friday
+- [Turing Test & Chatbots (2): Discussion & Turing Test](../../Study%20Content/Artificial%20Intelligence/TuringTestChatbots2.html)
 
-- Oversleeping
-- Being hangover
-- Having no babysitter for your rabbit, dog, cat, etc.
-- Boyband breakups and/or related drama
-- A birthday party for a four-legged pal
-- Having no clean underwear to put on
-- Going to the beach because a doctor said that you needed more vitamin D
-- The universe telling you to take a day off
-- Etc.
 
-The DataLab preparation exercises listed on GitHub Classrooms should be uploaded to your personal GitHub page before the start of the corresponding DataLab session.
+# Week 2 : Digital Transformation & Artificial Intelligence
 
-### Questions?
+## Monday
+- [AI for Business (1): Introduction into application of AI in businesses & Risks and benefits of AI](../../Study%20Content/Digital%20Transformation/AIForBusiness1.html)
 
-If you have questions or issues regarding the course material, please fill out the 'Ask me Anything?' [form](https://adsai.buas.nl/Contact%20Us/AskMeAnything.html). A member of our teaching staff will respond as soon as possible.
 
-Kindly follow the Project Timeline below, this will guide you through what is expected of you on a daily basis.
+## Tuesday
+- [AI in Science Fiction (3): Quizzes on Scientific writing. Presentations on the first draft of the report](../../Study%20Content/Digital%20Transformation/AI%20in%20Science%20Fiction%203.html)
 
-***
 
-## Project Based Learning - Creative Brief
+## Wednesday
+- [Scientific writing (2): Citation. Mechanics of style of effective writing](../../Study%20Content/Digital%20Transformation/Scientific%20writing%202.html)
 
-In Block A, you will start with your journey into the wonderful world of Artificial Intelligence and Data Science  :rainbow: :computer:
+## Thursday
+- [AI for Business (2): Application of AI by businesses](../../Study%20Content/Digital%20Transformation/AIForBusiness2.html)
 
-The block is divided into two phases:
 
-<img src="./BlockAFigure.png" alt="Block A, Year 1, Overview" width="700"/>
+## Friday
+- [AI in Science Fiction (4): Quiz on Scientific writing. Q&A session on the report. ](../../Study%20Content/Digital%20Transformation/AI%20in%20Science%20Fiction%204.html)
 
-*Figure 1. Overview Block A, Year 1.*
 
-### 1. Foundations of AI (Week 1-3)
+# Week 3 : Data Science
 
-In the first three weeks of Block A, you will acquire foundational knowledge and understanding of the theories, principles, methods, and techniques related to the field of AI. For example, you will be made familiar with the philosophy, history, and taxonomy of AI, among others, by analysing the popular science fiction movie Minority Report. In addition, we will teach you essential soft skills, such as presenting and citing sources.
-
-In DataLab 2, Week 3, you are required to give a 7-minute presentation, where you identify, and describe an AI topic in this movie, and place it within the Taxonomy of AI. Furthermore, you will need to evaluate the feasibility of the AI topic by critically assessing its possible application(s) within a real-life (business) setting. Lastly, in order to meet the information needs for the 'AI in Science Fiction' presentation, you will need to acquire, evaluate, and use information from various popular and/or scholarly sources, such as blogs and scientific journal articles. Finally, for grading purposes, you will need to make a video recording of your presentation.  
-
-#### __Deliverable(s)__
-
-- A 7-minute presentation (make sure to also hand-in the slides!)
-
-### 2. Business Understanding & Reporting | Case Presentation (Week 4-7)
-
-To change the world, we must first be able to measure it. Measuring and quantifying what matters is a crucial component of evaluating progress. In September 2015, all countries agreed to adopt specific goals as targets or indicators for global development. Collectively, these goals are known as the United Nations Sustainable Development Goals (SDGs).
-
-The SGD Hub@BUAs, hereafter the client, has approached you as an aspiring – data professional – to track and explore the global and country-level progress towards the Sustainable Development Goals:
-
-<!-- convert to short description of what the students need to do: above
-
-Below: convert to use-cases page using Irene's template -->
-__1. Define a data-driven research question__
-
-You are expected to frame a data-driven research question related to a sustainable development goal. Questions can range from simple (e.g., how country X is performing on indicator Y) to complex (e.g., how country X is performing on indicator Y, and what are the key variables related to Y). Use SDGTracker to help formulate your problem statement.
-
-__2. Gather accurate data from a relevant source__
-
-You are expected to use the Sustainable Development Goals databank in order to gather the appropriate dataset to answer your research question. Use SDGDataBank to collect the relevant data.
-
-__3. Explore your data__
-
-You are expected to apply Exploratory Data Analysis (EDA) concepts learned in the workshops to your dataset.
-
-__4. Analyse your data and visualize your findings__
-
-You are expected to apply concepts learned in the workshops and [generate appropriate visualisations](https://adsai.buas.nl/Study%20Content/Business%20Intelligence/images/chart_suggestion.jpg), which support your arguments towards answering the research question, in Power BI. Furthermore, you are expected to calculate and interpret at least 1 measure of association such as a correlation coefficient and it's effect size related to your research question.
-
-__5. Provide a solution to your research question with supporting arguments (based on your analysis)__
-
-You are expected to answer your research question with supporting arguments based on the work conducted in the previous DataLabs.
-
-__6. Present your findings to the client__
-
-Presenting your findings is important and requires you to think of an [intuitive user design (guidelines)](https://www.nngroup.com/articles/principles-visual-design/#:~:text=Summary%3A%20The%20principles%20of%20scale,increase%20usability%20when%20applied%20correctly.) to effectively convey your findings to the client. 
-In DataLab 2, Week 7, you are expected to provide a live demo of your dashboard to the client, staff and your peers. Students, staff, and the client will be allowed to vote for the best dashboard.
-
-#### __Deliverable(s)__
-
--  A Power BI dashboard in .pbix-format
--  A 7-minute live demo of the Power BI dashboard
-
-#### __Criteria__
-Please refer to [student template dashboard](https://github.com/BredaUniversityADSAI/ADS-AI/blob/5bf562ad056760e036d9c6d9170de2415dd4b0f6/docs/Study%20Content/DataScience/assets/Templates/DS1_Dashboard_StudentTemplate.pbix) and the Assessment Rubric in Microsoft Teams for more detailed information on grading criteria.
-
-### Challenges 
-
-You are encouraged to get the best out of yourself. Therefore, within the ADS&AI program, we regularly allow you to push yourself further by giving you so-called bronze-silver-gold challenges. By achieving these, you can earn badges for your GitHub page, which mark excellent students: 
-
-![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=bronzemedal) ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=silvermedal) ![badge](https://custom-icon-badges.herokuapp.com/badge/ADS&AI-1x-orange.svg?logo=goldmedal)
-
- <img src="./ChallengesBlockA.png" alt="Challenges, Block A" width="700"/> 
-
-***
-
-# Project Timeline
-
-## Week 1: Introduction to Artificial Intelligence
-
-### Monday
-- [Philosophy AI & GitHub (1)](../../Study%20Content/Artificial%20Intelligence/Week1Day1.html)
-
-### Tuesday
-- [History of AI & GitHub (2)](../../Study%20Content/Artificial%20Intelligence/Week1Day2.html)
-
-### Wednesday
-- [DataLab 1: Minority Report (1) & Information literacy (+ Guest lecture)](../../Study%20Content/Artificial%20Intelligence/Week1Day3.html)
-
-### Thursday
-- [Conference: Artificial Intelligence & The BUAS domains](../../Study%20Content/Artificial%20Intelligence/Week1Day4.html) (Location: BUAS Campus)
-
-### Friday
-- [DataLab 2: Presenting](../../Study%20Content/Artificial%20Intelligence/Week1Day5.html)
-
-## Week 2: Introduction to Artificial Intelligence
-
-### Monday
-- [Intelligent Agents & Conversational AI](../../Study%20Content/Artificial%20Intelligence/Week2Day1.html)
-
-### Tuesday
-- [Taxonomy of AI (1)](../../Study%20Content/Artificial%20Intelligence/Week2Day2.html)
-
-### Wednesday
-- [DataLab 1: The Turing Test (+ Guest lecture)](../../Study%20Content/Artificial%20Intelligence/Week2Day3.html)
-
-### Thursday
-- [Taxonomy of AI (2)](../../Study%20Content/Artificial%20Intelligence/Week2Day4.html)
-
-### Friday
-- [DataLab 2: Feedback (+ In-class workshop)](../../Study%20Content/Artificial%20Intelligence/Week2Day5.html)
-
-## Week 3: Introduction to Artificial Intelligence
-
-### Monday
-- [Taxonomy of AI (3)](../../Study%20Content/Artificial%20Intelligence/Week3Day1.html)
-
-### Tuesday
-- [Risk & Benefits of AI](../../Study%20Content/Artificial%20Intelligence/Week3Day2.html)
-
-### Wednesday
-- [DataLab 1: Minority Report (2) (+ Guest lecture)](../../Study%20Content/Artificial%20Intelligence/Week3Day3.html)
-
-### Thursday
-- [State-of-the-art AI & Minority Report (3)](../../Study%20Content/Artificial%20Intelligence/Week3Day4.html)
-
-### Friday
-- [DataLab 2: 'AI in Science Fiction' presentation](../../Study%20Content/Artificial%20Intelligence/Week3Day5.html)
-
-## Week 4: Introduction to Data Science
-
-### Monday
+## Monday
 - [Quantifying our world into data](https://adsai.buas.nl/Study%20Content/DataScience/Quantifying%20our%20world%20into%20data.html)
+- [Intro to R](https://adsai.buas.nl/Study%20Content/DataScience/IntroToR.html)
 
+## Tuesday
+- [Datalab 00 Overview: SGD Indicators](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_00_SDG_Indicators.html)
 
-### Tuesday
-- [Problem Statements and Research Questions](https://adsai.buas.nl/Study%20Content/DataScience/Problem%20Statements%20and%20Research%20Questions.html)
+## Wednesday
+- [Intro to variables](https://adsai.buas.nl/Study%20Content/DataScience/IntroToVariables.html)
 
-### Wednesday
-- [Datalab 00: SGD Indicators](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_00_SDG_Indicators.html)
+## Thursday
+- [Descriptive Analyses](https://adsai.buas.nl/Study%20Content/DataScience/DescriptiveAnalyses.html)
 
-### Thursday
-- [Intro to variables and data transformation](https://adsai.buas.nl/Study%20Content/DataScience/IntroToVariablesAndDataTransformation.html)
+## Friday
+- [Datalab 01: Exploratory Data Analysis (EDA)](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_01_ExploratoryDataAnalysis.html)
 
-### Friday
-- [Datalab 01: Exploratory Data Analysis (EDA)](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_01_ExploratoryDataAnalysis1.html)
+# Week 4 : Data Science
 
-## Week 5: Introduction to Data Science
+## Monday
+- [Introduction to Probability 1](https://adsai.buas.nl/Study%20Content/DataScience/IntroductionToProbability1.html)
 
-### Monday
-- [Descriptive Analyses and Visualisations 1](https://adsai.buas.nl/Study%20Content/DataScience/DescriptiveAnalysesAndVisualisations1.html)
+## Tuesday
+- [Datalab 02: Findings](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_02_Findings_and_VisualisingDataInR.html)
 
-### Tuesday
-- [Descriptive Analyses and Visualisations 2](https://adsai.buas.nl/Study%20Content/DataScience/DescriptiveAnalysesAndVisualisations2.html)
+## Wednesday
+- [Introduction to Probability 2](https://adsai.buas.nl/Study%20Content/DataScience/IntroductionToProbability2.html)
 
-### Wednesday
-- [Datalab 02: Exploratory Data Analysis (EDA)](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_02_ExploratoryDataAnalysis2.html)
-
-### Thursday
-- [Case Study](https://adsai.buas.nl/Study%20Content/DataScience/Case_Study.html)
-
-### Friday
-- [Datalab 03: Findings & Data Visualisations](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_03_Findings_and_VisualisingData.html)
-
-## Week 6: Introduction to Data Science
-
-### Monday
-- [Variability](https://adsai.buas.nl/Study%20Content/DataScience/Variability.html)
-
-### Tuesday
+## Thursday
 - [Analysing Relationships between Variables](https://adsai.buas.nl/Study%20Content/DataScience/Analysing%20Relationships%20between%20Variables.html)
 
-### Wednesday
-- [Datalab 04 Discussion](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_04_Discussion.html)
+## Friday
+- [Datalab 03 Discussion](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_03_Discussion.html)
 
-### Thursday
+
+
+# Week 5 : Data Science
+
+## Monday
 - [Reporting & visualisation - Overview](https://adsai.buas.nl/Study%20Content/DataScience/ReportingAndVisualisatingData.html)
 
-### Friday
-- [Datalab 05: Presenting & Storytelling with Data](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_05_Presenting%20and%20Storytelling%20with%20Data.html)
+## Tuesday
+- [Datalab 04 Overview: Conclusion & References](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_04_Conclusion.html)
 
-## Week 7: Introduction to Data Science
+## Wednesday
+- [Explanatory Vs Predictive Modelling](https://adsai.buas.nl/Study%20Content/DataScience/Explanatory%20Versus%20Predictive%20Modelling.html)
 
-### Monday
-- [Explanatory Vs Predictive Modelling + Writing a Conclusion](https://adsai.buas.nl/Study%20Content/DataScience/Explanatory%20Versus%20Predictive%20Modelling%20+%20Conclusion.html)
+## Thursday
+- [Block A recap](https://adsai.buas.nl/Study%20Content/DataScience/BlockA_Recap.html)
 
-
-### Tuesday
-- [User-Experience Design in Power BI](https://adsai.buas.nl/Study%20Content/DataScience/User-Experience%20Design%20in%20Power%20BI.html)
-
-
-### Wednesday
-- [Datalab 06: CRISP-DM](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_06_CrispDM.html)
-
-### Thursday
-- [Extra: Advanced Power BI](https://adsai.buas.nl/Study%20Content/DataScience/AdvancedPowerBI.html)
-
-### Friday
-- [Datalab 07: Dashboard Presentation Day](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_07_DashboardPresentationDay.html)
+## Friday
+- [Datalab 05 Overview: Poster Presentation Day](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_05_PosterPresentationDay.html)
 
 
-***
+# Week 6 : Programming in Python
+
+## Monday
+- [Programming: A Primer](https://adsai.buas.nl/Study%20Content/Programming/1.StartingProgramming.html)
+- [Setting up your development environment](https://adsai.buas.nl/Study%20Content/Programming/2.SetupIDE.html)
+- [Python foundation](https://adsai.buas.nl/Study%20Content/Programming/3.Python%20foundations.html)
+
+## Tuesday
+- [Data Lab: Python foundation](https://adsai.buas.nl/Study%20Content/Programming/4.DataLabPR1.html)
+
+## Wednesday
+- [Python data types & data structures](https://adsai.buas.nl/Study%20Content/Programming/5.Python%20data%20types%20and%20data%20structures.html)
+
+
+## Thursday
+- [Python: Pandas](https://adsai.buas.nl/Study%20Content/Programming/6.Getting%20Started%20with%20Pandas.html)
+- [Introduction to Python NumPy](https://adsai.buas.nl/Study%20Content/Programming/7.Python%20Numpy.html)
+
+## Friday
+- [Data Lab: Python Pandas & NumPy](https://adsai.buas.nl/Study%20Content/Programming/8.DataLabPR2.html)
+
+# Week 7 : Programming in Python
+
+## Monday
+
+- [Image Processing in Python](https://adsai.buas.nl/Study%20Content/Programming/9.Python%20Image%20Processing.html)
+
+## Tuesday
+- [Data Lab: Image Steganography](https://adsai.buas.nl/Study%20Content/Programming/10.DataLabPR3.html)
+
+## Wednesday
+- [Advanced Numpy: Broadcasting & Vectorizing](https://adsai.buas.nl/Study%20Content/Programming/11.AdvancedNumpy.html)
+
+## Thursday
+- [Python:Data visualization](https://adsai.buas.nl/Study%20Content/Programming/12.Data%20visualization%20in%20Python.html)
+
+## Friday
+- [Data Lab: Image Steganography](https://adsai.buas.nl/Study%20Content/Programming/13.DataLabPR4.html)
+
+# Week 8 : Programming in Python
+
+## Monday
+- [Python: Coding standards and reproducible data science](https://adsai.buas.nl/Study%20Content/Programming/14.Python%20PEP8.html)
+
+
+## Tuesday
+- [Data Lab: Image Steganography](https://adsai.buas.nl/Study%20Content/Programming/15.DataLabPR5.html)
+
+## Wednesday
+- [Python: Recap of key concepts](https://adsai.buas.nl/Study%20Content/Programming/16.Recap.html)
+
+## Thursday
+- [Python (web) Application development](https://adsai.buas.nl/Study%20Content/Programming/17.Python%20web%20application.html)
+
+## Friday
+- [Data Lab: Image Steganography](https://adsai.buas.nl/Study%20Content/Programming/18.DataLabPR6.html)

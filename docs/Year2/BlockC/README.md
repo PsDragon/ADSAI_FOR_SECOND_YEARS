@@ -127,7 +127,7 @@ Study the following:
 
 **DataLab 1: Regular Expressions**
 
-[<img src="./images/githubbadge.png" alt="GitHub" width="15%"/>](https://github.com/BredaUniversityADSAI/2022-23-Y2-BlockC/tree/main/DataLabs/W1-DL1)
+[<img src="./images/githubbadge.png" alt="GitHub" width="15%"/>](../../Study%20Content/Natural%20Language%20Processing/DataLabs/W1-DL1)
 
 
 After this datalab, you will be able to:
@@ -157,7 +157,7 @@ Study the following:
 
 **DataLab 2: Tweet preprocessing**
 
-[<img src="./images/githubbadge.png" alt="GitHub" width="15%"/>](https://github.com/BredaUniversityADSAI/2022-23-Y2-BlockC/tree/main/DataLabs/W1-DL2)
+[<img src="./images/githubbadge.png" alt="GitHub" width="15%"/>](../../Study%20Content/Natural%20Language%20Processing/DataLabs/W1-DL2)
 
 After this datalab, you will be able to:
 
@@ -186,7 +186,7 @@ Study the following:
 
 **DataLab 1: Naive Bayes**
 
-[<img src="./images/githubbadge.png" alt="GitHub" width="15%"/>](https://github.com/BredaUniversityADSAI/2022-23-Y2-BlockC/blob/main/DataLabs/W2-DL1/W2-DL1-Naive-Bayes-Student-Notebook.ipynb)
+[<img src="./images/githubbadge.png" alt="GitHub" width="15%"/>](../../Study%20Content/Natural%20Language%20Processing/DataLabs/W2-DL1/W2-DL1-Naive-Bayes-Student-Notebook.ipynb)
 
 After this datalab, you will be able to:
 
@@ -204,7 +204,7 @@ Study the following:
 
 **DataLab 2: Logistic regression**
 
-[<img src="./images/githubbadge.png" alt="GitHub" width="15%"/>](https://github.com/BredaUniversityADSAI/2022-23-Y2-BlockC/blob/main/DataLabs/W2-DL2/W2-DL2-Logistic-Regression-Student-Notebook.ipynb)
+[<img src="./images/githubbadge.png" alt="GitHub" width="15%"/>](../../Study%20Content/Natural%20Language%20Processing/DataLabs/W2-DL2/W2-DL2-Logistic-Regression-Student-Notebook.ipynb)
 
 - 10:00 Feedback Session
 - 15:30 Guest Lecture: "A Day in the life of.." by Santiago Villa Cardenas, venue Fe1.016.
@@ -289,7 +289,7 @@ If you are using Keras a lot, I highly suggest you to buy the book [Deep Learnin
 
 **DataLab 2: Embeddings**
 
-[<img src="./images/githubbadge.png" alt="GitHub" width="15%"/>](https://github.com/BredaUniversityADSAI/2022-23-Y2-BlockC/blob/main/DataLabs/W4-DL2/W4-DL2-Embeddings-Student-Notebook.ipynb)
+[<img src="./images/githubbadge.png" alt="GitHub" width="15%"/>](../../Study%20Content/Natural%20Language%20Processing/DataLabs/W4-DL2/W4-DL2-Embeddings-Student-Notebook.ipynb)
 
 After this datalab, you will be able to:
 
@@ -322,7 +322,7 @@ Similary you learned how Transformers worked. In DataLab 2, you will implement a
 
 **DataLab 1: Recurrent Neural Networks**
 
-[<img src="./images/githubbadge.png" alt="GitHub" width="15%"/>](https://github.com/BredaUniversityADSAI/2022-23-Y2-BlockC/blob/main/DataLabs/W5-DL1/W5-DL1-RNNs-Student-Notebook.ipynb)
+[<img src="./images/githubbadge.png" alt="GitHub" width="15%"/>](../../Study%20Content/Natural%20Language%20Processing/DataLabs/W5-DL1/W5-DL1-RNNs-Student-Notebook.ipynb)
 
 After this datalab, you will be able to:
 
@@ -330,7 +330,7 @@ After this datalab, you will be able to:
 
 **DataLab 2: Transformers**
 
-[<img src="./images/githubbadge.png" alt="GitHub" width="15%"/>](https://github.com/BredaUniversityADSAI/2022-23-Y2-BlockC/blob/main/DataLabs/W5-DL2/W5-DL2-Transformers-Student-Notebook.ipynb)
+[<img src="./images/githubbadge.png" alt="GitHub" width="15%"/>](../../Study%20Content/Natural%20Language%20Processing/DataLabs/W5-DL2/W5-DL2-Transformers-Student-Notebook.ipynb)
 
 After this datalab, you will be able to:
 
@@ -351,7 +351,7 @@ After this datalab, you will be able to:
 
 Time for a quiz
 
-[<img src="./images/githubbadge.png" alt="GitHub" width="15%"/>](https://github.com/BredaUniversityADSAI/2022-23-Y2-BlockC/blob/main/SelfStudy/W6-Quiz-Student-Notebook.ipynb)
+[<img src="./images/githubbadge.png" alt="GitHub" width="15%"/>](../../Study%20Content/Natural%20Language%20Processing/SelfStudy/W6-Quiz-Student-Notebook.ipynb)
 
 **DataLab 1: Presentation workshop + Kaggle**
 

@@ -127,7 +127,7 @@ DataLab 2, Goal(s):
 
 Make sure that you completed the independent-study on [Traditional computer vision](../../Study%20Content/ComputerVision/TradDLComputerVision.html) before this DataLab, because the point of the DataLab is to apply what you have learned during the independent-study days.
 
-[Here is the notebook](https://edubuas-my.sharepoint.com/:f:/g/personal/noyan_a_buas_nl/EhLpd_KatBdMt3c3staHUBUBQ8yY9XRRkjqgq-3Ns4EDfg?e=cDzhy2) you will use today.
+[Here is the notebook](../../Study%20Content/ComputerVision/Week 2 DataLab 2 Traditional CV/Week_2_DataLab_2_Traditional_Computer_Vision_student_notebook.ipynb) you will use today.
 
 - [ ] Detect edges and contours
 - [ ] Plot image histograms and apply thresholding
@@ -333,7 +333,7 @@ Evidence in technical report, and integrate in robotic controller & reinforcemen
 - Provides written recommendations for further research, taking into account the client's  business strategy (ILO 2.1 - Good)
 
 ### BUas Ethics Review
-- Fill in [the template](https://github.com/BredaUniversityADSAI/ADS-AI/blob/06638451273822b5dac37395a524ff7e4129dc38/docs/Study%20Content/Research%20Methodology/Assets/BUas%20Research%20Ethics%20Review%20Application%20Form-H.docx). (ILO 2.1 - Poor)
+- Fill in [the template](../../Study%20Content/Research%20Methodology/Assets/BUas%20Research%20Ethics%20Review%20Application%20Form-H.docx). (ILO 2.1 - Poor)
 - [Submit review to Bram and get accepted](mailto:heijligers.b@buas.nl). (ILO 2.1 - Insufficient & Sufficient)
 
 ### Research Data Management Plan
@@ -342,7 +342,7 @@ Evidence in technical report, and integrate in robotic controller & reinforcemen
 - Excecuted procedures ensured adhering to F.A.I.R. principles as demonstrated by your data storage. (ILO 3.1 - Excellent)
 
 ### Codebook
-- Fill in [the template](https://github.com/BredaUniversityADSAI/ADS-AI/blob/06638451273822b5dac37395a524ff7e4129dc38/docs/Study%20Content/Research%20Methodology/Assets/Codebook_Template.md) (ILO 3.1 - Insufficient)
+- Fill in [the template](../../Study%20Content/Research%20Methodology/Assets/Codebook_Template.md) (ILO 3.1 - Insufficient)
 - Meet the criteria set in the template. (ILO 3.1 - Sufficient, ILO 3.2 - Poor)
 
 ***

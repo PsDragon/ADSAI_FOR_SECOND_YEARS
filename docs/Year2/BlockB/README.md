@@ -127,7 +127,7 @@ DataLab 2, Goal(s):
 
 Make sure that you completed the independent-study on [Traditional computer vision](../../Study%20Content/ComputerVision/TradDLComputerVision.html) before this DataLab, because the point of the DataLab is to apply what you have learned during the independent-study days.
 
-[Here is the notebook](../../Study%20Content/ComputerVision/Week 2 DataLab 2 Traditional CV/Week_2_DataLab_2_Traditional_Computer_Vision_student_notebook.ipynb) you will use today.
+[Here is the notebook](../../Study%20Content/ComputerVision/Week_2_DataLab_2_Traditional_Computer_Vision_student_notebook.ipynb) you will use today.
 
 - [ ] Detect edges and contours
 - [ ] Plot image histograms and apply thresholding

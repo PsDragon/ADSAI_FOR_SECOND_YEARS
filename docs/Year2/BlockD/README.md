@@ -23,7 +23,7 @@ Robots are increasingly being used in warehouses to automate the picking and pac
 <img src="./images/WWA-3113-scaled.jpg" alt="Bin Picking" width="50%"/>
 </div>
 
-For more details click [here](https://adsai.buas.nl/Year2/BlockD/Creative%20Brief%20-%20Computer%20Vision.html)
+For more details click [here](../../Year2/BlockD/Creative%20Brief%20-%20Computer%20Vision.html)
 
 ### Option 2: Natural Language Processing 
 
@@ -33,7 +33,7 @@ During emergencies, individuals, news agencies, disaster relief organizations, a
 <img src="./images/emergency.jpeg" alt="emergency.jpeg" width="50%"/> 
 </div>
 
-For more details click [here](https://adsai.buas.nl/Year2/BlockD/Creative%20Brief%20-%20Natural%20Language%20Processing.html)
+For more details click [here](../../Year2/BlockD/Creative%20Brief%20-%20Natural%20Language%20Processing.html)
 
 ## General Project Requirements
 
@@ -128,15 +128,15 @@ This week you will be introduced to the concept of MLOps and the tools and techn
 
 ### Suggested Learning Modules
 
-- [MLOps: Machine Learning Operations](https://adsai.buas.nl/Study%20Content/MLOps%20II/1.%20Introduction%20to%20MLOps.html)
-- [Virtual environments & Package management with Python](https://adsai.buas.nl/Study%20Content/MLOps%20II/2.%20VirtualEnvironmentPackageManagement.html)
-- [Production Ready Code with Python](https://adsai.buas.nl/Study%20Content/MLOps%20II/3.%20CodeFormatting.html)
-- [Working with Azure Devops](https://adsai.buas.nl/Study%20Content/MLOps%20II/4.%20Working%20with%20Azure%20Devops.html)
-- [Production Ready Code Cheat Sheet](https://adsai.buas.nl/Study%20Content/MLOps%20II/PRC%20Cheat%20Sheet.html) 
+- [MLOps: Machine Learning Operations](../../Study%20Content/MLOps%20II/1.%20Introduction%20to%20MLOps.html)
+- [Virtual environments & Package management with Python](../../Study%20Content/MLOps%20II/2.%20VirtualEnvironmentPackageManagement.html)
+- [Production Ready Code with Python](../../Study%20Content/MLOps%20II/3.%20CodeFormatting.html)
+- [Working with Azure Devops](../../Study%20Content/MLOps%20II/4.%20Working%20with%20Azure%20Devops.html)
+- [Production Ready Code Cheat Sheet](../../Study%20Content/MLOps%20II/PRC%20Cheat%20Sheet.html) 
 
 ### Datalabs
 
-- [Datalab 1: Project and Package Planning](https://adsai.buas.nl/Study%20Content/MLOps%20II/5.%20Datalab1.html)
+- [Datalab 1: Project and Package Planning](../../Study%20Content/MLOps%20II/5.%20Datalab1.html)
 
 
 # Week 2-3 - Creating Production Ready Code (ILO 3)

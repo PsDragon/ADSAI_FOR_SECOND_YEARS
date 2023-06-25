@@ -53,7 +53,7 @@ Week 6-8: [Programming in Python](#week-6--programming-in-python)
 # Week 3 : Data Science
 
 ## Monday
-- [Quantifying our world into data](https://adsai.buas.nl/Study%20Content/DataScience/Quantifying%20our%20world%20into%20data.html)
+- [Quantifying our world into data](../../Study%20Content/DataScience/Quantifying%20our%20world%20into%20data.html)
 - [Intro to R](https://adsai.buas.nl/Study%20Content/DataScience/IntroToR.html)
 
 ## Tuesday

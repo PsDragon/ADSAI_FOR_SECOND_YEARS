@@ -123,7 +123,7 @@ think about AI, in particular their attitudes, acceptance, and perceived impact 
 Your final (<mark>group</mark>) deliverable is a [Data Management plan](https://buas.libguides.com/rdm/dmp) which contains:
 - [ ] description of the data collection process (which tools/instruments are used).
 - [ ] description of the data: what is the format (file-type) of the data.
-- [ ] [a codebook describing variables](https://github.com/BredaUniversityADSAI/ADS-AI/blob/f020e08818bb64486e784e2447334fb866ee1df9/docs/Study%20Content/Research%20Methodology/Assets/Codebook_Template.md). 
+- [ ] [a codebook describing variables](../../Study%20Content/Research%20Methodology/Assets/Codebook_Template.md). 
 - [ ] description of data storage protocol: file structure and filenames.
 
 

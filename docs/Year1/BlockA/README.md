@@ -53,111 +53,111 @@ Week 6-8: [Programming in Python](#week-6--programming-in-python)
 # Week 3 : Data Science
 
 ## Monday
-- [Quantifying our world into data](https://adsai.buas.nl/Study%20Content/DataScience/Quantifying%20our%20world%20into%20data.html)
-- [Intro to R](https://adsai.buas.nl/Study%20Content/DataScience/IntroToR.html)
+- [Quantifying our world into data](../../Study%20Content/DataScience/Quantifying%20our%20world%20into%20data.html)
+- [Intro to R](../../Study%20Content/DataScience/IntroToR.html)
 
 ## Tuesday
-- [Datalab 00 Overview: SGD Indicators](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_00_SDG_Indicators.html)
+- [Datalab 00 Overview: SGD Indicators](../../Study%20Content/DataScience/Datalab_00_SDG_Indicators.html)
 
 ## Wednesday
-- [Intro to variables](https://adsai.buas.nl/Study%20Content/DataScience/IntroToVariables.html)
+- [Intro to variables](../../Study%20Content/DataScience/IntroToVariables.html)
 
 ## Thursday
-- [Descriptive Analyses](https://adsai.buas.nl/Study%20Content/DataScience/DescriptiveAnalyses.html)
+- [Descriptive Analyses](../../Study%20Content/DataScience/DescriptiveAnalyses.html)
 
 ## Friday
-- [Datalab 01: Exploratory Data Analysis (EDA)](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_01_ExploratoryDataAnalysis.html)
+- [Datalab 01: Exploratory Data Analysis (EDA)](../../Study%20Content/DataScience/Datalab_01_ExploratoryDataAnalysis.html)
 
 # Week 4 : Data Science
 
 ## Monday
-- [Introduction to Probability 1](https://adsai.buas.nl/Study%20Content/DataScience/IntroductionToProbability1.html)
+- [Introduction to Probability 1](../../Study%20Content/DataScience/IntroductionToProbability1.html)
 
 ## Tuesday
-- [Datalab 02: Findings](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_02_Findings_and_VisualisingDataInR.html)
+- [Datalab 02: Findings](../../Study%20Content/DataScience/Datalab_02_Findings_and_VisualisingDataInR.html)
 
 ## Wednesday
-- [Introduction to Probability 2](https://adsai.buas.nl/Study%20Content/DataScience/IntroductionToProbability2.html)
+- [Introduction to Probability 2](../../Study%20Content/DataScience/IntroductionToProbability2.html)
 
 ## Thursday
-- [Analysing Relationships between Variables](https://adsai.buas.nl/Study%20Content/DataScience/Analysing%20Relationships%20between%20Variables.html)
+- [Analysing Relationships between Variables](../../Study%20Content/DataScience/Analysing%20Relationships%20between%20Variables.html)
 
 ## Friday
-- [Datalab 03 Discussion](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_03_Discussion.html)
+- [Datalab 03 Discussion](../../Study%20Content/DataScience/Datalab_03_Discussion.html)
 
 
 
 # Week 5 : Data Science
 
 ## Monday
-- [Reporting & visualisation - Overview](https://adsai.buas.nl/Study%20Content/DataScience/ReportingAndVisualisatingData.html)
+- [Reporting & visualisation - Overview](../../Study%20Content/DataScience/ReportingAndVisualisatingData.html)
 
 ## Tuesday
-- [Datalab 04 Overview: Conclusion & References](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_04_Conclusion.html)
+- [Datalab 04 Overview: Conclusion & References](../../Study%20Content/DataScience/Datalab_04_Conclusion.html)
 
 ## Wednesday
-- [Explanatory Vs Predictive Modelling](https://adsai.buas.nl/Study%20Content/DataScience/Explanatory%20Versus%20Predictive%20Modelling.html)
+- [Explanatory Vs Predictive Modelling](../../Study%20Content/DataScience/Explanatory%20Versus%20Predictive%20Modelling.html)
 
 ## Thursday
-- [Block A recap](https://adsai.buas.nl/Study%20Content/DataScience/BlockA_Recap.html)
+- [Block A recap](../../Study%20Content/DataScience/BlockA_Recap.html)
 
 ## Friday
-- [Datalab 05 Overview: Poster Presentation Day](https://adsai.buas.nl/Study%20Content/DataScience/Datalab_05_PosterPresentationDay.html)
+- [Datalab 05 Overview: Poster Presentation Day](../../Study%20Content/DataScience/Datalab_05_PosterPresentationDay.html)
 
 
 # Week 6 : Programming in Python
 
 ## Monday
-- [Programming: A Primer](https://adsai.buas.nl/Study%20Content/Programming/1.StartingProgramming.html)
-- [Setting up your development environment](https://adsai.buas.nl/Study%20Content/Programming/2.SetupIDE.html)
-- [Python foundation](https://adsai.buas.nl/Study%20Content/Programming/3.Python%20foundations.html)
+- [Programming: A Primer](../../Study%20Content/Programming/1.StartingProgramming.html)
+- [Setting up your development environment](../../Study%20Content/Programming/2.SetupIDE.html)
+- [Python foundation](../../Study%20Content/Programming/3.Python%20foundations.html)
 
 ## Tuesday
-- [Data Lab: Python foundation](https://adsai.buas.nl/Study%20Content/Programming/4.DataLabPR1.html)
+- [Data Lab: Python foundation](../../Study%20Content/Programming/4.DataLabPR1.html)
 
 ## Wednesday
-- [Python data types & data structures](https://adsai.buas.nl/Study%20Content/Programming/5.Python%20data%20types%20and%20data%20structures.html)
+- [Python data types & data structures](../../Study%20Content/Programming/5.Python%20data%20types%20and%20data%20structures.html)
 
 
 ## Thursday
-- [Python: Pandas](https://adsai.buas.nl/Study%20Content/Programming/6.Getting%20Started%20with%20Pandas.html)
-- [Introduction to Python NumPy](https://adsai.buas.nl/Study%20Content/Programming/7.Python%20Numpy.html)
+- [Python: Pandas](../../Study%20Content/Programming/6.Getting%20Started%20with%20Pandas.html)
+- [Introduction to Python NumPy](../../Study%20Content/Programming/7.Python%20Numpy.html)
 
 ## Friday
-- [Data Lab: Python Pandas & NumPy](https://adsai.buas.nl/Study%20Content/Programming/8.DataLabPR2.html)
+- [Data Lab: Python Pandas & NumPy](../../Study%20Content/Programming/8.DataLabPR2.html)
 
 # Week 7 : Programming in Python
 
 ## Monday
 
-- [Image Processing in Python](https://adsai.buas.nl/Study%20Content/Programming/9.Python%20Image%20Processing.html)
+- [Image Processing in Python](../../Study%20Content/Programming/9.Python%20Image%20Processing.html)
 
 ## Tuesday
-- [Data Lab: Image Steganography](https://adsai.buas.nl/Study%20Content/Programming/10.DataLabPR3.html)
+- [Data Lab: Image Steganography](../../Study%20Content/Programming/10.DataLabPR3.html)
 
 ## Wednesday
-- [Advanced Numpy: Broadcasting & Vectorizing](https://adsai.buas.nl/Study%20Content/Programming/11.AdvancedNumpy.html)
+- [Advanced Numpy: Broadcasting & Vectorizing](../../Study%20Content/Programming/11.AdvancedNumpy.html)
 
 ## Thursday
-- [Python:Data visualization](https://adsai.buas.nl/Study%20Content/Programming/12.Data%20visualization%20in%20Python.html)
+- [Python:Data visualization](../../Study%20Content/Programming/12.Data%20visualization%20in%20Python.html)
 
 ## Friday
-- [Data Lab: Image Steganography](https://adsai.buas.nl/Study%20Content/Programming/13.DataLabPR4.html)
+- [Data Lab: Image Steganography](../../Study%20Content/Programming/13.DataLabPR4.html)
 
 # Week 8 : Programming in Python
 
 ## Monday
-- [Python: Coding standards and reproducible data science](https://adsai.buas.nl/Study%20Content/Programming/14.Python%20PEP8.html)
+- [Python: Coding standards and reproducible data science](../../Study%20Content/Programming/14.Python%20PEP8.html)
 
 
 ## Tuesday
-- [Data Lab: Image Steganography](https://adsai.buas.nl/Study%20Content/Programming/15.DataLabPR5.html)
+- [Data Lab: Image Steganography](../../Study%20Content/Programming/15.DataLabPR5.html)
 
 ## Wednesday
-- [Python: Recap of key concepts](https://adsai.buas.nl/Study%20Content/Programming/16.Recap.html)
+- [Python: Recap of key concepts](../../Study%20Content/Programming/16.Recap.html)
 
 ## Thursday
-- [Python (web) Application development](https://adsai.buas.nl/Study%20Content/Programming/17.Python%20web%20application.html)
+- [Python (web) Application development](../../Study%20Content/Programming/17.Python%20web%20application.html)
 
 ## Friday
-- [Data Lab: Image Steganography](https://adsai.buas.nl/Study%20Content/Programming/18.DataLabPR6.html)
+- [Data Lab: Image Steganography](../../Study%20Content/Programming/18.DataLabPR6.html)

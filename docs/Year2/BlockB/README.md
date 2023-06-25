@@ -24,7 +24,7 @@ Regular attendance and punctuality in every DataLab is required of each student 
 
 A student is considered late when they are not yet present until the fifteenth minute from the start of DataLab (9:15) Two instances of lateness are counted as one absence.
 
-In case of absence, the student needs to fill in the 'DataLab Absence' [form](https://adsai.buas.nl/Contact%20Us/DataLabAttendance.html) in a timely manner (before 9:00), and subsequently proposes and completes activities that are acceptable alternatives to the in-class learning activities. For more details, contact your mentor.
+In case of absence, the student needs to fill in the 'DataLab Absence' [form](../../Contact%20Us/DataLabAttendance.html) in a timely manner (before 9:00), and subsequently proposes and completes activities that are acceptable alternatives to the in-class learning activities. For more details, contact your mentor.
 
 *__Good__* excuses to miss DataLab:
 
@@ -82,16 +82,16 @@ The block starts with a kick-off lecture.
 - <mark>Field trip (WWA): 15th of November, 10:00-12:00 (Further details will follow).</mark>
 - [ICT setup](../../Study%20Content/MLOps/MLOps1.html)
 - [Data collection](../../Study%20Content/ComputerVision/ComputerVisionDataCollection.html)
-- [Robotic Simulation Primer](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/3.%20Robotic%20Simulation%20Primer.html)
-- [Data management](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html)
-- [Cognition workshop](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Perception%20&%20Learning%20-%20Workshop.html): 9:00 - 17:00 on Thursday the 17th of November (Check MyTimetable).
+- [Robotic Simulation Primer](../../Study%20Content/Robotics%20and%20Reinforcement%20Learning/3.%20Robotic%20Simulation%20Primer.html)
+- [Data management](../../Study%20Content/Research%20Methodology/Overview.html)
+- [Cognition workshop](../../Study%20Content/Cognition%20Fundamentals/Perception%20&%20Learning%20-%20Workshop.html): 9:00 - 17:00 on Thursday the 17th of November (Check MyTimetable).
 
 *Ethics and Data Management*
 
 In this block we don't work with humans or animals but with robots which makes our lives much easier! Therefore, we don't need to bother ourselves with a letter of informed consent or a research information letter. For this block we need to use and fill in the following templates: 
-- [BUas Ethics Review](https://adsai.buas.nl/Year2/BlockB/#buas-ethics-review); 
-- [Research Data Management Guide](https://adsai.buas.nl/Year2/BlockB/#research-data-management-plan); 
-- [Codebook](https://adsai.buas.nl/Year2/BlockB/#codebook). 
+- [BUas Ethics Review](../../Year2/BlockB/#buas-ethics-review); 
+- [Research Data Management Guide](../../Year2/BlockB/#research-data-management-plan); 
+- [Codebook](../../Year2/BlockB/#codebook). 
 
 *This is a group deliverable*, so you can all hand-in the same files; and evidence that you did follow through with you Research Data Management Plan & Procedures described in there. Make sure that you contribute to each of these deliverables and are able to evidence this!
 
@@ -105,14 +105,14 @@ DataLab 1, Goal(s):
 - [ ] Create one (1) synthetic image dataset ('easy' object detection task)
 
 DataLab 2, Goal(s):
-- [ ] [Create flowchart of perceptual & learning model for object detection](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Perception%20and%20Learning%20-%20Datalab%20material.html) 
-- [ ] [Create first draft of data management plan, ethics review & codebook](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html)
+- [ ] [Create flowchart of perceptual & learning model for object detection](../../Study%20Content/Cognition%20Fundamentals/Perception%20and%20Learning%20-%20Datalab%20material.html) 
+- [ ] [Create first draft of data management plan, ethics review & codebook](../../Study%20Content/Research%20Methodology/Overview.html)
 
 ### Week 2
 
 - [Data annotation](../../Study%20Content/ComputerVision/ComputerVisionDataAnnotation.html)
-- [Computer vision: Introduction](https://adsai.buas.nl/Study%20Content/ComputerVision/ComputerVisionIntroduction.html)
-- [Traditional computer vision](https://adsai.buas.nl/Study%20Content/ComputerVision/TradDLComputerVision.html)
+- [Computer vision: Introduction](../../Study%20Content/ComputerVision/ComputerVisionIntroduction.html)
+- [Traditional computer vision](../../Study%20Content/ComputerVision/TradDLComputerVision.html)
 
 #### <mark>DataLab (group)</mark>
 
@@ -125,7 +125,7 @@ __Formative feedback I__
 
 DataLab 2, Goal(s): 
 
-Make sure that you completed the independent-study on [Traditional computer vision](https://adsai.buas.nl/Study%20Content/ComputerVision/TradDLComputerVision.html) before this DataLab, because the point of the DataLab is to apply what you have learned during the independent-study days.
+Make sure that you completed the independent-study on [Traditional computer vision](../../Study%20Content/ComputerVision/TradDLComputerVision.html) before this DataLab, because the point of the DataLab is to apply what you have learned during the independent-study days.
 
 [Here is the notebook](https://edubuas-my.sharepoint.com/:f:/g/personal/noyan_a_buas_nl/EhLpd_KatBdMt3c3staHUBUBQ8yY9XRRkjqgq-3Ns4EDfg?e=cDzhy2) you will use today.
 
@@ -162,27 +162,27 @@ In week 4 we will start diving into the world of robotics so that we can eventua
 
 Knowledge Modules:
 
-- [Robotics I: Intro, Applications, and Components](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/4.%20Robotics%20I.html)
-- [Robotics Ib: Co-ordinate Systems, Degrees of Freedom, and Work Envelopes](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/4.1%20Robotics%20Ib.html)
-- [Robotics II: Control Systems](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/5.%20Robotics%20II.html)
-- [Robotics IIb: Practical Examples](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/5.1%20Robotics%20IIb.html)
+- [Robotics I: Intro, Applications, and Components](../../Study%20Content/Robotics%20and%20Reinforcement%20Learning/4.%20Robotics%20I.html)
+- [Robotics Ib: Co-ordinate Systems, Degrees of Freedom, and Work Envelopes](../../Study%20Content/Robotics%20and%20Reinforcement%20Learning/4.1%20Robotics%20Ib.html)
+- [Robotics II: Control Systems](../../Study%20Content/Robotics%20and%20Reinforcement%20Learning/5.%20Robotics%20II.html)
+- [Robotics IIb: Practical Examples](../../Study%20Content/Robotics%20and%20Reinforcement%20Learning/5.1%20Robotics%20IIb.html)
 
 #### <mark>DataLab (individual)</mark>
 
 DataLab 1, Prep and Goal(s):
 
-- [Prep](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/5.2%20Datalab1-Prep.html) 
-- [Robotics IIIa: Robotic Simulation](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/6.%20Robotics%20IIIa.html)
-- [DataLab 1](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/6.1%20Datalab1.html)
+- [Prep](../../Study%20Content/Robotics%20and%20Reinforcement%20Learning/5.2%20Datalab1-Prep.html) 
+- [Robotics IIIa: Robotic Simulation](../../Study%20Content/Robotics%20and%20Reinforcement%20Learning/6.%20Robotics%20IIIa.html)
+- [DataLab 1](../../Study%20Content/Robotics%20and%20Reinforcement%20Learning/6.1%20Datalab1.html)
 
 More Knowledge Modules:
 
-- [Robotics IIc: Advanced Control Concepts](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/6.2%20Robotics%20IIc.html)
+- [Robotics IIc: Advanced Control Concepts](../../Study%20Content/Robotics%20and%20Reinforcement%20Learning/6.2%20Robotics%20IIc.html)
 
 DataLab 2, Prep and Goal(s):
 
-- [Prep](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/6.4%20Datalab2-Prep.html)
-- [DataLab 2](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/6.5%20Datalab2.html)
+- [Prep](../../Study%20Content/Robotics%20and%20Reinforcement%20Learning/6.4%20Datalab2-Prep.html)
+- [DataLab 2](../../Study%20Content/Robotics%20and%20Reinforcement%20Learning/6.5%20Datalab2.html)
 
 __Formative feedback II__
 
@@ -190,26 +190,26 @@ __Formative feedback II__
 
 In week 5 we will take our baseline robot controller to the next level by incorporating our object detection model into the controller. This will enable the robot to detect the boxes and stack them in a more realistic way. We will also start looking at the basics of reinforcement learning and how it can be used to train a robot to perform tasks. 
 
-- [Reinforcement Learning I: Intro and Applications](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/7.%20Reinforcement%20Learning%20I.html)
-- [Reinforcement Learning Ib: Key Concepts and Theory](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/7.%20Reinforcement%20Learning%20Ib.html)
-- [Reinforcement Learning II: Applying Reinforcement Learning](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/8.%20Reinforcement%20Learning%20II.html)
+- [Reinforcement Learning I: Intro and Applications](../../Study%20Content/Robotics%20and%20Reinforcement%20Learning/7.%20Reinforcement%20Learning%20I.html)
+- [Reinforcement Learning Ib: Key Concepts and Theory](../../Study%20Content/Robotics%20and%20Reinforcement%20Learning/7.%20Reinforcement%20Learning%20Ib.html)
+- [Reinforcement Learning II: Applying Reinforcement Learning](../../Study%20Content/Robotics%20and%20Reinforcement%20Learning/8.%20Reinforcement%20Learning%20II.html)
 
 #### <mark>DataLab (individual)</mark>
 
 DataLab 3, Prep and Goal(s):
 
-- [Prep](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/9.%20Datalab3-Prep.html)
-- [DataLab 3](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/9.1%20Datalab3.html)
+- [Prep](../../Study%20Content/Robotics%20and%20Reinforcement%20Learning/9.%20Datalab3-Prep.html)
+- [DataLab 3](../../Study%20Content/Robotics%20and%20Reinforcement%20Learning/9.1%20Datalab3.html)
 
 
 Thursday the 15th of December: 9:00 - 17:00 in Hs1.033
-- [Cognition workshop: decision-making & action-taking](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Decision-making%20&%20Actions-%20Workshop.html)
+- [Cognition workshop: decision-making & action-taking](../../Study%20Content/Cognition%20Fundamentals/Decision-making%20&%20Actions-%20Workshop.html)
 
 
 DataLab 4, Cognition Fundamentals - Friday the 16th of December:
-- [Prep](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/10.%20Datalab4-Prep.html)
-- [Decision-making & action-taking models for reinfocement learning](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Decision-making%20&%20Actions%20-%20Datalab%20material.html)
-- [Custom RoboSuite Gym Environement](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/10.1%20Datalab4.html)
+- [Prep](../../Study%20Content/Robotics%20and%20Reinforcement%20Learning/10.%20Datalab4-Prep.html)
+- [Decision-making & action-taking models for reinfocement learning](../../Study%20Content/Cognition%20Fundamentals/Decision-making%20&%20Actions%20-%20Datalab%20material.html)
+- [Custom RoboSuite Gym Environement](../../Study%20Content/Robotics%20and%20Reinforcement%20Learning/10.1%20Datalab4.html)
 
 
 ### Week 6
@@ -224,14 +224,14 @@ Catch up on the follwing:
 - Creating the gym environment wrapper for RL (Poor and Insufficient - ILO 4.2)
 
 Work through this knowledge Module:
-- [Reinforcement Learning III: Models and Hyperparameters](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/11.%20Reinforcement%20Learning%20III.html)
+- [Reinforcement Learning III: Models and Hyperparameters](../../Study%20Content/Robotics%20and%20Reinforcement%20Learning/11.%20Reinforcement%20Learning%20III.html)
 
 #### <mark>DataLab (individual)</mark>
 
 DataLab 5, Prep and Goal(s):
 
-- [Prep](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/10.2%20Remote%20Training%20with%20ClearML.html)
-- [DataLab 5](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/11.1%20Datalab5.html)
+- [Prep](../../Study%20Content/Robotics%20and%20Reinforcement%20Learning/10.2%20Remote%20Training%20with%20ClearML.html)
+- [DataLab 5](../../Study%20Content/Robotics%20and%20Reinforcement%20Learning/11.1%20Datalab5.html)
 
 __Formative feedback III (End of Week 6 {THURSDAY})__
 
@@ -243,7 +243,7 @@ DataLab 6, Prep and Goal(s):
 
 Almost there!
 This is the last knowledge module for the block:
-- [Robotics IV: Evaluating Control Algorithm Performance](https://adsai.buas.nl/Study%20Content/Robotics%20and%20Reinforcement%20Learning/12.%20Robotics%20IV.html)
+- [Robotics IV: Evaluating Control Algorithm Performance](../../Study%20Content/Robotics%20and%20Reinforcement%20Learning/12.%20Robotics%20IV.html)
 
 We have now covered the all of the knowledge modules and will spend most of the next two weeks training and evaluating our models. 
 
@@ -352,9 +352,9 @@ Evidence in technical report, and integrate in robotic controller & reinforcemen
 __Group:__
 
 - Two (2) annotated image datasets for an object detection task (ILO 3.1) (included in the computer vision folder of the repository)
-- [BUas Ethics Review](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html#templates)
-- [Research Data Management Plan](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html#templates)
-- [Codebook](https://adsai.buas.nl/Study%20Content/Research%20Methodology/Overview.html#templates)
+- [BUas Ethics Review](../../Study%20Content/Research%20Methodology/Overview.html#templates)
+- [Research Data Management Plan](../../Study%20Content/Research%20Methodology/Overview.html#templates)
+- [Codebook](../../Study%20Content/Research%20Methodology/Overview.html#templates)
 
 __Individual:__
 

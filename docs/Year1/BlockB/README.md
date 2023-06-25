@@ -22,7 +22,7 @@ Please refer to the project brief for more detailed information.
 
 - [Business Intelligence](../../Study%20Content/Business%20Intelligence/BusinessIntelligenceBlockBVersion3.html)
 - [Mathematics](../../Study%20Content/Mathematics%20I/5.%20DataLab2.html)
-- [Machine Learning](https://adsai.buas.nl/Study%20Content/Introduction%20to%20Machine%20Learning/Assignment.html)
+- [Machine Learning](../../Study%20Content/Introduction%20to%20Machine%20Learning/Assignment.html)
 - [Ethics and Legal Frameworks](../../Study%20Content/Digital%20Transformation/Ethics%20&%20Law.html)
 
 # Block Outline
@@ -117,7 +117,7 @@ DAY OFF: CHRISTMAS HOLIDAYS! :D
 # Week 6 : Machine Learning and Mathematics
 
 ## Monday
-[Linear Algebra and Linear models (least squares)](https://adsai.buas.nl/Study%20Content/Mathematics%20I/4.%20Linear%20Algebra%20and%20(linear)%20Regressions.html)
+[Linear Algebra and Linear models (least squares)](../../Study%20Content/Mathematics%20I/4.%20Linear%20Algebra%20and%20(linear)%20Regressions.html)
 
 ## Tuesday
 [DataLab: Normal equations for linear regression](../../Study%20Content/Mathematics%20I/5.%20DataLab2.html)
@@ -126,7 +126,7 @@ DAY OFF: CHRISTMAS HOLIDAYS! :D
 [Decision Trees](../../Study%20Content/Introduction%20to%20Machine%20Learning/DecisionTrees.html)
 
 ## Thursday
-[Supervised Learning: a Recap](https://adsai.buas.nl/Study%20Content/Introduction%20to%20Machine%20Learning/SupervisedLearningRecap.html)
+[Supervised Learning: a Recap](../../Study%20Content/Introduction%20to%20Machine%20Learning/SupervisedLearningRecap.html)
 
 ## Friday
 - [DataLab: Classification Algorithms](../../Study%20Content/Introduction%20to%20Machine%20Learning/Datalab01_ClassificationAnalyses.html)

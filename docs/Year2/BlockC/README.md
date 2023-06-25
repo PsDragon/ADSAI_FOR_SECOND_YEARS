@@ -17,7 +17,7 @@ Book pdf: [https://web.stanford.edu/~jurafsky/slp3/ed3book_jan122022.pdf](https:
 2) S. Bird, E. Klein, E. Loper, Natural Language Processing with Python\
 Book website: [https://www.nltk.org/book/](https://www.nltk.org/book/)
 
-3)[Alishahi, A. (2010). Computational modeling of human language acquisition. Synthesis Lectures on Human Language Technologies, 3(1), 1-107.](https://github.com/BredaUniversityADSAI/ADS-AI/blob/d42ffd034a2d1a35752d7c83c30300288a4ae153/docs/Study%20Content/Cognition%20Fundamentals/assets/sources/Computational%20Modeling%20of%20Human%20Language%20Acquisition.pdf)
+3)[Alishahi, A. (2010). Computational modeling of human language acquisition. Synthesis Lectures on Human Language Technologies, 3(1), 1-107.](../../Study%20Content/Cognition%20Fundamentals/assets/sources/Computational%20Modeling%20of%20Human%20Language%20Acquisition.pdf)
 
 ## Staff Members
 
@@ -34,7 +34,7 @@ Regular attendance and punctuality in every DataLab is required of each student 
 
 A student is considered late when they are not yet present until the fifteenth minute from the start of DataLab (9:15). Two instances of lateness are counted as one absence.
 
-In case of absence, the student needs to fill in the 'DataLab Absence' [form](https://adsai.buas.nl/Contact%20Us/DataLabAttendance.html) in a timely manner (before 9:00) and subsequently proposes and completes activities that are acceptable alternatives to the in-class learning activities. For more details, contact your mentor.
+In case of absence, the student needs to fill in the 'DataLab Absence' [form](../../Contact%20Us/DataLabAttendance.html) in a timely manner (before 9:00) and subsequently proposes and completes activities that are acceptable alternatives to the in-class learning activities. For more details, contact your mentor.
 
 *__Good__* excuses to miss DataLab:
 
@@ -221,23 +221,23 @@ Untill now, we've been exploring the basics of natural language processing using
 This phenomena is something which has puzzled scientists for centuries but the advent of computers has brought about a revolution in the field. Cognitive scientist study this phenomena by performing experiments on humans, recording their input as a text or audio file, and then creating a computational model which tries to learn whatever the human subjects learned; the closer the match, the better the model. Since we have only 1 week, making a computational model of language learning itself optional but we are going to explore how it works and how it connects to NLP!
 
 **Self-Study**
-- [Auditory Perception; memory & attention in the context of language/communication](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Auditory%20Perception%20&%20Learning.html)
-- [Cognitive theory of language acquisition #1](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Cognitive%20Models%20of%20Language%20Learning.html)
+- [Auditory Perception; memory & attention in the context of language/communication](../../Study%20Content/Cognition%20Fundamentals/Auditory%20Perception%20&%20Learning.html)
+- [Cognitive theory of language acquisition #1](../../Study%20Content/Cognition%20Fundamentals/Cognitive%20Models%20of%20Language%20Learning.html)
 
 **DataLab 1**
 
 In this datalab session we start of with a recap session where we will review last block's material and what we delivered. During the recap session we will also look at this block's material and what we are supposed to deliver. After which there'll be room for questions, additional explanations and feedback on previous and current work for cognition fundamentals.
-- [Creative Brief: use-cases & requirements](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Cognitive%20Models%20of%20Language%20Learning%20-%20Requirements%20and%20Use-cases.html)
+- [Creative Brief: use-cases & requirements](../../Study%20Content/Cognition%20Fundamentals/Cognitive%20Models%20of%20Language%20Learning%20-%20Requirements%20and%20Use-cases.html)
 
 
 **Self-Study**
-- [Cognitive Theory of Language Acquisition #2](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Language%20Learning%20in%20Dynamic%20Environments.html)
+- [Cognitive Theory of Language Acquisition #2](../../Study%20Content/Cognition%20Fundamentals/Language%20Learning%20in%20Dynamic%20Environments.html)
 
 **DataLab 2**
 
 In this datalab session we start of with a recap session where we will review the material we've learned untill now and connect it to new development in the field of cognition and AI: Transformer networks. After which we'll work on finishing both use-cases and there's time for questions and feedback.
-- [Cognition and Transformer Networks: A step closer?](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Transformer%20Networks%20and%20Cognition.html)
-- [Creative Brief: use-cases & requirements](https://adsai.buas.nl/Study%20Content/Cognition%20Fundamentals/Cognitive%20Models%20of%20Language%20Learning%20-%20Requirements%20and%20Use-cases.html)
+- [Cognition and Transformer Networks: A step closer?](../../Study%20Content/Cognition%20Fundamentals/Transformer%20Networks%20and%20Cognition.html)
+- [Creative Brief: use-cases & requirements](../../Study%20Content/Cognition%20Fundamentals/Cognitive%20Models%20of%20Language%20Learning%20-%20Requirements%20and%20Use-cases.html)
 
 
 ### Week 4
@@ -283,7 +283,7 @@ Study the following:
 From this point on, you will start building language models with Keras. If you need a refresher on Keras, take a look at the following:
 
 - [Introduction to Deep Learning with Keras.](https://app.datacamp.com/learn/courses/introduction-to-deep-learning-with-keras)
-- [Y1C Week 2 material](https://adsai.buas.nl/Study%20Content/DeepLearning/)
+- [Y1C Week 2 material](../../Study%20Content/DeepLearning/)
 
 If you are using Keras a lot, I highly suggest you to buy the book [Deep Learning with Python (2nd Edition)](https://www.manning.com/books/deep-learning-with-python)
 

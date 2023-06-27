@@ -80,7 +80,7 @@ Note: During Weeks 1-2, you will work in a project group, Weeks 3-8 are devoted 
 The block starts with a kick-off lecture. 
 
 - <mark>Field trip (WWA): 15th of November, 10:00-12:00 (Further details will follow).</mark>
-- [ICT setup](../../Study%20Content/MLOps/MLOps1.html)
+- [ICT setup](../../Study%20Content/MLOps/BlockB_2022_2023/MLOps1.html)
 - [Data collection](../../Study%20Content/ComputerVision/ComputerVisionDataCollection.html)
 - [Robotic Simulation Primer](../../Study%20Content/Robotics%20and%20Reinforcement%20Learning/3.%20Robotic%20Simulation%20Primer.html)
 - [Data management](../../Study%20Content/Research%20Methodology/Overview.html)
